@@ -39,3 +39,5 @@ The Wari worshipped the Staff God, a major Andean deity, with some of its oldest
 - The nature of Wari control over the Central Coast is debated: did they politically dominate the region, or did they interact with independent commercial states?
 - The primary drivers of Wari imperial expansion are uncertain, with theories including religious conversion, the spread of agricultural technology, or military conquest.
 - The specific causes of the Wari collapse around 1000 AD are linked to drought, but the exact social and political mechanisms of the decline are still studied.
+
+Source: adapted from "Wari culture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wari_culture

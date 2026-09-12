@@ -74,3 +74,5 @@ Major critiques include:
 *   **Darwinism’s Status**: Popper’s shifting views (metaphysical framework → testable theory with exceptions) fuel ongoing debate on whether natural selection is a tautology, a metaphysical research programme, or a fully empirical theory.
 *   **Source of Ideas**: The extent of Otto Selz’s influence on Popper’s evolutionary epistemology and problem-solving model is debated; Selz’s unpublished work complicates attribution.
 *   **Political Application**: The "paradox of tolerance" is widely cited in law/policy (e.g., banning extremist parties), but the threshold for "intolerance" justifying suppression remains contested.
+
+Source: adapted from "Karl Popper" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Karl_Popper

@@ -41,3 +41,5 @@ Critics also raise accessibility concerns, noting that methods like daily writin
 ## Core elements
 
 Creative writing combines elements such as character, plot, setting, point of view, theme, and voice. These elements interact: characters act within a setting to drive a plot, filtered through a chosen point of view, with voice and style shaping how the story is told.
+
+Source: adapted from "Creative writing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Creative_writing

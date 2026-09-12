@@ -52,3 +52,5 @@ Vincent Smith called him the "Indian Napoleon" for his military genius and empir
 - **Southern campaign's success**: Some scholars argue Samudragupta only reached the Krishna River and was forced to retreat, but the inscription's claim of releasing kings aligns with ancient Indian political ideals of a "righteous conqueror."
 - **Interpretation of "Daivaputra-Shahi-Shahanushahi"**: Scholars debate whether this refers to Kushan princes, Sasanian rulers, or a combination, reflecting complex northwest Indian politics.
 - **Succession**: Official records name Chandragupta II as successor, but a play suggests Ramagupta may have ruled briefly first.
+
+Source: adapted from "Samudragupta" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samudragupta

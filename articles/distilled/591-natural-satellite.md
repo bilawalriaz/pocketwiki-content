@@ -60,3 +60,5 @@ The seven largest moons (>2,500 km) are Ganymede, Callisto, Io, Europa, Titan, M
 - **Exomoon confirmation:** Numerous candidates have been identified (e.g., via transit timing variations), but none have reached statistical confirmation as of 2024.
 - **Interior oceans:** The existence and habitability of subsurface oceans on Europa, Ganymede, Callisto, Titan, and Enceladus are inferred from magnetic and gravity data but await direct verification.
 - **Ring-moon interactions:** The dynamics of Saturn's ring moons and moonlets (e.g., propeller features, F ring shepherds) and the potential past rings of Rhea remain active research areas.
+
+Source: adapted from "Natural satellite" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Natural_satellite

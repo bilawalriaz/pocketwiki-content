@@ -48,3 +48,5 @@ A useful sufficient condition is *finite thickness*: every nonempty set of strin
 With normal text presentation (positive information only), only the finite languages and singletons are identifiable in the limit: regular, context-free, context-sensitive, and primitive recursive families are not. With complete presentation (positive and negative information), the boundary rises sharply: all regular languages, all context-free languages, and primitive recursive languages become identifiable. Adding anomalous text presentations pushes identifiability up to the recursively enumerable languages.
 
 Pure positive information makes most interesting language families unlearnable, while adding negative information collapses the barrier.
+
+Source: adapted from "Language identification in the limit" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Language_identification_in_the_limit

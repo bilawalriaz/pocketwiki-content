@@ -17,3 +17,5 @@ In 1824 Abel proved that no general formula using only arithmetic operations and
 ## Related areas of study
 
 The study of polynomial equations underlies several branches of mathematics. Algebraic number theory examines univariate equations with rational coefficients. Field theory extends these ideas to settings where every element of an enlarged field satisfies some polynomial equation over the base field. Transcendental number theory studies the real numbers that are not roots of any such equation. A Diophantine equation is a polynomial equation, usually in several variables with integer coefficients, for which only integer solutions are sought. Algebraic geometry studies the full solution sets of multivariate polynomial equations in algebraically closed fields. Two equations are equivalent when they share a solution set, so P = Q and P − Q = 0 are the same problem in different form.
+
+Source: adapted from "Algebraic equation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algebraic_equation

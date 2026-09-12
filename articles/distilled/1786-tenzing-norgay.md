@@ -66,3 +66,5 @@ He was married three times. First wife Dawa Phuti died in 1944; their son Nima D
 ## Debates and open questions
 
 Norgay's birthplace is disputed: his autobiography says Nepal, a 1985 interview says his parents were Tibetan but he was born in Nepal, and later accounts (including his son's book) place his birth in Tibet. His exact birth date is unknown; he chose 29 May after the 1953 summit. Whether Norgay deserved a knighthood remains contentious—he was ineligible as a non-British subject, but some allege Nehru blocked it. The question of who reached the summit first was resolved only by Norgay's 1955 autobiography, which stated Hillary stepped first.
+
+Source: adapted from "Tenzing Norgay" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tenzing_Norgay

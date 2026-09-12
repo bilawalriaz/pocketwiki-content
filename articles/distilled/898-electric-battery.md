@@ -62,3 +62,5 @@ Capacity is rated at 20-hour discharge (20 °C). Realized capacity falls with hi
 - **Recycling economics:** Achieving closed-loop material recovery (Li, Co, Ni) at scale to meet regulatory mandates and reduce primary mining.
 - **Resource constraints:** Long-term supply security for lithium, cobalt, nickel, and graphite amid exponential demand growth (2,600–3,562 GWh projected for 2030).
 - **Safety vs. energy density:** Balancing higher voltage/capacity chemistries against flammability and thermal runaway risks in dense packs.
+
+Source: adapted from "Electric battery" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electric_battery

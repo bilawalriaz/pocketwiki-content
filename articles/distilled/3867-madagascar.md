@@ -50,3 +50,5 @@ Madagascar is classified as a least-developed country. Its economy relies on agr
 - The precise timing and nature of the first human settlement are debated, with estimates ranging from 350 BCE to 550 CE.
 - The origins and migration routes of early kingdoms like the Maroserana (Sakalava) are subjects of differing historical interpretations.
 - The impact of the 2009 coup and subsequent political transitions on long-term democratic stability and economic development remains a critical question.
+
+Source: adapted from "Madagascar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Madagascar

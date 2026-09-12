@@ -43,3 +43,5 @@ Traditional culture centers on the homestead, polygamous family structure, and t
 
 ## Debates and open questions
 The primary debate concerns the nature of Eswatini's governance. Pro-democracy activists and international observers criticize the absolute monarchy for prohibiting political parties, suppressing dissent, and failing to implement meaningful reforms. The government maintains that the *tinkhundla* system and traditional structures are the appropriate form of Swazi democracy. The 2021 civil unrest highlighted deep public frustration over political repression, economic inequality, and the king's lavish spending amid widespread poverty. The long-term stability of the monarchy in the face of these pressures remains an open question.
+
+Source: adapted from "Eswatini" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eswatini

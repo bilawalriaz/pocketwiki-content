@@ -12,3 +12,5 @@ When *a* and *b* are both integers and *b* is a multiple of *a*, then *a* is a *
 - **Closure under addition and subtraction.** If *a* and *b* are multiples of *x*, then *a* + *b* and *a* − *b* are also multiples of *x*. Proof: *a* = *m*·*x*, *b* = *n*·*x* ⇒ *a* ± *b* = (*m* ± *n*)·*x*, and *m* ± *n* is an integer.
 
 **Submultiples.** In some texts, *a* is a **submultiple** of *b* when *a* = *b*/*n* for an integer *n* (equivalently, *b* = *n*·*a*). This terminology is also used in metrology. A **unit submultiple** is the quotient of a main unit by an integer, usually a power of 10³. For example, a millimetre is the 1000-fold submultiple of a metre (1 mm = 1 m / 1000). An inch is a 12-fold submultiple of a foot and a 36-fold submultiple of a yard.
+
+Source: adapted from "Multiple (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Multiple_%28mathematics%29

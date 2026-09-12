@@ -50,3 +50,5 @@ The source does not explicitly outline scholarly debates, but it presents ongoin
 - The long-term economic and social impacts of the incomplete capital relocation to Dodoma.
 - The city's vulnerability to climate change, particularly sea-level rise and flooding, and the adequacy of future adaptation measures.
 - The tension between rapid urban growth and infrastructure development, as seen in the slow rollout of internet access and the need for new transport systems like the proposed metro.
+
+Source: adapted from "Dar es Salaam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dar_es_Salaam

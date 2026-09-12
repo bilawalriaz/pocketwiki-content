@@ -43,3 +43,5 @@ The murders occurred during a boom in cheap, mass-circulation newspapers, leadin
 *   **The Letters:** The authenticity of the "Dear Boss" letter and other correspondence is highly disputed; many believe they were journalist hoaxes.
 *   **Identity of the Killer:** Despite over a hundred named suspects and modern forensic attempts, the killer's identity is unknown. DNA studies have been criticized for flawed methodology and inconclusive results.
 *   **The "Torso Killer":** It is debated whether the separate series of dismemberment murders known as the "Thames Mysteries" were committed by the same person as the Ripper.
+
+Source: adapted from "Jack the Ripper" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jack_the_Ripper

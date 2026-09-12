@@ -49,3 +49,5 @@ The economy is shifting from traditional agriculture and animal husbandry toward
 - The historical population of Lhasa is debated, with significant discrepancies between official censuses, historical accounts, and outside estimates, particularly regarding the proportion of Tibetan and non-Tibetan residents.
 - A Tibetan tradition claims Chinese troops invaded and burned the Red Palace after Songtsen Gampo's death in 649 CE. However, this event is not recorded in Chinese annals or Tibetan Dunhuang manuscripts, leading scholars to suggest it may be a later interpolation.
 - The identity of the town "Barantola" on old European maps is uncertain; it is suggested to be Lhasa but may refer to a location in Qinghai province.
+
+Source: adapted from "Lhasa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lhasa

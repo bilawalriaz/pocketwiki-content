@@ -44,3 +44,5 @@ The *Critique* is divided into the "Doctrine of Elements" (Transcendental Aesthe
 - The relationship between the unknowable thing-in-itself and the world of appearance, and whether this leads to an incoherent dualism, is a persistent criticism.
 - The role and coherence of the "Refutation of Idealism" added in the second edition, intended to distinguish Kant's view from subjective idealism, is debated.
 - The extent to which Kant's system successfully avoids the skepticism he sought to overcome is an ongoing philosophical question.
+
+Source: adapted from "Critique of Pure Reason" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Critique_of_Pure_Reason

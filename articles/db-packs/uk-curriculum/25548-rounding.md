@@ -59,3 +59,5 @@ When the fractional part is exactly 0.5, a tie-breaking rule decides direction. 
 ## Standards
 
 Before the 1980s, floating-point rounding was hardware-dependent and inconsistent. IEEE 754 standardized multiple rounding modes with precise definitions, enabling predictable, machine-independent numerics. US weather observations use round-half-up. Floating-point representations distinguish +0 and −0; rounding a negative value to zero may yield −0.
+
+Source: adapted from "Rounding" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rounding

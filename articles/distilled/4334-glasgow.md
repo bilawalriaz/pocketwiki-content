@@ -44,3 +44,5 @@ Glasgow has a profound association football heritage; the world's first internat
 
 ## Debates and Open Questions
 The source notes accusations that the Scottish Office deliberately undermined Glasgow's economy in the post-war period by diverting new industries to other regions and creating new towns to disperse its population. The policy of mass tenement demolition in the mid-20th century is now widely considered short-sighted and wasteful, having destroyed many architecturally significant buildings.
+
+Source: adapted from "Glasgow" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Glasgow

@@ -51,3 +51,5 @@ Kepler considered astrology the counterpart to astronomy but sought to reform it
 - **Reception of his laws**: His laws were not immediately accepted; contemporaries like Galileo ignored them, and astronomers like Maestlin objected to his introduction of physics into astronomy.
 - **Gravity vs. motive force**: Kepler proposed a quasi-spiritual "motive species" from the Sun to explain planetary motion, not a gravitational force. His concept of mutual gravitational attraction between bodies was not extended to a universal theory, which awaited Newton.
 - **Astrology's validity**: Kepler defended astrology against both uncritical acceptance and outright dismissal, seeking a naturalistic basis for its influences.
+
+Source: adapted from "Johannes Kepler" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johannes_Kepler

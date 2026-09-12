@@ -71,3 +71,5 @@ As Fauré aged, his style grew more introspective and harmonically adventurous. 
 ## Debates and Open Questions
 
 Scholars debate the extent to which Fauré’s personal relationships influenced his compositional evolution. While some attribute his creative bursts to his affair with Emma Bardac, others argue that stylistic development was more gradual and internally driven. Additionally, interpretations of his late style vary—some view it as a natural progression toward atonality, while others see it as a unique synthesis of tradition and innovation. The relative neglect of his operas compared to his chamber and vocal works also remains a topic of discussion among musicologists.
+
+Source: adapted from "Gabriel Fauré" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9

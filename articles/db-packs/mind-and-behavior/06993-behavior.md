@@ -27,3 +27,5 @@ Health behavior is the set of beliefs and actions that affect a person's well-be
 Seven lifestyle features are linked to lower long-term morbidity and higher subsequent survival: avoiding snacks, eating breakfast regularly, exercising regularly, maintaining a desirable body weight, moderate alcohol intake, not smoking, and sleeping 7–8 hours per night. Smoking, heavy alcohol use, drug use, poor diet, gaps in primary care, and low screening uptake are significant drivers of poor health.
 
 Two intervention models target these behaviors. The health belief model raises perceived susceptibility to negative outcomes, highlights their severity, and emphasizes benefits while minimizing perceived barriers. The theory of planned behavior uses persuasive messages to shape behavioral, normative, and control beliefs, building intentions that, combined with self-efficacy from past mastery, translate into action.
+
+Source: adapted from "Behavior" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Behavior

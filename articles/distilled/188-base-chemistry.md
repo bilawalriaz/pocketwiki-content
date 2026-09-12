@@ -79,3 +79,5 @@ The number of ionizable OH⁻ ions is also called the **acidity** of the base.
 - **Strongest superbase**: Gas-phase diethynylbenzene dianions (ortho, meta, para) currently hold the record, surpassing LiO⁻; synthesis and measurement remain at the frontier.
 - **Solid-base quantification**: Two methods (benzoic acid titration vs. gaseous NO/CO₂ adsorption) are used; correlation between surface site count and catalytic activity is an active area.
 - **Lewis vs. Brønsted in non-protic media**: Lewis theory covers reactions where no proton transfer occurs (e.g., BF₃ adducts), but operational acidity scales in aprotic solvents are still debated.
+
+Source: adapted from "Base (chemistry)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Base_%28chemistry%29

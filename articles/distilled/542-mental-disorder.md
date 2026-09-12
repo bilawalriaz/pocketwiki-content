@@ -102,3 +102,5 @@ Non-human primate psychopathology studied since mid-20th century. Captive chimpa
 *   **Stigma reduction efficacy:** Methods and outcomes of anti-stigma campaigns are sometimes criticized; stigma remains a major barrier to care and social inclusion.
 *   **Violence prediction:** The specific symptoms (e.g., psychosis subtypes) that confer violence risk independent of socio-demographic/substance factors are debated.
 *   **Animal model validity:** Translational value of induced animal models for human mental disorders is contested on empirical and ethical grounds.
+
+Source: adapted from "Mental disorder" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mental_disorder

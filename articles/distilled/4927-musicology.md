@@ -56,3 +56,5 @@ A PhD is the standard minimum credential for tenure-track professor positions. M
 - The boundaries and definitions of historical musicology are debated, particularly regarding whether its focus is exclusively on Western Art music.
 - The term "new musicology" is contested; some argue its concerns are now mainstream, making the "new" label obsolete.
 - There is a noted polarization between "musicological" and "sociological" approaches within popular music studies.
+
+Source: adapted from "Musicology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Musicology

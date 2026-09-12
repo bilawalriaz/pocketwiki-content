@@ -35,3 +35,5 @@ Reinforced masonry became mandatory in California after the 1933 Long Beach eart
 ## Estimating losses
 
 Earthquake loss estimation expresses damage as a damage ratio, the repair cost divided by the building's replacement value, often called the probable maximum loss. Standardized since ASTM E2026 in 1999, seismic risk assessments combine the probability of various ground motions with the building's vulnerability under them, producing a loss expressed as a percentage of replacement value and used by insurers, owners, and governments to set retrofit priorities.
+
+Source: adapted from "Earthquake engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Earthquake_engineering

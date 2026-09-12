@@ -23,3 +23,5 @@ When the dependence on past history is taken to be linear, the constitutive equa
 The first term is the instantaneous elastic response, governed by **G**₀(***x***). The integral is the memory term: the strain **E** at every past time *t* − *s* is multiplied by a kernel **G**′(***x***, *s***) and integrated from *s* = 0 (the present) back through all of history. The decay of **G**′ with increasing *s* encodes fading memory. For short *s* the kernel is large, so recent strain dominates the stress; for large *s* the kernel is small, so distant strain contributes little.
 
 The same integral structure describes dielectric relaxation, magnetic hysteresis-like effects, viscoelastic fluids and solids, viscoplastic metals, and biological tissues.
+
+Source: adapted from "Materials with memory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Materials_with_memory

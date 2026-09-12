@@ -40,3 +40,5 @@ Calgary hosted the 1988 Winter Olympics, the first in Canada. The Games provided
 - **Indigenous Naming**: There have been ongoing efforts and debates regarding the use and official recognition of Indigenous names for the city, such as Mohkínstsis (Blackfoot) and Wîchîspa Oyade (Stoney Nakoda), including a 2017 application to rename Calgary.
 - **Downtown Revitalization**: The city struggles with high downtown office vacancy rates (20-30%) and is implementing plans for office-to-residential conversions to address the issue.
 - **Infrastructure Maintenance**: The 2024 and 2025 water main failures, attributed to deferred maintenance, have raised critical questions about the management and funding of the city's aging infrastructure.
+
+Source: adapted from "Calgary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Calgary

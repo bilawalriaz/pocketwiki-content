@@ -35,3 +35,5 @@ The statue requires periodic maintenance due to wind, erosion, and lightning str
 
 ## Debates and Open Questions
 The source notes that the statue's design was not static; the initial accepted plan featured Christ holding a globe and cross, which was later changed to the current open-armed pose. The 1998 Pirelli commercial featuring Ronaldo replacing the statue was controversial with the Catholic Church, highlighting ongoing tensions about the use of religious symbols in popular culture.
+
+Source: adapted from "Christ the Redeemer (statue)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Christ_the_Redeemer_%28statue%29

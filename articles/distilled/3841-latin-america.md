@@ -49,3 +49,5 @@ Latin American culture is a synthesis of Indigenous, European, African, and Asia
 - **Racial Identity**: Scholars debate the legacy of colonial racial categories like the *casta* system and the concept of "racial democracy" (e.g., in Brazil), examining how race continues to influence social inequality and political representation.
 - **Economic Model**: There is a persistent debate over the effectiveness of neoliberal economic policies versus state-led development models in addressing the region's chronic inequality and fostering sustainable growth.
 - **Impact of China**: The rapid increase in Chinese trade and investment raises questions about its long-term impact on Latin American economies, sovereignty, and development patterns.
+
+Source: adapted from "Latin America" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Latin_America

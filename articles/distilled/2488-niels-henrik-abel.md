@@ -37,3 +37,5 @@ Abel's work cleared obscurities in analysis and opened new fields. His proof of 
 
 ## Debates and Open Questions
 The source notes that Abel's initial 1821 solution to the quintic was incorrect, and his later proof was published in an abstruse form. His most important theorem, submitted to the French Academy, was misplaced and forgotten until his death, raising questions about how his career might have differed had it been recognized. The text also highlights the scholarly debate over the significance of his European tour, which was viewed as a failure at the time but was crucial for disseminating his work.
+
+Source: adapted from "Niels Henrik Abel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Niels_Henrik_Abel

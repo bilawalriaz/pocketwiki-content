@@ -38,3 +38,5 @@ The same blueprint reappears at smaller scales. Biological molecules such as myo
 ## Open questions
 
 The traditional list of six simple machines is conventional rather than settled. Some scholars argue for joint-based categories rather than elemental devices, and the overlap between machines and living organisms grows closer as molecular biology reveals biological nanomachines that rival engineered ones in complexity.
+
+Source: adapted from "Machine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Machine

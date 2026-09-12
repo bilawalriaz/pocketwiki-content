@@ -47,3 +47,5 @@ Tamar died in 1213 of a "devastating disease." Her death was followed within two
 - **Exact Birth Year**: Sources give either c. 1160 or c. 1166.
 - **Date of Death**: Traditional scholarship places her death in 1213, but some evidence suggests it may have been earlier, in 1207 or 1210.
 - **Burial Place**: The traditional location is the Gelati Monastery, but archaeological searches have not found her grave there. Legends suggest secret burial or reinterment in the Holy Land.
+
+Source: adapted from "Tamar I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tamar_I

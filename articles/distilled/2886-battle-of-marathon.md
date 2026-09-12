@@ -47,3 +47,5 @@ Following their defeat, the Persian fleet attempted to sail around Cape Sounion 
 - **Troop Numbers**: Ancient sources give wildly varying figures for the Persian army (from 200,000 to 600,000). Modern estimates for the Persian infantry range from 20,000 to 100,000, with a consensus around 25,000.
 - **Date of the Battle**: The conventional date is September 12, 490 BC, but it could be August 12 if the Spartan calendar was a month ahead of Athens's.
 - **Herodotus's Account**: While the primary source, some details in Herodotus, like the rotating generalship, are considered problematic or inaccurate by modern historians.
+
+Source: adapted from "Battle of Marathon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Battle_of_Marathon

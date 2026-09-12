@@ -47,3 +47,5 @@ Ontario's culture is shaped by its diverse population and includes major institu
 - The source notes controversy over the **Ring of Fire** mineral deposit in Northern Ontario, specifically whether the province can afford the CAD$2.25 billion cost to build a road to the site, which is valued at CAD$60 billion.
 - The long-term impact of **Regulation 17** (1912), which limited French-language education, and its eventual repeal in 1927 on Franco-Ontarian communities is a point of historical significance.
 - The economic shift away from manufacturing, highlighted by the loss of 300,000 manufacturing jobs from 2003–2013 and competition from low-cost economies, presents an ongoing challenge for the province's economy.
+
+Source: adapted from "Ontario" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ontario

@@ -45,3 +45,5 @@ Béla's foreign policy involved complex alliances and conflicts. He gained and t
 *   The exact number of casualties and the scale of depopulation caused by the Mongol invasion and subsequent famine are debated, though sources agree it was catastrophic.
 *   The degree to which Béla's pre-invasion policies, particularly the settlement of the Cumans, directly contributed to the social unrest and military failure at Mohi is a point of historical analysis.
 *   The long-term effectiveness of his decentralizing reforms (allowing private fortresses and armies) is debated, as they strengthened the nobility at the expense of future royal authority.
+
+Source: adapted from "Béla IV of Hungary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/B%C3%A9la_IV_of_Hungary

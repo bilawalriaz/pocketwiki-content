@@ -43,3 +43,5 @@ William's reign settled the long-standing conflict between the Crown and Parliam
 - **Military Command**: Historians are divided on his qualities as a field commander, with some praising his strategic insight and others criticizing his recklessness and high casualty rates.
 - **Sexuality**: Rumors of homosexual inclinations, fueled by his close relationships with male courtiers like Bentinck and Keppel, are disputed by biographers, with some seeing them as Jacobite propaganda.
 - **Succession and Legacy**: His failure to produce an heir directly led to the Act of Settlement, which secured the Protestant succession but also sowed seeds for future conflict by excluding closer Catholic relatives.
+
+Source: adapted from "William III of England" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_III_of_England

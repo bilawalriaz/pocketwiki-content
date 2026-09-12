@@ -39,3 +39,5 @@ Contemporary art can be at odds with public values, leading to skepticism or rej
 - **Definitional Boundaries:** There is ongoing debate about the precise start date for contemporary art and where it ends, with definitions varying from the 1960s to the present.
 - **Inclusion and Exclusion:** Institutions are criticized for regulating what counts as contemporary art, often excluding outsider art and craft unless they align with specific conceptual values.
 - **Public Legitimacy:** Skeptics argue that public rejection of much contemporary art is a reasonable response, questioning its reliance on theoretical discourse over visual experience.
+
+Source: adapted from "Contemporary art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Contemporary_art

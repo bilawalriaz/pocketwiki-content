@@ -53,3 +53,5 @@ Anthropological studies reveal diverse property systems beyond Western individua
 ## Debates and Open Questions
 
 Scholars debate whether property originates from natural law (Locke), social contract (Hobbes), or custom (Hume). Disagreements persist over intellectual property validity—effort-based theories support it, scarcity-based ones oppose it. The legitimacy of absentee ownership divides libertarians and libertarian socialists. Feminist and postcolonial critics challenge Western property frameworks for marginalizing women and indigenous peoples. Contemporary tensions involve balancing environmental protection with development, digital asset ownership, and reconciling cultural identity with commodification pressures. Whether property enhances freedom or entrenches inequality remains contested across ideological lines.
+
+Source: adapted from "Property" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Property

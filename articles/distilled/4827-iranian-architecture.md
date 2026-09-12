@@ -52,3 +52,5 @@ The Sasanian Empire initiated large-scale domes in Iran. This tradition evolved 
 - The exact chronology and original form of some early Islamic monuments, like the Tarikhaneh Mosque, are not well-documented and remain subjects of scholarly study.
 - The precise functions of certain standalone towers and minarets from the Ghaznavid and Ghurid periods (e.g., the Minaret of Jam) are unclear.
 - The extent of influence between Iranian architecture and neighboring traditions (e.g., Ottoman, Mughal) is an ongoing area of research, particularly regarding the transmission of styles like the Timurid aesthetic.
+
+Source: adapted from "Iranian architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iranian_architecture

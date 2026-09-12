@@ -45,3 +45,5 @@ His later years were marked by paranoia, extravagant spending, and the devastati
 - The extent to which Emperor Wu was personally aware of or influenced by Buddhism, given the cultural exchanges via the Silk Road during his reign.
 - The precise motivations and sequence of events leading to the Crown Prince Ju's revolt, and whether Emperor Wu initially intended to depose him.
 - The historical assessment of his legacy, balancing his immense expansion and cultural achievements against the human and economic costs of his later reign.
+
+Source: adapted from "Emperor Wu of Han" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emperor_Wu_of_Han

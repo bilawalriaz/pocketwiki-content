@@ -47,3 +47,5 @@ In the 19th century, civil wars continued, and the slave trade persisted illegal
 - The origins and identity of the "Jaga" invaders of 1568 are debated; they may have been external invaders or internal rebels.
 - The precise nature of the early alliance between the founders of Kongo and the role of the Mbata province (whether it was a senior partner) is unclear from sources.
 - The extent to which the 18th-century oral traditions about the kingdom's founder reflect early history versus later clan-based narratives is a scholarly question.
+
+Source: adapted from "Kingdom of Kongo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Kongo

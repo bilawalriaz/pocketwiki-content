@@ -46,3 +46,5 @@ In the Moluccas, the crew loaded cloves. The *Trinidad* was damaged and attempte
 - The exact reasons for the desertion of the *San Antonio* are disputed; its officers claimed they arrived early at a rendezvous, while others suggest a mutiny led by pilot Estêvão Gomes.
 - The identity and fate of some crew members, such as the Sicilian master Salomon Antón executed for sodomy, are recorded with varying details in different sources.
 - The precise location of the first Catholic Mass in the Philippines is debated, with Limasawa traditionally cited but some historians proposing other islands.
+
+Source: adapted from "Magellan expedition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Magellan_expedition

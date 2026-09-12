@@ -55,3 +55,5 @@ The Martha Graham Dance Company (founded 1926) is the oldest in America. It incu
 - **Date of final performance**: Sources conflict—Agnes de Mille cites May 25, 1968 (*Time of Snow*); Russell Freedman cites 1969; Graham's own *Blood Memory* cites 1970 (*Cortege of Eagles* at age 76).
 - **Scope of "contraction and release"**: While universally recognized as Graham's innovation, the extent to which it was a codified system versus an evolving philosophical approach remains a subject of pedagogical debate among her successors.
 - **Attribution of influence**: Glen Tetley noted many artists "stole Martha's unique personal vocabulary, consciously or unconsciously"; the precise lineage of specific movements into broader modern dance and postmodern dance (e.g., Cunningham, Taylor) is often difficult to disentangle.
+
+Source: adapted from "Martha Graham" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Martha_Graham

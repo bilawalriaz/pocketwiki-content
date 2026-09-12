@@ -43,3 +43,5 @@ Jesuits brought Western astronomy from the late 16th century. The telescope was 
 ## Imperial astronomy in the Ming
 
 Under the Ming (1368–1644), the traditional Chinese and Muslim Astronomical Bureaus were merged in 1370 into the *Qintianjian*. Astronomer was a hereditary post, with children trained by the Ministry of Rites. The Bureau made calendars, reported celestial abnormalities to the emperor, and chose auspicious dates; most day-to-day work was routine recording of star and planet positions. Punishments for corruption ranged from salary loss to beatings.
+
+Source: adapted from "Chinese astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinese_astronomy

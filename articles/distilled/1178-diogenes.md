@@ -61,3 +61,5 @@ Diogenes Laertius lists dialogues, letters, tragedies, and a *Politeia* (Republi
 *   **Date and cause of death:** Sources conflict on year (324–321 BC), location (Corinth, Athens, Olympia), and cause (old age, suicide, octopus, dog bite). The synchronism with Alexander's death (June 323 BC) is widely considered legendary.
 *   **Nature of Cosmopolitanism:** Was Diogenes' *kosmopolitēs* a positive political ideal (world state) or a purely negative critique of the *polis*? Most scholars argue the latter; he did not advocate universal brotherhood.
 *   **Diogenes Syndrome:** The modern psychiatric label for severe self-neglect/hoarding is acknowledged as a misnomer; Diogenes was a social minimalist who sought company in the Agora, not a withdrawn hoarder.
+
+Source: adapted from "Diogenes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diogenes

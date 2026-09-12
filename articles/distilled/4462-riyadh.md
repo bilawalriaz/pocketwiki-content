@@ -42,3 +42,5 @@ Riyadh's population grew from 40,000 in 1935 to over 7 million in 2022, driven b
 
 ## Debates and Open Questions
 The source notes that the exact origin of the name "Riyadh" is debated, with the best-known reference coming from the 18th-century period of Dahham ibn Dawwas. Urban planning documents consistently underestimated Riyadh's growth rate, raising questions about the long-term efficacy of fixed master plans versus adaptive strategies. The World Bank has warned of a "looming poverty crisis" if the capital's economy does not further diversify from oil dependence.
+
+Source: adapted from "Riyadh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Riyadh

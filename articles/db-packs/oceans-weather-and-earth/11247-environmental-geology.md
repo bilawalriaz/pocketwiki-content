@@ -25,3 +25,5 @@ Resources fall into three classes: nonrenewable, potentially renewable, and perp
 ## Land use
 
 Land-use planning reduces hazard exposure and limits human impact on land, water, air, and resources. New sites are needed for mining, waste disposal, and industry, and approval depends on demonstrating barriers that stop contaminant migration. Site investigation has two phases. The orientating phase uses maps and archived data on topography, vegetation, settlements, transport, climate, hydrology, groundwater, geology, and ecology. The detailed phase collects field data on stratigraphy, groundwater flow and conductivity, geochemistry, geotechnical stability, natural hazards such as faults, karst, earthquakes, subsidence, and landslides, and any past human disturbance. Environmental geology produces land-use maps that guide settlement away from flood zones, unstable ground, and wildfire risk, and that buffer rivers with vegetation.
+
+Source: adapted from "Environmental geology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Environmental_geology

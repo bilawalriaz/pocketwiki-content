@@ -42,3 +42,5 @@ Joule believed heat was a form of rotational molecular motion, a key idea in the
 - **Priority and recognition**: Joule's work was initially neglected, and the conservation of energy is also credited to Julius Robert von Mayer and Hermann von Helmholtz. The relative contributions and timing of their discoveries are a subject of historical analysis.
 - **Conceptual barriers**: Joule's kinetic theory required the then-unproven assumptions of perfectly elastic molecular collisions and the existence of atoms/molecules, which were not widely accepted for another 50 years.
 - **Theological motivation**: Joule's rejection of the caloric theory was partly driven by a theological belief that the "annihilation of force" was only possible for the Creator, adding a philosophical dimension to the scientific debate.
+
+Source: adapted from "James Prescott Joule" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_Prescott_Joule

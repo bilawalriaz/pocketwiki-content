@@ -57,3 +57,5 @@ Critics and institutions consistently rank Gish as the first true film actress. 
 - **Griffith Relationship**: Associates claimed a romantic involvement; Gish consistently denied it. The nature of their bond remains unresolved.
 - **Political Blacklist**: Gish asserted she was coerced into signing a gag order to work again after her America First activities. The extent and mechanism of this industry pressure are undocumented.
 - ***The Birth of a Nation* Legacy**: The 2019 renaming of the BGSU theater reignited debate over separating artistic pioneering from participation in racist propaganda. The industry remains divided on how to contextualize her central role in the film.
+
+Source: adapted from "Lillian Gish" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lillian_Gish

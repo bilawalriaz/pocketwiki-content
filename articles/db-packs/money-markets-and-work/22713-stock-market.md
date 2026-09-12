@@ -45,3 +45,5 @@ Short selling lets a trader profit from a price decline by borrowing shares, sel
 ## Returns and the long run
 
 The S&P 500 has averaged roughly 10% annual growth over the long term, though any single year can deviate sharply: from 2012 to 2021 the average was 14.8%. Inflation typically erodes 2% to 3% of that each year, so the real return is somewhat lower. Robert Shiller's data on long-term S&P returns shows that investors who entered when price-earnings ratios were low did substantially better over the following twenty years than those who entered when ratios were high.
+
+Source: adapted from "Stock market" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stock_market

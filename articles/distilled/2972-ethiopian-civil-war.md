@@ -40,3 +40,5 @@ By the mid-1980s, Derg policies, counterinsurgency campaigns, and a severe 1983â
 *   The exact death toll of the Qey Shibir is debated, with estimates ranging widely from 30,000 to 750,000.
 *   The primary causes of the 1983â€“1985 famine are debated, with arguments focusing on the relative roles of drought versus Derg government policies and counterinsurgency tactics.
 *   The legacy of the war and the Derg era remains contentious, with recent events like the Tigray War drawing parallels to past atrocities and highlighting ongoing issues of accountability.
+
+Source: adapted from "Ethiopian Civil War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ethiopian_Civil_War

@@ -23,3 +23,5 @@ Hindustani has a symmetrical ten-vowel system and a four-way distinction among p
 ## Unresolved questions
 
 Scholars debate whether Hindi and Urdu are truly separate languages or registers of one language, a distinction often driven by political and religious identity rather than linguistic criteria. There is ongoing discussion about the utility of "Hindustani" as a neutral, unifying label; Mahatma Gandhi endorsed it as a language that could transcend communal divisions. The choice of script (Devanagari versus Perso-Arabic) remains a major marker of cultural and political identity, making a single script-neutral standard difficult. Conversion between Hindi and Urdu is usually achieved by transliteration, with translation required mainly for religious and literary texts. As of 2025, Hindi and Urdu together rank as the third-most-spoken language globally, with 855 million speakers.
+
+Source: adapted from "Hindustani language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hindustani_language

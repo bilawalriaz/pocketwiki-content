@@ -60,3 +60,5 @@ He was struck by a tram on 7 June 1926 and died on 10 June 1926 at age 73. His l
 - **Religious Canonization**: While Gaudí's cause for canonization has progressed (declared Venerable in 2025), beatification and sainthood remain pending, requiring documented miracles attributed to his intercession.
 - **Architectural Influence**: Gaudí's relationship with 20th-century movements like Bauhaus is debated; while some see his work as antithetical to modernist minimalism, others recognize his influence on architects like Le Corbusier and Santiago Calatrava.
 - **Completion of Sagrada Família**: The church's completion, expected around 2026, raises questions about whether the final result will align with Gaudí's original vision, given the loss of his plans and models during the Spanish Civil War.
+
+Source: adapted from "Antoni Gaudí" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD

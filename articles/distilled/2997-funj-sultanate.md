@@ -45,3 +45,5 @@ Although the Funj elite converted to Islam early, their practice was initially n
 - The ethnic origins of the Funj people remain disputed, with theories suggesting they were Nubian, Shilluk, or from regions like Bornu or Eritrea.
 - The exact timing and cause of the collapse of the Christian kingdom of Alodia are unclear, with evidence suggesting it may have occurred as early as the 12th century.
 - The nature and extent of the Funj language, which some sources mention, is poorly understood, with surviving records being fragmentary and possibly inaccurate.
+
+Source: adapted from "Funj Sultanate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Funj_Sultanate

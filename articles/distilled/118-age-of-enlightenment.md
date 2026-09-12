@@ -1,6 +1,6 @@
 # Age of Enlightenment
 
-# Overview
+## Overview
 
 The Age of Enlightenment (also called the Age of Reason) was a period of intellectual and cultural flourishing in Europe and Western civilization, emerging in the late 17th century in Western Europe and peaking in the 18th century. It emphasized reason, empirical evidence, and the scientific method, promoting ideals of individual liberty, religious tolerance, progress, and natural rights. Its thinkers advocated constitutional government, separation of church and state, and rational social and political reform, ultimately undermining traditional monarchy and religious authority and paving the way for the political revolutions of the 18th and 19th centuries.
 
@@ -66,3 +66,5 @@ The Enlightenment took hold across Europe with local emphases. In France it was 
 ## Debates and open questions
 
 Scholars disagree on the Enlightenment's definition, chronology, and geographical extent. Dating of its beginning ranges from Descartes' 1637 *Discourse on the Method* to Newton's 1687 *Principia Mathematica*; French historians traditionally place it between 1715 and 1789, while many now date its end to the start of the 19th century, with the latest proposed year being Kant's death in 1804. The existence of an English Enlightenment has been hotly debated, as has a Swedish Enlightenment. The rights of women and non-White people were generally overlooked in Enlightenment philosophy, which is often explicitly Eurocentric; scientific racism first emerged at this time. Horkheimer and Adorno critiqued the Enlightenment's rational basis in *Dialectic of Enlightenment* (1947), arguing the "wholly enlightened earth radiates under the sign of disaster triumphant." Jason Josephson Storm argues the Enlightenment as a clearly defined period separate from Renaissance and Romanticism constitutes a myth, noting vastly different periodizations and that the term was applied after the fact. Historians debate whether the public sphere was truly egalitarian, whether Freemasonry was a main factor in the Enlightenment, and whether ideas themselves (Israel) or social/economic transformations caused the era's revolutionary changes.
+
+Source: adapted from "Age of Enlightenment" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Age_of_Enlightenment

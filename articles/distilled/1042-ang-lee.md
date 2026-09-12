@@ -60,3 +60,5 @@ Lee lives in Larchmont, New York, and Taipei with his wife Jane Lin, a microbiol
 - **High Frame Rate Viability**: Lee’s advocacy for 120fps (*Billy Lynn*, *Gemini Man*) has not achieved industry adoption; critics argue the hyper-realism undermines cinematic suspension of disbelief, while Lee maintains it is the future of immersion.
 - **Cultural Authenticity vs. Global Appeal**: *Lust, Caution*’s Oscar disqualification highlighted tensions over what constitutes a "national" film in a globalized production environment.
 - **Unfinished Projects**: The status of the *Thrilla in Manila* Ali/Frazier film and the Bruce Lee biopic remains uncertain after years of development limbo.
+
+Source: adapted from "Ang Lee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ang_Lee

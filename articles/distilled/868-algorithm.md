@@ -61,3 +61,5 @@ In the U.S., pure mathematical algorithms are generally unpatentable under cases
 ## Debates and Open Questions
 
 Several unresolved issues persist in algorithmic theory and practice. The P versus NP problem questions whether every problem whose solution can be verified quickly can also be solved quickly—an open question with profound implications for cryptography and optimization. Whether randomized algorithms can be the fastest for certain tasks remains debated. The inversion of the traditional heuristic-to-formal progression due to AI raises questions about the future role of human-designed algorithms. Additionally, the patentability of software and AI-discovered algorithms challenges existing legal frameworks, while ethical concerns around automated decision-making and bias in heuristic systems continue to evolve.
+
+Source: adapted from "Algorithm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algorithm

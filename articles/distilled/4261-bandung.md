@@ -55,3 +55,5 @@ Bandung is a major educational center with nearly 50 higher education institutio
 - The exact reasons for the drainage of the prehistoric "Great Lake of Bandung" are debated among geologists.
 - The future of Bandung's airports is in flux, with plans to reactivate Husein Sastranegara for commercial flights by 2026 while also developing Kertajati as an aviation hub.
 - The city struggles to balance rapid urban development and population density against environmental protection, particularly in the northern water reservoir area.
+
+Source: adapted from "Bandung" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bandung

@@ -77,3 +77,5 @@ Cabral’s tomb was forgotten until its 1839 rediscovery by Varnhagen. Emperor P
 3. **Scale of the Calicut massacre:** Portuguese accounts vary wildly (300 to several thousand attackers; 50–70 Portuguese dead). The Zamorin’s role—complicit or unable to control Arab merchants—is unclear.
 4. **Cabral’s activities 1509–1520:** Only fragmentary royal letters survive (property dispute, military service privileges). His daily life in Santarém is largely unknown.
 5. **Exact date and cause of death:** "c. 1520" from unspecified causes; the tomb inscription is lost.
+
+Source: adapted from "Pedro Álvares Cabral" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral

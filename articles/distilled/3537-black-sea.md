@@ -51,3 +51,5 @@ In the 21st century, the sea remains a contested zone, particularly following th
 - **Deluge Hypothesis**: Debate continues over the suddenness, exact date (c. 5600 BC), and magnitude of the hypothesized catastrophic flooding from the Mediterranean.
 - **Ecological Recovery**: Sources conflict on whether the Black Sea ecosystem fully recovered in the early 21st century after 1990s improvements.
 - **Military Control**: As of January 2025, the Black Sea is described as a "contested maritime area" where neither Ukraine nor Russia has full control, with coastal areas being more heavily influenced by land-based weapons.
+
+Source: adapted from "Black Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Black_Sea

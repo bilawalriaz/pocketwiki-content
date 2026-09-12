@@ -49,3 +49,5 @@ In 2014, renewables provided 19% of global energy, with hydro at 16.6% and wind 
 ## Costs and policy momentum
 
 McKinsey estimates that reaching net zero by 2050 will cost about 7.5% of global GDP cumulatively between 2021 and 2050; current spending is roughly half that. Jacobson argues a WWS system would be cost-competitive with existing arrangements. Hawaii, California (SB 100), and Washington State have enacted 100% clean electricity laws targeting 2045. By 2018, no G20 country had committed to a fully 100% renewable target, though most had set intermediate renewable goals under the Paris Agreement.
+
+Source: adapted from "100% renewable energy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/100%25_renewable_energy

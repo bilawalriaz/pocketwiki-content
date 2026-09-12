@@ -49,3 +49,5 @@ Kanpur is a prominent education center, home to the Indian Institute of Technolo
 ## Debates and Open Questions
 - The exact events and responsibility for the 1857 Sati Chaura Ghat massacre are debated. While the British accused Nana Sahib of betrayal, no evidence proves he planned it, and some historians attribute it to confusion.
 - The official limits of Kanpur's metropolitan area are pending government approval, leading to varying population projections.
+
+Source: adapted from "Kanpur" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kanpur

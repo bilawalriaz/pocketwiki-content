@@ -49,3 +49,5 @@ Ernest Rutherford's nuclear model (1911) and Niels Bohr's quantized atom (1913) 
 - Atomic theory faced skepticism from energeticists like Wilhelm Ostwald until Jean Perrin's experiments (early 1900s).
 - The structure of benzene was contested after Kekulé's proposal (1865).
 - Quantum mechanics' interpretation (e.g., wave-particle duality) sparked philosophical debates among physicists like Schrödinger.
+
+Source: adapted from "History of chemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_chemistry

@@ -57,3 +57,5 @@ Helene Weigel ran the Berliner Ensemble until her death in 1971. Brecht’s son 
 - **Collective authorship**: The "Brecht collective" model challenges traditional authorship. Hauptmann, Steffin, and others contributed substantially to texts published under Brecht’s name (e.g., *The Threepenny Opera*, *Happy End*), raising questions about attribution and intellectual property.
 - **Chinese theatre influence**: Brecht cited Mei Lanfang’s performances as validation for *Verfremdungseffekt*, but insisted Chinese theatre was not a "transportable technique." The extent and nature of this cross-cultural appropriation remain debated.
 - **Poetry in late theory**: His 1951 recantation (*On Poetry and Virtuosity*) reclaiming poetry’s political necessity contradicts his earlier suppression of the "poetic" in favor of "truth." The shift’s motivation—aesthetic maturation or political pressure—is unresolved.
+
+Source: adapted from "Bertolt Brecht" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bertolt_Brecht

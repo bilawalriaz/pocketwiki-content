@@ -41,3 +41,5 @@ Kumārila mounted a multi-pronged critique of Buddhism. He argued that Buddhist 
 - **Historical Engagement**: Scholar John Taber argues Kumārila's portrayal of Buddhist arguments is less sophisticated than Dharmakīrti's, challenging the traditional account that they were direct contemporaries and debaters.
 - **Birthplace**: His origin is uncertain, with competing theories placing him in South India, North India, or eastern India (Kamarupa/Assam).
 - **Relationship with Dharmakīrti**: A legend states Kumārila spoke abusively to his nephew Dharmakīrti, driving him to become a Buddhist monk, but this is contested by textual analysis.
+
+Source: adapted from "Kumārila Bhaṭṭa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kum%C4%81rila_Bha%E1%B9%AD%E1%B9%ADa

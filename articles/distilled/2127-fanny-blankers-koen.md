@@ -42,3 +42,5 @@ After London, strict amateurism rules limited her commercial opportunities. She 
 ## Debates and Open Questions
 *   The circumstances surrounding the 1950 sex verification test and lifetime ban of her rival Foekje Dillema remain controversial. While a posthumous forensic test found a Y-chromosome in Dillema's DNA, most of Blankers-Koen's contemporaries suspected it was an attempt by Blankers-Koen and her husband to eliminate an opponent, though this has never been confirmed.
 *   A 2003 biography, *Een koningin met mannenbenen*, challenged her public image as a modest "flying housewife," portraying her instead as a fiercely competitive and emotionally reserved woman driven by a desire to win.
+
+Source: adapted from "Fanny Blankers-Koen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fanny_Blankers-Koen

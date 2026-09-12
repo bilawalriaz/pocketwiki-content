@@ -68,3 +68,5 @@ Analytical chemistry has applications across forensic science (DNA fingerprintin
 ## Debates and open questions
 
 The source notes that although some lab-on-a-chip systems exist, few compete with traditional analysis techniques, though potential advantages include size/portability, speed, and cost. The source also indicates that many methods, once developed, are kept purposely static so data can be compared over long periods, particularly in industrial QA, forensic, and environmental applications—implying a tension between methodological innovation and the need for consistent, comparable data.
+
+Source: adapted from "Analytical chemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Analytical_chemistry

@@ -41,3 +41,5 @@ The novel was a massive commercial success upon its 1862 publication, translated
 *   The novel's extensive digressions, such as the lengthy essay on the Battle of Waterloo, are a point of critical debate. Some view them as essential to Hugo's moral and historical vision, while others see them as disruptive to the narrative.
 *   The character of Javert and his suicide are analyzed as a profound exploration of the conflict between rigid legalism and moral mercy.
 *   The political sympathy for the revolutionaries of 1832 was controversial upon publication and remains a subject of discussion regarding Hugo's intent and the novel's message.
+
+Source: adapted from "Les Misérables" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables

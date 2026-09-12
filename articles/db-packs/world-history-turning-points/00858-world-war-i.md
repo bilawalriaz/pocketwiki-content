@@ -21,3 +21,5 @@ By 1917 the war had become a contest of resources. Germany's decision to resume 
 ## Consequences
 
 The Treaty of Versailles, signed 28 June 1919, imposed harsh terms on Germany. Article 231, the "War Guilt Clause," assigned Germany and its allies responsibility for "all the loss and damage… as a consequence of the war" and was used to justify massive reparations. The war toppled four empires (German, Austro-Hungarian, Ottoman, and Russian) and created new states such as Poland, Czechoslovakia, and Yugoslavia. The League of Nations was founded to keep the peace, but its weakness, combined with German resentment over Versailles, helped make a second world war possible two decades later.
+
+Source: adapted from "World War I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/World_War_I

@@ -50,3 +50,5 @@ Mythological discourse now reaches global audiences via digital media. Film tran
 - **Origin vs. Function:** 19th-century theories sought origins (nature, history, ritual); 20th-century theories prioritized function (social charter, psychological archetype, structural pattern). The field remains divided between those seeking universal structures (Campbell, Eliade) and those emphasizing cultural specificity.
 - **Original Version vs. Plasticity:** 19th/20th-century scholarship often sought to reconstruct an "ur-myth"; postmodern and hylistic approaches argue myths are inherently variable with no original form, only competing variants.
 - **Text vs. Transmediality:** Traditional focus on textual sources is challenged by arguments that visual arts, landscape, performance, and digital media are equally or more significant carriers of mythic narrative material.
+
+Source: adapted from "Myth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Myth

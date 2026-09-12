@@ -49,3 +49,5 @@ Efforts to quantify peace include the Global Peace Index and Fragile States Inde
 
 ## Debates and Open Questions  
 Scholars debate whether peace is best achieved through strength (balance of power, deterrence) or moral persuasion (nonviolence, international law). The effectiveness of appeasement versus deterrence remains contested, especially regarding nuclear proliferation. Critics question whether economic interdependence truly prevents war, given historical counterexamples like World War I. The role of democracy in fostering peace is debated, as is the tension between state sovereignty and global governance. Additionally, the definition of peace itself—whether merely the absence of war or requiring justice and equity—remains unresolved.
+
+Source: adapted from "Peace" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peace

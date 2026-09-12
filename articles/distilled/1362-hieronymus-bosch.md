@@ -55,3 +55,5 @@ Art historians like Dirk Bax argue that Bosch translated verbal metaphors and pu
 Attribution remains contentious. Early 20th-century scholars credited Bosch with 30–50 works; Gerd Unverfehrt reduced this to 25 paintings and 14 drawings in 1980. Recent forensic studies by the Bosch Research and Conservation Project have reattributed some works—for example, *The Temptation of St. Anthony* in Kansas City was reassigned to Bosch himself in 2016. Conversely, *The Seven Deadly Sins* and *Christ Carrying the Cross* are now questioned as workshop productions rather than autograph works.
 
 Scholars also debate the meaning behind Bosch’s imagery. While some emphasize its didactic function, others highlight ironic or subversive elements. The extent to which his personal beliefs shaped his art—and how much was shaped by workshop collaboration—remains unresolved.
+
+Source: adapted from "Hieronymus Bosch" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hieronymus_Bosch

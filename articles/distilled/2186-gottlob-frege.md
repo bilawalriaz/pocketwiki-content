@@ -45,3 +45,5 @@ Frege was a professor at the University of Jena for most of his career. He was a
 - **The Salvage of Logicism**: Scholars debate how much of Frege's original logicist program can be recovered. Key proposals include replacing Basic Law V with Hume's principle (Neo-Fregeanism) or using weakened logical systems.
 - **Interpretation of Sense and Reference**: The precise nature of Frege's distinction between sense and reference, and its implications for theories of meaning and truth, remain actively discussed.
 - **Influence and Originality**: There is scholarly debate about the extent of influence on Frege from philosophers like Hermann Lotze and the originality of his logical notation compared to earlier systems.
+
+Source: adapted from "Gottlob Frege" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gottlob_Frege

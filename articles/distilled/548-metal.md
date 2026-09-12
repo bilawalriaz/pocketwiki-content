@@ -86,3 +86,5 @@ An alloy is a metallic substance of two or more elements (variable or fixed stoi
 - **Recycling viability**: Critical rare metals (e.g., in batteries, phones, fuel cells) have very low end-of-life recycling rates; whether economic/technological shifts can raise them fast enough to avoid supply crises is unresolved.
 - **HEA optimization**: Vast compositional space of high-entropy alloys is largely unexplored; predictive models for phase stability and properties are still maturing.
 - **Metallic glass scaling**: Bulk metallic glasses with high strength exist, but processing large sections without crystallization remains a manufacturing challenge.
+
+Source: adapted from "Metal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metal

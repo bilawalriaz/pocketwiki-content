@@ -53,3 +53,5 @@ Before 864, the state was pagan, with the Bulgars worshipping the sky god Tangra
 *   The exact nature of the relationship between the initial Bulgar settlers and the local Slavic tribes is debated. While some sources suggest a treaty, most historians agree the Slavs were politically subjugated but allowed to retain customs in exchange for tribute and military service.
 *   The precise reasons behind Khan Boris I's decision to convert to Christianity in 864 are not explicitly stated in sources, though historians infer political, diplomatic, and internal social factors.
 *   The ethnic composition and size of Asparuh's initial Bulgar force are uncertain, with estimates ranging from around 10,000 to a considerably larger tribe.
+
+Source: adapted from "First Bulgarian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/First_Bulgarian_Empire

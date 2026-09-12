@@ -55,3 +55,5 @@ Land is "deeply intertwined with human development," determining "survival and w
 ## Debates and open questions
 
 Two competing models explain land mass formation: steady growth versus rapid early growth followed by long-term stable continental area, with the latter considered more likely. The prediction that warming soils will add carbon dioxide to the atmosphere through increased biological activity (a positive feedback) has been questioned based on recent knowledge of soil carbon turnover. The "Myth of the Flat Earth"—that medieval Europeans believed Earth was flat—is a misconception; most educated people in the Middle Ages accepted a spherical Earth based on observations of secondary effects and parallels with other planets.
+
+Source: adapted from "Land" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Land

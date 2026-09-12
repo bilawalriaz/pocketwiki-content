@@ -69,3 +69,5 @@ Rediscovered in the 20th century by critics like Roberto Longhi, Caravaggio’s 
 **Authenticity of Late Works**: Several recently discovered paintings, including a *Judith Beheading Holofernes* found in 2014 and an *Ecce Homo* attributed in 2021, spark scholarly disputes over attribution due to stylistic variations and lack of documentation.
 
 **Influence vs. Rivalry**: While Caravaggio profoundly influenced Baroque art, some argue his impact was mediated through followers rather than direct emulation, complicating assessments of his immediate legacy.
+
+Source: adapted from "Caravaggio" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caravaggio

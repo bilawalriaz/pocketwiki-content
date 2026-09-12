@@ -45,3 +45,5 @@ Fossil evidence shows the peninsula once had subtropical forests during the Cret
 ## Debates and Open questions
 - The first European to land on the continent is disputed, with 19th-century seal hunter John Davis being a likely candidate, though records are unreliable.
 - The precise impact of the peninsula's glacier retreat on future global sea level rise is uncertain; the IPCC has been unable to determine the greatest potential effect.
+
+Source: adapted from "Antarctic Peninsula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antarctic_Peninsula

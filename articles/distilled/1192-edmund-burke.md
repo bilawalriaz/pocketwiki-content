@@ -52,3 +52,5 @@ Burke opposed the French Revolution and supported the war against Revolutionary 
 
 ## Debates and Open Questions
 Burke's legacy is contested. Conservatives view him as the father of traditional conservatism, while liberals and radicals criticize his opposition to the French Revolution and skepticism toward democracy. Scholars debate whether his *Vindication of Natural Society* was sincere or satirical. His stance on slavery—opposing the institution while holding racial prejudices—reflects the complexities of 18th-century abolitionism. Critics like Leo Strauss argue Burke's rejection of rationalism undermines systematic political theory, while supporters see his emphasis on tradition as a necessary corrective to ideological extremism. The tension between his advocacy for gradual reform and his resistance to radical change remains a central theme in interpretations of his work.
+
+Source: adapted from "Edmund Burke" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edmund_Burke

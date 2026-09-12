@@ -36,3 +36,5 @@ During the late Parthian era, Atropatene's nobility and peasantry allied with th
 ## Debates and Open Questions
 - The exact birthplace of the prophet Zoroaster is uncertain; while traditional accounts place it in Atropatene, scholarly consensus suggests he originated in the east.
 - The extent of Iranianization among the general population of Atropatene by the 3rd century BC is unclear, though the capital area likely hosted a large Iranian population.
+
+Source: adapted from "Atropatene" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atropatene

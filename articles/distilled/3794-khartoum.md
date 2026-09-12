@@ -49,3 +49,5 @@ Khartoum hosts Sudan's top educational institutions, including the University of
 ## Debates and Open Questions
 - The etymology of "Khartoum" is uncertain, with multiple scholarly theories proposing origins from Dinka, Arabic, Nubian, Beja, or Maasai languages.
 - The death toll of the 2019 Khartoum massacre is disputed, with the government stating 61 were killed while other sources report over 100.
+
+Source: adapted from "Khartoum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khartoum

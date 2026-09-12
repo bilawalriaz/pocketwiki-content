@@ -34,3 +34,5 @@ M is the money stock, V is the velocity of money (how often each unit is spent p
 During the 1970s and 1980s major central banks (the Federal Reserve, Bank of England, Bundesbank) officially targeted steady money-supply growth. Starting in the mid-1970s the empirical correlation between money and prices broke down as velocity proved unstable. The Fed's 1979 attempt under Paul Volcker to target money was abandoned as unworkable. Today most developed-country central banks target inflation directly by setting policy interest rates, allowing the money stock to fluctuate endogenously to satisfy whatever money demand prevails. According to Benjamin Friedman, the number of central banks actively targeting money supply is shrinking toward zero.
 
 Money-supply data are still monitored as one of many indicators that may carry information about bank behaviour, employment and inflation.
+
+Source: adapted from "Money supply" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Money_supply

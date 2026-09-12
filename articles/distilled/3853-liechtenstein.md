@@ -48,3 +48,5 @@ Liechtenstein's culture reflects its German-speaking neighbors. Cultural institu
 - **Monarchical Powers**: The 2003 and 2012 referendums expanding the Prince's powers were criticized by the Council of Europe's Venice Commission as incompatible with European democratic standards, raising ongoing questions about the balance of power.
 - **Tax Haven Legacy**: While Liechtenstein has reformed its financial sector, the 2008 tax affair and historical use of foundations for tax evasion continue to influence its international reputation and relations.
 - **Post-WWII Property Claims**: The expropriation of the Liechtenstein dynasty's properties in Czechoslovakia and Poland after WWII remains a subject of legal dispute at the International Court of Justice.
+
+Source: adapted from "Liechtenstein" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liechtenstein

@@ -50,3 +50,5 @@ Archaeological evidence for Mitanni is found across Upper Mesopotamia. Key sites
 - The extent and nature of Indo-Aryan influence are disputed; some scholars argue it was limited to the elite, while others see it as foundational to the kingdom's establishment.
 - The origins of Painted Nuzi Ware are unsolved, with possible links to Aegean Kamares Ware.
 - The internal political dynamics and the exact sequence of events during the succession crises of the 14th century BC are unclear due to the lack of native Mitanni records.
+
+Source: adapted from "Mitanni" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mitanni

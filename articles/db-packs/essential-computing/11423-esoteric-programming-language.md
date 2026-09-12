@@ -34,3 +34,5 @@ Instruction representation also varies. Befunge and Piet arrange programs in two
 ## Cultural reading
 
 Scholars such as Geoff Cox frame esolangs as cultural expression, akin to code art and code poetry, that shifts attention "from command and control toward cultural expression and refusal." Daniel Temkin argues that esolangs are "open-ended systems, natively collaborative, and distanced from any single materialized form," a counterpoint to the neutral professional style that Edsger Dijkstra advocated in *The Humble Programmer*.
+
+Source: adapted from "Esoteric programming language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Esoteric_programming_language

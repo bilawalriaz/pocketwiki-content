@@ -54,3 +54,5 @@ Machado’s style is defined by direct address to the reader (breaking the "four
 - **Racial Identity and Politics**: Scholars debate the extent to which Machado’s mixed-race identity and silence on abolition shaped his literary persona; some argue his avoidance of racial themes was strategic survival, others see it as a limitation.
 - **Periodization of Style**: Daniel’s thesis of a dialogue between Romanticism and Realism evolving into Impressionism is contested by those who see a sharper break in 1881 or a consistent anti-realist project throughout.
 - **Canonical Status Abroad**: Despite high critical acclaim (Bloom, Sontag, Rushdie), Machado’s limited commercial success in English translation remains a subject of discussion regarding the reception of non-European modernisms.
+
+Source: adapted from "Machado de Assis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Machado_de_Assis

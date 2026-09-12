@@ -62,3 +62,5 @@ Hamsun’s literary stature is immense: Isaac Bashevis Singer called him "the fa
 - **Nasjonal Samling membership**: Hamsun denied party membership; the 1948 civil verdict fined him for "alleged membership" without criminal conviction. Archival evidence remains inconclusive.
 - **Motives for collaboration**: Scholars debate the relative weight of lifelong Anglophobia, anti-egalitarian racism, distaste for parliamentary democracy, personal vanity, and genuine ideological affinity with Nazism.
 - **Separation of art and artist**: The "Hamsun trauma" in Norway epitomizes the unresolved tension between celebrating a foundational modernist innovator and condemning a Nazi collaborator; the 2009 state-sponsored 150th-anniversary celebrations reignited this debate publicly.
+
+Source: adapted from "Knut Hamsun" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knut_Hamsun

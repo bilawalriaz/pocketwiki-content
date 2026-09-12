@@ -39,3 +39,5 @@ In low- and middle-income countries, the WASH agenda under Sustainable Developme
 ## History and origins
 
 Oracle bones from Shang-dynasty China (1600–1046 BCE) describe hair and body washing; the later Book of Rites prescribed a hot shower every five days and a hair wash every three days. Ibn Sina's 1025 *Canon of Medicine* proposed contagion through breath, water, and dirt. Mid-19th-century figures — Semmelweis and Nightingale for handwashing, Snow for linking cholera to fecal-contaminated water — joined Pasteur's germ theory and Lister's antisepsis to make modern hygiene possible. The word "hygiene" entered English in 1676 from French *hygiène*, itself from Greek *hygieinē technē*, "the art of health," named for Hygeia, the Greek personification of health and cleanliness.
+
+Source: adapted from "Hygiene" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hygiene

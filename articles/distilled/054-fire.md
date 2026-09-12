@@ -75,3 +75,5 @@ Fire has been an important element of human culture since the Lower Paleolithic.
 ## Debates and open questions
 
 The fossil record shows a controversial gap in the Late Devonian where charcoal is absent, with scholars debating its cause. There are several possible explanations for the difference in microgravity flames' efficiency and color, the most likely being that the temperature is sufficiently uniform that soot does not form and complete combustion occurs. The balance between fire's ecological benefits (stimulating plant growth, maintaining diversity) and harms (soil fertility loss through nitrogen release, erosion, pollution) continues to inform management debates, particularly regarding traditional cool fires versus fire suppression in modern timber forests.
+
+Source: adapted from "Fire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fire

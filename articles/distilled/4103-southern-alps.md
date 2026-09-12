@@ -38,3 +38,5 @@ The mountains are largely inaccessible and retain natural vegetation. Large area
 
 ## Debates and Open questions
 The source notes that while the name "Southern Alps" generally refers to the entire range, separate names are given to many of the smaller ranges that form part of it, implying a potential debate about the range's precise boundaries and nomenclature.
+
+Source: adapted from "Southern Alps" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Southern_Alps

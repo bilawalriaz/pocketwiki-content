@@ -57,3 +57,5 @@ Informal assessments use observation, storyboards, word sorts, interactive writi
 ## Key drivers
 
 Interest powerfully influences comprehension. Students finish self-chosen books more often and remember details better because interest sustains attention. Cultural relevance and authentic texts improve engagement, motivation, and comprehension. Readers actively construct meaning rather than passively receive it; prior knowledge and personal experience shape interpretation. Students engage twice as deeply with texts connected to their cultural experiences or personal interests. Fluency and comprehension correlate directly across ages, yet the National Assessment of Educational Progress found only 37% of U.S. twelfth-graders reading proficiently—72% at or above basic, 28% below basic. Professional development remains essential because strategy instruction is demanding for teachers untrained in these methods.
+
+Source: adapted from "Reading comprehension" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Reading_comprehension

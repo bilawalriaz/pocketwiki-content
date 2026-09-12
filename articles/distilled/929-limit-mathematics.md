@@ -55,3 +55,5 @@ For convergent sequences, the sum, product, and inverse (when nonzero) of limits
 
 ## Debates and Open Questions
 The historical development of limits involved significant debate over rigor. Newton's intuitive understanding was later formalized by Bolzano and Cauchy using the ε-δ technique, but Bolzano's work remained unknown for decades. The question of whether limits should exclude the point itself (the $0 < |x - c|$ condition) remains a matter of convention among authors. In computability theory, some limits have undecidable moduli of convergence, meaning the rate at which they converge cannot be algorithmically determined. The distinction between pointwise and uniform convergence remains a subtle area where different notions of convergence on function spaces can yield different results, particularly regarding the preservation of properties like continuity.
+
+Source: adapted from "Limit (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Limit_%28mathematics%29

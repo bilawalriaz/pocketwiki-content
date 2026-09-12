@@ -37,3 +37,5 @@ Acquisition differs across languages. Otomanguean languages have complex larynge
 ## Bilingual, sign, and clinical contexts
 
 Bilingual first-language acquisition follows the same course as monolingual acquisition when both languages receive sufficient input. Sign language acquisition mirrors spoken language acquisition, with manual babbling in deaf infants and parallel milestones. Prelingual deafness affects two to three per thousand U.S. children; with appropriate signed-language input, deaf children's linguistic abilities parallel those of hearing peers. Cochlear implants stimulate the auditory nerve directly but yield variable outcomes, and a solid first language, signed or spoken, is the strongest predictor of success with a second spoken language.
+
+Source: adapted from "Language acquisition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Language_acquisition

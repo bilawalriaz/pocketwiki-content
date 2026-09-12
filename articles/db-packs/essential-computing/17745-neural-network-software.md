@@ -25,3 +25,5 @@ Many practitioners skip both simulators and environments and implement networks 
 ## Standards: PMML
 
 For a model trained in one application to be reused in another, a shared representation is needed. The Predictive Model Markup Language (PMML), an XML-based standard, defines neural networks and other data-mining models so that compliant tools can exchange them without vendor lock-in. A user can train a model in one vendor's application and then visualize, analyze, or evaluate it in another's. PMML producers and consumers include R (via the pmml package), SAS Enterprise Miner, SPSS, and STATISTICA.
+
+Source: adapted from "Neural network software" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neural_network_software

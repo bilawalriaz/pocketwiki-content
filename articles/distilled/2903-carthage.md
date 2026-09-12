@@ -46,3 +46,5 @@ In 698, Umayyad forces captured Carthage and deliberately destroyed its infrastr
 - **Constitutional Nature**: While Aristotle called Carthage a "mixed constitution," the precise balance of power between the *suffets*, council, assembly, and military commanders is not fully understood.
 - **Population and Scale**: Estimates of Carthage's population at its peak vary widely, with ancient sources like Strabo suggesting 700,000, while modern scholars consider this likely exaggerated.
 - **Genetic Heritage**: Craniometric and genetic studies of Punic remains show a heterogeneous population with affinities to both Levantine (Phoenician) and local North African (Berber) groups, indicating significant admixture.
+
+Source: adapted from "Carthage" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carthage

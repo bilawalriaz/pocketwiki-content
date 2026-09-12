@@ -42,3 +42,5 @@ The gulf is subject to overlapping territorial claims. Malaysia and Thailand hav
 - The precise causes and long-term impacts of the severe coastal erosion affecting 670 km of Thailand's gulf coastline are ongoing concerns, with mangrove clearing for shrimp farms cited as a contributing factor.
 - The effectiveness of current measures to combat plastic pollution and improve coastal water quality is debated, given the documented deterioration in water quality between 2014 and 2015.
 - The resolution of complex territorial disputes, particularly between Cambodia and Vietnam over maritime boundaries and resources, remains an open geopolitical question.
+
+Source: adapted from "Gulf of Thailand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_of_Thailand

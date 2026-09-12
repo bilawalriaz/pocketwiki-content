@@ -58,3 +58,5 @@ Ibsen’s plays caused uproar across Europe and America, particularly from 1879 
 **Political Views**: Ibsen expressed anarchist sympathies, advocating for the abolition of the state. However, his political stance evolved, and he later distanced himself from radical movements, maintaining a skeptical stance toward both left and right ideologies.
 
 **Reception History**: While Ibsen was controversial in his time, recent scholarship questions the myth of widespread hostility, suggesting instead that he achieved considerable popularity and respect in Norway during his lifetime.
+
+Source: adapted from "Henrik Ibsen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henrik_Ibsen

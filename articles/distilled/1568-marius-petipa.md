@@ -57,3 +57,5 @@ In 1891, the Imperial Ballet adopted Vladimir Stepanov’s notation system to re
 - **Petipa vs. Ivanov in *Swan Lake* (1895)**: The traditional split (Petipa: Acts I & III; Ivanov: Acts II & IV) is documented, but the degree of Petipa’s influence on Ivanov’s "white acts" is unclear.
 - **Extent of 1903–1904 revisions**: Petipa’s diaries claim new choreography for *Le Roi Candaule* and a final variation in 1905, but the survival and authenticity of these late changes in modern stagings are uncertain.
 - **Telyakovsky’s motives**: Whether the Director’s campaign stemmed from genuine artistic modernism or personal animus and bureaucratic maneuvering remains a subject of historiographical interpretation.
+
+Source: adapted from "Marius Petipa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marius_Petipa

@@ -53,3 +53,5 @@ A common empirical description of the true curve is the power law σ_t = K(ε_t)
 ## A common misconception
 
 A material that bends is not necessarily weak. Steel deforms substantially yet absorbs stresses that would shatter glass; its large elastic and plastic ranges are what allow it to do so.
+
+Source: adapted from "Deformation (engineering)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Deformation_%28engineering%29

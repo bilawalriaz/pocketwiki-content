@@ -71,3 +71,5 @@ Finance originated with Bronze Age state formation and trade (c. 3000 BCE). Earl
 *   **Regulatory Efficacy:** Post-2008 Basel III capital/liquidity requirements aim to stabilize banks, but debate persists on whether they excessively constrain lending or fail to address shadow banking and systemic interconnectedness.
 *   **Computational Limits:** The complexity of high-dimensional derivatives and risk calculations drives research into Quantum Finance and alternative computing, but practical advantage over classical Monte Carlo/PDE methods for real-time trading remains unproven at scale.
 *   **Climate Finance Integration:** How to accurately price climate risk (transition and physical) into assets, structure green bonds, and align financial regulation with net-zero targets lacks standardized methodology.
+
+Source: adapted from "Finance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Finance

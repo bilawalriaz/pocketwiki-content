@@ -43,3 +43,5 @@ Lake Superior is oligotrophic, meaning it has low nutrient levels and high oxyge
 ## Debates and Open Questions
 - **Climate Change Impact**: Studies suggest Lake Superior's surface temperature increased by about 4.5°F between 1979 and 2007, faster than the surrounding air. While some models predict it could be routinely ice-free by 2040, more recent data through 2021 does not support this trend.
 - **Nitrate Levels**: Nitrate concentrations in the lake have been rising for over a century. While still below dangerous levels, the cause of this long-term increase is uncertain and may relate to human alterations of the regional nitrogen cycle.
+
+Source: adapted from "Lake Superior" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Superior

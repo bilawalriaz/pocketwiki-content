@@ -76,3 +76,5 @@ In the 10th century, Hrotsvit of Gandersheim wrote six Christian plays modeled o
 - **Death**: Sources disagree on whether Terence died of disease in Greece or by shipwreck; the voyage itself may be a speculative explanation for his small output.
 - **Authorship**: Ancient and later gossip ascribed the plays to Scipio; Montaigne accepted this, Diderot rejected it.
 - **Ethnicity**: Whether Afer indicates Berber, Libyan, or other origin is debated; the Berber/Carthaginian distinction may not apply in his lifetime.
+
+Source: adapted from "Terence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Terence

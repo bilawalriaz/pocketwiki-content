@@ -45,3 +45,5 @@ West Bengal has a rich cultural heritage. Its literary tradition includes the me
 - The origin of the name "Bengal" is unknown, with theories linking it to the Dravidian tribe "Bang" or the ancient Vanga kingdom.
 - Proposals to officially rename the state to "Bengal" or "Bangla" have been contentious, with the central government rejecting them to avoid confusion with Bangladesh.
 - The state's economic recovery since the end of Left Front rule is ongoing, with persistent challenges in infrastructure, industrial growth, and attracting investment.
+
+Source: adapted from "West Bengal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/West_Bengal

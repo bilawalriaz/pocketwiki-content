@@ -83,3 +83,5 @@ Sociologists classify societies by technology into pre-industrial, industrial, a
 - Whether war is an innate human characteristic or a recent phenomenon (appearing ~10,000 years ago) remains unsettled.
 - Whether Western sociology's three paradigms adequately explain non-Western societies is criticized as Eurocentric.
 - There is no generally accepted definition of what constitutes an ethnic group.
+
+Source: adapted from "Society" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Society

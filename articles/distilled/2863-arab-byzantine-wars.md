@@ -45,3 +45,5 @@ The long wars had profound effects. Byzantium lost its western provinces but sur
 - The extent to which local populations (like Monophysites in Syria or Copts in Egypt) welcomed or resisted the Arab conquest is a subject of scholarly discussion.
 - The primary causes and motivations behind the Byzantine adoption of Iconoclasm—whether it was a direct response to military defeats, a theological movement, or a political tool—remain debated.
 - The relative impact of the Arab wars versus internal decay in weakening the Byzantine Empire before the Seljuk victory at Manzikert (1071) is a key historiographical question.
+
+Source: adapted from "Arab–Byzantine wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars

@@ -41,3 +41,5 @@ Boniface intervened in European affairs, excommunicating Frederick III of Sicily
 - **Abdication of Celestine V**: Scholars debate the degree to which Boniface pressured his predecessor into abdicating, an act considered unprecedented and controversial.
 - **Posthumous Trial**: The charges of heresy against Boniface VIII, including accusations of sodomy, were largely driven by Philip IV's political agenda. The Council of Vienne's dismissal of the case suggests the charges were not substantiated, but the trial itself highlights the conflict between papal and royal authority.
 - **Character and Legacy**: Historical accounts vary, depicting Boniface as either a defender of church liberty or an arrogant temporal prince. His portrayal in Dante's *Inferno* as a simoniac has cemented a negative cultural legacy, though modern historians assess his actions within the context of the struggle for papal supremacy.
+
+Source: adapted from "Pope Boniface VIII" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_Boniface_VIII

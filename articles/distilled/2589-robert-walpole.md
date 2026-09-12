@@ -50,3 +50,5 @@ Walpole is credited with establishing stable Whig political supremacy and securi
 - **"Robinocracy"**: The exact dates and nature of his dominant political system are matters of scholarly debate.
 - **Corruption vs. pragmatism**: Historians disagree on whether Walpole institutionalized political corruption or simply used the patronage tools available to any 18th-century minister to maintain stable government.
 - **Historical ranking**: While some rank him among Britain's greatest prime ministers for his stability and longevity, others criticize his later years for military failure and waning political skill.
+
+Source: adapted from "Robert Walpole" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Walpole

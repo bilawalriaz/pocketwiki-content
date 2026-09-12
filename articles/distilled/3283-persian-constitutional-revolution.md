@@ -39,3 +39,5 @@ The revolution sparked a major theological debate within Shi'a Islam. The highes
 *   **Legacy and Interpretation:** The revolution's legacy is contested. Ayatollah Khomeini later dismissed the 1906 constitution as an imperialist plot, while the Islamic Republic paradoxically honored the anti-constitutionalist cleric Fazlollah Nouri.
 *   **Clerical Role:** The debate between Nouri and the Najaf marjas over whether Sharia permits or forbids constitutional government remains a central question in Iranian political theology.
 *   **Coalition Dynamics:** Scholars analyze why the fragile alliance of ulama, bazaaris, and intellectuals ultimately fractured, leading to the revolution's failure.
+
+Source: adapted from "Persian Constitutional Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Persian_Constitutional_Revolution

@@ -43,3 +43,5 @@ The last male Medici, Gian Gastone de' Medici, died in 1737. His sister, Anna Ma
 
 ## Debates and open questions
 The origin of the Medici name and coat of arms is uncertain. Theories for the name range from "medical doctors" to other etymologies. The balls on their coat of arms have been variously interpreted as coins, pills, blood oranges, or symbols from Etruscan art. The family's legacy is also debated; they were criticized as corrupt by contemporaries like Machiavelli, while later nationalists viewed them more favorably as patrons of the Renaissance.
+
+Source: adapted from "House of Medici" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/House_of_Medici

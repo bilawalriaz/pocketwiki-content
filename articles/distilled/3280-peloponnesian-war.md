@@ -48,3 +48,5 @@ Sparta dismantled the Athenian Empire and installed the oligarchic Thirty Tyrant
 - **Responsibility for the War:** Ancient sources like Thucydides present a complex causation, but modern historians debate whether Athens's imperial aggression or Sparta's fear of its rising power was the primary cause.
 - **Thucydides' Account:** While considered reliable, his narrative ends in 411 BC, leaving the war's conclusion dependent on later, sometimes biased sources like Xenophon.
 - **The Role of Persia:** The extent and timing of Persian intervention, and whether it was decisive or merely accelerated an inevitable Spartan victory, is a subject of analysis.
+
+Source: adapted from "Peloponnesian War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peloponnesian_War

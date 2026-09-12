@@ -43,3 +43,5 @@ As the capital, the city houses all three branches of the national government. T
 - The etymology of "Tegucigalpa" is uncertain, with competing theories from Nahuatl and other languages.
 - The primary reason for the 1880 capital relocation from Comayagua is debated, with theories ranging from a personal vendetta by President Soto to his business interests in a nearby mining company.
 - The long-term effectiveness of infrastructure projects, such as the proposed BRT system, in alleviating the city's chronic congestion and disorganized growth remains to be seen.
+
+Source: adapted from "Tegucigalpa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tegucigalpa

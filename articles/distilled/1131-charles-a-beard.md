@@ -58,3 +58,5 @@ Recently, in *To Form a More Perfect Union: A New Economic Interpretation of the
 ## Debates and Open Questions
 
 Beard's economic interpretation remains contested. Critics argue his reductionist model oversimplifies complex motivations, while supporters contend it highlights enduring structural inequalities. The debate over whether the Constitution reflected elite economic interests or broader compromises continues, with newer quantitative studies offering mixed validation of Beard's claims. His foreign policy writings also remain polarizing—seen by some as principled anti-imperialism, by others as dangerously naive appeasement.
+
+Source: adapted from "Charles A. Beard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_A._Beard

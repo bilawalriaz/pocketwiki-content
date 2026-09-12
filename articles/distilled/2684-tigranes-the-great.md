@@ -40,3 +40,5 @@ Tigranes blended Iranian and Hellenistic influences, being a Zoroastrian who ado
 - **Parentage of children**: Historian Gagik Sargsyan argues that only Artavasdes II and one daughter were born to Cleopatra of Pontus, with Tigranes' other children born earlier to a different mother.
 - **Historical significance**: Scholars disagree on whether Tigranes' empire was a fleeting achievement or crucially shaped Armenian national identity for centuries.
 - **Treatment of subjects**: His practice of forcibly relocating conquered populations is criticized as reprehensible, though it was common in ancient state-building.
+
+Source: adapted from "Tigranes the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tigranes_the_Great

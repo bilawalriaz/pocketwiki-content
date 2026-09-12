@@ -58,3 +58,5 @@ In *Political Discourses*, Hume contributed early theories on money, interest, a
 - **Slave of the Passions**: Does Hume fully reject practical reason, or allow limited rational influence on moral judgment?
 - **Slave Trade Involvement**: Recent scholarship debates whether Hume actively promoted or merely conveyed proposals for slave plantation investment.
 - **Historical Bias**: Critics argue Hume’s *History of England* reflects anti-Whig, pro-royalist bias, while others see it as a nuanced political philosophy text.
+
+Source: adapted from "David Hume" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/David_Hume

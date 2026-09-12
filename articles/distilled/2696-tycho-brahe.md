@@ -45,3 +45,5 @@ After falling out of favor with the new Danish king, Tycho left Hven in 1597. He
 - **Cause of Death:** While traditionally attributed to a bladder or kidney ailment, modern analysis of his exhumed remains (2010-2012) found no evidence of mercury poisoning or other poisons, ruling out murder. The exact medical cause remains uncertain.
 - **Accuracy of Star Catalog:** While Brahe claimed an accuracy of one arcminute, analysis shows the median error in his published star catalog was about 1.5 arcminutes, with systematic errors introduced during data processing.
 - **Adoption of His System:** The Tychonic system remained popular, especially in Catholic countries, well into the 18th century as a "safe" alternative to both Ptolemaic and Copernican models, only being definitively excluded by the discovery of stellar aberration in 1729.
+
+Source: adapted from "Tycho Brahe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tycho_Brahe

@@ -50,3 +50,5 @@ A 1946 referendum abolished the monarchy, establishing the Italian Republic. The
 - The origins of the Etruscan civilization are debated, with hypotheses suggesting indigenous development, migration from the Near East, or northern European origins. Genetic studies have provided conflicting evidence.
 - Historians debate the effectiveness of Italy's military performance in World War II, with arguments ranging from it being a "hollow shell" to reassessments highlighting instances of effective action hampered by logistical and strategic problems.
 - The "mutilated victory" sentiment after World War I is considered by historians to be a "political myth" used by fascists, though its impact on public opinion and political radicalization is analyzed.
+
+Source: adapted from "History of Italy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Italy

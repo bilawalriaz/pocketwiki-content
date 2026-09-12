@@ -69,3 +69,5 @@ Cézanne’s practice centred on three concepts: **motif** (the observed subject
 - **Optical vs. conceptual**: Scholars dispute whether Cézanne’s doubled contours and shifting viewpoints stem from physiological binocular vision, deliberate conceptual restructuring, or both.
 - **Late watercolour autonomy**: Roger Fry (1927) argued watercolour technique reshaped Cézanne’s oil painting after 1885; the degree to which late watercolours are independent masterpieces versus studies remains a critical question.
 - **Nazi-era provenance**: Multiple works (*The Sea at L'Estaque*, *Paysage*, *Fruits et pot de gingembre*) have been subject to restitution claims or settlements (2000, 2020, 2023), highlighting ongoing gaps in ownership history 1933–1945.
+
+Source: adapted from "Paul Cézanne" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne

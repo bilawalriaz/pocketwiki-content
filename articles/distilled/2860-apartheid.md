@@ -47,3 +47,5 @@ Apartheid drew widespread international condemnation, leading to South Africa's 
 - Scholars debate the relative importance of internal resistance versus international pressure (sanctions, boycotts) in forcing the apartheid regime to the negotiating table.
 - The role of the Cold War is analyzed, with questions about how Western anti-communist support prolonged the regime versus how Soviet support for liberation movements influenced the conflict.
 - The effectiveness and moral implications of the TRC's amnesty-for-truth model continue to be discussed in the context of transitional justice globally.
+
+Source: adapted from "Apartheid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Apartheid

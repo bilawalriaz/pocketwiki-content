@@ -93,3 +93,5 @@ New Testament silent. Apocryphal *Acts of Paul*: "small stature, bald, crooked l
 8. **Spain journey**: Did Paul reach Spain after Rome (Clement, Muratorian Fragment, Chrysostom) or die in Rome?
 9. **Women’s silence (1 Cor 14:34–35)**: Interpolation? Culturally specific? Genuine but limited?
 10. **Historical Paul vs. Canonical Paul**: How much of the "real" Paul is recoverable behind the theological portrait in Acts and the disputed letters?
+
+Source: adapted from "Paul the Apostle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paul_the_Apostle

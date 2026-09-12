@@ -40,3 +40,5 @@ The Republic's tolerance attracted leading European intellectuals like Descartes
 
 ## Debates and Open Questions
 The term "Dutch Golden Age" is controversial in the 21st century. Critics, including the Amsterdam Museum, argue it glorifies a period of wealth built on colonialism, slavery, and inequality, hiding the experiences of the poor and colonized. Supporters and some politicians contend it remains a valid descriptor for a period of exceptional cultural and economic achievement. The debate centers on whether the term can be separated from its problematic legacy or if it inherently obscures it.
+
+Source: adapted from "Dutch Golden Age" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dutch_Golden_Age

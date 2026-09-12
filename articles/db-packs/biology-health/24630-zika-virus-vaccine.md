@@ -25,3 +25,5 @@ Researchers are pursuing several distinct strategies, each a different way of pr
 **Viral vector vaccines.** These use harmless viruses to deliver Zika genes into cells. A measles-virus-based candidate completed a Phase 1 trial in April 2018; an adenovirus-based candidate was completing Phase 1 in 2019. Adenovirus vectors were previously used for HIV vaccine candidates and provoke strong immune responses. A chimeric vaccine, a hybrid that fuses Zika surface proteins onto an unrelated viral scaffold called Binjari virus, has proven highly effective at immunising mice.
 
 All of these candidates aim to elicit antibodies against the E and PrM surface proteins while avoiding the two known hazards: triggering Guillain-Barré syndrome and worsening dengue through antibody-dependent enhancement. Reaching that balance safely, particularly for use in pregnant women, remains the field's central challenge.
+
+Source: adapted from "Zika virus vaccine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zika_virus_vaccine

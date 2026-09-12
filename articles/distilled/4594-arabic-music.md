@@ -44,3 +44,5 @@ Improvisation is a key element, with varying regional attitudes—some view it a
 
 ## Debates and Open Questions
 Scholars debate the extent of Arabic influence on European traditions like the troubadours and Solfège notation. While some argue for direct origins, others contend the evidence is inconclusive or that the traditions developed independently. The precise number and classification of ajnas and maqamat remain unsettled due to continuous innovation and regional variation.
+
+Source: adapted from "Arabic music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabic_music

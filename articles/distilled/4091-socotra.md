@@ -46,3 +46,5 @@ The inhabitants, called Socotrans, are primarily indigenous Soqotri people of So
 - The exact origin of the name "Socotra" is debated, with theories linking it to a Greek derivation from a South Arabian tribe or to an Arabic term meaning "market of dragon's blood."
 - The actual reptile diversity may be greater than currently recognized due to high levels of cryptic diversity revealed by genetic surveys.
 - The future of Socotra's endemic species is uncertain, as they are highly vulnerable to climate change, invasive species, and habitat fragmentation from development.
+
+Source: adapted from "Socotra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Socotra

@@ -52,3 +52,5 @@ For small samples (under about 50), basic and percentile intervals for the varia
 The jackknife, the bootstrap's predecessor, estimates variance and bias by leaving out one observation at a time. Cross-validation does the same for prediction error on held-out data. Bagging (bootstrap aggregating) trains many models on bootstrap samples and averages their predictions. U-statistics generalize the idea of averaging a statistic over many small subsamples.
 
 The bootstrap was introduced by Bradley Efron in 1979, inspired by the earlier jackknife. A Bayesian extension followed in 1981, the bias-corrected and accelerated (BCa) interval in 1987, and the approximate bootstrap confidence (ABC) procedure in 1992.
+
+Source: adapted from "Bootstrapping (statistics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bootstrapping_%28statistics%29

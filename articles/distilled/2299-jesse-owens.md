@@ -37,3 +37,5 @@ After the Olympics, Owens was stripped of his amateur status by the AAU for refu
 
 ## Debates and open questions
 The primary historical debate concerns Adolf Hitler's reaction to Owens's victories. While popular culture holds that Hitler deliberately snubbed him, accounts vary. Some contemporary reports and later testimonies suggest Hitler may have offered a congratulatory wave or salute, while others maintain he refused to acknowledge non-German winners. Owens himself gave conflicting statements, at times saying he felt snubbed by President Roosevelt more than by Hitler.
+
+Source: adapted from "Jesse Owens" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jesse_Owens

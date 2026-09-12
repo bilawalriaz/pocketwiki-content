@@ -36,3 +36,5 @@ Within each subfield, various philosophical approaches are applied. For example,
 
 ## Debates and Open questions
 The source highlights ongoing debates, such as the critique of environmental determinism for its lack of rigor and use to justify racism. The quantitative revolution sparked debate over the scientific rigor of descriptive regional geography. Later, radical geographers critiqued the objectivity of positivism as a tool of capital, advocating for politically engaged research. These shifts reflect continuous debate over methodology, theory, and the discipline's purpose.
+
+Source: adapted from "Human geography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_geography

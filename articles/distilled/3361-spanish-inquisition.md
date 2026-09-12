@@ -46,3 +46,5 @@ Enlightenment ideas in the 18th century challenged the Inquisition's authority, 
 *   **Role of Torture**: The frequency and severity of torture are contested. Revisionist historians argue it was used less often and more cautiously than in secular courts, while others highlight its psychological impact and role in extracting confessions.
 *   **Economic Motives**: A major debate centers on whether the Inquisition was primarily a religious institution or a tool for wealth confiscation. The systematic seizure of property from the accused, often the wealthy, suggests a significant financial motive.
 *   **Long-Term Impact**: Scholars study the Inquisition's lasting effects on Spanish society, including its alleged role in stifling scientific inquiry, economic development, and social trust.
+
+Source: adapted from "Spanish Inquisition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_Inquisition

@@ -40,3 +40,5 @@ Sunni creed rests on six pillars of faith: belief in God, angels, revealed scrip
 The abolition of the Ottoman Caliphate in 1924 by Mustafa Kemal Atatürk removed the last institution claiming universal caliphal authority. Responses ranged from India's Khilafat Movement to the rise of Saudi Arabia under a doctrine rooted in Ibn Taymiyyah's textualism, later labeled Wahhabism, and to 20th-century political Islamism exemplified by the Taliban and ISIL. These movements have often clashed with traditional institutions, highlighting an enduring tension over who defines legitimate Sunni identity.
 
 The phrase "Sunni" itself was popularized in its modern sense by Muhammad Rashid Rida's 1928–29 treatise, reflecting how the tradition's self-understanding continues to be actively negotiated.
+
+Source: adapted from "Sunni Islam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sunni_Islam

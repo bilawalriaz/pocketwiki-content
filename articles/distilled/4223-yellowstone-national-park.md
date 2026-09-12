@@ -45,3 +45,5 @@ Wildfire is a natural ecological process in Yellowstone. Lodgepole pines, the do
 *   **Grizzly Bear Protections:** The legal status of the grizzly bear has been contested, with its listing under the Endangered Species Act being removed, reinstated, and removed again through court battles.
 *   **Future Volcanic Activity:** While the time between Yellowstone's last three supereruptions was 600,000 to 800,000 years, scientists caution that this small sample size cannot be used to accurately predict future events.
 *   **Wolf Reintroduction:** The reintroduction of wolves in the 1990s was controversial but is now seen as a key factor in restoring ecological balance, such as influencing elk behavior and aiding aspen recovery.
+
+Source: adapted from "Yellowstone National Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yellowstone_National_Park

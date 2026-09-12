@@ -37,3 +37,5 @@ Cleavage commonly forms parallel to the axial plane of folds and is then called 
 ## Engineering considerations
 
 In geotechnical engineering a cleavage plane is treated as a discontinuity that can dominate the mechanical behaviour of a rock mass. The strength and deformation of the rock in tunnels, foundations, and slopes depend strongly on the orientation and spacing of these planes, which is why cleavage is mapped and measured whenever a rock mass is assessed for construction.
+
+Source: adapted from "Cleavage (geology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cleavage_%28geology%29

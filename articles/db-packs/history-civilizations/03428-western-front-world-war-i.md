@@ -25,3 +25,5 @@ Three features explain the deadlock. First, firepower outran mobility: rifles, m
 ## Costs and Consequences
 
 The Western Front produced casualties on a scale that shocked its participants: Verdun, the Somme, and Passchendaele together accounted for several million killed, wounded, and missing, mostly young men of the combatant nations. The economic damage to northern France, occupied or fought over for four years, took years to rebuild. The defeated German military convinced itself it had not been beaten in the field, a belief later known as the "stab-in-the-back" myth that echoed through German politics in the 1930s.
+
+Source: adapted from "Western Front (World War I)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_Front_%28World_War_I%29

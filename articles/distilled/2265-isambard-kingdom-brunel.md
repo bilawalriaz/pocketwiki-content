@@ -41,3 +41,5 @@ During the Crimean War, Brunel designed the prefabricated Renkioi Hospital, whic
 - **Legacy of the Clifton Suspension Bridge:** Scholars debate how much of the final bridge, completed in 1864, reflects Brunel's original 1831 design.
 - **Cause of the Great Eastern's Failure:** While its engineering was revolutionary, its lack of commercial success is attributed to being "too far ahead of its time" economically, rather than being a technical failure.
 - **Impact of the Gauge War:** Brunel's insistence on the broad gauge, though technically superior in some respects, is seen as a costly miscalculation that the GWR had to reverse after his death.
+
+Source: adapted from "Isambard Kingdom Brunel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel

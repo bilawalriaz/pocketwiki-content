@@ -49,3 +49,5 @@ Reunification made Germany a leading European power but cost an estimated €1.5
 *   **Economic Policy:** The rapid "shock-therapy" privatization in the East, led by the Treuhandanstalt, is debated. Critics argue it caused unnecessary deindustrialization; defenders see it as inevitable.
 *   **"Inner Reunification":** Whether true social and cultural unity has been achieved remains open. Chancellor Angela Merkel stated in 2009 that "the process of German unity has not ended yet."
 *   **Historical Responsibility:** Opponents like Günter Grass argued that Germany's history, particularly the Holocaust, deprived it of the right to exist as a unified nation-state, fearing revived nationalism.
+
+Source: adapted from "German reunification" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/German_reunification

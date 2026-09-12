@@ -46,3 +46,5 @@ The Spanish consolidated control by founding Lima (1535) and establishing the Vi
 - **Disease Impact**: There is debate over whether the initial epidemic that struck the Inca in the 1520s was smallpox or another disease like Carrion's disease.
 - **Role of Indigenous Allies**: The critical role of indigenous groups who allied with the Spanish is emphasized, challenging narratives of a simple Spanish vs. Inca conflict.
 - **Long-term Population Decline**: The precise causes and scale of the demographic collapse are studied, with factors including disease, warfare, forced labor, and mercury poisoning from mining.
+
+Source: adapted from "Spanish conquest of the Inca Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire

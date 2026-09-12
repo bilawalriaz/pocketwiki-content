@@ -84,3 +84,5 @@ Institutions instantiate justice ideals in a world of disagreement and interconn
 - **Evolutionary mismatch**: Are innate justice intuitions (fairness, retaliation) adapted to ancestral environments and maladaptive today?
 - **Restorative efficacy**: Does restorative justice reduce recidivism (meta-analyses say no) or primarily satisfy victims?
 - **Institutional legitimacy**: When do institutions instantiate justice vs. merely enforce power (e.g., slavery)?
+
+Source: adapted from "Justice" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Justice

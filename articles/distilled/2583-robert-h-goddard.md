@@ -47,3 +47,5 @@ During World War II, Goddard worked for the U.S. Navy, developing variable-thrus
 - **Secrecy vs. Collaboration**: Goddard's insistence on secrecy, motivated by past ridicule and a desire for independent progress, is debated as both a factor that slowed broader American rocket development and a necessary approach for a visionary working ahead of his time.
 - **Impact on German Rocketry**: The extent to which German rocket scientists, particularly von Braun's team, directly utilized Goddard's published work and patents versus developing their own technology independently remains a point of historical analysis.
 - **Recognition in His Lifetime**: The source highlights the stark contrast between Goddard's lack of support and recognition in the U.S. before his death and his posthumous acclaim as a founding father of the Space Age.
+
+Source: adapted from "Robert H. Goddard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_H._Goddard

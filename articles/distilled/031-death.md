@@ -97,3 +97,5 @@ Evolutionary theory sees death as part of natural selection: less-adapted organi
 ## Debates and open questions
 
 The central debate is whether death should be defined by circulatory cessation, whole-brain death, or neocortical death. Critics of brain death note that brain-dead patients can maintain biological functioning, while proponents argue brain death has reliable, reproducible criteria and the brain determines identity. The dead donor rule—requiring official death before organ procurement—remains controversial, with advocates citing donor protection and critics arguing it does not uphold donor interests or promote donation. The variability of brain-death application across hospitals and specialties persists despite 2010 criteria updates. Whether consciousness ends at death or continues in an afterlife remains unresolved across religious and secular traditions.
+
+Source: adapted from "Death" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Death

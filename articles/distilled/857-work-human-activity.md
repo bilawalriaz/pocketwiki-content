@@ -51,3 +51,5 @@ Modern economies face persistent challenges. Slavery and human trafficking endur
 
 ## Debates and Open Questions  
 Scholars debate whether child labor should be universally banned or addressed through poverty reduction. Some argue any work by those under 18 undermines education and human capital; others contend prohibitions push families into informal or illegal economies. Another contested issue is the future of work under automation—will AI and robotics eliminate jobs or create new ones? Pope Francis and McKinsey suggest work will transform rather than disappear. Additionally, there is ongoing discussion about how to value unpaid labor in national accounts and whether universal basic income can decouple survival from employment without undermining motivation or social cohesion.
+
+Source: adapted from "Work (human activity)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Work_%28human_activity%29

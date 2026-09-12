@@ -37,3 +37,5 @@ Empirical work links higher inequality to worse health outcomes, lower social tr
 ## Mitigating factors and policy levers
 
 Social connectedness to higher-income peers is a strong predictor of upward mobility for poor children. Government tools include progressive taxation, the earned income tax credit, public education, wage-ratio legislation, and minimum wages. Saez and Piketty recommend top marginal rates as high as 50–90%; the OECD argues public spending is vital to closing wealth gaps. A 2025 Pew survey found majorities across 36 countries view economic inequality as a major problem. United Nations Sustainable Development Goal 10 targets significant reduction in inequality by 2030.
+
+Source: adapted from "Economic inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economic_inequality

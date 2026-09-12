@@ -53,3 +53,5 @@ With over 101.5 million people (2020 census), Shandong is China's second-most po
 
 ## Debates and Open Questions
 The source does not explicitly outline major scholarly debates, but it notes historical complexities such as the shifting control of Shandong between various dynasties and warlords, and the significant demographic and cultural impacts of events like the Boxer Rebellion, Japanese occupation, and internal migrations.
+
+Source: adapted from "Shandong" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shandong

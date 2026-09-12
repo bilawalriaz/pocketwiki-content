@@ -72,3 +72,5 @@ Luther suffered Ménière’s disease, kidney stones, arthritis, and angina. His
 - **Philip of Hesse Bigamy:** Whether Luther’s private pastoral concession (secret bigamy > public divorce) constituted a moral failure or a pragmatic *casuistry* misjudged politically.
 - **Faith and Reason:** Whether Luther was a fideist (reason "enemy of faith") or sought to demarcate distinct epistemological spheres (reason for worldly knowledge, faith for revelation).
 - **Eucharistic Ubiquity:** Whether Luther’s *sacramental union* (Christ’s human nature ubiquitous) coheres with Chalcedonian Christology or risks Eutychianism (confusion of natures).
+
+Source: adapted from "Martin Luther" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Martin_Luther

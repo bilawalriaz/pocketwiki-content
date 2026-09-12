@@ -38,3 +38,5 @@ Parties raise billions in major democracies through member dues, corporate donat
 Parties use ideologies such as liberalism, conservatism, socialism, communism, nationalism, and environmentalism to signal intent, set themselves apart, and mobilize voters. The economic left-right axis is the most familiar, but liberal-authoritarian, establishment-anti-establishment, and pluralist-anti-system dimensions also organize competition, and some parties stand mainly for patronage or personal advancement. Colors and symbols help voters identify parties, with cross-national conventions (red for left, blue for right) that invert only in notable cases such as the United States.
 
 The shift from mass-membership parties of the early 20th century toward catch-all and cartel forms has coincided with falling membership rolls, leaving open whether parties still link citizens to the state as effectively as they once did.
+
+Source: adapted from "Political party" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Political_party

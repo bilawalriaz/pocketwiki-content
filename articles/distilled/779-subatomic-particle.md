@@ -53,3 +53,5 @@ All observable subatomic particles have their electric charge an integer multipl
 ## Debates and Open Questions
 
 Even among particle physicists, the exact definition of a particle varies. These professional attempts at the definition of a particle include: a collapsed wave function, an excitation of a quantum field, an irreducible representation of the Poincaré group, or simply an observed thing. Proton stability is uncertain—while not observed to decay, some Grand Unified Theories predict it. The existence of the graviton and other beyond-Standard-Model particles remains unconfirmed as of 2026. Whether neutrinos are truly stable or merely long-lived is also unresolved.
+
+Source: adapted from "Subatomic particle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Subatomic_particle

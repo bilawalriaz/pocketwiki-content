@@ -52,3 +52,5 @@ Langmuir married Marion Mersereau in 1912; they adopted two children. He was an 
 - **Priority dispute**: Langmuir’s 1919 "concentric theory of atomic structure" built on Lewis’s cubical atom theory; credit for the theory itself is mostly attributed to Lewis, though Langmuir popularized it.
 - **Cloud seeding efficiency**: The technique’s effectiveness in practice, especially in Australia and China, remains controversial.
 - **Pathological science**: The concept is debated in terms of its boundaries and application to modern cases like cold fusion.
+
+Source: adapted from "Irving Langmuir" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Irving_Langmuir

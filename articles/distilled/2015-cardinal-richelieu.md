@@ -46,3 +46,5 @@ Richelieu's later years were marked by illness and continued conspiracies, inclu
 - The extent to which Richelieu's policies were driven by personal ambition versus a coherent vision for French statecraft is debated.
 - His alliance with Protestant powers against Catholic Habsburgs created a lasting tension between his role as a prince of the Church and his actions as a statesman, raising questions about the primacy of religious versus national loyalty.
 - Historians assess whether his harsh authoritarian measures (censorship, espionage, executions) were necessary for state-building or primarily served to maintain his personal power.
+
+Source: adapted from "Cardinal Richelieu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cardinal_Richelieu

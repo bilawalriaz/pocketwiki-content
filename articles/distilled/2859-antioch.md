@@ -46,3 +46,5 @@ The First Crusade captured Antioch in 1098 after a brutal siege, establishing th
 *   **Population Figures:** Ancient sources give varying numbers for Antioch's population at different times (e.g., 500,000 at its peak, 200,000 free adults under Ignatius, 150,000 total in 363 AD), making precise demographic history difficult.
 *   **The 490/491 CE Riots:** Historical accounts of anti-Jewish violence differ significantly between Greek and Slavonic manuscript traditions, creating uncertainty about the sequence of events and the role of the city's Blue and Green factions.
 *   **Julian's Visit:** The degree of religious harmony or tension in Antioch during Emperor Julian's 362 AD visit is debated, with sources like Ammianus Marcellinus highlighting conflict between the emperor's paganism and the city's Christian majority.
+
+Source: adapted from "Antioch" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antioch

@@ -45,3 +45,5 @@ Diaries take many specialized forms. A personal organizer lists daily tasks. Fre
 
 ## Debates and Open Questions
 The source notes a scholarly debate regarding the earliest examples of diary-like writing, with works like the *Meditations* of Marcus Aurelius and the pillowbooks of Japanese court ladies being considered precursors that display "some aspects" of the genre but rarely consist exclusively of daily records.
+
+Source: adapted from "Diary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diary

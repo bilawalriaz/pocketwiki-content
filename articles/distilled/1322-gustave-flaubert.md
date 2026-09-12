@@ -51,3 +51,5 @@ Critic James Wood argues Flaubert created modern realist narration: "a time befo
 - **Autobiographical Elements in *Sentimental Education***: The novel draws on Flaubert’s youth and the 1848 Revolution, but the extent to which Frédéric Moreau represents the author remains contested.
 - **Cause of Epilepsy/Nervous Attacks**: The 1846 attack ended his legal career; the precise diagnosis (epilepsy vs. other neurological condition) is debated by biographers.
 - **Status of *Bouvard et Pécuchet***: Flaubert considered it his masterpiece, but its unfinished state and satirical target (knowledge itself vs. bourgeois mediocrity) invite divergent readings.
+
+Source: adapted from "Gustave Flaubert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gustave_Flaubert

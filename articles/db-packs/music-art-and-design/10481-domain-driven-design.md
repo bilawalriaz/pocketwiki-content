@@ -41,3 +41,5 @@ A bounded context often maps one-to-one onto a microservice, which keeps boundar
 ## Discovering the model
 
 Event storming is a workshop technique that often precedes DDD. Stakeholders, domain experts, and developers use color-coded sticky notes to map domain events, their causes, and their effects, surfacing subdomains, bounded contexts, and aggregate boundaries before any code is written.
+
+Source: adapted from "Domain-driven design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Domain-driven_design

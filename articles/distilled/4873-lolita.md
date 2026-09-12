@@ -40,3 +40,5 @@ After multiple rejections, *Lolita* was published in France by Olympia Press, a 
 - **The nature of Humbert's unreliability:** Scholars debate whether his unreliability stems from deliberate deceit, self-delusion, or cognitive distortion, and how this affects the reader's moral judgment.
 - **Was it rape?** While Humbert's actions are legally and morally rape, some critics and even Nabokov's biographer have downplayed the term, a view vigorously disputed by others who argue it blames the victim.
 - **Plagiarism or influence?** The discovery of a 1916 German short story titled "Lolita" with a similar premise has sparked debate about whether Nabokov had cryptomnesia or if the similarities are coincidental.
+
+Source: adapted from "Lolita" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lolita

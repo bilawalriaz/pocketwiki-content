@@ -42,3 +42,5 @@ After 1419, Sigismund's claim to the Bohemian throne was resisted by Hussites wh
 - Sigismund's personal responsibility for the death of Jan Hus is debated. He had granted Hus safe conduct and protested his imprisonment, but Hus was executed by a Church court during Sigismund's absence.
 - Recent scholarship, especially from East-Central Europe, re-evaluates his reign, viewing setbacks like the Hussite Wars as results of severe financial and political constraints rather than personal failure.
 - The extent to which Sigismund's diplomatic maneuvering, particularly through allies like Stibor of Stiboricz, was a consistent strategy versus opportunistic alliance-building is analyzed.
+
+Source: adapted from "Sigismund, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sigismund%2C_Holy_Roman_Emperor

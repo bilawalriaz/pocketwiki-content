@@ -40,3 +40,5 @@ Patel was a key architect of the modern Indian state, playing a major role in sh
 - **Patel's Role in Partition**: While he accepted partition as a pragmatic solution, he was criticized by Gandhi, Nehru, and secular Muslims for being overly eager to divide Punjab and Bengal.
 - **Relationship with Nehru**: Their partnership was essential but marked by significant policy clashes, particularly over Kashmir, Hyderabad, and the release of funds to Pakistan.
 - **Integration Methods**: His use of force in Hyderabad and firm diplomacy with other states is celebrated as decisive but also analyzed as a critical moment where the new state asserted its authority.
+
+Source: adapted from "Vallabhbhai Patel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vallabhbhai_Patel

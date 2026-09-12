@@ -50,3 +50,5 @@ The 20th century saw radical experimentation alongside traditionalism. Expressio
 
 ## Debates and Open Questions
 A central historical debate concerns the relative importance of music versus text in opera. Early theorists like Monteverdi argued "the word must be decisive," while later composers like Mozart stated "poetry must be the obedient servant of music." Wagner sought to fuse all arts into a single entity. Another ongoing discussion involves the balance between vocal virtuosity (as in bel canto) and dramatic expression. The 20th century also sparked debates about the viability of opera as a genre, with avant-garde "anti-opera" challenging traditional forms, while others sought to revive narrative and melody.
+
+Source: adapted from "History of opera" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_opera

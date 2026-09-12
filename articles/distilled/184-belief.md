@@ -93,3 +93,5 @@ Mainstream psychology treats belief as a basic mental representation; philosophy
 - **Epistemic justification**: Post-Gettier, what replaces or repairs JTB? Tracking, reliabilism, virtue epistemology, or knowledge-first approaches?
 - **Belief revision**: Why are belief systems so resistant to change (boat-like)? What roles do emotion, identity, and ad hoc hypotheses play in maintaining "claptrap"?
 - **Neuroscience vs. folk psychology**: Will advances in neuroscience eliminate the concept of belief (eliminativism) or vindicate it in a revised form?
+
+Source: adapted from "Belief" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Belief

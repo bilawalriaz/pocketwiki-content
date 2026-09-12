@@ -47,3 +47,5 @@ Wollstonecraft blends rational philosophical treatise language with passionate s
 - **Political rights**: It is unclear if Wollstonecraft advocated for women's full voting rights or other political rights, making her political stance difficult to categorize.
 - **View on sexuality**: Scholars like Cora Kaplan argue Wollstonecraft's work expresses a "violent antagonism to the sexual," while others see it as a strategic move to protect women from domination in a patriarchal society.
 - **Legacy and reception**: The modern assumption that the work was initially poorly received is a misconception; it was favorably reviewed until Wollstonecraft's private life was posthumously exposed, leading to a century of repute.
+
+Source: adapted from "A Vindication of the Rights of Woman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman

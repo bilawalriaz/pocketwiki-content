@@ -47,3 +47,5 @@ Rudaki’s status as the "first major poet of New Persian" rests on the survival
 - **Ethnic/national designation:** Iran claims him as founder of "New Persian poetry"; Tajikistan claims him as father of "Tajik literature." Scholars (e.g., Foltz) view these as non-contradictory reflections of a shared heritage.
 - **Isma'ili affiliation:** Rudaki’s "pro-Isma'ili sympathies" are noted, but the extent of his doctrinal commitment versus poetic convention remains unclear.
 - **Authenticity of corpus:** The *Pseudo-Diwan* complicated textual history for centuries; distinguishing genuine fragments from later attributions (especially Qatran Tabrizi’s work) remains a philological task.
+
+Source: adapted from "Rudaki" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rudaki

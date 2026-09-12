@@ -43,3 +43,5 @@ Factions displayed their allegiance through heraldry: Guelphs used a "chief of A
 - The exact origins of the names "Guelph" and "Ghibelline" from the battle cries at Weinsberg are debated, with some scholars questioning the direct linguistic evolution.
 - The degree to which the factions were driven by ideological loyalty to the empire or papacy versus local political and economic interests remains a subject of historical analysis.
 - The role of the conflict in shaping later Italian political identity and its long-term impact on the region's development is still studied.
+
+Source: adapted from "Guelphs and Ghibellines" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guelphs_and_Ghibellines

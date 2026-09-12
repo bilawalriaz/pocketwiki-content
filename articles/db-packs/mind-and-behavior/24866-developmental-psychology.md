@@ -29,3 +29,5 @@ Theory of mind is the capacity to attribute mental states to oneself and others,
 ## Family and cultural context
 
 Parenting style, defined along warmth and control, predicts substantial variance in child outcomes: authoritative (high warmth, firm control) tends to yield the most positive results, while neglectful parenting tends to yield the worst. Children need at least one consistently responsive caregiver, and father involvement also matters. Divorce itself is not deterministically harmful; post-divorce cooperation, maternal warmth, and father-child contact are protective. Cross-cultural research shows that many "universal" developmental findings come from Western, educated, industrialized samples, and that other frameworks, including the Indian Dharma-based life stages, emphasize interdependence and community over autonomy.
+
+Source: adapted from "Developmental psychology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Developmental_psychology

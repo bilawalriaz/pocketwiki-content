@@ -46,3 +46,5 @@ The Kushites developed their own language and script, the Meroitic alphabet. The
 - Scholars debate why the Kushites chose to conquer Egypt in the 8th century BC, with one hypothesis linking it to a claim of religious legitimacy from the god Amun.
 - The classification of the Meroitic language is uncertain; it may belong to the Afro-Asiatic or Nilo-Saharan language families.
 - The study of Kush has been overshadowed by Egyptology, and scholars argue it should be recognized as a distinct state with its own complex development.
+
+Source: adapted from "Kingdom of Kush" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Kush

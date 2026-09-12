@@ -84,3 +84,5 @@ Whistler’s legacy is vast: he pivoted art from narrative to formal harmony, in
 - **Peacock Room authorship:** The destruction of Jeckyll’s design and the Cordoba leather raises ethical questions about artistic ego versus patron rights and historic preservation.
 - **Sexuality and gender in *Symphony in White, No. 1*:** Contemporary critics read the wolf skin rug and lily as symbols of lost innocence or masculinity; Whistler denied narrative intent, but the tension between his formalism and viewers' symbolist readings remains a critical focus.
 - **Influence on Modernism:** The extent to which Whistler’s "art for art's sake" directly anticipates formalist abstraction (Greenberg) versus remaining rooted in Symbolist evocation is a continuing art-historical debate.
+
+Source: adapted from "James McNeill Whistler" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_McNeill_Whistler

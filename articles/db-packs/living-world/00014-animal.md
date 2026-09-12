@@ -37,3 +37,5 @@ Aristotle divided animals by blood presence; Linnaeus's 1758 *Systema Naturae* c
 ## Human Uses
 
 Humans exploit animals for food, materials (wool, silk, leather, fur), transport, hunting, and science—*Drosophila melanogaster* is a key model organism, and trabectedin is a derived medicine. Dogs are the most common pets. Humans and livestock account for over 90% of terrestrial vertebrate biomass. Animals also appear in zodiacs, cave art (Lascaux), painting, mythology, heraldry, and sports.
+
+Source: adapted from "Animal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Animal

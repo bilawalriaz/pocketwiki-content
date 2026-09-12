@@ -38,3 +38,5 @@ Two mass extinctions bracketed the Mesozoic. The Permian–Triassic extinction a
 ## What the timeline teaches
 
 Three patterns recur. Planetary change and biological change are coupled: the Moon-stabilized tilt, the oxygenated atmosphere, and the breakup of supercontinents each altered the environment in which evolution unfolded. Oxygen was both a poison and a prerequisite, killing much of the existing biosphere while enabling larger, more energetic cells. Mass extinctions, whether triggered by asteroid impacts, volcanic eruptions, or climate shifts, repeatedly pruned diversity and allowed surviving lineages to expand into emptied niches, which is why mammals, not dinosaurs, dominate land vertebrates today.
+
+Source: adapted from "History of Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Earth

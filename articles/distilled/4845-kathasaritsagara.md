@@ -45,3 +45,5 @@ Two other major Sanskrit recensions of the *Bṛhatkathā* exist: Kṣemendra's 
 - **Relationship to the *Bṛhatkathā***: Scholars debate whether Somadeva and Kṣemendra worked from the same text and how closely their versions reflect Guṇāḍhya's original Paiśācī work, which is lost. The available Sanskrit recensions are all significantly different.
 - **Historicity of Guṇāḍhya**: While compared to epic poets like Vyasa, the historical existence and exact period of Guṇāḍhya are uncertain.
 - **Transmission of Tales**: The work is a key node in the global transmission of Indian stories. Its relationship to other collections like the *Pañcatantra* and the *One Thousand and One Nights* is a subject of ongoing study, with evidence suggesting it may preserve earlier versions of some tales.
+
+Source: adapted from "Kathasaritsagara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kathasaritsagara

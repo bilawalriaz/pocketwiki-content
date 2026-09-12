@@ -73,3 +73,5 @@ Capacity = evaporator enthalpy rise × mass flow rate. Units: kW or BTU/h (domes
 - **Elastocaloric hysteresis losses:** Energy dissipation during phase transformation (austenite↔martensite) limits efficiency; alloy tuning to minimize incompatibility between phases is an active materials science challenge.
 - **Passive cooling scalability:** Radiative-evaporative hybrid systems show promise for off-grid food preservation, but water consumption (recharge every 4–30 days) and humidity dependence limit deployment in arid regions.
 - **Fridge Gate and theoretical limits:** Single-logic-gate thermodynamic cycles remain theoretical; practical implementation faces particle-state control and energy-neutral swap engineering hurdles.
+
+Source: adapted from "Refrigeration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Refrigeration

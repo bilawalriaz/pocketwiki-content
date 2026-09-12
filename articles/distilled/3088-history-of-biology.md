@@ -57,3 +57,5 @@ Disciplines converged. Organismal biologists adopted molecular tools; molecular 
 - **Mendelism vs. Biometrics:** Early 20th-century conflict between Mendelian discrete inheritance and continuous variation studied by biometricians was resolved by the modern synthesis.
 - **Neutral Theory vs. Selectionism:** Motoo Kimura's neutral theory (1968) proposed that most molecular evolution is driven by genetic drift, not natural selection, sparking ongoing debate about the relative importance of selection and contingency in evolution.
 - **Molecular vs. Organismal Biology:** The "Molecular Wars" (late 20th century) saw tension between reductionist molecular approaches and holistic organismal/evolutionary perspectives, a divide that has since lessened with integrative fields.
+
+Source: adapted from "History of biology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_biology

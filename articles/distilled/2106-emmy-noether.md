@@ -46,3 +46,5 @@ In 1933, the Nazi government dismissed Noether from her position. She emigrated 
 - **Noether's Problem**: Noether asked whether the fixed field of a subgroup of a permutation group acting on a field of rational functions is always a pure transcendental extension. This was later shown to be false in general by counterexamples (e.g., Swan, 1969), but the inverse Galois problem, to which it is related, remains unsolved.
 - **Noether's Gap**: For years, it was uncertain whether Noether's bound for the degrees of generators of invariant rings of finite groups held when the characteristic of the field divides the group order. This was resolved affirmatively by Fleischmann (2000) and Fogarty (2001).
 - **Recognition**: Despite her profound influence, Noether was never promoted to a full professorship in Germany and was not elected to the Göttingen Academy of Sciences, reflecting the persistent gender and political biases of her time.
+
+Source: adapted from "Emmy Noether" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emmy_Noether

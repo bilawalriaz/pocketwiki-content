@@ -47,3 +47,5 @@ $$3 \cdot \tfrac{2}{3} + 5 \cdot \tfrac{1}{3} = \tfrac{11}{3} \approx 3.67.$$
 **Angles and cyclic data.** The ordinary arithmetic mean fails for cyclic quantities. Averaging 1° and 359° gives 180°, the worst summary, since both points sit only 1° from 0° but 179° from 180°. Angles are defined only up to a full turn (360° or $2\pi$ radians), so a circular mean must measure distance around the circle rather than along a line. The same caveat applies to any cyclic quantity, such as phases of the moon or times of day.
 
 **Vectors and beyond.** The arithmetic mean of points in multiple dimensions is their *centroid*. Because it is a *convex combination* (the coefficients sum to 1), the construction generalises to any convex space, not just flat vector spaces.
+
+Source: adapted from "Arithmetic mean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arithmetic_mean

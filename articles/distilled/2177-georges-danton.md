@@ -45,3 +45,5 @@ Danton was arrested on 30 March 1794 alongside Desmoulins and others. The charge
 *   **Role in the September Massacres:** Historians debate whether Danton actively organized the massacres or merely failed to stop them after his inflammatory speech. The source states there is "no proof that the massacres were organized by Danton."
 *   **Character and Motives:** Assessments of Danton vary widely. Some historians, like Thiers, see him as a "gigantic revolutionary," while others, like Lamartine, view him as a corrupt "statesman of materialism." A more positive view from Robinet portrays him as a generous patriot.
 *   **Reasons for Execution:** While officially charged with corruption and conspiracy, his execution is widely seen as the result of his political challenge to Robespierre and the Committee of Public Safety's monopoly on power during the Terror.
+
+Source: adapted from "Georges Danton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georges_Danton

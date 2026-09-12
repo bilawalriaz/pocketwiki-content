@@ -59,3 +59,5 @@ which is one of the Peano axioms for the natural numbers. The remaining Peano ax
 ## Generalisation to well-founded sets
 
 Replacing the natural numbers by any **well-founded** set, meaning an ordered set with no infinite descending chain, gives **transfinite induction**: to prove P(n) for every element of such a set, it suffices to show that P(m) for all m < n implies P(n). The case of a minimal element is vacuous, the case of an immediate predecessor reduces to ordinary induction, and the remaining limit-ordinal case uses the hypothesis for all smaller elements.
+
+Source: adapted from "Mathematical induction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematical_induction

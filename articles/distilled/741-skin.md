@@ -54,3 +54,5 @@ Homeostasis declines as stem/progenitor cells fail to self-renew/differentiate. 
 - **Stem cell dynamics in aging:** Mechanisms by which TGF-β blocks fibroblast-to-adipocyte conversion and how stem/progenitor cell exhaustion drives homeostasis failure are not fully resolved.
 - **Fossil skin identity:** The 289-million-year-old fossil skin (reported 2024) is "possibly" reptilian; taxonomic assignment and implications for early amniote integument evolution are pending further study.
 - **Mechanical pre-stress variation:** Regional differences in skin pre-stress (tension vs. compression) and their developmental origins are incompletely mapped.
+
+Source: adapted from "Skin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Skin

@@ -44,3 +44,5 @@ Alexander's reign was marked by scandal, particularly due to his acknowledged il
 - **Responsibility for Slavery:** Scholars debate whether his 1493 bulls implicitly authorized the enslavement of indigenous peoples in the New World. Some historians assert they did, while Vatican scholars and others strongly disagree.
 - **Cause of Death:** His death is attributed by contemporaries and historians to malaria or other pestilence common in Rome, though the dramatic decomposition of his body fueled contemporary rumors of poisoning.
 - **Historical Reputation:** Some Catholic apologists argue his criticized behaviors were typical for the era, while rivals like Julius II and later historians have condemned him as uniquely corrupt. The extent to which his reputation was exaggerated by Italian rivals remains a point of discussion.
+
+Source: adapted from "Pope Alexander VI" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_Alexander_VI

@@ -79,3 +79,5 @@ Tissue culture is used in plant science, forestry, and horticulture to:
 - In bamboo species whose single flowering event can be separated from germination by more than 50 years, tissue culture can be used to induce flowering on a useful timescale.
 
 The medium most often used to support these cultures is the **Murashige and Skoog** formulation, a defined salt mixture.
+
+Source: adapted from "Plant tissue culture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_tissue_culture

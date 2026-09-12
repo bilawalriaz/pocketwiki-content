@@ -37,3 +37,5 @@ Khadija died in November 619, a year Muhammad called the "Year of Sorrow" due to
 - **Number of Marriages:** Sunnis generally accept Khadija had three marriages before Muhammad, while some Shia sources argue she was a virgin at the time of her marriage to him.
 - **Age at Marriage:** Sources conflict on whether Khadija was about 40 or approximately 28 when she married Muhammad.
 - **Number of Children:** Historical sources disagree on whether Muhammad and Khadija had six, seven, or eight children, with the identity of some daughters being debated between Sunni and Shia traditions.
+
+Source: adapted from "Khadija bint Khuwaylid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khadija_bint_Khuwaylid

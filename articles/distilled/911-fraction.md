@@ -64,3 +64,5 @@ Converting fractions to decimals uses long division. Terminating decimals occur 
 - Whether **mixed numbers** should be emphasized in education beyond primary school remains debated
 - The attribution of √2's irrationality discovery to Hippasus is "commonly though probably erroneously" made
 - While the Persian mathematician Jamshīd al-Kāshī claimed to have discovered decimal fractions himself in the 15th century, J. Lennart Berggren notes that he was mistaken, as decimal fractions were first used five centuries before him by the Baghdadi mathematician Abu'l-Hasan al-Uqlidisi as early as the 10th century
+
+Source: adapted from "Fraction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fraction

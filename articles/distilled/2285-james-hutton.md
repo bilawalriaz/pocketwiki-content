@@ -44,3 +44,5 @@ Beyond geology, Hutton proposed a theory of rain based on the mixing of air mass
 
 ## Debates and Open Questions
 Hutton's theory of an infinitely repeating cycle with no beginning or end was a major point of contention. Critics like Richard Kirwan argued his ideas were atheistic and illogical. While his evidence for deep time and gradual processes was accepted, his specific model of a steady-state, eternally habitable Earth was later superseded by modern geology's understanding of a planet with a definite formation and directional change over time. The obscurity of his writing in *Principles of Knowledge* also delayed the widespread acceptance of his geological theories.
+
+Source: adapted from "James Hutton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_Hutton

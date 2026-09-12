@@ -45,3 +45,5 @@ Environmental stress may have led to social changes and conflict. Some communiti
 - **Cause of Migration**: Scholarly consensus points to a combination of climate change (the Great Drought) and pressure from migrating peoples, but the precise interplay of factors is debated.
 - **Interpretation of Violence**: Evidence of warfare and cannibalism is hotly debated, with alternative explanations including extreme social stress, ritual practice, or invasion by nomadic raiders.
 - **Cultural Continuity**: While archaeologists define distinct cultural units, these are modern constructs. The ancient people likely had more diverse social and political identities than the material record suggests, and clear-cut territorial boundaries did not exist.
+
+Source: adapted from "Ancestral Puebloans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancestral_Puebloans

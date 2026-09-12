@@ -31,3 +31,5 @@ Memphis's political primacy ended when Alexandria was founded and absorbed the d
 Modern exploration began with Napoleon's 1798 expedition, followed by the systematic excavations of Flinders Petrie in the early 20th century, which uncovered much of the Temple of Ptah. In 1979 Memphis and its surrounding necropolis — including the Saqqara pyramids and the Serapeum, the burial complex for the sacred Apis bulls — were inscribed as a UNESCO World Heritage Site, and the ruins now function as an open-air museum.
 
 Scholarly debates remain open: the identity of Menes is contested (some equate him with the historical king Narmer, others treat him as mythical), and the original layout of the Temple of Ptah is unknown, with only its perimeter gates and some structures excavated. The locations of the Temple of Apis and the larger Temple of Hathor within Memphis have not been definitively found.
+
+Source: adapted from "Memphis, Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Memphis%2C_Egypt

@@ -48,3 +48,5 @@ The population is a mix of European, African, and Native American ancestry. Roma
 ## Debates and Open Questions
 - The exact origin of the name "Minas Gerais" is debated, with interpretations ranging from "General Mines" to "Mines of the General Woods."
 - The ancestral composition of the population is complex; genetic studies show a majority European heritage (59.20%), but the historical social dynamics and racial classifications of the colonial period are subjects of ongoing scholarly analysis.
+
+Source: adapted from "Minas Gerais" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Minas_Gerais

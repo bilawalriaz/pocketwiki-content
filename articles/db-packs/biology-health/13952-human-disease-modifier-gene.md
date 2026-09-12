@@ -26,3 +26,5 @@ For a disease with a known major locus but unexplained phenotypic variation, the
 ## Limits and debate
 
 For most human diseases, known variants explain less than 20% of heritability. One school holds that the rest is made up of many rare variants and structural changes current association studies cannot detect, and that finding them is worth the effort because it can yield individualised risk assessment and therapy. Zuk et al. argue the opposite: because heritability estimates assume **additive** effects (each variant contributing independently), they overestimate the contribution of undiscovered modifiers and underestimate that of known ones, so research should shift toward the molecular mechanisms of variants already in hand, and the proportion of phenotypic variance a variant explains in a population is a poor predictor of the gene's importance for biology or medicine.
+
+Source: adapted from "Human disease modifier gene" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_disease_modifier_gene

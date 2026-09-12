@@ -49,3 +49,5 @@ In 1932, a bloodless revolution by the Khana Ratsadon (People's Party) ended abs
 *   The circumstances surrounding the death of King Ananda Mahidol in 1946 remain a highly sensitive and murky topic in Thailand, with significant doubts about the guilt of the executed servants.
 *   The nature and extent of the political influence of the monarchy in the modern constitutional era is a subject of ongoing scholarly and political discussion, often constrained by strict lèse-majesté laws.
 *   The rise of what some academics term "fascism" or a "New Right" ideology in Thailand since the 2014 coup, incorporating ultraconservatism and elements of the King's Sufficiency Economy philosophy, is a contested analytical framework.
+
+Source: adapted from "History of Thailand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Thailand

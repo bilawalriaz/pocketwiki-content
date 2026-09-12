@@ -43,3 +43,5 @@ Following the Serbian Revolution, Belgrade was re-established as Serbia's capita
 ## Debates and Open Questions
 - The exact population of Belgrade's metropolitan area is debated, as it has not been formally defined statistically or administratively and sprawls into neighboring municipalities.
 - The city's strategic location at a river confluence and crossroads of plains and mountains is cited as the reason it has been "battled over in 115 wars and razed 44 times," making its historical resilience a key scholarly and cultural point of discussion.
+
+Source: adapted from "Belgrade" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Belgrade

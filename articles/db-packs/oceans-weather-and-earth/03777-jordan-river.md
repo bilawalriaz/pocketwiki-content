@@ -19,3 +19,5 @@ The basin is a meeting point for fish from different biogeographic regions (area
 In the Hebrew Bible the Jordan is the river the Israelites crossed into the Promised Land and the site of miracles by Elijah and Elisha. In the New Testament, John the Baptist baptized Jesus in the river, making it a central Christian pilgrimage site. Al-Maghtas on the Jordanian side is traditionally identified as the baptism site and became a UNESCO World Heritage Site in 2015. In Islam the river is part of a "blessed land" associated with prophets. The 1994 Israel–Jordan peace treaty regulates water sharing between the two countries.
 
 A wadi is a valley or streambed that is dry except in the rainy season, a landscape feature common across the Jordan basin.
+
+Source: adapted from "Jordan River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jordan_River

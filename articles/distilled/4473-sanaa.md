@@ -51,3 +51,5 @@ As the capital, Sanaa's economy is dominated by the public sector and commerce. 
 - The exact founding date and early history of Sanaa are debated, with Islamic sources offering legendary accounts (e.g., founded by Shem, son of Noah) that differ from archaeological and epigraphic evidence.
 - The precise location of the ancient Ghumdan Palace, mentioned in Sabaean inscriptions, is not definitively known.
 - The long-term viability of Sanaa as a capital is uncertain due to the complete depletion of its primary aquifer, projected around 2030, and the ongoing conflict.
+
+Source: adapted from "Sanaa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sanaa

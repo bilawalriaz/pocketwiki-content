@@ -42,3 +42,5 @@ From the 15th century, the League faced rising competition from territorial stat
 - The exact date of the League's "founding" is debated, as it was never formally established. Historians traditionally point to Lübeck's 1159 rebuilding, but modern scholarship views it as a gradual combination of regional trading systems.
 - The role and influence of the Teutonic Order as the only territorial state member is a subject of study, particularly its economic and military interdependency with the League.
 - The extent to which the League's governance structure, based on consensus and loose confederation, can be seen as a precursor to modern supranational models like the European Union is a point of popular and academic discussion.
+
+Source: adapted from "Hanseatic League" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hanseatic_League

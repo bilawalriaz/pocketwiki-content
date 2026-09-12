@@ -41,3 +41,5 @@ Descartes alludes to the trial of Galileo as a reason for initially withholding 
 - The source text notes that the precise wording "I think, therefore I am" appears in the *Discourse*, while similar arguments without that exact phrasing are in other works.
 - Descartes' explanation for blood circulation (heat vs. muscular contraction) contradicts William Harvey's findings, which he otherwise endorses.
 - His hypothetical "new world" is framed as a theoretical model, though it reflects his project to understand the actual universe through quantitative laws.
+
+Source: adapted from "Discourse on the Method" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Discourse_on_the_Method

@@ -53,3 +53,5 @@ Full-length plays typically follow a five-act structure based on the jo-ha-kyū 
 ## Debates and Open Questions
 - The extent to which modern adaptations like "Super Kabuki" preserve or dilute the 400-year history and traditional essence of the art form is a subject of ongoing controversy.
 - The historical role of kabuki in relation to social class, sexuality, and censorship—particularly its origins in red-light districts and its navigation of shogunal restrictions—continues to be analyzed by scholars.
+
+Source: adapted from "Kabuki" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kabuki

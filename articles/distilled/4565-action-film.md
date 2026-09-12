@@ -47,3 +47,5 @@ Women have historically appeared in action films as romantic interests or sideki
 *   **Spectacle vs. Narrative:** A core debate is whether action films prioritize visual spectacle at the expense of coherent storytelling.
 *   **Genre vs. Mode:** Scholars increasingly question whether "action" is a distinct genre or a broader "mode" or "narrative form" that operates across multiple genres.
 *   **Gender Representation:** There is ongoing debate about whether hypersexualized female action leads represent empowerment or objectification, and how their portrayal intersects with race and class.
+
+Source: adapted from "Action film" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Action_film

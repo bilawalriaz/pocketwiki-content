@@ -58,3 +58,5 @@ Carpentier’s Paris years (1928–1939) coincided with high Surrealism. He coll
 - **Racial authority**: As a white, European-born writer narrating Afro-Cuban and Haitian perspectives (e.g., Ti Noël in *Kingdom of This World*), Carpentier’s authority to represent *lo afrocubano* is contested; some argue his use of a Black protagonist avoids stereotyping, others see ventriloquism.
 - **Baroque as style vs. spirit**: Scholars (Wakefield, Kaup) dispute whether the New World Baroque is a conscious postcolonial weapon ("one-upmanship") or an inevitable formal consequence of the *criollo* condition.
 - **Suppression of *El Acoso* (The Chase)**: The novel’s 33-year US publication delay (1956–1989) due to Carpentier’s diplomatic role fuels debate on Cold War censorship’s impact on the Latin American Boom’s reception in the Anglosphere.
+
+Source: adapted from "Alejo Carpentier" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alejo_Carpentier

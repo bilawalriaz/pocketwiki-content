@@ -34,3 +34,5 @@ The French monarchy was abolished in 1792 and restored in 1814, but finally ende
 
 ## Debates and Open Questions
 The source notes that the meaning of Hugh Capet's nickname "Capet" is unknown, with folk etymology linking it to "cape" and other suggestions connecting it to the Latin *caput* ("head"). The exact political and social mechanisms that allowed the initially weak Capetians to outmaneuver more powerful rivals like the Anglo-Normans over centuries is a subject of historical analysis, often centered on the strategic value of their stable succession.
+
+Source: adapted from "Capetian dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Capetian_dynasty

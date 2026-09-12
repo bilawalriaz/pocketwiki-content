@@ -40,3 +40,5 @@ PMML's first ten years produced incremental0.x through 3.2 releases (July 1997 t
 The DMG also developed the Portable Format for Analytics (PFA), a complementary standard that targets the same problem of moving analytic models between systems from a different design point. The Open Neural Network Exchange is a separate, neural-network-focused sibling standard.
 
 PMML's practical value is the round-trip: a model trained in one tool can be exported and scored by another because the schema captures not just the algorithm and its weights but the surrounding metadata — field types, transformations, missing-value handling, outlier treatment, and post-processing.
+
+Source: adapted from "Predictive Model Markup Language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Predictive_Model_Markup_Language

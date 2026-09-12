@@ -37,3 +37,5 @@ Classical mechanics emerges through the **correspondence principle**: at large q
 ## Interpretations and open questions
 
 Because measurement outcomes are random but evolution is deterministic, the meaning of the wave function is debated. The Copenhagen interpretation treats probabilities as fundamental. Einstein favored deterministic hidden variables, but Bell's theorem showed that any *local* hidden-variable theory conflicts with quantum predictions, a result now confirmed experimentally. Bohmian mechanics restores determinism using nonlocal guiding equations, while Everett's many-worlds interpretation holds that all outcomes occur in branching parallel universes. Modern perspectives include relational quantum mechanics and QBism. Reconciling quantum mechanics with general relativity to produce a working theory of quantum gravity remains an open frontier.
+
+Source: adapted from "Quantum mechanics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Quantum_mechanics

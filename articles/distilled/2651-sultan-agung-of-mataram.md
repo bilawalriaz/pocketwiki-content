@@ -42,3 +42,5 @@ Sultan Agung is credited with significant cultural contributions, including the 
 - **Artistic Achievement:** The source notes a lack of historical evidence for claims of high artistic development in Sultan Agung's court, with information being scarce and difficult to interpret.
 - **Parentage:** A minority, unverified account suggests Sultan Agung was not the biological son of Sultan Anyakrawati but was switched at birth with the child of Prince Purbaya.
 - **Cause of Expansion Halt:** While rebellions are cited, the failure to conquer Batavia is presented as a key factor that weakened Mataram's momentum and encouraged vassal revolts.
+
+Source: adapted from "Sultan Agung of Mataram" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sultan_Agung_of_Mataram

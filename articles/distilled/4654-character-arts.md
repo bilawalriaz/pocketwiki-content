@@ -38,3 +38,5 @@ Aristotle's *Poetics* (c. 335 BCE) defines character (*ethos*) as the quality th
 
 ## Debates and Open Questions
 The source notes that the relation between characters and story action shifts historically, often mirroring societal changes in ideas about individuality and social order. Aristotle's primacy of plot over character remains a foundational point of analysis in dramatic theory.
+
+Source: adapted from "Character (arts)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Character_%28arts%29

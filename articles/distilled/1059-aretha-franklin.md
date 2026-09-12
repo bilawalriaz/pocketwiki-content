@@ -52,3 +52,5 @@ After leaving Atlantic in 1979, Franklin signed with Arista Records in 1980, whe
 - **Posthumous Recognition**: Franklin's 2019 Pulitzer Prize Special Citation sparked discussion about whether other deserving artists have been overlooked by the Pulitzer committee.
 - **Family Dynamics**: Franklin's relationship with her father, C. L. Franklin, has been scrutinized, particularly regarding his influence on her early career and personal life.
 - **Eulogy Controversy**: Rev. Jasper Williams Jr.'s 2018 eulogy drew criticism for its political content and lack of focus on Franklin's life, raising questions about appropriate funeral oratory.
+
+Source: adapted from "Aretha Franklin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aretha_Franklin

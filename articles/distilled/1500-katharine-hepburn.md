@@ -67,3 +67,5 @@ Hepburn is enshrined in *Women Who Changed the World*, *Encyclopædia Britannica
 - **Feminist legacy**: While celebrated for modeling independence, some feminists criticized her public statements that women "cannot have it all" (career and family), viewing it as reinforcing limitations.
 - **Tracy relationship dynamics**: Hepburn described "absolute bliss" but also mothering an alcoholic, depressed man who refused divorce; scholars debate whether this was empowerment or self-erasure.
 - **Later work quality**: Her 1970s–90s television films were popular but critically dismissed; debate persists whether they extended her legacy or diluted it.
+
+Source: adapted from "Katharine Hepburn" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Katharine_Hepburn

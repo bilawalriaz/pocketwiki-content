@@ -88,3 +88,5 @@ McLuhan became a 1960s media celebrity via "genius scouting" by ad executives Go
 - **Scholarly rigor vs. probe method**: Detractors (Ong, Macdonald) cite factual errors, non-sequiturs, and aphoristic vagueness; defenders value the mosaic style as suited to the electronic age and postmodern sensibility.
 - **Catholic theology’s role**: The extent to which Thomism, the Trinity, and the *trivium* structurally inform McLuhan’s media taxonomy (e.g., the Tetrad’s fourfoldness) is debated; McLuhan kept religion private but acknowledged intellectual guidance from the Virgin Mary.
 - **Prediction vs. pattern recognition**: McLuhan’s "prophecies" (WWW, surfing) are often retrospective pattern-matches using the Tetrad; the line between foresight and structural analogy is blurred.
+
+Source: adapted from "Marshall McLuhan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marshall_McLuhan

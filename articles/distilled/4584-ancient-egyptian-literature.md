@@ -49,3 +49,5 @@ Egyptologists categorize the literature into several genres:
 *   Scholars debate whether true biographies or autobiographies existed in the ancient world, as the modern concept of individuality may not apply.
 *   The percentage of literacy in ancient Egyptian society is uncertain, estimated between 1% and 15%.
 *   Modern scholarly approach has shifted from using literature as a direct historical source to a multifaceted analysis considering its cultural and social context.
+
+Source: adapted from "Ancient Egyptian literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Egyptian_literature

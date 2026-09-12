@@ -44,3 +44,5 @@ Italian nationalism led to the Second Italian War of Independence (1859), after 
 
 ## Debates and Open Questions
 The precise nature of the relationship between the popes and the Holy Roman Emperors was long disputed: whether the Papal States were a separate sovereign realm or part of the empire over which popes had administrative control. The extent of effective papal control over the states' territories was also debated, with much of the land often ruled by minor princes or local nobles, especially before the 16th century.
+
+Source: adapted from "Papal States" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Papal_States

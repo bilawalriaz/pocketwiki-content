@@ -45,3 +45,5 @@ The war caused catastrophic losses. Chinese deaths are estimated between 10–20
 - **Casualty Figures**: Estimates vary widely, especially for Chinese civilian deaths (10–20 million) and the exact number killed in the Nanjing Massacre.
 - **Historical Revisionism**: Controversy persists in Japan over textbook depictions of war crimes like the Nanjing Massacre and comfort women, affecting Sino-Japanese relations.
 - **CCP vs. KMT Contribution**: Debates continue over the relative military roles of the Nationalists (who fought major battles) and the Communists (who focused on guerrilla warfare and political expansion).
+
+Source: adapted from "Second Sino-Japanese War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Second_Sino-Japanese_War

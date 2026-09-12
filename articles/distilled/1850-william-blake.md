@@ -78,3 +78,5 @@ Blake's marriage to Catherine Boucher was close and devoted until his death. Bla
 === Felpham ===
 
 In 1800, Blake moved to a cottage
+
+Source: adapted from "William Blake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Blake

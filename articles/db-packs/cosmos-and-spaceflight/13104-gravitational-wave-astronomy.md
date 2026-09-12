@@ -29,3 +29,5 @@ Gravitational-wave observations complement electromagnetic ones in multi-messeng
 ## Limits and outlook
 
 Seismic noise, finite arm length set by Earth's curvature, and the inherent weakness of the signals cap ground-based sensitivity. Even supernova explosions produce strains as small as an atomic diameter, requiring detectors calibrated to noise levels near 2 × 10⁻²² Hz⁻¹ᐟ². Localising a source on the sky is hard because detectors monitor the whole sky rather than pointing like telescopes; gravitational lensing combined with machine-learning triangulation may eventually sharpen localisation. The field's next stages are upgraded ground detectors, the space-based LISA mission adopted by ESA for launch in the 2030s, and continued pulsar timing, extending gravitational-wave observations across roughly twenty orders of magnitude in frequency.
+
+Source: adapted from "Gravitational-wave astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gravitational-wave_astronomy

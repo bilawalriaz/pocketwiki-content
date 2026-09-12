@@ -68,3 +68,5 @@ Domestic competitions vary. Most European leagues use a round-robin format with 
 ## Debates and open questions
 
 FIFA has stated that soccer originated in Britain around the eighth century and that no historical connection exists with any game played in antiquity outside Europe, though kicking ball games arose independently across multiple cultures. The 1921 FA ban on women's football has been argued by players and writers to have been motivated by envy of large crowds and lack of control over money, rather than the stated reason that the game was "quite unsuitable for females." The IFAB's 2008 decision to fix international pitch dimensions at 105 m by 68 m was later put on hold and never implemented.
+
+Source: adapted from "Association football" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Association_football

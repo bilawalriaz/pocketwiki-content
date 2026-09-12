@@ -81,3 +81,5 @@ Descendants suppressed his legacy until mid-20th century. Comte Xavier de Sade r
 - ****Moral Treatment**** — Early 19th-century asylum approach (Coulmier at Charenton) emphasizing humane conditions, work, theater, and social interaction over chains and darkness.
 - ****Moderatism**** — During the French Revolution, a charge against those deemed insufficiently radical; Sade was arrested for this in 1793 despite his republican activism.
 - ****Émigré**** — A French noble or supporter of the monarchy who fled France during the Revolution; their property was confiscated. Sade
+
+Source: adapted from "Marquis de Sade" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marquis_de_Sade

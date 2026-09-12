@@ -31,3 +31,5 @@ Calculus grew from older methods for measuring curved areas and volumes. Eudoxus
 ## Extensions
 
 Multivariable and vector calculus extend these ideas to functions of several variables and to vector fields in three-dimensional space, underpinning differential geometry and partial differential equations. Differential equations relate unknown functions to their derivatives, modeling everything from planetary orbits to electrical circuits. Real analysis provides the rigorous foundations on which calculus rests, while complex analysis studies functions of complex variables, where differentiability is a much stronger condition but produces holomorphic functions that are automatically infinitely differentiable. The calculus of variations handles optimization over whole functions, using the Euler–Lagrange equation to find the function that minimizes a given quantity, the same machinery that underlies Lagrangian mechanics.
+
+Source: adapted from "Calculus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Calculus

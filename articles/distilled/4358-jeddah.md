@@ -42,3 +42,5 @@ Jeddah faces significant infrastructural challenges, including severe traffic co
 - The exact founding date of Jeddah is debated; while some sources cite a settlement over 2,500 years old, the traditional account links its founding to the collapse of the Marib Dam in 115 BC.
 - The impact and scale of the 2021-2022 Jeddah Central Project demolitions are contested, with reports of forced evictions and inadequate compensation for displaced residents.
 - The completion date and final height of the Jeddah Tower remain uncertain after construction was halted in 2018 and later restarted, with completion now expected in 2029.
+
+Source: adapted from "Jeddah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jeddah

@@ -44,3 +44,5 @@ Despite his short career, Milk became a martyr for LGBTQ rights. His assassinati
 - The source notes Milk's legacy is "ambiguous," with historian Frances FitzGerald suggesting his martyrdom was seen as "an end rather than a beginning" for the Castro's optimism.
 - The trial of Dan White raised profound questions about the influence of homophobia and police bias within the justice system, as evidenced by officers' behavior and the prosecutor's oversights.
 - The long-term impact of Milk's assassination versus his life is debated; activist Cleve Jones argues the murder and response did more to ensure LGBTQ political participation than his life did.
+
+Source: adapted from "Harvey Milk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harvey_Milk

@@ -41,3 +41,5 @@ Veracruz is a cultural melting pot of indigenous, Spanish, and Afro-Caribbean in
 
 ## Debates and Open Questions
 The article notes a scholarly debate regarding the origin of the name for the island of San Juan de Ulúa, stating it is derived from the local name for the Aztecs, "coluha or acolhua," which evolved into "Ulúa." The fate of the Isla de Sacrificios has also been a subject of ongoing controversy among authorities, tour operators, and fishermen since its closure to the public following a 1983 cleanup project.
+
+Source: adapted from "Veracruz (city)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Veracruz_%28city%29

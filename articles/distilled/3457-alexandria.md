@@ -48,3 +48,5 @@ Alexandria is located on the Mediterranean coast at the western edge of the Nile
 *   The exact circumstances and timeline of the destruction of the ancient Library of Alexandria remain a lively source of controversy.
 *   The precise location and layout of many ancient structures, such as the Musaeum and parts of the Serapeum, are still unknown due to the modern city built over them.
 *   Underwater archaeology, pioneered by Franck Goddio, continues to explore the submerged royal quarters and port areas, revealing new information about the ancient city's layout and artifacts.
+
+Source: adapted from "Alexandria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alexandria

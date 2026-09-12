@@ -35,3 +35,5 @@ Bicycle manufacturing pioneered mass production. Firms in the late 19th century 
 ## Environmental footprint
 
 Manufacturing a bicycle emits roughly 70–250 kg of CO₂-equivalent, depending on material and location. Steel, aluminium, and carbon fibre are largely recyclable, and tyre wear adds less rubber pollution than car tyres. Electric bicycles have higher production emissions than ordinary bikes but remain far cleaner over their life than motor vehicles. In 2011 Italians bought 1.75 million bicycles, more than new cars sold that year.
+
+Source: adapted from "Bicycle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bicycle

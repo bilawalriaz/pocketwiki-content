@@ -43,3 +43,5 @@ Fulton continued his work on steam-powered vessels, helping to launch the *New O
 ## Debates and Open Questions
 - **Priority of invention**: While Fulton is credited with the first *commercially successful* steamboat, earlier steam-powered vessels existed. The article notes that Claude de Jouffroy tested a paddle steamer in France in 1783, and John Fitch made a successful trial run in America in 1787.
 - **Patent disputes**: Some historians have argued that Joseph-Philibert Desblanc's 1802 steamship patent had priority over Fulton's 1809 patent, though this claim was not upheld by authorities.
+
+Source: adapted from "Robert Fulton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Fulton

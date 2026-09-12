@@ -46,3 +46,5 @@ Watt also invented a copying machine for letters (patented 1780) and conducted c
 *   **The Kettle Story:** The popular tale that Watt was inspired by a boiling kettle is considered apocryphal, possibly created by his son. While Watt did use kettles as boilers in experiments, the story is seen as a myth akin to Newton's apple.
 *   **Murdoch's Contributions:** There is debate over the extent of William Murdoch's contributions to inventions like the sun and planet gear and early steam locomotive experiments, which were patented by Watt. Watt's discouragement of high-pressure steam work may have delayed locomotive development.
 *   **Patent Enforcement:** Watt faced significant legal battles to enforce his patents against infringers like Edward Bull and the Hornblower brothers, which were costly but ultimately successful in protecting the firm's revenue.
+
+Source: adapted from "James Watt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_Watt

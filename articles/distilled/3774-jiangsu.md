@@ -52,3 +52,5 @@ Jiangsu has a highly developed transport network. The Beijing–Shanghai high-sp
 ## Debates and open questions
 - The source notes a "tense division" between the more urban, prosperous south and the poorer, rural north of Jiangsu, indicating an ongoing regional disparity.
 - The historical trajectory of "incipient industrialization and capitalism" in the late Ming Jiangnan textiles industry is noted as a trend that was "aborted," suggesting scholarly debate on its potential.
+
+Source: adapted from "Jiangsu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jiangsu

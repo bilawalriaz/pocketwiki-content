@@ -43,3 +43,5 @@ Hainan's economy is driven by agriculture, tourism, and its special economic pol
 - **Sovereignty of South China Sea Islands:** China's administration of the Paracel and Spratly Islands through Hainan's Sansha city is disputed by Vietnam, the Philippines, Malaysia, Brunei, and Taiwan.
 - **Free Trade Port Viability:** Experts have raised concerns about whether the Hainan Free Trade Port can comply with global trading practices and whether it is intended to replace Hong Kong's role as a trading entrepôt.
 - **Environmental Impact:** While Hainan has strong air quality, its biodiversity faces threats from tourism, deforestation, and invasive species, with some plants already declared extinct.
+
+Source: adapted from "Hainan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hainan

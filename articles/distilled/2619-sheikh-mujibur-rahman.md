@@ -39,3 +39,5 @@ Mujib returned to lead a war-devastated country in January 1972. He oversaw the 
 
 ## Debates and open questions
 Mujib's legacy is deeply divisive. He is universally credited as the "Father of the Nation" for leading Bangladesh to independence, a title constitutionally recognized in 2011 but later contested. His post-independence record is criticized for economic failure, the 1974 famine, and the authoritarian turn with the BAKSAL system. Scholars and political analysts continue to debate the extent of his responsibility for the economic crisis versus the challenges of post-war reconstruction, and the motivations behind his shift to one-party rule.
+
+Source: adapted from "Sheikh Mujibur Rahman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman

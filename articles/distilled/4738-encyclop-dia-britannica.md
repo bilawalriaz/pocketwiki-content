@@ -42,3 +42,5 @@ Facing competition from digital sources like Microsoft Encarta and later the onl
 - **Editorial Criticism**: The initial 15th edition (1974) was criticized for its complex three-part structure and the elimination of an index, which was later rectified.
 - **Outdated Content**: Despite continuous revision, critics have noted that longer Macropædia articles can become outdated, and information between the Micro- and Macropædia can be inconsistent.
 - **Coverage Bias**: While praised for its depth, the Britannica has been criticized for uneven coverage, such as devoting significantly more space to Christianity than to other world religions.
+
+Source: adapted from "Encyclopædia Britannica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica

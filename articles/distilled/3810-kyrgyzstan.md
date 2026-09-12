@@ -48,3 +48,5 @@ The population is over 7.4 million, with ethnic Kyrgyz (77.8%) forming the major
 - The traditional nature of "bride kidnapping" (ala kachuu) is debated; some view it as a distortion of arranged marriage practices.
 - The political system continues to be contested, with shifts between parliamentary and presidential models reflecting a struggle over the concentration of power.
 - The impact of the 2021 constitutional changes on democracy and human rights, including press freedom, is a significant concern.
+
+Source: adapted from "Kyrgyzstan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kyrgyzstan

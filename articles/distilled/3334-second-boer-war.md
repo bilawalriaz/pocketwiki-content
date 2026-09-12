@@ -46,3 +46,5 @@ By 1902, British containment tactics and the suffering in the camps pressured Bo
 - **Concentration Camps**: The morality and necessity of the British internment policy remain highly controversial. While the British saw it as a legitimate counterinsurgency measure, it is widely condemned for the high civilian death toll.
 - **Military Legacy**: The war is studied as an early example of modern guerrilla warfare and counterinsurgency, with its tactics influencing later conflicts. The effectiveness and ethics of British methods are still analyzed.
 - **Impact on Empire**: The war's surprising length and cost are seen by some historians as a turning point that began to erode the myth of British invincibility and fueled anti-imperial sentiment.
+
+Source: adapted from "Second Boer War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Second_Boer_War

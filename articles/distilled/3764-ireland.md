@@ -56,3 +56,5 @@ Irish culture, expressed through the Irish language, Gaelic games, music, and li
 - The origin and migration of Celtic peoples to Ireland is heavily debated, with theories ranging from large-scale invasion to cultural diffusion and recent genetic studies suggesting a major Bell Beaker migration.
 - The authenticity of the 1155 Papal Bull *Laudabiliter*, which allegedly authorised English intervention in Ireland, is disputed.
 - The extent of the High King of Ireland's actual political power before the Viking Age is questioned by historians.
+
+Source: adapted from "Ireland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ireland

@@ -46,3 +46,5 @@ After his resignation, Nixon worked to rehabilitate his image as an elder states
 - **Southern Strategy**: Scholars argue over whether Nixon's political strategy to win over Southern white voters was primarily driven by racial politics or economic conservatism.
 - **Environmental Record**: While Nixon created the EPA and signed major environmental laws, some historians contend his actions were driven more by political expediency than genuine environmental conviction.
 - **Watergate Motivations**: The full extent of Nixon's personal involvement in and knowledge of the Watergate cover-up from its inception remains a subject of analysis, though the "Smoking Gun" tape provided conclusive evidence of his early role.
+
+Source: adapted from "Richard Nixon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Richard_Nixon

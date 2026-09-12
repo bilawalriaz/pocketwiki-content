@@ -39,3 +39,5 @@ Menander left the largest corpus of coins among Indo-Greek kings, in silver and 
 - **Succession and Death**: Buddhist tradition says Menander abdicated to become a monk, while Plutarch reports he died on campaign. The exact sequence of his successors (Agathoclea, Strato I, or others like Thrason) is debated based on differing interpretations of coin evidence.
 - **Menander I vs. Menander II**: Earlier scholars thought there was only one Menander, but modern numismatics identifies two distinct rulers: Menander I (the Great) and a later Menander II "the Just," who used Buddhist symbols possibly to allude to his predecessor's conversion.
 - **Role in Buddha's Image**: It is debated whether the Indo-Greeks, under Menander's influence, initiated the anthropomorphic (human-form) representation of the Buddha in statuary, or if this was a later development under the Kushans.
+
+Source: adapted from "Menander I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Menander_I

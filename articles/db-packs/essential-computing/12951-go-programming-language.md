@@ -29,3 +29,5 @@ The compiler produces statically linked binaries by default, embedding the Go ru
 ## Adoption
 
 Go powers much of modern cloud infrastructure: Docker, Kubernetes, CockroachDB, Caddy, and Hugo are written in Go, and TypeScript 7 is written in Go. The language was named TIOBE Programming Language of the Year in 2009 (its first year) and again in 2016. TIOBE rankings fluctuated, dropping below fiftieth in 2015 before climbing back near the top by 2017, tracking Go's adoption in backend services and DevOps tooling.
+
+Source: adapted from "Go (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Go_%28programming_language%29

@@ -64,3 +64,5 @@ Finite analogs of 3D space exist in Galois geometry. For example, PG(3,2) uses t
 ## Debates and Open Questions
 
 The nature of physical space remains debated: while classical physics treats 3D Euclidean space as fundamental, general relativity models spacetime as a curved 4D manifold. Whether 3D space is globally Euclidean or a more complex 3-manifold is an open empirical question. In mathematics, the classification of 3-manifolds—resolved by Perelman’s proof of the Poincaré conjecture—remains a deep area of study, with questions about geometric structures and their uniqueness still active.
+
+Source: adapted from "Three-dimensional space" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Three-dimensional_space

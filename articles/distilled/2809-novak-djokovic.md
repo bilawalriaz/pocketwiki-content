@@ -47,3 +47,5 @@ Djokovic founded the Novak Djokovic Foundation and co-founded the Professional T
 - **Greatest of All Time (GOAT):** While widely considered the greatest male player due to his records, debate continues, often centering on comparisons with Federer and Nadal.
 - **Impact of COVID-19 Stance:** His refusal to vaccinate led to missed tournaments and deportation, with some arguing it affects his legacy, while others praise his principle of personal choice.
 - **Rivalry with Carlos Alcaraz:** Their emerging rivalry, with a 5–5 head-to-head, is seen as a potential passing of the torch, though Djokovic remains competitive at an advanced age.
+
+Source: adapted from "Novak Djokovic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Novak_Djokovic

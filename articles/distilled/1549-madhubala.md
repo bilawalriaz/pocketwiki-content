@@ -71,3 +71,5 @@ Adi Katrak (1977) contrasted her "infectious laughter" and "bubbling personality
 - **Cultural "Otherness"**: Scholar Dina Khdair argues Madhubala was constructed as a cultural "Other" (vs. Nargis's "Mother India" nationalism) due to sexualized roles and sensationalist media; this framing persists in unauthorized biographies (e.g., Mohan Deep, 1996).
 - **Medical History**: Surgery for VSD was not established in 1960; London doctors gave 1–2 years survival, yet she lived ~7.5 more years. The exact progression and management of her condition remain partially documented.
 - **Unfinished Films**: Several projects (*Suhana Geet*, *Chalaak*, *Jwala*) were abandoned, recast, or completed with body doubles; *Jwala* (1971) released posthumously as her only full-color film.
+
+Source: adapted from "Madhubala" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Madhubala

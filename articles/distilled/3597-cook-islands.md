@@ -44,3 +44,5 @@ Traditional arts include woodcarving, with distinct styles on islands like Manga
 - **Name change**: In 2019, plans to change the country's name to reflect its Polynesian nature were poorly received by the diaspora. A compromise was reached to adopt a new Cook Islands Māori name while keeping the English name, with discussions continuing as of 2020.
 - **UN membership**: Prime Minister Mark Brown has stated the Cook Islands does not currently meet the requirements for UN membership, and any decision would require a referendum and re-evaluation of the relationship with New Zealand.
 - **Commonwealth membership**: Efforts to join the Commonwealth of Nations as a full member were "ongoing" as of 2024, but the government was unable to secure an invitation to the 2024 Commonwealth Heads of Government Meeting.
+
+Source: adapted from "Cook Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cook_Islands

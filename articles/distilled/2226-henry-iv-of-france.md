@@ -41,3 +41,5 @@ Henry's foreign policy aimed to contain the power of the Habsburgs (Spain and th
 *   **Sincerity of Conversion:** Historians debate whether Henry IV's conversion to Catholicism was a genuine change of faith or a purely political act to gain the throne. Evidence suggests he remained privately sympathetic to Calvinism.
 *   **Legacy of the Edict of Nantes:** While it brought peace, the Edict was contested by parlements and hardliners on both sides. Its long-term success in integrating Huguenots is debated, as it was eventually revoked by Louis XIV in 1685.
 *   **Economic Impact:** The extent of economic recovery under Henry IV and his minister Sully is questioned, as Sully's own memoirs may exaggerate their accomplishments.
+
+Source: adapted from "Henry IV of France" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henry_IV_of_France

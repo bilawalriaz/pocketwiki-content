@@ -49,3 +49,5 @@ The seabed hosts a dense network of critical infrastructure: ~71,000 km of subse
 - The precise boundaries and management of fishing rights and mineral resources in the North Sea have been subjects of ongoing international negotiation and legal judgment, such as the 1969 ICJ ruling on the continental shelf.
 - The environmental impact of expanding offshore wind farms versus their benefits for decarbonization is a subject of ongoing study and public concern.
 - The vulnerability of critical subsea infrastructure to deliberate attack, especially in the context of geopolitical tensions, is a growing security concern for North Sea states.
+
+Source: adapted from "North Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/North_Sea

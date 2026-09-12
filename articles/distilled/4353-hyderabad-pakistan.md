@@ -39,3 +39,5 @@ Hyderabad is a major industrial and commercial center. The Sindh Industrial Trad
 
 ## Debates and Open Questions
 The source notes that the city's name "Neroonkot" refers to an ancient settlement, but its exact location and relationship to modern Hyderabad is a matter of traditional belief. The long-term economic impact of the 1980s ethnic violence on Hyderabad's industrial base, compared to other factors like poor infrastructure, is also a point of analysis.
+
+Source: adapted from "Hyderabad, Pakistan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hyderabad%2C_Pakistan

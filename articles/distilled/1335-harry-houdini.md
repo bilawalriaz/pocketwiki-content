@@ -43,3 +43,5 @@ Houdini died on October 31, 1926, from peritonitis, possibly triggered by abdomi
 
 ## Debates and Open Questions
 The circumstances of Houdini's death remain debated. While officially attributed to peritonitis from appendicitis, some speculate that abdominal trauma from a Montreal incident contributed. His widow Bess conducted annual séances for ten years hoping to contact him, claiming success in 1929 through medium Arthur Ford, though she later admitted it was faked. In 2007, his great-nephew proposed exhuming his body to investigate claims of murder by spiritualists, but no legal action was taken.
+
+Source: adapted from "Harry Houdini" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harry_Houdini

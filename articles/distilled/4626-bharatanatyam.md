@@ -46,3 +46,5 @@ The costume resembles a Tamil Hindu bridal dress, with a brightly colored sari, 
 - **Devadasi Origins**: Some scholars argue Bharatanatyam descends from ancient *devadasi* (temple dancer) culture, while modern scholars question this due to lack of direct evidence, suggesting courtesan dancing is a later phenomenon from the 16th–17th centuries.
 - **Colonial Impact**: The extent to which the colonial ban and anti-dance movement shaped the modern revival and "sanitization" of the dance is debated, with revivalists both resisting and incorporating Western influences.
 - **Authenticity vs. Evolution**: The standardization of Bharatanatyam in the 20th century and its adaptation to modern stages (including non-religious themes) raise questions about balancing tradition with contemporary expression.
+
+Source: adapted from "Bharatanatyam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bharatanatyam

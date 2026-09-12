@@ -43,3 +43,5 @@ Under admirals like George of Antioch, Roger built a formidable fleet that made 
 
 ## Debates and Open Questions
 The exact nature and intent of Roger II's multicultural rule is debated. Some scholars see it as a pragmatic, tolerant administration, while others emphasize its use of diverse cultural symbols (like the Royal Mantle) primarily as propaganda to legitimize his new dynasty and project power. The long-term impact and integration of his North African conquests are also unclear, as they were lost shortly after his death.
+
+Source: adapted from "Roger II of Sicily" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Roger_II_of_Sicily

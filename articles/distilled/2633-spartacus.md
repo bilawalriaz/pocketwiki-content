@@ -43,3 +43,5 @@ Spartacus's ultimate goals are debated; sources suggest he may have aimed to esc
 - **Spartacus's Motives**: Historians debate whether his primary goal was to escape Italy, to march on Rome, or to lead a broader social revolt. The sources are divided and contradictory on this point.
 - **Leadership Structure**: Roman authors may have imposed a hierarchical view on the rebellion, potentially downplaying the roles of other leaders like the Gauls Crixus and Oenomaus.
 - **Scale and Composition**: The exact size and diverse makeup of the rebel army (including Celts, Gauls, and legion veterans) are reconstructed from later sources and are subject to scholarly interpretation.
+
+Source: adapted from "Spartacus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spartacus

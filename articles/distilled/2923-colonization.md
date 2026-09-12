@@ -46,3 +46,5 @@ In the late 19th century, the Zionist movement began colonizing Palestine throug
 - **Soviet colonialism in the Baltic states**: Researchers like Epp Annus note that Soviet rule did not fully fit traditional colonial models, as the Baltic states were already industrialized nations with strong identities, though it developed colonial characteristics over time.
 - **Nature of capital transfer**: Marxian economist Samir Amin argues that Soviet capital transfer aimed to develop poorer regions, contrasting with traditional colonial exploitation, while others highlight economic exploitation in the Baltic states.
 - **Contemporary settler colonization**: Examples in Russian-occupied territories and Western Sahara raise questions about ongoing colonial practices in the 21st century.
+
+Source: adapted from "Colonization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Colonization

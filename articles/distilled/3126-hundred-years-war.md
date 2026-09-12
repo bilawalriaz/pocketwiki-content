@@ -46,3 +46,5 @@ The war ended English continental ambitions and accelerated the development of c
 - The relative importance of the dynastic claim versus the sovereignty dispute over Aquitaine as the primary cause of the war is debated among historians.
 - The role of emerging nationalism versus dynastic loyalty in motivating soldiers and populations is a subject of scholarly analysis.
 - The long-term economic and demographic impact of the war, particularly in relation to the concurrent Black Death, remains a complex area of study.
+
+Source: adapted from "Hundred Years' War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hundred_Years%27_War

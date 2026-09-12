@@ -43,3 +43,5 @@ Vojvodina has a provincial assembly and government, but its competencies are lim
 
 ## Debates and Open Questions
 The primary ongoing debate concerns the extent of Vojvodina's autonomy. The 1974 Yugoslav constitution granted it near-republican status, which was revoked in 1990. While autonomy was partially restored after 2000, its current scope is considered limited by provincial advocates. The demographic shifts caused by the Yugoslav Wars of the 1990s, which increased the Serb share of the population, also remain a point of discussion regarding the province's multicultural character.
+
+Source: adapted from "Vojvodina" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vojvodina

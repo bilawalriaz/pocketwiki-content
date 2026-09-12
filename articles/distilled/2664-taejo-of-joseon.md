@@ -36,3 +36,5 @@ A major conflict arose over the succession. Taejo's fifth son, Yi Pang-wŏn, had
 - **Historical Legacy**: Some scholars, particularly in North Korea, view Taejo as a traitor to the Goryeo regime, while others see him as a decisive ruler who saved the nation from an obsolete system and foreign threats.
 - **Ming-Joseon Genealogy Dispute**: An error in Ming records, which misidentified Taejo's lineage and accused him of killing Goryeo kings, caused diplomatic friction for over 200 years until it was formally corrected in the late 16th century.
 - **The Hamhung Emissaries**: While tradition holds that Taejo executed his son's emissaries, recent studies suggest they died in regional revolts, not by his order.
+
+Source: adapted from "Taejo of Joseon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taejo_of_Joseon

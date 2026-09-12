@@ -67,3 +67,5 @@ The origin of cells relates to the origin of life. Small molecules may have arri
 ## Debates and open questions
 
 There is little experimental data defining what the first self-replicating forms were; RNA is hypothesized as the earliest self-replicating molecule because it can both store genetic information and catalyze chemical reactions. The functions of vaults are purely speculative; they may play a role in nuclear-cytoplasmic transport or serve as scaffolds for signal transduction proteins. The origin of life's small molecules is debated among meteorite delivery, deep-sea hydrothermal vents, and lightning synthesis in a reducing atmosphere.
+
+Source: adapted from "Cell (biology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cell_%28biology%29

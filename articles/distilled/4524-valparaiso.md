@@ -39,3 +39,5 @@ Since the early 2000s, Valparaíso has experienced a cultural and economic recov
 - The city's traditional moniker "Puerto Principal" (principal port) is questioned, as the port of San Antonio now handles more trade volume.
 - The economic benefit of the port to the city itself is debated, as all port revenues go directly to the national treasury, and the municipality has no authority over port operations.
 - The long-term effectiveness and funding for the preservation of cultural heritage, particularly the historic funiculars, remains a policy issue.
+
+Source: adapted from "Valparaíso" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Valpara%C3%ADso

@@ -78,3 +78,5 @@ Repin produced more than three hundred portraits, preceding each with six or sev
 - Some sources referred to Repin as having Cossack or Ukrainian ancestry, but he had none; his ancestors were ethnic Russians sent to Chuguev to assist local Cossacks. Despite this, he felt affinity with both Cossacks and Ukrainians.
 - *Ivan the Terrible and His Son Ivan* was controversial: some critics saw it as veiled criticism of Tsar Alexander III, while the more aesthetic faction of the Wanderers considered it overly sensationalist. It was vandalised twice and removed from view at the tsar's request before being restored.
 - *Reply of the Zaporozhian Cossacks* depicts an apocryphal event in 1678, when Cossacks supposedly drafted an insulting letter to the Turkish sultan; the historical accuracy of the event is not established in the source.
+
+Source: adapted from "Ilya Repin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ilya_Repin

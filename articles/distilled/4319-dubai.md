@@ -53,3 +53,5 @@ Dubai is a major global transport hub. Dubai International Airport (DXB) is the 
 - The origin of the name "Dubai" is debated, with theories linking it to a souq, a word for money, "two brothers," or "baby locust."
 - The long-term sustainability of Dubai's economic model, heavily reliant on real estate, tourism, and finance, remains a subject of analysis, especially given the volatility of its property market.
 - The city's regulatory framework for real estate and finance has faced scrutiny over its adequacy in preventing illicit financial flows, as highlighted by investigative reports.
+
+Source: adapted from "Dubai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dubai

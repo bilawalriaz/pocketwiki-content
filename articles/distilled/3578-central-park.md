@@ -41,3 +41,5 @@ After its completion, the park became a popular destination for all social class
 - The ethics and future of the horse-carriage tour industry within the park remain contentious, with calls for its elimination versus reform.
 - The impact of new supertall skyscrapers along the park's southern edge on sunlight and the park's environment is a subject of ongoing study and concern.
 - The management model of the Central Park Conservancy, as a private entity overseeing a public park, raises questions about equity, access, and public accountability.
+
+Source: adapted from "Central Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Central_Park

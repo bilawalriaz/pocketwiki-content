@@ -48,3 +48,5 @@ Music theory has been taught in conservatories for centuries, but its status as 
 - The subjective nature of concepts like consonance/dissonance and musical expression means their theoretical frameworks are not absolute and vary across cultures and historical periods.
 - The role and validity of analysis are debated; some composers, like Edgard Varèse, have claimed analysis "decomposes" and "mutilates" a work's spirit.
 - The components of musical expression remain a subject of extensive and unresolved dispute among scholars.
+
+Source: adapted from "Music theory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Music_theory

@@ -43,3 +43,5 @@ Education in industrial design overlaps with graphic, interior, and engineering 
 - The precise first use of the term "industrial design" is debated, with attributions to Joseph Claude Sinel in 1919 (which he denied) and an earlier possible publication in 1840.
 - The boundaries between industrial design and engineering design vary by country and are often defined by professional credentials and licensure.
 - The field continually evolves in response to new technologies, sustainability concerns, and changing definitions of user experience and service design.
+
+Source: adapted from "Industrial design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Industrial_design

@@ -39,3 +39,5 @@ The art form has been featured in literature, such as in Michael Jacot's novel *
 
 ## Debates and Open Questions
 The article notes that any recreation of mime as performed before the 20th century is "largely conjecture," based on interpretation of diverse sources, as there was no major treatise on the art before Étienne Decroux. The precise boundaries between mime and other forms of physical theatre or dance (like Butoh) are also fluid, with various practitioners adopting techniques across disciplines.
+
+Source: adapted from "Mime artist" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mime_artist

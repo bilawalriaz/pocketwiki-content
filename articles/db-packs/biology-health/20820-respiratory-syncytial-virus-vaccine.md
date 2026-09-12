@@ -27,3 +27,5 @@ The pivotal trial of about 25,000 adults aged 60 and older found one dose of Are
 ## Safety and durability
 
 GSK's earlier maternal trial was halted in February 2022 because vaccinated women had more preterm births, a signal that resurfaced when the FDA panel considered Abrysvo in pregnancy. A revaccination study of mRNA-1345, given as a second 50 μg dose 12 months after the first to adults 50 and older, found the booster safe and well tolerated, with neutralizing antibody geometric mean titre ratios of 1.08 (RSV-A) and 0.91 (RSV-B) versus the primary dose and seroresponse rates of 77.5% and 47.5%. Because natural RSV infection does not confer lifelong immunity, annual revaccination is under study.
+
+Source: adapted from "Respiratory syncytial virus vaccine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Respiratory_syncytial_virus_vaccine

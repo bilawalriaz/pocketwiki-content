@@ -45,3 +45,5 @@ From 1866, Napoleon III failed to counter the growing power of Prussia and its m
 - **Historical Reputation**: Historians debate whether he was a "vulgar adventurer" or a modernizing statesman. His domestic reforms are often praised, while his foreign policy is seen as a series of miscalculations culminating in disaster.
 - **Role of Coup d'état**: The 1851 coup is analyzed as a pivotal moment that ended the Second Republic, with debates on its popular mandate versus its authoritarian nature.
 - **Economic Impact**: While credited with modernizing France's economy and infrastructure, some argue his policies primarily benefited the bourgeoisie and created unsustainable debt.
+
+Source: adapted from "Napoleon III" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Napoleon_III

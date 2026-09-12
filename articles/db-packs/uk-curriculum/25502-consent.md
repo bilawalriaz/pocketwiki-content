@@ -46,12 +46,4 @@ Critics argue affirmative consent assumes people are rational, independent actor
 
 Legal and moral understandings of consent do not always align. Adult siblings may voluntarily enter a relationship the law criminalizes as incest. A child below the age of consent may willingly choose a sexual relationship the law does not recognize. An age of consent is necessary but cannot account for varying levels of maturity and awareness.
 
----
-
-**Changes made:**
-- Added brief definitions for "tort" and "neoliberal contractualism" (prerequisites gap)
-- Tightened verbose phrases to make room without exceeding limits
-- Removed weak modifiers ("reasonably," "from varied political backgrounds," "entirely")
-- Reduced em dashes per style guidance
-- Ending remains a natural fact about age of consent and maturity
-- No meta-conclusions, quizzes, or appended material
+Source: adapted from "Consent" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Consent

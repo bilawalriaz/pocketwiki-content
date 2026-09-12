@@ -48,3 +48,5 @@ The Netherlands capitulated to Germany in 1940, and the Dutch East Indies fell i
 *   The legacy of the "Ethical Policy" is contested: was it genuine reform or a tool to strengthen control?
 *   The scale and death toll of the coolie labor system are difficult to determine due to scarce records.
 *   The Dutch characterization of the post-WWII conflict as "police actions" remains contentious, contrasting with Indonesia's view of it as a war of independence.
+
+Source: adapted from "Dutch East Indies" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dutch_East_Indies

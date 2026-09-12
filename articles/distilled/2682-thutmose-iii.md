@@ -45,3 +45,5 @@ Thutmose III died in 1425 BC after a reign of 54 years (including coregency). Hi
 *   **Chronology**: The exact dates of Thutmose III's reign are debated, with "Low Chronology" (1479–1425 BC) being conventional but "High Chronology" (1504–1450 BC) also used.
 *   **Hatshepsut's Defacement**: The motive and timing for the erasure of Hatshepsut's monuments are debated, with current theory favoring political succession for Amenhotep II over personal vengeance.
 *   **Campaign Details**: The exact size of armies and the precise outcomes of some later campaigns (e.g., Campaign 10 against Mitanni) are uncertain due to limited or propagandistic records.
+
+Source: adapted from "Thutmose III" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thutmose_III

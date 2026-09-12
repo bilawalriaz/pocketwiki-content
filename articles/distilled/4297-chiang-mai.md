@@ -45,3 +45,5 @@ Chiang Mai is a center of Lanna culture. While Thai is widely spoken, the Northe
 - **Population Figures**: Official statistics do not count expatriates, non-permanent residents, or many migrant workers. The real population is estimated to be as high as 1.5 million, significantly higher than the official urban figure of ~1.2 million.
 - **Air Pollution**: The annual smoke pollution crisis (December–April) is a major environmental and health issue, with causes including forest fires and agricultural burning. Solutions are actively debated and implemented.
 - **Tourism Impact**: While tourism boosts the economy, it strains natural resources, contributes to pollution, and causes traffic congestion, prompting initiatives like non-motorized transport systems.
+
+Source: adapted from "Chiang Mai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chiang_Mai

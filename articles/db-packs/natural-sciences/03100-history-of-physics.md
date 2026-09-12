@@ -39,3 +39,5 @@ After World War II, particle physics advanced rapidly. The Standard Model classi
 - **Standard Model**: the framework classifying fundamental particles and the electromagnetic, weak, and strong forces, leaving gravity outside.
 - **Entropy**: a measure of the disorder of a system; the second law of thermodynamics states that entropy in an isolated system tends to increase.
 - **Higgs boson**: a particle associated with the Higgs field, which gives mass to other elementary particles.
+
+Source: adapted from "History of physics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_physics

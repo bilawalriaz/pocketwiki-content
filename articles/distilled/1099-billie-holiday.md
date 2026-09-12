@@ -70,3 +70,5 @@ Angela Y. Davis (*Blues Legacies and Black Feminism*) argues Holiday’s perform
 - **Autobiography reliability:** *Lady Sings the Blues* (1956), ghostwritten by William Dufty, is considered generally accurate by John Szwed (2015) but legally censored—omitting relationships with Charles Laughton, Tallulah Bankhead, and Orson Welles, and watering down other material.
 - **Paternity:** Holiday’s birth certificate lists father as "Frank DeViese"; historians debate whether this is an error/anomaly or indicates a different father than Clarence Halliday.
 - **Vocal decline vs. emotional depth:** Critics and Holiday herself noted her voice deteriorated in the 1950s (thin, limited range), yet many argue her late work (*Lady in Satin*, 1956 Carnegie Hall) achieved greater emotional profundity through phrasing and interpretive wisdom.
+
+Source: adapted from "Billie Holiday" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Billie_Holiday

@@ -44,3 +44,5 @@ The site was rediscovered in the 19th century by archaeologists like Paul-Émile
 *   **Hanging Gardens:** Some scholars, like Stephanie Dalley, argue that the gardens built by Sennacherib at Nineveh, not Babylon, were the original "Hanging Gardens of Babylon."
 *   **Biblical Founder:** Interpretations of Genesis 10:11 differ on whether the founder of Nineveh was the person Ashur or the country Assyria (via Nimrod).
 *   **Post-612 BC Status:** It is unclear whether Nineveh came under the rule of the Medes or the Neo-Babylonian Empire immediately after its sack in 612 BC.
+
+Source: adapted from "Nineveh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nineveh

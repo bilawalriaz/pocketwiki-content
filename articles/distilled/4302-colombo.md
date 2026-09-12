@@ -46,3 +46,5 @@ Colombo is multi-ethnic and multi-religious, with Sinhalese, Sri Lankan Moor, an
 
 ## Debates and Open Questions
 The exact etymology of "Colombo" is debated, with multiple theories linking it to Sinhala or Vedda words for "port" or "harbour." The completion of the administrative capital's move from Colombo to Sri Jayawardenepura Kotte remains unfinished, leaving Colombo's precise role as a "capital" subject to functional interpretation.
+
+Source: adapted from "Colombo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Colombo

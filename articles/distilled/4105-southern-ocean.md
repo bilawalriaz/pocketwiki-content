@@ -46,3 +46,5 @@ Threats include increased UV radiation from the ozone hole, which reduces phytop
 - The formal, internationally adopted definition of the Southern Ocean's northern boundary remains unresolved due to IHO impasses, with some organizations using the 60° S parallel and others using the Antarctic Convergence or extending other oceans to Antarctica.
 - The impact of climate change on the Southern Ocean's overturning circulation is a major concern, with potential for substantial slowing or collapse, which would have global consequences for weather and marine ecosystems.
 - The sustainability of fisheries, particularly for Patagonian toothfish, is threatened by IUU fishing, the scale of which is estimated to be five to six times the regulated catch.
+
+Source: adapted from "Southern Ocean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Southern_Ocean

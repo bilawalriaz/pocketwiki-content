@@ -37,3 +37,5 @@ After Suleyman's death in 1360, a run of short-lived or weak rulers handed real 
 ## Legacy
 
 Mali's expansion spread Mande languages and Dyula trade networks from the Gambia mouth to Burkina Faso and the Gold Coast, and its political vocabulary (*mansa*, *farin*, *farba*, *Gbara*, *Kouroukan Fouga*) survived in successor states such as Kaabu, Bamana, and Kenedougou into the colonial era. Sudano-Sahelian architecture, built of mudbrick and adobe with protruding wooden support beams (*toron*), peaked under Mansa Musa in the Great Mosque of Gao and the Timbuktu palace; the Great Mosque of Djenné, rebuilt in 1907 on 13th- or 14th-century foundations, remains the style's most famous example.
+
+Source: adapted from "Mali Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mali_Empire

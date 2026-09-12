@@ -46,3 +46,5 @@ In 1525, Grand Master Albert of Brandenburg converted to Lutheranism, secularize
 - The exact scale of the 1308 massacre of Gdańsk's inhabitants by the Order is unknown and debated by historians, with estimates ranging from 60 to 10,000.
 - The degree to which the Order's conflicts with Lithuania and Poland were driven by genuine crusading zeal versus political and economic ambition is a subject of historical analysis.
 - The Order's historical legacy is contested, having been appropriated by German nationalists and Nazis, while also being portrayed as a hostile forerunner of German aggression in Polish nationalism.
+
+Source: adapted from "Teutonic Order" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Teutonic_Order

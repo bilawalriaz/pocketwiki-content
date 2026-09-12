@@ -42,3 +42,5 @@ Craft production forms part of informal economies in cities like Istanbul, creat
 
 ## Debates and Open Questions
 The source notes ongoing scholarly debates about the distinction between handicraft and fine art, with boundaries often overlapping to create hybrid objects. Context matters—audiences may perceive handcrafted items as art when displayed in museums or prominent home positions. The term "arts and crafts" is easily confused with the Arts and Crafts movement, though the movement is as practical as it is aesthetic. Additionally, the political dimension of craftivism represents an evolving interpretation of handicraft's role beyond traditional cultural or religious significance.
+
+Source: adapted from "Handicraft" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Handicraft

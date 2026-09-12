@@ -56,3 +56,5 @@ South Korea transitioned to democracy in 1987 and experienced rapid economic gro
 - The exact dates and origins of the Paleolithic era in Korea are debated, with estimates ranging from 400,000 to 700,000 years ago.
 - The historicity of Gojoseon's founding myths is challenged by contradicting evidence.
 - The legitimacy of the 1910 Japan–Korea Annexation Treaty is disputed, as it was not signed by the Korean Emperor as required.
+
+Source: adapted from "History of Korea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Korea

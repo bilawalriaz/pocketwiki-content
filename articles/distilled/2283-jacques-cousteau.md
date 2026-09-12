@@ -42,3 +42,5 @@ In the 1960s, Cousteau led the Conshelf projects, creating experimental underwat
 *   **Priority for SCUBA**: In 1994, Hans Hass publicly claimed priority for the first use of a mobile, self-contained diving apparatus, a claim directed at Cousteau.
 *   **Ecological Impact**: Cousteau and his Oceanographic Museum in Monaco have been identified as possibly introducing the invasive "Killer Algae" (*Caulerpa taxifolia*) into the Mediterranean ecosystem.
 *   **Population Control Views**: A 1991 interview quoted Cousteau advocating for drastic human population control measures, a stance that remains controversial.
+
+Source: adapted from "Jacques Cousteau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jacques_Cousteau

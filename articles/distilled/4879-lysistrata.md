@@ -31,3 +31,5 @@ The play's core idea—a sex strike to end conflict—has been widely adapted. E
 
 ## Debates and Open Questions
 The play's tone is a subject of scholarly debate: is it a genuine anti-war and feminist statement, or primarily a bawdy comedy that uses these themes for laughs? The effectiveness and sincerity of the women's political action versus the play's reliance on sexual humor and stereotypes remain points of analysis.
+
+Source: adapted from "Lysistrata" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lysistrata

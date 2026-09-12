@@ -39,3 +39,5 @@ Farnsworth worked with various companies, including Philco and later ITT, where 
 
 ## Debates and Open Questions
 The primary historical debate concerns the priority of invention between Farnsworth and Vladimir Zworykin/RCA. The U.S. Patent Office ruled in Farnsworth's favor in 1934, but the dispute fueled decades of litigation and public controversy. Scholars continue to examine the extent of Zworykin's independent work versus his exposure to Farnsworth's designs.
+
+Source: adapted from "Philo Farnsworth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philo_Farnsworth

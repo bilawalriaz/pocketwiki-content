@@ -26,3 +26,5 @@ Scientific physical anthropology took shape in the 17th and 18th centuries with 
 In the late 19th century, Franz Boas shifted the field by showing that head shape is malleable, shaped by environment and nutrition rather than fixed racial inheritance, yet scientific racism persisted into the 20th century through figures such as Earnest Hooton and Aleš Hrdlička.
 
 In 1951, Sherwood Washburn, a former student of Hooton, proposed a "new physical anthropology" that replaced racial typology with the study of evolution and process. Paleoanthropology and primatology expanded, and the modern synthesis, the 20th-century merger of Darwinian evolution with Mendelian genetics, combined with new knowledge of DNA and better dating methods, gave the field a sharper empirical base.
+
+Source: adapted from "Biological anthropology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_anthropology

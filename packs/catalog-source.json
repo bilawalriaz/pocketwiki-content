@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "catalog_version": 7,
+  "catalog_version": 8,
   "base_url": "https://packs.educated.space",
   "packs": [
     {
       "id": "essential-computing",
       "name": "Essential Computing & Digital Life",
-      "version": 3,
+      "version": 4,
       "description": "Practical foundations for computers, programming, the internet, data, and digital safety.",
       "dir": "db-packs/essential-computing",
       "articles": [
@@ -115,7 +115,7 @@
     {
       "id": "mathematical-thinking",
       "name": "Mathematical Thinking",
-      "version": 3,
+      "version": 4,
       "description": "A compact toolkit of arithmetic, algebra, geometry, probability, statistics, and mathematical reasoning.",
       "dir": "db-packs/mathematical-thinking",
       "articles": [
@@ -224,7 +224,7 @@
     {
       "id": "natural-sciences",
       "name": "Natural Sciences",
-      "version": 3,
+      "version": 4,
       "description": "Core ideas in physics, chemistry, astronomy, and the scientific method for understanding the physical world.",
       "dir": "db-packs/natural-sciences",
       "articles": [
@@ -333,7 +333,7 @@
     {
       "id": "biology-health",
       "name": "Biology, Health & Medicine",
-      "version": 3,
+      "version": 4,
       "description": "Useful foundations for living systems, the human body, disease, prevention, nutrition, and first aid.",
       "dir": "db-packs/biology-health",
       "articles": [
@@ -442,7 +442,7 @@
     {
       "id": "earth-climate-environment",
       "name": "Earth, Climate & Environment",
-      "version": 4,
+      "version": 5,
       "description": "A field guide to Earth systems, weather, oceans, climate change, ecosystems, resources, and sustainability.",
       "dir": "db-packs/earth-climate-environment",
       "articles": [
@@ -551,7 +551,7 @@
     {
       "id": "history-civilizations",
       "name": "History & Civilizations",
-      "version": 3,
+      "version": 4,
       "description": "Big-picture history from prehistory and ancient civilizations through empires, revolutions, and the modern world.",
       "dir": "db-packs/history-civilizations",
       "articles": [
@@ -660,7 +660,7 @@
     {
       "id": "society-government-economy",
       "name": "Society, Government & Economy",
-      "version": 3,
+      "version": 4,
       "description": "How societies organize power, law, markets, money, institutions, work, education, and public life.",
       "dir": "db-packs/society-government-economy",
       "articles": [
@@ -769,7 +769,7 @@
     {
       "id": "philosophy-religion-ethics",
       "name": "Philosophy, Religion & Ethics",
-      "version": 3,
+      "version": 4,
       "description": "A thoughtful introduction to meaning, knowledge, morality, mind, religion, and major philosophical traditions.",
       "dir": "db-packs/philosophy-religion-ethics",
       "articles": [
@@ -878,7 +878,7 @@
     {
       "id": "arts-language-culture",
       "name": "Arts, Language & Culture",
-      "version": 3,
+      "version": 4,
       "description": "Explore how people communicate and create through language, writing, literature, music, visual art, film, and design.",
       "dir": "db-packs/arts-language-culture",
       "articles": [
@@ -987,7 +987,7 @@
     {
       "id": "engineering-everyday-systems",
       "name": "Engineering & Everyday Systems",
-      "version": 3,
+      "version": 4,
       "description": "Understand the designed world: materials, machines, buildings, energy, transport, electronics, and infrastructure.",
       "dir": "db-packs/engineering-everyday-systems",
       "articles": [
@@ -1096,7 +1096,7 @@
     {
       "id": "living-world",
       "name": "The Living World",
-      "version": 1,
+      "version": 2,
       "description": "A lively field guide to cells, genes, animals, plants, evolution, ecosystems, and the diversity of life.",
       "dir": "db-packs/living-world",
       "articles": [
@@ -1205,7 +1205,7 @@
     {
       "id": "mind-and-behavior",
       "name": "Mind & Behaviour",
-      "version": 1,
+      "version": 2,
       "description": "Explore perception, memory, learning, emotion, personality, consciousness, development, and the science of behaviour.",
       "dir": "db-packs/mind-and-behavior",
       "articles": [
@@ -1314,7 +1314,7 @@
     {
       "id": "cosmos-and-spaceflight",
       "name": "Cosmos & Spaceflight",
-      "version": 1,
+      "version": 2,
       "description": "Travel from the solar system to distant galaxies through stars, rockets, orbits, cosmology, and space exploration.",
       "dir": "db-packs/cosmos-and-spaceflight",
       "articles": [
@@ -1423,7 +1423,7 @@
     {
       "id": "oceans-weather-and-earth",
       "name": "Oceans, Weather & Earth",
-      "version": 1,
+      "version": 2,
       "description": "Understand the restless planet through oceans, rivers, rocks, weather, volcanoes, earthquakes, and Earth-shaping forces.",
       "dir": "db-packs/oceans-weather-and-earth",
       "articles": [
@@ -1532,7 +1532,7 @@
     {
       "id": "ancient-worlds-and-archaeology",
       "name": "Ancient Worlds & Archaeology",
-      "version": 1,
+      "version": 2,
       "description": "Meet the cities, rulers, religions, technologies, and archaeological clues of the ancient world.",
       "dir": "db-packs/ancient-worlds-and-archaeology",
       "articles": [
@@ -1641,7 +1641,7 @@
     {
       "id": "ideas-ethics-and-society",
       "name": "Ideas, Ethics & Society",
-      "version": 1,
+      "version": 2,
       "description": "A conversation across philosophy, religion, justice, rights, reason, politics, and ideas that shape public life.",
       "dir": "db-packs/ideas-ethics-and-society",
       "articles": [
@@ -1750,7 +1750,7 @@
     {
       "id": "story-language-and-media",
       "name": "Story, Language & Media",
-      "version": 1,
+      "version": 2,
       "description": "See how humans make meaning through language, writing, literature, storytelling, journalism, film, and mass media.",
       "dir": "db-packs/story-language-and-media",
       "articles": [
@@ -1859,7 +1859,7 @@
     {
       "id": "music-art-and-design",
       "name": "Music, Art & Design",
-      "version": 1,
+      "version": 2,
       "description": "A creative atlas of music, painting, sculpture, photography, architecture, dance, visual culture, and design.",
       "dir": "db-packs/music-art-and-design",
       "articles": [
@@ -1968,7 +1968,7 @@
     {
       "id": "money-markets-and-work",
       "name": "Money, Markets & Work",
-      "version": 1,
+      "version": 2,
       "description": "Follow the flow of money through markets, banks, trade, businesses, labour, taxation, and the working world.",
       "dir": "db-packs/money-markets-and-work",
       "articles": [
@@ -2077,7 +2077,7 @@
     {
       "id": "machines-materials-and-infrastructure",
       "name": "Machines, Materials & Infrastructure",
-      "version": 1,
+      "version": 2,
       "description": "Decode the built world through machines, engines, electronics, materials, transport, construction, and infrastructure.",
       "dir": "db-packs/machines-materials-and-infrastructure",
       "articles": [
@@ -2186,7 +2186,7 @@
     {
       "id": "uk-curriculum-companion",
       "name": "UK Curriculum Knowledge Companion",
-      "version": 2,
+      "version": 3,
       "description": "A compact knowledge companion spanning primary through secondary topics across England, Scotland, Wales, and Northern Ireland. It supports curriculum study but is not a replacement for official programmes of study.",
       "dir": "db-packs/uk-curriculum",
       "articles": [
@@ -2262,7 +2262,7 @@
     {
       "id": "uk-literacy-arts-languages",
       "name": "UK Literacy, Arts & Languages",
-      "version": 2,
+      "version": 3,
       "description": "Reading, writing, phonics, literary craft, music, visual art, and the languages of the UK for curriculum-linked exploration.",
       "dir": "db-packs/uk-curriculum",
       "articles": [
@@ -2291,7 +2291,7 @@
     {
       "id": "uk-maths-stem-computing",
       "name": "UK Maths, Science & Computing",
-      "version": 2,
+      "version": 3,
       "description": "High-leverage mathematics, science, design technology, digital literacy, and computing concepts aligned with UK school knowledge spines.",
       "dir": "db-packs/uk-curriculum",
       "articles": [
@@ -2318,7 +2318,7 @@
     {
       "id": "uk-britain-civic-life",
       "name": "Britain, Nations & Civic Life",
-      "version": 2,
+      "version": 3,
       "description": "UK history, the four nations, citizenship, democracy, wellbeing, and everyday institutions for context-rich study.",
       "dir": "db-packs/uk-curriculum",
       "articles": [
@@ -2356,7 +2356,7 @@
     {
       "id": "space-and-the-cosmos",
       "name": "Space & the Cosmos",
-      "version": 1,
+      "version": 2,
       "description": "A guided tour through stars, planets, galaxies, gravity, light, and the questions that make astronomy fascinating.",
       "dir": "db-packs/space-and-the-cosmos",
       "articles": [
@@ -2387,7 +2387,7 @@
     {
       "id": "climate-and-the-living-planet",
       "name": "Climate & the Living Planet",
-      "version": 1,
+      "version": 2,
       "description": "A practical introduction to Earth systems, climate change, biodiversity, water, ecosystems, pollution, and resilience.",
       "dir": "db-packs/climate-and-the-living-planet",
       "articles": [
@@ -2420,7 +2420,7 @@
     {
       "id": "inventors-and-everyday-engineering",
       "name": "Inventors & Everyday Engineering",
-      "version": 1,
+      "version": 2,
       "description": "The machines, materials, structures, circuits, and design ideas behind the built world around us.",
       "dir": "db-packs/inventors-and-everyday-engineering",
       "articles": [
@@ -2453,7 +2453,7 @@
     {
       "id": "mind-ethics-and-meaning",
       "name": "Mind, Ethics & Meaning",
-      "version": 1,
+      "version": 2,
       "description": "Big questions about consciousness, knowledge, freedom, justice, religion, technology, and how people should live.",
       "dir": "db-packs/mind-ethics-and-meaning",
       "articles": [
@@ -2486,7 +2486,7 @@
     {
       "id": "world-history-turning-points",
       "name": "World History: Turning Points",
-      "version": 1,
+      "version": 2,
       "description": "A compact timeline of civilizations, ideas, empires, revolutions, and conflicts that reshaped the modern world.",
       "dir": "db-packs/world-history-turning-points",
       "articles": [
@@ -2519,7 +2519,7 @@
     {
       "id": "creative-arts-and-world-languages",
       "name": "Creative Arts & World Languages",
-      "version": 1,
+      "version": 2,
       "description": "A broad creative shelf covering visual art, music, performance, literature, writing, design, photography, and language.",
       "dir": "db-packs/creative-arts-and-world-languages",
       "articles": [

@@ -41,3 +41,5 @@ The native language is Southwestern Mandarin, specifically the Sichuanese dialec
 - The source notes that while Chongqing is the largest city proper by population, it is not the most populous urban area, highlighting a distinction between administrative and functional urban boundaries.
 - The municipality's large rural population (29.6% as of 2021) within its vast administrative area complicates its characterization as a single "city."
 - The historical impact of Chongqing's frequent fog on its wartime defense is presented as a possibility ("possibly played a role") rather than a confirmed fact.
+
+Source: adapted from "Chongqing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chongqing

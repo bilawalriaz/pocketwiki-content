@@ -66,3 +66,5 @@ Ayn Rand compared partiality toward consanguinity with racism, calling the worsh
 - Whether the family is "declining" depends on one's definition of "family"; married couples have dropped below half of US households.
 - Whether kinship is universally based on "blood" or better understood through living together, sharing food, and care (recent anthropological arguments).
 - Whether the nuclear family is in decline globally; Swedish data since the 2000s suggest it may no longer be declining there.
+
+Source: adapted from "Family" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Family

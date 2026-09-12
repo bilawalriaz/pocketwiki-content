@@ -27,3 +27,5 @@ An X-ray study of ten high-redshift clusters (0.81 < z < 1.17) found that nine o
 ## Precursors and the role of AGN
 
 Precursors of BCGs may have been very large early-universe galaxies in relatively dense regions, already hosting supermassive black holes (SMBH) and active nuclei. These configurations can gather mass through mergers of smaller systems. Radio-jet turbulence, radiation pressure on the interstellar medium, and possible dual SMBH systems in adjacent galaxies may all push surrounding galaxies toward the central BCG, accelerating cluster assembly.
+
+Source: adapted from "Brightest cluster galaxy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brightest_cluster_galaxy

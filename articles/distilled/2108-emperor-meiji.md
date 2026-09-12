@@ -43,3 +43,5 @@ Under Meiji's reign, Japan pursued military modernization, leading to victories 
 
 ## Debates and open questions
 The extent of Emperor Meiji's personal political power and influence during his reign is a central historical debate. Scholars are divided on whether he was a symbolic figurehead for the *genrō* oligarchy, a powerful autocrat they struggled to restrain, or a mediating figure within the decision-making process. The lack of personal diaries or extensive correspondence from the emperor contributes to this ongoing scholarly dispute.
+
+Source: adapted from "Emperor Meiji" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emperor_Meiji

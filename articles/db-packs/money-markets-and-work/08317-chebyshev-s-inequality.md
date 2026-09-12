@@ -43,3 +43,5 @@ Multivariate form. For a vector $X$ with mean $\mu$ and covariance matrix $S$, $
 Finite samples. When only sample estimates $m$ and $s$ are available and the population moments are unknown, Saw–Yang–Mo and Kabán's distribution-free bounds replace $1/k^2$ with terms depending on sample size $N$, approaching $1/(N+1)$ when the mean is large relative to the standard deviation.
 
 Higher moments. Applying Markov's inequality to $|X-\mathbb{E}(X)|^n$ produces tail bounds of order $1/k^n$ via the $n$-th absolute moment; for $n > 4$ these beat the $1/k^2$ rate.
+
+Source: adapted from "Chebyshev's inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chebyshev%27s_inequality

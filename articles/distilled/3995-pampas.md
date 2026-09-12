@@ -39,3 +39,5 @@ Spanish colonization began in the 16th century, leading to conflict with indigen
 
 ## Debates and Open Questions
 The primary scholarly debate concerns why the pristine Pampas were treeless. Proposed explanations include seasonal drought, competition from grass roots, heavy clay soils limiting tap roots, fires set by indigenous peoples, the presence of large herbivores, and relict drier past climates. These mono-causal explanations have been criticized, with current thinking suggesting a synergistic influence of multiple factors like low propagule pressure, abiotic stresses, and biotic resistance.
+
+Source: adapted from "Pampas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pampas

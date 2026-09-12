@@ -55,3 +55,5 @@ Architecturally, the Great Mosque of Córdoba, founded in 785, is iconic for its
 - **Army Size:** Contemporary accounts of Almanzor's army size are contradictory, with estimates ranging from 12,000 to 600,000 troops. Modern scholars suggest a more realistic figure of 35,000–90,000.
 - **Rate of Conversion:** The pace of Islamization is modeled but not precisely known. Richard Bulliet's model suggests 50% conversion by 950 CE, but this is an estimate.
 - **Legitimacy:** The Caliphate of Córdoba's claim to the title of caliph was not accepted outside al-Andalus and its North African affiliates, challenging its universal Islamic authority.
+
+Source: adapted from "Umayyad state of Córdoba" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Umayyad_state_of_C%C3%B3rdoba

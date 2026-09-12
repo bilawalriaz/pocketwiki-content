@@ -44,3 +44,5 @@ In January 1922, Collins became Chairman of the Provisional Government, tasked w
 *   **Responsibility for the Civil War:** The decision to attack the Four Courts is a key point of contention. Some historians argue that Arthur Griffith and the British forced the issue, while others suggest Collins ultimately consented to military action.
 *   **Collins's Plans for Northern Ireland:** His private and public statements on partition appear contradictory. He publicly accepted the Treaty's provisions while privately supporting IRA operations in the North and telling associates the Treaty "can go to hell" if political efforts to end partition failed.
 *   **The Circumstances of His Death:** The exact details of the ambush at Béal na Bláth remain unclear, with no official inquiry ever held. The identity of the fatal shot is traditionally attributed to Denis "Sonny" O'Neill, but this is not definitively proven.
+
+Source: adapted from "Michael Collins (Irish leader)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Michael_Collins_%28Irish_leader%29

@@ -47,3 +47,5 @@ The Khwarazmian era fostered a dual Turkic-Persian culture. Persian was the lang
 - The exact founding date of the Khwarazmian state is debated, with the title "Khwarazmshah" first appearing in 305 AD under the Afrighids, but the Anushtegin dynasty's rule beginning in 1077.
 - The degree to which the diarchy between Muhammad II and his mother Turkan Khatun contributed to the empire's military weakness and rapid collapse against the Mongols is a point of scholarly discussion.
 - The precise population of the empire and its major cities at the time of the Mongol invasion is estimated, with figures for major cities ranging from 520,000 to 850,000 people.
+
+Source: adapted from "Khwarazmian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khwarazmian_Empire

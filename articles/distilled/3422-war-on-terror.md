@@ -52,3 +52,5 @@ The war has been criticized on multiple fronts. Critics argue the term "war" is 
 - **Effectiveness:** Has the military campaign reduced global terrorism, or has it fueled instability and radicalization?
 - **Legal and Ethical Boundaries:** To what extent did measures like the Patriot Act, Guantanamo Bay, and drone strikes violate international law and human rights?
 - **Endgame and Legacy:** Can the conflict be considered "won," or has it evolved into a permanent state of low-intensity global conflict? The expansion into narcoterrorism and conflict with Iran suggests the latter.
+
+Source: adapted from "War on terror" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/War_on_terror

@@ -50,3 +50,5 @@ Feynman was a gifted teacher and communicator. His *Feynman Lectures on Physics*
 - **Parton vs. Quark Model:** The relationship between Feynman's parton model and Gell-Mann's quark model was initially murky. Gell-Mann derisively called partons "put-ons." The models were later understood as complementary descriptions of the same underlying physics.
 - **Pedagogical Impact:** The effectiveness of Feynman's undergraduate lectures is debated. While older students and faculty found them inspirational, the intended first-year audience often found them intimidating.
 - **Personal Conduct:** Feynman's behavior, including alleged sexism and stories of seducing women, has been a subject of criticism and debate, contrasting with his scientific legacy.
+
+Source: adapted from "Richard Feynman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Richard_Feynman

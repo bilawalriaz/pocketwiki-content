@@ -30,3 +30,5 @@ The channel is a critical global shipping lane, carrying about 30% of the world'
 
 ## Debates and Open Questions
 The primary debate concerns sovereignty over the Scattered Islands and Mayotte. Comoros claims Mayotte, while Madagascar claims the Scattered Islands, arguing they were Malagasy dependencies that should have reverted to it upon independence, not remained with France. France maintains its sovereignty and a military presence to protect its claimed territories and their associated EEZs.
+
+Source: adapted from "Mozambique Channel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mozambique_Channel

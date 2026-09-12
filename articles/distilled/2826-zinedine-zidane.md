@@ -45,3 +45,5 @@ Zidane is celebrated for his exceptional first touch, dribbling, passing, and ab
 - **Temperament vs. Genius**: Zidane's career is often framed as a duality between his sublime talent and his volatile temperament, which led to crucial red cards, most notably in the 2006 World Cup final.
 - **Coaching Credit**: Some debate whether his managerial success at Real Madrid was due to his tactical acumen or his exceptional man-management skills and the quality of his squad.
 - **Cultural Identity**: As an Algerian-Frenchman, his identity and occasional reactions to racial provocation have been a point of discussion regarding his on-field conduct.
+
+Source: adapted from "Zinedine Zidane" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zinedine_Zidane

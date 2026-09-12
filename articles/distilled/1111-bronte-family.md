@@ -52,3 +52,5 @@ Branwell died in 1848, followed by Emily and Anne in 1848 and 1849, all from tub
 - **Emily’s deathbed scene**: Popular myth places Emily’s death on the dining room sofa, but no contemporary evidence supports this.
 - **Unfinished manuscripts**: Some accounts suggest Emily left an unpublished novel that Charlotte destroyed, though no proof exists.
 - **Anne’s reputation**: Charlotte’s decision to suppress *The Tenant of Wildfell Hall* after Anne’s death contributed to Anne’s lesser-known status compared to her sisters.
+
+Source: adapted from "Brontë family" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bront%C3%AB_family

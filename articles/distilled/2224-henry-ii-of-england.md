@@ -46,3 +46,5 @@ Henry's later reign was dominated by attempts to provide for his eight children 
 - **Henry's Legal Reforms**: While credited with founding English Common Law, scholars question whether Henry had a grand vision or if the reforms were a pragmatic, incremental response to post-civil war disorder. His personal role in drafting specific laws is also uncertain.
 - **Motives in the Becket Conflict**: The depth of Henry's personal animosity versus his political strategy in the dispute with Becket is debated. Some historians suggest his famous outburst leading to the murder may have been theatrical, not a literal command.
 - **Collapse of the Empire**: The rapid loss of Angevin lands in France under King John is attributed to various factors, including long-term economic shifts, cultural divergence between England and Normandy, and the inherent instability of Henry's dynastic inheritance system.
+
+Source: adapted from "Henry II of England" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henry_II_of_England

@@ -85,3 +85,5 @@ It was once believed that Gentileschi died in 1652 or 1653; however, modern evid
 ## Debates and Open Questions
 
 Scholars continue debating the extent to which Gentileschi's personal trauma influenced her artistic choices. While feminist critics long interpreted her repeated Judith motifs as expressions of revenge against male violence, others argue she strategically leveraged her fame from the rape trial to meet market demand for emotionally charged, female-centered narratives. Attribution disputes persist for works produced during her Naples workshop period, where collaborative production complicates single-author claims. Additionally, questions remain about her exact death date and whether she succumbed to the 1656 plague. Recent scholarship seeks to move beyond reductive readings focused solely on gender, instead situating her within broader artistic networks and commercial contexts of Baroque Europe.
+
+Source: adapted from "Artemisia Gentileschi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Artemisia_Gentileschi

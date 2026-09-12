@@ -31,3 +31,5 @@ The megalopolis concept has influenced popular culture, often depicted as a vast
 
 ## Debates and Open Questions
 The source highlights a core scholarly debate: the definition of a megalopolis is not universal. Population thresholds vary (e.g., Gottmann's 25 million vs. Doxiadis's 10 million), and terms like "megaregion" and "city cluster" are used interchangeably by different scholars and countries. Furthermore, the application of the concept is complicated by the use of arbitrary, non-comparable national definitions for urban data, which is the problem the proposed Urban Metric System (UMS) aims to solve.
+
+Source: adapted from "Megalopolis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Megalopolis

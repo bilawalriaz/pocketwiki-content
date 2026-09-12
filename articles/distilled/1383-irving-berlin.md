@@ -74,3 +74,5 @@ Berlin died at 101 on September 22, 1989. Broadway dimmed its lights; President 
 - **Cultural appropriation in early "coon songs" and ragtime**: Berlin’s early catalog includes dialect songs and ragtime derived from African American traditions; historians assess his role in popularizing Black musical forms for white audiences versus exploitation.
 - **Mad Magazine parody ruling scope**: The 1964 appeals decision protecting parody of meter/structure remains a cited precedent in copyright fair use law; its boundaries for musical parody are still litigated.
 - **Political conservatism in later years**: Berlin’s shift toward conservative views (supporting Eisenhower, opposing tax shelters, FBI scrutiny) contrasts with his civil rights advocacy; biographers differ on whether this reflects genuine patriotism or ideological rigidity.
+
+Source: adapted from "Irving Berlin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Irving_Berlin

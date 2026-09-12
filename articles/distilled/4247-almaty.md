@@ -48,3 +48,5 @@ Almaty is considered Kazakhstan's cultural capital, with a European character. K
 - The etymology of "Almaty" is disputed, with theories linking it to "apple" or a Turkic word for "father."
 - The region west of the Tian Shan mountains is thought to be the apple's ancestral home, with *Malus sieversii* as a candidate ancestor, but this is presented as a scientific hypothesis.
 - The city's severe air pollution is a major ongoing issue, with morbidity for certain diseases noted as high despite a lack of major industrial installations.
+
+Source: adapted from "Almaty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Almaty

@@ -44,3 +44,5 @@ Islamic architecture is consistently prominent, drawing on late antique traditio
 
 ## Debates and Open Questions
 The very concept of "Islamic art" is debated by some scholars as a Western construct that may oversimplify the diversity of artistic production across Muslim societies. The extent and nature of aniconism are also debated; while some interpretations strictly ban depictions of living beings, historical evidence shows figurative art flourished in many periods and contexts, including under rulers who were religious zealots. The origins and precise dating of many carpet designs remain unclear, as traditional labels often derive from design rather than documented provenance.
+
+Source: adapted from "Islamic art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Islamic_art

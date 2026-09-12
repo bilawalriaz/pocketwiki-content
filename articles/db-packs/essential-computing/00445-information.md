@@ -31,3 +31,5 @@ A **record** is information deliberately retained as evidence of an activity, fo
 ## The unresolved debate
 
 Whether information is an objective quantity or an observer-dependent phenomenon remains open. Scholars including Bateson, Yovits, Brier, Buckland, Goguen, and Hjørland argue for the subjective side; Shannon's mathematics gives the field its most powerful objective tools but does not settle the philosophical question. The disagreement shapes how fields from archival science to quantum gravity describe what happens when a pattern is read, stored, or lost.
+
+Source: adapted from "Information" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Information

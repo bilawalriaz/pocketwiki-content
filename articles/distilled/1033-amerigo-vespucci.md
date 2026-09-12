@@ -89,3 +89,5 @@ Vespucci's historical weight lies more in his letters—authentic or not—than 
 3. **Priority of "New World" recognition:** Did Vespucci genuinely realize in 1501–1502 that Brazil was a continent distinct from Asia, or did he (like Columbus) die believing he had reached Asia's edge? Humboldt (1839) argued the latter; the *Mundus Novus* text claims the former.
 4. **Role on 1499–1500 voyage:** Was Vespucci a pilot/navigator (as Ojeda later recalled), a commercial agent for investors, or a passenger? His own letters imply leadership; his inexperience suggests otherwise.
 5. **Awareness of "America" naming:** Was Vespucci aware of Waldseemüller's 1507 map naming the continent after him? Most historians believe he died unaware (1512); Waldseemüller himself retracted the name in 1513.
+
+Source: adapted from "Amerigo Vespucci" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amerigo_Vespucci

@@ -68,3 +68,5 @@ Three types exist: international championships, national championships, and annu
 
 ## Debates and open questions
 Eligibility for the women's division remains contentious, particularly regarding intersex athletes and testosterone regulations. The IAAF's policies have faced criticism from the UN Human Rights Council and athletes' rights advocates, who cite harm to social well-being and test inaccuracies. Conversely, supporters argue regulations prevent countries from recruiting athletes with differences in sex development for competitive advantage. Transgender participation in women's events has also raised fairness concerns. Age verification in youth and masters categories faces challenges in regions with poor documentation. Athletes with disabilities occasionally compete against able-bodied competitors, raising questions about fair competition and classification accuracy.
+
+Source: adapted from "Sport of athletics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sport_of_athletics

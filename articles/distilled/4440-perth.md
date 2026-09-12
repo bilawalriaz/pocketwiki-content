@@ -40,3 +40,5 @@ Perth's economy is dominated by service industries, supporting the state's minin
 
 ## Debates and Open Questions
 The history of European settlement involves ongoing scholarly debate regarding the nature and scale of conflict with the Indigenous Whadjuk Noongar people, including events like the Pinjarra massacre. The city's extreme geographical isolation presents continuous challenges and opportunities for economic development and cultural connectivity. Furthermore, the long-term impact of reduced winter rainfall on Perth's water security and urban planning remains a critical issue for the city's future.
+
+Source: adapted from "Perth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Perth

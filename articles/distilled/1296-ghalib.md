@@ -69,3 +69,5 @@ Ghalib died in 1869, buried near Nizamuddin Auliya. His home in Chandni Chowk is
 ## Debates and Open Questions
 
 Scholars debate whether Ghalib’s Persian or Urdu works better represent his genius. While he personally favored Persian and claimed superiority for his Persian compositions, his enduring popularity stems from his Urdu ghazals. Critics also question the extent to which his religious skepticism was genuine versus literary device. Some interpret his critiques of orthodoxy as playful irreverence, while others see them as sincere challenges to dogma. Additionally, the authenticity and interpretation of his letters remain contested, with debates over editorial choices in published editions and translations. Finally, the historiography of his relationship with Sir Syed Ahmad Khan—particularly Ghalib’s harsh critique of the *Ai’n-e-Akbari*—continues to generate discussion about their ideological divergence and mutual influence.
+
+Source: adapted from "Ghalib" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ghalib

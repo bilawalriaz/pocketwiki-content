@@ -44,3 +44,5 @@ Haiti is one of the poorest countries in the Western Hemisphere, with an economy
 *   **Impact of the French Indemnity:** Scholars debate the precise long-term economic impact of the 1825 debt, with estimates of lost economic growth ranging from $21 billion to $115 billion.
 *   **U.S. Occupation Legacy:** The U.S. occupation (1915–1934) is viewed by some as having built necessary infrastructure, while others emphasize its violent suppression of dissent and the deep resentment it fostered among Haitians.
 *   **Cholera Responsibility:** While the UN apologized in 2016 for introducing cholera via a peacekeeping station, it has refused to acknowledge legal fault, avoiding financial responsibility for the epidemic that killed thousands.
+
+Source: adapted from "Haiti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Haiti

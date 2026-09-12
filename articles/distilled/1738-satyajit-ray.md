@@ -76,3 +76,5 @@ Ray was influenced by Jean Renoir, Vittorio De Sica, and Old Hollywood directors
 ## Debates and open questions
 
 Critics have debated whether Ray's films are anti-modern, lacking the experimentation of contemporaries like Godard; some find them glacially slow, while Kurosawa defended them as "flowing composedly, like a big river". Socialists claimed Ray was not "committed" to the downtrodden, while others accused him of glorifying poverty in *Pather Panchali* and *Ashani Sanket*. In 1980, MP Nargis Dutt accused Ray of "exporting poverty", wanting films representing "Modern India". Ray harshly criticised colleague Mrinal Sen's film *Akash Kusum* for attacking "easy targets", though Ray continued making films on that same demographic. The *E.T.* plagiarism claim against Spielberg remains contested, with Spielberg denying it.
+
+Source: adapted from "Satyajit Ray" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Satyajit_Ray

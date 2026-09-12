@@ -79,3 +79,5 @@ Dodgson logged 98,721 letters in a custom register and published *Eight or Nine 
 - **Reason for refusing priesthood:** Stammer, theological heterodoxy (Maurice, theosophy), Bishop Wilberforce’s anti-theatre views, and acute sense of sin are all proposed; no primary source confirms any single cause.
 - **Medical diagnosis:** Migraine with aura is well-documented (1880 diary); epilepsy is suggested by two “epileptiform” attacks but lacks confirmatory evidence; temporal lobe epilepsy has been hypothesized to explain *Alice*’s experiences but remains speculative.
 - **Extent of family censorship:** Dodgson’s nieces removed references to adult women from diary manuscripts while retaining child references, shaping the historical record; the full original diaries are lost.
+
+Source: adapted from "Lewis Carroll" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lewis_Carroll

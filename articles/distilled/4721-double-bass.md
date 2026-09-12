@@ -46,3 +46,5 @@ In the **orchestra**, the bass section (typically 4–8 players) provides the ha
 - **Lineage**: Scholars are divided on whether the double bass is derived from the viol family (like the violone) or the violin family. Evidence supports both connections.
 - **Amplification in Classical Music**: The use of microphones and amplifiers for double bass solos in classical settings is debated between purists who favor natural acoustics and those who support acoustic enhancement.
 - **Slap Bass in Bluegrass**: The use of slap-style bass is a subject of minor controversy in the bluegrass scene, with some players considering it stylistically inappropriate for certain contexts.
+
+Source: adapted from "Double bass" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Double_bass

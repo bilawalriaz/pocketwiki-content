@@ -25,3 +25,5 @@ These dams deliver flood control, hydropower, and irrigation, but they also floo
 Steamboat traffic peaked in 1858 and was soon eclipsed by railroads. Today a barge channel runs from Sioux City to St. Louis, but traffic has declined because of drought, flood disruptions like those of 1993 and 2011, and competition from other transport modes. The lower channel is expensive to maintain, and its long-term navigation use is uncertain.
 
 Heavy development has damaged the river's ecology by destroying floodplain habitat, reducing sediment flows, and adding pollutants. Restoration projects are now removing some levees and dikes, though these efforts risk re-releasing trapped sediments and worsening nutrient pollution downstream in the Gulf of Mexico. The river that once carried 300 million tons of silt a year now carries a tenth of that, a single measure of how thoroughly its natural character has been rewritten.
+
+Source: adapted from "Missouri River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Missouri_River

@@ -48,3 +48,5 @@ In his final two years, Eastman suffered intense, debilitating pain from a spina
 *   The exact spinal disorder causing Eastman's final years of pain is unknown; modern speculation includes degenerative disc disease or spinal stenosis.
 *   The nature of his long-term, platonic relationship with Josephine Dickman is a subject of biographical interest.
 *   His legacy is complex, juxtaposing transformative innovation and massive philanthropy with the reinforcement of racial segregation and support for eugenics.
+
+Source: adapted from "George Eastman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_Eastman

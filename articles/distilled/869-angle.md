@@ -49,3 +49,5 @@ The word "angle" derives from Latin *angulus* ("corner"), related to Greek *anky
 
 ## Debates and Open Questions
 There is no universally agreed formal definition of an angle; valid definitions exist for specific contexts but no single definition captures all aspects of the concept. Philosophers and educators debate whether angles are fundamentally shapes, quantities, or relationships. Some scientists propose treating angles as having their own fundamental dimension to improve dimensional analysis, though this would require revising many established formulas. The historical attribution of the vertical angle theorem to Thales remains a matter of scholarly discussion.
+
+Source: adapted from "Angle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Angle

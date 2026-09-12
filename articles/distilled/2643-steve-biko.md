@@ -45,3 +45,5 @@ Biko's core belief was that the "most potent weapon in the hands of the oppresso
 *   **Allegations of Sexism:** Biko and the BCM have been criticized by activists, including Mamphela Ramphele, for sidelining women and for Biko's personal womanizing.
 *   **Contested Legacy:** After apartheid, various political parties, notably the ANC and AZAPO, have claimed Biko's legacy, leading to disputes over his political alignment and the ownership of his ideas.
 *   **Circumstances of Death:** While the TRC denied amnesty, the exact sequence of events during Biko's interrogation and the precise motivations of his killers remain subjects of historical scrutiny.
+
+Source: adapted from "Steve Biko" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Steve_Biko

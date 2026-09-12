@@ -47,3 +47,5 @@ Clients call the public `CheckBalance` method but cannot assign to `_accountBala
 **Encapsulation without OOP.** In C, a structure can be declared opaquely in the header file: clients see only a forward declaration such as `typedef struct Entity Entity;` and call functions like `openEntity`, `processEntity`, and `closeEntity`. The structure's members are defined in the implementation file and remain inaccessible to clients, who interact with values of the opaque data type only through the API.
 
 **Convention over enforcement.** Python does not enforce variable access restrictions, but the convention is that any name prefixed with an underscore is treated as private. Nothing in the language stops an outside caller from writing `redcar._maxspeed = 10`; the convention relies on programmer discipline.
+
+Source: adapted from "Encapsulation (computer programming)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29

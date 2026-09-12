@@ -45,3 +45,5 @@ The work's varied topics and order led 19th-century critics to see it as a hapha
 - **Composition and Unity**: Is the *Metaphysics* a unified work or a "farrago" (hotch-potch) of separate treatises? Scholars debate the original order and which books belong to a continuous core.
 - **Dating**: It is notoriously difficult to specify when Aristotle wrote the individual treatises, as their arrangement is due to later editors.
 - **Textual Criticism**: The stemma codicum (manuscript family tree) of the *Metaphysics* is contested, leading to different critical editions and proposed rearrangements of the books.
+
+Source: adapted from "Metaphysics (Aristotle)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metaphysics_%28Aristotle%29

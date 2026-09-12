@@ -48,3 +48,5 @@ The Korean Armistice Agreement was signed on 27 July 1953, establishing a ceasef
 *   **Mao's approval of the invasion**: Historical interpretations differ on whether Chinese leader Mao Zedong fully approved Kim Il Sung's invasion plan or merely accepted the decision made by Kim and Soviet leader Stalin.
 *   **Scale of casualties**: Precise casualty figures are disputed. Estimates for total deaths range from 1.5 to 3 million, with significant variation in military loss figures for China and North Korea between official and scholarly sources.
 *   **Use of nuclear weapons**: The US seriously considered using atomic weapons during the war, particularly after Chinese intervention. The decision not to do so was influenced by allied opposition and concerns about Soviet retaliation, but the threat remained a factor in diplomacy.
+
+Source: adapted from "Korean War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Korean_War

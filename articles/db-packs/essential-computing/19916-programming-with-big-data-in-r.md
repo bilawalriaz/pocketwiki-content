@@ -44,3 +44,5 @@ Saved as `demo.r`, the command `mpiexec -np 2 Rscript demo.r` runs the script on
 A second example shows SPMD data distribution. With `N <- 5`, each rank `r` sets `x <- (1:N) + N * .comm.rank`, so processor 0 holds 1–5, processor 1 holds 6–10, and so on. Calling `allreduce(x, op = "sum")` sums across ranks; the source runs the call twice, with integers and doubles, to show the type-preserving variants.
 
 A third example, drawn from pbdDEMO, distributes a 16×16 matrix of `rnorm` values (mean 100, sd 10) across a 2×1 process grid using `ddmatrix`, computes its SVD with `La.svd`, and prints the singular values to confirm the result is consistent across ranks.
+
+Source: adapted from "Programming with Big Data in R" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Programming_with_Big_Data_in_R

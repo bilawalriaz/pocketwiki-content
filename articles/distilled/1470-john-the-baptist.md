@@ -89,3 +89,5 @@ The Gospels and Josephus agree Herod Antipas beheaded John at Machaerus c. AD 
 5.  **John’s Self-Understanding:** Did John view himself as the Messiah, Elijah, or solely a forerunner? The Gospels disagree: Mark/Matthew imply Jesus identified him as Elijah; John’s Gospel has him deny it; Luke has the angel predict the "spirit and power of Elijah."
 6.  **Continuity of Movement:** Why did John’s movement not survive his death (Crossan’s "monopoly") while Jesus’ did? Was it solely structural (centralized vs. communal), or did the resurrection belief provide the necessary catalyst?
 7.  **Mandaean Origins:** While scholars accept a historical link between Mandaeans and John’s disciples, the exact process of separation, gnosticization, and survival into modernity is debated.
+
+Source: adapted from "John the Baptist" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_the_Baptist

@@ -35,3 +35,5 @@ Cantor's work exposed contradictions, the most famous being Russell's paradox of
 ## The axiom of choice
 
 The axiom of choice (AC) states that from any family of nonempty sets, one element can be chosen from each. Equivalent formulations include: the Cartesian product of any family of nonempty sets is nonempty; every set admits a well-ordering (a total ordering in which every nonempty subset has a least element); and Zorn's lemma holds, meaning that if every chain in a partially ordered set has an upper bound, the set contains a maximal element. AC was once controversial for its non-constructive character, but it is now standard and underpins results such as the existence of a basis for every vector space and the existence of maximal ideals in rings.
+
+Source: adapted from "Set (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Set_%28mathematics%29

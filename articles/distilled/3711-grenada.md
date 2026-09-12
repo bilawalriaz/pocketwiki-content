@@ -46,3 +46,5 @@ Tourism is the primary economic driver, alongside the export of spices, especial
 - The purpose of the 10,000-foot airstrip built on Grenada in the early 1980s remains debated. The U.S. argued it was for military use by Cuba and the USSR, while the PRG and contractors claimed it was for commercial aviation.
 - The 1983 U.S. invasion is a point of contention, condemned by the UN General Assembly as a "flagrant violation of international law" but defended by the U.S. and some regional states as a necessary intervention.
 - The fate of Maurice Bishop's body has never been resolved, a subject investigated by a truth and reconciliation commission and student research projects.
+
+Source: adapted from "Grenada" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Grenada

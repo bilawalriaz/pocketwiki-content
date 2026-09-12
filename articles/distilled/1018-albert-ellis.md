@@ -72,3 +72,5 @@ Critics accused Ellis of misinterpreting Freud and lacking rigorous empirical te
 - **Homosexuality classification**: Ellis’s initial pathologizing of homosexuality (1965) and later reversal (1976) reflect the field’s broader shift; the role of therapist values in diagnosing "disturbance" remains an ethical question.
 - **Religion and mental health**: Ellis’s shift from viewing religiosity as inherently harmful to acknowledging adaptive value of theistic belief illustrates the tension between therapist worldview and client autonomy in value-laden therapy.
 - **Legacy disputes**: The 2005–2007 legal battles over control of the Albert Ellis Institute and its property raise questions about governance of founder-led professional organizations.
+
+Source: adapted from "Albert Ellis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Albert_Ellis

@@ -23,3 +23,5 @@ Blotting detects specific molecules. Southern blotting probes membrane-transferr
 ## Modern state and connections
 
 Since the early 2020s, real-time atomic-scale monitoring and inexpensive deep sequencing have enabled genetic work in non-model organisms and synthetic production of molecules through engineered metabolic pathways, while CRISPR-Cas9 gene editing has become accessible to individuals for under $10,000. Molecular biology overlaps with biochemistry, which catalogues proteins, lipids, carbohydrates, and nucleic acids, and with genetics, which links mutations and genes to phenotype; its techniques now feed cell biology, developmental biology, population genetics, phylogenetics, and biophysics, with molecular genetics among the most prominent sub-fields since the early 2000s.
+
+Source: adapted from "Molecular biology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Molecular_biology

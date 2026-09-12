@@ -25,3 +25,5 @@ LIDA grew out of three earlier systems. The first, Virtual Mattie (V-Mattie), wa
 Conscious Mattie in turn gave rise to IDA (Intelligent Distribution Agent), built for the US Navy. The Navy assigns sailors to new billets at the end of each tour, a process called distribution, carried out by almost 300 full-time detailers. IDA was designed to automate that role, was tested by former detailers, accepted by the Navy, and supported by Navy agencies with funding on the order of $1,500,000.
 
 LIDA (Learning IDA) began as IDA augmented with several styles and modes of learning and has since grown into a much larger, generic software framework used for both research and as a basis for further agent and robotic control systems.
+
+Source: adapted from "LIDA (cognitive architecture)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/LIDA_%28cognitive_architecture%29

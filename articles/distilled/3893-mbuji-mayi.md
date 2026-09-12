@@ -48,3 +48,5 @@ The city was looted during the First Congo War in 1997. MIBA was forced to make 
 - The city's exact population is unknown, with estimates ranging from 1.48 million (2010) to 3.5 million (2008).
 - The extent of diamond smuggling versus official production has been a persistent issue since independence, with black market activity often eclipsing legal exports.
 - The role and power of MIBA and its leaders, like Jonas Nzemba, in governing the region in the absence of a strong state remains a key historical dynamic.
+
+Source: adapted from "Mbuji-Mayi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mbuji-Mayi

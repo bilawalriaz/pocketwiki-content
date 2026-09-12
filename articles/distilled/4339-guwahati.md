@@ -48,3 +48,5 @@ Rapid population growth (estimated 1.1 million in 2020) has led to slum prolifer
 - The exact historical boundaries and continuous habitation of the ancient city of Pragjyotishpura are subjects of ongoing archaeological study.
 - The primary causes of Guwahati's severe urban flooding are debated, with experts attributing it to human interference (encroachment, concretization) disrupting natural drainage versus other factors.
 - The feasibility and timeline for the proposed metro rail project to alleviate traffic congestion remain uncertain.
+
+Source: adapted from "Guwahati" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guwahati

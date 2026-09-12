@@ -35,3 +35,5 @@ The Seto Inland Sea is a major tourist destination, praised for its beauty since
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates, but it notes that the sea's classification as "inland" is hydrologically inaccurate, as it is a marginal sea. The ecological impact of periodic red tides and pollution on marine life, such as the decline in whale sightings, is an ongoing environmental concern.
+
+Source: adapted from "Seto Inland Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seto_Inland_Sea

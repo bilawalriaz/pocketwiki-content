@@ -45,3 +45,5 @@ For the Incas, Aconcagua was a sacred mountain where worship and sacrifices occu
 
 ## Debates and Open Questions
 The origin of the name "Aconcagua" is uncertain, with multiple proposed etymologies from Mapudungun, Quechua, and Aymara languages. The exact summit success rate is an estimate, as park rangers do not maintain official records.
+
+Source: adapted from "Aconcagua" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aconcagua

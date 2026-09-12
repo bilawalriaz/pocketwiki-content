@@ -46,3 +46,5 @@ Numerous English translations exist, with notable versions by Constance Garnett 
 - **Levin as Tolstoy's alter ego**: While widely accepted, the degree to which Levin represents Tolstoy's own views is a subject of literary analysis.
 - **Tolstoy's dissatisfaction**: Tolstoy expressed anguish and hatred for the novel while finishing it, stating it should be "scrapped, and melted down, thrown away."
 - **The Anna Karenina principle**: The novel has inspired a scientific principle named after it, though this is not detailed in the source text.
+
+Source: adapted from "Anna Karenina" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anna_Karenina

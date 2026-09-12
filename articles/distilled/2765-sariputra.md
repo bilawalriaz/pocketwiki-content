@@ -43,3 +43,5 @@ As the first chief disciple, Śāriputra was foremost in wisdom. His primary rol
 - **Historicity of Abhidharma Attribution**: Scholars debate whether Śāriputra actually compiled the Abhidharma. Some argue the text developed centuries later, while others suggest a simpler, oral precursor existed in his time.
 - **Dual Traditions**: There is scholarly discussion about whether the historical Śāriputra was primarily a forest ascetic or a settled scholar. Some texts portray him as a forest saint, while the dominant tradition emphasizes his scholastic and administrative role.
 - **Mahayana Portrayal**: The depiction of Śāriputra as unable to understand Mahayana doctrines in some sutras is interpreted by scholars as a literary device to highlight the profundity of those teachings, rather than a historical critique.
+
+Source: adapted from "Śāriputra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C5%9A%C4%81riputra

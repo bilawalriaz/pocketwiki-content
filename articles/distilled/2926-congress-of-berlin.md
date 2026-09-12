@@ -42,3 +42,5 @@ The results were widely resented. Russia felt humiliated despite winning the war
 *   **Bismarck's Role:** Historians debate whether Bismarck's mediation was truly impartial or if it primarily served German interests by aligning Germany more closely with Austria-Hungary.
 *   **Long-Term Impact:** Scholars analyze whether the Congress's settlement was a necessary, if flawed, compromise to prevent immediate war, or a short-sighted arrangement that guaranteed future conflict by inflaming nationalist tensions.
 *   **Russian Humiliation:** The degree to which the Congress's outcome directly caused the breakdown of the League of Three Emperors and shaped subsequent Russian foreign policy is a subject of ongoing historical analysis.
+
+Source: adapted from "Congress of Berlin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Congress_of_Berlin

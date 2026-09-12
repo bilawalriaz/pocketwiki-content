@@ -44,3 +44,5 @@ The movement had its most lasting impact on architecture, rejecting classical re
 - **Relationship to Art Nouveau:** Scholars debate whether the Arts and Crafts movement was the root of Art Nouveau, its English incarnation, or a movement in opposition to it due to its criticism of industrial materials like iron.
 - **Use of machinery:** There is inconsistency in the movement's stance; while ideologically anti-machine, practitioners like Morris and later C. R. Ashbee acknowledged machinery's role, leading to debate about what constituted "true" craftsmanship.
 - **Designer vs. Maker:** A core debate existed over whether the designer should also be the maker. While Walter Crane advocated for this unity, others like Lewis Foreman Day argued that specialization allowed for better design and execution.
+
+Source: adapted from "Arts and Crafts movement" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arts_and_Crafts_movement

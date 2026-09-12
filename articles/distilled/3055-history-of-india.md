@@ -51,3 +51,5 @@ The Indian independence movement, led by figures like Mahatma Gandhi, gained mom
 - The causes of the decline of the Indus Valley Civilisation are not definitively known, with drought and river shifts being prominent theories.
 - Historians debate the nature and scale of the Indo-Aryan migrations into the subcontinent around 1500 BCE.
 - The economic impact of British colonial rule is a subject of ongoing scholarly debate, with nationalist schools arguing it impoverished India.
+
+Source: adapted from "History of India" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_India

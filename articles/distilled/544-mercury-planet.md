@@ -75,3 +75,5 @@ Reaching Mercury requires high delta-v (decelerating into Sun’s gravity well);
 *   **Polar ice origin:** Cometary delivery vs. interior outgassing; total inventory and stratigraphy (regolith cover thickness).
 *   **Magnetic field generation:** Detailed dynamo operation in a thin liquid shell; cause of high reconnection rate and "leaky" magnetosphere.
 *   **Long-term orbital stability:** 1% chance of chaotic destabilization via Jupiter resonance over 5 Gyr; potential fates (Sun impact, Venus collision, ejection).
+
+Source: adapted from "Mercury (planet)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mercury_%28planet%29

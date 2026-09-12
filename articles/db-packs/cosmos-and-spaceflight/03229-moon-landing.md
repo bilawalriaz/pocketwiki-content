@@ -27,3 +27,5 @@ The far side and the south pole are now the priority targets. The lunar far side
 ## Lunar orbit and the surprises it held
 
 Operating in lunar orbit was not a simple step along the way. In the mid-1960s, lunar orbiters from both superpowers discovered mascons, regions of denser rock beneath the lunar maria whose extra gravity tug pulls low orbits forward and causes them to decay unpredictably. Mascons complicate any mission that needs to loiter in orbit and were a real engineering worry for Apollo, which is why modern uncrewed missions in low lunar orbit plan for frequent station-keeping maneuvers.
+
+Source: adapted from "Moon landing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moon_landing

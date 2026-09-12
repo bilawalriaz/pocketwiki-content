@@ -50,3 +50,5 @@ Mannerheim's presidency (1944–1946) was consumed by implementing the harsh arm
 *   **Role in the Siege of Leningrad:** Finnish participation in the prolonged siege (1941–1944) remains a sensitive historical point, with discussions about the extent of Finnish responsibility and Mannerheim's personal orders.
 *   **Cult of Personality:** The article notes a cult of personality began building around Mannerheim after the civil war. The extent to which this was state-sponsored versus a genuine popular phenomenon is a subject of study.
 *   **Assassination Attempt (1920):** The details and motivations behind the failed Red Guard plot to assassinate him in Tampere are historically documented but raise questions about post-civil war reconciliation.
+
+Source: adapted from "Carl Gustaf Emil Mannerheim" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim

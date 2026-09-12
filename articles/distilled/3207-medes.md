@@ -47,3 +47,5 @@ Median art is difficult to define, as few artifacts can be conclusively attribut
 *   **Extent of the Median State**: A major scholarly debate exists over whether the Medes formed a powerful, centralized empire as described by Herodotus or remained a loose confederation of tribes. Some specialists suggest a powerful Median kingdom may never have existed.
 *   **Kurdish Connection**: The proposed link between the Medes and the ancestors of the modern Kurds is contested. While some historians and Kurdish traditions assert a connection, linguistic evidence is inconclusive, and many scholars argue there is no demonstrable genetic affinity between the Median language and Kurdish.
 *   **Religion**: Scholars debate whether the religion of the Magi was a form of pre-Zoroastrianism, early Zoroastrianism, or a distinct Mazdaism with common Iranian traditions.
+
+Source: adapted from "Medes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Medes

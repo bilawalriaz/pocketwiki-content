@@ -39,3 +39,5 @@ Following 476, Germanic kingdoms like the Ostrogoths in Italy and Visigoths in H
 *   **The "Fall" Date:** Historians debate whether 476 (deposition of Romulus Augustulus) or 480 (abolition of the Western court by Zeno) is the true end, as the Eastern Empire continued to claim sovereignty and the last Western emperor, Julius Nepos, was alive until 480.
 *   **Cause of Collapse:** Scholarship emphasizes multiple factors over a single cause, including barbarian invasions, economic decline, administrative decay, over-reliance on mercenary armies, and the loss of tax-rich provinces like Africa.
 *   **Continuity vs. Catastrophe:** Some historians argue for a gradual transformation and cultural continuity into the Middle Ages, while others stress a sharp political and economic break, especially in Italy and Gaul.
+
+Source: adapted from "Western Roman Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_Roman_Empire

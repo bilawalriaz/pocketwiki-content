@@ -45,3 +45,5 @@ Since 2005, the Hutu-led CNDD-FDD party has dominated politics. President Pierre
 - The early history and the precise nature of the roles and social distinctions between the Twa, Hutu, and Tutsi peoples are debated among academics.
 - The origins of the "culture of impunity" in Burundi are contested, with analysts placing its beginning at different points: 1965, 1972, or the late 1980s.
 - The effectiveness and legacy of the complex ethnic power-sharing architecture enshrined in the 2005 constitution remain a subject of analysis, as the country continues to face authoritarianism and human rights concerns.
+
+Source: adapted from "Burundi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Burundi

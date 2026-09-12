@@ -43,3 +43,5 @@ Morse engaged in prolonged litigation to defend his patent, culminating in the 1
 - **Priority of Invention**: The article notes that William Cooke and Charles Wheatstone launched a commercial telegraph in England before Morse, despite starting later, leading to disputes over who was the true inventor.
 - **Role of Collaborators**: The development of Morse code is noted to have involved significant contributions from Alfred Vail, challenging Morse's claim as the sole inventor.
 - **Patent Scope**: The Supreme Court's rejection of Morse's broad "claim 8" in *O'Reilly v. Morse* established a key precedent limiting patents on abstract natural laws, a debate that continues in modern patent law for software and other technologies.
+
+Source: adapted from "Samuel Morse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samuel_Morse

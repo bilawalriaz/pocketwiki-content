@@ -79,3 +79,5 @@ Self-taught on piano, violin, and cello, Chaplin composed synchronised orchestra
 - **Artistic merit of late films**: *A King in New York* (1957) and *A Countess from Hong Kong* (1967) received mixed contemporary reviews. Scholars debate whether they represent a decline or a misunderstood evolution in satire and style.
 - **Cinematic modernity**: Donald McCaffrey argues Chaplin’s stage-like visual simplicity shows he "never completely understood film as a medium"; others (Kamin) counter that his comedic longevity proves a sophisticated grasp of cinematic space and timing.
 - **Birth details**: No official birth certificate exists; Chaplin believed he was born at East Street, Walworth. Paternal Romani heritage is speculated but unverified ("Without a birth certificate, no one will ever know the truth").
+
+Source: adapted from "Charlie Chaplin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charlie_Chaplin

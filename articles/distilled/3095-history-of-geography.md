@@ -46,3 +46,5 @@ The 20th century saw geography engage with several major themes. **Environmental
 - The extent to which the physical environment determines human culture and development remains a contested issue, with modern critiques of environmental determinism.
 - There is an ongoing methodological and philosophical split within geography between quantitative, spatial-analytical approaches and qualitative, critical, and humanistic approaches.
 - The discipline continues to debate its core focus: whether it is primarily the study of spatial patterns, the relationships between humans and their environment, or the analysis of places and regions.
+
+Source: adapted from "History of geography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_geography

@@ -41,3 +41,5 @@ The era saw the systematization of noble ranks (e.g., *gong*, *hou*, *bo*, *zi*)
 - **The Five Hegemons:** Traditional lists vary. One includes Duke Huan of Qi, Duke Xiang of Song, Duke Wen of Jin, Duke Mu of Qin, and King Zhuang of Chu. Another replaces Song and Qin with King Fuchai of Wu and King Goujian of Yue. Duke Mu of Qin and King Fuchai of Wu are sometimes excluded as they were not officially recognized by the Zhou king.
 - **Authorship of the Classics:** Tradition credits Confucius with editing the Five Classics, including the *Spring and Autumn Annals*. Modern scholarship considers it unlikely one person produced all five, and the transmitted versions derive from later edits by Liu Xin.
 - **Periodization:** The end date is debated; some sources use 403 BCE (the formal partition of Jin) or 453 BCE (the end of the Jin civil war) instead of 481 BCE.
+
+Source: adapted from "Spring and Autumn period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spring_and_Autumn_period

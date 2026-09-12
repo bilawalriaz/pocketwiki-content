@@ -74,3 +74,5 @@ At the end of the 20th century, more technological advances had been made than i
 - The origin of the term "early modern" is contested: long thought to be 1930s or mid-20th century, Nipperdey documented its widespread use by American historians around 1900.
 - Whether the Holocaust was intended from the war's beginning or planned later is debated; persecution of Jews extended well before the war (e.g., Kristallnacht).
 - Whether the gap between rich and poor nations can be fixed is disputed: some argue wealth is finite, others that powerful nations are not doing enough to help developing countries.
+
+Source: adapted from "Modern era" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Modern_era

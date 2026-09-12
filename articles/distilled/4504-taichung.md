@@ -50,3 +50,5 @@ Taichung hosts major cultural institutions including the National Museum of Natu
 
 ## Debates and Open Questions
 The article notes ongoing debates about romanization systems on road signs, with different systems (Hanyu Pinyin, Wade-Giles, Tongyong Pinyin) used inconsistently. Political balance between Pan-Blue and Pan-Green camps remains dynamic, with both major parties winning recent mayoral elections. The city's rapid growth raises questions about sustainable development and infrastructure capacity.
+
+Source: adapted from "Taichung" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taichung

@@ -57,3 +57,5 @@ Three official extensions tailor the core guide to particular sectors: the **Sof
 The **critical chain** school (Eliyahu M. Goldratt, Lawrence P. Leach) focuses on resource constraints and buffer management rather than the deterministic activity sequencing of the critical path method; the PMBOK does list critical chain as an alternative within Project Time Management. **Lean Construction** (Koskela, Howell) argues that the PMBOK model lacks two-way communication and proposes a language/action perspective combined with continual improvement of the planning process.
 
 Process groups run across the project life cycle while knowledge areas supply the discipline-specific content that populates them.
+
+Source: adapted from "Project Management Body of Knowledge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge

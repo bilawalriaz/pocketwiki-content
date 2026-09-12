@@ -37,3 +37,5 @@ Modern Indian literature is characterized by the flourishing of numerous regiona
 
 ## Debates and open questions
 The source notes that the history of some languages, like Konkani, is "much-contested." It also highlights scholarly debates about the precise dating and origins of literary traditions, such as the earliest evidence for Punjabi literature, which some suggest may predate the 16th century. The classification and recognition of various dialects and languages for literary awards remain an ongoing process.
+
+Source: adapted from "Indian literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indian_literature

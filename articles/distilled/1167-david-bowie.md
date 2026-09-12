@@ -61,3 +61,5 @@ Bowie married Angela Barnett in 1970; they had a son, Duncan. He later married m
 - **Artistic Intent of *Blackstar***: While widely interpreted as a deliberate farewell, some question whether its themes were premeditated or retroactively framed after his death.
 - **Legacy of Tin Machine**: Critics initially dismissed the band as “pompous,” but some later reappraised its influence on alternative rock.
 - **Posthumous Releases**: The ongoing release of archival material raises questions about curation and the integrity of Bowie’s intended legacy.
+
+Source: adapted from "David Bowie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/David_Bowie

@@ -66,3 +66,5 @@ Villon achieved immediate posthumous popularity. Pierre Levet printed his poems 
 - **Authorship of the *jargon* poems:** Eleven poems in thieves' slang were traditionally attributed to Villon, but many modern scholars argue they are imitations by followers.
 - **Crime at Meung-sur-Loire:** The specific offense that landed Villon in the bishop’s prison in summer 1461 is unrecorded.
 - **Final fate:** Villon disappears after January 1463; theories range from death in obscurity (tavern, cell, gallows) to survival under a new identity, but no evidence confirms any outcome.
+
+Source: adapted from "François Villon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fran%C3%A7ois_Villon

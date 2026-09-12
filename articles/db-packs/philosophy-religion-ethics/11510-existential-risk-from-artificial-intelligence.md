@@ -33,3 +33,5 @@ Skeptics include Yann LeCun, Steven Pinker, and Andrew Ng, who calls AI extincti
 ## Mitigation proposals
 
 Researchers study the control problem, designing algorithms and architectures that keep recursively self-improving AI corrigible (amenable to correction or shutdown). Social measures include a proposed UN "Benevolent AGI Treaty," arms-control treaties, and frontier-model regulation. The 2023 US executive order on AI mandates guidelines for models that evade human control. Global spending on AI existential-risk research in 2020 was estimated at $10–50 million, roughly 0.1% of the roughly $40 billion spent on AI overall.
+
+Source: adapted from "Existential risk from artificial intelligence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence

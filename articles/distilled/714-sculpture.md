@@ -52,3 +52,5 @@ Historically, sculptors were artisans, often anonymous. In Greece, Phidias gaine
 - The **causes** behind the decline of Roman sculptural technique in the 3rd century CE remain unclear.
 - The **impact** of African and Oceanic sculpture on European Modernism is acknowledged but still analyzed.
 - The **preservation bias** toward stone and bronze skews understanding of ancient artistic practices.
+
+Source: adapted from "Sculpture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sculpture

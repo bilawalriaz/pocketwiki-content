@@ -45,3 +45,5 @@ The national park was established in 1949 to protect the area's scenic beauty, b
 
 ## Debates and Open Questions
 The exact etymology of the name "Kenya" is debated. While derived from the Kamba *Ki nyaa* ("mountain of whiteness" or "place of the ostrich"), some claim it was a corruption of the name, while others argue it was a precise notation of the African pronunciation. The future of the mountain's glaciers is a major concern, with predictions they could disappear by 2050 due to climate change.
+
+Source: adapted from "Mount Kenya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Kenya

@@ -46,3 +46,5 @@ The lever can be analyzed using the principle of virtual work, where the general
 
 ## Debates and Open Questions
 The attribution of the earliest lever writings to Archimedes is described as "by common belief," suggesting scholarly debate about whether he actually authored these works. Additionally, Autumn Stanley's argument that the digging stick represents the first lever positions prehistoric women as inventors of lever technology, which may be a subject of archaeological interpretation rather than established consensus.
+
+Source: adapted from "Lever" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lever

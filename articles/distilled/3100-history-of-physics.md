@@ -49,3 +49,5 @@ Post-WWII physics focused on particle physics, leading to the Standard Model, wh
 - The **unification of general relativity and quantum mechanics** into a theory of quantum gravity is a central unsolved problem.
 - The nature of **dark matter** and **dark energy**, which together constitute most of the universe's mass-energy content, is unknown.
 - The **arrow of time** and the ultimate fate of the universe (e.g., heat death) are active areas of cosmological research.
+
+Source: adapted from "History of physics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_physics

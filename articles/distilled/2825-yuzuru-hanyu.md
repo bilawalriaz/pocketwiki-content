@@ -41,3 +41,5 @@ The 2011 Tōhoku earthquake profoundly shaped Hanyu's life. He has donated over 
 - **Jumps vs. Artistry**: Hanyu argued that technical jumps form the foundation for artistry, stating that a "strong foundation in technique" is necessary for "full artistry." This addresses the ongoing debate in the sport about the balance between technical difficulty and artistic expression.
 - **Quadruple Axel Feasibility**: Hanyu's pursuit of the quadruple Axel, a jump not yet landed in competition during his competitive career, sparked debate about its technical possibility and its role in the sport's future.
 - **Legacy and Impact**: While widely considered one of the greatest, the exact ranking of Hanyu among legends like Dick Button or Evgeni Plushenko is subjective and debated among fans and experts.
+
+Source: adapted from "Yuzuru Hanyu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yuzuru_Hanyu

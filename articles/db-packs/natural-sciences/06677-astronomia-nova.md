@@ -35,3 +35,5 @@ In the final part, Kepler determined Mars's ascending node at 46° 32½′ and d
 ## Gravitation, in passing
 
 In the introduction, Kepler sketched a related idea: a mutual attractive force between "kindred bodies," capable of reaching from the Earth to the Moon, which he used to explain the tides. He rejected the Aristotelian notion of "lightness" as a quality, reframing buoyancy in terms of relative density. This was an early qualitative hint of universal gravitation, and scholars have suggested Newton likely knew the passage. Kepler did not, however, formulate a quantitative inverse-square law; his "gravity" was limited in range and acted only between similar matter, more a step toward establishing heliocentrism than toward Newtonian gravity.
+
+Source: adapted from "Astronomia nova" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomia_nova

@@ -47,3 +47,5 @@ Rosario is a major transportation hub. Its port connects to the Atlantic via the
 - Rosario was declared the federal capital of Argentina on three occasions, but each time the law was vetoed by the executive branch.
 - The city has been at the center of a continuing debate over taxes levied on major agricultural exports like soy, which are critical to its economy.
 - The future of the planned Puerto de la Música cultural complex remains uncertain after being put on indefinite hold in 2012 due to financial constraints.
+
+Source: adapted from "Rosario" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rosario

@@ -29,3 +29,5 @@ Rocks are defined by the relative proportions of their constituent minerals: gra
 ## Polymorphs and ongoing debates
 
 Two minerals with identical chemistry but different crystal structures are polymorphs of each other: quartz and stishovite are both SiO₂, but stishovite forms only at the high pressures of impact sites, and its dense silicon packing gives it distinctive physical properties. Several boundary questions remain open. The IMA still rejects amorphous substances, and it has not set a minimum crystal size, leaving the status of natural nanoparticles unresolved. Stability is also unsettled: the IMA requires only that composition and structure be well-determined, so meridianiite, a hydrated magnesium sulfate stable below 2 °C, is accepted. The 2011 acceptance of icosahedrite, a naturally occurring quasicrystal with an ordered but non-periodic atomic arrangement, extended "ordered atomic structure" beyond the traditional 32 point groups.
+
+Source: adapted from "Mineral" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mineral

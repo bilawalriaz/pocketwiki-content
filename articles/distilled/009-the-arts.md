@@ -69,3 +69,5 @@ A strong relationship exists between the arts and politics. Artists use their wo
 ## Debates and open questions
 
 Scholars debate whether criticism can transcend prevailing sociopolitical circumstances. The definition of music's core elements is disputed, though scholars agree music generally consists of a few. The dividing lines between music genres are subtle, open to individual interpretation, and controversial. Whether video games should be classified as an art form and whether developers should be classified as artists remains debated. Classificatory disputes about art continue, with 20th-century examples including Cubist paintings, Duchamp's *Fountain*, conceptual art, and video games.
+
+Source: adapted from "The arts" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_arts

@@ -49,3 +49,5 @@ In late 2024, a rebel offensive led by Hay'at Tahrir al-Sham (HTS) rapidly advan
 - The future of Kurdish autonomy in the northeast is a major point of contention, as the SDF has agreed to merge with the new Syrian army but details are unresolved.
 - The transitional government's ability to maintain security, prevent sectarian violence, and gain broad international legitimacy is untested.
 - The scale of reconstruction needed, estimated in the tens of billions of dollars, presents a profound economic and logistical challenge.
+
+Source: adapted from "Syria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Syria

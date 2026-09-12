@@ -38,3 +38,5 @@ The main threats are environmental. The ozone hole has increased ultraviolet rad
 The international community has yet to agree on a single, formal name and northern boundary for the Southern Ocean; until then, organisations choose their own definitions. It is also still unclear how much the ocean's overturning circulation will weaken as the climate warms, and what the consequences will be for the rest of the planet.
 
 The deepest point surveyed is 7,434 m, measured in 2019 by the Five Deeps Expedition in the South Sandwich Trench, a candidate name for which is the Factorian Deep.
+
+Source: adapted from "Southern Ocean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Southern_Ocean

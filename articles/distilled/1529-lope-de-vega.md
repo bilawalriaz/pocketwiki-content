@@ -66,3 +66,5 @@ Lope found a disorganized theatre—variable acts, haphazard versification—and
 - **Moral intent**: Lope stated he aimed to "amuse and stir," not instruct, yet plays like *Las Flores de Don Juan* embed sharp social critique (primogeniture, poverty). The balance between entertainment and subversion is contested.
 - **Neoclassical rejection**: *Arte nuevo* frames the break as populist pragmatism ("the vulgar pays"), but Lope also invoked his classical education to justify innovation; the manifesto’s sincerity vs. self-fashioning is debated.
 - **Female agency in *capa y espada***: Heroines often drive intrigue, but the genre’s honor code ultimately subordinates them to male violence or marriage; feminist readings differ on whether Lope critiques or reinforces patriarchy.
+
+Source: adapted from "Lope de Vega" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lope_de_Vega

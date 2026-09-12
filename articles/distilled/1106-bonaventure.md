@@ -54,3 +54,5 @@ Pope Francis, in *Laudato si'*, cites Bonaventure’s view that pre-Fall humans 
 - **Authenticity of *De reductione artium ad theologiam***: Philosopher Dieter Hattrup denied authenticity based on style; the Quaracchi editors and recent research maintain it is "indubitably authentic."
 - **Philosophy vs. Theology autonomy**: Bonaventure’s insistence that philosophy cannot be successfully pursued without faith’s light contrasts sharply with Aquinas’s view of philosophy as an autonomous discipline; this remains a defining fault line in interpreting 13th-century scholasticism.
 - **Pandeism accusation**: Max Bernhard Weinstein’s characterization of "strong pandeistic inclinations" (identifying God with the universe’s formal structure via exemplarism) is a modern philosophical reading debated by scholars of medieval metaphysics.
+
+Source: adapted from "Bonaventure" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bonaventure

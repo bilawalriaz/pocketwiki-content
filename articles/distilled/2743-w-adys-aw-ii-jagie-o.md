@@ -46,3 +46,5 @@ Władysław worked to solidify the union through agreements like the Union of Ho
 - **Interpretation of the Union of Krewo**: Historians debate whether the clause *terras suas Lithuaniae et Russiae Coronae Regni Poloniae perpetuo applicare* meant a personal union, a dynastic union, or a complete incorporation of Lithuania into Poland.
 - **Reasons for the failed siege of Marienburg (1410)**: The sources do not explain why Władysław II hesitated after Grunwald. Theories include the fortress's impregnability, high Lithuanian casualties, a desire to keep the Order as a weakened buffer, or a lack of resources.
 - **Assessment of the Peace of Thorn (1411)**: It is debated whether the treaty was a strategic failure for Poland, as it did not translate the military victory into significant territorial gains, frustrating the Polish nobility.
+
+Source: adapted from "Władysław II Jagiełło" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o

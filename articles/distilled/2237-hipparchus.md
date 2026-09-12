@@ -46,3 +46,5 @@ Hipparchus critiqued the geographer Eratosthenes, insisting that geography must 
 - The precise instrument(s) Hipparchus used for his star catalog observations is unknown; it may have involved a mix of coordinate systems.
 - The extent to which the star catalog in Ptolemy's *Almagest* is a direct copy of Hipparchus's work versus an enriched and partially re-observed version is a subject of ongoing scholarly analysis.
 - A 2022 announcement of a potential fragment of Hipparchus's star catalog in a medieval manuscript was questioned in 2024, with the debate ongoing.
+
+Source: adapted from "Hipparchus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hipparchus

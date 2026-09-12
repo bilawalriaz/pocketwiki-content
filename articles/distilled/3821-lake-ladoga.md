@@ -44,3 +44,5 @@ The lake was a vital medieval trade route for Varangians. Control was contested 
 - The exact timing of Lake Ladoga's isolation from the Baltic Sea's Yoldia Sea stage is uncertain.
 - It is hypothesized but not proven that waters from the Litorina Sea (a brackish Baltic stage) occasionally invaded Ladoga between 7,000 and 5,000 BP.
 - The precise date of the Neva River's formation is debated, with sediment evidence suggesting around 3,100 radiocarbon years BP.
+
+Source: adapted from "Lake Ladoga" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Ladoga

@@ -35,3 +35,5 @@ The intersection of two objects given by relations P(x, y) and Q(x, y) is the so
 ## Tangents and normals
 
 The tangent line to a plane curve y = f(x) at (c, f(c)) is the line through that point with slope f′(c), the derivative of f, and is the best straight-line approximation to the curve at that point because it shares a position and a direction with the curve there. In three dimensions the analogous object is the tangent plane to a surface, with normal vector perpendicular to that plane. The notion of normality, perpendicularity between a line or vector and a given object, generalises to orthogonality in higher-dimensional Euclidean spaces.
+
+Source: adapted from "Analytic geometry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Analytic_geometry

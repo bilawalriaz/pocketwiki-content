@@ -45,3 +45,5 @@ Modern physical chemistry emerged in the 1860s–1880s through work on thermodyn
 
 ## Debates and Open Questions  
 The distinction between physical chemistry and chemical physics remains debated, particularly regarding molecular vs. supra-molecular focus. The extent to which macroscopic behavior can be fully predicted from molecular properties without empirical input is an ongoing question. Additionally, non-equilibrium and quasi-equilibrium thermodynamics seek to extend classical equilibrium-based theories to real-world dynamic systems.
+
+Source: adapted from "Physical chemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Physical_chemistry

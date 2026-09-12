@@ -42,3 +42,5 @@ Suriname is the smallest country in South America by population and area, with o
 - The legacy and ongoing political influence of Dési Bouterse, despite his criminal convictions, remains a central and divisive issue in Surinamese politics.
 - The country's economic future is tied to the sustainable management of its natural resources, particularly balancing gold and oil extraction with the conservation of its vital rainforests.
 - The precise causes and responsibilities for the "December murders" of 1982 continue to be a source of legal and political contention, as evidenced by the amnesty law passed in 2012 and the subsequent court conviction.
+
+Source: adapted from "Suriname" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Suriname

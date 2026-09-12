@@ -54,3 +54,5 @@ Worked example. A 99-day call on 100 shares of XYZ, struck at $50 with the stock
 so the option rises to $1.9514, a $6.14 profit on the 100-share contract. Under the same move, a delta-neutral portfolio that also shorted 44 shares would lose $15.86, illustrating that delta hedging only neutralizes small, linear price moves.
 
 *Pin risk* arises when the underlying closes very near the strike on the final trading day: the writer cannot tell if the option will be exercised and may carry an unwanted position into the next session. Counterparty risk, the danger that the other side defaults, persists even for OTC options written by strong institutions, since systemic crises can overwhelm any intermediary.
+
+Source: adapted from "Option (finance)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Option_%28finance%29

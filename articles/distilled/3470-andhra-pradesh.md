@@ -49,3 +49,5 @@ The state has an extensive road and rail network, major ports, and airports. It 
 - The historical identification of the Satavahana capital Dhanyakataka is a subject of scholarly discussion.
 - The implementation and impact of the Land Titling Act of 2023, which was repealed in 2024, remain points of analysis.
 - The long-term economic and social effects of the state's bifurcation in 2014 are ongoing areas of study.
+
+Source: adapted from "Andhra Pradesh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andhra_Pradesh

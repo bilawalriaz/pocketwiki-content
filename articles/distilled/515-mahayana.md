@@ -94,3 +94,5 @@ Mahāyāna accepts early **Āgamas/Nikāyas** but prioritizes **Mahāyāna sūtr
 - ****Ekayāna**** — "One Vehicle": the doctrine (*Lotus Sutra*) that the three vehicles (Śrāvaka, Pratyekabuddha, Bodhisattva) are ultimately skillful means (*upāya*) converging on the single goal of Buddhahood.
 - ****Madhyamaka**** — "Centrism": the philosophical school founded by Nāgārjuna that deconstructs all views of inherent existence (*svabhāva*) using the logic of dependent origination and the two truths.
 - ****Prajñāpāramitā**** — "Perfection of Wisdom": a genre of early Mahāyāna sūtras and the transcendent, non-conceptual wisdom realizing the emptiness (*śūnyatā*) and illusory nature
+
+Source: adapted from "Mahayana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mahayana

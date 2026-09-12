@@ -39,3 +39,5 @@ Globalised trade accidentally moves pests, weeds, and diseases; European bumbleb
 ## Genetic engineering
 
 GM crops can cross into wild relatives, creating superweeds or eroding native genetics, and herbicide-tolerant crops have driven more herbicide use, in some cases reducing milkweeds needed by monarch butterfly larvae. They can also cut pollution: the Enviropig, a Yorkshire pig engineered to express phytase in its saliva, breaks down phytic acid in grain so the animal absorbs 20–60% more phosphorus, reducing fecal phosphorus and the need for supplemented feed.
+
+Source: adapted from "Agricultural pollution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Agricultural_pollution

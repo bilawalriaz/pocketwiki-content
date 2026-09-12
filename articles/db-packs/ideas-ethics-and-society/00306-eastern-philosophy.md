@@ -34,3 +34,5 @@ From the 19th century, Asian traditions engaged Western thought, often under col
 ## How the Pieces Fit
 
 Indian philosophy asks how to escape the cycle of rebirth, answering through analysis, devotion, meditation, or insight. Chinese philosophy asks how to live well in a human world, answering through ritual, virtue, or alignment with the natural order. The two streams merged, diverged, and modernized across more than two millennia, and their unresolved tensions—especially over the existence of the self and the proper role of ancient authority—still shape how these traditions are understood and practiced today.
+
+Source: adapted from "Eastern philosophy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eastern_philosophy

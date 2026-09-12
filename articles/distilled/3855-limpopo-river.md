@@ -32,3 +32,5 @@ Human habitation in the region dates back millions of years, with Australopithec
 
 ## Debates and Open Questions
 The source text does not explicitly outline scholarly debates, but it notes that the river's drainage area has decreased over geological time due to uplift that diverted the upper Zambezi River away from the Limpopo. This change is attributed to epeirogenic movement, but the precise timing and mechanisms may be subjects of ongoing geological study.
+
+Source: adapted from "Limpopo River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Limpopo_River

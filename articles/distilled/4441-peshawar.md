@@ -48,3 +48,5 @@ Peshawar's economy is historically linked to the Khyber Pass trade route. It is 
 - The exact etymology of "Peshawar" is debated, with theories deriving it from Sanskrit "Purushapura" ("City of Men") or Persian "Pesh Awardan" ("frontier city").
 - The historical height of the Kanishka stupa is uncertain, with ancient claims of 560 ft (170 m) versus modern estimates of 400 ft (120 m).
 - The precise demographic impact and current percentage of Afghan refugees in Peshawar is difficult to determine, with estimates varying.
+
+Source: adapted from "Peshawar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peshawar

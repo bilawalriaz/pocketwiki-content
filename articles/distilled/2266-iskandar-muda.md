@@ -39,3 +39,5 @@ The economic foundation of the sultanate was the spice trade, especially pepper,
 
 ## Debates and Open questions
 The exact date of Iskandar Muda's birth is uncertain, given as c. 1583 or c. 1593 in the source. The precise date of composition for the *Hikayat Aceh* is also debated, with some scholars placing it later than his reign. The source notes that his posthumous name, "Iskandar Muda," is sometimes mistakenly thought to be a later addition, but it appears on his coins.
+
+Source: adapted from "Iskandar Muda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iskandar_Muda

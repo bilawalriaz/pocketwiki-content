@@ -41,3 +41,5 @@ Pythagoras's teachings profoundly influenced Plato, whose dialogues like *Timaeu
 - **Nature of the School**: The exact organization and beliefs of the Pythagorean community, including the distinction between *mathematikoi* and *akousmatikoi*, are unclear.
 - **Cause of Death**: Accounts of Pythagoras's death are contradictory, ranging from suicide to starvation to being killed in a fire.
 - **Dietary Rules**: Whether Pythagoras enforced strict vegetarianism is debated, with ancient sources providing conflicting reports.
+
+Source: adapted from "Pythagoras" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pythagoras

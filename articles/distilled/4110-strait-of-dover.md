@@ -35,3 +35,5 @@ The strait is famous for the visibility of its opposite coastlines on clear days
 
 ## Debates and Open Questions
 The precise mechanisms and relative impacts of the two major catastrophic floods that formed the strait are subjects of ongoing geological study. The 2007 study by Gupta and Collier proposed the two-flood model, which was updated in 2017 to explain specific underwater features like plunge pools. The exact timing and processes of the final submergence of Doggerland are also refined by ongoing research.
+
+Source: adapted from "Strait of Dover" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Strait_of_Dover

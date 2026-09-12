@@ -33,3 +33,5 @@ The modern era began with **AlexNet** (Krizhevsky, Sutskever, and Hinton, 2012),
 ## Limitations and practical concerns
 
 Neural networks are **black boxes** whose decisions are hard to interpret, and they are vulnerable to **adversarial examples**, small input perturbations that cause confident wrong predictions. They inherit training-data biases; a 2018 Amazon recruiting tool down-ranked résumés containing the word "women" because they were underrepresented in historical hires. Training is also computationally expensive: the human brain runs on about 20 watts, while training a modern transformer draws hundreds of megawatts. When input statistics shift after deployment, a phenomenon called **concept drift**, accuracy can degrade silently, so deployed models require ongoing monitoring.
+
+Source: adapted from "Neural network (machine learning)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neural_network_%28machine_learning%29

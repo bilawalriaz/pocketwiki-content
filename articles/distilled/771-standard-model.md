@@ -69,3 +69,5 @@ Despite its successes, the Standard Model is incomplete. It does not incorporate
 ## Debates and Open Questions
 
 Several unresolved issues challenge the Standard Model. The **hierarchy problem** questions why the Higgs mass is so much smaller than the Planck scale, suggesting new physics like supersymmetry. The **matter-antimatter asymmetry** of the universe lacks a full explanation within the model. **Neutrino masses**, confirmed by oscillation experiments, require extensions such as right-handed neutrinos or the seesaw mechanism. The absence of a **dark matter particle** and the model’s inconsistency with **dark energy** and **cosmological inflation** further motivate beyond-Standard-Model physics. Additionally, the **mathematical consistency** of the Standard Model—particularly the Yang–Mills existence and mass gap problem—remains unproven. No widely accepted theory of everything has yet emerged to address these gaps.
+
+Source: adapted from "Standard Model" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Standard_Model

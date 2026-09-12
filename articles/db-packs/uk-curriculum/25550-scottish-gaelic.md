@@ -37,3 +37,5 @@ Yet vernacular communities continue to shrink. In the Outer Hebrides, "accommoda
 Gaelic place names (*baile* > *bal-*, *gleann*, *loch*, *beinn*) map medieval settlement across Scotland. Literature spans from 6th-century verse to 20th-century poets Sorley MacLean and Anne Frater. Personal names follow Gaelic patterns (*Iain, Màiri, Seumas*); surnames use *mac* (son) and *nic* (daughter of the son) with genitive patronymics (*MacDhòmhnaill*). The language persists in church life (Presbyterian and Catholic) and in the annual *mòd* festival circuit.
 
 The Universal Declaration of Human Rights opens in Gaelic: *Rugadh na h-uile duine saor agus co-ionnan nan urram 's nan còirichean*—"All human beings are born free and equal in dignity and rights."
+
+Source: adapted from "Scottish Gaelic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scottish_Gaelic

@@ -69,3 +69,5 @@ Kropotkin grounded anarchism in a naturalistic ethics of **solidarity and forgiv
 *   **Scientific Validity of *Mutual Aid*:** While Stephen Jay Gould endorsed Kropotkin’s observations as consistent with modern biology (cooperation enhances fitness), the extent to which mutual aid *dominates* over competition in evolution remains a topic of discussion in evolutionary biology.
 *   **Bolshevik Engagement:** Debate persists on whether Kropotkin’s 1917–1921 critiques of Lenin (letters on terror, centralization, bureaucracy) represented a consistent anarchist application or a tragic failure to break publicly with the Revolution he had awaited.
 *   **Role in London Congress (1881):** The degree of Kropotkin’s opposition vs. complicity in the turn toward a secretive, insurrectionary "Black International" is interpreted differently by historians (Cahm vs. Miller).
+
+Source: adapted from "Peter Kropotkin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peter_Kropotkin

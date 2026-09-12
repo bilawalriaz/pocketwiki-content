@@ -23,3 +23,5 @@ Other notable efforts. Māori in New Zealand recovered after the 1970s through *
 Studies of Indigenous Australian communities, including the Barngarla in South Australia, link language reclamation to improved mental health, stronger cultural identity, and reduced intergenerational trauma stemming from policies like the Stolen Generations.
 
 Two prominent critics push back. John McWhorter argues that most revival programs will not be very effective and that language loss is a side effect of formerly isolated peoples coming together. Kenan Malik calls public policies to preserve languages like Manx or Cornish irrational, arguing that a language people do not participate in "is not a language anymore," and that convergence can aid communication and the economy.
+
+Source: adapted from "Language revitalization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Language_revitalization

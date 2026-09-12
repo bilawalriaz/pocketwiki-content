@@ -60,3 +60,5 @@ Cage published six books of lectures and poetry, beginning with *Silence*. An av
 - **Chance vs. improvisation**: Cage rejected improvisation as tied to performer ego, yet late works (*Child of Tree*, *Inlets*) embed improvisation within chance-determined structures. The boundary between indeterminacy of composition and freedom of performance stays contested.
 - **Notation as prescription or invitation**: Graphic scores and time brackets shift authority to performers. The *Number Pieces*’ extreme flexibility raises questions about work identity: when does a realization cease to be the same piece?
 - **Social engagement**: Cage described himself as an anarchist influenced by Thoreau, claiming difficult music proves "the impossible is not impossible." Critics question whether apolitical chance procedures can enact political resistance.
+
+Source: adapted from "John Cage" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Cage

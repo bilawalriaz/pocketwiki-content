@@ -73,3 +73,5 @@ According to UNIDO, China was the top manufacturer in 2023, producing 28.7% of g
 - The place and time of iron smelting's discovery are unknown, partly because nickel-containing ores are difficult to distinguish from hot-worked meteoritic iron.
 - The "trade-offs" theory in manufacturing strategy—that a business cannot excel on all five performance dimensions—has been debated and questioned; by 1991 it was "somewhat fashionable" to abandon it, though Skinner noted renewed enthusiasm in 1992.
 - Whether manufacturing is seen as less "strategic" than marketing and finance, with manufacturing managers making only reactive contributions to strategy discussions.
+
+Source: adapted from "Manufacturing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Manufacturing

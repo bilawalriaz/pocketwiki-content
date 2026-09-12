@@ -41,3 +41,5 @@ The Kattegat was one of the first marine areas identified as a dead zone in the 
 
 ## Debates and Open questions
 The exact geographical boundaries of the Kattegat remain debated among different international organizations (e.g., IHO, HELCOM, ICES), with implications for jurisdiction and city classifications. The long-term effectiveness of environmental action plans in fully restoring the Kattegat's ecology is ongoing, as work continues and not all goals have been met. The feasibility and potential environmental impact of the proposed Kattegat Bridge remain subjects of political and public discussion.
+
+Source: adapted from "Kattegat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kattegat

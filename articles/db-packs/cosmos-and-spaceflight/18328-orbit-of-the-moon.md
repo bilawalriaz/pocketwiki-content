@@ -39,3 +39,5 @@ Earth's 23.4° axial tilt plus the Moon's 5.15° orbital tilt lets the Moon's de
 ## History of the measurement
 
 Babylonian clay tablets from about 1000 BC contain the earliest systematic records of moonrise, moonset, and the three main lunar periods, and were used to predict future lunar behaviour. Greek astronomers, especially Ptolemy with epicycles and evection, gave the first geometric models. Newton's theory of motion was first tested against the observed lunar motion, and modern lunar theory still refines it through series like ELP2000, which supply the semi-major axis of 384,748 km and other constants used today.
+
+Source: adapted from "Orbit of the Moon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Orbit_of_the_Moon

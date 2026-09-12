@@ -52,3 +52,5 @@ In 113, Trajan invaded Parthia over the Armenian succession, possibly motivated 
 - **Diaspora Revolt scope**: Whether the 116–117 Jewish revolt included Judea proper or only eastern diaspora communities lacks clear archaeological evidence.
 - **Trajan's succession**: Dio claims Plotina forged or delayed Trajan's death to ensure Hadrian's adoption—possibly reflecting contemporary rumor or gendered political anxieties.
 - **Legacy assessment**: Historians remain divided between viewing Trajan as an ideal ruler (Paribeni, Heuss) versus an overambitious militarist (Gibbon, Mommsen, Veyne).
+
+Source: adapted from "Trajan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Trajan

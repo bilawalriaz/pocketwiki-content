@@ -50,3 +50,5 @@ Economic stagnation and political reforms under Mikhail Gorbachev led to the dis
 - The long-term impact of Mongol rule on Russian political culture and institutions is debated, with arguments ranging from significant disruption to administrative and military influence.
 - The causes of the Soviet Union's collapse are contested, with emphasis variously placed on economic failure, Gorbachev's reforms, nationalist movements, or the Cold War arms race.
 - The nature of Vladimir Putin's political system—whether it is a form of managed democracy, authoritarianism, or a unique hybrid—and the long-term consequences of its assertive foreign policy are ongoing subjects of analysis.
+
+Source: adapted from "History of Russia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Russia

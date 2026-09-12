@@ -36,11 +36,4 @@ In 2022, the new Welsh Curriculum combined distinct subjects into Areas of Learn
 
 In the UK, the Arkwright Scholarships Trust awards two-year scholarships to students taking GCSE or Scottish Standard Grade in design and technology. The Arkwright Engineering Scholarships support students through their A levels or Scottish Highers and encourage them to study engineering or a related design area at a top university or through a high-quality industrial apprenticeship.
 
----
-
-**Changes made from the current lesson:**
-- Added "(computer numerical control)" as the only necessary prerequisite definition for CNC, which a reader otherwise encounters without explanation.
-- Replaced two em dashes with a colon and restructured phrasing for directness.
-- Fixed "Goldsmiths (University of London)" to "Goldsmiths, University of London" per source.
-
-The lesson was already within limits (~680 words, well under target). No meta-conclusions, redundant glossary, or other prohibited material was present. Source coverage, accuracy, and density were sound.
+Source: adapted from "Design and Technology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Design_and_Technology

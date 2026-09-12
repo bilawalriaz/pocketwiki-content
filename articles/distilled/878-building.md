@@ -41,3 +41,5 @@ Buildings require internal infrastructure for heating/cooling, power, telecommun
 ## Debates and Open Questions
 
 The distinction between low-rise and high-rise buildings is a matter of debate, with the general threshold being three stories or fewer for low-rise classification. The classification of spires and masts in structural height measurements varies depending on whether they are used as antennas. The broadest interpretation of "building" could include fences or walls, though this usage is uncommon.
+
+Source: adapted from "Building" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Building

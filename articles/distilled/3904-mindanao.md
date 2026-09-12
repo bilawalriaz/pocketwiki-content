@@ -53,3 +53,5 @@ Mindanao's economy accounts for 14% of the national GDP, with agriculture, fores
 - **Religious Demographics**: Reports on religious demographics are often considered unreliable due to Mindanao's deep divisions and concerns about discrimination. The National Commission on Muslim Filipinos (NCMF) argues the government's methodology for measuring religious diversity is flawed.
 - **Secession Movements**: Calls for Mindanao's secession from the Philippines have resurfaced periodically, most recently in 2024, though they remain a minority position.
 - **Autonomy and Peace**: The effectiveness and future of the BARMM in achieving lasting peace and development, and resolving issues of ancestral domain and self-governance, remain ongoing challenges.
+
+Source: adapted from "Mindanao" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mindanao

@@ -37,3 +37,5 @@ The barrier excludes about 100% of large-molecule therapeutics and more than 98%
 ## Origin of the concept
 
 In 1898 an experiment showed that low doses of bile salts injected into blood had no behavioural effect, suggesting they never reached the brain. The term "blood–brain barrier" was first used around 1900 and is often attributed to Max Lewandowsky, though some historians credit the Russian–French scientist Lina Stern, whose non-English publications may have been overlooked. Around the same time, Paul Ehrlich found that aniline dyes stained every organ of an animal except the brain, and his student Edwin Goldmann showed in 1913 that injecting dye into cerebrospinal fluid stained the brain but not the rest of the body, confirming a sharp compartmentalisation between blood and brain.
+
+Source: adapted from "Blood–brain barrier" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Blood%E2%80%93brain_barrier

@@ -43,3 +43,5 @@ Because career advancement in the hard and applied sciences usually depends on p
 ## History in brief
 
 The intellectual foundation of the modern literature is usually traced to Francis Bacon's 1620 *Novum Organum*, which first described the experimental method. Within a generation, the *Philosophical Transactions* (1665) established the journal as the standard vehicle for vetted research, and the institutional habits of peer review, indexing, and structured articles grew from that template.
+
+Source: adapted from "Scientific literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scientific_literature

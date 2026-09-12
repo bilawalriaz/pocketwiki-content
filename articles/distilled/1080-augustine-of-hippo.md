@@ -65,3 +65,5 @@ Augustine's teachings generate several enduring scholarly disputes:
 **Filioque Controversy**: Eastern Orthodoxy disputes Augustine's theological contributions to the clause "and the Son" in the Nicene Creed, viewing it as a Western innovation.
 
 **Abortion and Sexuality**: Modern scholars debate whether Augustine's distinction between "formed" and "unformed" fetuses reflects principled moral reasoning or merely reflects ancient biological ignorance, with implications for contemporary bioethics.
+
+Source: adapted from "Augustine of Hippo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Augustine_of_Hippo

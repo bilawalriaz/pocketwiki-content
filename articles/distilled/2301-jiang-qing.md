@@ -49,3 +49,5 @@ Jiang is widely viewed as a symbol of the Cultural Revolution's chaos and person
 - **Burial Site Controversy**: Jiang wished to be buried in her hometown, but was interred in Beijing due to political concerns, reflecting ongoing tensions over her legacy.
 - **Commemoration**: Authorities allow leftist groups to honor Jiang at her grave while prohibiting public mourning for other political figures like Zhao Ziyang, highlighting selective historical memory.
 - **Personal vs. Political Motives**: Scholars debate whether her actions were driven by ideological conviction or personal vendettas from her early career.
+
+Source: adapted from "Jiang Qing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jiang_Qing

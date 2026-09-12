@@ -62,3 +62,5 @@ Advances included Napier's logarithms, Oughtred's slide rule (1622), Pascal's ca
 ## Debates and Open Questions
 
 Historians debate whether the Scientific Revolution was a radical break or continuity of earlier trends. The "continuity thesis" (Duhem, Randall, Crombie) argues the revolution is a myth. Others suggest it was merely Renaissance rediscovery of classical knowledge. Arun Bala emphasizes non-Western influences (Arabic optics, Indian mathematics, Chinese technology). Recent scholarship highlights women's marginalization from formal scientific institutions, noting significant contributions in informal settings and questioning the male-dominated historical narrative.
+
+Source: adapted from "Scientific Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scientific_Revolution

@@ -43,3 +43,5 @@ The fundamental problem of chronology is **synchronism**: synchronizing events t
 
 ## Debates and Open questions
 The source notes that the *Ab Urbe condita* era was not as widely used by Romans as earlier editors made it appear, indicating a scholarly debate about its historical prevalence. The reliability of conclusions drawn from a single, unsupported dating technique is questioned, emphasizing the need for corroborative evidence from multiple methods.
+
+Source: adapted from "Chronology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chronology

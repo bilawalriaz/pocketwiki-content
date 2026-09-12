@@ -49,3 +49,5 @@ Key challenges include the India-Pakistan water dispute, pollution from industri
 - **River Length**: The length is variously cited as 2,880 km or 3,180 km, with a 2011 remeasurement suggesting ~3,600 km.
 - **Future Water Security**: There are "nasty fears" that climate change-induced glacial melt could severely reduce the Indus's flow, with potentially catastrophic consequences for the region's population.
 - **Treaty Stability**: The 2025 suspension of the Indus Waters Treaty by India introduces major uncertainty into the water-sharing arrangement between the two nuclear-armed nations.
+
+Source: adapted from "Indus River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indus_River

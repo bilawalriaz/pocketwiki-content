@@ -42,3 +42,5 @@ The town of Agadez is the capital of the Aïr. Historically, the Tuareg populati
 ## Debates and Open Questions
 - The exact status of the endangered African wild dog in the region is uncertain; it may be extirpated due to human pressures.
 - The precise impact of the 2004 locust invasion and subsequent rebellions on the region's stability and tourism industry is ongoing.
+
+Source: adapted from "Aïr Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/A%C3%AFr_Mountains

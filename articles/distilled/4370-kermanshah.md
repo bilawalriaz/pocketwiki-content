@@ -44,3 +44,5 @@ Kermanshah has a montane climate with hot, dry summers and cold winters. Its mai
 
 ## Debates and Open questions
 The source notes that the term "Kurd" was used as a social designation for Iranian nomads in the Sasanian period, only becoming a concrete ethnic identity in the 12th and 13th centuries. It also highlights ongoing sociolinguistic studies on language maintenance, documenting the strong intergenerational transmission of the Kermashani dialect alongside bilingualism, but noting the increasing dominance of Persian in all social contexts.
+
+Source: adapted from "Kermanshah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kermanshah

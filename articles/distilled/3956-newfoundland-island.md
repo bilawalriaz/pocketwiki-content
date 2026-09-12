@@ -38,3 +38,5 @@ Newfoundland was self-governing from 1855 until a financial crisis led to the su
 - The exact landing site of John Cabot in 1497 is unknown, with popular theories pointing to Cape Bonavista or Cape Bauld.
 - The relationship between the Beothuk and Mi'kmaq is debated; European histories suggest conflict, but indigenous oral history refutes this.
 - The precise number of Beothuk on the island at the time of European contact is uncertain, with estimates typically around 700.
+
+Source: adapted from "Newfoundland (island)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Newfoundland_%28island%29

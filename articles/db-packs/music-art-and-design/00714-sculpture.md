@@ -29,3 +29,5 @@ Medieval sculpture was largely religious and reached a high point in Gothic cath
 Historically, sculptors were artisans, often anonymous. Phidias gained fame in Greece but remained a craftsman by social classification. Renaissance masters such as Michelangelo and Donatello achieved celebrity. Women were largely excluded from the field until the 20th century.
 
 Aniconism in Judaism and Islam rejected figurative religious imagery. Christianity initially opposed religious images but later embraced them. Protestant iconoclasm destroyed many sculptures, and the Taliban's 2001 destruction of the Bamiyan Buddhas is a modern example. Because preservation favors stone and bronze, the surviving record skews our understanding of ancient practice, especially the original appearance of painted works and the lost traditions of prehistoric wood sculpture.
+
+Source: adapted from "Sculpture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sculpture

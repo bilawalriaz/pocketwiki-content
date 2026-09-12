@@ -43,3 +43,5 @@ The reef has been used by Aboriginal Australian and Torres Strait Islander peopl
 - **Resilience and Recovery:** While some areas show recovery (e.g., fast-growing *Acropora* coral in 2022), scientists question whether the reef can keep pace with increasing ocean temperatures and the frequency of bleaching events.
 - **Future of Coral Composition:** The mass die-offs of mature breeding corals have led to drastically lower birth rates and a shift in the types of corals reproducing, potentially causing a long-term reorganization of the reef ecosystem.
 - **Impact of Deep-Water Bleaching:** Recent research indicates deep-water (benthic) coral communities are also vulnerable to thermal stress, but these events are less documented than shallow-water bleaching.
+
+Source: adapted from "Great Barrier Reef" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Barrier_Reef

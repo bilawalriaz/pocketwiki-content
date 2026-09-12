@@ -75,3 +75,5 @@ Domingo’s benefit concerts span decades: 1985 Mexico earthquake (album proceed
 - **Vocal longevity and fach changes**: Critics debate whether Domingo’s baritone transition represented genuine vocal re-categorization or strategic adaptation to aging tenor top; his ability to sing 151 roles across fachs is historically unprecedented.
 - **Administrative dual-role conflicts**: Leading two major companies simultaneously while maintaining a global singing schedule raised questions about divided attention; his 2011 WNO departure was framed as contract non-renewal but followed criticism of overextension.
 - **Crossover impact on opera**: Purists questioned whether pop/Latin recordings and Three Tenors spectacles diluted opera’s artistic standards; Domingo argued they expanded the audience funnel.
+
+Source: adapted from "Plácido Domingo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pl%C3%A1cido_Domingo

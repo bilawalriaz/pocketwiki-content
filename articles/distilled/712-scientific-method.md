@@ -57,3 +57,5 @@ Sociologists examine how social structures influence scientific practice. Fleckâ
 
 ## Debates and Open Questions
 Key debates include whether a single scientific method exists or if methods vary by discipline (pluralism vs. unificationism). The role of chance in discovery, the reliability of statistical inference, and tensions between postmodern critiques and scientific realism remain contested. Whether the scientific method is a myth or idealization continues to be discussed, especially in education and policy contexts.
+
+Source: adapted from "Scientific method" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scientific_method

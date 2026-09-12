@@ -45,3 +45,5 @@ Ferries regularly cross the strait. Proposals for a fixed link, such as a bridge
 
 ## Debates and Open Questions
 The ownership of Gibraltar and its territorial waters is disputed by Spain. Similarly, Morocco disputes Spanish sovereignty over Ceuta. The feasibility and environmental impact of proposed fixed links, like an undersea tunnel, remain subjects of discussion. The long-term survival of the resident orca pod is threatened by pollution, raising conservation concerns.
+
+Source: adapted from "Strait of Gibraltar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Strait_of_Gibraltar

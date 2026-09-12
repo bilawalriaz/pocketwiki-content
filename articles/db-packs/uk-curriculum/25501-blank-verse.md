@@ -22,3 +22,5 @@ Among Victorian poets, Alfred, Lord Tennyson and Robert Browning are the most pr
 Throughout the 20th century, blank verse of varying regularity has remained a staple of lyric poetry and narrative translation. Robert Frost, Wallace Stevens, W. B. Yeats, W. H. Auden, and John Betjeman all wrote significant blank verse.
 
 Blank verse is also common in German literature. Gotthold Ephraim Lessing used it in his 1779 tragedy *Nathan der Weise* (*Nathan the Wise*), where lines run to ten or eleven syllables.
+
+Source: adapted from "Blank verse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Blank_verse

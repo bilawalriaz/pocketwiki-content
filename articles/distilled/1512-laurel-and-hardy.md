@@ -64,3 +64,5 @@ Their films have circulated continuously since the 1930s via theatrical reissues
 - **Fox/MGM era quality:** While commercially successful, the eight features (1941–44) are widely considered inferior to the Roach shorts/features due to loss of creative control; the degree to which the duo salvaged them via performance is discussed.
 - ***Atoll K* responsibility:** The film’s failure is attributed variously to Laurel’s illness, Hardy’s health, language barriers, producer Léo Joannon’s direction, or the script’s political tone; Laurel’s rewrite and hiring of Alfred Goulding for their scenes mitigated but could not save it.
 - **Lost films status:** *Hats Off* (1927) is completely lost; *Now I'll Tell One* (1927) and *The Rogue Song* (1930) survive only in fragments. The possibility of rediscovery (as with *The Battle of the Century* in 2015) remains open.
+
+Source: adapted from "Laurel and Hardy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Laurel_and_Hardy

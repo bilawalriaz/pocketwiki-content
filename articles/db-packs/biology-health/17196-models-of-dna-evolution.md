@@ -36,3 +36,5 @@ Raw differences underestimate true divergence because of multiple hits at the sa
 ## Variants beyond four bases
 
 Nucleotides can be recoded as purines versus pyrimidines (RY-coding), weak-strong, or amino-keto, giving a two-state Markov chain. The symmetric version is the Cavender-Farris-Neyman model, equivalent to JC69 on two states; unequal equilibrium frequencies give CFu or GTR2. Lie Markov models form a family closed under matrix multiplication that admits taxa to be added or removed without disturbing site-pattern structure over the remaining taxa; JC and F81 are Lie models, whereas GTR is not. A branch length expressed as expected substitutions per site equals the product of elapsed time and mean substitution rate, but sequence data cannot separate the two factors, so a phylogenetic tree supplies only relative rates of evolution.
+
+Source: adapted from "Models of DNA evolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Models_of_DNA_evolution

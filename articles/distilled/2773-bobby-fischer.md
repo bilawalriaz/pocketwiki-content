@@ -48,3 +48,5 @@ Fischer disappeared from public life for nearly 20 years after 1975. He re-emerg
 - **Fischer vs. Karpov:** The hypothetical outcome of a 1975 match is a subject of speculation. Opinions are divided, with a slight majority believing Fischer would have won.
 - **Psychological Condition:** Fischer was never formally diagnosed, but speculation exists about possible paranoid personality disorder or other conditions, based on his extreme views, reclusiveness, and erratic behavior.
 - **Antisemitism:** Fischer's virulent antisemitism, despite his Jewish ancestry, is a major and disturbing aspect of his legacy, with ongoing discussion about its origins and impact.
+
+Source: adapted from "Bobby Fischer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bobby_Fischer

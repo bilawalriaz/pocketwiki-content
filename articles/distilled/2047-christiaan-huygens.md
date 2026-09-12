@@ -47,3 +47,5 @@ Using telescopes of his own design, Huygens discovered Titan (1655) and was the 
 - **Acceptance of wave theory**: Huygens's wave theory of light was largely rejected during his lifetime in favor of Newton's corpuscular theory, only gaining acceptance in the early 19th century after experimental evidence for interference and diffraction.
 - **Nature of light**: Huygens assumed light was a longitudinal wave in an ether. This was later corrected by Fresnel, who showed it was a transverse wave, resolving the issue of polarization.
 - **Gravitation**: Huygens accepted the mathematical description of gravity but, as a mechanical philosopher, was uncomfortable with Newton's concept of action at a distance, seeking a contact-based explanation.
+
+Source: adapted from "Christiaan Huygens" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Christiaan_Huygens

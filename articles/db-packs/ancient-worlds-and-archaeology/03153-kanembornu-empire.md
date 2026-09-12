@@ -28,3 +28,5 @@ From the 17th century, the empire weakened under the combined pressure of Atlant
 ## Open questions
 
 Scholars debate the founding date, with estimates ranging from about 600 to 900 CE, and have not located the original capital Njimi despite archaeological searches. The label "Kanem–Bornu Empire" is anachronistic, since the state rarely controlled both regions at once and was not called that in its own time; historian Rémi Dewière has proposed renaming it a "sultanate" to move away from colonial-era categories.
+
+Source: adapted from "Kanem–Bornu Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kanem%E2%80%93Bornu_Empire

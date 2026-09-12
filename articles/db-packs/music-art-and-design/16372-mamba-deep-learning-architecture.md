@@ -31,3 +31,5 @@ MoE-Mamba interleaves standard Mamba layers with mixture-of-experts (MoE) layers
 ## Position in the landscape
 
 Mamba sits among a growing set of architectures positioned as alternatives to transformers for long-sequence tasks. Its practical contribution is demonstrating that a selectively time-varying SSM, paired with hardware-aware kernels, can process long sequences more efficiently than earlier methods while keeping a simple, homogeneous structure that generalizes across data types.
+
+Source: adapted from "Mamba (deep learning architecture)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mamba_%28deep_learning_architecture%29

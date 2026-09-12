@@ -55,3 +55,5 @@ Laplace was briefly Napoleon's Minister of the Interior in 1799 but was replaced
 - **"I had no need of that hypothesis"**: The famous retort to Napoleon is debated. Some historians, like Hervé Faye, argue Laplace referred not to God's existence but to Newton's invocation of divine intervention to maintain orbital stability.
 - **Laplace's Religious Views**: Contemporaries and scholars disagree on whether Laplace was an atheist, deist, or agnostic. His private writings show deistic leanings, but he publicly rejected supernatural explanations in science.
 - **Attribution of Ideas**: Laplace has been criticized for insufficiently acknowledging predecessors, such as Legendre in spherical harmonics and Lagrange in potential theory. His *Mécanique céleste* is described as synthesizing a century of work, sometimes presented as his own discoveries.
+
+Source: adapted from "Pierre-Simon Laplace" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pierre-Simon_Laplace

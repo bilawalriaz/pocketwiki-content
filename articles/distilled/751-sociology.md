@@ -125,3 +125,5 @@ Sociology overlaps with social anthropology (UK/Europe: non-Western focus, now c
 *   **Northern Theory Bias:** Raewyn Connell’s critique that sociological canon and research prioritize Global North perspectives, lacking adequate theories of imperialism/colonialism and blinding the discipline to Global South realities.
 *   **Public vs. Professional Sociology:** Burawoy’s tension between sociology as a dialogue with publics (public sociology) and sociology as an academic conversation addressing peers (professional sociology).
 *   **Relevance to Policy:** The recurring charge (Horowitz) that ideological theory has rendered sociology irrelevant to practical policy-making, driving talent to other fields.
+
+Source: adapted from "Sociology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sociology

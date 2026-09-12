@@ -60,3 +60,5 @@ The 1937 death centennial was a massive Soviet celebration (second only to Tolst
 - **Nature of the fatal shot**: Dostoevsky’s *The Idiot* suggests d'Anthès’s low hit (hip/abdomen) was accidental/fluke, implying he aimed higher (chest/head). Forensic certainty is lacking.
 - **Pushkin’s political stance post-1826**: Scholars debate whether his cooperation with Nicholas I was pragmatic survival, genuine monarchism, or a complex negotiation preserving inner freedom. His "To the Slanderers of Russia" (1831) complicates the "liberal martyr" narrative.
 - **Translation of *Eugene Onegin***: Nabokov’s literal prose translation (1964) vs. verse translations (e.g., Charles Johnston, James Falen) remains a live debate on fidelity vs. poetic form.
+
+Source: adapted from "Alexander Pushkin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alexander_Pushkin

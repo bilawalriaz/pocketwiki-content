@@ -60,3 +60,5 @@ The 20th century brought severe suppression during the Cultural Revolution, but 
 ## Debates and Open Questions
 
 Scholars debate whether "Philosophical Taoism" and "Religious Taoism" represent distinct traditions or artificial Western constructs. Many argue the daojia/daojiao distinction is "wholly inaccurate and untenable," noting that early texts already contained religious elements like cosmology and mystical union. The historicity of Laozi remains contested, with some viewing him as legendary. Disagreements persist over whether pre-Han practices constituted "real Taoism" or were later syntheses. The classification of diverse movements—from Yellow Turban rebels to modern qigong groups—as "Taoist" reflects ongoing definitional challenges. Contemporary Western "Taoism" often blends authentic traditions with New Age spirituality, raising questions about cultural authenticity and appropriation.
+
+Source: adapted from "Taoism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taoism

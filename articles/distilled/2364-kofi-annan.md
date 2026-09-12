@@ -47,3 +47,5 @@ After leaving the UN, Annan founded the Kofi Annan Foundation to promote global 
 - **Effectiveness of UN Leadership**: Scholars debate whether Annan's reformist vision was hampered by the UN's bureaucratic structure and the political constraints imposed by member states, particularly the United States.
 - **Responsibility to Protect (RtoP)**: The doctrine remains controversial, with debates centering on its potential for abuse as a justification for humanitarian intervention and its inconsistent application in conflicts like Syria.
 - **Legacy in Myanmar**: The failure of the Annan Commission's recommendations to prevent the 2017 Rohingya crisis raises questions about the limits of international advisory bodies in the face of entrenched domestic opposition.
+
+Source: adapted from "Kofi Annan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kofi_Annan

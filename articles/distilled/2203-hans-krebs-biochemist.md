@@ -39,3 +39,5 @@ Krebs moved to the University of Oxford in 1954, where he continued research unt
 
 ## Debates and Open Questions
 The source text does not detail ongoing scholarly debates about Krebs's work or life.
+
+Source: adapted from "Hans Krebs (biochemist)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hans_Krebs_%28biochemist%29

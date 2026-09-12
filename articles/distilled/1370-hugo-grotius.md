@@ -50,3 +50,5 @@ After the death of Maurice of Nassau in 1625, Remonstrants gradually regained to
 
 ## Debates and Open Questions  
 Scholars debate Grotius’s originality: some argue he merely systematized existing ideas from Aquinas and Suárez, while others credit him with introducing secular, rational foundations for international law. His role in the Peace of Westphalia is contested—was he its intellectual architect or one of several contributors? The extent of his influence on later Enlightenment thinkers remains a topic of scholarly discussion, particularly regarding tensions between his religious commitments and emerging secular legal frameworks.
+
+Source: adapted from "Hugo Grotius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hugo_Grotius

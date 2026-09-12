@@ -35,3 +35,5 @@ Hertz's 1894 book, *The Principles of Mechanics*, presented a new formulation of
 
 ## Debates and Open Questions
 The source notes that Hertz's early work on cathode rays was misinterpreted due to experimental conditions, a point clarified later by J.J. Thomson. His contact mechanics theory was later refined by models (JKR and DMT) that incorporated adhesion, which Hertz had neglected. The exact cause of his fatal illness was only identified decades after his death as likely granulomatosis with polyangiitis.
+
+Source: adapted from "Heinrich Hertz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Heinrich_Hertz

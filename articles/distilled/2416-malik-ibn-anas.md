@@ -36,3 +36,5 @@ Malik viewed differences of opinion among scholars as a divine mercy for the com
 - **Authenticity of Traditions**: Some later scholars, like Ibn Hazm, doubted that prophecies foretelling Malik's birth referred to him, though the majority tradition accepted this identification.
 - **Stance on Mysticism**: While Malik is recorded as holding early Sufis in high regard and combining inward and outward sciences, some weak traditions suggest he disapproved of group *dhikr* (remembrance of God). Scholars debate whether these reports reflect his actual views or criticisms of specific excesses.
 - **Imposition of Legal School**: The historical account of Malik refusing the Abbasid caliph's attempt to impose the Maliki school as universal law raises questions about the early political dynamics of Islamic jurisprudence and the concept of scholarly diversity.
+
+Source: adapted from "Malik ibn Anas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Malik_ibn_Anas

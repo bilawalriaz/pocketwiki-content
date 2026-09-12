@@ -66,3 +66,5 @@ Godwin’s 1798 *Memoirs*, detailing her affairs, illegitimate child, and suicid
 - **Race and Slavery**: She condemns Burke’s system for perpetuating slavery "because it had been an ancestral tradition," but *Rights of Woman* focuses on middle-class white women. The extent of her anti-racist commitment is debated.
 - **Godwin’s Memoir as Betrayal or Preservation**: Did Godwin’s candor destroy her legacy or save her from sanitization? The *Memoir* provided the primary source for her inner life but fueled a century of misogynistic dismissal.
 - **Historical Method in *French Revolution***: She was not a trained historian; she used journals and letters to capture "ordinary people’s" reactions. Scholars debate its reliability versus its value as a contemporary, partisan counter-narrative.
+
+Source: adapted from "Mary Wollstonecraft" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mary_Wollstonecraft

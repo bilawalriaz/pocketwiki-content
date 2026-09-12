@@ -35,3 +35,5 @@ The correspondence runs both ways. For every abducible `p`, adding a contrary `n
 ## Implementations
 
 Most ALP systems extend the SLD-resolution model of Prolog-style logic programming; examples are ACLP, A-system, CIFF, SCIFF, ABDUAL, and ProLogICA. ALP can also be built on Answer Set Programming, with the ASP solver performing the underlying search.
+
+Source: adapted from "Abductive logic programming" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abductive_logic_programming

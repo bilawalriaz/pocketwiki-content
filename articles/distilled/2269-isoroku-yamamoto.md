@@ -40,3 +40,5 @@ In April 1943, U.S. code breakers intercepted Yamamoto's flight itinerary for an
 - **Pearl Harbor Decision**: Historians debate whether Yamamoto's plan violated the principle of concentration of force and was overly complex, or if its failure was due to unforeseen American intelligence and tactical responses.
 - **Midway Planning**: The reasons for the failure of Japanese reconnaissance before Midway, and whether Yamamoto's divided dispositions doomed the operation, are subjects of ongoing analysis.
 - **Yamamoto's True Beliefs**: There is discussion about whether Yamamoto truly believed a surprise attack could lead to a negotiated peace, or if he was merely executing a strategy he knew would ultimately fail.
+
+Source: adapted from "Isoroku Yamamoto" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Isoroku_Yamamoto

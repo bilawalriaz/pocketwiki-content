@@ -30,3 +30,5 @@ Cross-sectional imaging such as CT, MRI, sonography, and PET follows the DICOM c
 ## Reference lines and landmarks
 
 Planes extend into imaginary lines drawn on the body's surface for locating internal structures without a scan. Examples include the midaxillary line, dropping vertically from the armpit apex, with the anterior and posterior axillary lines parallel to it; the mid-clavicular line, dropping from the midpoint of the clavicle; and named transverse planes such as the transpyloric plane, which passes through the pylorus. Spinal levels, such as the fourth cervical vertebra, are used the same way.
+
+Source: adapted from "Anatomical plane" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anatomical_plane

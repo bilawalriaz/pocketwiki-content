@@ -58,3 +58,5 @@ Global forest area: 4.14 billion ha (32% of land, 0.50 ha/person). Tropical doma
 - **Plantation vs. natural forest equivalence**: New plantations increase area but not biodiversity, resilience, or carbon density comparable to old-growth; how to weight them in global targets (e.g., UN Strategic Plan for Forests) is contested.
 - **Indigenous land tenure vs. corporate acquisition**: Legal recognition of Indigenous territories has expanded since 2002, yet large-scale land deals in lower-income countries often proceed without free, prior, and informed consent, undermining both rights and conservation outcomes.
 - **Fire management in temperate/boreal zones**: Whether active thinning and prescribed burning can sustainably reduce catastrophic wildfire risk without compromising carbon storage or biodiversity is an active management debate (e.g., US national forests).
+
+Source: adapted from "Forest" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Forest

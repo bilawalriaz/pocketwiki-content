@@ -81,3 +81,5 @@ Honors: Career Golden Lion (Venice 1982), Moscow Honorable Prize (1979), Nationa
 - **MoMA departure (1942)**: Dalí’s book triggered Archbishop Spellman’s "Antichrist" accusation; simultaneous Hollywood trade-paper campaign cut MoMA film budget 66%, forcing Buñuel out—extent of coordination debated.
 - **Filmófono authorship**: Rotellar insists Buñuel directed four films credited to José Luis Sáenz de Heredia; titular director confirmed Buñuel chose shots and controlled editing.
 - **Catholic Church vs. *The Milky Way* (1969)**: Banned in Italy; Church hierarchy intervened to lift ban—unusual reversal suggesting tactical or doctrinal nuance.
+
+Source: adapted from "Luis Buñuel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Luis_Bu%C3%B1uel

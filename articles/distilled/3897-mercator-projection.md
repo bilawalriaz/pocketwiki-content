@@ -41,3 +41,5 @@ For a spherical Earth, the projection's formulas are: x = R(λ − λ₀) and y 
 
 ## Debates and Open Questions
 The primary debate concerns the Mercator projection's suitability for general world maps due to its severe areal distortion, which critics argue perpetuates a Eurocentric worldview by inflating the size of northern continents. The 1989 resolution by North American geographical groups formally discouraged its use for this purpose. The projection's resurgence in web mapping has renewed discussions about its visual impact. There is also historical debate about possible precursors, such as whether 13th-century portolan charts or Chinese star charts used similar projections, though evidence for this is lacking.
+
+Source: adapted from "Mercator projection" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mercator_projection

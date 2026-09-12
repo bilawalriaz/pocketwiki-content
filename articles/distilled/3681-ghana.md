@@ -52,3 +52,5 @@ Ghanaian culture is expressed through cuisine (e.g., banku, fufu, jollof rice), 
 *   The historical connection between the modern Ghanaian people and the ancient Empire of Ghana (Wagadu) is debated. Early 20th-century scholars like J.B. Anaman and J.B. Danquah promoted a migration theory linking the Akan to the ancient empire, but this is considered by some historians, like Jack Goody, to lack linguistic and evidence.
 *   The sustainability of Chinese-financed infrastructure projects in Ghana is a concern, with questions raised about environmental impacts and transparency.
 *   The effectiveness and social impact of laws regarding LGBTQ+ rights and witchcraft accusations remain contentious issues within Ghanaian society and politics.
+
+Source: adapted from "Ghana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ghana

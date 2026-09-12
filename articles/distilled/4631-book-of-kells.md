@@ -44,3 +44,5 @@ The book was a sacramental object for display on the high altar, not for daily s
 - **Purpose of creation**: It may have been made for the 200th anniversary of St. Columba's death or to mark the translation of his relics.
 - **Unfinished state**: The reason for the incomplete decoration and missing chapter numbers is unknown; it may have been interrupted by Viking raids or other events.
 - **Gerald of Wales' account**: The 12th-century description of a great Gospel book in Kildare may refer to the Book of Kells or a now-lost manuscript.
+
+Source: adapted from "Book of Kells" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Book_of_Kells

@@ -47,3 +47,5 @@ The Industrial Revolution spurred new ideologies. Marxism, developed by Marx and
 - The validity and implications of social contract theory as a foundation for political legitimacy.
 - The ongoing tension between individual liberty (liberalism) and community values (communitarianism).
 - The challenge to the social contract posed by feminist and postcolonial critiques (e.g., the "sexual contract" and "racial contract").
+
+Source: adapted from "History of political thought" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_political_thought

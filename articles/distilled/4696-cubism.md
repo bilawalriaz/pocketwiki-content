@@ -53,3 +53,5 @@ Cubism's principles of fragmentation and multiple perspectives influenced litera
 - **Theoretical Interpretation:** The assertion that Cubist depiction supports the flatness of the canvas (made by Kahnweiler) was later criticized by art historians like Clement Greenberg.
 - **Influence vs. Independence:** Scholars question the extent to which the Salon Cubists depended on Picasso and Braque's techniques or developed them independently from Cézanne and other sources.
 - **Historical Phasing:** The terms "Analytic" and "Synthetic" are historical impositions applied after the fact; the phases were not designated as such by the artists at the time.
+
+Source: adapted from "Cubism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cubism

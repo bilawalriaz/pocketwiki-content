@@ -34,3 +34,5 @@ In South America, dances like the Cueca (Chile, Bolivia), Cumbia (Colombia), and
 
 ## Debates and Open Questions
 The source notes that some choreographed social dances, such as contra dance and modern Western square dance, are sometimes described as folk dances, though this usage is not accurate in the strictest ethnological sense. The boundary between folk dance and other social or ballroom dances is often blurred, as many country and ballroom dances trace their origins to earlier folk traditions that underwent refinement and formalization.
+
+Source: adapted from "Folk dance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Folk_dance

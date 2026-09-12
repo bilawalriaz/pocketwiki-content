@@ -47,3 +47,5 @@ Since the 2000s, Hollywood has been dominated by franchise films, particularly s
 - **Representation**: Persistent underrepresentation of women and minorities in creative and leadership roles remains a central criticism, with studies like the "Celluloid Ceiling" report quantifying the disparity.
 - **Economic Model**: The shift to streaming has sparked conflicts over fair compensation for creators (as seen in the 2023 strikes) and the long-term viability of the traditional theatrical window.
 - **Global Influence and Censorship**: Hollywood's need to access markets like China raises questions about self-censorship and the alteration of content to comply with foreign political standards.
+
+Source: adapted from "Cinema of the United States" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cinema_of_the_United_States

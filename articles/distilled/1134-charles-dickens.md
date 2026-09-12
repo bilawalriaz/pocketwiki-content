@@ -55,3 +55,5 @@ Dickens blended realism with melodrama and satire, creating iconic characters wh
 ## Debates and Open Questions
 
 Scholars debate the extent to which Dickens’s personal trauma informed his fiction, especially regarding gender roles and maternal relationships. His portrayal of Jewish characters, notably Fagin in *Oliver Twist*, has drawn criticism for reinforcing antisemitic stereotypes, though he later revised the text. The nature of his relationship with Ellen Ternan remains speculative, with some biographers suggesting a long-term romantic involvement. Additionally, debates persist over whether Dickens should be classified as a sentimental novelist or a realist, given the tension between emotional excess and social critique in his work.
+
+Source: adapted from "Charles Dickens" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_Dickens

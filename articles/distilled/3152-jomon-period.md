@@ -45,3 +45,5 @@ After 1500 BC, a cooling climate led to population decline. During the Final Jō
 - The degree to which Jōmon people practiced horticulture versus being purely hunter-gatherers is debated.
 - The exact origin and migration routes of the Jōmon ancestors, and the nature of their admixture with the Yayoi, remain under study.
 - Whether similarities between Jōmon culture and distant cultures (e.g., Valdivia in Ecuador) resulted from independent development or ancient contact is an open question.
+
+Source: adapted from "Jōmon period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/J%C5%8Dmon_period

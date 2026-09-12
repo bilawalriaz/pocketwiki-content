@@ -25,3 +25,5 @@ Nutrients, especially the relative amounts of nitrogen and phosphorus, control w
 ## Threats
 
 Ecosystem health degrades when a stress exceeds the system's capacity to absorb it. Physical stresses include changes in temperature, flow, and light; chemical stresses include nutrient loading, oxygen-consuming waste, and toxins; biological stresses include over-harvesting and introduced species. Climate change is shifting species distributions and damaging deep-sea biodiversity, coastal fish, crustaceans, and coral reefs. Human-made systems such as drainage ditches and irrigation channels often trade biodiversity for their intended function. The Great Lakes show the combined effects of pollution, over-harvesting, and invasive species on a freshwater system.
+
+Source: adapted from "Aquatic ecosystem" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aquatic_ecosystem

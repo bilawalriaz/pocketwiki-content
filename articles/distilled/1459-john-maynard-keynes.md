@@ -69,3 +69,5 @@ A successful investor, Keynes rebuilt a fortune nearly wiped out in the 1929 cra
 - **Protectionism vs. free trade**: Keynes’s 1930s turn to tariffs and managed trade remains contested; mainstream economics largely reverted to comparative advantage after Bretton Woods, though trade imbalance concerns resurfaced post-2008.
 - **Eugenics legacy**: Scholars debate whether Keynes’s eugenics advocacy was a marginal prejudice or integral to his vision of "managed" social and economic planning.
 - **2008 stimulus efficacy**: Economists remain divided on the magnitude of fiscal multipliers, the risk of debt overhang, and whether Keynesian coordination prevented a second Great Depression or merely delayed adjustment.
+
+Source: adapted from "John Maynard Keynes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Maynard_Keynes

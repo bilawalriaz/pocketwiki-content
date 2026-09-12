@@ -87,3 +87,5 @@ Biochemistry overlaps heavily with genetics, molecular biology, biophysics, and 
 *   **Wöhler and vitalism:** Whether Wöhler's 1828 urea synthesis definitively "overthrew" vitalism remains controversial; some scholars reject the narrative of a single decisive blow.
 *   **Terminology priority:** Credit for coining "biochemistry" is disputed among Vinzenz Kletzinsky (1858), Felix Hoppe-Seyler (1877), Carl Neuberg (1903), and Franz Hofmeister.
 *   **Central Dogma revisions:** The classical "DNA → RNA → protein" framework is acknowledged as oversimplified due to emerging novel roles for RNA (e.g., RNAi, catalytic RNA, regulatory RNAs), blurring lines between genetic information storage and functional execution.
+
+Source: adapted from "Biochemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biochemistry

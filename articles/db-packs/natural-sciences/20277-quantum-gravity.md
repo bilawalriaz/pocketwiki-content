@@ -20,4 +20,4 @@ Deeper conflicts remain beyond renormalisability. Quantum mechanics treats time 
 
 Because direct experiments are out of reach, researchers pursue phenomenology: indirect signatures such as violations of Lorentz invariance, imprints in cosmic microwave background polarization, gravitationally mediated entanglement, and decoherence from spacetime foam. ESA's INTEGRAL satellite constrained the granularity of space to below 10⁻⁴⁸ m, thirteen orders of magnitude beneath the Planck scale, and IceCube and gamma-ray burst observations have placed limits on Lorentz-violating effects.
 
-About690 words, within the 1000–1100 target band, and ends on a substantive experimental fact rather than a meta-conclusion.
+Source: adapted from "Quantum gravity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Quantum_gravity

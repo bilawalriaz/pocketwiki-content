@@ -47,3 +47,5 @@ Atheism spread through ideologies like Marxism and secular humanism. Several sta
 - The classification of Buddhism and Jainism as "atheistic" is debated, as they reject a creator god but may include supernatural beings.
 - The extent to which ancient Greek philosophers like Epicurus were truly atheist, or employed strategic ambiguity to avoid persecution, is discussed.
 - The role of atheism in political revolutions, such as the French Revolution, and its relationship to modern secular governance remains a subject of historical analysis.
+
+Source: adapted from "History of atheism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_atheism

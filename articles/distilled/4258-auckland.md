@@ -44,3 +44,5 @@ Auckland is New Zealand's major financial and commercial centre, with a 2025 GDP
 - **Housing Crisis**: There is significant public debate over the causes of Auckland's high housing costs, often citing a lack of land supply, easy credit, and the city's high liveability.
 - **Future Volcanic Activity**: The Auckland Volcanic Field remains active, and future eruptions are considered a threat, though the location of any new eruption is unknown.
 - **Transport Policy**: Auckland's historical pro-automobile policies have led to high car dependency and congestion, sparking ongoing debate about the effectiveness and future of public transport investments like the City Rail Link.
+
+Source: adapted from "Auckland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Auckland

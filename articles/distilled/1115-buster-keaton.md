@@ -62,3 +62,5 @@ Keaton’s career revived in the 1940s with character roles and cameos in presti
 - **Creative decline at MGM**: While Keaton blamed the studio system for his artistic downfall, some argue his personal struggles and the transition to sound contributed equally.
 - **Legacy of *The General***: Though now hailed as a masterpiece, its initial reception was mixed, raising questions about how historical context shapes film appreciation.
 - **Unreleased works**: Several of Keaton’s projects, including *Ten Girls Ago* (1962) and *El Moderno Barba Azul* (1946), remain obscure or poorly received, prompting debate over their place in his legacy.
+
+Source: adapted from "Buster Keaton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Buster_Keaton

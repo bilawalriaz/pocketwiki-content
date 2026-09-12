@@ -39,3 +39,5 @@ The 1763 Treaty of Paris formally ended the war. France ceded Canada and all ter
 - The war's name is debated: "French and Indian War" is standard in the U.S., while Canadians and Europeans typically view it as part of the Seven Years' War. French Canadians may call it the "War of Conquest."
 - The role and agency of Indigenous nations are central to modern scholarship, moving beyond viewing them as mere pawns of European powers.
 - The long-term impact of the war on the origins of the American Revolution is a key historical discussion, particularly regarding British debt, taxation, and the removal of the French threat.
+
+Source: adapted from "French and Indian War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_and_Indian_War

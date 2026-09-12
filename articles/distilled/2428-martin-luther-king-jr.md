@@ -47,3 +47,5 @@ From 1963, the FBI, under J. Edgar Hoover, conducted intensive surveillance of K
 - **Conspiracy theories surrounding his assassination:** While James Earl Ray pleaded guilty, his later recantation and a 1999 civil trial verdict finding a conspiracy involving "other unknown co-conspirators" have fueled ongoing debate. A 2000 DOJ investigation found no evidence of a conspiracy.
 - **Reliability of FBI allegations:** Historians dispute the credibility of late-added FBI summaries alleging King's complicity in or tolerance of sexual violence, citing the bureau's active campaign to discredit him and the lack of corroborating evidence on sealed recordings.
 - **His evolving political views:** Scholars analyze the shift in his later years from focusing solely on legal segregation to critiquing economic inequality, capitalism, and the Vietnam War, and his private expressions of support for democratic socialism.
+
+Source: adapted from "Martin Luther King Jr." on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.

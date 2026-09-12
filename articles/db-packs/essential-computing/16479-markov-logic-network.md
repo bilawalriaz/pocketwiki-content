@@ -30,3 +30,5 @@ The distribution an MLN defines can be queried for the probability of an atomic 
 ## Origin and use
 
 Relational Markov networks, the immediate precursor, were introduced in 2002 by Ben Taskar, Pieter Abbeel, and Daphne Koller as domain-independent templates for Markov networks. Work on Markov logic networks itself began in 2003 with Pedro Domingos and Matt Richardson. MLNs are a common formalism in statistical relational learning, alongside Markov random fields, probabilistic logic networks, probabilistic soft logic, and ProbLog. The trade-off is expressive power against computational cost: a handful of weighted rules can encode rich relational dependencies, but answering probabilistic queries against them is generally intractable and must usually be approximated.
+
+Source: adapted from "Markov logic network" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Markov_logic_network

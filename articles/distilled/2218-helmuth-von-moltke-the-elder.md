@@ -43,3 +43,5 @@ After the Franco-Prussian War, Moltke was made a Count and Field Marshal. He ser
 - The article notes that Moltke's war plan for the Second Schleswig War was initially mismanaged, leading to the Danish army's escape.
 - During the Austro-Prussian War, Moltke was not fully satisfied with the Battle of Königgrätz, as he failed to prevent the Austrian retreat.
 - In the Franco-Prussian War, Moltke has been blamed for the costly final attack at the Battle of Gravelotte, though the article states this was ordered by the king.
+
+Source: adapted from "Helmuth von Moltke the Elder" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder

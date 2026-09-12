@@ -42,3 +42,5 @@ Woodward also contributed to structure determination (e.g., of penicillin's beta
 ## Debates and Open questions
 - The correct structure of penicillin was a major point of contention during World War II. Woodward initially endorsed an incorrect structure before supporting the beta-lactam structure, which was ultimately proven correct by Dorothy Hodgkin's X-ray crystallography in 1945.
 - Some historians and Woodward himself believed he should have shared the 1973 Nobel Prize awarded to Geoffrey Wilkinson and Ernst Otto Fischer for work on ferrocene and organometallic chemistry.
+
+Source: adapted from "Robert Burns Woodward" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Burns_Woodward

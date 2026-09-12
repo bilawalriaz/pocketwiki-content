@@ -35,3 +35,5 @@ Plants interact with habitats and each other through competition, mutualism, her
 Systematic botany classifies plants by evolutionary history using Linnaean ranks and binomial names governed by the International Code of Nomenclature. Since the 1990s, molecular phylogenetics using DNA sequences has dominated, reclassifying fungi as closer to animals than plants and producing cladograms based on apomorphies, derived traits that uniquely evidence common ancestry.
 
 Applied branches draw on this foundation. Phytochemistry studies secondary metabolites: toxins (coniine), aromatics (peppermint oil, capsaicin), and pharmaceuticals (opium, caffeine, morphine, nicotine, and aspirin from willow-bark salicylic acid). Staple crops such as maize, rice, wheat, and pulses were bred over millennia from wild ancestors, and botanists study yield, weed and pathogen control, and the role of plants in mitigating climate change and food insecurity.
+
+Source: adapted from "Botany" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Botany

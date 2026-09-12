@@ -41,3 +41,5 @@ The rebellion led to the end of the East India Company's rule. The Government of
 
 ## Debates and open questions
 The rebellion's nature is contested. In India, it is often called the "First War of Independence," while in the UK it is commonly termed the "Indian Mutiny." Historians debate whether it was a unified war of national liberation or a series of disconnected mutinies and local revolts. Arguments against the "war of independence" label include the rebellion's limited geographic scope, the fact that 80% of the Company's forces were Indian, and the lack of a unified political program. Proponents note the widespread popular participation and the rebels' goal of driving out the British from "India." Modern historiography, influenced by scholars like Eric Stokes, emphasizes local economic grievances and the role of prosperous magnates over a general nationalist cause.
+
+Source: adapted from "Indian Rebellion of 1857" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857

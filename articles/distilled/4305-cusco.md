@@ -42,3 +42,5 @@ After independence, Cusco's political role diminished, but its cultural signific
 - The exact founding date of Cusco is debated, with sources placing it in the 12th century, though the region was inhabited earlier by the Killke culture.
 - The traditional legend of the city's founding by Manco Cápac is a mythological account; archaeological evidence suggests a more gradual, organic growth of the settlement.
 - The precise methods used by the Inca to quarry, transport, and fit the massive stones of their architecture remain undetermined.
+
+Source: adapted from "Cusco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cusco

@@ -43,3 +43,5 @@ After stepping down from his Leiden chair in 1912, Lorentz continued to teach in
 ## Debates and Open Questions
 *   **Aether vs. Relativity:** Lorentz maintained a belief in a physical aether and a preferred "true time" frame, even while acknowledging that Einstein's principle of relativity was empirically indistinguishable and mathematically more elegant. He saw the two interpretations as philosophically different but operationally equivalent.
 *   **Priority for Relativity:** While Einstein's 1905 paper presented a new conceptual foundation, the key mathematical transformations were published by Lorentz (and independently by Joseph Larmor) earlier. The historical development is complex, with Lorentz and Henri Poincaré making crucial contributions to the mathematical and conceptual framework before Einstein's synthesis.
+
+Source: adapted from "Hendrik Lorentz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hendrik_Lorentz

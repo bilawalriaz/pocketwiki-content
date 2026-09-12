@@ -34,3 +34,5 @@ The Shang fought frequent wars with neighbouring settlements and northern groups
 ## Open questions
 
 Several issues remain unsettled. The exact start and end of the dynasty are debated, with proposed end dates ranging from 1130 to 1018 BC. The relationship with the preceding Xia is unclear, seen by some as a contemporary state and by others as a later myth. The role of shamanism in Shang religion is disputed, as is the historicity of legends that a disgraced Shang prince, Gija, founded a state in Korea.
+
+Source: adapted from "Shang dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shang_dynasty

@@ -42,3 +42,5 @@ Early bossa nova lyrics often depicted the leisurely life of the middle and uppe
 ## Debates and Open Questions
 - **Jazz Influence:** A common misconception is that bossa nova's complex harmonies were derived from jazz. However, samba guitarists used similar structures since the 1920s, suggesting parallel evolution rather than direct transference.
 - **Authorship of the Term:** The exact origin of the phrase "bossa nova" was unclear for decades, though it is now attributed to journalist Moyses Fuks in 1957.
+
+Source: adapted from "Bossa nova" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bossa_nova

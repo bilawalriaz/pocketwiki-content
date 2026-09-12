@@ -41,3 +41,5 @@ After the war, Themistocles's arrogance and the jealousy of his fellow citizens 
 *   **Motives at Salamis:** Scholars debate whether Themistocles's message to Xerxes before the battle was purely a stratagem to trap the Persians, or also a calculated attempt to secure Athenian mercy in case of defeat.
 *   **Cause of Death:** While Thucydides reports natural causes, other traditions claim Themistocles committed suicide by poison or bull's blood to avoid being ordered by the Persian king to attack Greek lands.
 *   **Coin Portraiture:** There is doubt whether coins issued by Themistocles as governor of Magnesia depicted his own portrait or the image of Zeus.
+
+Source: adapted from "Themistocles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Themistocles

@@ -39,3 +39,5 @@ The highlands host numerous endemic species, including the endangered walia ibex
 
 ## Debates and Open Questions
 The source notes that the planation surfaces in northern Ethiopia do not appear to be pediplains or etchplains, contrary to suggestions for much of Africa, indicating a debate about their formation process. The precise timing and drivers of human genetic adaptations to high altitude are also an area of ongoing research.
+
+Source: adapted from "Ethiopian Highlands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ethiopian_Highlands

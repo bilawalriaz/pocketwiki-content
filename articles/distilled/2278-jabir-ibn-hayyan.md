@@ -41,3 +41,5 @@ Jabirian alchemy is systematic and less allegorical than its Greek predecessors.
 *   **Dating:** While the corpus is generally dated to c. 850–950, some scholars argue for an earlier 8th-century core, suggesting the works may have been redacted over time.
 *   **Authorship:** The sheer volume and diversity of the works make single authorship improbable. The identity and number of authors behind the pseudonym remain unknown.
 *   **Relationship to Greek Alchemy:** The extent to which Jabirian alchemy borrowed from versus innovated upon Greco-Egyptian and Byzantine traditions is debated.
+
+Source: adapted from "Jabir ibn Hayyan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jabir_ibn_Hayyan

@@ -44,3 +44,5 @@ The ancient city was a Christian bishopric. After the Crusader capture in 1249, 
 
 ## Debates and Open Questions
 The source does not detail specific scholarly debates, but it notes the city's name evolved from the Hellenistic "Tamíathis" and its importance fluctuated with changes to the Nile's course and regional trade routes.
+
+Source: adapted from "Damietta" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Damietta

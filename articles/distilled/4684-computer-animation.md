@@ -44,3 +44,5 @@ A key goal is often photorealism, but this can lead to the **uncanny valley**, w
 
 ## Debates and Open Questions
 The source text does not explicitly outline ongoing scholarly debates, but it highlights a central artistic and technical tension: the pursuit of photorealism versus the risk of the uncanny valley. It also notes the continuous evolution of techniques, such as the shift from Flash to HTML5 for web animation, driven by technological change and compatibility needs.
+
+Source: adapted from "Computer animation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer_animation

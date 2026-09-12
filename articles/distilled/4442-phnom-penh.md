@@ -44,3 +44,5 @@ Since 1979, Phnom Penh has undergone reconstruction with international aid. It i
 - The exact date and nature of the initial settlement at Phnom Penh are debated, with archaeological evidence suggesting a 5th-century community but the legendary founding dating to 1372.
 - The city's population figures from the 1998 and 2008 censuses are noted to conflict with other historical population data, requiring clarification.
 - The controversial filling of Boeung Kak lake in 2010 for property development highlights ongoing tensions between urban development and environmental/social concerns.
+
+Source: adapted from "Phnom Penh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Phnom_Penh

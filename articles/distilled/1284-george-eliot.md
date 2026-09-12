@@ -66,3 +66,5 @@ Eighteen months after Lewes’s death, Evans married John Cross, a younger man a
 - **Religious stance**: Though critical of institutional Christianity, Eliot retained respect for religious tradition’s role in maintaining social order. Her humanistic approach remains debated among critics.  
 - **Legacy of *Daniel Deronda***: The novel’s ending and its portrayal of Jewish identity have drawn varied interpretations, particularly regarding its proto-Zionist elements.  
 - **Posthumous reputation**: Eliot’s image was shaped significantly by her husband’s biography, which idealized her character. Modern scholarship seeks to reconcile this with her actual life and writings.
+
+Source: adapted from "George Eliot" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_Eliot

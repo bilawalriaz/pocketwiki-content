@@ -38,3 +38,5 @@ Software includes programs, libraries, and data, divided into system and applica
 - **Stored program**: Instructions held in memory rather than wired in.
 - **Turing-complete**: Equivalent in capability to a universal Turing machine.
 - **MOSFET**: The compact transistor that became the basis of digital electronics.
+
+Source: adapted from "Computer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer

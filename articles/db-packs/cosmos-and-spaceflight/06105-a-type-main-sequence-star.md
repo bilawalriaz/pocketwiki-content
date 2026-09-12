@@ -31,3 +31,5 @@ Detecting these planets through Doppler spectroscopy is hard because A-type star
 ## Nearby examples
 
 A-type stars are common in naked-eye astronomy because they are intrinsically bright. Sirius, the brightest star in the night sky, is classified A0mA1 Va with a mass of about 2.06 M☉ and a luminosity near 25 L☉ at 8.6 light-years. Other nearby examples are Vega (A0V, 25 light-years, 47 L☉), Fomalhaut (A3V, 25 light-years, 17 L☉), Altair (A7V, 17 light-years, 11 L☉), and Denebola (A3V, 36 light-years, 13 L☉).
+
+Source: adapted from "A-type main-sequence star" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/A-type_main-sequence_star

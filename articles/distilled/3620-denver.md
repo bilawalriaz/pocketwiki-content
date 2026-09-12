@@ -44,3 +44,5 @@ Denver's economy diversified beyond mining into energy, telecommunications, and 
 - **Validity of the Treaty of Fort Wise**: The source notes that some Cheyenne chiefs opposed the treaty, claiming it was signed by a minority without consent and that signatories were bribed. The territorial government, however, considered it a "solemn obligation."
 - **Olympic Bid Legacy**: Denver's withdrawal from hosting the 1976 Winter Olympics, due to voter rejection of public funding, remains a unique historical event. The source states this has made subsequent Olympic bids difficult for the city.
 - **Environmental Contamination**: The Rocky Flats Plant (1953-1989) produced plutonium pits for nuclear weapons. A 1981 study linked contamination to increased birth defects and cancer in Denver. The source confirms plutonium contamination was still present outside the plant site as of 2010, posing risks for development.
+
+Source: adapted from "Denver" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Denver

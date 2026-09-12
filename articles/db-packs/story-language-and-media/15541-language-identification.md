@@ -15,3 +15,5 @@ As of 2025, a widely used baseline is the fastText library, which reaches accura
 The hardest case for any system is distinguishing closely related languages, where vocabulary and structure overlap heavily. Bulgarian versus Macedonian and Indonesian versus Malay are typical examples. To benchmark this, the DSL shared task was organized in 2014, covering 13 languages in six groups: Bosnian, Croatian, Serbian; Indonesian, Malaysian; Czech, Slovak; Brazilian Portuguese, European Portuguese; Peninsular Spanish, Argentine Spanish; American English, British English. The best entry reached above 95 percent accuracy.
 
 Practical detectors exist in major NLP toolkits. Apache OpenNLP ships a character n-gram statistical detector with a model covering 103 languages, and Apache Tika includes a detector for 18 languages.
+
+Source: adapted from "Language identification" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Language_identification

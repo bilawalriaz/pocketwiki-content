@@ -42,3 +42,5 @@ Al-Sadiq is respected in Sunni Islam as a reliable hadith transmitter and jurist
 - **Views on Sufism**: While early Sufi writers claim him as a spiritual forebear, some Shia scholars dismiss these links as later attempts to appropriate his authority for Sufi teachings.
 - **Nature of His Teachings**: The wide range of contradictory views ascribed to him across different Islamic factions (Shia, Sunni, Sufi, etc.) makes it difficult for historians to reconstruct his precise, original teachings.
 - **Succession Crisis**: The exact reasons for the split between the Twelver and Ismaili factions after his death, and the roles of his various sons, remain subjects of historical analysis.
+
+Source: adapted from "Ja'far al-Sadiq" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ja%27far_al-Sadiq

@@ -31,3 +31,5 @@ The sea is famed for the seafaring adventures of the Ancient Greek hero Odysseus
 
 ## Debates and open questions
 The precise etymology of the name "Ionian" is unknown and debated. While ancient myths link it to figures like Io, scholarly analysis notes a spelling discrepancy between the sea's name and the term for the Ionian people, suggesting the popular mythological explanations may not be linguistically accurate.
+
+Source: adapted from "Ionian Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ionian_Sea

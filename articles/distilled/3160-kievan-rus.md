@@ -39,3 +39,5 @@ After Yaroslav's death, a contested succession system (possibly the *rota* syste
 - **Origin of the Rus':** A major scholarly debate (Normanism vs. Anti-Normanism) concerns whether the ruling elite were originally Norse Varangians or Slavs. The modern consensus leans toward a Norse origin with rapid assimilation into Slavic culture.
 - **Succession System:** Historians debate whether a formal system like the *rota* existed for transferring power, or if the chronicled conflicts indicate its absence.
 - **National Legacy:** Modern Belarus, Russia, and Ukraine all claim Kievan Rus' as their cultural ancestor. Historian Serhii Plokhy has argued for "denationalizing" this history, viewing Rus' as a multi-ethnic state rather than the direct progenitor of any single modern nation.
+
+Source: adapted from "Kievan Rus'" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kievan_Rus%27

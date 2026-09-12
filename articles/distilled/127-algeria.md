@@ -78,3 +78,5 @@ About 90% of Algerians live in the northern, coastal area. Estimates suggest 75%
 - Estimates of Algeria's ethnic composition (75%–85% Arab vs. 20%–30% Berber) are based on non-official sources, as Algerian law forbids population censuses based on ethnic, religious, and linguistic criteria.
 - Survey data on religiosity in Algeria is conflicting: the June 2019 Arab Barometer found around 15% identifying as non-religious, while the 2021 report found only 2.6% identifying as non-religious.
 - The 2019 presidential election results were disputed, with protestors refusing to recognise Tebboune as president and his opponents calling the 2024 results fraud.
+
+Source: adapted from "Algeria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algeria

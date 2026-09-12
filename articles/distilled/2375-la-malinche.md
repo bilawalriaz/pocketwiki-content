@@ -41,3 +41,5 @@ After the conquest, Malinche lived in Coyoacán and bore Cortés a son, Martín.
 - **The Cholula Plot**: Did Malinche genuinely uncover a conspiracy against the Spanish, or was the story a later fabrication to justify the massacre and strengthen alliances with the Tlaxcalans?
 - **Her Historical Impact**: Some historians argue she was the "real conqueror" due to her diplomatic skills, while others, like Inga Clendinnen, suggest key communications were nonverbal and her role has been overstated.
 - **Cultural Symbolism**: In Mexico, she remains a polarizing figure—viewed as a foundational mother of the nation or as the archetypal traitor, a debate that continues in feminist and postcolonial scholarship.
+
+Source: adapted from "La Malinche" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/La_Malinche

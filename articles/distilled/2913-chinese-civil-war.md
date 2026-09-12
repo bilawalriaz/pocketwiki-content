@@ -45,3 +45,5 @@ The ROC government in Taiwan, under U.S. protection after the Korean War, contin
 - **Role of Foreign Intervention:** The extent to which Soviet aid (especially in Manchuria) and U.S. support for the KMT determined the outcome is contested. Some argue the KMT's failure was primarily internal, while others emphasize external pressures.
 - **Chiang Kai-shek's Leadership:** Chiang's own retrospective analyses, blaming Soviet duplicity and internal decay, are seen by scholars as partially accurate but self-serving, deflecting from his strategic errors and tolerance of corruption.
 - **Atrocities and Civilian Suffering:** Both sides committed mass atrocities. The scale and intentionality of violence, such as during CCP land reform campaigns and KMT counter-insurgency, remain subjects of historical research and political sensitivity.
+
+Source: adapted from "Chinese Civil War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinese_Civil_War

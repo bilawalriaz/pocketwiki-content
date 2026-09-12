@@ -35,3 +35,5 @@ The product of two projections need not be a projection. It is a projection exac
 ## Continuous projections on normed spaces
 
 In infinite-dimensional normed spaces, a linear projection can fail to be continuous; continuity requires the range to be a closed subspace. In Hilbert spaces, every closed subspace has an orthogonal closed complement, so orthogonal projections are continuous. In a general Banach space, a one-dimensional subspace always admits a closed complement by the Hahn–Banach theorem, but higher-dimensional closed subspaces need not.
+
+Source: adapted from "Projection (linear algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Projection_%28linear_algebra%29

@@ -45,3 +45,5 @@ As of the 2011 census, Indore city had a population of 1,994,397. Hindi is the p
 - The exact origin of the city's name is debated, with theories linking it to the Indreshwar Temple or the older name "Indur."
 - The implementation of a Police Commissionerate system in Indore has been proposed multiple times but remains unimplemented due to administrative tussles.
 - The city's claim to being India's "most vegetarian city" is noted as debatable, though surveys indicate a high percentage of vegetarians.
+
+Source: adapted from "Indore" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indore

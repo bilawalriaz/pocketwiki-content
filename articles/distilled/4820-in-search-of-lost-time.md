@@ -42,3 +42,5 @@ The nature of art is a constant motif, explored through fictional artists like t
 *   **The "Transposition of Sexes" Theory:** Proposed by Justin O'Brien, this theory suggests some female characters (like Albertine) are literary transpositions of young men from Proust's life, a common "closet era" strategy.
 *   **Proust's Models:** Scholars analyze the real-life models for characters, such as Robert de Montesquiou for Baron de Charlus and Charles Haas for Charles Swann, and how they were transformed in the novel.
 *   **The Novel's Ending:** The final volume, *Finding Time Again*, was written early but revised late, leading to scholarly discussion about its relationship to the expanded middle volumes and its ultimate resolution.
+
+Source: adapted from "In Search of Lost Time" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/In_Search_of_Lost_Time

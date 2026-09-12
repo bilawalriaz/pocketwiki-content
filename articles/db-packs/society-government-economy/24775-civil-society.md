@@ -31,3 +31,5 @@ Aleksander Smolar first used "civil society" in its modern oppositional sense in
 ## Limits of the concept
 
 Sociologist Bojan Baća argues that the dominant frameworks, functionalist (civil society as democratizer), normativist (civil society as civilized society), and structuralist (civil society as a sector), can reduce empirical reality. Civil society works better as a historically and geographically contingent bundle of practices than as a universal template, with its content and effects varying sharply by region and period.
+
+Source: adapted from "Civil society" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Civil_society

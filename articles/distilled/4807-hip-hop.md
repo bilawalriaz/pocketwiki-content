@@ -48,3 +48,5 @@ The 2010s were dominated by streaming platforms and the global spread of trap mu
 - The precise origin of the term "hip-hop" is debated, with multiple figures like Lovebug Starsky and Keef Cowboy claiming credit.
 - The impact of gangsta rap remains contentious; critics argue it glorifies violence, while proponents like Sister Souljah argue it exposes societal contradictions.
 - The rise of trap music has sparked debate about lyrical depth, with some artists and critics lamenting a perceived decline in lyricism, a style sometimes pejoratively labeled "mumble rap."
+
+Source: adapted from "Hip-hop" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hip-hop

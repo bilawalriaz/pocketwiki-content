@@ -44,3 +44,5 @@ Released by her son Richard I in 1189, Eleanor served as regent of England durin
 *   **The Court of Love:** The tradition that Eleanor presided over a "Court of Love" in Poitiers is a later literary invention, largely based on a satirical 12th-century text with no evidence linking it to her.
 *   **Role in Revolts:** Chroniclers blamed Eleanor for inciting the 1173 revolt of her sons against Henry II, but evidence is circumstantial, often prefaced with "so it was said."
 *   **Imprisonment:** The exact nature and conditions of her 16-year imprisonment by Henry II are poorly documented.
+
+Source: adapted from "Eleanor of Aquitaine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine

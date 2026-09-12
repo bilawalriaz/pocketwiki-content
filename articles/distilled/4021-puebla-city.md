@@ -39,3 +39,5 @@ Puebla is celebrated for its cuisine, including mole poblano and chiles en nogad
 - The origin of mole poblano is disputed, with legends attributing it to 16th-century nuns improvising for an archbishop's visit or to pre-Hispanic preparations served to Hernán Cortés.
 - The historical use of chocolate in pre-Hispanic sauces like "chilmulli" is debated, with no clear evidence it was used before the colonial period.
 - The existence and extent of a rumored tunnel system under the city, rediscovered in 2015, are still being explored.
+
+Source: adapted from "Puebla (city)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Puebla_%28city%29

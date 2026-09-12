@@ -72,3 +72,5 @@ Thalberg’s name never appeared on-screen during his life ("credit you give you
 *   **Norma Shearer favoritism:** Thalberg admitted his "romantic astigmatism" led to "overblown" Shearer vehicles. Critics debate whether this compromised MGM’s output or merely reflected his star-making skill applied to his wife.
 *   **Fitzgerald’s portrayal:** *The Last Tycoon*’s Monroe Stahr is a literary construct. Norma Shearer and intimates denied the character resembled Thalberg’s personality, though Fitzgerald saw him as a "heroic" American figure.
 *   **Gone with the Wind rejection:** Thalberg’s 1936 refusal—citing fatigue and the belief "no Civil War picture ever made a nickel"—is often cited as the most famous missed opportunity in film history, though the source notes he had just completed two massive epics (*Mutiny*, *Good Earth*).
+
+Source: adapted from "Irving Thalberg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Irving_Thalberg

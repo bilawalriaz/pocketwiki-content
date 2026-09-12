@@ -53,3 +53,5 @@ Chopin’s output consists of over 230 works, nearly all for solo piano. He revo
 ## Debates and Open Questions
 
 The exact cause of Chopin’s death remains debated. His death certificate cited tuberculosis, but modern analysis of his preserved heart suggests pericarditis secondary to chronic TB. Other theories include cystic fibrosis and alpha-1 antitrypsin deficiency. Additionally, interpretations of his sexuality and relationships—particularly with Sand and possible homoerotic undertones in his correspondence—are contested, reflecting evolving scholarly perspectives on gender and identity in the 19th century. Debates also persist regarding the extent of his nationalism versus his adherence to broader European classical traditions.
+
+Source: adapted from "Frédéric Chopin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin

@@ -40,3 +40,5 @@ The first law of thermodynamics states that a closed system's energy is constant
 - **ATP:** Primary energy transporter in living cells.
 - **Hamiltonian:** A function (or operator, in quantum mechanics) giving a system's total energy.
 - **Lagrangian:** Kinetic energy minus potential energy, used to derive equations of motion.
+
+Source: adapted from "Energy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Energy

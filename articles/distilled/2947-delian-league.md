@@ -42,3 +42,5 @@ Athens maintained control through several mechanisms. It established *kleruchiai
 
 ## Debates and Open Questions
 The exact nature and date of the "Peace of Callias," a treaty supposedly formalizing peace with Persia around 450 BC, is debated; some historians consider it a later myth. The role of the "Delian Proclamation," a possible founding document discovered at Delphi, is also contested, with some scholars linking it to religious rather than purely political foundations. The extent to which the League's transformation into an empire was a deliberate Athenian policy from the start, rather than a gradual evolution, remains a subject of scholarly analysis.
+
+Source: adapted from "Delian League" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Delian_League

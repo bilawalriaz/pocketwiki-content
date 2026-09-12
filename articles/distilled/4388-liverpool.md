@@ -50,3 +50,5 @@ Key landmarks include the Three Graces at Pier Head, the Royal Albert Dock, two 
 - The economic and social benefits of mass council housing and suburban relocation in the 20th century are contested.
 - The reasons for and consequences of Liverpool's political and economic decline in the late 20th century, often linked to Thatcher-era policies, remain a point of historical and political analysis.
 - The effectiveness of recent regeneration strategies and their benefit to all residents is an ongoing discussion.
+
+Source: adapted from "Liverpool" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liverpool

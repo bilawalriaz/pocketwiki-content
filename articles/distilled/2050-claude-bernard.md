@@ -39,3 +39,5 @@ Bernard championed the experimental method in medicine, emphasizing that evidenc
 
 ## Debates and Open Questions
 Bernard's glycogenic theory, which posited that the liver synthesizes sugar, was directly challenged by physiologist Frederick Pavy, who argued that blood sugar originated from dietary intake rather than hepatic synthesis. This debate persisted for decades until biochemical evidence confirmed Bernard's interpretation. Later research by von Mering and Minkowski on pancreatic diabetes further refined and validated his conclusions about glucose regulation.
+
+Source: adapted from "Claude Bernard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Claude_Bernard

@@ -33,3 +33,5 @@ Plants reproduce through parthenogenesis, producing genetically identical clones
 ## Origins
 
 Plant ecology grew from early nineteenth-century plant geography. Carl Ludwig Willdenow noticed that similar climates produced similar vegetation on different continents, and his student Alexander von Humboldt used physiognomy, the classification of plants by growth form, to link vegetation types to environmental factors. Eugenius Warming's 1895 *Plantesamfund* synthesised plant morphology, physiology, taxonomy, and biogeography into the field of plant ecology, and Henry Chandler Cowles' 1899 studies of succession on Lake Michigan sand dunes, followed by Frederic Clements' 1916 monograph, introduced temporal change into the discipline. The first professional society, the British Ecological Society, was founded in 1913, with the Ecological Society of America following in 1917.
+
+Source: adapted from "Plant ecology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_ecology

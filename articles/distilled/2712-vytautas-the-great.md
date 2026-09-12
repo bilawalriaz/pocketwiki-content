@@ -44,3 +44,5 @@ Vytautas's relationship with Poland evolved from conflict to formal union. The U
 - The exact cause of Kęstutis's death in 1382 is debated; it is unclear whether he died of natural causes or was murdered.
 - The precise motivations and terms of Vytautas's frequent alliances and breakaways with the Teutonic Order are complex, reflecting a pragmatic struggle for power rather than consistent ideology.
 - The failure to crown Vytautas as King of Lithuania in 1430, due to Polish opposition, highlights the enduring tension within the Polish-Lithuanian union over sovereignty and status.
+
+Source: adapted from "Vytautas the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vytautas_the_Great

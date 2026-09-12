@@ -50,3 +50,5 @@ Today, Protestantism is globally diverse, with rapid growth in Africa, Asia, and
 
 ## Debates and Open Questions  
 Scholars debate whether Protestantism should include post-Reformation movements like Pentecostalism and non-denominational churches. Estimates of global Protestant populations range widely due to definitional disagreements; some exclude Independents (non-denominational Pentecostals). The extent of Protestantism’s influence on capitalism and science remains contested, with critics arguing that economic development preceded the Reformation. Additionally, the validity of ecumenical agreements, such as the 1999 Joint Declaration on the Doctrine of Justification, is disputed among Confessional Lutherans. The future trajectory of Protestantism, particularly its shift toward the Global South, raises questions about its evolving identity and theological priorities.
+
+Source: adapted from "Protestantism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Protestantism

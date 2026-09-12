@@ -65,3 +65,5 @@ Over 135 films adapt Gogol’s work. Shostakovich’s *The Nose* (1928) was the 
 - **Realism vs. grotesque/surrealism**: Was Gogol a "realist" (Belinsky, Soviet criticism) or a writer of the fantastic whose "holes in the language" (Nabokov) open supernatural readings?
 - **Religious crisis and artistic silence**: Did Gogol’s post-1842 asceticism and manuscript burning represent a genuine spiritual transformation or a pathological breakdown? Does his later non-fiction negate his earlier fiction?
 - **Buried alive?**: The 1931 exhumation found the body face down, generating a persistent conspiracy theory; scholarly consensus rejects it, but the legend endures.
+
+Source: adapted from "Nikolai Gogol" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nikolai_Gogol

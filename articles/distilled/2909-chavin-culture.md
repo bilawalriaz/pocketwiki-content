@@ -45,3 +45,5 @@ Power was held by a shaman elite who legitimized authority through claimed divin
 - The role of maize in the Chavín economy is debated; carbon isotope analysis shows the diet was mainly C3 plants (potatoes, quinoa), not maize.
 - The extent to which psychotropic drugs were used—only by elites or more widely—and their precise role in rituals is unclear.
 - Whether Chavín de Huántar was the culture's birthplace or just a major center is uncertain.
+
+Source: adapted from "Chavín culture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chav%C3%ADn_culture

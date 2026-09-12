@@ -65,3 +65,5 @@ Diagnosed with hairy cell leukemia in 1982 and bone cancer in 1990, Walton under
 - **Labor practices**: Walton’s anti-union stance and Walmart’s wage and benefit policies have drawn sustained criticism and legal challenges.
 - **Sourcing and “Buy American”**: The 1962 launch emphasized American-made products, but the company’s massive scale later drove heavy reliance on global supply chains, raising questions about the durability of the original commitment.
 - **Succession and family control**: The transition to the next generation (Rob Walton as Chairman, family ownership via Walton Enterprises) illustrates the governance challenges of a founder-led public company with concentrated family control.
+
+Source: adapted from "Sam Walton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sam_Walton

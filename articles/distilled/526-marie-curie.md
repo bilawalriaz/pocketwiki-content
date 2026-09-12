@@ -56,3 +56,5 @@ After the war, Curie led the Radium Institute to become one of the world’s fou
 - **French Academy of Sciences rejection (1911)**: Whether the narrow loss (1–2 votes) was driven by scientific merit, xenophobia, anti-Semitic rumours (she was Catholic-born, agnostic), or the Langevin affair remains debated; the Academy did not elect a woman until 1962.
 - **Patent decision**: Curie deliberately refused to patent the radium-isolation process to keep research open; historians debate how this altruism affected the development of the radium industry and her personal finances.
 - **Langevin affair impact**: The 1911 scandal was exploited by academic opponents and right-wing press; its role in the Academy rejection and the Nobel committee’s attempt to bar her from the Chemistry ceremony illustrates the intersection of gender, nationality, and morality in early 20th-century science.
+
+Source: adapted from "Marie Curie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marie_Curie

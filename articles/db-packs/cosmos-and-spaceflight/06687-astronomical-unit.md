@@ -28,3 +28,5 @@ The 1976 definition did not specify a reference frame, and general relativity ma
 Planetary distances are simple numbers in au: Mercury 0.39, Venus 0.72, Earth 1.00, Mars 1.52, Jupiter 5.2, Saturn 9.5, Uranus 19.2, Neptune 30.1. The Kuiper belt begins near 30 au and the inner Oort cloud reaches tens of thousands of au. Proxima Centauri is about 268,000 au away, and the Galactic centre about 1.7 × 10⁹ au.
 
 Because the au keeps Solar System numbers near 1, it reduces floating-point error in numerical integrations. A 2004 study claimed the au is lengthening by about 15 m per century as the Sun loses mass through radiation, but other analyses disagree and the result is controversial. Since 2010, planetary ephemerides are no longer tied to the au; the value is fixed and the rest of the system is solved in SI units.
+
+Source: adapted from "Astronomical unit" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomical_unit

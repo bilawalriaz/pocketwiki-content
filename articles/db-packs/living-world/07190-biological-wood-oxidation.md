@@ -25,3 +25,5 @@ The central limitation is low heat output. Reported heat production rates range 
 - Humidity. Microbial activity falls below 40% moisture, and above 60% the air spaces flood and oxygen becomes limiting. Drier zones occupy less than 20% of the pile but about 60% of the core, so a self-reinforcing cycle of drying and falling output develops.
 
 A turbomeiler can in principle control humidity, aeration, and temperature, but poor insulation caps its temperature at about 37 °C, too low for domestic heating, and published data on its performance remain scarce.
+
+Source: adapted from "Biological wood oxidation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_wood_oxidation

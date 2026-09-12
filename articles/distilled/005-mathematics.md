@@ -99,3 +99,5 @@ Notes sounding well together have fundamental frequencies in simple ratios (an o
 - Whether mathematical results are created (as in art) or discovered (as in science)
 - The concept of *Homo economicus* in mathematical economics is criticized because real people have limited information and care about fairness, not just personal gain
 - The choice of counting criteria (e.g., for unemployment) or models in complex systems can be subject to controversy
+
+Source: adapted from "Mathematics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematics

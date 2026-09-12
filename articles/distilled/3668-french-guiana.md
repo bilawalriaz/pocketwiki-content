@@ -44,3 +44,5 @@ French Guiana has a young, rapidly growing population with the highest fertility
 *   **Environmental vs. Economic Development:** A core tension exists between protecting French Guiana's immense biodiversity and the economic pressures of mining, infrastructure development (like road building), and agriculture.
 *   **Illegal Immigration and Mining:** The effectiveness of French military and police operations (e.g., Operation Harpie) in permanently stopping illegal gold mining and immigration from Brazil and Suriname is a persistent and unresolved challenge.
 *   **Border Dispute with Suriname:** A territorial dispute exists over a small area of the Maripasoula commune, with France and Suriname claiming different river boundaries. A bilateral commission is working to resolve it.
+
+Source: adapted from "French Guiana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_Guiana

@@ -42,3 +42,5 @@ Beyond piracy, hazards include 34 shipwrecks in the commercial shipping channel,
 
 ## Debates and Open Questions
 The primary ongoing tension is between state sovereignty and the need for international security cooperation. Littoral states are historically reluctant to cede control over their territorial waters and EEZs, even for security purposes. While cooperative mechanisms exist, they rely on voluntary contributions and coordination, raising questions about their long-term sustainability and effectiveness against evolving threats like environmental degradation and potential future disruptions.
+
+Source: adapted from "Strait of Malacca" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Strait_of_Malacca

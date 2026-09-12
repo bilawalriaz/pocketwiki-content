@@ -41,3 +41,5 @@ Relations with Egypt turned hostile over the vassal kingdom of Amurru. The crisi
 *   **The Identity of the Egyptian Queen:** While most scholars identify the widowed queen as Tutankhamun's widow Ankhesenamun, some propose she was Akhenaten's widow, Nefernefruaten-Nefertiti.
 *   **The Murderer of Zannanza:** The Hittite texts are broken at the crucial point. While Šuppiluliuma blamed the Egyptians, the exact perpetrators and whether it was an official act or a factional plot remain unknown.
 *   **The Cause of the Plague:** The Hittites attributed the plague to divine punishment for oath-breaking and murder. Modern scholars debate whether it was a specific epidemic like tularemia ("rabbit fever") and the precise sequence of events that introduced it.
+
+Source: adapted from "Šuppiluliuma I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C5%A0uppiluliuma_I

@@ -76,3 +76,5 @@ Survival depends on two main traditions:
 *   **Political Engagement:** Are topical allusions (e.g., *Miles Gloriosus* passage) deliberate political intervention or safe reflection of public mood? The state controlled production, limiting overt subversion.
 *   **Textual Reconstruction:** With the Ambrosian Palimpsest fragmentary and the Palatine archetype lost—and both possibly sharing a common ancestor—how closely do modern editions reflect Plautus’s actual wording, especially for scene headings and minor character names?
 *   **Performance Details:** The exact nature of music, dance, and the *tibicen* (piper)’s role in *cantica* remains inferred from metrical patterns rather than explicit evidence.
+
+Source: adapted from "Plautus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plautus

@@ -77,3 +77,5 @@ The Gita’s "extraordinary prominence is a feature of modernity" (Robinson), ri
 *   **War and Violence:** Whether the text is an allegory for inner struggle, a justification for just war/righteous violence, or a pacifist manual for detached action.
 *   **Primacy of Paths:** Whether *Bhakti*, *Jnana*, or *Karma* Yoga is supreme, or if they are equal/convergent (medieval commentators prioritized differently; moderns often claim synthesis).
 *   **Krishna’s Ontology:** Whether Krishna is a partial *avatara* (Shankara), the full *Svayam Bhagavan* (Gaudiya), or an *avatara* of Narayana/Vishnu (Ramanuja, Madhva).
+
+Source: adapted from "Bhagavad Gita" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bhagavad_Gita

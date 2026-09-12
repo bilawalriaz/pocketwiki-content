@@ -49,3 +49,5 @@ Mysore is connected by national highways and a railway junction with lines to Ba
 
 ## Debates and Open Questions
 The source does not explicitly detail ongoing scholarly debates. However, it notes historical points of contention, such as the British justification for taking direct control of Mysore in 1831 by claiming maladministration. The city's modern challenges include concerns over haphazard urban growth and infrastructure strain due to the expanding IT industry, as well as occasional civic issues related to land distribution.
+
+Source: adapted from "Mysore" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mysore

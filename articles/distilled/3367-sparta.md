@@ -51,3 +51,5 @@ The economy was based on agriculture, worked by helots on equal plots of land (k
 - **Lycurgus and the Reforms**: The existence and dating of the lawgiver Lycurgus are semi-mythical. The precise nature and timing of the reforms attributed to him are debated.
 - **Helot Treatment and Revolts**: The scale and nature of helot revolts, and the exact methods of Spartan control (like the Krypteia), are subjects of scholarly discussion, based on often hostile sources.
 - **Spartan Decline**: The relative importance of factors like the declining citizen population, the loss of Messenia, and military defeats in causing Sparta's long-term decline is analyzed by historians.
+
+Source: adapted from "Sparta" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sparta

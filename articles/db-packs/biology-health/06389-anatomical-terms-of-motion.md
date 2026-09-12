@@ -31,3 +31,5 @@ The hand and foot need extra terms because embryological rotation of the limbs f
 ## Other regions
 
 For the **jaw**, **occlusion** is the motion that brings the mandible up to meet the maxilla so the teeth contact; **protrusion** and **retrusion** slide the jaw forward and back. For the **eye**, a **version** is a synchronized movement of both eyes in the same direction, and **torsion** is rotation around the eye's vertical axis (the movement made when looking toward the nose). **Opposition** is the thumb's unique motion of touching the fingertips, allowing grasping. **Nutation and counternutation** describe rotation of the sacrum, downward and forward with lumbar extension, upward and backward with lumbar flexion. **Protraction and retraction** slide a structure forward or backward, as with the shoulder girdle.
+
+Source: adapted from "Anatomical terms of motion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anatomical_terms_of_motion

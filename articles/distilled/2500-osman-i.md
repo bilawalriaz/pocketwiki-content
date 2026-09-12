@@ -44,3 +44,5 @@ Osman died c. 1323/4, likely from gout, after designating his son Orhan as succe
 - **Name:** Some scholars argue his original Turkish name was Atman or Ataman, later Arabized to Osman.
 - **Date of Death:** Sources conflict, placing his death anywhere from 1320 to 1327, with 1323/4 being a common estimate.
 - **Nature of Rule:** The extent to which Osman was a simple tribal raider versus a sophisticated state-builder is debated, though his political and military ingenuity is increasingly recognized.
+
+Source: adapted from "Osman I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Osman_I

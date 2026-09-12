@@ -48,3 +48,5 @@ Vedic literature includes the four Vedas, Brahmanas, and early Upanishads. Archa
 - **Nature of the Kuru Kingdom**: Scholars debate whether the Kuru kingdom was a true "state" or a complex chiefdom, as its kings used the title "rajan" (chief) rather than higher royal titles.
 - **Social Mobility in Vedic Society**: While the varna system became rigid, some Rigvedic hymns suggest possible social mobility, indicating a less fixed hierarchy in earlier times.
 - **Chronology**: The Puranic chronology presents a much older timeline for Vedic events (e.g., Kurukshetra War at c. 3100 BCE), which contrasts with mainstream historical dating.
+
+Source: adapted from "Vedic period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vedic_period

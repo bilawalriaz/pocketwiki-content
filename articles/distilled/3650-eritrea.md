@@ -46,3 +46,5 @@ Eritrea's economy is based on subsistence agriculture, mining (notably the Bisha
 *   **Religious Demographics:** The proportion of Christians and Muslims is debated, with estimates varying from near-equal splits to a Christian majority.
 *   **Human Rights Allegations:** The Eritrean government consistently dismisses international reports of human rights abuses as "wild allegations" and politically motivated fabrications.
 *   **Border Conflict with Ethiopia:** While a peace treaty was signed in 2018, the full demarcation of the border remains incomplete, and Eritrean troops remained involved in Ethiopian conflicts as of 2021.
+
+Source: adapted from "Eritrea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eritrea

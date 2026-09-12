@@ -46,3 +46,5 @@ A replicated finding is that uncertainty is not a side effect but a driver: many
 David Ellis identified eight recurring activities in academic information seeking: starting, chaining, browsing, differentiating, monitoring, extracting, verifying, and ending. Choo, Detlor, and Turnbull later mapped these onto web searching.
 
 A persistent methodological concern is that the field imports theories from sociology, psychology, communication, organisational behavior, and computer science, so individual studies are hard to compare, and review work now restricts itself to specific contexts.
+
+Source: adapted from "Information behavior" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Information_behavior

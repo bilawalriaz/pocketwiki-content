@@ -42,3 +42,5 @@ Pauli spent most of his career at ETH Zurich, interrupted by a move to the US du
 - Pauli was a vocal critic of the **modern synthesis of evolutionary biology**, arguing against a purely gene-based view of inheritance. His arguments are sometimes cited in support of **epigenetic inheritance**.
 - His collaboration with Carl Jung on **synchronicity** and a "psychophysically neutral reality" remains a controversial and non-mainstream philosophical interpretation of quantum physics.
 - The **Pauli effect**—the anecdotal tendency for equipment to fail in his presence—was taken seriously enough by some colleagues to be investigated, linking to his interest in parapsychology.
+
+Source: adapted from "Wolfgang Pauli" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wolfgang_Pauli

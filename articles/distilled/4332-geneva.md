@@ -45,3 +45,5 @@ Geneva hosts the European headquarters of the United Nations and the headquarter
 
 ## Debates and Open Questions
 The source notes that Geneva's religious landscape has shifted dramatically from its historical identity as a "Protestant Rome" due to immigration and secularization. It also highlights ongoing challenges related to its small municipal size and extensive cross-border urban area, which necessitate complex transnational governance structures like the Grand Genève.
+
+Source: adapted from "Geneva" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geneva

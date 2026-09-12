@@ -38,3 +38,5 @@ Perseus of Macedon attempted to restore his kingdom's influence, leading to the 
 *   **Roman Motivations:** Historians debate whether Rome's initial involvement was purely reactive "crisis management" or if it had latent imperial ambitions from the start.
 *   **The "Freedom of the Greeks":** Scholars question whether this was a sincere policy, a cynical propaganda tool, or a genuine but naive attempt at stabilizing Greece.
 *   **Impact of Withdrawal:** The repeated Roman withdrawal after victories is a key point of analysis, seen by some as a strategic error that necessitated further wars, and by others as proof of Rome's lack of a long-term plan for the East.
+
+Source: adapted from "Macedonian Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Macedonian_Wars

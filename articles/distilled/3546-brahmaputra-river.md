@@ -36,3 +36,5 @@ The river's waters are shared by China, India, and Bangladesh. Chinese dam const
 
 ## Debates and Open Questions
 The primary debate concerns the impact of Chinese upstream dams, like the Zangmu Dam, on downstream flow and sediment. China asserts no significant effect, while concerns persist in India and Bangladesh. The cause of the Brahmaputra's major course change in Bangladesh is also debated, with theories including tectonic activity, changes in the Teesta River's flow, and gradual avulsion due to bank erosion.
+
+Source: adapted from "Brahmaputra River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brahmaputra_River

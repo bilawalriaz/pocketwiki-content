@@ -48,3 +48,5 @@ In 1831, Poisson reviewed a manuscript on group theory submitted by the young ma
 - Poisson's interpretations of physical phenomena, such as his views on electricity as a fluid distinct from matter, were later disproven by researchers like Faraday.
 - His attempts to prove the convergence of Fourier series were unsuccessful, though they led to the discovery of the Poisson kernel.
 - The naming of the "Poisson spot" is debated, as similar observations were made earlier by Delisle and Maraldi.
+
+Source: adapted from "Siméon Denis Poisson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson

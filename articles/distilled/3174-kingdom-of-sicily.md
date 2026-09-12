@@ -44,3 +44,5 @@ The kingdom's society evolved from a multicultural Norman realm where Latin, Gre
 - **Timing of Economic Decline:** Scholars debate when Sicily's economic decline began. Some argue it started in the late 13th century, while others, like Clifford Backman, contend it began later, during the reign of Frederick III. Stephen Epstein suggests a 15th-century revival occurred.
 - **Impact of Foreign Rule:** The long-term effects of Aragonese, Spanish, and Bourbon rule on Sicilian society and economy are debated, particularly regarding the extent of exploitation versus development.
 - **Role of the Mafia:** The origins of the Sicilian Mafia are traced to brigand groups formed in the 18th and 19th centuries in response to feudal oppression and state weakness, but its exact evolution is a subject of historical study.
+
+Source: adapted from "Kingdom of Sicily" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Sicily

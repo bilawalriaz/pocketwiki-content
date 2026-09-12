@@ -39,3 +39,5 @@ Temporary captures occur: Jupiter has been observed to hold small objects for ye
 ## Habitability
 
 Tidal heating models define a circumplanetary habitable zone where a moon could keep liquid water. For giant planets the most promising band lies between roughly 5 and 20 planetary radii, and host stars need a minimum mass near 0.2 solar masses for moons in their stellar habitable zones to remain stable. The planet's magnetosphere strongly modulates whether such moons can actually retain an atmosphere.
+
+Source: adapted from "Satellite system (astronomy)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Satellite_system_%28astronomy%29

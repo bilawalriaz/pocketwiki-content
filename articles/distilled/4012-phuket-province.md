@@ -45,3 +45,5 @@ Phuket's culture reflects its diverse heritage. Key festivals include the annual
 ## Debates and Open questions
 - The exact population of Phuket is debated, with official census figures (e.g., 360,905 in 2012) differing widely from estimates of actual residents (e.g., ~2 million in 2025) due to unregistered migrants and expatriates.
 - The total number of hotel rooms in Phuket is uncertain, with estimates ranging from 40,000 to over 93,000, highlighting the difficulty in quantifying tourism infrastructure.
+
+Source: adapted from "Phuket province" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Phuket_province

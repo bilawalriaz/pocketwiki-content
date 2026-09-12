@@ -58,3 +58,5 @@ African legal systems originally based on ethnic customs and oral traditions, wi
 
 ## Debates and Open Questions
 The article notes scholarly debate about whether legal history should be viewed as recording legal evolution for understanding concepts (traditional view) or as a branch of intellectual history. Twentieth-century historians shifted toward contextualized social history approaches, analyzing legal institutions through social-science methods rather than traditional jurisprudence. The relationship between civil and common law traditions continues evolving, with signs of convergence in modern legal systems.
+
+Source: adapted from "Legal history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Legal_history

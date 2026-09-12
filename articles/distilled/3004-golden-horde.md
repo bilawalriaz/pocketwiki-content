@@ -44,3 +44,5 @@ The Golden Horde ruled its vast, multi-ethnic domain through a system of indirec
 - The origin and meaning of the name "Golden Horde" is debated; it may derive from the golden color of the khan's tents or be a later Russian calque.
 - The precise nature and extent of Mongol influence on Russian society, culture, and state formation is a subject of ongoing scholarly discussion, with views ranging from seeing it as purely destructive to acknowledging significant administrative and cultural transfers.
 - The internal political dynamics of the Horde, especially the balance of power between the khan, powerful emirs like Nogai and Edigu, and the Chinggisid princes, are complex and not fully understood due to limited contemporary sources.
+
+Source: adapted from "Golden Horde" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Golden_Horde

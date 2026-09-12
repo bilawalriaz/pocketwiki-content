@@ -41,3 +41,5 @@ Frankfurt boasts over 30 museums, many along the "Museumsufer" (Museum Embankmen
 
 ## Debates and Open Questions
 The article notes that Frankfurt's high crime rate statistics are often criticized for being misleading, as they are calculated based on the administrative population while the city hosts a much larger daily population of commuters and travelers. The choice of Bonn over Frankfurt as West Germany's capital in 1949 was influenced by political concerns that selecting Frankfurt might weaken support for eventual reunification and a return to Berlin.
+
+Source: adapted from "Frankfurt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frankfurt

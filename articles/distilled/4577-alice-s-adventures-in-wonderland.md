@@ -48,3 +48,5 @@ John Tenniel's 42 wood-engraved illustrations are the definitive visual interpre
 - There is disagreement about whether the story was conceived entirely on the "golden afternoon" of 4 July 1862 or developed over a longer period.
 - Interpretations of the book's symbolism are varied; for example, Morton N. Cohen reads it as a *roman à clef* of Carroll's life, while Jan Susina argues the character has a tenuous relationship with Liddell.
 - The precise nature and extent of mathematical satire in the book remain a subject of scholarly analysis.
+
+Source: adapted from "Alice's Adventures in Wonderland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland

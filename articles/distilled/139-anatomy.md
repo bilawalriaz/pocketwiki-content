@@ -82,3 +82,5 @@ Surface anatomy studies anatomical landmarks visible from exterior contours, ena
 ## Debates and open questions
 
 The source notes that anatomy is "a complex and dynamic field that is constantly evolving as discoveries are made." Historically, Herophilus's claim that the brain was the "seat of intellect" contradicted Aristotle's view that it was a "cooling chamber." The source also records that Galen's drawings, based mostly on dog anatomy, became the only anatomical textbook for a thousand years, implying questions about the accuracy of human anatomy knowledge during that period. The historian Marie Boas is quoted as finding the slowness of anatomical progress before the sixteenth century "as mysteriously slow as its development after 1500 is startlingly rapid," a scholarly puzzle about why the field stagnated for so long.
+
+Source: adapted from "Anatomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anatomy

@@ -36,3 +36,5 @@ The island's geology is primarily shaped by the subduction of proto-Pacific ocea
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes the island's insular nature was "believed to be part of the Antarctic mainland until 1940," indicating a historical misconception that was resolved by exploration. The precise timing of the retreat of the ice sheet covering Hodgson Lake (between 13,500 and 11,000 years ago) is presented as a established timeline rather than a debated point.
+
+Source: adapted from "Alexander Island" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alexander_Island

@@ -48,3 +48,5 @@ The source does not present explicit scholarly debates, but it highlights ongoin
 - The effectiveness and long-term impact of measures to combat severe air pollution.
 - The balance between industrial growth (e.g., petrochemicals, nuclear) and environmental protection, as evidenced by past pollution incidents like the 2014 benzene contamination and the 2020 brucellosis outbreak.
 - The city's future role and capacity as a hub on the New Eurasian Land Bridge amid regional competition.
+
+Source: adapted from "Lanzhou" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lanzhou

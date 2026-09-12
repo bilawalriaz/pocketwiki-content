@@ -50,3 +50,5 @@ After Vasudeva I (r. c. 190–c. 230), the empire fragmented. The western territ
 - The exact relationship and distinction between the Yuezhi and the Kushans remains unclear in historical sources.
 - The origin of the gold used in Kushan coinage is unknown; it is not of Roman provenance as once believed.
 - The precise start date of Kanishka's era (and thus his reign) has been debated, though 127 CE is now generally accepted based on research by Harry Falk.
+
+Source: adapted from "Kushan Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kushan_Empire

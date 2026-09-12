@@ -44,3 +44,5 @@ Hodgkin received numerous honours, including the Order of Merit (1965) and the C
 
 ## Debates and Open Questions
 The source notes that the pepsin experiment, the first application of X-ray crystallography to a biological substance, is "largely credited to Hodgkin," though she always maintained that her mentor J.D. Bernal took the initial photographs and provided key insights. Her political activities, including writing a foreword for a book fraudulently attributed to Elena Ceaușescu, highlight the complex intersection of science and politics during the Cold War.
+
+Source: adapted from "Dorothy Hodgkin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dorothy_Hodgkin

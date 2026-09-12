@@ -50,3 +50,5 @@ Great Moravia saw the development of stone sacral architecture, including basili
 - **Political Structure**: Scholars disagree on whether Moravia was a unified state or a dualistic entity with separate "Realms of Rastislav" and "Svatopluk."
 - **Christianization**: The stages and primary influences (Frankish vs. Byzantine) of the initial Christianization of Moravia before 863 are still researched.
 - **Fate of the Aristocracy**: It is unclear what happened to the Great Moravian nobility after the state's fall—whether they were displaced, assimilated into the Hungarian nobility, or persisted locally.
+
+Source: adapted from "Great Moravia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Moravia

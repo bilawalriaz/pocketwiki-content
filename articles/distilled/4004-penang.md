@@ -45,3 +45,5 @@ Penang consists of Penang Island (295 km²) and Seberang Perai (748 km²), conne
 - **Sovereignty dispute**: In 2025, Kedah's Menteri Besar announced intentions to sue for a revised annual lease payment for Penang, arguing the historical amount is no longer equitable. Penang's state government rejects this, citing its sovereignty under the Malaysian Constitution.
 - **Economic decline**: Persistent brain drain and federal policies prioritizing Kuala Lumpur have contributed to Penang losing its leading position in the national economy by the 21st century, though recent growth has been strong.
 - **Urban planning challenges**: Issues like incoherent planning, traffic management, and the dilapidation of George Town's heritage area following the repeal of the Rent Control Act in 2001 have been sources of societal dissatisfaction.
+
+Source: adapted from "Penang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Penang

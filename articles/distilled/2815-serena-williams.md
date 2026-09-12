@@ -52,3 +52,5 @@ Williams was an aggressive baseliner with a powerful serve, considered the great
 - **Greatest of All Time (GOAT) Debate**: While widely considered the greatest female tennis player, her status relative to other legends like Steffi Graf and Margaret Court is a subject of ongoing discussion.
 - **Impact of Coaching and Family**: The role of her father Richard Williams's unconventional coaching methods and the dynamic of competing against her sister Venus have been analyzed for their influence on her career.
 - **2018 US Open Final Controversy**: The match against Naomi Osaka, marred by code violations and a game penalty against Williams, sparked debates about sexism in officiating and sportsmanship.
+
+Source: adapted from "Serena Williams" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Serena_Williams

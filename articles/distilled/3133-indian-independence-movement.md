@@ -49,3 +49,5 @@ The Muslim League, led by Muhammad Ali Jinnah, demanded a separate Muslim state,
 - The causes and responsibility for the partition of India and the ensuing communal violence.
 - The impact of World War II on the British decision to withdraw and the trajectory of the independence movement.
 - The extent to which the movement represented all sections of Indian society, including peasants, workers, and lower castes.
+
+Source: adapted from "Indian independence movement" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indian_independence_movement

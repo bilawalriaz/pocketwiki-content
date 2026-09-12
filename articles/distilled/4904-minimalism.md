@@ -47,3 +47,5 @@ Minimalism in lifestyle involves using only essential materials and quantities t
 
 ## Debates and Open Questions
 The source highlights a key debate: critic Michael Fried argued that minimalist "literalist" art is dependent on a spectator to be validated as art, unlike traditional sculpture which retains its status unseen. There is also a distinction noted between true minimalism and "modern minimalism," with the latter incorporating more decorative and trendy elements while the former emphasizes strict geometric simplicity and emptiness.
+
+Source: adapted from "Minimalism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Minimalism

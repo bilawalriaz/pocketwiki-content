@@ -50,3 +50,5 @@ Calvin's theology, systematized in the *Institutes*, emphasized human depravity,
 - **Calvin's view of Jews**: Scholars disagree on whether Calvin was less antisemitic than other reformers or firmly within the antisemitic camp of his era, noting his distinction between biblical and contemporary Jews.
 - **Interpretation of his conversion**: Calvin's own accounts of his conversion differ—one describes a sudden change, the other a prolonged struggle—leading to scholarly debate about its nature and timing.
 - **Role in Servetus's execution**: While Calvin and ministers sought a less brutal execution (beheading), the council insisted on burning, raising questions about Calvin's direct responsibility versus the council's legal authority.
+
+Source: adapted from "John Calvin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Calvin

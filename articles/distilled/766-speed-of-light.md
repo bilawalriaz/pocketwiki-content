@@ -66,3 +66,5 @@ The finite speed of light affects telecommunications, computing, and space explo
 **Quantum gravity effects**: Certain models predict photon speed might depend on energy at Planck-scale energies, though observations of gamma-ray bursts like GRB 090510 found no such variation.
 
 **Scharnhorst effect**: Theoretical prediction that light could travel faster than c between closely spaced conducting plates, though practical implementation appears impossible without violating causality.
+
+Source: adapted from "Speed of light" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Speed_of_light

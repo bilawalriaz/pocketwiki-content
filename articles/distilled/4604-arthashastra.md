@@ -50,3 +50,5 @@ The Arthashastra is often compared to Machiavelli's *The Prince*, but scholars n
 *   **Identification with Chanakya:** The link between the author "Kautilya" and the historical Mauryan minister Chanakya is widely considered a later tradition, not historical fact.
 *   **Nature of the State:** Scholars disagree on whether the Arthashastra advocates for a free market with regulated rights (Trautmann) or a more centrally controlled, socialized monarchy (Boesche).
 *   **Textual Integrity:** The surviving manuscripts are not original and reflect a history of transmission, redaction, and possible errors. The division into chapters is seen as a later addition.
+
+Source: adapted from "Arthashastra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arthashastra

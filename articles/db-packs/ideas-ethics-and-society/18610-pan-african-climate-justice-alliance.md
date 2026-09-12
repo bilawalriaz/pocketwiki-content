@@ -27,3 +27,5 @@ A 2017 episode captures PACJA's operating method. Dozens of national and communi
 ## Influence and external position
 
 PACJA urges African organisations and the international community to implement the Paris Agreement and advance the 2030 Agenda, and presses governments to take responsibility for environmental and social justice. It carries African development expectations into high-level international summits such as COP28 and COP29, calling for financial and technical assistance rather than externally imposed solutions. Within Africa it plays a coordinating role, helping the continent move toward fair climate and environmental policies.
+
+Source: adapted from "Pan African Climate Justice Alliance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pan_African_Climate_Justice_Alliance

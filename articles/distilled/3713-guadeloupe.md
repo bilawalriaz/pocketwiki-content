@@ -50,3 +50,5 @@ The economy relies on tourism, agriculture (bananas, sugar, rum), light industry
 *   The political status of Guadeloupe remains a subject of debate, with discussions ranging from greater autonomy to full independence.
 *   The long-term social and economic impacts of the 2009 general strike and the persistent high unemployment rate are ongoing concerns.
 *   The environmental legacy of colonial agriculture, including pesticide contamination (e.g., chlordecone), and the sustainability of tourism and water resources are critical challenges.
+
+Source: adapted from "Guadeloupe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guadeloupe

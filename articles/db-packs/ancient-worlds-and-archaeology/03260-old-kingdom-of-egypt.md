@@ -23,3 +23,5 @@ Power shifted during the Sixth Dynasty (c. 2345–2181 BC). The nomarchs, origin
 ## Population Origins
 
 Genetic analysis of a high-status Old Kingdom individual dating to c. 2855–2570 BC, published in 2025, shows ancestry primarily from North African Neolithic populations, with about 20% traceable to the eastern Fertile Crescent. This provides direct biological evidence of early population movement from Mesopotamia into Egypt, paralleling the archaeological record of shared crops, animals, and writing between the two regions. Egyptologists still debate the relative weight of drought and political fragmentation in the collapse, the attribution of the Great Sphinx (traditionally Khafre, though Djedefre has been proposed), and whether the Seventh and Eighth Dynasties belong to the Old Kingdom or to the First Intermediate Period that followed.
+
+Source: adapted from "Old Kingdom of Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt

@@ -45,3 +45,5 @@ In the 1990s, Saddam pursued an Islamist agenda through the Faith Campaign and f
 - **Responsibility for Halabja**: While Iraq is now widely accepted as responsible for the 1988 chemical attack on Halabja, initial US and Iraqi government claims blamed Iran.
 - **Nature of the Regime**: Scholars debate whether Saddam's government was totalitarian, authoritarian, or fascist, with some arguing key differences from classic totalitarian models like Hitler's or Stalin's.
 - **Legacy in the Arab World**: Saddam remains a polarizing figure; some Arabs view him as a resolute leader against Western imperialism, while many Iraqis, especially Shias and Kurds, remember him as a brutal oppressor.
+
+Source: adapted from "Saddam Hussein" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saddam_Hussein

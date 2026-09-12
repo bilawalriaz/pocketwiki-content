@@ -49,3 +49,5 @@ On 24 January AD 41, Caligula was assassinated by officers of the Praetorian Gua
 - **Bridge at Baiae:** Was the pointless bridge a display of absolute power, a military feint related to Britain, or pure extravagance?
 - **Temple Statue:** Was Caligula's order to place his statue in the Jerusalem Temple a political act of imperial cult enforcement or evidence of personal megalomania?
 - **Sources:** How reliable are the hostile accounts of Suetonius and Dio, written decades after his death, compared to the contemporary but biased account of Philo?
+
+Source: adapted from "Caligula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caligula

@@ -46,3 +46,5 @@ Albums like *Kamikaze* (2018) and *Music to Be Murdered By* (2020) maintained hi
 
 ## Debates and Open Questions
 Eminem’s legacy is debated regarding his lyrical content: critics argue his use of misogyny, homophobia, and violence perpetuates harm, while supporters view it as artistic expression reflecting societal issues. His status as a white rapper succeeding in a Black-majority genre raises questions about privilege and authenticity. Additionally, his political stances—ranging from anti-Bush protests to endorsing Kamala Harris—are scrutinized for consistency and sincerity. Whether his recent work matches his earlier innovation remains a point of contention among fans and critics.
+
+Source: adapted from "Eminem" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eminem

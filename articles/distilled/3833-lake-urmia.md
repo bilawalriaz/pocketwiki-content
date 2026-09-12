@@ -38,3 +38,5 @@ The lake's decline has sparked significant public protest in Iran, despite restr
 
 ## Debates and Open Questions
 The primary debate centers on the relative causes of the lake's shrinkage: is it primarily due to natural climate cycles and drought, or is it predominantly the result of human activities like dam construction, river diversion, and agricultural water pumping? The effectiveness and management of large-scale restoration programs, such as the ULRP, are also subjects of ongoing scrutiny and discussion regarding their implementation and impact.
+
+Source: adapted from "Lake Urmia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Urmia

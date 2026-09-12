@@ -45,3 +45,5 @@ The influence of Buddhist doctrines on Gauḍapāda is a major scholarly debate.
 *   **Buddhist Influence:** The extent to which Gauḍapāda's philosophy was influenced by Buddhism is heavily debated. While most scholars acknowledge the use of Buddhist terminology and concepts, they maintain his core doctrine is Vedantic. Some, like Swami Nikhilananda, deny significant influence, while others, like Dasgupta, state it is undeniable.
 *   **Authorship of Chapter Four:** Due to its distinct style, use of Buddhist terminology, and the fact that later Vedantins primarily quoted the first three chapters, some scholars (e.g., Murti, King) suggest Chapter Four may have been authored by someone other than Gauḍapāda.
 *   **Dating:** Gauḍapāda's exact dates are uncertain, with estimates varying by over a century (early 6th to 7th century CE) based on different historical and textual evidence.
+
+Source: adapted from "Gaudapada" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gaudapada

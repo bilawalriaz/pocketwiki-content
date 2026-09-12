@@ -31,3 +31,5 @@ The pure ionic model treats electrons as fully transferred and uses classical el
 ## A continuous spectrum
 
 Bonds do not sort cleanly into boxes. Ionic, covalent, and metallic bonding merge into each other, and most real bonds are best described as polar covalent, partway between pure sharing and full electron transfer. Choosing a bond type is a way to predict behavior, not a statement that the categories are sharp. The single unifying picture is quantum mechanical: the electron distribution around two or more nuclei lowers the total energy below that of separated atoms, and that energy reduction is what a chemical bond is.
+
+Source: adapted from "Chemical bond" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemical_bond

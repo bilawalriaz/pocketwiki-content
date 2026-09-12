@@ -41,3 +41,5 @@ He wrote over 200 works, critiquing Ptolemaic astronomy in *Doubts Concerning Pt
 
 ## Debates and Open questions
 Scholars debate the extent to which Ibn al-Haytham's experimental techniques were truly novel or built upon earlier Islamic and ancient traditions. His claim to have discovered the principle of least time is noted as an early form of Fermat's principle, but its direct influence is unclear. Some, like psychologist Omar Khaleifa, argue he founded experimental psychology and psychophysics, but this is contested due to a lack of evidence for quantitative methods. His explanation of vision using perpendicular rays, while influential, was recognized even then as incomplete.
+
+Source: adapted from "Ibn al-Haytham" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ibn_al-Haytham

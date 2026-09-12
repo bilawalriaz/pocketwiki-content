@@ -35,3 +35,5 @@ Foundational supporting areas include electromagnetics (Maxwell's equations, pla
 ## Professional practice
 
 Professional bodies include IEEE in the US and IET in the UK; the IEC publishes relevant standards. Senior IEEE membership is a recognized US designation. Most engineers spend time on proposals, budgets, scheduling, and managing technicians or other engineers, so project management and written communication matter. Workplaces range from fabrication labs and consulting offices to research labs, and supervisors often coordinate scientists, electricians, programmers, and engineers. Skill obsolescence is acute in fast-moving areas such as consumer electronics, making continued learning essential. Common tools include LTSpice for circuit simulation and Eagle for PCB design.
+
+Source: adapted from "Electronics engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electronics_engineering

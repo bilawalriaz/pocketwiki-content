@@ -45,3 +45,5 @@ In 1855, Boole married Mary Everest, niece of George Everest. They had five daug
 - The correct interpretation of addition (+) in Boolean algebra remains a point of historical discussion: whether it should represent non-exclusive "or," exclusive "or," or a partial operation.
 - In 1921, economist John Maynard Keynes argued that Boole made a fundamental error in his definition of independence in probability theory, a critique later challenged by scholars like Theodore Hailperin and David Miller.
 - The extent of influence from Indian logic and mysticism on Boole's work, as claimed by his wife Mary, is a subject of scholarly debate.
+
+Source: adapted from "George Boole" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_Boole

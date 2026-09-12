@@ -58,3 +58,5 @@ Kapoor married Krishna Malhotra (a paternal first cousin) in 1946; she was 15, h
 - **Legacy of *Mera Naam Joker***: Initially a critical and commercial disaster, it is now called a "misunderstood masterpiece." The reassessment raises questions about reception lag for formally ambitious, self-reflexive works in popular cinema.
 - **Nargis–Kapoor relationship and on-screen chemistry**: Their 16 films together defined an era, yet the off-screen affair (never publicly acknowledged by either) complicates readings of their performances—especially in *Awāra* and *Shree 420*, where the tramp’s longing mirrors real emotional entanglement.
 - **Global vs. domestic reception**: Kapoor’s Soviet/Third World popularity (state-distributed, dubbed prints) differed from Indian urban reception. Whether the "tramp" persona meant the same to a Moscow factory worker and a Bombay mill worker remains an open question in transnational film studies.
+
+Source: adapted from "Raj Kapoor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Raj_Kapoor

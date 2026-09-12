@@ -47,3 +47,5 @@ Wesley traveled extensively, preaching over 40,000 sermons and covering 250,000 
 - **Doctrine of Perfection**: Wesley's teaching on "entire sanctification" or "Christian perfection" has been debated within and outside Methodism, with some critics calling it a form of "sinless perfectionism" that Wesley himself tried to avoid.
 - **Later Views on Universal Salvation**: Some scholars suggest Wesley may have leaned toward universal salvation late in life, based on a 1787 letter endorsing a universalist work, though this interpretation is disputed.
 - **Women's Preaching**: While Wesley eventually allowed women to preach, he imposed strict guidelines, and the full inclusion of women in Methodist ministry remained a gradual and contested process.
+
+Source: adapted from "John Wesley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Wesley

@@ -60,3 +60,5 @@ Marx was a leading figure in the International Workingmen's Association (First I
 *   **Ecological Critique:** Modern scholars (e.g., John Bellamy Foster) argue Marx developed a metabolic rift theory of ecological crisis; others contend his productivism mirrors capitalist growth obsession.
 *   **Antisemitism Allegations:** "On the Jewish Question" (1844) uses antisemitic tropes to critique bourgeois society; scholars debate whether this reflects personal prejudice, a rhetorical strategy targeting Bruno Bauer, or an immanent critique of liberal emancipation.
 *   **Legacy of 20th-Century States:** The relationship between Marx’s theory and the authoritarian practices of states claiming Marxism (USSR, Maoist China) remains contested: distortion, logical outcome, or product of specific material conditions (backwardness, war, encirclement).
+
+Source: adapted from "Karl Marx" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Karl_Marx

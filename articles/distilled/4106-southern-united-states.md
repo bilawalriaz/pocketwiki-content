@@ -50,3 +50,5 @@ Southern culture blends English, Scotch-Irish, and African traditions, featuring
 - **Defining the South:** Boundaries are debated as cultural and political alignments may differ from Census definitions.
 - **Decline of Southern Identity:** Researchers question its persistence amid economic integration, population growth, and diversity.
 - **Political Realignment:** Causes of the shift from Democratic to Republican dominance are analyzed, considering race, economic conservatism, and the religious right.
+
+Source: adapted from "Southern United States" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Southern_United_States

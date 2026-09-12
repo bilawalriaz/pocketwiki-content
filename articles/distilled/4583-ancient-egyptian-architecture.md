@@ -51,3 +51,5 @@ After Roman conquest, some temples were repurposed (e.g., Luxor Temple became a 
 - The exact purpose and symbolism of the Great Sphinx's face (possibly Khafre) are debated.
 - The precise methods for aligning temples with astronomical events are studied through archaeoastronomy.
 - The social organization and labor force for building pyramids (paid laborers vs. slaves) is clarified by archaeological evidence but remains a point of public misconception.
+
+Source: adapted from "Ancient Egyptian architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Egyptian_architecture

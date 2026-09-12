@@ -54,3 +54,5 @@ Mehmed had at least eight consorts and four sons, including future sultan Bayezi
 - **Christian art collection**: Historians debate whether Mehmed's collection of Christian relics and art was for diplomatic bargaining or expressed sincere personal interest.
 - **Death cause**: Substantial circumstantial evidence suggests Mehmed was poisoned, possibly by his son Bayezid II, though this remains unproven.
 - **Troy visit**: The story of Mehmed visiting Troy to "avenge the Trojans" is considered fictitious by historians, with no Ottoman sources supporting it.
+
+Source: adapted from "Mehmed II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mehmed_II

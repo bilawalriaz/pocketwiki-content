@@ -45,3 +45,5 @@ The river's valley was a core area for the Neolithic Revolution and the rise of 
 - The exact area of the Euphrates drainage basin is debated, with estimates ranging from 233,000 to 766,000 km².
 - The impact of upstream dams on the ecologically fragile Mesopotamian Marshes in Iraq is a major environmental concern.
 - The effectiveness and fairness of international water-sharing agreements among Turkey, Syria, and Iraq remain contentious, especially amid climate change and regional instability.
+
+Source: adapted from "Euphrates" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Euphrates

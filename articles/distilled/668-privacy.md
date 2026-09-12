@@ -65,3 +65,5 @@ David Attenborough noted gorillas “value privacy,” with overcrowding causing
 6. **Animal Privacy**: Do non-human animals possess privacy rights warranting legal recognition?  
 7. **User Agency**: Can design reforms address the privacy paradox, or do structural inequalities persist?  
 8. **Aadhaar Project**: India’s biometric ID system for 1.2 billion citizens raises questions about state surveillance and data security.
+
+Source: adapted from "Privacy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Privacy

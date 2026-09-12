@@ -55,3 +55,5 @@ Jordan became the majority owner of the Charlotte Bobcats (now Hornets) in 2010,
 - **Greatest of All Time (GOAT):** While Jordan is widely considered the greatest basketball player, debates persist with other legends like LeBron James, Kareem Abdul-Jabbar, and Bill Russell.
 - **First Retirement:** Persistent rumors suggested Jordan's first retirement in 1993 was a secret suspension by the NBA for gambling, a claim denied by then-commissioner David Stern and Jordan himself.
 - **Executive Record:** Jordan's tenure as an NBA executive, particularly with the Charlotte Bobcats/Hornets, is viewed as mixed, highlighted by the team's historically poor 7–59 record in the 2011–12 season.
+
+Source: adapted from "Michael Jordan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Michael_Jordan

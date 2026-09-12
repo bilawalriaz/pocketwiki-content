@@ -41,3 +41,5 @@ The form evolved from pure improvisation to more structured acts by the 17th cen
 - The precise origins of commedia dell'arte are debated, with proposed links to Roman Atellan Farces, medieval jongleurs, and Carnival traditions.
 - The exact point at which characters began wearing masks is uncertain, though it is strongly associated with Carnival conventions.
 - Scholars debate the extent to which the form was purely improvised versus following structured performance practices, especially as it evolved.
+
+Source: adapted from "Commedia dell'arte" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Commedia_dell%27arte

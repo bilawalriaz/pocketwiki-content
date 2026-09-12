@@ -48,3 +48,5 @@ Barcelona's culture is deeply Catalan, with the language used in government and 
 - **Cerdà's Vision**: The extent to which Ildefons Cerdà's original egalitarian and hygienic plan for the Eixample was realized versus altered by private development and city council decisions is a point of historical analysis.
 - **Overtourism Impact**: The economic benefits of tourism versus its social costs, including housing affordability, resident displacement, and cultural identity, is an ongoing debate, highlighted by protests in 2017 and 2024.
 - **Independence Movement**: The 2017 independence referendum and its aftermath, including the Spanish constitutional crisis, reflect unresolved political tensions regarding Catalonia's status within Spain.
+
+Source: adapted from "Barcelona" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Barcelona

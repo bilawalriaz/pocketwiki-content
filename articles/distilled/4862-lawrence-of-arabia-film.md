@@ -41,3 +41,5 @@ Upon release, the film was a critical and commercial success, praised for its sp
 - **Historical Liberties**: Scholars question whether the film's dramatic license—such as conflating events, inventing characters, and altering timelines—unfairly distorts the historical record of the Arab Revolt and Lawrence's role.
 - **The Deraa Incident**: The film's depiction of Lawrence's torture and possible rape at Deraa is a point of contention; some biographers accept Lawrence's account, while others argue contemporary evidence suggests the event did not happen as described.
 - **Representation of Arabs**: The film has been critiqued for its "white saviour" narrative and for portraying the Arab forces primarily as Bedouin irregulars, omitting the regular Arab Army.
+
+Source: adapted from "Lawrence of Arabia (film)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lawrence_of_Arabia_%28film%29

@@ -46,3 +46,5 @@ The economy is service-oriented, dominated by government and international insti
 - The city's lack of official city rights for most of its history, despite being the de facto capital, is a unique administrative anomaly.
 - The 1945 bombing of the Bezuidenhout quarter by Allied forces, which caused significant civilian casualties, remains a tragic historical event.
 - The socioeconomic divide between different districts of the city, reflected in local accents and demographics, is a persistent social issue.
+
+Source: adapted from "The Hague" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_Hague

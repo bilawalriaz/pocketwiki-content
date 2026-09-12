@@ -51,3 +51,5 @@ The city is home to the University of Nouakchott Al Aasriya (opened 1981) and ot
 - **Population Estimates**: Official census figures (e.g., 134,000 in 1977, 393,325 in 1988) are considered probable undercounts due to the presence of a nomadic population and rapid, unplanned growth.
 - **Slum Resettlement Success**: While the World Bank reported substantial success in improving services for over 181,000 people, initial concerns from aid agencies questioned whether necessary infrastructure could be put in place in receiving neighborhoods.
 - **Climate Vulnerability**: The city's low-lying areas and threat from advancing sand dunes present ongoing environmental challenges, exacerbated by climate change projections.
+
+Source: adapted from "Nouakchott" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nouakchott

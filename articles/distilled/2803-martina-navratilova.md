@@ -46,3 +46,5 @@ Navratilova became a U.S. citizen in 1981 and reacquired Czech citizenship in 20
 - Whether Navratilova's 1984 holding of all four major titles constitutes a true "Grand Slam," as the titles were not won in a single calendar year.
 - The appropriate criteria for transgender women's inclusion in elite women's sports, a debate in which Navratilova has been a prominent and controversial participant.
 - The statistical impact of the few singles matches she played in her forties on her overall career records.
+
+Source: adapted from "Martina Navratilova" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Martina_Navratilova

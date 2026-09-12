@@ -57,3 +57,5 @@ Velázquez’s reputation dipped in the 18th century under foreign court painter
 - **Attributions**: Several works have been reattributed to Velázquez in the 21st century (Metropolitan *Portrait of a Man*, Yale *Virgin Mary*, UK private portrait), but scholarly consensus varies; the Prado often reserves judgment.
 - **Juan de Pareja’s role**: Pareja was enslaved, trained by Velázquez, freed in 1650, and became a painter; the dynamics of their relationship and Pareja’s contribution to the studio are inferred from limited records.
 - **Lost works**: Key paintings—the 1623 Philip IV portrait, the 1627 Expulsion of the Moors, the 1636 equestrian Philip used for the Tacca statue—are destroyed or lost, complicating stylistic chronology.
+
+Source: adapted from "Diego Velázquez" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez

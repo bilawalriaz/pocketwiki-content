@@ -45,3 +45,5 @@ Jericho was part of the Ottoman Empire until World War I, after which it came un
 *   **Population Estimates**: The number of inhabitants during the PPNA period is uncertain, with estimates ranging from 200–300 to 2,000–3,000.
 *   **Historicity of the Biblical Battle of Jericho**: The biblical account of Joshua's conquest is not generally accepted by scholars as historical fact. Archaeologist Lorenzo Nigro suggests the narrative may have developed from local memories of earlier destructions.
 *   **Date of the Middle Bronze Age Destruction**: The calibrated carbon date for the destruction of the Middle Bronze Age city (City-IV) is c. 1617–1530 BCE, which aligns with a stratigraphical date of c. 1550 BCE.
+
+Source: adapted from "Jericho" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jericho

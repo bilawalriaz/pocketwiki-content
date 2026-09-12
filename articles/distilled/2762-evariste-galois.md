@@ -43,3 +43,5 @@ Galois's core achievement was **Galois theory**, which links the solvability of 
 - The exact reasons for Galois's repeated failures at the École Polytechnique entrance exam are unclear, with accounts differing on whether it was due to his behavior, the examiners, or both.
 - The true motive and identity of Galois's duel opponent remain obscure and debated, with conflicting historical accounts.
 - The decade-long delay (1832–1842) between Galois's death and Liouville's study of his papers is unexplained; it may have been influenced by the political climate following the June Rebellion of 1832.
+
+Source: adapted from "Évariste Galois" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C3%89variste_Galois

@@ -42,3 +42,5 @@ Ismail cultivated a royal ideology that blended Shia Islamic and pre-Islamic Ira
 - The exact ethnic origin of the Safavid family is debated; while some describe them as "Turkamans of remote Kurdish descent," scholars agree the resulting empire was fundamentally Iranian.
 - The authenticity of the poems in Ismail's *divan* is questioned, as the collection was compiled after his death and some scholars argue certain works may be by other poets.
 - The extent to which Ismail's self-identification as a divine figure was a sincere belief versus a political tool to ensure follower loyalty remains a point of historical analysis.
+
+Source: adapted from "Ismail I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ismail_I

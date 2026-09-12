@@ -58,3 +58,5 @@ France supported the American Revolution, then overthrew its own monarchy in 178
 - **Property vs. Personhood**: In the US, whether liberty primarily protects property rights (slave owners' argument, libertarian economics) or bodily autonomy and intimate association (*Griswold*, modern liberalism).
 - **Material Preconditions**: Whether socialism correctly identifies that formal legal liberty is meaningless without the economic means to exercise it, or whether state provision of those means inevitably violates negative liberty.
 - **Scope of Coercion**: Whether the libertarian NAP correctly identifies all taxation and regulation as aggression, or whether democratic law-making constitutes the "consent" Locke required.
+
+Source: adapted from "Liberty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liberty

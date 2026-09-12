@@ -77,3 +77,5 @@ Robotics draws professionals from mechanical engineering, computer science, and 
 - **Ethical AI Integration**: Can emotionally expressive robots foster trust without misleading users about their sentience?  
 - **Open Architecture Adoption**: Should proprietary robot platforms yield to standardized open-source ecosystems for broader innovation?  
 - **Regulatory Frameworks**: What legal structures govern robot behavior, liability, and data privacy in increasingly connected environments?
+
+Source: adapted from "Robotics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robotics

@@ -42,3 +42,5 @@ Ferdinand's death in 1516 left the succession to his daughter Joanna, who was de
 - The extent of Joanna's mental instability and whether her long confinement was politically motivated by her father and later her son.
 - The legal and practical nature of the union between Castile and Aragon during Ferdinand and Isabella's reign, given the kingdoms retained separate laws and institutions.
 - The significance of Ferdinand's purchase of the Byzantine imperial title from Andreas Palaiologos, which was never utilized.
+
+Source: adapted from "Ferdinand II of Aragon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ferdinand_II_of_Aragon

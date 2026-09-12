@@ -49,3 +49,5 @@ Since World War I, hereditary nobility has been largely abolished in the Western
 - The extent of the "Aristocratic Reaction" in pre-revolutionary France, where the old nobility allegedly pushed to restrict certain offices to those with proven long noble ancestry, is disputed by historians like William Doyle.
 - The precise population percentages of nobility in various historical European nations are debated, with figures for pre-revolutionary France, for example, being contested as overestimates.
 - The current status and social significance of traditional noble titles in post-colonial nations, such as the principalía in the Philippines or various chieftaincies in Africa, remain subjects of discussion regarding their role in modern governance and culture.
+
+Source: adapted from "Nobility" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nobility

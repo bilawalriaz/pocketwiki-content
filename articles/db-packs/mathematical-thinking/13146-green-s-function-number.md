@@ -16,3 +16,5 @@ A few worked cases show how the digits map to geometry. X11 names the one-dimens
 In cylindrical coordinates, R03 is the Green's function for a solid cylinder of radius a with Robin cooling on its curved surface and boundedness at the axis. R10 describes a large body containing a cylindrical void of radius a whose inner wall satisfies Dirichlet, with boundedness at large r. R01φ00 adds the azimuthal angle φ and uses 00 for the angle because the angle wraps around: periodic continuity, where G and ∂G/∂φ both match at φ = 0 and φ = 2π, is recorded as two type-0 boundaries rather than as its own digit. RS02 does the same job for a solid sphere of radius b with Neumann at the outer surface and boundedness at the center.
 
 The label points to a unique boundary value problem, and that uniqueness is what makes the system useful for indexing and retrieving Green's functions from large reference collections.
+
+Source: adapted from "Green's function number" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Green%27s_function_number

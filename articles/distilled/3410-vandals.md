@@ -44,3 +44,5 @@ After Genseric's death in 477, the kingdom weakened due to internal religious st
 - The precise location of the Silingi Vandals before their migration is uncertain, though they are linked to Silesia.
 - The scale of destruction during the Vandal sack of Rome in 455 is questioned by modern historians, who note the Vandals may have been more systematic than purely wanton.
 - The degree to which Vandal rule disrupted or continued Roman economic and cultural life in North Africa is debated, with archaeological evidence suggesting some continuity.
+
+Source: adapted from "Vandals" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vandals

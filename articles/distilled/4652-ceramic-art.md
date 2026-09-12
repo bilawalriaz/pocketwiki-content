@@ -43,3 +43,5 @@ Ceramic art has a long, independent history across the globe. The oldest vessels
 - The precise purpose and cultural significance of early figurines, such as the Venus of Dolní Věstonice and Nok figures, remain unclear.
 - The exact date and location of the invention of true porcelain in China is debated, with archaeological finds continually pushing dates earlier.
 - The term "porcelain" lacks a universal definition and has been applied inconsistently to various materials.
+
+Source: adapted from "Ceramic art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ceramic_art

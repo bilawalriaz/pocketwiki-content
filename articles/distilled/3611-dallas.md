@@ -55,3 +55,5 @@ Dallas is a major transportation hub. Dallas Fort Worth International Airport is
 - The origin of the city's name is disputed. The official marker cites Vice President George M. Dallas, but other theories point to his brother or a village in Scotland.
 - The city's political alignment is in flux, highlighted by the 2023 party switch of its mayor, despite consistent Democratic voting in major elections.
 - The economic impact of the 2014 oil price drop was mitigated by Dallas's diversified economy, but the long-term effects of such volatility on the region are a subject of ongoing analysis.
+
+Source: adapted from "Dallas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dallas

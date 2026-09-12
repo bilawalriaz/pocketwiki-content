@@ -100,3 +100,5 @@ Symptoms relatively stable; ~90% of children diagnosed <6 retain diagnosis at 1-
 *   **Etiological Heterogeneity:** Whether "autism" represents a single natural category or a final common pathway for many distinct genetic/environmental etiologies (the "fractionable autism triad" hypothesis).
 *   **Adult Outcomes:** Paucity of longitudinal data on aging, late-diagnosed adults, and efficacy of adult-specific interventions.
 *   **Environmental Risk:** Which specific prenatal/perinatal environmental factors (beyond valproate, infection, pollution) have causal roles, and their interaction with genetic susceptibility.
+
+Source: adapted from "Autism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Autism

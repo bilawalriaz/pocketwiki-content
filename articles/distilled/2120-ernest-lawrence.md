@@ -46,3 +46,5 @@ After the war, Lawrence became a forceful advocate for "Big Science," which requ
 - **Efficiency vs. Necessity**: The electromagnetic separation process at Oak Ridge was acknowledged to be inefficient and costly compared to other methods, but was chosen for its lower technical risk and ability to be built in stages.
 - **Political Tensions**: Lawrence's laboratory was embroiled in post-war political tensions, including loyalty oath campaigns and security investigations of staff like Robert Oppenheimer, which created ill-feeling and damaged collaborations.
 - **Legacy of Livermore**: Lawrence's widow later petitioned to remove his name from the Livermore lab due to its focus on nuclear weapons, highlighting an ongoing debate about the ethical legacy of his work.
+
+Source: adapted from "Ernest Lawrence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ernest_Lawrence

@@ -41,3 +41,5 @@ Babylonian culture was a continuation of earlier Sumero-Akkadian traditions. The
 - The precise chronology of the early second millennium BC is debated, with the date of the Hittite sack of Babylon (1595 BC in the middle chronology) varying by over 200 years across different chronological systems.
 - The ethnic and linguistic affiliation of the Kassites remains unclear due to a scarcity of texts in their language.
 - The extent to which Babylonian philosophy influenced early Greek philosophy, such as the works of Thales and Plato, is a subject of scholarly discussion.
+
+Source: adapted from "Babylonia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Babylonia

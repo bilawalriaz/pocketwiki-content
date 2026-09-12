@@ -19,3 +19,5 @@ Outside emergency poisoning, activated charcoal is sold as tablets or capsules f
 ## History
 
 Charcoal has been used medicinally for millennia. Egyptians applied it to wounds around 1500 BC to absorb odours, and Phoenicians stored drinking water in charred barrels by about 400 BC. The activated form familiar today was developed in the 18th century during sugar refining, where it removed coloured impurities from raw syrup. Medical use began in the early 19th century. A frequently cited demonstration came in 1835, when strychnine mixed with activated charcoal produced no signs of poisoning in the test subject, providing early experimental evidence for the adsorption mechanism.
+
+Source: adapted from "Activated charcoal (medication)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Activated_charcoal_%28medication%29

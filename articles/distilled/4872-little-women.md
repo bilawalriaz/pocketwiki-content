@@ -49,3 +49,5 @@ The characters are based on Alcott and her sisters: Anna was Meg, Elizabeth (who
 *   **Feminist Interpretation:** Scholars debate whether the novel's ending, with Jo marrying the older Professor Bhaer, subverts or reinforces traditional gender roles. Some see it as a pragmatic compromise, while others view it as a retreat from Jo's earlier independence.
 *   **Literary Legacy:** There is discussion about whether *Little Women* initiated a "downward spiral" in the radical power of women's fiction by idealizing domesticity, or whether it successfully expanded the possibilities for female characters within that framework.
 *   **Character Agency:** Critics analyze whether the novel prioritizes Jo's unconventional path or equally validates the life choices of all four sisters, arguing that reducing it to Jo's story overlooks its broader celebration of female agency in various forms.
+
+Source: adapted from "Little Women" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Little_Women

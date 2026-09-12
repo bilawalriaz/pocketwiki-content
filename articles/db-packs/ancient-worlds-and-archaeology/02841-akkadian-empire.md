@@ -24,3 +24,5 @@ Akkadian government set a classical standard for Mesopotamian states, with the k
 
 ## Collapse
 Internal instability followed Naram-Sin's death, with weak successors and frequent revolts. A prolonged drought tied to the 4.2-kiloyear climate event (c. 2200 BC) caused crop failures and the collapse of the rain-fed northern agricultural subsidies. This economic crisis, combined with pressure from Amorite groups and a Gutian invasion, produced a "Dark Age" that lasted until the Ur III dynasty. The cause of collapse remains debated, with some scholars emphasizing the drought and others citing internal political weakness, and the exact role of the climate event is still uncertain.
+
+Source: adapted from "Akkadian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Akkadian_Empire

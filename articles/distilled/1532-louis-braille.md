@@ -57,3 +57,5 @@ Blind pupils’ insistence forced the Institute to adopt braille in 1854. It spr
 - **International resistance**: North American institutions resisted braille until 1916, favoring competing tactile codes (e.g., New York Point, American Modified Braille); the "War of the Dots" is implied but not detailed in the source.
 - **Cause of death**: The source states a "persistent respiratory illness, long believed to be tuberculosis" but does not confirm a definitive diagnosis.
 - **Decapoint vs. braille**: Braille invested significant effort in decapoint (writing for sighted readers), yet it was his six-dot braille that endured; the source does not analyze why decapoint failed to catch on.
+
+Source: adapted from "Louis Braille" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_Braille

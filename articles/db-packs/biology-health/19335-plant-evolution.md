@@ -25,3 +25,5 @@ Chloroplasts retain several cyanobacterial features: a circular chromosome, prok
 During the colonisation of land, many novel transcription-factor families emerged in plants and were wired into the networks controlling multicellular development, reproduction, and organ growth, producing the more complex morphology of land plants.
 
 Flowers evolved as an adaptation that promotes cross-fertilisation. The benefit comes from genetic complementation: outcrossing masks deleterious recessive mutations in progeny, the same effect called hybrid vigour or heterosis. Once a lineage depends on cross-fertilisation, switching to inbreeding becomes disadvantageous because it unmasks those recessive mutations, producing inbreeding depression.
+
+Source: adapted from "Plant evolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_evolution

@@ -34,3 +34,5 @@ Kunlun is originally the name of a mythical Taoist paradise, believed to be the 
 
 ## Debates and Open Questions
 The exact geographical definition of the Kunlun Mountains varies. Older sources used "Kunlun" to refer to a broader mountain belt across central China, including the Altyn Tagh, Qilian, and Qin Mountains. Modern sources define it more narrowly as the range south of the Tarim Basin. There is also debate about its northwestern extent, with some authorities including peaks like Kongur Tagh and Muztagh Ata, though these are physically more linked to the Pamir group.
+
+Source: adapted from "Kunlun Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kunlun_Mountains

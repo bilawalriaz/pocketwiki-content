@@ -39,3 +39,5 @@ The highlands were inhabited before European contact, and the peak is known as N
 ## Debates and open questions
 - **Highest peak in Oceania**: Puncak Jaya is considered the highest peak in Oceania when New Guinea is included as part of the Australian continent biogeographically. However, its location in Indonesian-administered Western New Guinea also places it within Southeast Asia, where it is not the highest peak.
 - **Highest summit in 1936**: Due to extensive glacial retreat, the now-subsidiary peak of Ngga Pulu was estimated to be the highest summit in 1936, reaching over 4,900 m (16,100 ft).
+
+Source: adapted from "Puncak Jaya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Puncak_Jaya

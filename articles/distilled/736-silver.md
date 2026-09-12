@@ -95,3 +95,5 @@ Several areas remain debated:
 4. **Food additive safety**: The European Food Safety Authority (2025) reported insufficient data to conclude on the safety of E174 silver as a food additive.
 
 5. **Bacterial resistance**: While silver ions are effective antimicrobials, bacteria can develop resistance, raising concerns about long-term efficacy in medical applications.
+
+Source: adapted from "Silver" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Silver

@@ -54,3 +54,5 @@ In an unprecedented move, Mu'awiya nominated his son Yazid I as his successor, i
 - **Mu'awiya's Piety**: Some modern historians question his commitment to Islam based on inscriptions lacking explicit Islamic references, suggesting he may have adhered to a non-confessional monotheism.
 - **Hereditary Succession**: The move to nominate Yazid is debated as either a pragmatic necessity for stability or a corrupting innovation that turned the caliphate into a monarchy.
 - **Historical Sources**: The early Muslim histories, compiled in Abbasid Iraq, are largely anti-Umayyad, though they portray Mu'awiya in a relatively balanced manner compared to other Umayyads.
+
+Source: adapted from "Mu'awiya I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mu%27awiya_I

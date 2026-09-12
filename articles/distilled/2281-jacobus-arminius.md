@@ -43,3 +43,5 @@ Arminius taught a "prevenient" (or preventing) grace, conferred by the Holy Spir
 - The precise nature and extent of Arminius's early Calvinism and when his views began to diverge is a subject of scholarly study.
 - The political dimensions of the controversy, involving figures like Johan van Oldenbarnevelt, influenced its course and the state's attempts to mediate.
 - The relationship between Arminius's theology and later Wesleyan Arminianism is debated, as John Wesley developed his views independently but acknowledged general agreement.
+
+Source: adapted from "Jacobus Arminius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jacobus_Arminius

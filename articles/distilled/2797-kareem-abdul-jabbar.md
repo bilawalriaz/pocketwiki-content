@@ -46,3 +46,5 @@ After retiring, Abdul-Jabbar worked as an assistant coach and scout. He became a
 
 ## Debates and Open Questions
 The source material presents Abdul-Jabbar's standing in historical rankings as a subject of ongoing discussion. While ESPN ranked him as the greatest center of all time in 2007 and the second-best player ever (behind Michael Jordan) in 2016, other experts and legends like Pat Riley and Julius Erving have at times called him the greatest player of all time. The debate often centers on comparing his sustained excellence and statistical dominance to the peak performances of other legends like Michael Jordan and LeBron James.
+
+Source: adapted from "Kareem Abdul-Jabbar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kareem_Abdul-Jabbar

@@ -45,3 +45,5 @@ As of 2024, Kuwait has a population of 4.82 million, with citizens making up les
 - The mass revocation of citizenships since 2024 is described as one of the largest such policies since World War II, raising questions about its political and social motives.
 - Kuwait's chronic political deadlock between the appointed government and the elected parliament is seen as a key factor hampering economic reform and development.
 - The country's heavy dependence on oil revenues and the effectiveness of Kuwait Vision 2035 in achieving economic diversification are ongoing concerns.
+
+Source: adapted from "Kuwait" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kuwait

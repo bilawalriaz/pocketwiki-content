@@ -42,3 +42,5 @@ The empire's decline from the 14th century was multifaceted. Constant internal p
 - The identity of "Java" in Jayavarman II's independence declaration is debated: it could refer to the Indonesian island of Java, the kingdom of Champa, or another location.
 - The precise causes of the empire's collapse are contested, with theories ranging from ecological breakdown and infrastructural failure to religious conversion, internal strife, and foreign invasion.
 - The extent to which the shift to Theravada Buddhism directly caused a decline in royal authority and state capacity is a subject of scholarly discussion.
+
+Source: adapted from "Khmer Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khmer_Empire

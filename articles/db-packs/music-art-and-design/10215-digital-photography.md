@@ -31,3 +31,5 @@ The trade-offs are real. Digital cameras need electricity, so battery failure in
 ## Industry and social consequences
 
 The market shift was sudden. By 2003 digital cameras were outselling film cameras. Kodak announced in January 2004 that it would stop selling film cameras in the developed world; Nikon followed in January 2006 and Konica Minolta exited the camera business; Kodak filed for bankruptcy in 2012. Dedicated digital camera sales peaked in March 2012 at roughly 11 million units per month, fell to about 3 million by 2014, and have hovered near that level since, displaced by smartphones whose cameras improve with every product cycle. Because files can be copied losslessly and edited freely, the cultural assumption that a photograph is reliable evidence has weakened, and long-term preservation now requires active migration of files to current formats as hardware and decoding software become obsolete.
+
+Source: adapted from "Digital photography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Digital_photography

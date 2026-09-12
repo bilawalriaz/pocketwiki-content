@@ -39,3 +39,5 @@ Trần Hưng Đạo died of natural causes in 1300. He declined a lavish state b
 
 ## Debates and Open Questions
 The source text does not present specific scholarly debates, but it notes a discrepancy in historical records regarding the size of the third Mongol invasion force, with Mongol sources citing 120,000 troops and Vietnamese sources claiming 500,000.
+
+Source: adapted from "Trần Hưng Đạo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o

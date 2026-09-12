@@ -47,3 +47,5 @@ Florence served as Italy's capital from 1865 to 1871. During World War II, it su
 - The exact origin of the name "Firenze" is debated among linguists. One view holds it derives from the locative form of *Florentiae*, while another disputes this.
 - The precise population of Florence at its height around 1325 is uncertain, with estimates for the urban population ranging up to 120,000.
 - The role and legacy of Girolamo Savonarola remain complex; he is seen by some as a puritanical reformer and by others as a fanatical tyrant.
+
+Source: adapted from "Florence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Florence

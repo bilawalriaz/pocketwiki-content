@@ -47,3 +47,5 @@ Zaragoza is famous for the Basílica del Pilar, La Seo Cathedral, and the Aljafe
 
 ## Debates and Open Questions
 The source does not explicitly outline major scholarly debates, but it notes the contested nature of certain historical events, such as the precise role and fate of the Jewish community during the expulsion, and the complex political allegiances during the War of the Spanish Succession.
+
+Source: adapted from "Zaragoza" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zaragoza

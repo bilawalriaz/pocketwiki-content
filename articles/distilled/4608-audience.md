@@ -38,3 +38,5 @@ Some media simulates audience participation without direct viewer input. The tel
 
 ## Debates and Open questions
 The concept of a **universal audience** is criticized for being idealistic and potentially hindering effective persuasion with specific, real-world audiences. The rise of the internet has fundamentally challenged traditional audience models by enabling "citizen journalism" and blurring the line between creator and consumer, as noted by journalists Jeff Jarvis and Tom Curley. This shift raises ongoing questions about control, engagement, and the evolving role of the audience in the digital age.
+
+Source: adapted from "Audience" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Audience

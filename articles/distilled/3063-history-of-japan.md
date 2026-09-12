@@ -50,3 +50,5 @@ Rising militarism led to the invasion of Manchuria (1931) and a full-scale war w
 - The degree to which the spread of Yayoi culture was due to migration versus cultural diffusion is discussed.
 - Emperor Hirohito's personal responsibility for and role in Japan's wartime actions is a subject of historical controversy.
 - The adequacy and sincerity of Japan's official war apologies continue to cause diplomatic tensions with China and South Korea.
+
+Source: adapted from "History of Japan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Japan

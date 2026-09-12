@@ -39,3 +39,5 @@ Cavendish conducted extensive, mostly unpublished work on electricity and heat. 
 - **Priority of water synthesis**: Cavendish's 1783 experiment on burning hydrogen preceded James Watt's publication, leading to a dispute over who first discovered water's composition.
 - **Interpretation of the Cavendish experiment**: While often described as measuring G or Earth's mass, Cavendish's own goal was to determine Earth's density; the other values are derived from his data.
 - **Cavendish's personality**: Modern commentators, including Oliver Sacks, have speculated he may have been autistic based on his extreme shyness and social avoidance.
+
+Source: adapted from "Henry Cavendish" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henry_Cavendish

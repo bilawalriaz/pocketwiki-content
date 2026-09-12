@@ -30,3 +30,5 @@ The text reached print piecemeal: a first quarto (Q1) appeared in 1600, entered 
 ## Unresolved questions
 
 The exact year and any specific wedding occasion remain uncertain. Critics disagree about whether love in the play is fundamentally benign or dark and destructive. Theseus is read both as a figure of cold patriarchal reason and, in his speech on "the lunatic, the lover, and the poet," as a defender of imaginative vision. Oberon's desire for the Indian changeling boy has been read politically, as a power struggle, and psychologically, as a sublimated wish. The play's inconsistent internal chronology, since the new moon and the May rite cannot both fit a single four-day span, is variously treated as a flaw, a deliberate dream effect, or a reference to a "dark of the moon" interval.
+
+Source: adapted from "A Midsummer Night's Dream" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream

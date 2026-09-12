@@ -51,3 +51,5 @@ As of 2024, İzmir Province has a population of about 4.5 million. The city has 
 *   The precise origin of the city's name is uncertain, with competing theories linking it to an Amazon, the myrrh plant, or pre-Greek roots.
 *   The extent of Mycenaean influence at Old Smyrna during the late Bronze Age requires further archaeological investigation.
 *   The death toll and responsibility for the 1922 Great Fire of Smyrna remain subjects of historical dispute between Greek and Turkish narratives.
+
+Source: adapted from "İzmir" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C4%B0zmir

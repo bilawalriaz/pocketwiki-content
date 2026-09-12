@@ -47,3 +47,5 @@ Memphis lost its status permanently to Alexandria under Roman rule. The rise of 
 - The exact location of the Temple of Apis within Memphis has not been definitively found, though a mortuary chamber for embalming the bulls was discovered.
 - The precise location of the larger Temple of Hathor, believed to exist in Memphis, remains undiscovered.
 - The original appearance and full layout of the Great Temple of Ptah are still unclear, as only its perimeter gates and some structures have been excavated.
+
+Source: adapted from "Memphis, Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Memphis%2C_Egypt

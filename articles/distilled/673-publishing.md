@@ -45,3 +45,5 @@ The book publishing landscape includes four major publisher types. **Mainstream 
 
 ## Debates and Open Questions
 The distinction between **hybrid publishing** and **vanity presses** remains contentious, as vanity presses often rebrand as hybrids to avoid negative associations. The **Society of Authors** and the **Writers' Guild of Great Britain** have called for reform of the paid-for publishing sector. **Diversity** in the American publishing industry has been an issue for years, with the least amount of diversity in higher-level editorial positions. The **antitrust implications** of major publisher mergers continue to be debated, as evidenced by the blocked 2022 Penguin Random House–Simon & Schuster merger.
+
+Source: adapted from "Publishing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Publishing

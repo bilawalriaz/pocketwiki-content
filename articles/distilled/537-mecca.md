@@ -83,3 +83,5 @@ Culture shaped by global pilgrim influx; most diverse city in Muslim world. Spor
 *   **Early population:** Estimates for Muhammad’s era range from ~550 (Robinson, genealogical) to 10,000 (traditional scholars).
 *   **Heritage destruction vs. capacity:** Saudi demolition of ~95% of historic buildings (post-1985) for hotels/infrastructure is contested by historians and heritage advocates.
 *   **Non-Muslim entry ban:** Saudi law prohibits entry; enforcement is described as loose (notable historical violations: Varthema 1503, Burton 1853).
+
+Source: adapted from "Mecca" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mecca

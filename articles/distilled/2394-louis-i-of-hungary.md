@@ -41,3 +41,5 @@ Louis was the only Hungarian monarch called "the Great." His reign saw significa
 - **Motivations for War:** Historians debate whether Louis's frequent wars were driven by realistic political goals or by his personal enjoyment of conflict.
 - **Succession in Poland:** The "pessimistic" historical tradition, from Jan of Czarnków, paints his rule in Poland as unstable and oppressive, while the "optimistic" view sees him as preserving Polish unity.
 - **Extent of Power:** The claim that his realm was an empire "washed by three seas" is contested, as Poland did not border the Baltic and his authority over Black Sea territories was uncertain.
+
+Source: adapted from "Louis I of Hungary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_I_of_Hungary

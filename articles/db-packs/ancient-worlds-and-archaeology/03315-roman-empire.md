@@ -45,3 +45,5 @@ Historians disagree on what ended the Western Empire. One view emphasises intern
 | 395 AD | Permanent division of East and West after Theodosius I's death. |
 | 476 AD | Deposition of Romulus Augustulus; traditional fall of the Western Empire. |
 | 1453 AD | Fall of Constantinople; end of the Eastern Roman (Byzantine) Empire. |
+
+Source: adapted from "Roman Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Roman_Empire

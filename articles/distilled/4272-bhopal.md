@@ -47,3 +47,5 @@ Bhopal is a major educational center, hosting numerous institutes of national im
 - The exact death toll of the 1984 Bhopal disaster remains disputed, with official figures challenged by higher independent estimates.
 - The long-term environmental contamination of the soil and groundwater near the former Union Carbide plant site is an ongoing challenge, with debates over responsibility for cleanup between Dow Chemical (which acquired Union Carbide) and government authorities.
 - The effectiveness and future of urban transport projects like the now-discontinued BRTS and the newly launched metro system are subjects of ongoing evaluation.
+
+Source: adapted from "Bhopal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bhopal

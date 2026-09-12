@@ -56,3 +56,5 @@ Since the 1990s, Australia has experienced uninterrupted economic growth, becomi
 - **Impact of Assimilation Policies**: The extent and legacy of policies of assimilation and the forced removal of Indigenous children remain deeply contested, with ongoing calls for truth-telling and reparations.
 - **Economic Recovery from the Great Depression**: The effectiveness of the Lyons government's policies in steering Australia's recovery from the Great Depression is debated, with some arguing recovery was due more to external factors.
 - **Role of the US Alliance**: The strategic implications and costs of Australia's close alliance with the United States, particularly in the context of rising tensions with China, continue to be a subject of political and public debate.
+
+Source: adapted from "History of Australia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Australia

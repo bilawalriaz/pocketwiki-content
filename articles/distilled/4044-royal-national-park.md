@@ -43,3 +43,5 @@ The park is heavily used for environmental education and has been burnt in bushf
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes the park's historical significance as the first national park in Australia and its role in protecting habitats (like ridgeland and littoral rainforest) that were largely destroyed elsewhere for development.
+
+Source: adapted from "Royal National Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Royal_National_Park

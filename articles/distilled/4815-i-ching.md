@@ -47,3 +47,5 @@ The I Ching became a foundational text across East Asia. In Korea, philosopher Y
 - **Hexagram Order**: The origin and significance of the King Wen sequence are uncertain. Alternative orders, like the Mawangdui arrangement, have been discovered.
 - **Interpretation**: The meaning of the cryptic line statements has been debated for centuries, with modern "modernist" scholars proposing readings that often differ from traditional interpretations.
 - **Role in Scientific Development**: There is debate over whether the I Ching's cosmological framework impeded or inspired scientific thought in China and the West.
+
+Source: adapted from "I Ching" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/I_Ching

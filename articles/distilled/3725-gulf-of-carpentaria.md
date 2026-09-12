@@ -41,3 +41,5 @@ Key industries include mining (zinc, lead, silver from the McArthur River and Ce
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates, but it presents key open questions about the Gulf's past and future. The existence of the submerged coral reef province points to a "debated" or earlier phase of reef growth under different climatic and sea-level conditions. The long-term impact of proposed industrial developments, like the major port at Karumba, on the Gulf's unique ecosystems remains an open question.
+
+Source: adapted from "Gulf of Carpentaria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_of_Carpentaria

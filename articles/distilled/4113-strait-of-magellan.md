@@ -37,3 +37,5 @@ The strait is approximately 570 km long and notoriously difficult to navigate du
 
 ## Debates and Open Questions
 The source notes speculation, based on a 1563 report, that there may have been earlier European contact with the strait before Magellan, but this is "generally discounted." The exact fate of the 16 men who disappeared from Pascual de Iriarte's 1676 expedition at Evangelistas Islets remains unknown, presumed to be from a shipwreck. The potential for new tourism industries, such as whale watching in the eastern strait, is noted as an emerging possibility.
+
+Source: adapted from "Strait of Magellan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Strait_of_Magellan

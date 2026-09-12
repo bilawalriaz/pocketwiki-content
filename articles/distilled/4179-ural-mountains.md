@@ -51,3 +51,5 @@ Intensive industrial development has caused significant pollution, most severely
 
 ## Debates and Open questions
 The exact etymology of the name "Ural" is debated, with theories pointing to Turkic, Ob-Ugric, or indigenous Mansi origins. The precise boundary between Europe and Asia along the Urals is a conventional, not a strict geographical, division. The long-term ecological impact of industrial contamination, particularly from Mayak, and the effectiveness of remediation efforts remain significant concerns.
+
+Source: adapted from "Ural Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ural_Mountains

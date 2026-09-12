@@ -75,3 +75,5 @@ Descartes shifted philosophy’s central question from "What is true?" (authorit
 *   **Conservation law priority**: Descartes conserved "quantity of motion" (size × speed) along straight lines. Leibniz later argued for *vis viva* (mass × velocity²); the modern momentum (mass × velocity) and energy concepts resolved the debate, but Descartes’s role as a precursor is debated.
 *   **Vacuum and vortices**: Descartes’s plenism and vortex cosmology were falsified by Newtonian gravity and experimental vacuum pumps (Torricelli, Pascal), yet his insistence on contact mechanics shaped early modern physics.
 *   **Faith vs. Reason**: Pascal’s charge of deism (God as mere "prime mover") versus Descartes’s claim of orthodoxy raises the question of whether his rationalist theology inadvertently secularized metaphysics.
+
+Source: adapted from "René Descartes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -44,3 +44,5 @@ Henry's authority was undermined by the rebellion of his son Conrad in 1093 and 
 *   The primary sources offer starkly contrasting portraits of Henry, depicting him either as a pious defender of the poor or a wicked tyrant who robbed churches and enslaved freemen.
 *   The authenticity of the accusations of sexual immorality and debauchery leveled against him by opponents is debated by historians, often seen as polemical propaganda.
 *   The motivations behind his son Conrad's rebellion in 1093 are unclear, with sources offering different explanations ranging from personal grievance to political maneuvering.
+
+Source: adapted from "Henry IV, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henry_IV%2C_Holy_Roman_Emperor

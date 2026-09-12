@@ -57,3 +57,5 @@ Lasers are classified by hazard level (Class 1–4). Even low-power visible lase
 - **Silicon lasers**: Integration with CMOS electronics remains challenging; hybrid and nanowire approaches are promising but not yet mainstream.  
 - **White lasers**: While demonstrated, practical deployment lags behind LEDs due to efficiency and stability issues.  
 - **Laser weapons**: Atmospheric distortion limits effectiveness; deployment remains experimental despite prototypes like LaWS and HELIOS.
+
+Source: adapted from "Laser" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Laser

@@ -56,3 +56,5 @@ Pollution has paralleled civilization since prehistoric fire use. The Industrial
 
 ## Debates and Open Questions  
 Debate persists over whether certain phenomena qualify as pollution. Some definitions exclude greenhouse gases or noise, while others incorporate broader energy forms like light or electromagnetic radiation. The classification of novel entities—especially synthetic chemicals like PFAS—as planetary boundaries remains evolving. Questions surround the feasibility of achieving zero pollution versus managing acceptable thresholds. Additionally, the balance between economic growth and environmental protection continues to shape policy discourse, particularly regarding developing nations’ right to industrialize sustainably.
+
+Source: adapted from "Pollution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pollution

@@ -44,3 +44,5 @@ By 1914, Art Nouveau was largely exhausted, criticized for its extravagance and 
 - The precise boundaries of Art Nouveau are debated, as it overlapped with and influenced contemporaneous movements like the Arts and Crafts movement, Symbolism, and the Vienna Secession, which had distinct characteristics.
 - The style's relationship to later modernism is complex; while it rejected historicism, its emphasis on ornament led to its dismissal by early 20th-century modernist critics who championed functionalism.
 - The extent to which Art Nouveau was a unified international movement versus a collection of parallel national styles remains a point of scholarly discussion.
+
+Source: adapted from "Art Nouveau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Art_Nouveau

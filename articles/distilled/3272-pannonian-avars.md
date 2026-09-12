@@ -46,3 +46,5 @@ The failed 626 siege of Constantinople marked a turning point. The khaganate fac
 - **Avar-Hungarian Continuity**: Historian Gyula László's theory posits that late Avars survived in large numbers and were assimilated by the arriving Magyars, influencing the Hungarian language. This is contested by mainstream scholarship.
 - **Late Avar Culture**: The cause of the "griffin and tendril" archaeological culture in the 8th century is debated—whether it represents new arrivals (e.g., Onogurs) or internal evolution.
 - **Assimilation**: The process and timeline of Avar disappearance are unclear. They likely merged with Slavic populations, but the extent of their survival into the Magyar conquest (c. 895) is uncertain.
+
+Source: adapted from "Pannonian Avars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pannonian_Avars

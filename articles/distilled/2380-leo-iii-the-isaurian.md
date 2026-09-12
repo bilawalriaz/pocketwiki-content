@@ -42,3 +42,5 @@ Scholars debate Leo's motivations. Some suggest the influence of aniconism from 
 - **Motivations for iconoclasm**: Scholars debate whether it was driven by Syrian aniconism, Islamic influence, a theological response to divine punishment (as per Auzépy), or was a more moderate policy than later sources claim.
 - **Scale of persecution**: Brubaker and Haldon argue against the traditional view of systematic imperial destruction of images under Leo, suggesting the "iconophile myth" was constructed later.
 - **Impact on Italy**: Leo's attempts to reassert imperial authority in Italy largely failed, and his policies weakened Byzantine control, contributing to the eventual separation of the Papacy from the Empire.
+
+Source: adapted from "Leo III the Isaurian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leo_III_the_Isaurian

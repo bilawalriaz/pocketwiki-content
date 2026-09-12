@@ -100,3 +100,5 @@ Lakes infill with sediment, becoming wetlands (swamp/marsh). Reeds accelerate cl
 - **Mars surface lakes**: Geologic evidence suggests ancient lakes, but only one subglacial lake is confirmed; extent and duration of past surface water debated.
 - **Aral Sea recovery**: Whether partial restoration is feasible given ongoing irrigation demands and climate trends remains contested.
 - **Permafrost-thaw lake loss**: Magnitude and rate of Arctic lake drainage from thawing permafrost are active research areas.
+
+Source: adapted from "Lake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake

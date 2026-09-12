@@ -77,3 +77,5 @@ While Verdi rejected philosophical music and criticized Wagner’s excesses, som
 ### Legacy Beyond Opera
 
 Verdi left no formal school or direct disciples, though Emanuele Muzio served as his amanuensis. His influence extended indirectly through verismo composers and later figures like Puccini. The enduring popularity of his works raises questions about their adaptability across cultures and eras—from modern dress productions to global cinema references.
+
+Source: adapted from "Giuseppe Verdi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Giuseppe_Verdi

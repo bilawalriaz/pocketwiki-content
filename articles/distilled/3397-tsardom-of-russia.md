@@ -52,3 +52,5 @@ Peter the Great (r. 1689-1725) radically modernized Russia, forcing Westernizati
 - The causes of Ivan IV's turn to terror during the *oprichnina* are debated: were they driven by policy, personal animosity, or mental instability?
 - The extent to which the Time of Troubles was a popular revolution versus a boyar power struggle remains a subject of historical interpretation.
 - The impact of Western influences via Ukraine on the Russian cultural synthesis and the causes of the Raskol continue to be analyzed.
+
+Source: adapted from "Tsardom of Russia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tsardom_of_Russia

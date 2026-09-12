@@ -48,3 +48,5 @@ The Cerrado is highly threatened, with over 37% of its area completely converted
 - **Role of private land:** Given that most remaining native vegetation is on private property, the effectiveness of the Forest Code and incentive programs like the Low-Carbon Agriculture (ABC) program in ensuring conservation is a critical question.
 - **Agricultural sustainability:** The long-term viability of the Cerrado's agricultural model is questioned, as deforestation can reduce regional rainfall and make farming less productive.
 - **Conservation priorities:** The floristic heterogeneity of the Cerrado complicates the selection of representative areas for conservation, leading to ongoing collaborative efforts to identify biodiversity hotspots.
+
+Source: adapted from "Cerrado" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cerrado

@@ -2,53 +2,65 @@
 
 ## What is licensed here
 
-All article text in this repository is adapted from **English Wikipedia** and
-is licensed **CC BY-SA 4.0** (`LICENSE`). Wikipedia text is written
-collaboratively by Wikipedia contributors and is itself CC BY-SA; the
-distillations under `articles/distilled/` and the curated selections under
-`articles/db-packs/` are adaptations of that text, so they carry the same
-license and the same attribution requirement.
+All article text in this repository is adapted from **English Wikipedia** and is
+licensed **CC BY-SA 4.0** (`LICENSE`). Wikipedia text is written collaboratively
+by Wikipedia contributors and is itself CC BY-SA. The distillations under
+`articles/distilled/` and the curated selections under `articles/db-packs/` are
+adaptations of that text, so they carry the same license and the same
+attribution requirement.
 
 `packs/catalog-source.json` is factual metadata about that text (pack ids,
-titles, descriptions, and article id lists) rather than an adaptation of it.
+names, descriptions, and article id lists) rather than an adaptation of it.
 
-## What the published packs carry today
+## How attribution is carried
 
-Each pack's entry in the published catalogue at `packs.educated.space/index.json`
-carries `"license": "CC BY-SA 4.0"`, written by
-`tools/build_pack_catalog.py` in the code repository. The device and the
-Android app both read that catalogue, so the license name travels with every
-pack a user installs. The same catalogue is embedded in the firmware from
+Two layers, because a pack is distributed as a single archive and read back one
+article at a time.
+
+**Per article.** Every article file ends with a footer written by
+`tools/article_text.py:attribution_footer` in the code repository:
+
+```
+Source: adapted from "<title>" on English Wikipedia, whose text is written by
+Wikipedia contributors, under CC BY-SA 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/): <article url>
+```
+
+That names the creator (Wikipedia contributors), states the license with its
+URI, and links the source article, which is what CC BY-SA 4.0 section 3(a) asks
+for. Because the footer travels inside the article, it survives extraction from
+the pack and renders wherever the article is read.
+
+**Per pack.** Each pack's entry in the published catalogue at
+`packs.educated.space/index.json` also carries `"license": "CC BY-SA 4.0"`,
+written by `tools/build_pack_catalog.py`. The device and the Android app both
+read that catalogue, and the same catalogue is embedded in the firmware from
 `android/app/src/main/assets/pack_catalog.json`.
 
-## Known gap: no per-article source link
+## Keeping it that way
 
-None of the 4075 article files embed a per-article
-source link or license notice. `tools/export_distilled.py` sets
-`ATTRIBUTION = ""` with the comment that article pages carry no per-article
-Source/Licence footer, and the checked-in corpus matches that. The promise in
-`tools/fetch_starter_pack.py`'s docstring — that every checked-in article keeps
-a source link and CC BY-SA notice — does not hold for the current files.
+`tools/article_text.py` is the single definition of a finalized article: no
+generator commentary, exactly one `h1` title, and the attribution footer. Every
+generator calls `finalize_article` before writing, so regenerated content cannot
+lose the footer. To check or repair the corpus:
 
-CC BY-SA 4.0 section 3(a) requires anyone sharing the material to identify the
-creator, keep a copyright notice, refer to the license, and, to the extent
-reasonably practicable, give a URI to the material. The pack-level
-`"license"` field covers the license reference and the packs name their source
-in the catalogue, but the source URI is missing, and it is cheap here: an
-article's `h1` title is its Wikipedia title, so
-`https://en.wikipedia.org/wiki/<title>` is derivable without any lookup.
+```sh
+python3 tools/finalize_articles.py --check    # CI: fail if any article drifts
+python3 tools/finalize_articles.py --apply    # rewrite drifted articles
+```
 
-Recommended fix, in order of preference:
+`tools/audit_meta_commentary.py` is the recall check for the generator-commentary
+rules: it asks a local model to quote any remaining non-article text, verifies
+each quote verbatim, and reports what the rules missed.
 
-1. Append a one-line attribution footer to every article, built from the `h1`
-   title: title, "adapted from Wikipedia", and the CC BY-SA 4.0 URI. Then
-   rebuild and republish the catalogue so pack bytes and versions match.
-2. Set `ATTRIBUTION` in `tools/export_distilled.py` to that same template so
-   regenerated content cannot lose the footer again.
+## History of the footer
 
-Either way the packs change bytes, so the pack versions in `packs/catalog-source.json` must
-be bumped and the catalogue republished to `packs.educated.space` before the
-next firmware release.
+The footer was added in a corpus-wide pass on 2026-09-12. Before that, no
+article carried per-article attribution, and `tools/export_distilled.py`
+explicitly set `ATTRIBUTION = ""` with the note that article pages carried no
+source footer. The same pass removed generator commentary from 11 articles and
+fixed `h1`-as-section-heading in 8 more. Pack bytes changed for every pack, so
+the pack versions were bumped and the catalogue must be republished.
 
 ## Pack inventory
 
@@ -56,41 +68,41 @@ next firmware release.
 
 | Pack directory | Articles | Size |
 | --- | --- | --- |
-| `ancient-worlds-and-archaeology` | 100 | 478 kB |
-| `arts-language-culture` | 100 | 516 kB |
-| `biology-health` | 100 | 545 kB |
-| `climate-and-the-living-planet` | 24 | 137 kB |
-| `cosmos-and-spaceflight` | 100 | 516 kB |
-| `creative-arts-and-world-languages` | 24 | 139 kB |
-| `earth-climate-environment` | 100 | 547 kB |
-| `engineering-everyday-systems` | 100 | 539 kB |
-| `essential-computing` | 100 | 530 kB |
-| `history-civilizations` | 100 | 540 kB |
-| `ideas-ethics-and-society` | 100 | 534 kB |
-| `inventors-and-everyday-engineering` | 24 | 133 kB |
-| `living-world` | 100 | 544 kB |
-| `machines-materials-and-infrastructure` | 100 | 524 kB |
-| `mathematical-thinking` | 100 | 509 kB |
-| `mind-and-behavior` | 100 | 538 kB |
-| `mind-ethics-and-meaning` | 24 | 145 kB |
-| `money-markets-and-work` | 100 | 516 kB |
-| `music-art-and-design` | 100 | 526 kB |
-| `natural-sciences` | 100 | 514 kB |
-| `oceans-weather-and-earth` | 100 | 497 kB |
-| `philosophy-religion-ethics` | 100 | 546 kB |
-| `society-government-economy` | 100 | 558 kB |
-| `space-and-the-cosmos` | 22 | 118 kB |
-| `story-language-and-media` | 100 | 516 kB |
-| `uk-curriculum` | 67 | 368 kB |
-| `world-history-turning-points` | 24 | 141 kB |
+| `ancient-worlds-and-archaeology` | 100 | 501 kB |
+| `arts-language-culture` | 100 | 540 kB |
+| `biology-health` | 100 | 568 kB |
+| `climate-and-the-living-planet` | 24 | 142 kB |
+| `cosmos-and-spaceflight` | 100 | 540 kB |
+| `creative-arts-and-world-languages` | 24 | 144 kB |
+| `earth-climate-environment` | 100 | 570 kB |
+| `engineering-everyday-systems` | 100 | 562 kB |
+| `essential-computing` | 100 | 555 kB |
+| `history-civilizations` | 100 | 563 kB |
+| `ideas-ethics-and-society` | 100 | 557 kB |
+| `inventors-and-everyday-engineering` | 24 | 138 kB |
+| `living-world` | 100 | 567 kB |
+| `machines-materials-and-infrastructure` | 100 | 547 kB |
+| `mathematical-thinking` | 100 | 533 kB |
+| `mind-and-behavior` | 100 | 562 kB |
+| `mind-ethics-and-meaning` | 24 | 151 kB |
+| `money-markets-and-work` | 100 | 539 kB |
+| `music-art-and-design` | 100 | 549 kB |
+| `natural-sciences` | 100 | 537 kB |
+| `oceans-weather-and-earth` | 100 | 520 kB |
+| `philosophy-religion-ethics` | 100 | 570 kB |
+| `society-government-economy` | 100 | 581 kB |
+| `space-and-the-cosmos` | 22 | 123 kB |
+| `story-language-and-media` | 100 | 540 kB |
+| `uk-curriculum` | 67 | 380 kB |
+| `world-history-turning-points` | 24 | 147 kB |
 
-`articles/distilled/` — 3948 articles, 27.7 MB.
+`articles/distilled/` — 3948 articles, 28.5 MB.
 `articles/starter/` — 100 articles, 0.1 MB.
 
 ## If you redistribute a pack
 
-Keep the pack's `"license"` field and the catalogue's attribution intact, keep
+Keep each article's source footer and the pack's `"license"` field intact, keep
 this repository's `LICENSE`, and make clear that the text is adapted from
 Wikipedia by Wikipedia contributors. If you modify the text, your version must
-stay under CC BY-SA 4.0 or a compatible license; you may not add restrictions
-on top.
+stay under CC BY-SA 4.0 or a compatible license, and you may not add
+restrictions on top.

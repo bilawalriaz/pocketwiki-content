@@ -69,3 +69,5 @@ Non-hereditary forms exist: **elective monarchies** (Cambodia, Malaysia, UAE, Pa
 - **Classification boundaries:** Samoa’s *matai*-based parliament and North Korea’s hereditary dictatorship blur the line between republic and monarchy. The source notes North Korea is *de facto* monarchic but *de jure* a republic; Samoa is constitutionally a parliamentary republic despite hereditary political elites.
 - **Future of semi-constitutional monarchies:** Whether states like Liechtenstein and Monaco will follow the European trend toward purely ceremonial monarchy or retain political powers remains open.
 - **Succession reform momentum:** Equal primogeniture has spread across Europe since 1980, but many Muslim-world and Asian monarchies retain male-preference or agnatic systems; pressure for further reform is unresolved.
+
+Source: adapted from "Monarchy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Monarchy

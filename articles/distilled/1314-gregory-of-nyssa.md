@@ -40,3 +40,5 @@ Raised in a persecuted Christian household, Gregory navigated doctrinal conflict
 
 ## Debates and Open Questions
 Scholars dispute the coherence of Gregory’s universalism, particularly passages implying eternal punishment for certain souls. His anthropological stance—rejecting preexistence yet embracing postmortem purification—raises questions about the scope of salvation. Additionally, his relationship with Neoplatonism remains contested: while sharing apophatic motifs, he explicitly critiques philosophical systems detached from Christian doctrine. Finally, the extent of his influence on later movements—from medieval mysticism to modern abolitionism—continues to evolve under interdisciplinary scrutiny.
+
+Source: adapted from "Gregory of Nyssa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gregory_of_Nyssa

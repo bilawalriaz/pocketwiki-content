@@ -48,3 +48,5 @@ Since leaving office, Obasanjo has remained influential in Nigerian and African 
 - **Economic Impact:** His economic reforms are contested. Supporters credit him with stabilizing the economy and securing debt relief, while critics argue his policies increased poverty and that corruption persisted.
 - **Human Rights Record:** His administrations were accused of human rights abuses, including the violent military response in Odi (1999) and Zaki-Biam (2001), and the suppression of protests.
 - **Third Term Agenda:** The extent of his personal involvement in the failed 2006 bid to remove presidential term limits remains a point of political contention, with Obasanjo denying direct responsibility.
+
+Source: adapted from "Olusegun Obasanjo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Olusegun_Obasanjo

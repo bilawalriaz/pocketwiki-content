@@ -39,3 +39,5 @@ Cloud accounting, introduced in 2011, goes further: financial data lives on a ce
 ## Data privacy and security
 
 Cloud data sits with an outside provider rather than on the user's own machine, which creates three recurring sources of distrust: unauthorized access, unpredictability in how the data is handled, and nonconformity with the user's expectations. Security controls in cloud and traditional IT environments are broadly similar, but the legal landscape differs because data may be stored across jurisdictions with different rules, leaving the user with less direct control than local storage provides.
+
+Source: adapted from "Accounting software" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Accounting_software

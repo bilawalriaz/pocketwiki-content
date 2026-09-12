@@ -25,3 +25,5 @@ In January 2013 the Philippines launched arbitration against China under UNCLOS.
 ## Why outside powers engage
 
 The United States runs "freedom of navigation" operations, sailing warships through claimed waters to contest what it calls excessive maritime claims, a routine that irritates Beijing and reassures some Southeast Asian capitals. Other non-claimants, including Australia, Japan, and India, have grown more vocal. China prefers bilateral talks, where its size gives leverage, while most ASEAN members prefer multilateral frameworks.
+
+Source: adapted from "South China Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/South_China_Sea

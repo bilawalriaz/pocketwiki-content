@@ -45,3 +45,5 @@ The final century of Goryeo was marked by internal strife and external threats. 
 - The nature of Goryeo's "tributary" relationships with Chinese dynasties is debated. Historian Hans Bielenstein argues these were largely diplomatic fictions, with Goryeo maintaining effective autonomy until the Mongol conquest.
 - The extent of Goryeo's control over the Nine Fortresses built against the Jurchens is uncertain; they were handed back in 1108, possibly due to the high cost of maintaining them against superior Jurchen cavalry.
 - The role of the Balhae refugees in shaping Goryeo's population and identity is a subject of scholarly interest, with speculation that they may have become demographically dominant in certain regions.
+
+Source: adapted from "Goryeo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Goryeo

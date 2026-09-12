@@ -48,3 +48,5 @@ Von Braun was a prolific popularizer of space travel, working with Walt Disney o
 - **Moral Responsibility**: Historians debate the extent of von Braun's knowledge of and complicity in the use of slave labor and the atrocities committed at the Mittelwerk factory. While he acknowledged awareness of poor conditions, accounts conflict on whether he protested or directly benefited from the system.
 - **Engineering Philosophy**: His conservative, safety-first approach is credited with the success of the Saturn V but is also cited as a reason the U.S. lost the early Space Race to the Soviet Union by delaying the first American crewed spaceflight.
 - **Legacy**: Von Braun is simultaneously celebrated as the "father of space travel" for his Apollo work and criticized for his membership in the Nazi Party and SS, leading to the renaming of institutions that once bore his name.
+
+Source: adapted from "Wernher von Braun" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wernher_von_Braun

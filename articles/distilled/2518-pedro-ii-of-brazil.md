@@ -46,3 +46,5 @@ Pedro II spent his final years in modest exile in Europe, dying in Paris in 1891
 - Historians debate the primary cause of the monarchy's fall, attributing it variously to Pedro II's personal weariness, the rise of republicanism among elites, or the military's growing political ambitions.
 - The degree to which Pedro II's support for abolition directly caused the loss of elite support for the monarchy is a subject of ongoing analysis.
 - Scholars assess whether the monarchy's stability was due to Pedro II's personal character or to the strength of Brazil's political institutions during his reign.
+
+Source: adapted from "Pedro II of Brazil" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pedro_II_of_Brazil

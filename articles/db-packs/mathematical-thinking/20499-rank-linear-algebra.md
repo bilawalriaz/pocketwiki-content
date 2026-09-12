@@ -50,3 +50,5 @@ The Rouché–Capelli theorem links rank to solving $Ax = b$. Comparing the rank
 ## Generalisations
 
 Over arbitrary rings the different definitions of rank can diverge or fail to exist. For tensors of order greater than two, tensor rank generalises the idea but is far harder to compute than matrix rank. A smooth map between manifolds has a rank equal to the linear rank of its derivative.
+
+Source: adapted from "Rank (linear algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rank_%28linear_algebra%29

@@ -85,3 +85,5 @@ Democratic theory assumes informed voters. **Gurevitch & Blumler** outline media
 5.  **Global Trajectory**: Is the post-2005 autocratization wave a temporary recession or a structural reversal of the third wave? Population-weighted decline is steeper than country-count averages.
 6.  **Scope of "The People"**: Franchise exclusions persist (non-citizens, under-18, felons in some jurisdictions); debates continue on lowering voting age to 16, non-resident voting, and cognitive capacity thresholds.
 7.  **Institutional Design**: Presidentialism vs. parliamentarism (gridlock vs. stability); majoritarian vs. consensus/consociational models (efficiency vs. inclusion); role of sortition vs. election.
+
+Source: adapted from "Democracy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Democracy

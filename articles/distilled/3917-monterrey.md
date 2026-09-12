@@ -61,3 +61,5 @@ Monterrey has hosted FIFA World Cup matches (1986, 2026) and is home to two majo
 - The source notes that the city's name's literal translation ("King Mount") is a folk etymology; it was actually named after the wife of the 5th Count of Monterrey.
 - The 2022 drought sparked controversy over local bottling companies continuing to use well water for export while the city faced severe water cuts.
 - The city has repeatedly sought to host major international sporting events like the Olympics but has been unsuccessful, with the Mexican Olympic Committee often choosing other cities like Guadalajara.
+
+Source: adapted from "Monterrey" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Monterrey

@@ -31,3 +31,5 @@ Indian astronomers used the gnomon (*shanku*) for cardinal directions and time, 
 ## Modern era
 
 The Madras Observatory (1786), the first modern Indian observatory, helped detect helium in the solar spectrum and evolved into the Kodaikanal Solar Observatory (1899) and the Indian Institute of Astrophysics (1971). The Ooty Radio Telescope (1970) led to the Giant Metrewave Radio Telescope. ISRO's AstroSat (2015) detected a gamma-ray burst in January 2017, and Chandrayaan-3 soft-landed near the lunar south pole on 23 August 2023.
+
+Source: adapted from "Indian astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indian_astronomy

@@ -44,3 +44,5 @@ Choral music's origins lie in ancient Greek drama and unison singing. Medieval m
 - **Rifkin Hypothesis**: A scholarly debate questions whether J.S. Bach's choral music was intended to be performed with one singer per part, rather than with larger choral forces.
 - **Male Participation**: Research continues to explore why male participation in school choirs is lower than female participation and what solutions might address this imbalance.
 - **Historical Performance Practice**: There is ongoing dispute over the role of instruments in Renaissance choral music and the extent of their use.
+
+Source: adapted from "Choir" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Choir

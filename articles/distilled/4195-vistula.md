@@ -44,3 +44,5 @@ The river's basin was home to Iron Age cultures like the Lusatian and Przeworsk.
 - **Slavic Settlement Patterns:** There is a debate over whether Slavs moved northward along the Vistula to settle the estuary in the 7th–8th centuries, or if the Veleti moved westward from the delta.
 - **Climate Change Impact:** Studies predict that most of the Vistula Delta region, which is below sea level, will likely be flooded by sea-level rise caused by climate change by 2100.
 - **Future Water Management:** The river now requires balancing the risks of both major floods and recurring droughts, with evidence of more frequent low-water periods and changes in seasonal flow patterns.
+
+Source: adapted from "Vistula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vistula

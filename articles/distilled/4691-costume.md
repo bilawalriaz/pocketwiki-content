@@ -42,3 +42,5 @@ Costume design is the art of envisioning clothing for a character or performer t
 
 ## Debates and Open Questions
 The source notes that Halloween's costuming tradition has been "repudiated by some Protestants" due to its mixed Catholic and pagan roots, though it is now widely celebrated as a secular tradition. The article also implies a ongoing evolution in the term's usage, as its general application for everyday clothing has been supplanted by other terms.
+
+Source: adapted from "Costume" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Costume

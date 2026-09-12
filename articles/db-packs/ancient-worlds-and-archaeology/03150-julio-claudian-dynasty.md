@@ -25,3 +25,5 @@ Nero took power at sixteen, guided early by his mother, the philosopher Seneca, 
 ## Survival of the bloodline
 
 The dynasty ended politically, but the family did not vanish. Through Augustus's granddaughter Julia the Younger, descendants reached Avidius Cassius, a Roman general briefly proclaimed emperor in AD 175. Tiberius's bloodline continued through his granddaughter Julia Livia and eventually connected to the family of the later Emperor Nerva, who ruled in AD 96–98. A century after Augustus the Julio-Claudians were still remembered as the founders of the imperial system that every subsequent dynasty inherited.
+
+Source: adapted from "Julio-Claudian dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Julio-Claudian_dynasty

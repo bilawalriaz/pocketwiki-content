@@ -58,3 +58,5 @@ Puritans banned Christmas and many forms of recreation, seeing them as impious. 
 - The Merton Thesis linking Puritanism to the rise of experimental science remains debated.
 - The extent to which Puritan political thought influenced the American Revolution versus classical republicanism is contested.
 - The nature of Puritan intolerance in New England versus their advocacy for religious liberty in England presents a historical paradox.
+
+Source: adapted from "Puritans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Puritans

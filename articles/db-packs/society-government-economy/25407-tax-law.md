@@ -15,3 +15,5 @@ Lower-income countries face a different mix of constraints. Most workers earn a 
 ## A competing proposal
 
 Some scholars argue that consumer law offers a more efficient route to large-scale redistribution than tax law, because it can pursue similar goals without fresh legislation and can sidestep some of the complexities that make tax reform difficult.
+
+Source: adapted from "Tax law" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tax_law

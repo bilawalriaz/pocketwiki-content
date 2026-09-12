@@ -47,3 +47,5 @@ The site was "rediscovered" by Europeans in the 16th century and popularized by 
 - **Residential Use**: Recent archaeological findings suggest the temple precinct may have housed a low-density population (3,000–4,300 people), challenging the view it was exclusively for the priestly elite.
 - **Construction Route**: The exact route used to transport sandstone from Mount Kulen is debated; a shorter 35 km canal discovered via satellite imagery is a leading theory.
 - **Tourism Impact**: There is ongoing controversy over balancing tourism revenue with the preservation of the site's structural integrity and the cultural values of local communities.
+
+Source: adapted from "Angkor Wat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Angkor_Wat

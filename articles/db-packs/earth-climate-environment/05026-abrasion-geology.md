@@ -23,3 +23,5 @@ The distinction matters for sediment budgets: abrasion removes material from a f
 ## Geological signatures
 
 Three landforms and one small-scale mark record abrasion in the field. Glaciated bedrock is smooth and polished, often scratched by parallel glacial striations that reveal the direction of ice flow. A U-shaped valley marks the cross-section of a former glacial channel. An abrasion platform on a coast is a near-horizontal bench cut into solid rock at the modern tide line. In deserts, ventifacts — rocks faceted and polished by windblown sand — are the small-scale equivalent. Each feature identifies the agent responsible and, from its orientation and extent, the path the agent travelled.
+
+Source: adapted from "Abrasion (geology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abrasion_%28geology%29

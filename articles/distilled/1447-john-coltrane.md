@@ -69,3 +69,5 @@ After his death, the Yardbird Temple in San Francisco (named for Charlie "Yardbi
 - **Critical reception of late work**: Critics and audiences were sharply divided in 1961–1967; *DownBeat*’s "anti-jazz" label and French booing contrast with later acclaim. The split between "accessible" studio albums and radical live performances remains a focus of scholarly analysis.
 - **Authorship of "Psalm" poem**: The *A Love Supreme* liner notes present the poem as Coltrane’s original text; its precise theological sources (Christian, Islamic, universalist) are debated.
 - **Impact of two-bass/two-drummer ensembles**: Coltrane’s rationale (rhythmic suspension, multi-directional time) is documented, but the musical efficacy and influence on later jazz rhythm sections remain discussed.
+
+Source: adapted from "John Coltrane" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Coltrane

@@ -40,3 +40,5 @@ Sanger supervised over ten PhD students, two of whom—Rodney Porter and Elizabe
 
 ## Debates and open questions
 The source does not detail ongoing scholarly debates about Sanger's work. It notes that his discovery of overlapping genes in bacteriophage φX174 was a surprise finding that challenged existing understanding of gene organization.
+
+Source: adapted from "Frederick Sanger" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frederick_Sanger

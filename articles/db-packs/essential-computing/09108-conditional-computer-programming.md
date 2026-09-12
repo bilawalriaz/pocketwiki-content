@@ -39,3 +39,5 @@ A conditional *expression* evaluates to a value rather than directing control fl
 ## History and style
 
 Early BASIC dialects restricted `if–then–else` bodies to `goto` statements, which produced hard-to-read "spaghetti code." Structured programming, based on the Algol family including Pascal and Modula-2, replaced this with block-structured control flow, and the structured `if–then–else` became a defining element of every widely used language from C and Java to JavaScript and Visual Basic.
+
+Source: adapted from "Conditional (computer programming)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Conditional_%28computer_programming%29

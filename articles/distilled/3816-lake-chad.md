@@ -42,3 +42,5 @@ The lake is an Important Bird Area and a rich fishery with 84 species, supportin
 - The primary causes of the lake's shrinkage are debated, with relative contributions of **climate change** (e.g., Sahel droughts, Atlantic multidecadal oscillation) versus **human water diversion** (irrigation projects) being a key question.
 - The feasibility and environmental impact of the proposed **inter-basin water transfer** from the Congo River are major subjects of debate.
 - The long-term resilience of the **Quaternary aquifer** and its capacity to buffer against future climate and usage pressures is an ongoing area of study.
+
+Source: adapted from "Lake Chad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Chad

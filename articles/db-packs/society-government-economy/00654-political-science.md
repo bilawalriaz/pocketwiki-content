@@ -33,3 +33,5 @@ Crisis anticipation uses statistical indicators such as increased variance and s
 Most U.S. institutions offer BA programs, with MA, PhD, and professional degrees in public policy and administration also common. Pi Sigma Alpha is the main national honor society for undergraduate and graduate students in the United States. Political science sits between the sciences and humanities in the academy, usually housed in arts and sciences colleges or its own departments.
 
 The field overlaps with sociology, anthropology, and public health, and sometimes inherits or develops contrasting methodologies from these neighbors.
+
+Source: adapted from "Political science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Political_science

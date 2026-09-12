@@ -37,3 +37,5 @@ The military was a gunpowder army. Babur's artillery won Panipat; Akbar's engine
 ## Open questions
 
 Two unresolved debates shape any picture of the empire. First, why did it fall: internal causes, including the **jagirdari crisis** (a shortage of revenue assignments that pitted officials against each other), succession wars, and Aurangzeb's religious and Deccan policies, weighed against external shocks such as Maratha expansion, Nader Shah and the East India Company. Second, the post-1707 emperor's status: successor states still acknowledged him ceremonially, which is why the British kept a pensioner Mughal on the throne until 1857 rather than declaring their own rule openly.
+
+Source: adapted from "Mughal Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mughal_Empire

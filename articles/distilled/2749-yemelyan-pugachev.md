@@ -37,3 +37,5 @@ The rebellion's horrors caused Catherine the Great to abandon plans for emancipa
 
 ## Debates and Open Questions
 The source material does not present specific scholarly debates, but it notes that the story of Pugachev's strong physical resemblance to Peter III originates from a later legend. The rebellion's long-term impact is clear, but its immediate success was due to a combination of genuine popular grievances and Pugachev's effective use of the powerful "pretender phenomenon" in Russian politics.
+
+Source: adapted from "Yemelyan Pugachev" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yemelyan_Pugachev

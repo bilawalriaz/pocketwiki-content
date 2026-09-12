@@ -41,3 +41,5 @@ The U.S. controlled the canal and the surrounding Panama Canal Zone until the To
 *   **Geopolitical Sovereignty:** The canal's history is marked by foreign control and intervention. Recent comments by U.S. political figures suggesting a reassertion of control have been firmly rejected by Panama, reaffirming the canal as Panamanian "inalienable patrimony."
 *   **Environmental Impact:** The canal's construction and operation have caused deforestation, facilitated the spread of invasive species between oceans, and contributed to water and air pollution.
 *   **Competition:** The canal faces potential competition from alternative routes, including the Suez Canal, the proposed Nicaragua Canal (now largely defunct), and the Interoceanic Corridor of the Isthmus of Tehuantepec in Mexico.
+
+Source: adapted from "Panama Canal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Panama_Canal

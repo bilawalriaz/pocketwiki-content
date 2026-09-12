@@ -41,3 +41,5 @@ In stationary phase, E. coli downregulates translation. RMF (ribosome modulation
 ## Antibiotics
 
 Many antibiotics act on bacterial translation in ways that spare eukaryotic ribosomes, exploiting structural differences between the two kinds of ribosome.
+
+Source: adapted from "Bacterial translation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bacterial_translation

@@ -45,3 +45,5 @@ The sultanates fostered a vibrant Persianate culture. They contributed to the de
 
 ## Debates and Open Questions
 The precise ethnic origins of the founders of some sultanates, particularly Bijapur, are debated, with sources suggesting they may have been Georgian slaves or of Persian/Turkmen origin. The Brahmin lineage claimed for the founder of Ahmadnagar is also noted as possibly being a genealogical topos rather than historical fact.
+
+Source: adapted from "Deccan sultanates" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Deccan_sultanates

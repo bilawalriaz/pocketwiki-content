@@ -49,3 +49,5 @@ The indigenous population are the Sahrawis, a nomadic, Hassaniya-speaking people
 - **Sovereignty vs. Self-Determination**: Morocco insists on its "inalienable right" to the territory and offers only autonomy, while the Polisario Front and Algeria demand a referendum with independence as an option.
 - **Resource Exploitation**: The legality of Morocco's exploitation of Western Sahara's natural resources (phosphates, fisheries) is contested under international law, with courts and UN opinions stating it requires the consent of the Sahrawi people.
 - **Role of Algeria**: Morocco views the Polisario as an Algerian proxy, while Algeria maintains it is merely a host for refugees and supports a UN-led solution.
+
+Source: adapted from "Western Sahara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_Sahara

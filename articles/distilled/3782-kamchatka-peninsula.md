@@ -40,3 +40,5 @@ The variable climate supports diverse zones from tundra to taiga forests. The pe
 
 ## Debates and Open Questions
 The source does not explicitly detail ongoing scholarly debates, but it notes the historical significance of the 1737 and 1952 megathrust earthquakes and the ongoing ecological challenge of protecting salmon stocks from poaching and global declines.
+
+Source: adapted from "Kamchatka Peninsula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kamchatka_Peninsula

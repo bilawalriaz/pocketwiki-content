@@ -81,3 +81,5 @@ Anisogamy is the root of all sex differences (Dawkins).
 - **Maintenance of sex**: While recombinational repair and mutation masking explain meiosis/outcrossing, the long-term advantage of genetic variation vs. twofold cost of males remains a central evolutionary puzzle.
 - **Sex-determination diversity**: Why such varied systems (XY, ZW, XO, TSD, haplodiploidy) evolved repeatedly; what selective pressures drive transitions between them.
 - **Intersex alignment**: In species with genetic sex determination, the frequency and fitness consequences of mismatches between genetic, gonadal, gametic, and phenotypic sex layers are incompletely quantified.
+
+Source: adapted from "Biological sex" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_sex

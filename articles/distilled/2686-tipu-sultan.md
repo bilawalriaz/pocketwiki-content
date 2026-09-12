@@ -43,3 +43,5 @@ Tipu Sultan's religious legacy is highly debated. He was a devout Muslim who mad
 - **Scale of Persecution**: The extent and systematic nature of events like the deportations in Coorg or the killings in Melkote are contested, with scholars like Mohibbul Hasan questioning the reported numbers.
 - **Role of Treachery**: The fall of Seringapatna in 1799 is partly attributed to betrayal by Tipu's own ministers. The identities and motivations of these figures (e.g., Mir Sadiq) are subjects of historical inquiry.
 - **Economic Assessment**: While his reign saw economic peak, the long-term impact of his policies, including heavy taxation and military expenditure, on Mysore's society is analyzed by economic historians.
+
+Source: adapted from "Tipu Sultan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tipu_Sultan

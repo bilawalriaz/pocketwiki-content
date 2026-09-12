@@ -44,3 +44,5 @@ Under the Sasanians, Ctesiphon's population was ethnically mixed (Arameans, Pers
 ## Debates and Open Questions
 - The exact reason for the Parthian capital's westward relocation from earlier sites like Hecatompylos is debated, with proximity to Scythian incursions being a proposed factor.
 - Whether the Roman general Galerius captured Ctesiphon in the early 3rd century is not explicitly stated in sources and remains a matter of scholarly debate.
+
+Source: adapted from "Ctesiphon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ctesiphon

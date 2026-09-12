@@ -47,3 +47,5 @@ The city is located on the west bank of the Guayas River, about 60 km from the G
 ## Debates and Open Questions
 - The origin of the name "Guayaquil" is debated, with theories ranging from a romantic legend about a leader and his wife to historical references to a pre-Hispanic ruler named Guayaquile.
 - The relative importance of Guayaquil versus Valdivia (now in Chile) as the chief Spanish shipyard in the Pacific was noted by some contemporary navigators.
+
+Source: adapted from "Guayaquil" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guayaquil

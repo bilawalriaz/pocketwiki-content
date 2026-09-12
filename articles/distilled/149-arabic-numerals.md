@@ -69,3 +69,5 @@ The numerals are encoded in virtually all character sets, including ASCII, Unico
 - The popular myth that Arabic numeral symbols were designed to indicate their numeric value through the number of angles they contain has no contemporary evidence and is difficult to reconcile with digits past 4.
 - The exact timeline and mechanisms of transmission from India through the Arabic world to Europe remain subjects of scholarly discussion, as evidenced by sources like Kunitzsch's "The Transmission of Hindu–Arabic Numerals Reconsidered."
 - The relationship between Shang dynasty Chinese numerals and Indian Brahmi numerals—including whether similarity implies direct influence—is noted but not resolved in the source.
+
+Source: adapted from "Arabic numerals" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabic_numerals

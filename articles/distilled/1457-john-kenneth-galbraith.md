@@ -73,3 +73,5 @@ Galbraith’s legacy centers on corporate power’s erosion of consumer sovereig
 - **Vietnam "what-ifs":** Whether the Maneli affair or Galbraith’s 1965–66 withdrawal proposals represented viable missed opportunities for peace remains contested by diplomatic historians.
 - **Academic standing vs. public influence:** Galbraith’s exclusion from mainstream theoretical economics (per Krugman) versus his role in shaping 1960s policy discourse (War on Poverty, consumer protection) illustrates a persistent tension between scholarly rigor and public intellectual impact.
 - **China assessments:** His 1972 praise for China’s economic system and medical care is debated in light of subsequent revelations about Cultural Revolution-era data and later market reforms.
+
+Source: adapted from "John Kenneth Galbraith" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Kenneth_Galbraith

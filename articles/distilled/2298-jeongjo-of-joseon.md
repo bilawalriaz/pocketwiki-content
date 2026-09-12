@@ -44,3 +44,5 @@ In his final years, Jeongjo arranged the marriage of his heir, Sunjo, to a daugh
 - The exact cause of Jeongjo's sudden death in 1800 remains uncertain and is the subject of speculation.
 - The long-term impact of his appointment of Hong Guk-yeong is debated, as it both strengthened royal power and set a precedent for influence by close retainers.
 - Scholars debate whether his final marriage arrangement for his heir was a strategic error that directly enabled the subsequent Sedo politics.
+
+Source: adapted from "Jeongjo of Joseon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jeongjo_of_Joseon

@@ -34,3 +34,5 @@ CAE has a strong reputation as a verification, troubleshooting, and analysis too
 On the software side, they are building more powerful solvers, using computer resources more efficiently, and embedding engineering knowledge into pre- and post-processing. Recent work integrates artificial intelligence and machine learning into CAE tools, enabling real-time simulations and predictive modeling.
 
 On the process side, they are tightening alignment between 3D CAE, 1D system simulation (a lumped, equation-based representation of a whole system), and physical testing, which increases both modeling realism and calculation speed. Vendors are also folding CAE into the overall PLM flow so that product design can be connected to product use, an approach called predictive engineering analytics.
+
+Source: adapted from "Computer-aided engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer-aided_engineering

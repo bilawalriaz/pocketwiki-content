@@ -52,3 +52,5 @@ Ieyasu's final years were spent eliminating the last threat to his rule: the Toy
 - The circumstances of the "Nobuyasu Incident" (1579), where Ieyasu ordered his wife and heir to die, are complex. Theories range from a conspiracy with the Takeda clan to internal factional conflict within the Tokugawa house between the "Hamamatsu" and "Okazaki" factions.
 - Historians debate whether Ieyasu's relocation to Kantō in 1590 was a reluctant submission to Hideyoshi's order or a strategic opportunity he embraced to build an independent power base.
 - The characterization of Ieyasu in later historiography, particularly after the Meiji Restoration, often portrayed him negatively as a "cunning old man," a view modern scholars like Hamada Koichiro have sought to re-evaluate.
+
+Source: adapted from "Tokugawa Ieyasu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tokugawa_Ieyasu

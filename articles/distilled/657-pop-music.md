@@ -58,3 +58,5 @@ The 2000s marked a shift toward digital consumption, with file-sharing disruptin
 ## Debates and Open Questions
 
 Defining pop music remains contentious due to its lack of fixed sonic identity. As Billboard noted in 2023, "pop" fundamentally means "popular," so any widely successful song can be labeled pop, making genre boundaries fluid. Scholars debate whether pop should be viewed as a distinct genre or a marketing category. Additionally, questions persist about pop's artistic merit versus commercial function, with some critics arguing it lacks depth while others defend its cultural impact and innovation. The role of technology in shaping pop's evolution—from vinyl to streaming—also continues to generate discussion regarding authenticity and accessibility.
+
+Source: adapted from "Pop music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pop_music

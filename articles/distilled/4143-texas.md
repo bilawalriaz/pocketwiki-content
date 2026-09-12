@@ -56,3 +56,5 @@ Texas has a plural executive branch and a biennial bicameral legislature. The st
 - **Economic Model**: The low-tax, low-regulation model is praised for growth but criticized for high poverty and inadequate public services like healthcare and education.
 - **Energy and Environment**: Texas's role as a leading energy producer creates tension between economic interests and environmental concerns, especially regarding emissions and grid reliability.
 - **Demographic Change**: The rapid growth of the Hispanic population and its potential political and cultural impact is subject to ongoing analysis.
+
+Source: adapted from "Texas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Texas

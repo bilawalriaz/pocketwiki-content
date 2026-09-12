@@ -43,3 +43,5 @@ Douglass argued that the Civil War's aim must be the complete abolition of slave
 - **Birth Date**: Douglass's exact birth date is unknown. He chose to celebrate February 14, but historian Dickson J. Preston determined he was likely born in February 1818.
 - **Relationship with John Brown**: The nature of Douglass's involvement with John Brown's raid on Harpers Ferry is debated. Douglass declined to join the raid, considering it suicidal, but the full extent of his prior knowledge and support remains a subject of historical analysis.
 - **Relationship with Ottilie Assing**: Biographer David W. Blight concludes Douglass and journalist Ottilie Assing "were probably lovers," though surviving correspondence contains no definitive proof.
+
+Source: adapted from "Frederick Douglass" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frederick_Douglass

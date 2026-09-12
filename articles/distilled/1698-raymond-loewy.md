@@ -80,3 +80,5 @@ Loewy married Jean Thomson (divorced; she remained at the firm) and later Viola 
 - **MAYA’s limits**: While MAYA is widely cited, critics argue it can justify incrementalism over radical innovation; the source does not resolve this tension.
 - **NASA implementation**: The source lists Loewy’s Skylab proposals (wardroom, window, varied sleep-compartment floor plans, magnetic utensils) but does not confirm which were flown versus studied.
 - **Business structure**: Loewy’s firm employed 143 by 1949 with named partners (Barnhart, Snaith, Breen), yet the brand remained personally eponymous. The balance between Loewy’s personal design hand and studio output is an open research question.
+
+Source: adapted from "Raymond Loewy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Raymond_Loewy

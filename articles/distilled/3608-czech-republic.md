@@ -47,3 +47,5 @@ Czech culture has a long history in art, architecture, literature, and music. No
 
 ## Debates and open questions
 The article notes that the introduction of direct presidential elections in 2013 has led some commentators to argue the Czech Republic has moved from a purely parliamentary system towards a semi-presidential one. The country's relationship with its historical German-speaking minority and the post-WWII expulsion of Sudeten Germans remains a complex historical topic.
+
+Source: adapted from "Czech Republic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Czech_Republic

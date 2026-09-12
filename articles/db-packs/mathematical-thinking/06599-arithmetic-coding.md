@@ -31,3 +31,5 @@ Huffman coding assigns each symbol a whole-bit code, so it reaches entropy only 
 ## Origin and patents
 
 The basic algorithms were developed independently in 1976 by Jorma J. Rissanen at IBM Research and by Richard C. Pasco at Stanford, both publishing in May of that year. Numerous subsequent refinements were patented, mostly by IBM, which restricted adoption in standards like JPEG; most of those patents have since expired, and modern formats including JPEG XL, PackJPG, Brunsli, and Lepton can recover about 25% size savings by re-encoding JPEG files with arithmetic coding or asymmetric numeral systems. The Dirac video codec uses arithmetic coding and has not been patented.
+
+Source: adapted from "Arithmetic coding" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arithmetic_coding

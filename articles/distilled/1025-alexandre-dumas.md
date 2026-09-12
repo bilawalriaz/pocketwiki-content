@@ -60,3 +60,5 @@ The 1970 Metro station naming and 2002 Panthéon transfer—televised, with a Mu
 - **Origin of the surname "Dumas"**: Scholars dispute whether Thomas-Alexandre inherited it from his mother or coined it himself (meaning "of the farm") upon needing a legal surname in France.
 - **Racial self-identification**: Dumas rarely addressed race directly in non-fiction; *Georges* (1843) is his sole novel centering a mixed-race protagonist, leaving his personal racial politics open to interpretation.
 - **Completion of *The Knight of Sainte-Hermine***: Schopp wrote the final 2.5 chapters from notes; the boundary between Dumas’s text and Schopp’s reconstruction is a textual-critical issue.
+
+Source: adapted from "Alexandre Dumas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alexandre_Dumas

@@ -41,3 +41,5 @@ Henie's fame moved in elite social circles, leading to controversy over her asso
 *   **1927 World Championship Controversy:** The result, a 3–2 decision for Henie over Herma Szabo, was controversial due to the nationalities of the judges, with three of the five first-place ordinals for Henie coming from Norwegian judges.
 *   **1936 Olympic Fairness:** The fairness of Henie's third Olympic gold medal is debated. Her rival, Cecilia Colledge, was disadvantaged by drawing an early position in the free skate, while Henie skated last. The draw process itself came under suspicion.
 *   **Nazi Associations:** Henie's pre- and post-war associations with Hitler and other high-ranking Nazi officials remain a subject of historical scrutiny and controversy, despite her later claims of political naivety.
+
+Source: adapted from "Sonja Henie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sonja_Henie

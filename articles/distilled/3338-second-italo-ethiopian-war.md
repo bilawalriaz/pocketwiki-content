@@ -43,3 +43,5 @@ Italian forces used 300–500 tons of mustard gas against military and civilian 
 - **Impact of Chemical Weapons**: Historians debate whether mustard gas was the decisive factor in Italy's victory or primarily a tool of terror with limited tactical impact.
 - **Casualty Figures**: Ethiopian government claims of over 760,000 deaths are considered exaggerated by some scholars, while Italian figures are seen as significant underestimates.
 - **International Responsibility**: The war is a key case study in the failure of collective security, highlighting the appeasement policies of Britain and France.
+
+Source: adapted from "Second Italo-Ethiopian War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War

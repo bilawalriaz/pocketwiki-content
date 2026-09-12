@@ -21,3 +21,5 @@ People have lived along the coast for at least 40,000 years. Today's activities 
 ## Open questions
 
 How protective those reserves actually are remains contested. The Coral Sea Marine Park's 2018 management plan cut the area under its strictest tier (IUCN category II, the international standard for nature reserves) from 50.78% down to 24%, against the advice of the government's own expert review panel, and the long shadow of the 2010 spill continues to shape assessments of the reef's resilience.
+
+Source: adapted from "Coral Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Coral_Sea

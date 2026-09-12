@@ -82,3 +82,5 @@ The WHO and Infectious Disease Society of America report the weak pipeline does 
 - The effectiveness of antibiotic cycling (alternating antibiotics) has been proposed but recent studies show such strategies are ineffective against resistance.
 - Regulatory and legislative delays in limiting livestock antibiotic use persist, partly due to industry resistance and time needed to test causal links between use and resistance.
 - Fecal microbiota transplants are not officially FDA-approved but permitted under some conditions; work continues on standardization and oral delivery methods.
+
+Source: adapted from "Antibiotic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antibiotic

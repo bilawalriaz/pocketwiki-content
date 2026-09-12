@@ -45,3 +45,5 @@ The city is centered on Mombasa Island, separated from the mainland by creeks an
 - The exact founding date of Mombasa is unknown; Kenyan school books place it at 900 AD, but this is a traditional rather than definitively proven date.
 - The origins of Swahili architecture are debated; features like the ogee arch in the Mandhry Mosque suggest indigenous African development rather than solely adoption from non-African Muslims.
 - The city's identity and governance have been shaped by successive foreign powers (Portuguese, Omani, British), leading to ongoing discussions about cultural heritage and autonomy.
+
+Source: adapted from "Mombasa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mombasa

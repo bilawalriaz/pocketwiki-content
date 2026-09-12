@@ -41,3 +41,5 @@ Chandigarh was conceived as a tool for national regeneration and modernization, 
 - The political status of Chandigarh is a long-standing issue, with both Punjab and Haryana claiming it as their capital. Surveys have shown a majority of residents prefer it remain a union territory.
 - Scholarly criticism questions whether the narrative of Chandigarh's development overemphasizes Le Corbusier's role, arguing it was a hybrid project involving significant Indian input and "contested modernities."
 - The implementation of Nehru and Le Corbusier's postcolonial vision is critiqued for potentially creating new class-based segregation and imposing a homogenized, Western-influenced identity on a diverse region.
+
+Source: adapted from "Chandigarh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chandigarh

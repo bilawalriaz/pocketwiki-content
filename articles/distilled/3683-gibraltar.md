@@ -42,3 +42,5 @@ Gibraltar's economy is based on financial services, online gambling, maritime se
 
 ## Debates and Open questions
 The primary ongoing debate is the sovereignty of Gibraltar. Spain maintains a claim to the territory, while the UK and the overwhelming majority of Gibraltarians insist on its right to self-determination under British sovereignty. The practical implications of this dispute are seen in negotiations over border controls and the terms of Gibraltar's relationship with the EU post-Brexit. The 2026 treaty attempts to resolve border issues but explicitly states that British sovereignty is unaffected, leaving the core political dispute unresolved.
+
+Source: adapted from "Gibraltar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gibraltar

@@ -62,3 +62,5 @@ Core vocabulary is Italic (Proto-Indo-European). Borrowings: Etruscan (*persona,
 *   **⟨ui⟩ as diphthong:** Debated due to rarity, absence in Roman grammarians, and etymological alternations (e.g., *huic* vs *quoi* → *cui*).
 *   **Pronunciation reconstruction:** Relies on indirect evidence (ancient testimony, misspellings, Romance outcomes); the "Classical" pronunciation taught today is a scholarly reconstruction, not a continuous tradition.
 *   **Extent of Neo-Latin corpus:** The vast majority of all Latin text belongs to the Neo-Latin period, but its full scope remains uncatalogued and understudied.
+
+Source: adapted from "Latin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Latin

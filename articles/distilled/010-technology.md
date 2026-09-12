@@ -70,3 +70,5 @@ Engineering is the process by which technology is developed, requiring problem-s
 - Whether technological progress is always beneficial, scientific openness always preferable, or societies can afford to wait before preparing mitigations for dangerous technologies
 - Whether directed evolution could lead to eugenics or extreme social inequality
 - The direction of causality between scientific discovery and technological innovation
+
+Source: adapted from "Technology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Technology

@@ -48,3 +48,5 @@ Riel's execution caused a lasting rift: celebrated in Ontario but mourned in Que
 - **Justification of Violence**: Arguments over whether armed rebellion was a necessary last resort or unnecessary escalation.
 - **The Scott Execution**: Analysis of this political blunder and its catastrophic consequences for Riel's cause.
 - **Historical Legacy**: Evolving interpretations from "traitor" to "folk hero" and "Father of Confederation," reflecting debates on Canadian identity and Indigenous rights.
+
+Source: adapted from "Louis Riel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_Riel

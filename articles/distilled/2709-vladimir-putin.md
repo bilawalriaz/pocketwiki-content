@@ -51,3 +51,5 @@ Putin has cultivated a macho, athletic public image, participating in extreme sp
 - **Motivations for the Ukraine Invasion**: Analysts disagree on the primary drivers, citing factors ranging from security concerns about NATO expansion to imperial ambitions and domestic political calculations.
 - **Public Support**: The true level of domestic support for Putin and his policies, especially the war in Ukraine, is contested, with some arguing poll numbers are unreliable due to fear and state propaganda.
 - **Wealth and Corruption**: While official disclosures show modest wealth, numerous investigations allege Putin secretly controls a vast fortune through proxies, a claim the Kremlin denies.
+
+Source: adapted from "Vladimir Putin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vladimir_Putin

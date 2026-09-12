@@ -35,3 +35,5 @@ Vertebrate examples are abundant: wolves and wild dogs bringing meat back to pac
 ## What explains the variety
 
 No single mechanism accounts for every case. Kin selection dominates where relatedness is high, reciprocity dominates where partners meet repeatedly, costly signals and conformity to the average phenotype stabilise cooperation in populations, and biological market dynamics govern exchanges between unrelated individuals whose choices determine the value of services offered. The shared logic is that altruism evolves whenever the genetic or social pay-off to the helper, directly or through relatives, outweighs the personal reproductive cost.
+
+Source: adapted from "Altruism (biology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Altruism_%28biology%29

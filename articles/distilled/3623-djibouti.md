@@ -43,3 +43,5 @@ Djibouti is a multi-ethnic nation with a population of about 1.07 million (2024 
 - The exact location of the ancient Land of Punt is debated, though the region including Djibouti is considered a likely candidate.
 - The etymology of the name "Djibouti" is disputed, with theories linking it to Afar words for "plate" or "upland," or to the Egyptian god Thoth.
 - The circumstances surrounding the death of independence advocate Mahmoud Harbi in a 1960 plane crash are considered suspicious.
+
+Source: adapted from "Djibouti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Djibouti

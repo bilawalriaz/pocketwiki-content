@@ -53,3 +53,5 @@ Swahili played a key role in spreading Islam through coastal madrasas and later 
 - **Dialect classification**: The status of varieties like Shikomor (Comorian), Chimwiini, and Kibajuni remains debated—some classify them as dialects of Swahili, others as distinct languages.  
 - **Kingozi’s role**: The historical significance of Kingozi, an extinct coastal dialect, is contested among scholars, with some viewing it as a literary prestige dialect and others as a minor variant.  
 - **Future adoption in Somalia**: Despite Somalia’s EAC membership, the spread of Swahili faces competition from English and Arabic, creating uncertainty about its adoption.
+
+Source: adapted from "Swahili" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Swahili

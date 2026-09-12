@@ -33,3 +33,5 @@ A key standardization was MIDI (Musical Instrument Digital Interface), finalized
 Sampling (storing short recordings of real sounds and triggering them from a keyboard) became practical with the Fairlight CMI in 1979 and exploded with cheap digital memory. Digital audio workstations on laptops, software synthesizers, and live coding mean a single computer can replace rooms of hardware. Many sub-genres (EDM, electronica, indie electronic, chiptune, ambient) now coexist across clubs, festivals, and home recordings. Pop electronic music is most recognizable in its 4/4 dance form, distinct from earlier experimental forms that stayed in niche markets.
 
 Across this history, each new tool, from tape to oscillator to sampler to laptop, has progressively substituted electrical signal for mechanical sound and recorded or generated waveform for performed gesture.
+
+Source: adapted from "Electronic music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electronic_music

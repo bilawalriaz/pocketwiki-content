@@ -44,3 +44,5 @@ Nanyue's 93-year existence allowed Lingnan relatively peaceful development durin
 - **Legitimacy in Vietnamese History:** Debate over whether Nanyue is legitimate Vietnamese history. Traditional views included it; modern Vietnamese orthodoxy classifies it as foreign occupation.
 - **Extent of Qin Conquest:** Scholarship questions if Qin conquered territory in modern Vietnam, suggesting Chinese control there may have begun with Nanyue.
 - **Ethnic Composition and Language:** The precise ethnic makeup and languages of the Yue peoples are debated, with links proposed to ancestors of modern Zhuang or Austroasiatic speakers.
+
+Source: adapted from "Nanyue" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nanyue

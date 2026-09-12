@@ -77,3 +77,5 @@ Planetary winds vary widely: Venus’s cloud-top winds circle every 4–5 days a
 - Solar wind particles gain high kinetic energy through a process that is not well understood.
 - The long-term impact of planetary wind on atmospheric evolution, particularly for water-rich planets like Earth transitioning to Venus-like states, involves ongoing modeling uncertainties.
 - The role of wind in dispersing plant pathogens across oceans and its implications for global agriculture and ecosystem health is still being researched.
+
+Source: adapted from "Wind" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wind

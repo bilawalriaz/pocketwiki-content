@@ -52,3 +52,5 @@ Inorganic carbon compounds are simpler: CO₂ and CO are the gaseous oxides, car
 ## Applications
 
 Fossil-fuel hydrocarbons power most vehicles and power plants. Graphite is the lead in pencils, a dry lubricant, and an electrode material. Diamond serves as a gemstone and an industrial cutting tool; synthetic diamonds are grown by high-pressure, high-temperature (HPHT) or chemical-vapour-deposition (CVD) methods. Carbon fibre makes stiff, lightweight composites for aircraft and sporting goods. Activated charcoal's high surface area adsorbs impurities, which is why it filters water and air.
+
+Source: adapted from "Carbon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carbon

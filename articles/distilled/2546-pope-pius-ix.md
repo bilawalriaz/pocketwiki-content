@@ -46,3 +46,5 @@ His pontificate saw the centralization of church governance in Rome. He re-estab
 *   **Political Legacy:** Scholars debate whether his early liberalism was genuine or a tactical stance, and how his later conservatism shaped the modern papacy's spiritual, rather than temporal, authority.
 *   **Impact of Infallibility:** The definition of papal infallibility remains a point of theological and historical discussion regarding its effect on episcopal collegiality and the Church's relationship with the modern world.
 *   **Beatification Controversy:** His 2000 beatification was criticized by some Jewish and Christian groups due to his authoritarian politics, the Mortara case, and the reinstitution of the ghetto.
+
+Source: adapted from "Pope Pius IX" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_Pius_IX

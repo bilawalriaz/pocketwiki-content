@@ -46,3 +46,5 @@ Cook Strait is an important habitat for cetaceans, including dolphins, killer wh
 ## Debates and Open questions
 - The precise estimate of the "residual current" (net current after averaging out tides) in Cook Strait remains a topic of ongoing research, with computer simulations and large datasets being used to refine it.
 - The feasibility and cost-effectiveness of harnessing Cook Strait's tidal energy for power generation are still under investigation, as proposed projects have not yet been realized.
+
+Source: adapted from "Cook Strait" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cook_Strait

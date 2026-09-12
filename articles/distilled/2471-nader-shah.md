@@ -42,3 +42,5 @@ Following his Indian campaign, Nader's health declined and his rule became incre
 *   **Motivations for the Indian Campaign:** Historians debate whether Nader's primary goal was to secure Iran's eastern frontier by removing Afghan rebels, to replenish the state treasury with Mughal wealth, or simply for personal conquest.
 *   **Religious Sincerity:** Scholars question whether Nader's promotion of the Ja'fari school was a genuine attempt at religious reform or a purely political tool to consolidate power and challenge Ottoman and Safavid religious authority.
 *   **Historical Legacy:** His reputation is contested; he is celebrated as a national hero and unifier by Iranian nationalists but condemned as a brutal tyrant whose military spending ruined the economy and whose death triggered a century of instability.
+
+Source: adapted from "Nader Shah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nader_Shah

@@ -36,3 +36,5 @@ Crossing the Caucasus was a vital part of the northern Silk Route. The range con
 
 ## Debates and open questions
 - There is a technical disagreement over whether Mount Elbrus, at 5,642 m, is in Europe. The continental boundary is usually defined by the crest of the Greater Caucasus, which would place Elbrus at the junction with Asia.
+
+Source: adapted from "Caucasus Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caucasus_Mountains

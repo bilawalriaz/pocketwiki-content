@@ -41,3 +41,5 @@ Protests against enclosure were widespread and sometimes violent. The Midland Re
 
 ## Debates and Open Questions
 Historians disagree on the net impact of enclosure. The traditional view, held by historians like the Hammonds, is that it was a social disaster that impoverished the common people. A revisionist perspective, from scholars like Chambers and Mingay, contends that enclosure was necessary for agricultural progress, increased food production, and ultimately benefited the growing population. Economists like M.E. Turner and D. McCloskey have questioned whether enclosure actually led to a clear increase in efficiency over the open-field system. The role of enclosure in the rise of capitalism and the creation of a proletariat remains a key point of Marxist analysis.
+
+Source: adapted from "Enclosure" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Enclosure

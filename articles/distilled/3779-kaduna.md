@@ -36,3 +36,5 @@ Kaduna hosts numerous educational institutions, including Kaduna State Universit
 
 ## Debates and open questions
 The source does not explicitly detail ongoing scholarly debates about Kaduna. However, it notes the city's name may have dual origins: from the Hausa word for "crocodile" or the Gbagyi word for "river."
+
+Source: adapted from "Kaduna" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kaduna

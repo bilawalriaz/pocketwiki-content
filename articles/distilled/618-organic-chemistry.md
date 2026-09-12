@@ -80,3 +80,5 @@ Reactions involve organic substrates and are governed by **electron affinity**, 
 *   **Nomenclature for Complexity**: Systematic IUPAC naming becomes impractical for highly complex molecules; tension exists between human-readable trivial names and machine-readable identifiers (SMILES/InChI).
 *   **Total Synthesis Efficiency**: While complexity achievable in total synthesis has increased (vitamin B12, etc.), designing *practically useful* (efficient, scalable, economical) routes remains a distinct engineering challenge.
 *   **Organometallic Boundaries**: The overlap between organic, organometallic, and materials chemistry (e.g., fullerenes, conductive polymers) creates fluid classification boundaries.
+
+Source: adapted from "Organic chemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Organic_chemistry

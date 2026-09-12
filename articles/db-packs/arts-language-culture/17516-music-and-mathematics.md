@@ -43,3 +43,5 @@ Abstract algebra goes further. The pitch classes of the 12-tone equal-tempered o
 Some composers have used the golden ratio and Fibonacci numbers in their work. Guerino Mazzola has built a music theory on category theory and topos theory, using topology for rhythm and motives, and differential geometry for phrasing, tempo, and intonation.
 
 Many musicians have trained in mathematics, including Philip Glass, who studied mathematics and philosophy at the University of Chicago; Donald Knuth, an organist and composer; Tom Lehrer, who studied mathematics at Harvard; and Manjul Bhargava, a tabla player who won the Fields Medal in 2014.
+
+Source: adapted from "Music and mathematics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Music_and_mathematics

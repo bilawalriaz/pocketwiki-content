@@ -42,3 +42,5 @@ The later Kaihuang era saw growing suspicion and harshness from Emperor Wen. He 
 
 ## Debates and Open Questions
 The most significant debate concerns the death of Emperor Wen. The traditional account, recorded in the *Book of Sui* and other histories, asserts he was murdered by his son Yang Guang. However, some modern historians question this narrative, suggesting it may have been propaganda created by the succeeding Tang dynasty to discredit the Sui. The exact circumstances remain controversial.
+
+Source: adapted from "Emperor Wen of Sui" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emperor_Wen_of_Sui

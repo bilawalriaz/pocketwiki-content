@@ -44,3 +44,5 @@ The Tibetan Plateau contains the world's third-largest store of ice, making it a
 - The exact timing of the initial collision between the Indian and Eurasian plates is debated, with estimates ranging around 55–50 Mya.
 - The cause of the plateau's relatively low internal relief is debated: some argue it is an uplifted peneplain formed at low altitude, while others attribute it to erosion and infill at high elevations.
 - The current tectonic behavior of the plateau is explained by two competing models: the block model (crust as discrete blocks with little internal deformation) and the continuum model (distributed deformation from crustal flow).
+
+Source: adapted from "Tibetan Plateau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tibetan_Plateau

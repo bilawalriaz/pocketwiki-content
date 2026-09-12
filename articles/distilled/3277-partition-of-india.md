@@ -48,3 +48,5 @@ The new governments were unprepared for the scale of migration and violence. Mil
 - **Inevitability**: Some argue partition was not inevitable but became so due to the breakdown of the Cabinet Mission Plan and the escalation of communal violence after 1946.
 - **Role of Popular Imagination**: Historian Venkat Dhulipala suggests Pakistan was popularly imagined as a "New Medina" (an ideal Islamic state), indicating broader social support beyond elite politics.
 - **Impact on Women**: The partition led to mass abduction and rape of women; post-war recovery efforts were fraught, and some scholars note complex, sometimes emancipatory, effects on women's social roles in the aftermath.
+
+Source: adapted from "Partition of India" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Partition_of_India

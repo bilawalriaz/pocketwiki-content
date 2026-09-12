@@ -44,3 +44,5 @@ A central debate is whether the fugue is a strict musical **form** or a flexible
 - **Form vs. Texture**: Is the fugue a defined musical form with a prescribed harmonic structure, or is it a flexible compositional technique or texture? Scholars like Erwin Ratz argue for a core "Urform," while others emphasize its adaptability.
 - **Perception and Aesthetics**: Why is the fugue historically associated with intellectual depth and seriousness? Is this due to its inherent complexity, its roots in pedagogy, or a long-standing cultural perception of counterpoint as profound?
 - **Modern Adaptation**: How do 20th- and 21st-century composers reconcile the fugue's traditional tonal foundations with atonal, serial, or other modern harmonic systems? Works like Ligeti's *Requiem* push the technique into new textural and perceptual realms.
+
+Source: adapted from "Fugue" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fugue

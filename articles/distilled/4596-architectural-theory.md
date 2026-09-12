@@ -49,3 +49,5 @@ Contemporary architectural theory is pluralistic, engaging deeply with philosoph
 - The tension between universalizing modernist ideals (like the International Style) and contextual, regional, or historical approaches.
 - The role and impact of digital technologies and algorithms on architectural creativity and theory.
 - How emerging frameworks, such as care ethics and social reproduction theory, will reshape architectural priorities and urban design.
+
+Source: adapted from "Architectural theory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Architectural_theory

@@ -42,3 +42,5 @@ Hawaii's economy transitioned from a plantation economy (sugar, pineapple) to on
 *   **Date of Settlement:** The exact timing of the first Polynesian settlement is debated, with estimates ranging from the 3rd century CE to as late as 900–1200 CE.
 *   **Legality of Overthrow and Annexation:** The 1893 overthrow and 1898 annexation are viewed by the Hawaiian sovereignty movement as illegal acts of war and occupation, a position acknowledged by the 1993 U.S. Apology Resolution. The movement seeks redress and some form of self-governance, from federal recognition to full independence.
 *   **Impact of Tourism:** While economically vital, tourism is criticized for commodifying Hawaiian culture, causing environmental damage, and creating social strain, leading to debates about sustainable models and limits on visitor numbers.
+
+Source: adapted from "Hawaii" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hawaii

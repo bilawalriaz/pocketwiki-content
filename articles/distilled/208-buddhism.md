@@ -82,3 +82,5 @@ Oral tradition in Prakrits (Pali, Gāndhārī). First written c. 1st century BCE
 - **Meditation Theory:** Whether *samatha* and *vipassanā* represent two distinct paths (La Vallee Poussin) or complementary aspects (Analayo, Gethin).
 - **Vegetarianism:** Whether the Buddha permitted meat (early texts: "threefold pure" rule) or mandated vegetarianism (Mahāyāna sūtras); ongoing debate.
 - **Modern Identity:** Whether Buddhism is a "religion" (theistic definition problem), philosophy, or psychotherapy; tensions between traditional Asian Buddhism (karma/rebirth/merit) and Western convert Buddhism (secular/psychological focus).
+
+Source: adapted from "Buddhism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Buddhism

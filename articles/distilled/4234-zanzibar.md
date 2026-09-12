@@ -41,3 +41,5 @@ The population was 1,889,773 in the 2022 census. The people are ethnically diver
 - **Sovereignty:** There is ongoing disagreement between the Zanzibar government and the Tanzanian union government regarding the extent of Zanzibar's autonomy and sovereignty.
 - **Political Tensions:** The political landscape has been marked by recurring violence and contested elections between the ruling Chama Cha Mapinduzi (CCM) and opposition parties like the Civic United Front (CUF) and ACT-Wazalendo.
 - **Environmental Impact:** The rapid growth of tourism and fishing industries, combined with climate change threats like sea-level rise, poses significant environmental challenges to the islands' ecosystems.
+
+Source: adapted from "Zanzibar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zanzibar

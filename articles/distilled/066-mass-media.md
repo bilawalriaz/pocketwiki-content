@@ -75,3 +75,5 @@ Journalism is the discipline of collecting, analyzing, verifying, and presenting
 ## Debates and open questions
 
 Scholars debate whether mass media still exists in its original form, given social media's rise and the fragmentation of audiences across different sources. The concentration of media ownership is debated as a potential threat to democracy. The Hallin and Mancini media model, based on traditional indicators, no longer fully aligns with today's media ecosystem, raising questions about how to classify and analyze contemporary media systems.
+
+Source: adapted from "Mass media" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mass_media

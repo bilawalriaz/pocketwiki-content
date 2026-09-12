@@ -47,3 +47,5 @@ Visakhapatnam is the headquarters of the Indian Navy's Eastern Naval Command. It
 ## Debates and open questions
 *   The exact origin of the city's name is debated. Local belief ties it to a 4th-century temple dedicated to Vaisakha, while other theories link it to a Chola king (Kulotungapatnam) or a Muslim saint (Ishakapatnam).
 *   The precise timeline and builders of the ancient temple to Viśakha, now believed to be submerged, are based on legend and archaeological inference rather than definitive records.
+
+Source: adapted from "Visakhapatnam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Visakhapatnam

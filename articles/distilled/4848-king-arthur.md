@@ -45,3 +45,5 @@ Interest in Arthur waned after the Middle Ages, with scholars like Polydore Verg
 - **What is the origin of the name "Arthur"?** The most accepted etymology is from the Roman *Artorius*, but alternatives like a Celtic "bear-man" or the star Arcturus are debated.
 - **How did the legend evolve?** Scholars analyze the shift from the active, heroic Welsh Arthur to the passive king of French romance, and the influence of Geoffrey of Monmouth's inventions.
 - **What motivated the 1191 Glastonbury discovery?** Theories include monastic fundraising, political suppression of Celtic opposition, or addressing problematic beliefs in Arthur's return.
+
+Source: adapted from "King Arthur" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/King_Arthur

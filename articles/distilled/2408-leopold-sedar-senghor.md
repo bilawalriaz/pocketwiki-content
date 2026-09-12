@@ -43,3 +43,5 @@ Senghor's political philosophy was **African socialism**, an alternative to Marx
 *   **Authoritarianism vs. Stability:** Scholars debate whether Senghor's consolidation of a one-party state was a necessary measure for national stability in the post-independence era or a betrayal of democratic ideals.
 *   **Legacy of Neocolonialism:** His policy of maintaining close political, economic, and cultural ties with France is contested. Critics argue it perpetuated French influence (e.g., the CFA franc currency), while supporters see it as pragmatic realism that ensured Senegal's stability.
 *   **Négritude's Relevance:** The Négritude movement itself has been critiqued by later thinkers for potentially essentializing African identity and for its initial focus on a Francophone, male elite, though its foundational importance is widely acknowledged.
+
+Source: adapted from "Léopold Sédar Senghor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/L%C3%A9opold_S%C3%A9dar_Senghor

@@ -60,3 +60,5 @@ Sibelius dominated English-speaking and Nordic musical life in the interwar peri
 - **Political Allegiances**: His 1935 Goethe-Medaille from Nazi Germany, 1941 diary entry questioning his signing of an "Aryan certificate," and advocacy for Finnish cooperation with Germany against the USSR complicate his nationalist hero status.
 - **Critical Stature**: The Adorno/Leibowitz critique (formal weakness, conservatism) vs. the modernist reevaluation (radical formal innovator, proto-minimalist). This polarization persists in musicology.
 - **Piano and Chamber Music**: Long dismissed as "salon music" (Tim Page), recent advocacy (Leif Ove Andsnes) argues for its overlooked quality and accessibility.
+
+Source: adapted from "Jean Sibelius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean_Sibelius

@@ -51,3 +51,5 @@ Bruce died on 7 June 1329 at Cardross, possibly from leprosy (though modern anal
 - **Winter 1306–1307 hiding place**: Uncertain whether Bruce sheltered in the Hebrides, Ireland, Orkney, or Norway after his defeat at Methven.
 - **Role at Falkirk (1298)**: Some sources claim Bruce fought for Edward I, but he does not appear on the English army roll, and he soon attacked English-held Ayr Castle.
 - **Comyn murder details**: Accounts vary—Barbour says Bruce stabbed Comyn, while the *Scotichronicon* claims Bruce's supporters finished him off after the initial attack.
+
+Source: adapted from "Robert the Bruce" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_the_Bruce

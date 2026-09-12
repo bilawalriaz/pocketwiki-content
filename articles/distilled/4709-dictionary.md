@@ -45,3 +45,5 @@ Dictionaries have evolved from books to electronic and online formats. Specializ
 - The debate between **prescriptive** and **descriptive** lexicography continues, with questions about a dictionary's role in guiding versus recording language use.
 - There is no consensus on whether **lexicology** (the study of words) and **terminology** (the study of terms in specialized fields) are distinct disciplines.
 - The influence of dictionaries on language is contested; while they can affect usage through their authority, ultimately, language is shaped by its speakers. As noted, dictionaries are "artificial repositories, put together well after the languages they define."
+
+Source: adapted from "Dictionary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dictionary

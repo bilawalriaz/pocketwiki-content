@@ -39,3 +39,5 @@ After his death, Buddhism branched into three major streams. **Theravāda** ("Wa
 A key Mahāyāna concept is the **trikāya** doctrine, which describes three "bodies" of the Buddha: the nirmāṇakāya (the physical, historical body), the saṃbhogakāya (an enjoyment body accessible to advanced bodhisattvas), and the dharmakāya (the formless body that is ultimate reality itself). Early texts do not attribute omniscience to the Buddha; later traditions progressively deified him. His figure was absorbed into Hinduism as the ninth avatar of Vishnu, into Christianity as St. Josaphat, and into Islam as Budd or Shakyamuni.
 
 **Karma** (intentional action) shapes future rebirths across these traditions, and the Buddha himself is recorded using the title **Tathāgata** ("one who has thus gone"). The tradition that grew from his teachings diversified to suit very different cultural and philosophical contexts.
+
+Source: adapted from "The Buddha" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_Buddha

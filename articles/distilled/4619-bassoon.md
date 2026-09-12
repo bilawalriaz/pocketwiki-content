@@ -48,3 +48,5 @@ The bassoon is held diagonally and supported by a seat strap or harness. Its fin
 - The exact origins of the bassoon are debated; while Martin Hotteterre is often credited, some historians believe it was developed by several French craftsmen in the 1650s.
 - The relative merits of the Heckel and Buffet systems are a matter of preference and regional tradition, with each having distinct tonal and technical characteristics.
 - The use of the bassoon in jazz and popular music remains infrequent, and its role in these genres is not firmly established.
+
+Source: adapted from "Bassoon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bassoon

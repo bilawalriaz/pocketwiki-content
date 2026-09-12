@@ -46,3 +46,5 @@ The Brothers Grimm collected and published folktales, first in *Children and Hou
 - The exact end date of the German literary Middle Ages is debated, with the Reformation (1517) being the last possible cut-off.
 - Periodization becomes more contested the closer it gets to the present day.
 - The relationship and boundaries between movements like Sturm und Drang, Weimar Classicism, and early Romanticism are subjects of scholarly discussion.
+
+Source: adapted from "German literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/German_literature

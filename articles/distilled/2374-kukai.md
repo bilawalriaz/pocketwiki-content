@@ -43,3 +43,5 @@ Kūkai oversaw major public works, including the restoration of the Manno Reserv
 - The exact reasons for Kūkai's selection for the 804 China expedition are unclear, given his status as a private, non-state-sponsored monk.
 - The extent of Kūkai's role in inventing the kana syllabary is a matter of legend and scholarly debate, as historical evidence is inconclusive.
 - The nature of his final death is surrounded by legend; tradition holds he did not die but entered an eternal samadhi, a belief central to his ongoing veneration.
+
+Source: adapted from "Kūkai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/K%C5%ABkai

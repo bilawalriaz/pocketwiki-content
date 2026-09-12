@@ -45,3 +45,5 @@ A bonus round is a final, higher-stakes segment for the main game's winner, with
 - The precise boundary between a "game show" and a "reality competition" is debated, with shows like *Weakest Link* and hybrid "reality game shows" (e.g., *The Amazing Race*) blurring the lines.
 - The impact of the 1950s quiz show scandals on long-term regulation and public trust remains a key historical discussion point.
 - The sustainability of prime-time game show revivals versus the stability of syndicated daytime formats is an ongoing industry question.
+
+Source: adapted from "Game show" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Game_show

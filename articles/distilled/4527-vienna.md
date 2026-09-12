@@ -44,3 +44,5 @@ Vienna generates 25.1% of Austria's GDP and is a hub for international organizat
 
 ## Debates and Open Questions
 The source notes that the etymology of the name "Vienna" (from the River Wien) is distinct from the Roman name "Vindobona" and is of Celtic origin, possibly meaning "forest river." The exact derivation of the Hungarian name "Bécs" is debated, with theories linking it to words for "kiln" or "fortified place." The population figures for Vienna's Jewish community vary between sources, with estimates of 8,000 or 15,000 members.
+
+Source: adapted from "Vienna" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vienna

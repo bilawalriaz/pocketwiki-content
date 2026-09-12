@@ -43,3 +43,5 @@ The last Abbasid caliph, al-Mutawakkil III, was sent to Istanbul and swore alleg
 - The nature of the transfer of the caliphate from the Abbasids to the Ottomans is debated. The source states that stories of an official transfer were a "later invention," but the event nonetheless established the Ottoman Caliphate.
 - The exact cause of Selim's death is uncertain. The official cause was a carbuncle, but historians suggest it may have been cancer, poison, or plague.
 - The extent to which Selim's brutal policies against Alevis and Shiites were motivated by religious conviction versus political necessity is a subject of historical analysis.
+
+Source: adapted from "Selim I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Selim_I

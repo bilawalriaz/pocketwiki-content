@@ -21,3 +21,5 @@ Forests supply ecosystem services: carbon sequestration, water purification, flo
 Sustainable forest management integrates timber harvest, biodiversity protection, and community needs. Logging, urban expansion, fire, invasive species, and acid deposition are the main pressures. Natural disturbances include fire, insects, disease, and weather. Plantations, even-aged stands of a single species grown for timber or pulp, expand forest area but generally support less biodiversity and store less carbon than old growth, so their weight in global targets remains contested.
 
 Whether forests remain net carbon sinks depends on how disturbance, area, and diversity change. Some models project parts of the tropics becoming net carbon sources by the 2060s, and the Amazon may cross a threshold where rainfall recycling collapses and forest transitions to savanna. The 1.5 °C climate pathway requires adding forest area roughly the size of Canada by 2050.
+
+Source: adapted from "Forest" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Forest

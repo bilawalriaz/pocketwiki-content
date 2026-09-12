@@ -47,3 +47,5 @@ Reaching Mercury demands an exceptionally high delta-v because a spacecraft must
 ## Future of the planet
 
 Mercury's orbit is not permanently stable. Simulations show its eccentricity can vary chaotically from 0 to 0.45, and a future resonance with Jupiter gives about a 1% chance of orbital destabilisation over the next five billion years, through collision with the Sun, collision with Venus, ejection from the Solar System, or disruption of the inner planets. When the Sun becomes a red giant in roughly seven to eight billion years, Mercury and Venus are expected to be destroyed, with Earth and the Moon possibly sharing that fate.
+
+Source: adapted from "Mercury (planet)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mercury_%28planet%29

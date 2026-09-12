@@ -47,3 +47,5 @@ Brazil was a constitutional monarchy with a bicameral parliament (the General As
 - The primary responsibility for the monarchy's fall is often attributed to Emperor Pedro II's passivity and failure to prepare a successor or defend the institution in his later years.
 - Historians debate the extent to which the abolition of slavery directly caused the monarchy's end by turning powerful economic elites against the crown.
 - The role of the military, influenced by positivism, is central to the coup, but scholars examine whether the republic was the intended goal of all conspirators or if a dictatorship was the immediate aim.
+
+Source: adapted from "Empire of Brazil" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Empire_of_Brazil

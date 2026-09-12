@@ -43,3 +43,5 @@ Since the early 2000s, Sinai has faced security challenges, including terrorist 
 
 ## Debates and Open questions
 The origin of the name "Sinai" is a source of contention, with theories linking it to the Mesopotamian moon-god Sin or the Hebrew word for "burning bush." The exact location of the Biblical Mount Sinai is also debated, with the traditional site near Saint Catherine's Monastery being one candidate.
+
+Source: adapted from "Sinai Peninsula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sinai_Peninsula

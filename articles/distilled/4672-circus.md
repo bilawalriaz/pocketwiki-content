@@ -46,3 +46,5 @@ A traditional circus is led by a ringmaster and features acts grouped into disci
 - **Origins:** Historians disagree on whether the modern circus has a direct lineage from ancient Roman circuses or truly begins with Philip Astley in the 18th century.
 - **Terminology:** The use of "contemporary circus" can be confusing, as it refers both to a specific avant-garde genre and generically to "circus of today," leading some to use "21st Century Circus" instead.
 - **Animal Use:** The role and ethics of animal acts have been a major point of criticism and change, leading to their decline in many modern circus forms.
+
+Source: adapted from "Circus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Circus

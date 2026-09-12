@@ -61,3 +61,5 @@ with equality iff |f| = α|g|^{−p/(p−1)} almost everywhere. It follows from 
 ## Other settings
 
 For a sub-σ-algebra 𝒢 of a probability space, the inequality holds for conditional expectations: 𝔼[|XY| | 𝒢] ≤ (𝔼[|X|^p | 𝒢])^(1/p)(𝔼[|Y|^q | 𝒢])^(1/q), ℙ-almost surely. An Aczél–Beckenbach symmetric form says that for vectors with positive entries satisfying f(i)g(i)h(i) = 1 and 1/p + 1/q + 1/r = 0, ‖f‖_p ‖g‖_q ‖h‖_r ≥ 1 when two of p, q, r are positive and ≤ 1 when two are negative; the standard inequality follows immediately.
+
+Source: adapted from "Hölder's inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/H%C3%B6lder%27s_inequality

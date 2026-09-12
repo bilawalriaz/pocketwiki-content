@@ -44,3 +44,5 @@ A central doctrine is "substantial motion" (*al-harakat al-jawhariyyah*), which 
 - The precise nature and relationship of Ṣadrā's existentialism to Western existentialism is a point of scholarly discussion, with the source noting they are not readily comparable.
 - The problem of how God can judge sin without being tainted by it was a central philosophical question for centuries; Ṣadrā's solution using the primacy of existence is presented as a major resolution.
 - The theory of the "unity of the intellect and the intelligible" describes a complex, non-arithmetical union in the act of knowledge, which remains a profound and debated philosophical concept.
+
+Source: adapted from "Mulla Sadra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mulla_Sadra

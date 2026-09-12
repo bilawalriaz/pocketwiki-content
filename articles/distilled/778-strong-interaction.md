@@ -39,3 +39,5 @@ Grand Unified Theories (GUTs) seek to unify the strong interaction with the elec
 - Whether a complete Grand Unified Theory can successfully describe the unification of the strong and electroweak forces remains unresolved.  
 - The exact form of the distance-dependent behavior of the residual strong force lacks a simple analytical expression, despite the Yukawa potential approximation.  
 - The conditions under which quark-gluon plasmas form and their precise properties are still active areas of experimental and theoretical research.
+
+Source: adapted from "Strong interaction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Strong_interaction

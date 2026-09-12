@@ -40,3 +40,5 @@ In 1919, Griffith co-founded United Artists with Chaplin, Pickford, and Fairbank
 
 ## Debates and Open Questions
 Griffith’s legacy remains deeply divided. While celebrated for technical innovations and narrative mastery—earning praise from filmmakers like Chaplin, Hitchcock, and Eisenstein—his work is also condemned for propagating racist ideology. *The Birth of a Nation* is frequently cited as instrumental in reviving the KKK and normalizing white supremacist views. The Directors Guild of America renamed its top honor from the "D. W. Griffith Award" to the "Lifetime Achievement Award" in 1999, citing his role in fostering racial stereotypes. Scholars continue to debate whether his artistic contributions can be separated from the harmful social impact of his most famous work.
+
+Source: adapted from "D. W. Griffith" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/D._W._Griffith

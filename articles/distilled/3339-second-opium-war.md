@@ -43,3 +43,5 @@ The Convention of Peking legalized the opium trade, ceded the Kowloon Peninsula 
 - The primary justification for British intervention—the *Arrow* incident—is debated. The ship's British registration had expired, and its crew were Chinese, making the casus belli questionable.
 - The morality of burning the Old Summer Palace remains a point of contention. Lord Elgin claimed it was a targeted punishment for the emperor, but it resulted in the destruction of irreplaceable cultural heritage.
 - The role and motivations of the United States and Russia, who sent envoys but avoided direct military alliance, are analyzed in the context of their own imperial ambitions in the region.
+
+Source: adapted from "Second Opium War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Second_Opium_War

@@ -42,3 +42,5 @@ Hypatia's death made her a "martyr for philosophy," turning later Neoplatonists 
 *   **Authorship of Texts:** The extent of her editorial work on the *Almagest* and the authorship of interpolations in Diophantus's *Arithmetica* are debated.
 *   **Motives for Murder:** Historians debate whether her death was purely politically motivated, religiously motivated, or a combination of both.
 *   **Cyril's Role:** The degree of Bishop Cyril's direct responsibility for ordering or inspiring Hypatia's murder remains unproven.
+
+Source: adapted from "Hypatia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hypatia

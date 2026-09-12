@@ -45,3 +45,5 @@ Vanuatu has been a parliamentary democracy since 1980, but its politics have bee
 *   The exact prevalence of human cannibalism in pre-contact Vanuatu is debated, with evidence coming mainly from oral tradition and foreign accounts rather than empirical archaeological proof.
 *   The long-term geopolitical implications of Vanuatu's growing debt to and investment from China are a subject of international concern, particularly regarding potential strategic leverage.
 *   The sustainability of the citizenship-by-investment program is questioned due to ethical concerns and its role in political scandals, such as the 2023 loss of UK visa-free access.
+
+Source: adapted from "Vanuatu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vanuatu

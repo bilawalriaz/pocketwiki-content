@@ -44,3 +44,5 @@ Niépce also built an early bicycle, the vélocipède, in 1818. His brother Clau
 - The exact date of Niépce's first successful camera photograph is uncertain, with sources placing it sometime between 1822 and 1827.
 - The exposure time for his oldest surviving photograph is debated. A common estimate of 8-9 hours is a later assumption; recreations using his methods suggest several days were needed.
 - The extent of Louis Daguerre's reliance on Niépce's foundational work versus his own independent development remains a point of historical discussion, especially given the initial lack of credit for Niépce.
+
+Source: adapted from "Nicéphore Niépce" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce

@@ -46,3 +46,5 @@ From 1869, Helmholtz studied electrical oscillations. While his electromagnetic 
 - **Color Vision**: Helmholtz's trichromatic theory of color vision was in direct opposition to Ewald Hering's opponent-process theory, a debate that divided physiology for decades.
 - **Philosophy of Space**: His rejection of Euclidean geometry as the sole a priori science of physical space challenged Kantian philosophy and inspired new interpretations.
 - **Electromagnetic Theory**: His formulation of electromagnetic theory was criticized by Oliver Heaviside for allowing the existence of longitudinal waves, which Heaviside argued could not exist in a vacuum.
+
+Source: adapted from "Hermann von Helmholtz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hermann_von_Helmholtz

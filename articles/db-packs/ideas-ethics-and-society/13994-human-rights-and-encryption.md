@@ -43,3 +43,5 @@ Service providers control which encryption is deployed by default. Cloud provide
 ## UNESCO's framework
 
 UNESCO's Internet Universality concept treats encryption as essential infrastructure. It considers interference with encryption especially severe when it weakens protections by key service providers, blocks vulnerable groups from accessing encryption, is justified only by theoretical risks, or uses informal arrangements that erode deployed security without accountability. Cryptographic standards expire as computing power grows, so continuous innovation and public education are necessary. Procedural guarantees matter too: transparency about who decided what, effective remedies, and legal certainty so people know when surveillance is lawful.
+
+Source: adapted from "Human rights and encryption" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_rights_and_encryption

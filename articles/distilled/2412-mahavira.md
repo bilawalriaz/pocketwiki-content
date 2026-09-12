@@ -41,3 +41,5 @@ Mahavira established the chaturvidha sangha, a fourfold order of monks, nuns, la
 - **Relationship with Parshvanatha**: While tradition places Parshvanatha 273 years before Mahavira, some scholars suggest they were closer in time, with Parshvanatha possibly active only decades before Mahavira.
 - **Sectarian Differences**: The Śvetāmbara and Digambara traditions disagree on details of Mahavira's life, such as whether he married, the location of his nirvana, and the completeness of the surviving Agamas.
 - **Gender and Liberation**: A historical dispute exists within Jainism over whether women can achieve spiritual liberation (moksha) through asceticism, with the Digambara sect traditionally holding a more restrictive view.
+
+Source: adapted from "Mahavira" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mahavira

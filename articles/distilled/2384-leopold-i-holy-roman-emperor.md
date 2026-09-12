@@ -48,3 +48,5 @@ Leopold was industrious, deeply religious, and tenacious of his rights, embodyin
 *   The article notes that Leopold's disdain for the German language in favor of Italian is considered by some historians to be exaggerated.
 *   The impact of his clerical education on his rule is debated; it made him pious and knowledgeable but may have instilled a fatalistic streak that made him reject compromise, particularly on religious issues.
 *   The overall assessment of his reign is mixed: he was successful against the Ottomans but his wars with France were costly and inconclusive, and his policies weakened the authority of the emperor within the Holy Roman Empire.
+
+Source: adapted from "Leopold I, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leopold_I%2C_Holy_Roman_Emperor

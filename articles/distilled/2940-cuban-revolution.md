@@ -44,3 +44,5 @@ The revolution made Cuba a key Soviet ally in the Western Hemisphere, leading to
 - **Racial Dynamics:** The revolution's relationship with race is complex. While Batista's regime included many Afro-Cubans, some opposition rhetoric used racist stereotypes. Scholars debate the extent of mass black support for Batista versus the white predominance in the revolutionary movement.
 - **U.S. Role:** The extent of U.S. involvement is debated, from its support of Batista to alleged early, covert funding of the 26th of July Movement and the planning of the Bay of Pigs invasion.
 - **Soviet Alliance:** Scholars question whether the close Soviet-Cuban alliance was mutually beneficial or if the USSR primarily used Cuba as a strategic pawn in the Cold War, with Cuba bearing significant costs.
+
+Source: adapted from "Cuban Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cuban_Revolution

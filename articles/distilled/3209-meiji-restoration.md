@@ -42,3 +42,5 @@ The new Meiji government, guided by the 1868 Charter Oath, pursued radical centr
 
 ## Debates and Open Questions
 The source highlights scholarly debate on the nature of the Restoration's leadership. Historian W.G. Beasley argues that the victory was fundamentally that of the *shishi* and progressive daimyō, who initially sought only to displace the Tokugawa, not dismantle feudal institutions. The need for centralization and national unity then drove further reforms. Another point of analysis is the role of foreign pressure: while the unequal treaties destabilized the shogunate, the anti-Tokugawa alliance ultimately shifted from the xenophobic *jōi* policy to the pragmatic *fukoku kyōhei* after military failures against Western powers demonstrated the need for modern technology.
+
+Source: adapted from "Meiji Restoration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Meiji_Restoration

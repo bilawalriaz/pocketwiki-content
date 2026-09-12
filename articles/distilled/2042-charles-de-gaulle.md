@@ -51,3 +51,5 @@ De Gaulle was re-elected in 1965 but faced widespread student and worker protest
 - **Algerian War**: His decision to grant Algerian independence is debated as either a pragmatic necessity to end a brutal war or a betrayal of French settlers and military hardliners.
 - **Relationship with Allies**: His contentious relationships with Allied leaders, especially U.S. President Franklin D. Roosevelt, are analyzed for their impact on post-war European politics.
 - **Legacy and Style**: Historians debate whether his autocratic style and "politics of grandeur" strengthened France's international position or isolated it. His handling of the May 1968 protests is also examined.
+
+Source: adapted from "Charles de Gaulle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_de_Gaulle

@@ -11,3 +11,5 @@ Between 1969 and 1972 the group developed instruments and procedures on a series
 The formal expeditions ran sequentially across three ocean basins: Atlantic from July 1972 to May 1973, Pacific from August 1973 to June 1974, and Indian Ocean from December 1977 to March 1978. Sampling each basin systematically produced the first globally consistent chemical atlas of the deep ocean, establishing density structure, nutrient distributions, and tracer ages along the pathways of deep thermohaline circulation.
 
 GEOSECS's dataset became the chemical baseline against which later ocean programs were compared. Subsequent efforts including the Global Ocean Data Analysis Project (GLODAP), the Joint Global Ocean Flux Study (JGOFS), the World Ocean Atlas (WOA), and the World Ocean Circulation Experiment (WOCE) relied on GEOSECS for both methodology and the initial tracer distributions they refined.
+
+Source: adapted from "Geochemical Ocean Sections Study" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geochemical_Ocean_Sections_Study

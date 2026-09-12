@@ -34,3 +34,5 @@ The region contains the largest expanse of tropical forest on any Precambrian sh
 
 ## Debates and Open Questions
 The source text does not explicitly detail ongoing scholarly debates. However, it notes that the diversity of invertebrates in the region "remains largely undocumented," indicating a significant gap in scientific knowledge. The precise age and correlation of some rock units, like the "Quasi-Roraima formation," are implied areas of study.
+
+Source: adapted from "Guiana Shield" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guiana_Shield

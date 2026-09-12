@@ -46,3 +46,5 @@ Genomic studies show Sarmatians were genetically similar to the Bronze Age Yamna
 *   The precise relationship and distinction between the archaeological "Sauromatian" and "Sarmatian" cultures, despite the similar ethnonyms.
 *   The extent to which descriptions of Alans as tall and blond represent a general trait versus a selective or literary trope.
 *   The degree of genetic and cultural continuity between the Sarmatians and later steppe peoples like the Huns and Alans.
+
+Source: adapted from "Sarmatians" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sarmatians

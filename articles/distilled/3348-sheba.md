@@ -46,3 +46,5 @@ Marib was the primary capital, a large oasis city protected by massive walls. It
 - The exact origin date of the Sabaean kingdom is debated, with estimates ranging from c. 1200 BCE to the 8th century BCE.
 - The nature of Sabaean involvement in the Horn of Africa is contested: scholars of South Arabian archaeology favor migration or colonization, while African archaeologists stress indigenous development.
 - The historicity of the biblical Queen of Sheba narrative is considered legendary by historians, as contemporary epigraphic sources show no evidence of such a diplomatic mission or female rulers.
+
+Source: adapted from "Sheba" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sheba

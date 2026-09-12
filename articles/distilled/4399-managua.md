@@ -48,3 +48,5 @@ Managua is the cultural capital, home to the National Palace of Culture, the Rub
 ## Debates and Open Questions
 - The etymology of "Managua" is debated, with possible origins in the Nahuatl term "Mana-ahuac" ("adjacent to the water") or the Mangue word for "place of the big man."
 - The reconstruction of Managua's historic downtown after the 1972 earthquake remains incomplete and is a subject of ongoing urban planning debates, including proposed projects for a light rail system.
+
+Source: adapted from "Managua" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Managua

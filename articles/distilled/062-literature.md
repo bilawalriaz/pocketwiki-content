@@ -77,3 +77,5 @@ Copyright gives its owner exclusive rights to copy a creative work, protecting o
 - Whether the Vedic texts were purely oral: Goody argues they likely involved both written and oral tradition, calling them "parallel products of a literate society"
 - Whether literary fiction genuinely has more artistic merit than genre fiction; this has been contested with the serious study of genre fiction in universities
 - How to define the "short story" and whether to distinguish it from any short narrative; its origin is contested (Bible, Edgar Allan Poe, and others proposed)
+
+Source: adapted from "Literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Literature

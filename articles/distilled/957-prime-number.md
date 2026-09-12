@@ -113,3 +113,5 @@ Early Greeks studied primes (*prōtos arithmòs*). Euclid established core theor
 - ****RSA cryptosystem**** — Public-key encryption relying on the difficulty of factoring the product of two large primes.
 
 ## Debates and open questions
+
+Source: adapted from "Prime number" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prime_number

@@ -45,3 +45,5 @@ Zimbabwe's economy, once robust, collapsed after 2000 due to mismanagement, corr
 - **Ethnic Tensions**: The extent to which Zimbabwe functions as a nation-state versus a Shona-dominated entity remains contested, given the marginalization of the Ndebele and other minorities.
 - **Political Legitimacy**: The legitimacy of elections since 2000, particularly the 2008 and 2018 polls, is frequently questioned by opposition groups and international observers.
 - **Economic Recovery**: The sustainability of Zimbabwe's post-2009 economic recovery is uncertain, given ongoing challenges with corruption, debt, and reliance on mineral exports.
+
+Source: adapted from "Zimbabwe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zimbabwe

@@ -48,3 +48,5 @@ Shenzhen promotes a competitive "Shenzhen speed" culture. It was named a "United
 *   The source notes that Shenzhen's population "overshooting" its 2020 target led to policy changes making it harder to obtain a local hukou, highlighting the ongoing tension between growth and administrative control.
 *   The article mentions that Guangzhou had significantly more primary schools and teachers than Shenzhen despite similar populations, suggesting a debate about whether Shenzhen's educational infrastructure has kept pace with its explosive population growth.
 *   The historical shift from local Cantonese and Hakka dialects to Mandarin as the dominant language is an ongoing cultural transformation, with recent attempts by some residents to revive Cantonese as part of the city's identity.
+
+Source: adapted from "Shenzhen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shenzhen

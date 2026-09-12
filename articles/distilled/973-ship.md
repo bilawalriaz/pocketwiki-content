@@ -55,3 +55,5 @@ The environmental impact of shipping remains highly contested, with debates over
 
 ## Fleet Statistics
 In 2016, there were more than 49,000 merchant ships, totaling almost 1.8 billion deadweight tons. By 2024, ships had a global cargo capacity of 2.4 billion tons, with the three largest classes being ships carrying dry bulk (43%), oil tankers (28%) and container ships (14%).
+
+Source: adapted from "Ship" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ship

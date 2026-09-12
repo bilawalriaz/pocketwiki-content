@@ -21,3 +21,5 @@ Subfields include historical, ethnoarchaeology, experimental, archaeometry, digi
 ## Current pressures
 
 Pseudoarchaeology, epitomized by Erich von Däniken's ancient-astronaut claims, misrepresents the past in violation of accepted scientific practice. Looting feeds the illicit antiquities trade. Climate change both destroys sites and opens frozen ones to a new field of glacial archaeology. Tension between descendant communities and researchers is partly addressed by NAGPRA (1990), though repatriations can end scientific study entirely, as with the 2005 Kitigan Zibi reburial. AI offers new tools for pattern recognition and translation but risks oversimplifying complex data and perpetuating outdated frameworks. Public outreach programs such as *Time Team* and Passport in Time build the popular support that protects sites from looting.
+
+Source: adapted from "Archaeology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Archaeology

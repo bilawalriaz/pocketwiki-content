@@ -51,3 +51,5 @@ Louis died of gangrene in 1715, having outlived his son and two grandsons. His h
 *   **Economic Impact of Huguenot Emigration:** While some historians argue the exodus of skilled workers severely weakened the French economy, others contend it was exaggerated, as many prominent Protestants converted and remained.
 *   **Legacy of His Wars:** Scholars disagree on whether his military campaigns were a glorious expansion that secured defensible borders for France or a reckless pursuit of vanity that bankrupted the state and sowed the seeds of the French Revolution.
 *   **The "I am the state" Quote:** The famous attribution "L'État, c'est moi" ("I am the state") is widely considered apocryphal by historians, though it encapsulates the perception of his absolute rule.
+
+Source: adapted from "Louis XIV" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_XIV

@@ -21,3 +21,5 @@ Functional MRI studies in humans, using images or sounds of a partner, show that
 ## What isolation does to the system
 
 The dependence of trust on this circuitry shows up when the system is perturbed. People who experience social isolation show increased activity in the hypothalamic-pituitary-adrenal (HPA) axis, a stress network that drives release of cortisol, a hormone that mobilises the body during threat, alongside reduced activity in brain regions that handle OT and AVP. Losing social contact at the same time raises the stress hormone that erodes bonding and suppresses the bonding molecules themselves, providing a biological mechanism for the common experience that loneliness and distrust reinforce each other.
+
+Source: adapted from "Biology of trust" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biology_of_trust

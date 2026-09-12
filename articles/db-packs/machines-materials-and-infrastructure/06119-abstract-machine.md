@@ -33,3 +33,5 @@ A generic abstract machine has two parts: a memory for programs and data, and an
 ## Hierarchies
 
 Abstract machines are often stacked. At the bottom sits a physical computer built from electronic devices, with a possible microprogrammed firmware layer above. The operating system then presents an abstract machine with higher-level primitives such as files. On top of this host machine, a high-level language can run through an intermediary machine like the JVM, and application layers, such as a "web machine" for HTTP and HTML or a web-service layer for business protocols, can sit above. Each level uses the level below and adds new functionality, so a programmer at the top works only with the abstractions of the highest relevant machine, while lower layers translate those abstractions into physical behaviour.
+
+Source: adapted from "Abstract machine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abstract_machine

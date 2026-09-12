@@ -45,3 +45,5 @@ Nicklaus founded Nicklaus Design, one of the world's largest golf course design 
 ## Debates and Open Questions
 - The source notes debate over the origin of Nicklaus's "Golden Bear" nickname, attributing it to either a Melbourne writer or his high school mascot.
 - The article states Nicklaus is "widely considered to be one of the greatest golfers of all time," implying an ongoing, though largely settled, debate about the greatest golfer.
+
+Source: adapted from "Jack Nicklaus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jack_Nicklaus

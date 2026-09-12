@@ -45,3 +45,5 @@ Stalin reversed course in late 1938, criticizing NKVD excesses and executing Yez
 - **Motivations:** Interpretations range from Stalin's paranoia and desire to eliminate all opposition, to an exaggerated fear of counter-revolution and foreign invasion, to the purge being a tool for social engineering.
 - **Scope and Scale:** While official figures document over 680,000 executions in 1937–38, total deaths including Gulag mortality range from 700,000 to 1.2 million. The targeting of ethnic minorities has led some scholars to label parts of the purge as genocidal.
 - **Historiographical Schools:** The "Totalitarian School" views the purge as a tool of absolute state control, while "Revisionists" argue it was driven by elite factionalism and that state control was not omnipresent.
+
+Source: adapted from "Great Purge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Purge

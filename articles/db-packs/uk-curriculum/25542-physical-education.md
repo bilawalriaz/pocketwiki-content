@@ -62,3 +62,5 @@ Teacher technology competence determines integration success.
 - **Brazil**: PE compulsory in basic education; National Common Curricular Base frames bodily practices broadly (games, sports, gymnastics, dances, martial arts, adventure).
 
 The International Charter of Physical Education establishes access to PE, physical activity, and sport as a fundamental human right for all.
+
+Source: adapted from "Physical education" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Physical_education

@@ -45,3 +45,5 @@ The dynasty weakened due to internal strife, financial mismanagement, and natura
 - The existence and nature of the four-class system is debated. Some historians argue it was a rigid social hierarchy, while others, like Frederick W. Mote, contend it defined legal privileges rather than social power or wealth. Japanese scholars have questioned the very existence of the Semu as a distinct class.
 - The degree of sinicization among Yuan emperors is debated. While some, like Tugh Temür, actively patronized Chinese culture, others remained more attached to Mongol traditions.
 - The legitimacy of Yuan rule in Chinese historiography is contested. Traditional narratives often view it as a legitimate dynasty, but many Han Chinese at the time saw it as a period of foreign domination.
+
+Source: adapted from "Yuan dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yuan_dynasty

@@ -54,3 +54,5 @@ Lagerlöf received the Nobel Prize in 1909 for "lofty idealism, vivid imaginatio
 - **Nobel Prize decision (1909)**: The award followed a "harsh internal power struggle" within the Swedish Academy. The specific factions and arguments (e.g., literary merit vs. traditionalism, gender bias) are not detailed in the source.
 - **Literary classification**: Critics initially gave *Gösta Berling's Saga* mild reviews; Brandes’s endorsement reversed its reception. The source notes comparisons to Homer and Shakespeare for *Jerusalem*, but the critical consensus on her place between realism, romantic nationalism, and modernism remains implicit.
 - **Film rights sale (1919)**: Lagerlöf sold rights to *all* unpublished works en bloc. The strategic reasoning (financial security vs. artistic control) and its long-term effect on her literary reputation versus her cinematic legacy are not explored.
+
+Source: adapted from "Selma Lagerlöf" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Selma_Lagerl%C3%B6f

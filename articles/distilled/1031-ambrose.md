@@ -84,3 +84,5 @@ Standard editions include the Maurist (Paris, 1686–90), Migne’s *Patrologia 
 - **Attitude toward Jews:** The Callinicum affair (388) shows Ambrose pressuring Theodosius to excuse a bishop from rebuilding a synagogue, using rhetoric modern scholars call bigoted. Yet he revered Philo of Alexandria as a "faithful interpreter" and used Jewish sources extensively. Whether his anti-Jewish rhetoric was theological polemic or personal hostility remains debated.
 - **Silent reading as innovation:** Augustine’s anecdote is often cited as evidence of a cognitive shift. Scholars debate whether silent reading was truly rare or merely unremarked in antiquity.
 - **Composership of Ambrosian chant:** The repertory is named for Ambrose but no melodies are securely his; the chant tradition likely developed later in Milan’s liturgy.
+
+Source: adapted from "Ambrose" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ambrose

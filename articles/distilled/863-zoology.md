@@ -45,3 +45,5 @@ Zoology contributes to conservation biology, addressing climate change, habitat 
 
 ## Debates and Open Questions
 Debates persist regarding the extent and nature of animal consciousness and cognition, particularly whether cognitive abilities form a continuum with human intelligence or represent fundamentally distinct phenomena. The classification of life remains dynamic, with molecular data continuously revising traditional groupings. The three-domain system itself is debated, as some evidence suggests eukaryotic origins may involve symbiotic mergers rather than simple divergence. Additionally, the relevance of the five-kingdom system versus newer models continues to evolve with genomic insights.
+
+Source: adapted from "Zoology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zoology

@@ -90,3 +90,5 @@ Film references: *Brazil* (1985), *Twelve Monkeys* (1996), *Brain Donors* (1992,
 - **Gummo’s nickname**: Rubber-soled shoes (dancer, hypochondriac, or "gumshoe" sneaking per Harpo).
 - ***Humor Risk* (1921)**: Only known screening poorly received; no copies survive; plot details (Groucho villain, Harpo romantic lead) from source only.
 - **Biopic *The Life and Times of the Marx Brothers* (1947)**: Announced in *Newsweek* with all five brothers; would have re-enacted unfilmed vaudeville/Broadway material; never produced.
+
+Source: adapted from "Marx Brothers" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marx_Brothers

@@ -46,3 +46,5 @@ Navigation also involves cognitive processes where humans form mental maps using
 
 ## Debates and Open Questions
 The increasing reliance on GNSS has sparked renewed interest in resilient navigation methods due to vulnerabilities from jamming and spoofing. There is ongoing debate about balancing automation with traditional skills, as over-reliance on technology may degrade navigators’ ability to operate independently. Additionally, the integration of AI in navigation raises questions about decision-making accountability and system reliability in critical situations. The future of autonomous maritime navigation also presents unresolved challenges in standardization, safety protocols, and human-machine interaction.
+
+Source: adapted from "Navigation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Navigation

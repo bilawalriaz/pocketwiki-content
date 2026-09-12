@@ -33,3 +33,5 @@ Two conservation laws dominate particle interactions: conservation of energy and
 ## Open questions
 
 Particle physicists still disagree on a single definition of a particle, describing it variously as a collapsed wave function, an excitation of a quantum field, an irreducible representation of the Poincaré group (the mathematical symmetry of spacetime), or simply an observed phenomenon. The proton's stability is experimentally undecided, the graviton plus the extra particles predicted by extensions of the Standard Model remain undetected, and current data cannot fully separate a truly stable neutrino from one that is merely extremely long-lived.
+
+Source: adapted from "Subatomic particle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Subatomic_particle

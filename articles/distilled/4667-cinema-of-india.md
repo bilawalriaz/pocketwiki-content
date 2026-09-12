@@ -51,3 +51,5 @@ Indian films gained early popularity in the Soviet Union, the Middle East, and S
 - The relative decline of Hindi cinema's box office share versus the rise of regional industries (especially Telugu and Tamil) is an ongoing shift, with regional films collectively accounting for ~60% of revenue in 2024.
 - The impact of the pan-Indian film model on the diversity and financial health of smaller regional industries is debated.
 - The influence of OTT (streaming) platforms on traditional theatrical distribution and film-making practices is a significant and evolving topic.
+
+Source: adapted from "Cinema of India" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cinema_of_India

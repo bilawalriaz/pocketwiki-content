@@ -32,3 +32,5 @@ A recurring proposal, first named "Transaqua" in the 1960s, seeks to divert wate
 
 ## Debates and Open questions
 The primary open question is the feasibility and impact of the proposed inter-basin transfer to replenish Lake Chad. The source text notes the project has been proposed repeatedly since the 1960s, with formal commitments and studies initiated as recently as 2008, but does not report on its completion or outcome, implying it remains a debated and unresolved proposal.
+
+Source: adapted from "Ubangi River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ubangi_River

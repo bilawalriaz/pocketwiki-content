@@ -25,3 +25,5 @@ A vector space has a dimension, the number of independent directions it contains
 ## Vectors in calculus
 
 Vector calculus extends differentiation and integration to vector-valued functions. Its central operators are the gradient of a scalar field and the divergence and curl of a vector field, and its integral tools include line, surface, and volume integrals over vector quantities, which together underpin calculations of work, flux, and fluid flow in physics and engineering.
+
+Source: adapted from "Vector (mathematics and physics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vector_%28mathematics_and_physics%29

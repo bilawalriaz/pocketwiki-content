@@ -48,3 +48,5 @@ Pessoa died young on 30 November 1935, leaving behind an enormous archive of unp
 
 ## Debates and Open Questions  
 Scholars debate whether Pessoa's heteronyms represent genuine dissociative identities or sophisticated literary constructs. Some interpret his mystical experiences as authentic spiritual encounters, while others view them as performative or psychologically symbolic. The authenticity of his "triumphant day"—when he allegedly channeled Alberto Caeiro—has been questioned, with evidence suggesting it may have been retroactively mythologized. Additionally, his political evolution—from republican sympathizer to fascist critic—remains contested, particularly regarding his elitism and ambiguous relationship with authoritarianism. The ongoing editorial project of organizing his vast manuscript legacy continues to shape scholarly understanding of his oeuvre.
+
+Source: adapted from "Fernando Pessoa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fernando_Pessoa

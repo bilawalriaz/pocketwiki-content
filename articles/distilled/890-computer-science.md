@@ -105,3 +105,5 @@ Conferences are the primary prestige venue for computer science research, unlike
 *   **P vs. NP**: The central open problem in theory of computation; resolution would define the limits of feasible computation.
 *   **Machine Intelligence**: Turing’s question "Can computers think?" remains effectively unanswered; the Turing test is a behavioral benchmark, not a proof of cognition.
 *   **Fast Fourier Transform Lower Bound**: The minimum computational complexity for FFT algorithms is an unsolved problem in theoretical computer science.
+
+Source: adapted from "Computer science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer_science

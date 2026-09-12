@@ -50,3 +50,5 @@ A second guard `D` is checked for consistency with the constraint store rather t
 ## Related systems
 
 CCLP was developed in the late 1980s by integrating principles of concurrent logic programming into constraint logic programming, with Michael J. Maher among its initiators. Its theoretical properties were later studied by researchers including Martin Rinard and Vijay A. Saraswat. Constraint handling rules use a similar syntax but target constraint simplification and solving rather than concurrent processes. Other systems that connect logic or constraint programming to concurrency include Curry, ToonTalk, Janus, and Alice.
+
+Source: adapted from "Concurrent constraint logic programming" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Concurrent_constraint_logic_programming

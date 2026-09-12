@@ -81,3 +81,5 @@ Computers have coordinated information between locations since the 1950s, starti
 - The exact device that was the first microprocessor is contentious, partly due to lack of agreement on the definition of "microprocessor," though the Intel 4004 is largely undisputed as the first single-chip microprocessor.
 - The Z3 was not itself a universal computer but could be extended to be Turing complete.
 - The first completely transistorized computer is debated: the University of Manchester machine (1953) used valves for clock waveforms, while the Harwell CADET (1955) is credited as the first completely transistorized computer.
+
+Source: adapted from "Computer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer

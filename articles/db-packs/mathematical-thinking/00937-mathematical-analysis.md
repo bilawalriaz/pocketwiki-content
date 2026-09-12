@@ -37,3 +37,5 @@ Differential equations encode the laws of classical mechanics, general relativit
 ## Continuing debates
 
 Historical controversies about whether continua are built from points or from infinitesimals were settled, in mainstream mathematics, by the ε, δ framework and by Dedekind's construction of the reals. Active alternatives remain: constructive analysis insists that every existence proof supply an explicit example; non-standard analysis revives rigorous infinitesimals via an extended number system; and computable analysis restricts attention to functions an algorithm can actually carry out. These programmes change which objects are admitted as legitimate while leaving the core results of standard analysis intact.
+
+Source: adapted from "Mathematical analysis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematical_analysis

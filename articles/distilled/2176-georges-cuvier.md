@@ -47,3 +47,5 @@ Cuvier conducted racial studies that contributed to scientific racism. He catego
 - **Catastrophism vs. uniformitarianism**: Cuvier's catastrophist theory lost ground to Lyell's uniformitarianism after his death, but modern understanding of mass extinctions has renewed interest in catastrophic events.
 - **Human fossils**: Cuvier stated no human fossils had been found but was not dogmatic; he later acknowledged a possible example when new evidence emerged.
 - **Racial classification**: His racial theories, based on skull measurements and mental hierarchies, are now discredited but were foundational to scientific racism.
+
+Source: adapted from "Georges Cuvier" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georges_Cuvier

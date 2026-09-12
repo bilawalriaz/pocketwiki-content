@@ -69,3 +69,5 @@ From the 1980s, French academics (Chomarat, Benazra, Halbronn, Lemesurier, Grube
 - **Nostradamus’s true astrological competence**: While he claimed judicial astrology, contemporaries (Laurens Videl) and modern analysts cite frequent calculation errors (failure to adjust for latitude/time) and fundamental misunderstandings of astrological theory.
 - **Intent: Prophecy vs. Literary Pastiche**: Scholars debate whether Nostradamus believed in his predictive ability or consciously constructed a literary pastiche of historical precedent for patronage/safety; his repeated explicit rejection of the title "prophet" supports the latter.
 - **Origin of the 3797 end-date**: The preface’s claim that prophecies extend to 3797 (2242 years after 1555) likely derives from source Richard Roussat’s end-of-world calculation, but the specific transmission path is not definitively proven.
+
+Source: adapted from "Nostradamus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nostradamus

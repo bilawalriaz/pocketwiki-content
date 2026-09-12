@@ -51,3 +51,5 @@ Palmyrenes worshipped a pantheon of Semitic, Mesopotamian, and Arab deities, wit
 - **Language Disappearance**: The reasons for the rapid decline of the Palmyrene Aramaic language after 273 CE are unclear, with theories ranging from Roman suppression to social reorganization.
 - **Sol Invictus Connection**: The link between the Palmyrene sun god Malakbel and the Roman imperial cult of Sol Invictus promoted by Aurelian is inferred but not definitively proven.
 - **Founding Legends**: The biblical association of Palmyra with King Solomon is considered a conflation with another city and does not match archaeological evidence.
+
+Source: adapted from "Palmyra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Palmyra

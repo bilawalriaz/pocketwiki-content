@@ -29,3 +29,5 @@ Among TNOs, components are often comparable in size, with orbits 100–1000 prim
 The origin of minor-planet moons remains uncertain. One leading model is collision: debris knocked off the primary later becomes a companion. This fits close binaries like Pluto–Charon, where angular momentum (the rotational momentum of the orbiting masses) is constrained by mass and separation. More distant pairs with comparable-size components are harder to explain by collision alone unless substantial mass was lost. Gravitational capture is an alternative, and tidal disruption during planetary flybys likely contributes to near-Earth binaries.
 
 A moon's orbit reveals the primary's mass via Kepler's third law (the orbital period squared is proportional to the orbital radius cubed, scaled by total mass), which combined with size yields density, distinguishing rocky from icy composition.
+
+Source: adapted from "Minor-planet moon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Minor-planet_moon

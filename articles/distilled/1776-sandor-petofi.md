@@ -35,3 +35,5 @@ Petőfi married Júlia Szendrey in 1847, despite her father's opposition. They h
 - The exact circumstances of Petőfi's death are still debated among historians, with some theories suggesting that he may have died in Siberia, although there is no conclusive evidence to support this claim.
 - The interpretation of Petőfi's poetry and its role in the Hungarian Revolution of 1848 is still a subject of scholarly debate.
 - The legacy of Petőfi's work and its impact on Hungarian literature and culture are still being studied and appreciated by scholars and the general public.
+
+Source: adapted from "Sándor Petőfi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/S%C3%A1ndor_Pet%C5%91fi

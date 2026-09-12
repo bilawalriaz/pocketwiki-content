@@ -34,3 +34,5 @@ Children raised with more than one language have more than one first language an
 ## Cultural weight and timing
 
 A first language shapes personal, social, and cultural identity, and it carries the patterns of speaking and interacting that succeed in a community. Immersion research gives a practical benchmark: non-native speakers can reach functional fluency in a new language after roughly two years of immersion, but it typically takes five to seven years to match native-speaking peers in working language tasks. 21 February is International Mother Language Day, designated by UNESCO in 1999 to mark the value of mother languages worldwide.
+
+Source: adapted from "First language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/First_language

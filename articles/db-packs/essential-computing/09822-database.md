@@ -51,3 +51,5 @@ The 1980s brought desktop databases like dBASE. The 1990s added object-oriented 
 ## What a database gives you
 
 Compared with a filesystem, a database provides querying without writing custom code, concurrent access without corrupted writes, crash recovery without manual restoration, and security controls without separate files. The price is an extra software layer, the DBMS, between applications and storage, and the need to model data before using it. A user table, an address table, and a phone-number table, with relationships expressed by keys, illustrates the relational approach: every fact in one place, joins assembled on demand.
+
+Source: adapted from "Database" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Database

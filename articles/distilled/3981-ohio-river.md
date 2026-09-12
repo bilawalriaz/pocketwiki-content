@@ -52,3 +52,5 @@ The Ohio River is a major industrial corridor for barge traffic carrying oil, st
 - **Pollution Responsibility**: There is ongoing debate over the enforcement of environmental regulations and the responsibility of industries versus regulatory agencies like the EPA for the river's persistent pollution.
 - **Environmental Justice**: Scholars and activists question the fairness of how economically disadvantaged communities along the river bear the brunt of industrial pollution and its health consequences.
 - **Legacy of Industrialization**: The long-term ecological and health impacts of historical pollution from coal, steel, and chemical industries remain a subject of study and concern.
+
+Source: adapted from "Ohio River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ohio_River

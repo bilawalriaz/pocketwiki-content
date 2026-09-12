@@ -57,3 +57,5 @@ The chief deity was Ashur, the national god who commanded imperial expansion. As
 - The status of *ḫarımtū* women in the Middle Assyrian period is debated; they are now often interpreted as independent women.
 - The extent to which Neo-Assyrian kings' annals served as history versus propaganda is discussed.
 - The origins of modern Assyrian identity, including the 19th-century re-adoption of the term "Assyrian," involve complex factors.
+
+Source: adapted from "Assyria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Assyria

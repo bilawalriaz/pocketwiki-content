@@ -43,3 +43,5 @@ Landscape architects typically require an accredited university degree. The prof
 - The inclusion and recognition of Indigenous land management practices within the formal history and contemporary practice of landscape architecture.
 - The evolving relationship and distinct roles between landscape architecture and the separate profession of urban planning.
 - The impact of colonialism, where Western landscape ideals were used to justify the dispossession of Indigenous peoples, as seen in interpretations of Australian landscapes.
+
+Source: adapted from "Landscape architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Landscape_architecture

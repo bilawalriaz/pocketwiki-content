@@ -45,3 +45,5 @@ Mosaddegh remains one of Iran's most popular historical figures, a symbol of ant
 *   **Role of the Clergy:** The withdrawal of support from key clerics like Ayatollah Abol-Ghasem Kashani is considered a fatal blow to Mosaddegh's coalition. The reasons for this shift—whether due to fear of communism, opposition to secular reforms, or other factors—are debated.
 *   **Electoral Legitimacy:** Accounts differ on the 1952 election. Some historians argue Mosaddegh stopped the vote early to secure a quorum, while others suggest he was responding to British-funded manipulation of the electoral process.
 *   **Long-Term Consequences ("Blowback"):** The extent to which the coup directly caused the 1979 Islamic Revolution and subsequent anti-Western sentiment in Iran is a central point of analysis in U.S.-Iranian relations.
+
+Source: adapted from "Mohammad Mosaddegh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mohammad_Mosaddegh

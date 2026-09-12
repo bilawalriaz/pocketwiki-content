@@ -60,3 +60,5 @@ The population is 95% Sunni Muslim and about 4% Christian. Arabs constitute 98% 
 - The role and future of Jordan's large refugee populations, particularly Palestinians and Syrians, in relation to national identity and resources.
 - The balance of power between the monarchy and elected parliament, with ongoing efforts to transition to a more parliamentary system hampered by weak political parties.
 - The long-term economic sustainability of Jordan given its lack of natural resources, high debt, and dependence on foreign aid and remittances.
+
+Source: adapted from "Jordan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jordan

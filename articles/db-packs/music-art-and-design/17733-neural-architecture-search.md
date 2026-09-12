@@ -39,3 +39,5 @@ NAS's appetite for compute drives a large carbon footprint. NAS benchmarks fix a
 | Differentiable / one-shot | One supernet, gradient over architecture | A few GPU-days |
 | Benchmark query | Look up or predict | Seconds on a CPU |
 ```
+
+Source: adapted from "Neural architecture search" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neural_architecture_search

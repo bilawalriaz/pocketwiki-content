@@ -35,3 +35,5 @@ Simple alcohols have low acute toxicity, with LD₅₀ (the dose lethal to 50 % 
 ## Where alcohols come from in nature
 
 Alcohols are pervasive: sugars, cellulose, and lignin all carry –OH groups, and biomass fixes roughly 180 billion tons of such carbohydrate per year (as of 2014). Simple alcohols such as methanol, ethanol, and propanol also occur in small natural quantities, but world supply is dominated by industrial synthesis. The most important industrial alcohols are methanol (about 12 million tons per year as of 1980, used for formaldehyde and as a fuel additive), ethanol (beverages, fuel, solvent, sterilising), C₄–C₁₁ alcohols (solvents and plasticisers for PVC), and C₁₂–C₁₈ fatty alcohols (precursors to detergents).
+
+Source: adapted from "Alcohol (chemistry)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alcohol_%28chemistry%29

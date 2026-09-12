@@ -47,3 +47,5 @@ The region features diverse traditions, including distinct clothing (sari, dhoti
 ## Debates and Open Questions
 - The exact contribution of the Deccan Traps eruption to the Cretaceous–Paleogene extinction event (including dinosaur extinction) is debated among scientists.
 - Historians and geographers have used varying definitions of the Deccan's boundaries, sometimes based on linguistic lines, political borders, or physical features like the Tapti or Godavari rivers.
+
+Source: adapted from "Deccan Plateau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Deccan_Plateau

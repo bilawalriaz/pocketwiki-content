@@ -48,3 +48,5 @@ Immediate reception was strong: Cicero praised the poem’s genius; Virgil echoe
 - **Copper vs. bronze**: Lucretius treats copper as the primary early metal, seemingly conflating it with bronze (copper-tin alloy); it is debated whether he misunderstood metallurgy or used "copper" generically.
 - **Evolutionary mechanism**: Lucretius describes differential survival based on trait-environment fit but explicitly denies speciation (new species from old); scholars debate whether this constitutes "natural selection" or a distinct, static model.
 - **Cicero’s emendation**: Jerome claims Cicero edited the poem; no independent evidence confirms this, and the poem’s Epicurean content clashes with Cicero’s Academic skepticism.
+
+Source: adapted from "Lucretius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lucretius

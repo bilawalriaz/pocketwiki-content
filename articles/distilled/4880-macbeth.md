@@ -44,3 +44,5 @@ A long-standing theatre superstition holds that speaking the play's name inside 
 - **Textual Integrity**: Scholars debate whether the First Folio text is a complete, original version or an abridged adaptation from a longer manuscript or prompt book. The inclusion of songs and the character Hecate may be later additions by Thomas Middleton.
 - **Banquo's Character**: The extent to which Shakespeare altered Banquo's historical role from accomplice to noble foil, and whether this was primarily for political flattery of King James I.
 - **The Witches' Nature**: Interpretations vary on whether the witches are literal supernatural agents, psychological symbols, or embodiments of chaos and political treason.
+
+Source: adapted from "Macbeth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Macbeth

@@ -80,3 +80,5 @@ Linear algebra originated with Descartes' 1637 Cartesian coordinates, representi
 ## Debates and Open Questions
 
 The source notes that 19th-century mathematicians developed linear algebra's core results without defining abstract vector spaces, raising questions about whether abstraction was necessary for progress. The relationship between synthetic geometry (axiom-based) and analytic geometry (vector space-based) was historically debated but is now considered equivalent. The choice between matrix-based and vector-space-based presentations remains pedagogically contested, with vector spaces being more general but more abstract.
+
+Source: adapted from "Linear algebra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Linear_algebra

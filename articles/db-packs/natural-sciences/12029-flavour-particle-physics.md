@@ -47,3 +47,5 @@ Isospin was introduced in 1932 by Werner Heisenberg to treat the nearly degenera
 ## The flavour problem
 
 The Standard Model leaves the fermion masses and the CKM and PMNS mixing angles as free parameters with no explanation for their values. The electron is about 350,000 times lighter than the top quark, the muon is roughly 200 times heavier than the electron, and the CKM entries vary by orders of magnitude. Why three generations exist, why the masses spread so widely, and why the mixing angles take the values measured in experiment remain open questions collectively called the flavour puzzle.
+
+Source: adapted from "Flavour (particle physics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Flavour_%28particle_physics%29

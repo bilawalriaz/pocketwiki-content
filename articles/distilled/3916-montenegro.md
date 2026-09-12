@@ -46,3 +46,5 @@ After Yugoslavia's dissolution, Montenegro remained in a federation with Serbia.
 - **Ethnic and Religious Identity**: The population is multiethnic with no majority, and the relationship between the dominant Serbian Orthodox Church and the smaller, unrecognized Montenegrin Orthodox Church is a source of tension, as seen in the 2018 Law on Religion protests.
 - **EU Accession Timeline**: While a long-term goal, the target date for EU membership has been repeatedly revised, with the latest expectation being 2027-2028.
 - **Political Instability**: Since 2020, Montenegro has experienced frequent government changes, including a failed coup attempt in 2016 and multiple no-confidence votes.
+
+Source: adapted from "Montenegro" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Montenegro

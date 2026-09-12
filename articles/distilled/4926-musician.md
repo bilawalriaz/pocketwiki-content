@@ -29,3 +29,5 @@ A musician's output is influenced by factors including culture, skill set, life 
 
 ## Debates and open questions
 The source does not present any scholarly debates or open questions on the topic.
+
+Source: adapted from "Musician" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Musician

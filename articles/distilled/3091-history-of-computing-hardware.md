@@ -48,3 +48,5 @@ The integrated circuit (IC), invented by Jack Kilby and Robert Noyce around 1958
 - **Inventor of the Mechanical Calculator:** A debate exists over whether Wilhelm Schickard (1623) or Blaise Pascal (1642) should be regarded as the inventor.
 - **First Microprocessor:** The exact definition of "microprocessor" leads to contention over which device was the first, with candidates including the Four-Phase Systems AL-1 (1969), the Garrett AiResearch MP944 (1970), and the Intel 4004 (1971).
 - **First Microcomputer:** Which specific product is considered the first microcomputer system is a matter of debate, with early examples including the R2E Micral N (1973) and the Altair 8800 (1975).
+
+Source: adapted from "History of computing hardware" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_computing_hardware

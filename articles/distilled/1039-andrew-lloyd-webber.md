@@ -63,3 +63,5 @@ Created a Conservative life peer in 1997, he voted only 33 times by 2015. He sup
 - **Artistic merit vs. commercial formula**: Critics debate whether his through-composed, spectacle-driven model advanced the form or prioritized replicable product over dramatic integration; *Starlight Express* and *Love Never Dies* are frequent flashpoints.
 - **COVID-19 response**: His 2021 threat to be arrested to open *Cinderella* at full capacity sparked debate over arts advocacy versus public-health responsibility.
 - **Succession of the *Phantom* franchise**: With *Love Never Dies* (2010) poorly received and *The Phantom of Manhattan* abandoned, the 2023–24 *Sunset Boulevard* revivals and planned *The Illusionist* test whether his late-career work can match his 1980s peak.
+
+Source: adapted from "Andrew Lloyd Webber" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andrew_Lloyd_Webber

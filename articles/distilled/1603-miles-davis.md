@@ -71,3 +71,5 @@ Davis is widely cited as the most influential jazz musician post-1945. *The Pudd
 - **Separation of art and biography:** The documented domestic violence (Taylor, Gelbard) and misogyny raise ethical questions about celebrating Davis’s legacy, highlighted in recent criticism (*A.V. Club*, Francis Davis).
 - **Commercial motivation vs. artistic integrity:** Davis claimed his 1970s funk turn aimed to reach young Black audiences (R&B/rock radio), but Columbia marketed it to jazz stations; debate persists on whether he compromised or was compromised.
 - **AZT/HIV status:** Davis received AZT during final hospitalization (per Quincy Troupe); manager denied AIDS (1989). Source does not confirm diagnosis; remains an open biographical question.
+
+Source: adapted from "Miles Davis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Miles_Davis

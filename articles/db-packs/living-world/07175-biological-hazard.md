@@ -40,3 +40,5 @@ The defining shift between BSL-2 and BSL-3 is the existence of medical counterme
 BSL-4 work requires a positive-pressure personnel suit with a segregated air supply. Entry and exit pass through multiple showers, a vacuum room, an ultraviolet-light room, and an autonomous detection system, with electronically interlocked airlocks so that two doors can never open at once. All air and water entering or leaving the facility is decontaminated, a redundancy layered on top of the suit, the showers, and the air filtration.
 
 The colour-coded warning label on the door, the UN number on the shipping container, and the biosafety level on the lab together describe a biohazard from the moment it is packaged to the moment it is destroyed.
+
+Source: adapted from "Biological hazard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_hazard

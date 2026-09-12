@@ -36,3 +36,5 @@ With limited agriculture, many habitats remain undisturbed. 31% of the desert is
 
 ## Debates and Open Questions
 The source does not detail specific scholarly debates, but the ongoing management of radioactive contamination from the 1950s–60s nuclear tests and the balance between conservation and access in such a vast, remote area are implied challenges.
+
+Source: adapted from "Great Victoria Desert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Victoria_Desert

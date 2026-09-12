@@ -38,3 +38,5 @@ In 1825, Ørsted successfully isolated metallic aluminium by reacting aluminium 
 
 ## Debates and Open Questions
 The source notes that the popular story of Ørsted discovering electromagnetism accidentally during a lecture is a myth; his work was the result of a deliberate, multi-year research program. His initial interpretation of the magnetic effect was incorrect, and his discovery of aluminium was initially overlooked due to its limited publication and his own ambivalence toward its importance.
+
+Source: adapted from "Hans Christian Ørsted" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hans_Christian_%C3%98rsted

@@ -51,3 +51,5 @@ The lake faces pollution from industrial and tourist sources. The Baykalsk Pulp 
 - The true diversity of ostracod crustaceans is likely heavily underestimated.
 - The long-term ecological impact of the closed Baykalsk Pulp and Paper Mill's lignin sludge reservoirs remains a hazard.
 - The environmental consequences of the constructed uranium enrichment center near Angarsk are a concern for critics.
+
+Source: adapted from "Lake Baikal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Baikal

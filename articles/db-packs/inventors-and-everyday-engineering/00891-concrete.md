@@ -41,3 +41,5 @@ Hardened concrete is non-combustible, and its low thermal conductivity protects 
 ## The climate cost
 
 Cement-making produces roughly 8 percent of global CO₂ emissions, about one tonne of CO₂ per tonne of cement. About 60 percent comes from calcining limestone to release the lime; the rest comes from kiln fuel. Each tonne of finished concrete carries on the order of 100–200 kg of CO₂. Mitigations include clinker substitution with fly ash or slag, leaner mixes enabled by superplasticizers, and eventually kiln-scale carbon capture or alternative binders such as geopolymers and calcium sulfoaluminate cements. The embodied energy of concrete, roughly 1–1.5 MJ per kilogram, is far lower than steel. The fly ash and slag that make Portland-cement blends effective will themselves grow scarce as coal-fired power and steelmaking decarbonize, forcing a re-engineering of the binder the modern world is built on.
+
+Source: adapted from "Concrete" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Concrete

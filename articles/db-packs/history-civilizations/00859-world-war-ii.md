@@ -29,3 +29,5 @@ The **Holocaust**, the Nazi regime's systematic murder of roughly six million Je
 ## Open Questions
 
 Historians still debate the war's precise start, citing Japan's 1931 invasion of Manchuria or the 1936 Spanish Civil War. Some scholars argue that resistance to Japanese expansion in China could have been far more effective had the major Western powers acted earlier and more forcefully. The end date is also contested: V-J Day (15 August 1945) versus Japan's formal surrender on 2 September. Whether the atomic bombings were necessary to end the war, and how far economic motives versus ideology drove Axis aggression, remain active debates.
+
+Source: adapted from "World War II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/World_War_II

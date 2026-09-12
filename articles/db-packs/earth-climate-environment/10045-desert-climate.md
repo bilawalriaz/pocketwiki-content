@@ -25,3 +25,5 @@ Summers are hot or warm but rarely as severe as in BWh regions. Winters are cold
 ## What the two subtypes share
 
 BWh and BWk both result in a landscape where evaporation wins, vegetation is sparse, and life is organised around drought. BWh is the product of Hadley-cell subsidence (large-scale sinking air in the tropics and subtropics, which warms and dries as it descends) under the subtropical highs. BWk is mostly the product of continental interiors and rain shadows, where mountains strip moisture from air before it can reach the basin.
+
+Source: adapted from "Desert climate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Desert_climate

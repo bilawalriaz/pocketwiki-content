@@ -34,3 +34,5 @@ In 2016, the museum received the significant Hays Collection of about 600 post-I
 
 ## Debates and Open Questions
 The source does not detail significant scholarly debates about the museum itself, but it notes that the original Gare d'Orsay design was considered an "anachronism" at the time of its construction. The museum's role in addressing the provenance of looted art is an ongoing area of public and institutional focus.
+
+Source: adapted from "Musée d'Orsay" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay

@@ -46,3 +46,5 @@ The Aq Qoyunlu have a direct dynastic link to their successors, the Safavid Empi
 
 ## Debates and Open Questions
 The exact origin of the name "Aq Qoyunlu" is debated; while likely referring to flags, hypotheses about totemic symbols or flock colors exist. The historicity of their early claimed ancestors, beyond figures like Tur Ali Beg, is uncertain, with many names appearing to be drawn from the Oghuz legend. The precise reasons for the rapid popular shift towards the Safavid order under Ya'qub's rule involve complex interplay between religious patronage, tribal politics, and Sunni-Shia dynamics.
+
+Source: adapted from "Aq Qoyunlu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aq_Qoyunlu

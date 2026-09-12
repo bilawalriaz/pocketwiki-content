@@ -63,3 +63,5 @@ The extent of Heine’s influence on Nazi ideology remains contested. Though the
 His relationship with Karl Marx has also sparked debate. While both shared opposition to capitalism and authoritarianism, Heine’s emphasis on individual expression and aesthetic pleasure contrasted sharply with Marx’s revolutionary materialism. Their correspondence reveals mutual respect tempered by fundamental philosophical differences.
 
 Finally, the interpretation of Heine’s “empty phrase”—a concept critiqued by Karl Kraus—remains contentious. Some view it as evidence of his complicity in the commodification of culture, while others see it as a deliberate artistic strategy that exposed the contradictions of modern life.
+
+Source: adapted from "Heinrich Heine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Heinrich_Heine

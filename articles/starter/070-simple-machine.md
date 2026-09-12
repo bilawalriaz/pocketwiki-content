@@ -8,3 +8,5 @@ Pulley
 Inclined plane
 Wedge
 Screw
+
+Source: adapted from "Simple machine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Simple_machine

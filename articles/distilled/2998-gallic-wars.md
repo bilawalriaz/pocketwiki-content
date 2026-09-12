@@ -42,3 +42,5 @@ The primary source is Caesar's own *Commentarii de Bello Gallico*, a work of pro
 - **Accuracy of Numbers**: How reliable are Caesar's figures for Gallic populations and army sizes? Most scholars believe he drastically exaggerated enemy numbers to magnify his victories.
 - **Motives for Invasion**: While personal ambition is the consensus, some debate whether Caesar initially targeted Gaul or another region like Dacia before the Helvetian migration provided an opportunity.
 - **Impact of the *Commentarii***: To what extent did Caesar's writings shape the historical memory of the wars, and how much truth is obscured by his political agenda?
+
+Source: adapted from "Gallic Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gallic_Wars

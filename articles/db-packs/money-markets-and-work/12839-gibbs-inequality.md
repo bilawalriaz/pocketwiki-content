@@ -43,3 +43,5 @@ Choosing Q to be the uniform distribution, where every qᵢ = 1 / n, produces th
 $$H(p_1, \ldots, p_n) \;\le\; \log n,$$
 
 with equality when P itself is uniform. Among all distributions on n outcomes, the uniform distribution has the largest entropy.
+
+Source: adapted from "Gibbs' inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gibbs%27_inequality

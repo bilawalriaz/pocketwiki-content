@@ -64,3 +64,5 @@ Webster published a *Compendious Dictionary* in 1806, then spent 26 years expand
 - **Abolitionism reversal**: Historians debate the causes of Webster’s shift from founding an abolition society (1791) to publishing a racist history textbook (1832) and condemning abolitionist preachers (1837), reflecting broader Northern complicity debates.
 - **Secular vs. religious education**: The *Speller* pioneered secular civics ("secular catechism to the nation-state"), yet Webster later insisted "Education is useless without the Bible," embodying a tension in American educational philosophy.
 - **Lexicography as poetry**: Nathan Austin argues Webster’s definitions possess a "lexical poetics" that influenced Emily Dickinson and American literature, raising questions about dictionaries as literary artifacts.
+
+Source: adapted from "Noah Webster" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Noah_Webster

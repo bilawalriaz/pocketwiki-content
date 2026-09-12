@@ -33,3 +33,5 @@ To compete with PHP and ASP, LassoSoft produced Lasso 9 in January 2010, a sweep
 ## Position
 
 Lasso runs on macOS, Windows, and Linux, with file extensions `.lasso` and `.LassoApp`. It is proprietary, influenced by Dylan, Smalltalk, and Scala, and is most often compared to PHP, Python, Ruby, and ColdFusion as a server-side scripting language.
+
+Source: adapted from "Lasso (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lasso_%28programming_language%29

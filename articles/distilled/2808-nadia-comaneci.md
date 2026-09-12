@@ -49,3 +49,5 @@ Comăneci is celebrated for her clean technique, innovative skills, and stoic de
 *   The scoring controversies at the 1977 European Championships and the 1980 Moscow Olympics, where Comăneci and her coach publicly disputed judging decisions.
 *   The impact of the Romanian government's strict control and surveillance on Comăneci's mental health and career trajectory after 1976.
 *   The debate over whether the age-eligibility rule change in gymnastics (raising the minimum age to 16) was a direct response to her record-setting performance at age 14.
+
+Source: adapted from "Nadia Comăneci" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci

@@ -49,3 +49,5 @@ After retiring, Bradman became a powerful cricket administrator, serving as a se
 - **Administrative decisions:** Was his cancellation of the 1971–72 South Africa tour a principled stand or a political move that ignored public opinion?
 - **Personal relationships:** Was Bradman's perceived aloofness a result of his intense focus, the pressures of fame, or his personality?
 - **Statistical dominance:** Is his batting average of 99.94 the greatest single achievement in world sport, given the context of different eras and conditions?
+
+Source: adapted from "Don Bradman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Don_Bradman

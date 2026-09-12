@@ -43,3 +43,5 @@ From the 16th to 18th centuries, Khorasan was contested between Safavid Persia a
 *   The precise boundaries of "Greater Khorasan" are debated, with definitions ranging from a strict core to a loose sphere of influence extending to the Indus Valley.
 *   The origin of the name is debated; while it is Persian, some scholars argue it is a calque (loan translation) from the Bactrian name *Miirosan*, which also meant "sunrise, east."
 *   The extent of the "Greater Khorasan Civilization" (GKC) as a distinct Bronze Age interaction sphere in Central Asia (c. 2400–1500 BCE) is a subject of recent scholarly consideration.
+
+Source: adapted from "Khorasan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khorasan

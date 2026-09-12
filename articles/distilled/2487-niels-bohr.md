@@ -49,3 +49,5 @@ Bohr was deeply influenced by philosophy, particularly the work of Søren Kierke
 - **Bohr's Philosophical Stance:** Scholars debate whether Bohr was an anti-realist, instrumentalist, or a different kind of realist regarding the quantum world. His famous quote about "no quantum world" is attributed second-hand and disputed.
 - **Influence of Kierkegaard:** The extent to which the philosopher Kierkegaard influenced Bohr's scientific and philosophical thought is debated among biographers.
 - **Role in Danish Rescue (1943):** Historians differ on whether Bohr's actions in Sweden were a decisive factor in the subsequent mass rescue of Danish Jews.
+
+Source: adapted from "Niels Bohr" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Niels_Bohr

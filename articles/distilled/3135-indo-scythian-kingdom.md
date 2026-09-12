@@ -43,3 +43,5 @@ The Indo-Scythians were patrons of Buddhism, continuing the tradition of the Ind
 - The theory that the Shakya clan of Gautama Buddha was of Scythian origin is debated; scholars like Michael Witzel support it, while others like Johannes Bronkhorst criticize it for lacking evidence.
 - The exact route taken by Maues to capture Taxila is inferred from petroglyphs, but the precise military campaigns remain a subject of archaeological study.
 - The identification of ancient places like "Chipin" (Kipin) in accounts of the Sai-Wang hordes is disputed, with scholars proposing locations such as Kashmir or Kafiristan.
+
+Source: adapted from "Indo-Scythian Kingdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indo-Scythian_Kingdom

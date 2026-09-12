@@ -78,3 +78,5 @@ Viral origins remain debated among three competing hypotheses, none definitively
 The classification of giant viruses challenges traditional boundaries between viruses and cellular life, raising questions about the minimum requirements for viral identity.
 
 Whether all known viruses share a common ancestor is uncertain, with evidence suggesting multiple independent origins through various mechanisms.
+
+Source: adapted from "Virus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Virus

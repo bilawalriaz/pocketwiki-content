@@ -46,3 +46,5 @@ The Indo-Greeks were progressively displaced from the west by the Indo-Scythians
 *   **Chronology and Sequencing:** The precise order and dates of rule for many Indo-Greek kings are uncertain and reconstructed primarily from numismatic (coin) evidence, such as overstrikes.
 *   **Ethnicity of Later Rulers:** The ethnic background of later Indo-Greek kings is sometimes unclear, with some possibly having mixed heritage (e.g., Indo-Scythian).
 *   **Nature of Decline:** The process of decline—whether through gradual assimilation, military conquest, or a combination—is a subject of ongoing scholarly analysis.
+
+Source: adapted from "Indo-Greek Kingdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indo-Greek_Kingdom

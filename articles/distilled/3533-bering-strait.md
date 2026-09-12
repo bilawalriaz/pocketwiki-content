@@ -40,3 +40,5 @@ During the Cold War, the strait was the heavily fortified "Ice Curtain" border b
 
 ## Debates and Open questions
 The source presents the Beringia migration theory as the "most accepted" but notes it is a "scientific theory." The proposed engineering projects, such as dams to alter the Arctic climate, are presented as proposals with significant political, financial, and environmental objections, indicating ongoing debate about their feasibility and consequences.
+
+Source: adapted from "Bering Strait" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bering_Strait

@@ -33,3 +33,5 @@ Double stars were first noticed through telescopes in the 17th century, with Miz
 ## Planets around binaries
 
 Planets in binary systems are rarer than around single stars. Kepler found planets around most Sun-like single stars but only about a third of comparable binaries, because a companion's gravity tends to disrupt the disks from which protoplanets form. Planets that orbit just one component sit on *S-type* orbits; those that orbit the whole pair are *P-type*, or circumbinary. Simulations suggest 50 to 60% of binary systems could in principle support a stable habitable zone, but the gravitational environment is delicate and easy to destabilize.
+
+Source: adapted from "Binary star" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Binary_star

@@ -43,3 +43,5 @@ The Wilkinson Microwave Anisotropy Probe (WMAP), launched in 2001, used the firs
 Light from distant objects was emitted when the universe was younger. The lookback time, t_L(z) = t₀ − t_e(z), is the difference between the universe's present age and its age when the light left a source at redshift z, a measure of how much the light has been stretched by expansion. It depends on the same cosmological parameters as the age itself, so it grows with distance and approaches t₀ for the most distant observable sources.
 
 The reported precision of 13.8 billion years assumes the underlying model is correct. Adding plausible variations, such as extra relativistic particles, can widen the error bars by an order of magnitude, showing that the published precision is conditional on the model assumptions.
+
+Source: adapted from "Age of the universe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Age_of_the_universe

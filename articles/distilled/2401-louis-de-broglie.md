@@ -45,3 +45,5 @@ Beyond research, de Broglie held prestigious positions, including Perpetual Secr
 - The physical reality of the de Broglie wave remains a point of interpretation. Standard quantum mechanics treats the wavefunction as a mathematical tool for calculating probabilities, while pilot-wave theories posit a real, guiding wave.
 - De Broglie's conjecture of an internal "clock" for the electron, part of the pilot-wave mechanism, has not been conclusively verified, though some recent data is compatible with it.
 - His later, more speculative ideas—such as the non-zero rest mass of the photon and the unification of dynamics and thermodynamics—remain outside the mainstream of physics.
+
+Source: adapted from "Louis de Broglie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_de_Broglie

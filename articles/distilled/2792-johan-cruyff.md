@@ -47,3 +47,5 @@ After coaching, Cruyff became an influential advisor and columnist. He was a key
 - **Cruyff's Contribution to Total Football:** While coach Rinus Michels is credited with developing the system, the extent of Cruyff's on-field innovation and leadership in implementing it is a subject of ongoing discussion.
 - **Philosophical Legacy vs. Modern Adaptation:** A central debate is whether modern football, particularly at Barcelona, has faithfully maintained Cruyff's core principles or has adapted them into a more star-oriented, direct style, as Cruyff himself criticized in his later years.
 - **The "Velvet Revolution" at Ajax:** The success of Cruyff's late-career campaign to restructure Ajax is debated. While he installed allies, the club's subsequent direction often diverged from his strict philosophical ideals, leading to his eventual disillusionment and severing of ties.
+
+Source: adapted from "Johan Cruyff" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johan_Cruyff

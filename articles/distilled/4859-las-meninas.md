@@ -41,3 +41,5 @@ The painting explores the relationship between illusion and reality, a key conce
 - **The Viewer's Position**: Is the viewer standing in the place of the king and queen, or is the royal couple standing beside the viewer? The gazes of Velázquez, the Infanta, and the dwarf Maribarbola complicate this.
 - **The Painting's Subject**: Is it a portrait of the Infanta, a depiction of the royal family, or a meta-commentary on the act of painting and representation itself?
 - **The Canvas Velázquez Paints**: Its size and subject are unknown. Some argue it is *Las Meninas* itself, creating a self-referential loop.
+
+Source: adapted from "Las Meninas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Las_Meninas

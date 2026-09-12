@@ -45,3 +45,5 @@ With the outbreak of civil and international war, Louis was arrested in August 1
 *   **The Vote for Execution:** The narrow margin (361 to 360) for immediate execution has led to analysis of the political pressures and personal convictions of the deputies.
 *   **The Queen's Influence:** The role of Marie Antoinette in encouraging Louis's resistance and seeking foreign intervention remains a subject of scholarly discussion.
 *   **Legacy:** Historians like Jules Michelet argued that the execution was a tragic mistake that radicalized the Revolution, while others see it as a necessary, if brutal, step in establishing a republic.
+
+Source: adapted from "Louis XVI" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_XVI

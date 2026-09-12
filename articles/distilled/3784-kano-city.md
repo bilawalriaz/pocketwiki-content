@@ -48,3 +48,5 @@ Kano's economy has been rooted in trade for centuries, producing goods like sand
 - The ethnic identity of Kano's earliest inhabitants on Dala Hill is uncertain; they may have been Hausa or speakers of Niger–Congo languages.
 - The precise role and extent of political interference in the 2014 succession of Emir Sanusi Lamido Sanusi are disputed.
 - The long-term impact of the 2019 balkanization of the Kano Emirate on traditional authority and social cohesion remains a subject of scholarly and local debate.
+
+Source: adapted from "Kano (city)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kano_%28city%29

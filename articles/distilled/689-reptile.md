@@ -72,3 +72,5 @@ Modern phylogenetic taxonomy requires monophyletic groups. Traditional Reptilia 
 
 ## Debates and open questions
 *   **Turtle Phylogeny:** Molecular data strongly supports turtles as diapsids (usually sister to Archosauria/Archelosauria), but morphological analyses have historically placed them as anapsid parare
+
+Source: adapted from "Reptile" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Reptile

@@ -47,3 +47,5 @@ Since the 1990s, popular styles have expanded metal's definition. Grunge and alt
 - **Lyrical Content and Social Impact:** The genre has faced persistent accusations of promoting misogyny, violence, and the occult, leading to legal and congressional scrutiny. Scholars and fans debate the validity of these claims and the context of the lyrics.
 - **Authenticity and "Selling Out":** The metal subculture has a strong code of authenticity, where performers are expected to appear devoted to the music and loyal to the subculture, never "selling out" to mainstream appeal. This leads to internal debates about which artists are "poseurs."
 - **Sexism in the Scene:** While women have gained more visibility, debates continue about the prevalence of sexism within the metal community and whether the genre empowers or marginalizes female fans and musicians.
+
+Source: adapted from "Heavy metal music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Heavy_metal_music

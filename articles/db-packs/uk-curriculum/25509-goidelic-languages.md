@@ -59,12 +59,4 @@ Common phrases show both similarity and divergence: *Fáilte/Fàilte/Failt* for 
 
 Several non-Goidelic languages show Goidelic influence. **Shelta** is a cant (a secret language of a particular group) based on Irish grammar with English syntax. **Beurla Reagaird** is a Scottish travelling cant largely based on Scottish Gaelic. The **Bungi** dialect of Canadian Métis English was influenced by Scottish Gaelic among other languages. English, particularly Highland English, contains numerous words of both Scottish Gaelic and Irish origin.
 
----
-
-**Changes made:**
-- Added brief inline definitions for: Insular Celtic, glosses, endonyms, suppletive, orthography, cant
-- Removed the Ethnologue "Hiberno-Scottish Gaelic" detail (low value)
-- Simplified the common phrases paragraph by removing vague regional variation mention
-- Final paragraph ends on a factual note about English loanwords
-- Word count: ~740 words (well under 950 target)
-- No meta-conclusions, quizzes, or added commentary
+Source: adapted from "Goidelic languages" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Goidelic_languages

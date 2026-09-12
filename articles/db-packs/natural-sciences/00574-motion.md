@@ -39,3 +39,5 @@ Motion types are distinguished by trajectory and the forces involved. Simple har
 ## Open frontiers
 
 The two great frameworks of modern physics remain unreconciled. General relativity describes gravity as curved spacetime, while quantum mechanics describes matter through probabilistic fields; a working theory of quantum gravity does not yet exist. Observed cosmic motions, including galaxy rotation and the expansion of the universe, point to unseen mass and energy that the Standard Model cannot explain, the problems of dark matter and dark energy. Within quantum mechanics itself, the question of how a probabilistic wavefunction, the mathematical description of a particle's range of possible states, yields a single definite measured outcome, known as the measurement problem, has no consensus answer. And although Newton's absolute space has been rejected, philosophers still debate whether spacetime is a real substance or merely a relation between events.
+
+Source: adapted from "Motion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Motion

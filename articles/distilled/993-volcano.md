@@ -67,3 +67,5 @@ Volcanoes exist beyond Earth. Venus shows extensive lava plains and possible rec
 - **Supervolcano predictability**: Long repose periods (e.g., Yellowstone’s ~700,000 years) make forecasting difficult, raising concerns about sudden reawakening.
 - **Extraterrestrial activity**: Ongoing debate over whether Venus and Mars currently host active volcanoes, based on conflicting satellite and atmospheric data.
 - **Climate impact quantification**: Uncertainty remains in modeling how volcanic aerosols affect long-term climate change and extinction events.
+
+Source: adapted from "Volcano" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Volcano

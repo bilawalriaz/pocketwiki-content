@@ -45,3 +45,5 @@ Located in northeastern Hunan, Changsha covers an area of 11,819 km². The Xiang
 ## Debates and Open Questions
 - The precise origin of the name "Changsha" is unknown, though it originally referred to the region rather than the settlement.
 - The link between the city's early development around 3000 BC and the Longshan culture is noted as having "no firm evidence."
+
+Source: adapted from "Changsha" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Changsha

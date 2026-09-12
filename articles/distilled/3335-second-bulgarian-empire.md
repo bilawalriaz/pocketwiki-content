@@ -50,3 +50,5 @@ The state prioritized restoring the autocephalous Bulgarian Patriarchate. After 
 - The exact nature and extent of the union between Bulgaria and the Papacy under Kaloyan is debated; it was primarily a political alliance, but its practical implications for the Bulgarian Church are discussed.
 - The degree of autonomy and the precise relationship between the Bulgarian Patriarchate and the Ecumenical Patriarchate of Constantinople, especially after the Council of Lampsacus (1235), remains a point of scholarly discussion.
 - The causes and social dynamics of the popular uprising led by Ivaylo (1277–1280) are analyzed as both a social revolt and a military response to foreign threats.
+
+Source: adapted from "Second Bulgarian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Second_Bulgarian_Empire

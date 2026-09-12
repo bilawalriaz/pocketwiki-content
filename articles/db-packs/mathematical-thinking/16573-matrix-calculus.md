@@ -54,3 +54,5 @@ Other useful identities in numerator layout: $\partial\,\mathrm{tr}(\mathbf{AX})
 ## Applications
 
 Matrix calculus underlies the derivation of optimal stochastic estimators including the Kalman filter, Wiener filter, expectation-maximization for Gaussian mixtures, and gradient descent. It is the standard tool in regression analysis for deriving the ordinary least-squares formula with multiple explanatory variables, and in the statistical analysis of multivariate normal and other elliptical distributions, random matrices, and local sensitivity diagnostics. The Fréchet derivative agrees with the matrix derivative up to notation whenever both exist, so the same rules cover the functional-analysis setting.
+
+Source: adapted from "Matrix calculus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Matrix_calculus

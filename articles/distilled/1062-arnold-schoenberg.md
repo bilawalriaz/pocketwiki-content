@@ -82,3 +82,5 @@ Simultaneously, he revisited tonality in works like the *Suite for Strings* (193
 **The "poietic fallacy"**: Critics like Richard Taruskin argue Schoenberg committed the fallacy of prioritizing the act of composition over listener experience, measuring his value primarily through influence on other artists rather than aesthetic merit.
 
 **Historical necessity**: Schoenberg's anecdote about being asked if he was and answering "Nobody wanted to be, someone had to be, so I let it be me" suggests his sense of historical necessity, but whether this reflects genuine conviction or retrospective mythmaking remains debated.
+
+Source: adapted from "Arnold Schoenberg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arnold_Schoenberg

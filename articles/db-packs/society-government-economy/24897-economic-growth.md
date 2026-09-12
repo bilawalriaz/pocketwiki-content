@@ -37,3 +37,5 @@ Growth compounds. The rule of 72 says any rate doubles income in 72/rate years, 
 ## Costs and limits
 
 Growth correlates closely with carbon dioxide emissions and resource use. A 2019 statement signed by 11,000 scientists warned that economic growth drives excessive extraction and ecosystem overexploitation, and called for shifting goals from GDP to sustainability and well-being. In 2021, Partha Dasgupta's UK Treasury review concluded that humanity's demand exceeds 1.6 Earths' biocapacity. Earlier depletion fears (Malthus 1798, the 1980 Simon–Ehrlich wager) have so far been averted by substitution and technology, though ore grades for copper have fallen sharply and extraction costs for shale gas and offshore oil have risen. Whether innovation can continue to substitute for scarce resources, or whether biological and climatic limits will eventually bind, is the central open question of growth economics.
+
+Source: adapted from "Economic growth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economic_growth

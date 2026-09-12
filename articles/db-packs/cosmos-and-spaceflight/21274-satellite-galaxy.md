@@ -43,3 +43,5 @@ The timescale for orbital decay, assuming both host and satellite are singular i
 ## Why mergers matter
 
 Work in 1978 by Beatrice Tinsley and Richard Larson on the colors of merger remnants showed that mergers are associated with young, massive, blue stars, implying that they trigger bursts of star formation. Major mergers drive the most vigorous starbursts, but minor mergers are far more common, so their cumulative effect over cosmic time is also significant. Tidal heating during a minor merger can puff up a host's preexisting thin disk into a thicker component, one explanation for the thick disks seen in most edge-on galaxies like NGC 4565.
+
+Source: adapted from "Satellite galaxy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Satellite_galaxy

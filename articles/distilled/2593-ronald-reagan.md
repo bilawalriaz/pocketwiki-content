@@ -49,3 +49,5 @@ Reagan left office with high approval ratings after overseeing a long economic e
 *   **Role in Ending the Cold War:** Historians argue over the extent to which Reagan's military pressure and rhetoric accelerated the collapse of the Soviet Union versus the roles of internal Soviet weaknesses and the policies of Mikhail Gorbachev.
 *   **Fiscal Responsibility:** Critics point to the tripling of the national debt as a failure of fiscal conservatism, while supporters argue the tax cuts spurred growth that ultimately increased revenue.
 *   **AIDS Response:** The Reagan administration's delayed and inadequate response to the AIDS epidemic remains a significant point of criticism from historians and public health advocates.
+
+Source: adapted from "Ronald Reagan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ronald_Reagan

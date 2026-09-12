@@ -42,3 +42,5 @@ Rudolph used her platform for civil rights. In 1960, she refused to attend her o
 
 ## Debates and Open Questions
 The source does not detail significant scholarly debates about Rudolph's life or career. Her legacy is consistently presented as a pioneering figure in sports and civil rights.
+
+Source: adapted from "Wilma Rudolph" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wilma_Rudolph

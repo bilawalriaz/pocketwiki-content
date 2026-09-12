@@ -41,3 +41,5 @@ Theodoric's later reign was marked by paranoia and religious tension. In 522, he
 
 ## Debates and Open Questions
 A central debate concerns the nature of Theodoric's power. Some historians, like Jonathan J. Arnold, argue he was effectively a Western Roman emperor, citing his use of the title *princeps*, imperial ceremonies, and the view of contemporary Italian nobles. Others, like Hans-Ulrich Wiemer, reject this, contending that Theodoric maintained a clear separation between Goths and Romans, that the Eastern Empire never formally recognized him as emperor, and that his title was always "king" (*rex*). This debate hinges on whether his rule represented a restoration of Roman imperial authority in the West or a new, distinct barbarian kingdom that merely adopted Roman forms.
+
+Source: adapted from "Theodoric the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theodoric_the_Great

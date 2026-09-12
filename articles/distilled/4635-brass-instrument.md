@@ -45,3 +45,5 @@ Brass instruments are core components of various ensembles. Orchestras typically
 
 ## Debates and Open Questions
 The source notes that the merits of different tuning compensation approaches (compensation systems vs. additional valves vs. additional slides) are subject to debate. The article also mentions that the origins of the vuvuzela are disputed.
+
+Source: adapted from "Brass instrument" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brass_instrument

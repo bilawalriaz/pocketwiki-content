@@ -48,3 +48,5 @@ Addis Ababa's economy is diverse, with significant activity in trade, manufactur
 - The exact location of the medieval city of Barara is debated, though recent archaeological findings on Mount Entoto support its proposed site.
 - The relationship between Addis Ababa and the surrounding Oromia Region is politically sensitive, involving historical land dispossession and constitutional provisions for Oromia's "special interest" in the city.
 - The impact and equity of recent urban development projects like the 2014 master plan and Sheger City remain contested, with criticisms regarding displacement and ethnic disparity.
+
+Source: adapted from "Addis Ababa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Addis_Ababa

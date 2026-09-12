@@ -53,3 +53,5 @@ Caliph Umar, concerned about Khalid's growing popularity and citing reasons incl
 *   **Execution of Malik ibn Nuwayra:** The circumstances and justification for this event are highly contested in traditional sources. Scholars disagree on whether Malik had apostatized, making his execution lawful, or if Khalid acted improperly.
 *   **Reasons for Dismissal:** The primary cause for Umar's dismissal of Khalid is debated. Proposed reasons include his independent command, the Malik ibn Nuwayra affair, his lavish distribution of spoils, Umar's personal enmity, or a political need to appease local Syrian tribes like the Kalb.
 *   **The Desert March:** While celebrated, some modern scholars, like Ryan J. Lynch, suggest the detailed narrative of the march across the Syrian desert may be a later literary construct designed to link the conquests of Iraq and Syria.
+
+Source: adapted from "Khalid ibn al-Walid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khalid_ibn_al-Walid

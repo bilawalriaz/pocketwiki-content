@@ -35,3 +35,5 @@ Modern networks carry far more than email: they stream video, run distributed da
 ## Where the field is heading
 
 AI and machine learning are increasingly used inside network management: predicting congestion, detecting anomalies, and, with software-defined control planes, rerouting around faults automatically. Quantum networking is moving from theory to early experiments; quantum key distribution aims to make intercepted keys detectable, a property classical key exchange lacks. Low-Earth-orbit satellite constellations such as Starlink extend Internet access to places cables and cell towers do not reach, and the planned 6G standard is expected to push mobile data rates and latency further while requiring new approaches to spectrum use, energy efficiency, and infrastructure sustainability.
+
+Source: adapted from "Computer network engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer_network_engineering

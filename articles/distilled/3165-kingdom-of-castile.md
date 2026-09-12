@@ -41,3 +41,5 @@ The House of Trastámara ruled Castile from 1369. The 1469 marriage of Isabella 
 ## Debates and Open Questions
 - The extent of translation activity and the preservation of Greek knowledge during the early Umayyad rule in Al-Andalus is debated, with a minority view suggesting it was more widespread than commonly thought.
 - The precise origins and early settlement patterns of the County of Castile involve complex migrations from various northern Iberian regions.
+
+Source: adapted from "Kingdom of Castile" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Castile

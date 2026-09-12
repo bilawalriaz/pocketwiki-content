@@ -46,3 +46,5 @@ After the war, Bragg worked at University College London before becoming Directo
 
 ## Debates and Open Questions
 The source notes that the initial demonstration of X-rays in Adelaide was made possible by apparatus supplied by a local pharmaceutical chemist, highlighting the collaborative and sometimes improvised nature of early experimental physics. The text also references the broader historical debate about the slow initial recognition of the military value of science, as seen in the frustrating delays before Bragg's expertise was employed in World War I—a lesson that influenced the creation of scientific advisory bodies before World War II.
+
+Source: adapted from "William Henry Bragg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Henry_Bragg

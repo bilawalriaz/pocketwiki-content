@@ -46,3 +46,5 @@ Symbolic behavior emerged gradually. Early evidence includes ochre use and simpl
 - **Origins of art and ritual**: Did symbolic behavior begin in the Lower Paleolithic with *Homo erectus*, or is it uniquely Upper Paleolithic?
 - **Social structure**: Were most Paleolithic societies fundamentally egalitarian, or did complex hierarchies and warfare exist in some regions?
 - **Dietary proportions**: What was the precise balance of plant vs. animal foods in Paleolithic diets, and how did it vary by time and location?
+
+Source: adapted from "Paleolithic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paleolithic

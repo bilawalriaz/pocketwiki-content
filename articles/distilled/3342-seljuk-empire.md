@@ -48,3 +48,5 @@ The Seljuks were highly Persianized, adopting Persian as the language of adminis
 - The exact nature of the Seljuk tribal organization and the balance of power between the sultan, family members, and Turkoman generals is debated.
 - The extent to which the Seljuks were "pious defenders of Islam" versus patrons of occult sciences (astrology, alchemy) in their later period is challenged by some scholarship.
 - The origins and development of the muqarnas architectural form—whether it began under the Seljuks or concurrently in North Africa— remain uncertain.
+
+Source: adapted from "Seljuk Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seljuk_Empire

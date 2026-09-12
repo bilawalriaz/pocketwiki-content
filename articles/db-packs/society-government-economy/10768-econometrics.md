@@ -37,3 +37,5 @@ Badly specified models can show spurious relationships, variables that are corre
 Robert Lucas's critique of macroeconometrics argued that large-scale models estimated on historical data break down when policy changes, because economic actors revise their expectations and behaviour. A good macro model should therefore incorporate microfoundations and rational expectations.
 
 The Austrian school rejects much of econometric modelling on the grounds that past correlations cannot establish causation. Econometricians answer with randomised controlled trials, where feasible, and with quasi-experimental methods otherwise, though they concede that without randomisation the size of remaining selection bias is inherently unknown.
+
+Source: adapted from "Econometrics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Econometrics

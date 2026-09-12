@@ -38,3 +38,5 @@ After the Civil War, San Antonio prospered as a cattle industry center. The arri
 - The city's aggressive annexation policy is controversial, as residents in unincorporated areas may face higher taxes without immediate improvements in services.
 - San Antonio's low population density and lack of a major intra-city rail system contribute to its ranking as a car-dependent city with low walkability.
 - The city has historically lacked top-tier professional sports franchises beyond the NBA's Spurs, with ongoing efforts to attract an NFL team.
+
+Source: adapted from "San Antonio" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/San_Antonio

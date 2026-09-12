@@ -76,3 +76,5 @@ Money is valid only in a "particular country or socio-economic context." Governm
 *   **Fiat backing:** Whether fiat money is backed solely by social convention/legal tender laws or fundamentally by the state’s power to impose taxes (Modern Monetary Theory view).
 *   **Digital currency future:** The role of decentralised cryptocurrencies (Bitcoin) vs. Central Bank Digital Currencies (CBDCs) in the monetary system; regulatory treatment of anonymous digital currencies.
 *   **Optimal inflation/deflation:** The trade-offs between gold-standard-era deflationary pressures and fiat-era inflation targeting; costs of "failed monetary policy" (hyperinflation, collapse).
+
+Source: adapted from "Money" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Money

@@ -44,3 +44,5 @@ After Louis XVI's execution in January 1793, Marie Antoinette, now called "Widow
 *   **Political Influence:** Historians debate the extent of Marie Antoinette's political power. Some see her as a decisive, reactionary force who blocked necessary reforms, while others argue her influence was limited and often ineffective.
 *   **Personal Reputation:** The accuracy of the *libelles* portraying her as profligate and promiscuous is contested. While her spending was real, it was not the sole cause of the debt, and accusations of affairs (e.g., with Fersen) remain largely unsubstantiated by evidence.
 *   **Role in the Revolution:** Some contemporaries, like Thomas Jefferson, blamed her directly for causing the Revolution. Modern historians generally view her as a symbol and a contributing factor through her unpopularity and political missteps, but not the primary cause of the systemic crisis.
+
+Source: adapted from "Marie Antoinette" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marie_Antoinette

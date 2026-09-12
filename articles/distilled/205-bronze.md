@@ -73,3 +73,5 @@ Bronze expands slightly before setting, filling mold details, then shrinks for e
 - **Benin "Bronzes" composition**: The famous Benin court artworks (13th–19th century) are technically leaded brass (copper-zinc), not bronze (copper-tin), yet the misnomer persists in museology.
 - **Gloucester Candlestick provenance**: The 12th-century candlestick’s anomalous composition (high silver, multiple impurities) suggests it was cast from a hoard of old coins, but this is inferred from metallurgical analysis, not documented.
 - **Transition causality**: The source presents the tin-trade collapse (1200–1100 BCE) as the primary driver for the Iron Age transition, but notes iron’s initial inferiority to bronze; the relative weight of supply shock vs. technological pull is not quantified.
+
+Source: adapted from "Bronze" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bronze

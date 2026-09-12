@@ -41,3 +41,5 @@ Characters denote morphemes independent of pronunciation: 一 is yī in Mandarin
 ## Open issues
 
 Whether Chinese varieties are one language or many remains contested: mutual intelligibility criteria cut both ways, and linguists may understate intelligibility problems when varieties align with a prestige center. Proto-Sino-Tibetan is not securely reconstructed, leaving the top-level Chinese versus Tibeto-Burman split undemonstrated, and the number of main groups is unsettled (estimates run from seven to thirteen). The origins of some Altaic-etymology borrowings, and whether certain shared terms were coined in Japan or China, are also open.
+
+Source: adapted from "Chinese language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinese_language

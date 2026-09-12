@@ -87,3 +87,5 @@ Philosophy of love (social philosophy/ethics) investigates: distinguishing love 
 - **Love and Autonomy**: How does love affect the autonomy of lover and beloved? (Philosophical ethics: does love enhance or diminish agency?)
 - **Health Causality**: Does love cause happiness/health, or do healthy/happy people attract love? (Correlation noted; direction debated.)
 - **Sexual vs. Non-Sexual Boundaries**: Where does love end and lust/paraphilia begin? (Augustine’s distinction; *philia* vs. *eros*; impersonal love vs. paraphilia.)
+
+Source: adapted from "Love" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Love

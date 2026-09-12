@@ -87,3 +87,5 @@ A tool to gauge product progress (sales/revenue over time) based on assumptions:
 *   **4Ps Validity:** Ongoing criticism that the 4Ps model suffers from category overlap (e.g., personal selling as promotion vs. place), lacks mutual exclusivity, adopts an "inside-out" bias, and lacks a strategic framework for external uncontrollables.
 *   **Orientation Dominance:** While the Marketing Concept is currently dominant, the Production Concept persists in specific industries, and the Societal Marketing Concept challenges the sufficiency of customer-centricity alone.
 *   **Research Distinction:** Maintaining the methodological boundary between "market research" (specific target/distribution) and "marketing research" (all marketing activities including advertising/salesforce effectiveness).
+
+Source: adapted from "Marketing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marketing

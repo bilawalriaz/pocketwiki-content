@@ -77,3 +77,5 @@ In September 1962, Eco married Renate Ramge, a German graphic designer, with who
 ## Debates and open questions
 
 Critics divided sharply over whether Eco's theorizing was brilliant or an "unnecessary vanity project obsessing over minutiae" (Scruton attacked his esoteric tendencies; Penny accused him of pandering to "relevance"). Others praised his ability to make abstruse academic subjects accessible. Eco's fiction simultaneously stunned critics with its complexity and popularity. His 1995 "Ur-Fascism" essay, listing fourteen properties of fascism, has been debated and gained renewed attention in the 21st century.
+
+Source: adapted from "Umberto Eco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Umberto_Eco

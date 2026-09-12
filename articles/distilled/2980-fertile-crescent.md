@@ -40,3 +40,5 @@ The Fertile Crescent was linguistically diverse. Semitic languages (like Akkadia
 - The precise affiliation and arrival dates of ancient language isolates (e.g., Elamite, Hattic) remain topics of scholarly discussion due to a lack of early textual evidence.
 - The origins of the Indo-European language family are debated; while generally considered intrusive after 2000 BCE, some evidence suggests it may have emerged within the Fertile Crescent as early as 6000 BCE.
 - The linguistic consensus on the "Proto-Euphratean" substrate hypothesis has shifted, with current views favoring multiple unknown substrata rather than a single language.
+
+Source: adapted from "Fertile Crescent" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fertile_Crescent

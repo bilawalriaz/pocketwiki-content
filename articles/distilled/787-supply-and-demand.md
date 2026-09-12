@@ -56,3 +56,5 @@ Critics like **Piero Sraffa** questioned partial equilibrium’s assumptions, es
 - Do real-world prices reflect competitive equilibrium or firm-administered markups?  
 - Are supply and demand curves empirically observable, particularly in labor markets?  
 - Should macroeconomic models rely on microfoundations given aggregation failures?
+
+Source: adapted from "Supply and demand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Supply_and_demand

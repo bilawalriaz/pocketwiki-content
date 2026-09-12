@@ -48,3 +48,5 @@ Independence led to the abolition of the Inquisition and noble titles, but slave
 *   **Motivations for Independence:** Historians debate whether the wars were primarily driven by elite Creole economic interests, Enlightenment ideals, or popular social grievances. The source notes that "there was little interest in outright independence" initially.
 *   **Role of Social Conflict:** The extent to which the wars were a social revolution versus a political separation is contested. While slavery was eventually abolished, the Creole elite largely preserved the existing social hierarchy.
 *   **Inevitability of Balkanization:** Scholars question whether the fragmentation into many small republics was inevitable or a result of regional rivalries and the collapse of central authority during the wars.
+
+Source: adapted from "Spanish American wars of independence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence

@@ -47,3 +47,5 @@ Drake's later career was marked by declining success. In 1595, he failed to capt
 - **Birth Date**: Drake's exact birth year is uncertain, with estimates ranging from c. 1539 to 1544 based on conflicting contemporary sources.
 - **Nova Albion's Location**: The precise location of Drake's landing in California is debated, with some fringe theories suggesting it was further north, possibly on Vancouver Island.
 - **Legacy and Historical Interpretation**: Scholarship has shifted from Victorian-era hero worship to a more critical view that emphasizes his failures, his role in the slave trade, and his actions as a privateer. His legacy is now contested, leading to the renaming of landmarks in California.
+
+Source: adapted from "Francis Drake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Francis_Drake

@@ -49,3 +49,5 @@ The Visigoths preserved classical Roman culture, maintaining urban infrastructur
 *   The exact nature of the initial 418 Visigothic settlement in Aquitania is debated: whether they received land directly or primarily tax revenues.
 *   The role of Count Julian in facilitating the 711 Muslim invasion is considered possibly mythical by some historians.
 *   The causes of the rapid Visigothic collapse in 711 are debated, with factors including internal civil wars, aristocratic betrayal, and possible social discontent.
+
+Source: adapted from "Visigothic Kingdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Visigothic_Kingdom

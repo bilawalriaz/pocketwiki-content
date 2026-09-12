@@ -56,3 +56,5 @@ After 1969, Sholokhov published little, residing in Vyoshenskaya. He funded a lo
 - **Motivation for Solzhenitsyn’s accusations**: Whether Solzhenitsyn’s 1960s plagiarism campaign was purely literary or retaliatory for Sholokhov’s 1962 condemnation of *One Day in the Life of Ivan Denisovich* remains debated.
 - **Sholokhov’s political agency**: Historians dispute whether his interventions with Stalin represent genuine moral courage within a totalitarian system or a privileged collaboration that legitimized the regime while securing personal safety and status.
 - **Extent of censorship/self-censorship**: The degree to which *Virgin Soil Upturned*’s 28-year gestation and the truncation of *They Fought for Their Country* reflect state pressure versus artistic struggle is unclear from the source.
+
+Source: adapted from "Mikhail Sholokhov" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mikhail_Sholokhov

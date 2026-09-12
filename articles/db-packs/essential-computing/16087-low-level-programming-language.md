@@ -27,3 +27,5 @@ The same algorithm in C omits all of that. The parameter `n` and the locals `f_n
 ## Reaching down from a higher-level language
 
 Several high-level languages, including PL/S, BLISS, BCPL, extended ALGOL, NEWP, and C, expose a path to lower-level code. One common mechanism is inline assembly, where assembly instructions are embedded directly in the higher-level source. Many of these languages also accept architecture-dependent compiler optimisation directives that nudge how the compiler uses the target processor. A short GCC snippet illustrates the pattern: variables `src` and `dst` are declared in C, and an `asm` block moves `src` into `dst` and adds one, then `printf` prints the result.
+
+Source: adapted from "Low-level programming language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Low-level_programming_language

@@ -40,3 +40,5 @@ Actor incomes vary widely. In 2024, the median hourly wage for U.S. actors was $
 
 ## Debates and Open Questions
 The use of "actor" versus "actress" remains a debated issue within the profession, with no consensus. The gender pay gap in the film industry persists, with significant disparities based on gender and race. The practice of cisgender actors playing transgender or non-binary roles is a contemporary point of discussion.
+
+Source: adapted from "Actor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Actor

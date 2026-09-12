@@ -49,3 +49,5 @@ The rump Federal Republic of Yugoslavia (Serbia and Montenegro) was formed in 19
 *   The legitimacy of the 1945 elections that abolished the monarchy is disputed, with debate over whether the regency council's actions constituted an abdication.
 *   The legal succession to the SFRY was contested, with the Federal Republic of Yugoslavia initially claiming sole successor status before accepting shared succession.
 *   The international recognition of Kosovo's 2008 declaration of independence from Serbia remains an ongoing dispute.
+
+Source: adapted from "Yugoslavia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yugoslavia

@@ -29,3 +29,5 @@ Third, conquest. A band of about 180 Spanish soldiers under Francisco Pizarro, a
 ## Open debates
 
 Scholars still debate what the Inca economy actually was. The standard view treats it as a non-market, redistributive system built on reciprocity, sometimes compared to socialism. Others argue hidden markets and price-like exchanges persisted despite official ideology. A related debate concerns the Maule River battle, traditionally placed in the late 1400s as the southern limit of Inca expansion. Historian Osvaldo Silva has argued the battle actually occurred in 1532 and that the Inca simply had no reason to keep pushing into Mapuche territory, suggesting imperial borders were a deliberate choice rather than a military ceiling. The rainbow flag associated with Tawantinsuyu today is a 20th-century invention, with no contemporary evidence that the Inca used a national flag.
+
+Source: adapted from "Inca Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Inca_Empire

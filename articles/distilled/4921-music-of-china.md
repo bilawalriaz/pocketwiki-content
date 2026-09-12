@@ -56,3 +56,5 @@ Chinese rock was pioneered by Cui Jian in the late 1980s. Bands like Black Panth
 ## Debates and Open Questions
 - The extent to which modern "traditional" Chinese music, shaped by 20th-century Western-influenced reforms (like equal temperament tuning and new instrument designs), accurately reflects ancient practices is a point of scholarly discussion.
 - The balance between state promotion of traditional culture and the control of contemporary popular expression remains a dynamic tension in China's musical landscape.
+
+Source: adapted from "Music of China" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Music_of_China

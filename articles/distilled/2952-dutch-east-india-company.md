@@ -44,3 +44,5 @@ The VOC is criticized for its brutal monopoly enforcement, colonialism, slavery,
 - The exact death toll of the Banda Islands conquest is uncertain, with estimates ranging from 14,000 killed, enslaved, or displaced.
 - The primary cause of the VOC's decline is debated, with factors including structural inefficiencies, corruption, competition, and poor financial management all cited.
 - The term "VOC mentality" remains a point of cultural and historical debate in the Netherlands, highlighting tensions between celebrating economic history and acknowledging colonial violence.
+
+Source: adapted from "Dutch East India Company" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dutch_East_India_Company

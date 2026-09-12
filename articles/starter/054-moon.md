@@ -3,3 +3,5 @@
 *Natural satellite orbiting Earth.*
 
 The Moon is the only natural satellite of Earth. It orbits around Earth at an average distance of 384,399 kilometers (238,854 mi), a distance roughly 30 times the width of Earth. It completes an orbit in relation to Earth and the Sun (synodically) every 29.5 days. The Moon and Earth are bound by gravitational attraction, which is stronger on the sides facing each other. The resulting tidal forces are the main driver of Earth's tides, and have pulled the Moon to always face Earth with the same near side. This tidal locking effectively synchronizes the Moon's rotation period to its orbital period.
+
+Source: adapted from "Moon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moon

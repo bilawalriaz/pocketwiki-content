@@ -38,3 +38,5 @@ The Southern Cone is Latin America's most prosperous region, with high HDIs (Chi
 ## Debates and Open questions
 - The precise geographical and cultural boundaries of the Southern Cone are debated, particularly regarding the inclusion of Paraguay and southern Brazilian states.
 - The extent and impact of historical European immigration versus indigenous heritage on national identity and genetic composition remain subjects of study and discussion.
+
+Source: adapted from "Southern Cone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Southern_Cone

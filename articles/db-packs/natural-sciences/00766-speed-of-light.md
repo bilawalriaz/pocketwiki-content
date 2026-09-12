@@ -21,3 +21,5 @@ Signals in a wire travel at roughly 30 cm per nanosecond, so the layout of a pro
 ## Open questions
 
 Only the two-way speed of light can be measured without a clock-synchronisation convention, and Einstein's convention fixes the one-way speed at c by definition. Some theories propose that c has varied over cosmic history or depends on photon energy at Planck-scale energies, but gamma-ray-burst observations such as GRB 090510 have found no such variation. The Scharnhorst effect predicts that light might travel faster than c between closely spaced conducting plates, though any arrangement that carried a real signal would run into causality.
+
+Source: adapted from "Speed of light" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Speed_of_light

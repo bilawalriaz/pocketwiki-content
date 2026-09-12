@@ -55,3 +55,5 @@ Economic crises in 1976 and 1982, a devastating 1985 earthquake, and growing opp
 *   The degree and direction of influence between the Toltec site of Tula and the Maya site of Chichén Itzá remain unconfirmed.
 *   The exact death toll of the 1985 Mexico City earthquake is uncertain, with estimates ranging from 6,500 to 30,000.
 *   The effectiveness of President López Obrador's "hugs, not gunshots" security policy is highly contested.
+
+Source: adapted from "History of Mexico" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Mexico

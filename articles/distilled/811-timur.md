@@ -50,3 +50,5 @@ Timur died in 1405 during a winter campaign against China, having fallen ill nea
 - **Motivations**: His true motives—imperial ambition versus religious duty—are contested, especially regarding campaigns against fellow Muslims.
 - **Historical Sources**: The reliability of Timurid-sponsored chronicles (*Zafarnama*) versus critical accounts like those of Ibn Arabshah reflects bias in portraying his legacy.
 - **Curse of Timur**: The alleged curse inscribed on his tomb is widely regarded as a modern fabrication, despite its association with the 1941 German invasion of the USSR.
+
+Source: adapted from "Timur" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Timur

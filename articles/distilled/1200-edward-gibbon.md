@@ -68,3 +68,5 @@ A view frequently attributed to Gibbon, that the Roman Empire fell due to its em
 
 ## Debates and Open Questions
 Scholars continue to debate whether Gibbon genuinely blamed Christianity for the fall of Rome or if his views have been oversimplified. Some argue that he saw Christianity as a contributing factor rather than the root cause, pointing to his broader emphasis on moral decay and luxury. The accuracy of his "Capitoline vision" is also questioned, with evidence suggesting it may have been a literary construction. Additionally, Gibbon's treatment of Judaism and accusations of anti-Semitism remain contentious topics in assessments of his historical legacy.
+
+Source: adapted from "Edward Gibbon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edward_Gibbon

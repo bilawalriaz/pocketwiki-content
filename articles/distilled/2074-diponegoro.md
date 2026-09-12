@@ -46,3 +46,5 @@ Diponegoro's resistance inspired fighters in the Indonesian National Revolution 
 - **Circumstances of Capture:** The Dutch claimed Diponegoro surrendered, while he and his supporters viewed his arrest under a flag of truce as a betrayal.
 - **Authenticity of the Kris:** There is doubt whether the kris returned by the Netherlands in 2020 is the original one belonging to Diponegoro.
 - **Racial Violence:** The extent and motivations behind the targeted violence against the Chinese minority during the war remain a noted aspect of the conflict.
+
+Source: adapted from "Diponegoro" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diponegoro

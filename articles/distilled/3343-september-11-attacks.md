@@ -47,3 +47,5 @@ The World Trade Center site was rebuilt, with One World Trade Center opening in 
 - The effectiveness and morality of the "war on terror," including the use of torture, drone strikes, and the human and financial costs of the wars in Afghanistan and Iraq, are heavily debated.
 - The 9/11 Commission noted that several of its recommendations to prevent future attacks had not been implemented years later.
 - The long-term health and economic impacts on first responders, survivors, and the surrounding community continue to unfold.
+
+Source: adapted from "September 11 attacks" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/September_11_attacks

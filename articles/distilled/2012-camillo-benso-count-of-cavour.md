@@ -43,3 +43,5 @@ As Italy's first Prime Minister, Cavour faced the "Roman Question"—how to make
 - Historians debate whether Cavour was a democratic parliamentarian or an authoritarian manipulator who used bribes, election rigging, and emergency powers.
 - His objective is debated: did he plan for a unified Italy from the start, or was his primary goal merely to expand the Kingdom of Sardinia?
 - The relationship between Cavour's diplomatic statecraft and Garibaldi's revolutionary action is a central scholarly debate about the nature of Italian unification.
+
+Source: adapted from "Camillo Benso, Count of Cavour" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Camillo_Benso%2C_Count_of_Cavour

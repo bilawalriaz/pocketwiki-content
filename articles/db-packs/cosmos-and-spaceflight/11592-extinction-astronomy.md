@@ -37,3 +37,5 @@ The extinction curve is not universal. In the **Large Magellanic Cloud** (LMC), 
 ## Atmospheric extinction
 
 Atmospheric extinction gives the rising or setting Sun its orange-red colour. It is smallest at the zenith and greatest near the horizon, so an object's altitude and the corresponding air mass are the main geometric variables; a dry site reduces infrared extinction. Observatories characterise their local atmospheric extinction curve and apply corrections, but for many wavelength regimes only satellite observatories can bypass it.
+
+Source: adapted from "Extinction (astronomy)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Extinction_%28astronomy%29

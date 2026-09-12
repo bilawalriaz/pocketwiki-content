@@ -23,3 +23,5 @@ Beneath the outer core lies the solid inner core, discovered in 1936 by Danish s
 ## How the layers are detected
 
 Seismic waves are the main probe. *P-waves* (compressional waves) travel through solids and liquids by squeezing and stretching material along their direction of travel, while *S-waves* (shear waves) shake material side to side and cannot pass through liquid. The S-wave shadow on the side of Earth opposite an earthquake reveals the liquid outer core, and the way P-waves refract and reflect at each boundary, governed by Snell's law, maps the depths of the crust, Moho, mantle transitions, and core.
+
+Source: adapted from "Internal structure of Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Internal_structure_of_Earth

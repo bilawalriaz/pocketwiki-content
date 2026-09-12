@@ -45,3 +45,5 @@ Modern exploration began with Napoleon's expedition in 1799. Key figures include
 - The purpose and owner of some tombs, such as the Amarna Period cache KV55, are debated.
 - The complete extent of the valley is still unknown; new tombs like KV63 and KV64 continue to be discovered.
 - The precise reasons for the shift from "Bent Axis" to "Straight Axis" tomb layouts are not fully understood.
+
+Source: adapted from "Valley of the Kings" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Valley_of_the_Kings

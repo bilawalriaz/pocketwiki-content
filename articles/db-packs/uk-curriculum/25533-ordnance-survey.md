@@ -58,3 +58,5 @@ Governance shifted from the Board of Ordnance (1791–1855) to the War Office (1
 OS maintains a research department in geographical information science: spatial cognition, map generalisation, spatial data modelling, remote sensing, and semantic ontologies. It supports UK universities via the Digimap agreement and collaborates on MSc/PhD projects.
 
 Licensed partners repackage OS data: Bing Maps uses it as a UK layer; Philip's publishes road atlases; Cassini reprints 19th-century County Series maps on the modern Landranger projection with 1 km gridlines, allowing direct historical comparison. OS also provides free Explorer maps to 11-year-olds (6 million distributed by 2010) and runs MapZone, an educational site for GIS awareness.
+
+Source: adapted from "Ordnance Survey" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ordnance_Survey

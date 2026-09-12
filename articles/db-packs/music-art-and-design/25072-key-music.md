@@ -45,3 +45,5 @@ Keys with the same tonic but different modes, such as D Major and D Minor, are p
 ## When a key does not apply
 
 Not all music fits a key. Some Romantic-era works, including parts of Wagner's *Tristan und Isolde*, deliberately blur tonal centers. Twentieth-century atonal composers such as Schoenberg abandoned tonal hierarchy entirely, treating all twelve pitches as equally available.
+
+Source: adapted from "Key (music)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Key_%28music%29

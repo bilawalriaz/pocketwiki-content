@@ -52,3 +52,5 @@ Khan married three times and fathered at least 11 children, including *sarod* pl
 - **Pedagogical adaptation**: The source describes Khan’s colleges as teaching the *guru-shishya* tradition institutionally. Scholars debate how effectively the intensive, personalized oral method translates to classroom settings with diverse, non-residential students.
 - **Film music vs. classical purity**: Khan’s extensive film scoring (Bollywood and art cinema) provided livelihood and exposure but sits in tension with the *gharana*’s emphasis on rigorous classical practice; the impact of this dual career on his artistic trajectory is assessed differently by critics.
 - **Cross-cultural collaboration legacy**: His work with Western musicians (Grateful Dead, Concert for Bangladesh) popularized the *sarod* globally, yet purists question whether such encounters diluted the tradition or expanded its relevance.
+
+Source: adapted from "Ali Akbar Khan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ali_Akbar_Khan

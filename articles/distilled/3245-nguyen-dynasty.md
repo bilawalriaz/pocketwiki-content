@@ -43,3 +43,5 @@ The Nguyễn state was an absolute monarchy with a hierarchical bureaucracy. The
 - The extent to which the Nguyễn dynasty's conservative, Sinicized policies (e.g., isolationism, persecution of minorities) directly caused its failure to resist French colonization is debated.
 - The role of internal court politics, such as the succession crisis after Emperor Tự Đức's death, in facilitating the final French takeover is a point of historical analysis.
 - The legacy of the dynasty is contested, viewed by some as a period of cultural consolidation and by others as one of oppressive feudalism that hindered modernization.
+
+Source: adapted from "Nguyễn dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_dynasty

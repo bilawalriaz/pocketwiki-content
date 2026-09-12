@@ -42,3 +42,5 @@ Geography has repeatedly determined where civilisations could emerge. The Nile a
 Climate sets the ceiling for agricultural productivity. Moderate climates such as the Mediterranean support denser farming economies through crops like olive oil and wine, while arid regions force innovation around scarce water. Early farming settlements concentrated in the Fertile Crescent, where geography permitted. Colonial powers exploited geographic opportunity to extract resources.
 
 The pattern persists. Coastal nations gain from maritime trade; landlocked countries pay higher transport costs and tend to grow more slowly. Modern technology reduces but does not erase these geographic constraints.
+
+Source: adapted from "Economic geography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economic_geography

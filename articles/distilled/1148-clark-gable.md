@@ -52,3 +52,5 @@ Gable married five times, including a brief but happy marriage to Carole Lombard
 - **Impact of WWII Service**: Some argue Gable's military service enhanced his public image, while others suggest it disrupted his career momentum.
 - **Later Career Decline**: Critics like David Thomson questioned whether Gable's post-war film choices matched his earlier stature, sparking debate over his lasting relevance.
 - **Cultural Legacy**: Gable's portrayal of masculinity continues to be analyzed—celebrated by some as timeless, criticized by others as outdated.
+
+Source: adapted from "Clark Gable" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clark_Gable

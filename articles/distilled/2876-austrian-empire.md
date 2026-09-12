@@ -40,3 +40,5 @@ Military defeats accelerated the empire's decline. It lost Lombardy in 1859 and 
 - Historians debate whether the Metternich era was primarily a period of effective stability and prosperity or of oppressive stagnation that delayed necessary reforms.
 - The extent to which Metternich's resignation in 1848 directly caused the spread of revolutions throughout the monarchy is uncertain and stipulated but not confirmed.
 - The long-term impact of Bach's neo-absolutism is contested: it centralized the state and modernized the economy but also fostered nationalist resentment, particularly among Czechs.
+
+Source: adapted from "Austrian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Austrian_Empire

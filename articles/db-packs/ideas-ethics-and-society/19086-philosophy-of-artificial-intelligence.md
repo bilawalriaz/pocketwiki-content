@@ -39,3 +39,5 @@ The computational theory of mind holds that mind relates to brain as software re
 ## Behaviour, danger, and the Singularity
 
 Whether machines can think is distinct from whether they can harm us. "Hostile" splits into a behavioural reading (dangerous) and a mental-state reading (intentional), the latter just being the consciousness question again. Vernor Vinge's "Singularity" warns of a sudden large jump in machine intelligence, and Eliezer Yudkowsky's "Friendly AI" argues that safety must be designed in from the start. Turing recorded and dismissed the theological objection that thinking requires an immortal soul: building thinking machines is no more an usurpation of divine power than procreation, since in both cases we provide vessels for what is created.
+
+Source: adapted from "Philosophy of artificial intelligence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence

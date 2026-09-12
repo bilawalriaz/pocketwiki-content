@@ -35,3 +35,5 @@ The strait supports diverse marine life, including commercially important specie
 
 ## Debates and Open Questions
 The primary debate concerns the environmental and economic risks versus the potential benefits of offshore oil and gas exploration in the strait. This was a "hotly contested topic" in the 2008 U.S. elections. The exact boundaries of maritime zones between Cuba, the Bahamas, the U.S., and the Turks and Caicos Islands remain a subject of negotiation, impacting future exploration rights.
+
+Source: adapted from "Straits of Florida" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Straits_of_Florida

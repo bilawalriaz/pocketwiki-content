@@ -79,3 +79,5 @@ Emotion affects the way autobiographical memories are encoded and retrieved. Emo
 ## Debates and open questions
 
 There is no scientific consensus on a definition of emotion. Scholars debate whether the categorization of "emotion" and classification of basic emotions such as "anger" and "sadness" are universal or culture-specific. The inclusion of cognitive appraisal as one of the elements of emotion is slightly controversial, since some theorists assume emotion and cognition are separate but interacting systems. The James–Lange theory's issue is that of causation (bodily states causing emotions and being a priori), not bodily influences on emotional experience. The situated perspective on emotion states that conceptual thought is not an inherent part of emotion, contrasting with cognitivist and neo-Jamesian theories that see emotion as a purely internal process.
+
+Source: adapted from "Emotion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emotion

@@ -25,3 +25,5 @@ Under Ptolemaic and Roman rule from 332 BC onward, temple architecture blended E
 After the Roman conquest, some temples were repurposed: Luxor served as a Roman camp, then a church, and later a mosque. Ancient stones, called spolia, were quarried from older monuments and reused in medieval buildings. In the nineteenth and twentieth centuries, Egyptian motifs fed modern revivalist architecture.
 
 The face of the Great Sphinx is usually identified as Khafre, but the identification is debated. Archaeological evidence shows that pyramid builders were paid labourers rather than slaves, a correction to the older image of slave armies that still shapes public memory.
+
+Source: adapted from "Ancient Egyptian architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Egyptian_architecture

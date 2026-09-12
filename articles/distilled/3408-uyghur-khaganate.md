@@ -44,3 +44,5 @@ The Uyghurs formed a crucial economic and political alliance with Sogdian mercha
 - The exact motivation for the Uyghur adoption of Manichaeism is debated. While the source links it to Sogdian influence and trade, it may also have been a deliberate political choice to differentiate themselves from the Buddhist Tang.
 - The genetic studies of Uyghur remains show significant variation in ancestry (West Eurasian vs. East Eurasian), suggesting the Khaganate was genetically diverse and that admixture patterns were complex and not uniform across the population.
 - The nature and extent of the Kyrgyz "control" over the former Uyghur territory after 840 is unclear. The source argues against the idea of a significant Kyrgyz empire, suggesting their presence on the Mongolian Plateau was brief.
+
+Source: adapted from "Uyghur Khaganate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Uyghur_Khaganate

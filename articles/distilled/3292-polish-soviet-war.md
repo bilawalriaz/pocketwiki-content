@@ -41,3 +41,5 @@ The war ended with the Peace of Riga (March 1921), which divided the disputed te
 - **Aggressor vs. Defender:** The perception of Poland as the aggressor, particularly with the Kiev offensive, damaged its international reputation, while the Soviets framed the conflict as a defense against Allied intervention.
 - **Impact on World Revolution:** The Soviet failure at Warsaw is widely considered a major setback for Lenin's strategy of exporting communist revolution to Western Europe.
 - **Legacy of the Riga Settlement:** The treaty created a Poland with a large minority population and a border the Soviet Union later overturned in 1939, contributing to the instability of the interwar period.
+
+Source: adapted from "Polish–Soviet War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War

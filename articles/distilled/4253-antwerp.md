@@ -43,3 +43,5 @@ Antwerp's architecture blends historic Gothic and Baroque buildings with contemp
 - The etymology of "Antwerp" is debated, with theories ranging from a Germanic meaning "land thrown up at the riverbank" to a Celtic meaning "those who live on both banks." The popular folklore of the giant Druon Antigoon is considered unlikely.
 - The long-term impact of the 2009 public rejection of the Lange Wapper viaduct project and the subsequent "Toekomstverbond" agreement to cover the Ring road remains a subject of urban planning discussion.
 - The future of Antwerp's diamond industry is uncertain, facing competition from cheaper labor markets and the geopolitical impact of sanctions on Russian diamonds.
+
+Source: adapted from "Antwerp" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antwerp

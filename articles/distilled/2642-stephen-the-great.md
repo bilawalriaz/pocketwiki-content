@@ -42,3 +42,5 @@ Stephen married several times to secure political alliances, including with Evdo
 - The exact circumstances of Stephen's election or acclamation as voivode in 1457 are debated, with some historians considering the story of a boyar assembly at Direptate to be a later legend.
 - The nature of the relationship between Stephen and the Ecumenical Patriarchate of Constantinople is disputed, particularly whether his metropolitan was a loyalist or a dissenter.
 - The precise number and identity of Stephen's wives and children, especially his early sons, remains uncertain due to conflicting historical sources.
+
+Source: adapted from "Stephen the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stephen_the_Great

@@ -31,3 +31,5 @@ The model captures the memory hierarchy, the layered structure of caches, RAM, a
 ## History
 
 The adjective out-of-core predates the algorithm literature. It appears in 1962 describing devices outside the core memory of an IBM 360, and in 1971 in reference to algorithms.
+
+Source: adapted from "External memory algorithm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/External_memory_algorithm

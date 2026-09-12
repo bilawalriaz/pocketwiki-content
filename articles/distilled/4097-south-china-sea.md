@@ -45,3 +45,5 @@ Multiple countries have overlapping claims. China and Taiwan claim almost the en
 - **Role of External Powers:** Should non-claimant states like the United States and Australia be involved in resolving disputes, or does their involvement escalate tensions? China prefers bilateral talks, while many ASEAN states seek multilateral solutions.
 - **Enforcement of Rulings:** How can international legal rulings, like the 2016 arbitration, be enforced when a major power like China rejects them?
 - **Resource Management:** Can joint development agreements for oil, gas, and fisheries be successfully implemented without first resolving underlying sovereignty disputes?
+
+Source: adapted from "South China Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/South_China_Sea

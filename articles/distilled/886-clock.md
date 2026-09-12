@@ -77,3 +77,5 @@ Beyond time display, clocks serve as **alarm clocks**, **timers** (controlling d
 - **Reliability of early astronomical clocks**: Wallingford’s (1336) and Dondi’s (1364) clocks "probably adjusted manually every day to compensate for errors caused by wear and imprecise manufacture"; their true accuracy is unknown.
 - **Transfer of Chinese escapement technology**: The source states the Chinese escapement "spread west and was the source for Western escapement technology," but the mechanism of this transfer (trade routes, translations) is not detailed.
 - **Atomic clock supremacy**: As of 2013, ytterbium clocks lead stability (<2×10⁻¹⁸); the source implies ongoing competition among atomic species (caesium, ytterbium, etc.) for the primary standard.
+
+Source: adapted from "Clock" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clock

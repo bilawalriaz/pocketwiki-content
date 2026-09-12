@@ -42,3 +42,5 @@ The total population is estimated at 34.5 million, with Kurds forming the majori
 
 ## Debates and Open Questions
 The primary debate is over the political future of Kurdistan: whether it should be an independent state, a federation, or have greater autonomy within existing countries. The delineation of Kurdistan's borders is highly contested, with maps often being criticized as exaggerated propaganda. The failure of the 2017 Iraqi Kurdish referendum and subsequent punitive measures by Baghdad have called the future of Kurdish autonomy in Iraq into question. Scholars also debate the historical connection between the ancient Kingdom of Corduene and modern Kurds.
+
+Source: adapted from "Kurdistan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kurdistan

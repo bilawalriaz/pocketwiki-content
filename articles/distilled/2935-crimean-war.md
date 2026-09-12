@@ -37,3 +37,5 @@ The Treaty of Paris (1856) ended the war. It demilitarized the Black Sea, forbid
 
 ## Debates and Open Questions
 Historians debate whether the war was an inevitable result of long-term geopolitical tensions or the product of "diplomatic drift" and miscalculation by leaders like Tsar Nicholas I and Napoleon III. Some argue Britain followed a calculated strategy to destroy the emerging Russian navy, while others emphasize the role of public opinion and press sensationalism in pushing governments toward conflict. The long-term impact is also debated: while the treaty punished Russia, some historians argue Austria lost the most by alienating Russia, which contributed to its later isolation and defeats.
+
+Source: adapted from "Crimean War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Crimean_War

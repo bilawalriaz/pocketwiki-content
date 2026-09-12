@@ -41,3 +41,5 @@ Since independence, Lithuania has consolidated a semi-presidential democracy and
 
 ## Debates and Open Questions
 The etymology of the name "Lithuania" (Lietuva) is debated. One theory links it to the Lietava stream near Kernavė, while another, proposed by Artūras Dubonis, connects it to the word *leičiai*, a distinct warrior social group in medieval Lithuanian society.
+
+Source: adapted from "Lithuania" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lithuania

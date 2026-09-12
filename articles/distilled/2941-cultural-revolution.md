@@ -47,3 +47,5 @@ In 1978, Deng Xiaoping became paramount leader and initiated the "Boluan Fanzhen
 - **Mao's Role**: Scholars debate the extent of Mao's direct responsibility versus the actions of radical factions like the Gang of Four.
 - **Lin Biao's Death**: Official accounts state Lin Biao died in a plane crash after a failed coup, but details are disputed, and some question whether a coup was actually planned.
 - **Legacy in Contemporary China**: Public discussion is restricted, and perspectives range from seeing it as a necessary revolution to a catastrophic mistake, with ongoing scholarly and political debate.
+
+Source: adapted from "Cultural Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cultural_Revolution

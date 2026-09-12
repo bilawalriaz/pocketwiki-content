@@ -45,3 +45,5 @@ $F$ is evolvable over $D$ if some representation class $R$ makes it evolvable, a
 ## Known results
 
 The class of conjunctions is evolvable over the uniform distribution; disjunctions are evolvable over the uniform distribution when restricted to short formulas. Parity functions (which output the parity of a chosen subset of literals) are not evolvable, even under the uniform distribution. Evolvability implies PAC learnability: every evolvable class is also PAC learnable.
+
+Source: adapted from "Evolvability (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Evolvability_%28computer_science%29

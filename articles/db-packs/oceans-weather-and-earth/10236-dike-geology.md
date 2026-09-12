@@ -33,3 +33,5 @@ In sheeted dike complexes beneath mid-ocean ridges, nearly all the rock is dikes
 Ring dikes and cone sheets surround shallow magma chambers beneath calderas. Cone sheets form when injected magma lifts and fractures the overlying rock into concentric cones dipping into the chamber; when a caldera later empties explosively, its roof collapses into a ring fracture that rising magma fills to produce a ring dike.
 
 A clastic (or sedimentary) dike is a vertical body of sedimentary rock that interrupts other layers. It forms when fluid pressure in coarse-grained layers beneath impermeable clay exceeds the lithostatic overburden and drives sediment upward, or when cracks in permafrost fill with sediment falling from above.
+
+Source: adapted from "Dike (geology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dike_%28geology%29

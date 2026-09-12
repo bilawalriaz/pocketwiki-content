@@ -47,3 +47,5 @@ The standard language is Dutch, with regional variations known as Flemish. The e
 - **Political Status**: The extent of Flanders' autonomy is a central issue in Belgian politics, with parties ranging from those favoring the current federal system to those advocating for confederalism or full independence.
 - **Identity and Nationalism**: There is a debate about the strength of Flemish versus Belgian identity. While nationalist parties have gained electoral support, surveys show a majority of Flemings still identify as Belgian and oppose secession.
 - **Linguistic Landscape**: The status of French in Brussels and the municipalities with language facilities along the language border remains a point of contention between linguistic communities.
+
+Source: adapted from "Flanders" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Flanders

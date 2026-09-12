@@ -41,3 +41,5 @@ Chemistry divides into pure (fundamental principles) and applied (real-world pro
 ## Open questions
 
 The field's definition continues to evolve, and the organic–inorganic boundary is not absolute, especially in organometallic chemistry.
+
+Source: adapted from "Chemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemistry

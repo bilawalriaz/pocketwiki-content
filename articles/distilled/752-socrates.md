@@ -92,3 +92,5 @@ Montaigne: rationalist counter to fanaticism. Voltaire: reason-based theist. Heg
 7. **Nature of *daimonion***: Rational intuition, psychological phenomenon, divine voice, or literary device?
 8. **Socratic love**: Egoistic (utility-based) or open to non-egoistic forms? Is Diotima historical (Aspasia) or fictional?
 9. **Legacy ownership**: Stoics (knowledge-ethics) vs. Skeptics (ignorance) in antiquity; civic humanist vs. holy sage in Renaissance; rationalist hero vs. destroyer of tragedy in modernity.
+
+Source: adapted from "Socrates" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Socrates

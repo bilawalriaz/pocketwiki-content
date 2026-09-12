@@ -44,3 +44,5 @@ In 1580, Philip II outlawed William and offered a reward for his death. William 
 - The exact origin and first use of the epithet "the Silent" is uncertain; it is traditionally linked to his discretion during a 1559 conversation with King Henry II of France about anti-Protestant plans, but the anecdote first appears in sources from the early 17th century.
 - The extent to which William's personal religious evolution—from Lutheran to Catholic to Calvinist—was driven by sincere conviction versus political pragmatism remains a subject of scholarly interpretation.
 - His political judgment, particularly his persistent support for the unpopular French Duke of Anjou, is debated as a significant miscalculation that temporarily isolated him.
+
+Source: adapted from "William the Silent" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_the_Silent

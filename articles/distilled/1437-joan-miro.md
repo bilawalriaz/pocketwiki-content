@@ -58,3 +58,5 @@ Miró suffered episodic depression from age 18 (1911), describing painting as es
 - **Mental health diagnosis**: Episodic depression is documented; whether manic episodes occurred (bipolar vs. unipolar) is uncertain and inferred, not confirmed.
 - **Automatism vs. method**: Sketches reveal careful planning behind seemingly automatic works; the balance between unconscious impulse and deliberate composition is unresolved.
 - **Late work evaluation**: Prolific late output (ceramics, tapestry, gas sculpture) is viewed either as vital expansion or commercial repetition; critical consensus is still forming.
+
+Source: adapted from "Joan Miró" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joan_Mir%C3%B3

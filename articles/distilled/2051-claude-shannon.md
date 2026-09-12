@@ -46,3 +46,5 @@ Shannon estimated the game-tree complexity of chess (the "Shannon number") at ap
 ## Debates and Open Questions
 - The source notes Shannon's 1940 PhD thesis on genetics contained "important results" but remained "unpublished and relatively unknown until recently," suggesting ongoing scholarly rediscovery of his early work.
 - Shannon's 1956 editorial "The Bandwagon" warned against the uncritical application of information theory, highlighting a tension between the theory's broad utility and its proper scientific boundaries.
+
+Source: adapted from "Claude Shannon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Claude_Shannon

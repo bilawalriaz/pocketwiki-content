@@ -47,3 +47,5 @@ In his final years, Korolev developed the massive N-1 rocket for lunar missions 
 - **Rivalry with Chelomey:** Korolev's intense rivalry with fellow designer Vladimir Chelomey is cited as a major reason for the failure of the Soviet lunar program. Some historians argue their competition led to duplicated efforts and political infighting that undermined a unified Moon mission.
 - **Leadership Style:** While revered as a genius manager, some, like engineer Sergei Khrushchev, criticized Korolev's approach as overly reliant on existing technology (like the N-1 rocket) and lacking a staged, methodical development process, which contributed to the lunar program's failure.
 - **Secrecy:** The policy of keeping his identity secret, while protecting him, also meant his achievements were not publicly celebrated until after his death, limiting his ability to build public and political support for long-term goals like the Moon landing.
+
+Source: adapted from "Sergei Korolev" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sergei_Korolev

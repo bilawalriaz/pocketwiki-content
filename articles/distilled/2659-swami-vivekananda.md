@@ -41,3 +41,5 @@ In India, Vivekananda founded the Ramakrishna Mission (1897) to combine spiritua
 
 ## Debates and Open Questions
 Scholars debate the extent of Vivekananda's innovation. While often labeled a proponent of Neo-Vedanta, some argue his core ideas, like the emphasis on direct spiritual experience over scripture, are present in earlier medieval Advaitic literature. There is also discussion about the relative influence of the Brahmo Samaj versus Ramakrishna on his early development.
+
+Source: adapted from "Swami Vivekananda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Swami_Vivekananda

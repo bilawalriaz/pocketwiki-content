@@ -39,3 +39,5 @@ Urban data are based on arbitrary, non-comparable definitions. To address this, 
 
 ## Debates and Open Questions
 The primary debate centers on the lack of a consistent global definition, which complicates comparative statistics. While the FUA offers a standardized framework, many countries retain unique national definitions for administrative or planning purposes. The fluidity of terms like "metropolitan statistical area" versus colloquial usage ("metro area") adds to the ambiguity. The adoption and effectiveness of new measurement systems like UMS to resolve these disparities is an ongoing development.
+
+Source: adapted from "Metropolitan area" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metropolitan_area

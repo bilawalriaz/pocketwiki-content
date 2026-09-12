@@ -79,3 +79,5 @@ Each Veda was transmitted through numerous regional schools (*śākhās*), each 
 *   **Semantic Priority**: Ritualists (Mīmāṃsā) argue mantra efficacy depends solely on phonetic purity; philosophers (Vedānta) and some Rigvedic passages insist meaning (*artha*) is essential for true knowledge.
 *   **Atharvaveda's Status**: Its late canonical acceptance (late 1st millennium BCE) and "magical" content raise questions about the boundaries of orthodoxy and the integration of folk traditions.
 *   **Lost Recensions**: The vast majority of *śākhās* and their texts are lost; the surviving corpus represents a tiny, geographically specific fraction of the original Vedic diversity.
+
+Source: adapted from "Vedas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vedas

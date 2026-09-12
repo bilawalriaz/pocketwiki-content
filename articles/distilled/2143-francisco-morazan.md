@@ -42,3 +42,5 @@ After the federation's collapse, Morazán served as Head of State in El Salvador
 - The primary cause of the federation's collapse is debated: was it the inherent weakness of the federal system, the success of conservative opposition, or the failure of liberal reforms to gain popular support?
 - Historians assess whether Morazán's liberal reforms were too radical and too fast for the social and political realities of the time, thereby provoking inevitable backlash.
 - The role of the Catholic Church in actively undermining the liberal government, particularly by using the cholera epidemic to incite rebellion, is a central point of analysis.
+
+Source: adapted from "Francisco Morazán" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Francisco_Moraz%C3%A1n

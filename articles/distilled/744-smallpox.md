@@ -92,3 +92,5 @@ Earliest credible evidence: Egyptian mummy Ramses V (1145 BCE), Indian texts (15
 
 ## Debates and Open Questions
 *   **Virus Stock Destruction:** Whether to destroy the two remaining WHO-sanctioned variola stocks (CDC, VECTOR). Pro-destruction: eliminates lab accident/terrorism risk; stocks not needed for outbreak response (vaccines exist). Pro-retention: potential need for antiviral/vaccine development against engineered threats; 2010 WHO review concluded no essential public health
+
+Source: adapted from "Smallpox" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Smallpox

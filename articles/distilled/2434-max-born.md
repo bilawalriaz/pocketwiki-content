@@ -40,3 +40,5 @@ Following the Nazi rise to power in 1933, Born was suspended from his position a
 ## Debates and Open Questions
 - The statistical interpretation of the wavefunction was a point of contention with Albert Einstein, who famously stated, "God does not play dice," expressing his discomfort with the inherent randomness of quantum mechanics.
 - The relative credit for the development of matrix mechanics among Heisenberg, Born, and Jordan has been a historical discussion, with Heisenberg receiving the 1932 Nobel Prize alone for the creation of quantum mechanics.
+
+Source: adapted from "Max Born" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Max_Born

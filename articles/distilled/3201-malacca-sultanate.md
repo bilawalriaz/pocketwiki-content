@@ -50,3 +50,5 @@ Prosperity stemmed from strategic location and secure trade. As an entrepôt, it
 - **Founding Date and Founder**: The conventional date is c. 1400, but earlier dates are proposed. Sources debate the first ruler's identity: Portuguese and Chinese sources name Parameswara, while the Malay Annals call him Iskandar Shah. Some accept Parameswara's son was Megat Iskandar Shah.
 - **Islamisation Timeline**: Sources disagree on conversion timing. Tomé Pires claimed Parameswara's son converted at age 72, while the Malay Annals state Islam was adopted under Muhammad Shah (r. 1424–1444). It was firmly established by Muzaffar Shah's reign (r. 1445–1459).
 - **Succession and Early Rulers**: Discrepancies in Malay, Chinese, and Portuguese sources regarding early sultans' names, number, and reign details create chronological uncertainty.
+
+Source: adapted from "Malacca Sultanate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Malacca_Sultanate

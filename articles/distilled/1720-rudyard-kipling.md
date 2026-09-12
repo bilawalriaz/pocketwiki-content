@@ -61,3 +61,5 @@ Post-war, Kipling opposed Bolshevism ("one sixth of the world had passed bodily 
 - **Kipling and the Jallianwala Bagh massacre**: Indian nationalists long alleged Kipling called General Dyer "the man who saved India" and organized a benefit fund. Historians (Kim Wagner, Derek Sayer, Subhash Chopra) now attribute the phrase and fund to *The Morning Post*; Kipling donated £10 with the note "He did his duty, as he saw it."
 - **Orientalism in *Kim***: Edward Said cited *Kim* as Orientalist; scholars (Janice Leoshko, David Scott) counter that its sympathetic Buddhism and narrative structure reflect a Buddhist worldview, challenging Said’s thesis.
 - **Speculative fiction legacy**: Kipling’s Aerial Board of Control stories (1905, 1912) are claimed as early "hard SF" using indirect exposition; their influence on Heinlein and the genre is acknowledged but the extent of direct lineage is debated.
+
+Source: adapted from "Rudyard Kipling" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rudyard_Kipling

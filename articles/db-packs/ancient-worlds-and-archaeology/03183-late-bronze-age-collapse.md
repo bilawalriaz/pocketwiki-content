@@ -35,3 +35,5 @@ The scale is itself a live debate. Robert Drews argued for near‑universal viol
 - Was the primary driver climate, invasion, internal revolt, or systemic failure? Most researchers now treat these as reinforcing rather than competing.
 - Were the Sea Peoples a cause or raiders profiting from weakness?
 - How much cultural and economic life continued unbroken in places such as Cyprus and parts of the Levant, even as political centres fell?
+
+Source: adapted from "Late Bronze Age collapse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse

@@ -42,3 +42,5 @@ The wars revolutionized warfare. The French *levée en masse* (1793) mobilized t
 - The precise military objective of Napoleon's 1798 Egyptian expedition remains unclear; it may have been to threaten British dominance in India.
 - The role of the *levée en masse* in French success is debated: was it the decisive factor, or were tactical and leadership innovations equally critical?
 - Scholars debate the appropriate endpoint for the "Revolutionary Wars," with the Treaty of Amiens (1802) being the most common, though Napoleon was not crowned emperor until 1804.
+
+Source: adapted from "French Revolutionary Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_Revolutionary_Wars

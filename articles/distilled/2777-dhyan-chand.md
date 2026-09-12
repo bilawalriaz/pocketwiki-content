@@ -39,3 +39,5 @@ After the 1936 Olympics, Chand continued to play for his regiment and led succes
 ## Debates and Open Questions
 *   **Goal Count in 1936 Final:** There is a discrepancy between newspaper reports and Chand's own autobiography regarding the number of goals he scored in the 1936 Olympic final. Newspapers claimed he scored six goals, while Chand stated he scored three. The International Hockey Federation records attribute three goals to him.
 *   **Bharat Ratna Nomination:** Chand was a nominee for India's highest civilian award, the Bharat Ratna, in 2014. The award was given to others, and an RTI filing suggested the Prime Minister's Office ignored a sports ministry recommendation, leading to disappointment among his family.
+
+Source: adapted from "Dhyan Chand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dhyan_Chand

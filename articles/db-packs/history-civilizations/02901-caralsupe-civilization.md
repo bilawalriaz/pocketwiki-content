@@ -30,3 +30,5 @@ Caral–Supe had no ceramics and no sculpture, yet it produced sophisticated tex
 ## Open questions
 
 The Maritime Foundation of Andean Civilization (MFAC) theory holds that the civilization rested on a maritime subsistence economy, but dietary evidence showing plant foods dominated has pushed most researchers toward an agricultural core with a strong marine supplement. A second dispute asks whether the coast, represented by sites such as Aspero, led the way and influenced the inland, or whether inland centers like Caral were primary from the start; radiocarbon dates show the two zones were contemporaneous, so the direction of influence is contested. A separate, more personal controversy concerns the discovery itself, pitting Peruvian archaeologist Ruth Shady against American researchers Jonathan Haas and Winifred Creamer in competing claims over credit and allegations of plagiarism.
+
+Source: adapted from "Caral–Supe civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caral%E2%80%93Supe_civilization

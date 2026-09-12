@@ -67,3 +67,5 @@ Tarkovsky died 29 December 1986 in Paris; his funeral was held at Alexander Nevs
 - **Color vs. monochrome aesthetics**: Tarkovsky’s 1966 dismissal of color as a "gimmick" contrasts with his later selective use (icon epilogue, sepia sequences); the tension between his theoretical stance and practice is unresolved.
 - **Late style: development or repetition?**: Bergman’s "self-karaoke" critique raises whether *Nostalghia* and *The Sacrifice* deepen Tarkovsky’s project or reiterate it in exile, a debate informed by his shift to Aristotelian unities and Western crews.
 - **Solaris as adaptation**: Tarkovsky’s dissatisfaction with Lem’s novel and the sci-fi genre complicates assessments of *Solaris* as either a failed genre exercise or a deliberate subversion of it.
+
+Source: adapted from "Andrei Tarkovsky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andrei_Tarkovsky

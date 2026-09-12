@@ -41,3 +41,5 @@ Xuanzong lived as retired emperor (*taishang huang*) in Chang'an, largely stripp
 - **Turning Point of the Reign:** Historians debate whether the true turning point was the rise of Li Linfu in the 730s, the emperor's growing neglect, or the structural problem of empowering regional military governors (*jiedushi*).
 - **Role of Yang Guifei:** While traditional accounts blame her and her family for distracting the emperor, modern scholars assess the extent of her actual political influence versus her role as a symbol of court decadence.
 - **Legacy of Military Reforms:** The shift from a conscription-based army to a salaried, professional border force under generals like An Lushan is seen by some as a necessary adaptation that, due to political mismanagement, ultimately enabled the rebellion.
+
+Source: adapted from "Emperor Xuanzong of Tang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang

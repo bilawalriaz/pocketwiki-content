@@ -37,3 +37,5 @@ As of 13 August 2026, BOINC combined 25,314 active participants and 130,853 acti
 ## Trade-offs
 
 Volunteer machines are unpredictable, often offline, and heterogeneous, so projects must write applications that can be checkpointed, resumed, and verified. Mobile projects are restricted to the subset that fits Android, and only projects listed on the official BOINC site contribute to the combined statistics; independent BOINC-based efforts exist outside that list.
+
+Source: adapted from "Berkeley Open Infrastructure for Network Computing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing

@@ -39,3 +39,5 @@ Early Chinese philosophy focused on ethics, social conduct, and self-cultivation
 ## Live debates
 
 Several questions remain unresolved. Neo-Kantians argue that philosophy is essentially historical, blurring the line between the history of philosophy and philosophy itself. Scholars dispute whether Arabic–Persian philosophy truly "declined" after its classical peak or simply shifted into theology. The boundary between orthodox and heterodox schools in Indian thought is itself contested, and traditional Western periodisations are increasingly seen as inadequate for a genuinely global picture of the discipline.
+
+Source: adapted from "History of philosophy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_philosophy

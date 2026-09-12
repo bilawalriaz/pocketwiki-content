@@ -57,3 +57,5 @@ or in matrix form, **X = AY**, where *A* = (aᵢⱼ). The formula follows from w
 ## Existence
 
 Every vector space has a basis, but the general proof uses the **axiom of choice** (equivalently, Zorn's lemma). Let *X* be the set of all linearly independent subsets of *V*, partially ordered by inclusion. Every totally ordered subfamily has an upper bound, namely its union. By Zorn's lemma, a maximal independent set exists; it must span *V*, because any non-spanned vector could be added to form a larger independent set, contradicting maximality. The converse also holds: a basis existing for every vector space implies the axiom of choice.
+
+Source: adapted from "Basis (linear algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Basis_%28linear_algebra%29

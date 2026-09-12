@@ -95,3 +95,5 @@ Non-compulsory kindergarten → 6 years compulsory primary → 5 years optional 
 Multi-ethnic, multicultural, multilingual. Influences: Indigenous, Chinese, Indian, Persian, Arabic, British. Minimal assimilation due to "social contract" and government structure. Cultural disputes with Indonesia (shared heritage). 1971 National Cultural Policy: culture based on indigenous peoples, may incorporate suitable elements, Islam must play a part, Malay language promoted. Non-Malays resent perceived cultural suppression.
 
 **Fine Arts:** Traditional: carving, weaving, silversmithing (kris, betel sets, batik,
+
+Source: adapted from "Malaysia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Malaysia

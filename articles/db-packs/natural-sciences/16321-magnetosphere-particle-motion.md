@@ -32,3 +32,5 @@ Trapped particles also drift slowly around Earth, switching guiding field lines 
 ## The plasma fountain
 
 A flow of hydrogen, helium, and oxygen ions, the plasma fountain, streams out of the polar regions. Some of this material returns along field lines as the aurora, and the rest escapes to space, both outcomes shaped by the same Lorentz-force dynamics that govern trapped-particle motion closer to Earth.
+
+Source: adapted from "Magnetosphere particle motion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Magnetosphere_particle_motion

@@ -35,3 +35,5 @@ Thebes lost political primacy after the New Kingdom. During the Third Intermedia
 ## The two banks
 
 The east bank of the Nile held the city and the great temples, Karnak and Luxor, both fronted by pylons, massive gateways formed by a pair of tapering towers. The west bank held the necropolis: the tombs of the Valley of the Kings, the Valley of the Queens, and mortuary temples such as the Ramesseum and Hatshepsut's Deir el-Bahri.
+
+Source: adapted from "Thebes, Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thebes%2C_Egypt

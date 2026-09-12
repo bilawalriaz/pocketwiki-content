@@ -23,3 +23,5 @@ From the early 19th century, the Asante clashed with the British, who were allie
 ## Unresolved Questions
 
 Three debates remain active. First, scholars disagree about whether the pre-Asante "Akani" or "Arcania" polities were a centralized kingdom, a confederation, or a trading network. Second, Larry Yarak and Ivor Wilks differ on whether the Asantehene or the bureaucracy held ultimate power, though both describe the system as highly developed. Third, the role of the Atlantic slave trade is contested: some historians argue that Asante wealth rested mainly on gold and kola, with slave exports a secondary element rather than the economic foundation.
+
+Source: adapted from "Asante Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Asante_Empire

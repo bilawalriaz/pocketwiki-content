@@ -84,3 +84,5 @@ A persistent tradition questions reason’s authority.
 4.  **Evolutionary Function**: Did reason evolve for individual cognition (navigation, tool use) or collective argumentation (Sperber & Mercier)?
 5.  **Reason and Rights**: Are human rights discoverable by reason alone (Natural Law/Aquinas), or are they historical constructions (Rousseau/Marx)?
 6.  **Faith and Reason**: Are they compatible (Plantinga, Ratzinger), separate (Gould), or in irreducible tension (Athens vs. Jerusalem)?
+
+Source: adapted from "Reason" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Reason

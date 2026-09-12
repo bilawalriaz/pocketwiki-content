@@ -25,3 +25,5 @@ The basin holds more than 5,600 fish species as of 2011, with about 50 new ones 
 ## Why the numbers keep changing
 
 The length question turns on measurement choices: a 2008 Brazilian study claimed 6,992 km for the Amazon versus 6,853 km for the Nile, but was never peer-reviewed, while a 2009 peer-reviewed study found the Nile longer at 7,088 km versus the Amazon's 6,575 km. The mouth's width depends on whether the Pará distributary is counted, and the most distant source depends on which tributary headstream is followed. What stays constant is the underlying physical reality: a river of extraordinary discharge, a basin of extraordinary size, and an ecosystem whose scale has no equal on the planet.
+
+Source: adapted from "Amazon River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amazon_River

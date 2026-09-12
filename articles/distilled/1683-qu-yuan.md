@@ -63,3 +63,5 @@ Qu Yuan’s poem *Heavenly Questions* (*Tianwen*) poses ontological queries abou
 - **Motive for suicide:** Competing explanations—patriotic martyrdom (Zhu Xi), political despair, or principled self-vindication (*Yu Fu*)—reflect different interpretive frameworks.
 - **Romantic vs. political reading:** Li Yinhe’s claim that Qu expressed homosexual love for King Huai challenges the dominant loyalist/patriotic narrative.
 - **20th-century canonization:** The PRC’s elevation of Qu Yuan as a nationalist icon ("first patriotic poet") suppressed earlier critical scholarship on his historicity and textual transmission, raising questions about the interplay of politics and literary history.
+
+Source: adapted from "Qu Yuan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Qu_Yuan

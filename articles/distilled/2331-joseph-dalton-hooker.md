@@ -48,3 +48,5 @@ Hooker continued to travel, visiting Palestine (1860), Morocco (1871), and the w
 *   The rivalry between Kew Gardens and the British Museum's herbarium, particularly with Richard Owen, was intense and personal, centering on institutional independence and scientific authority.
 *   Hooker's directorship faced a serious political threat from Acton Smee Ayrton, who questioned Kew's management and scientific value, leading to a parliamentary inquiry that ultimately supported Hooker.
 *   The precise causes of the disjunct distributions of plant floras between eastern North America and eastern Asia, which Hooker investigated with Asa Gray, were debated, with proposed explanations including glacial periods and ancient land connections.
+
+Source: adapted from "Joseph Dalton Hooker" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker

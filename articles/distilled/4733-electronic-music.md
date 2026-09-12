@@ -47,3 +47,5 @@ The 21st century has been marked by the dominance of software. Digital Audio Wor
 
 ## Debates and Open Questions
 The source text highlights a foundational scholarly debate: the distinction between *musique concrète* (using recorded sounds) and *elektronische Musik* (using synthesized sounds). This dichotomy, established in the 1950s, shaped early electronic music philosophy. Another ongoing theme is the tension between electronic music as academic art music and its role in popular culture, a divide that began narrowing in the 1970s and has largely dissolved with the mainstream success of electronic genres.
+
+Source: adapted from "Electronic music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electronic_music

@@ -44,3 +44,5 @@ During the Cultural Revolution (1966–1976), Zhou remained deferential to Mao b
 - **Political Opportunism vs. Pragmatic Survival:** Scholars debate whether Zhou's unwavering loyalty to Mao and his participation in the Cultural Revolution were acts of a political opportunist or the necessary compromises of a pragmatist trying to minimize national damage from within a totalitarian system.
 - **Role in the Cultural Revolution:** While credited with moderating excesses, Zhou also implemented Mao's directives and failed to protect many colleagues and family members. His exact level of agency and complicity remains contested.
 - **Legacy and Historical Memory:** After his death, Zhou's image was promoted by Deng Xiaoping to contrast with Mao's legacy and legitimize post-Mao reforms. Historians question how much of his revered public image is a product of this political instrumentalization.
+
+Source: adapted from "Zhou Enlai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zhou_Enlai

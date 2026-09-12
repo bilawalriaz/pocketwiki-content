@@ -45,3 +45,5 @@ CT uses X-rays; the denser the tissue, the more it attenuates and the brighter i
 PET detects gamma rays from a positron-emitting radiotracer, so it images metabolism or receptor binding rather than anatomy. Different radiotracers target different processes. Radiotracers differ from radiocontrasts in that they are detected through radioactive decay rather than X-ray absorption. Modern scanners combine both as PET-CT, aligning functional and anatomical data in one session.
 
 Maximum intensity projection (MIP) collapses a stack of 2D slices into a 3D-looking image by keeping the brightest voxel along each viewing ray, and is especially good at revealing small lung nodules, though respiratory and blood-flow artifacts can mimic disease. MIP also applies to MR angiography and, in research, to MRI, where neural networks have classified lesions from MIP MRI more accurately than from single slices.
+
+Source: adapted from "Biological data visualization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_data_visualization

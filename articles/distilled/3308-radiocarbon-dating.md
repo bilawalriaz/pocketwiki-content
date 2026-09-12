@@ -45,3 +45,5 @@ Radiocarbon dating provides absolute dates for organic materials found in archae
 *   **Scroll Contamination:** The authenticity of radiocarbon dates for the Dead Sea Scrolls has been debated due to potential contamination from modern materials (e.g., castor oil) used in their conservation.
 *   **Neanderthal Dates:** Some researchers suggest that many published radiocarbon dates for Neanderthal artifacts are inaccurately young due to contamination by "young carbon."
 *   **Calibration Precision:** While calibration curves are continually refined, uncertainties remain, especially for periods with plateaus or rapid fluctuations in atmospheric ¹⁴C, leading to multiple possible calendar date ranges for a single radiocarbon measurement.
+
+Source: adapted from "Radiocarbon dating" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Radiocarbon_dating

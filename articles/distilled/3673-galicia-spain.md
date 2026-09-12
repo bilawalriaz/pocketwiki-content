@@ -59,3 +59,5 @@ Galician and Spanish are both official languages. Galician, a Romance language c
 - The degree of Romanization in Galicia is considered lesser than in other provinces due to its remoteness and the decline of gold mining.
 - The political status of Galicia remains a topic, with the BNG advocating for nationhood, though widespread support for independence is low.
 - The environmental impact of eucalyptus plantations and hydroelectric dams is a subject of ongoing concern and debate.
+
+Source: adapted from "Galicia (Spain)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Galicia_%28Spain%29

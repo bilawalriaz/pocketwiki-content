@@ -25,3 +25,5 @@ Acceptance is not universal. Some traditionalists read Buddhist cosmology, inclu
 ## Practical consequences
 
 In countries with significant Buddhist populations, evolution is generally taught alongside religious education without conflict, and surveys consistently show Buddhists among the highest accepters of evolution across religious groups. The Buddhist emphasis on interdependence has also made evolution a natural ally of Buddhist environmentalism, since recognising the shared ancestry and ecological entanglement of living beings reinforces the precepts of compassion and non-harming, and supplies an empirical grounding for ecological responsibility.
+
+Source: adapted from "Buddhist views on evolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Buddhist_views_on_evolution

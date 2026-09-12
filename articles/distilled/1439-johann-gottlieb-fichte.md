@@ -65,3 +65,5 @@ Fichte’s last decade produced multiple unpublished revisions of the *Wissensch
 - **Systematic completeness**: The *Wissenschaftslehre* claims to deduce experience *a priori* but admits it cannot explain the *particular* occurrence of Anstoss or sensible properties—a limit Fichte shares with Kant.
 - **Interpretation of the *Nova methodo***: The shift from Anstoss to "original feeling" and the summons as the limit of the I is read either as a deepening of intersubjectivity or as a retreat from the first system’s rigor.
 - **Economic feasibility**: *The Closed Commercial State*’s autarkic guild socialism is debated as either a coherent anti-capitalist utopia or a reactionary artisanal fantasy incompatible with modern industry.
+
+Source: adapted from "Johann Gottlieb Fichte" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte

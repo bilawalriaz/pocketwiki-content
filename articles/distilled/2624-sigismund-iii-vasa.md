@@ -42,3 +42,5 @@ Sigismund moved the capital from Kraków to Warsaw in 1596. His reign fostered t
 
 ## Debates and Open Questions
 Scholars debate whether Sigismund's reign marked the definitive end of the Polish Golden Age or its final, brilliant phase. His personal ambition to create a Catholic super-state is seen by some as visionary, while others view it as a catastrophic miscalculation that drained the Commonwealth's resources and weakened its political system. The exact nature of his relationship with courtier Urszula Meyerin remains a subject of historical speculation.
+
+Source: adapted from "Sigismund III Vasa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sigismund_III_Vasa

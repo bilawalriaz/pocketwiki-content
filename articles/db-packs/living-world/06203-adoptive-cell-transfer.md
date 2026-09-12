@@ -37,3 +37,5 @@ Each course is patient-specific: cells are grown, tested, and released under cur
 On-target/off-tumor toxicity strikes when the chosen antigen exists on healthy tissue. High-avidity TCRs against MART-1 or gp100 damaged melanocytes, and an anti-ERBB2 CAR caused patient deaths. Cross-reactivity is unpredictable: an HLA-A*0201–restricted MAGE-A3 TCR also recognized a related brain epitope and destroyed gray matter. Cytokine release syndrome, a systemic inflammatory reaction triggered when infused T cells kill large numbers of tumor cells and release cytokines, has killed trial participants. B cell loss after CD19 therapy is managed with periodic immunoglobulin infusions, and suicide switches let clinicians eliminate engineered T cells in emergencies.
 
 Regulatory T cells, which suppress rather than activate immune responses, have been transferred in type 1 diabetes and rheumatoid arthritis to restore tolerance.
+
+Source: adapted from "Adoptive cell transfer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Adoptive_cell_transfer

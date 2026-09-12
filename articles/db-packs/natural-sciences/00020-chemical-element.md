@@ -43,3 +43,5 @@ Plato formalized the classical elements earth, water, air, and fire around 360 B
 - **Nucleosynthesis**: creation of new atomic nuclei.
 - **Metalloid**: element with properties between metals and nonmetals, often a semiconductor.
 - **Transuranic element**: element with atomic number greater than 92.
+
+Source: adapted from "Chemical element" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemical_element

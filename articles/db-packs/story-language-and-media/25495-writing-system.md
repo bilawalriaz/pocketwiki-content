@@ -17,3 +17,5 @@ Graphemes appear as visual shapes called glyphs, and a single grapheme can have 
 Orthographies vary in how cleanly graphemes map to sounds. Shallow orthographies have predictable one-to-one correspondences; deep orthographies allow polyphony (one grapheme for several sounds) and polygraphy (several spellings for one sound). English is deep: the vowel of "fiancé," "raid," "bay," "steak," and "vein" is one phoneme in five spellings. Deep spellings persist because they mark etymological connections invisible in pronunciation, distinguishing homophones like "sign" and "signal," or preserving family resemblance between "child" and "children."
 
 Braille, which encodes the same structure through raised tactile patterns, shows that writing is fundamentally spatial rather than visual.
+
+Source: adapted from "Writing system" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Writing_system

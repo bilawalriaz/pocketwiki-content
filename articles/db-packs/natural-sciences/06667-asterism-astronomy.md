@@ -29,3 +29,5 @@ Two bright pairs act as directional signposts. Dubhe and Merak, the two stars at
 ## Telescopic asterisms
 
 Asterisms range far beyond the naked eye. The "37" or "LE" inside NGC 2169 in Orion is visible in binoculars. The Engagement Ring in Ursa Minor uses Polaris as a diamond set in a faint circle of stars, and the Broken Engagement Ring sits near Merak in Ursa Major. The Christmas Tree Cluster in Monoceros, the Coathanger (Brocchi's Cluster) in Vulpecula, Kemble's Cascade ending in NGC 1502 in Camelopardalis, and Napoleon's Hat south of Arcturus are faint patterns rewarding binoculars or a small telescope. Messier 73 in Aquarius, once catalogued as a cluster, was shown by 2002 analysis to be an asterism of four unrelated stars.
+
+Source: adapted from "Asterism (astronomy)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Asterism_%28astronomy%29

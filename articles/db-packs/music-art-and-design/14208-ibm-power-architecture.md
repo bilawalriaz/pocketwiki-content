@@ -32,3 +32,5 @@ The original POWER ISA was deprecated in 1998 when POWER3 arrived. POWER3 was pr
 | POWER2 / P2SC | 1993 / 1996 | Dual fixed/float units; single-die P2SC |
 | POWER3 | 1998 | Transition to 32/64-bit PowerPC |
 | PowerPC → Power ISA | 2006 | Modern lineage through Power10 |
+
+Source: adapted from "IBM POWER architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/IBM_POWER_architecture

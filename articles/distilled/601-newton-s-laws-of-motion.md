@@ -80,3 +80,5 @@ Predecessors include Aristotle (natural vs. violent motion), Philoponus (impetus
 - The extent to which Newtonian mechanics can be derived from energy-based formulations.
 - Whether the Euler and Navier-Stokes equations exhibit finite-time blowup (Millennium Prize Problem).
 - Interpretational issues in quantum mechanics regarding the correspondence to classical laws via the Ehrenfest theorem.
+
+Source: adapted from "Newton's laws of motion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion

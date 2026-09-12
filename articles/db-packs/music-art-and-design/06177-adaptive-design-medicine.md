@@ -41,3 +41,5 @@ The modern era began in 2004, when the US FDA's Strategic Path Initiative called
 ## Costs and limits
 
 Adaptation adds operational and statistical complexity: drug supply, randomisation systems, data capture, and the monitoring of multiple testing all become harder, and any repeated testing inflates type I error unless explicitly controlled. A pre‑specified, publicly registered protocol is the main safeguard against post‑hoc cherry‑picking. Shorter follow‑up can miss long‑term harms, such as cancer recurrence. Adaptive designs are not always worth it: when the primary outcome takes a long time to observe, interim looks at patients who have not yet had an event contribute little, eroding the efficiency gain and increasing the chance that the trial is stopped for futility before a real benefit can be detected.
+
+Source: adapted from "Adaptive design (medicine)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Adaptive_design_%28medicine%29

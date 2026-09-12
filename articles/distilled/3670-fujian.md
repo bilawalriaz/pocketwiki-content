@@ -46,3 +46,5 @@ Fujian is an affluent coastal province with a 2022 GDP of CN¥5.31 trillion, ran
 ## Debates and open questions
 - The political status of Taiwan and the islands of Kinmen and Matsu remains a core issue. The PRC administers most of Fujian but claims the ROC-held islands, while the ROC administers them as part of its "Fujian Province."
 - The PRC's 2023 plan to make Fujian a "demonstration zone for cross-strait integration" aims to boost economic and social ties with Taiwan, the success and implications of which are ongoing.
+
+Source: adapted from "Fujian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fujian

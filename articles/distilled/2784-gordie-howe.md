@@ -40,3 +40,5 @@ Howe combined elite scoring with exceptional strength and toughness, defining th
 ## Debates and Open Questions
 - While Wayne Gretzky surpassed Howe's major statistical records, Gretzky himself and others have debated whether Howe's completeness, longevity, and era-adjusted dominance make him the greatest player overall.
 - The impact of Howe's move to the WHA is a key point in hockey history, as it is credited with forcing the NHL to expand and modernize, though the exact degree of its influence is a matter of historical analysis.
+
+Source: adapted from "Gordie Howe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gordie_Howe

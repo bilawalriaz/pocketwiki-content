@@ -49,3 +49,5 @@ In *The Varieties of Religious Experience*, James analyzed personal religious ex
 - **Definition of "Practical Consequences"**: Critics note James never clearly defined how to measure or interpret the "practical consequences" central to his pragmatism.
 - **Psychical Research**: James's support for telepathy and mediumship (e.g., Leonora Piper) was criticized by contemporaries like James McKeen Cattell as unscientific, though James himself rejected the "spirit-control" hypothesis.
 - **Free Will Model**: His two-stage model separating chance from choice has been influential but continues to be analyzed and debated in philosophy and science.
+
+Source: adapted from "William James" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_James

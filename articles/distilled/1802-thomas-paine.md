@@ -45,3 +45,5 @@ Paine’s *The Age of Reason* (1793–1794) advocated Deism and criticized organ
 - **Authorship of "African Slavery in America"**: The 1775 essay is often attributed to Paine based on Benjamin Rush's later recollection, but definitive proof is lacking.
 - **Involvement in Drafting the Declaration of Independence**: A 2018 discovery of an inscription "T.P." on a draft copy suggests possible involvement, but the degree of his contribution remains unclear and debated.
 - **Scale of *Common Sense*'s Impact**: While its popularity is undisputed, some historians question Paine's estimated sales figures and debate whether it directly influenced the Continental Congress's decision for independence or primarily shaped public opinion.
+
+Source: adapted from "Thomas Paine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Paine

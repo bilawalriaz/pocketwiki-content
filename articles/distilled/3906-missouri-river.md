@@ -51,3 +51,5 @@ Steamboat navigation peaked in 1858 but was replaced by railroads. A modern barg
 - The construction of mainstem dams under the Pick-Sloan Plan flooded 150,000 acres of the Fort Berthold Indian Reservation, leading to a legal battle over treaty rights and compensation.
 - Modern ecosystem restoration projects, which involve removing levees and dikes, raise concerns about re-mobilizing trapped sediments and exacerbating nutrient pollution downstream in the Gulf of Mexico.
 - The future of navigation on the lower Missouri is uncertain, as the channel is underutilized and expensive to maintain, while drought and floods continue to disrupt traffic.
+
+Source: adapted from "Missouri River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Missouri_River

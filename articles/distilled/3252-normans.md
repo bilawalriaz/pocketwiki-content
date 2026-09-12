@@ -41,3 +41,5 @@ Norman culture was a synthesis of their Norse heritage and adopted Frankish trad
 - The precise ethnic composition of Rollo's original settlers is debated, with sources indicating they included Danes, Norwegians, Norse-Gaels, and Anglo-Danes.
 - The degree to which Norman mercenaries in Byzantine service were from Norman Italy versus other parts of France is uncertain, as Byzantine sources often referred to all Western Europeans as "Franks."
 - The extent of cultural assimilation versus the retention of a distinct Norman identity in regions like Ireland and England over time is a subject of historical analysis.
+
+Source: adapted from "Normans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Normans

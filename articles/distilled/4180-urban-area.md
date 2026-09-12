@@ -35,3 +35,5 @@ Urbanization patterns and definitions differ globally. In **Asia**, China's urba
 
 ## Debates and Open Questions
 The primary debate centers on the lack of a universal definition of "urban," making cross-country comparisons difficult. The UN states that due to global differences, a single definition is impossible. This leads to arbitrary national definitions that can change between censuses. Furthermore, the distinction between "urban area" and "metropolitan area" is often confused, with the latter including a broader functional region. The environmental impact of rapid, sometimes unplanned, urban expansion on fertile land and natural ecosystems is a critical ongoing concern.
+
+Source: adapted from "Urban area" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Urban_area

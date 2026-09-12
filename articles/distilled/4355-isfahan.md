@@ -42,3 +42,5 @@ The city is famed for its Persian-Muslim architecture, including Naqsh-e Jahan S
 - The exact origins and early history of Isfahan before the Sasanian dynasty are unclear, with little known.
 - The reported Sasanian circular city design of Isfahan has not been archaeologically uncovered.
 - Isfahan is suspected of being a primary location for Iran's nuclear weapons development program, a claim Iran disputes.
+
+Source: adapted from "Isfahan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Isfahan

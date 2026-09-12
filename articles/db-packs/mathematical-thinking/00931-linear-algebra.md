@@ -31,3 +31,5 @@ An inner product ⟨·,·⟩ is conjugate-symmetric, linear in its first argumen
 ## Applications
 
 Geometric transformations (rotations, reflections, projections) are linear maps, and modern geometry is built on vector spaces. Functional analysis, quantum mechanics, and Fourier analysis rest on the same foundations. The BLAS and LAPACK libraries form the standard computational backbone. Robotics and computer graphics model three-dimensional space as a vector space. Weather forecasting and fluid dynamics rely on linearized partial differential equations, and power-systems engineering uses these tools to model large linear networks.
+
+Source: adapted from "Linear algebra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Linear_algebra

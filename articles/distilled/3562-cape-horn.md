@@ -39,3 +39,5 @@ The cape was first sighted by Europeans in 1526. In 1616, Schouten and Le Maire,
 ## Debates and Open Questions
 - The exact point considered to be "Cape Horn" is debated; the Chilean Navy station and memorial are on a point about one mile east-northeast of the authentic, more inaccessible headland.
 - The first person to truly round the Horn in a small boat is disputed; while Joshua Slocum passed the area in 1895, he likely used inshore channels, with Conor O'Brien's *Saoirse* (1923-25) often cited as the first to sail outside the Horn proper.
+
+Source: adapted from "Cape Horn" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cape_Horn

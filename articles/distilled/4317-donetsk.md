@@ -48,3 +48,5 @@ Donetsk is a major sports center, home to the football club Shakhtar Donetsk (wh
 - The legitimacy of the 2014 self-rule referendum in Donetsk is disputed; Ukraine, the EU, and the US consider it illegal.
 - The ongoing Russo-Ukrainian War has created a divided administration, with outlying territories of Donetsk Oblast controlled by different sides.
 - The long-term economic viability of Donetsk is questioned due to its heavy industrial base, safety issues in mining, and the impact of war, with some analysts drawing parallels to the decline of Detroit.
+
+Source: adapted from "Donetsk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Donetsk

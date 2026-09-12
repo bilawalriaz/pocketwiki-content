@@ -67,3 +67,5 @@ Vasari and Jacob Burckhardt judged Alberti a *dilettante* painter ("achieved not
 - **Cryptography precedence**: Alberti shares "founder of European cryptography" status with Johannes Trithemius; his polyalphabetic principle was not properly used for centuries.
 - **Sant’Andrea authorship**: The design was completed in 1471, construction began 1472 (posthumous); extent of later alterations debated.
 - **Modern influence lineage**: Borsi traces Alberti’s ideas to Wright, Mies, Le Corbusier, Kahn; the directness of this transmission is interpretive.
+
+Source: adapted from "Leon Battista Alberti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leon_Battista_Alberti

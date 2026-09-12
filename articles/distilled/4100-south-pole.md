@@ -39,3 +39,5 @@ No time zone is defined for the South Pole. For practical reasons, the Amundsenâ
 
 ## Debates and Open Questions
 The source does not present ongoing scholarly debates, but it notes historical uncertainties, such as the exact location of Amundsen's buried tent and the precise first sighting of Antarctica in 1820. The primary ongoing challenge is the practical one of maintaining structures and markers on a moving ice sheet.
+
+Source: adapted from "South Pole" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/South_Pole

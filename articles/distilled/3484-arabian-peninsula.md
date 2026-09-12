@@ -55,3 +55,5 @@ The peninsula is home to nine countries, with Saudi Arabia being the largest. Th
 - The exact timing and routes of early human migrations into and out of the peninsula are subjects of ongoing archaeological and genetic research.
 - The historical extent and precise boundaries of ancient regions like *Arabia Deserta* are debated among scholars.
 - The long-term sustainability of the region's water resources, particularly the over-stressed Arabian Aquifer System, poses a critical future challenge.
+
+Source: adapted from "Arabian Peninsula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabian_Peninsula

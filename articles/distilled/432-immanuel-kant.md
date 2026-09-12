@@ -81,3 +81,5 @@ Kant’s "Copernican Revolution" established the **human subject as the center o
 *   **Racism and Sexism vs. Universalism**: Whether Kant’s explicit racial hierarchy and gender subordination (pre-1790s) are contingent prejudices or structural consequences of his anthropology/teleology. Kleingeld argues his late cosmopolitanism (1795) rejects hierarchy as incompatible with the CI; Mills and Bernasconi view him as a founder of "scientific racism."
 *   **Thing-in-Itself**: Whether the concept is coherent (Schopenhauer, Hegel, early critics argued it is a contradiction: causally affecting us yet outside causality) or a necessary limiting concept.
 *   **Religion**: Whether *Religion within the Bounds of Bare Reason* reduces Christianity to ethics (secularization) or elevates morality to the status of religion (theological affirmation).
+
+Source: adapted from "Immanuel Kant" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Immanuel_Kant

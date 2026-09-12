@@ -45,3 +45,5 @@ The *Iliad* was central to ancient Greek education and culture, performed by rha
 - **Historicity**: How much of the poem reflects actual Mycenaean-era history versus later Iron Age (Homer's own time) society and warfare? The Catalogue of Ships, for example, seems to reflect pre-Dorian invasion geography.
 - **Fate and Divine Will**: Can the gods in the *Iliad* alter fate, or are they also bound by it? The poem presents Zeus as capable of changing fate but choosing not to.
 - **Heroism**: Is Achilles, the protagonist, the true "hero" of the poem, or does Hector, with his loyalty and defense of family, embody a more heroic ideal? The text leaves this open to interpretation.
+
+Source: adapted from "Iliad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iliad

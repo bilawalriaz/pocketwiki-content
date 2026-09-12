@@ -62,3 +62,5 @@ The monarchy was overthrown in a 1958 coup, establishing a republic. Political i
 - Historians dispute whether Baghdad's decline after the Mongol invasion was primarily due to destruction of irrigation infrastructure or long-term soil salination.
 - The effects of UN sanctions on Iraq (1990–2003) are contested; while widely believed to have caused a major rise in child mortality, recent research suggests Iraqi government data on this was fabricated.
 - The primary justification for the 2003 U.S. invasion—the presence of weapons of mass destruction—remains contentious, as no such stockpiles were found.
+
+Source: adapted from "History of Iraq" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Iraq

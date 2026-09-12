@@ -40,3 +40,5 @@ Most of the Greater Antilles consists of independent countries. However, Puerto 
 
 ## Debates and Open questions
 The source does not explicitly outline scholarly debates or open questions regarding the Greater Antilles.
+
+Source: adapted from "Greater Antilles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Greater_Antilles

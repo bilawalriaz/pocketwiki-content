@@ -42,3 +42,5 @@ Chengdu is located on the Chengdu Plain in central Sichuan, with an elevation ra
 ## Debates and Open Questions
 - The etymology of the name "Chengdu" is unclear. The most widely known explanation, from a 10th-century text, links it to a Zhou dynasty saying, but this is not generally accepted by modern scholars.
 - The historical population of Chengdu during the Mongol conquest is debated; sources suggest the city proper had fewer than 30,000 residents at the time, despite a call for a larger massacre.
+
+Source: adapted from "Chengdu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chengdu

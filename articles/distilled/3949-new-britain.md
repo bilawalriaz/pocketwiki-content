@@ -41,3 +41,5 @@ New Britain hosts two ecoregions: lowland and montane rainforests. These forests
 
 ## Debates and Open Questions
 The source does not explicitly detail ongoing scholarly debates, but it notes the 2007 nomination of the Nakanai Caves and other karst regions for the World Heritage Tentative List, implying a recognition of their global significance that is under formal review.
+
+Source: adapted from "New Britain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_Britain

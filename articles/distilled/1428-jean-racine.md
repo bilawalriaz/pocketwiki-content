@@ -65,3 +65,5 @@ After 1677, Racine became royal historiographer, joined the Académie, and accum
 - **Universality vs. period piece**: 19th-century Germans and British saw only courtly artifice; 20th-century critics argued for timeless psychological realism.
 - **Translatability**: The linguistic density of the alexandrine is widely held to be untranslatable, yet major poets (Lowell, Hughes, Argent) continue to attempt it.
 - **Historical veracity**: Contemporaries attacked *Britannicus* and *Mithridate* for inaccuracy; Racine countered that his rivals were worse offenders and that tragedy requires poetic, not historical, truth.
+
+Source: adapted from "Jean Racine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean_Racine

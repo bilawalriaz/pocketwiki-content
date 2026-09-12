@@ -31,3 +31,5 @@ In receptor-mediated endocytosis, receptor proteins on the membrane first bind s
 ## The protein pipeline
 
 Proteins destined for export or for insertion into membranes follow a defined route. Lipids and proteins are first synthesised in the ER, where carbohydrates are attached to form glycoproteins. The Golgi apparatus then modifies them further, sometimes adding lipids to make glycolipids, and packages them into vesicles that travel to the plasma membrane. There the vesicles fuse with the membrane and release their contents to the outside, a step called exocytosis, the same machinery as endocytosis running in reverse.
+
+Source: adapted from "Cell physiology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cell_physiology

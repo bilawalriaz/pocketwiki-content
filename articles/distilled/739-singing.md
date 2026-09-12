@@ -52,3 +52,5 @@ Every language's musicality affects pitch, phrasing, and accent in singing. Stro
 
 ## Debates and Open Questions
 Voice classification systems remain contested, particularly applying classical Fach terminology to contemporary commercial music. The chest voice/head voice distinction is debated between traditional pedagogy and modern physiological understanding, with some educators arguing these terms describe resonance rather than true registers. The effectiveness and artistic value of Auto-Tune and electronic pitch correction in popular music generates ongoing controversy. Whether rap constitutes singing or a distinct vocal practice remains discussed among music scholars.
+
+Source: adapted from "Singing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Singing

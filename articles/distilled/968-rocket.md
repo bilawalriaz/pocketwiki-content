@@ -44,3 +44,5 @@ Beyond spaceflight, rockets serve military roles (missiles, ICBMs), scientific r
 
 ## Debates and Open Questions
 The feasibility of single-stage-to-orbit (SSTO) vehicles remains debated, as exponential fuel requirements make practical payloads negligible without staging. Reusability versus expendability continues as an economic question, with reusable systems requiring higher upfront investment but lower per-launch costs. The balance between liquid and solid propellants for different applications involves trade-offs in performance, storage, and complexity. Additionally, the environmental impact of large-scale rocket launches and the sustainability of space access remain emerging concerns.
+
+Source: adapted from "Rocket" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rocket

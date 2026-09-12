@@ -52,3 +52,5 @@ Turgenev’s later novels, *Smoke* (1867) and *Virgin Soil* (1877), received coo
 - **Art vs. Propaganda**: Turgenev’s refusal to adopt the religious-moral framework of Tolstoy and Dostoyevsky raised the question of whether literature should serve social utility or aesthetic autonomy—a debate central to Russian criticism.
 - **Nabokov’s Ranking**: Vladimir Nabokov ranked Turgenev fourth among 19th-century Russian prose writers (behind Tolstoy, Gogol, Chekhov; ahead of Dostoyevsky), praising his prose style but criticizing "labored epilogues" and "banal handling of plots."
 - **Westernizer vs. Russian Soul**: Turgenev’s lifelong residence abroad and French-speaking household fueled accusations (notably from Tolstoy and Dostoyevsky) that he lacked authentic connection to the Russian *narod* (people).
+
+Source: adapted from "Ivan Turgenev" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ivan_Turgenev

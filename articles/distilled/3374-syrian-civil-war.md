@@ -48,3 +48,5 @@ The war caused one of the 21st century's worst humanitarian crises. Estimates of
 - **Responsibility for chemical attacks**: While multiple investigations attribute the vast majority of chemical attacks to the Assad regime, Russia and the Syrian government have consistently denied responsibility, often blaming opposition groups.
 - **Future of Kurdish autonomy**: The status of the Autonomous Administration of North and East Syria (Rojava) within a new Syrian state remains a critical and unresolved issue, with tensions between Kurdish-led forces and the new transitional government.
 - **Impact of sanctions**: The renewal of U.S. sanctions (Caesar Act) post-Assad is debated as either a necessary tool for accountability or a major obstacle to Syria's reconstruction and humanitarian recovery.
+
+Source: adapted from "Syrian civil war" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Syrian_civil_war

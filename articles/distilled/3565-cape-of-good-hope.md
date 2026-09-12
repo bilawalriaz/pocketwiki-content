@@ -41,3 +41,5 @@ The cape is part of the Table Mountain National Park and lies within the Cape Fl
 ## Debates and Open Questions
 - The extent of ancient Phoenician and Greek voyages around Africa, as reported by Herodotus and others, is debated due to the lack of contemporary evidence and the seeming implausibility of the knowledge at the time.
 - The precise location where the Atlantic and Indian Ocean currents meet is not fixed, fluctuating between Cape Agulhas and Cape Point.
+
+Source: adapted from "Cape of Good Hope" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cape_of_Good_Hope

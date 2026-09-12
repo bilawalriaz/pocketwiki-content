@@ -47,3 +47,5 @@ After Stalin's death in 1953, the system began to dismantle. Khrushchev's de-Sta
 - **Economic vs. Political Purpose:** Scholars debate whether the Gulag was primarily an economic enterprise for state development or a political tool for repression and social control.
 - **Archival Reliability:** The completeness and accuracy of Soviet archival data are debated, with some researchers arguing it may understate the true scale of repression and mortality.
 - **Historiography:** Interpretations range from viewing the Gulag as a product of totalitarian ideology to seeing it as a pragmatic, if brutal, instrument of state policy.
+
+Source: adapted from "Gulag" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulag

@@ -65,3 +65,5 @@ Regions: East Asia/Pacific, Europe/Central Asia, Latin America/Caribbean, Middle
 *   **Semantic instability:** "Country" conflates sovereign state, nation, constituent unit, dependent territory, geographic region, and rural area, resisting a "dichotomous opposition" (Geertz) or clear definition (*The Economist*).
 *   **Indigenous vs. Western ontology:** Concepts like "Country" (capitalized) denote a relational, portable, multi-dimensional entity (Lucashenko) incompatible with the Western legal fiction of a bounded territorial state.
 *   **Recognition as political act:** The OAU (1976) framed recognition as an individual sovereign choice, not a legal obligation, leaving new states in limbo.
+
+Source: adapted from "Country" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Country

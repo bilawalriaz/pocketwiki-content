@@ -46,3 +46,5 @@ The bamboo flute is central to Indian classical music, with the bansuri (six hol
 - The exact origin and classification of the Divje Babe flute fragment (c. 43,000 years ago) from Slovenia is disputed; it may be the oldest flute but is not universally accepted as such.
 - There is no clear consensus among manufacturers on the ideal head joint geometry for optimal acoustic performance and tone in modern flutes.
 - The claim that flute wall material (e.g., silver vs. gold) significantly affects sound color is not supported by blind listening studies, which found no appreciable difference.
+
+Source: adapted from "Flute" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Flute

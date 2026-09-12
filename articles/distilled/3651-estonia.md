@@ -50,3 +50,5 @@ Estonia has a high-income, advanced economy that was among the fastest-growing i
 *   The nature and extent of religious beliefs in pre-Christian Estonia are not well known, with deities like Tharapita known only from later chronicles.
 *   The citizenship policy for the large Russian-speaking minority, a legacy of Soviet-era immigration, has been described as "discriminatory" in some international reports, though the government defends it as necessary for state continuity.
 *   There is ongoing debate within Estonia about balancing the economic benefits of the forestry industry with environmental goals for biodiversity and carbon sequestration.
+
+Source: adapted from "Estonia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Estonia

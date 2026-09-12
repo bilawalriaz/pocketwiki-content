@@ -39,3 +39,5 @@ The city is known as "The Tiles City" for the azulejos (ceramic tiles) covering 
 
 ## Debates and Open Questions
 The exact founding date of São Luís is a subject of controversy. The French built a fort in 1612, but the Portuguese conquered it shortly after in 1615, leaving little time for the French to establish a full city. This leads to debate over whether the official founding should be attributed to the French or the Portuguese.
+
+Source: adapted from "São Luís, Maranhão" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/S%C3%A3o_Lu%C3%ADs%2C_Maranh%C3%A3o

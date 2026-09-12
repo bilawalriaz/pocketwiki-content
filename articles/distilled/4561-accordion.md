@@ -43,3 +43,5 @@ The accordion spread worldwide via European migration, becoming integral to dive
 - The exact origin is debated; while Buschmann is credited with an 1822 invention, an instrument discovered in 2006 appears to have been built earlier.
 - The extent to which inventors like Wheatstone were aware of and influenced by existing instruments like Müller's described types or Demian's patent is a matter of historical speculation.
 - The accordion's decline in mid-20th century popular music is attributed to the rise of rock and roll, but its persistent and evolving role in folk, world, and classical music challenges a simple narrative of obsolescence.
+
+Source: adapted from "Accordion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Accordion

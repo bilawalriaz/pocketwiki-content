@@ -57,3 +57,5 @@ In the late 1950s, Renoir adapted live television techniques—multi-camera setu
 - **Restoration of *The Rules of the Game*:** The 1950s reconstruction by Jean Gaborit and Jacques Durand, with Renoir’s cooperation, is considered near-complete, but the destruction of the original negative leaves uncertainty about the exact 1939 premiere cut.
 - **Late style: decline or evolution?**: The television-influenced films of 1959 and the avant-garde *Little Theatre* (1970) are viewed either as innovative adaptations to new media/budget constraints or as a falling off from his 1930s peak.
 - **Influence lineage:** While Renoir’s impact on the French New Wave (Truffaut named his company after *The Golden Coach*) and directors like Altman and Scorsese is acknowledged, the specific mechanisms—whether visual style, narrative structure, or ethical stance—remain a subject of critical analysis.
+
+Source: adapted from "Jean Renoir" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean_Renoir

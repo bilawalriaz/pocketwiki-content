@@ -43,3 +43,5 @@ Inspired by the Arab Spring, protests against corruption and unemployment erupte
 - The extent to which Libya under Gaddafi achieved a true "socialist revolution" versus maintaining a state capitalist or authoritarian system is debated by scholars.
 - The precise role and knowledge of Gaddafi's government in terrorist attacks like the Lockerbie bombing remains contested, despite official Libyan payments and convictions.
 - The impact of Western military intervention in 2011 is debated; some argue it was decisive for the rebels' victory, while others view it as an imperialist overreach.
+
+Source: adapted from "Muammar Gaddafi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muammar_Gaddafi

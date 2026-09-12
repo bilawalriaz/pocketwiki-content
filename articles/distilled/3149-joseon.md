@@ -50,3 +50,5 @@ Joseon culture was deeply influenced by Neo-Confucianism, emphasizing frugality 
 - The exact population figures of Joseon, as government household records are considered unreliable.
 - The degree to which the *nobi* should be classified as "slaves" versus "serfs," given their legal rights and property ownership.
 - The extent of social mobility in the late Joseon period, as the old class system weakened but sumptuary laws were also reinforced.
+
+Source: adapted from "Joseon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseon

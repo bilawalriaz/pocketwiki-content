@@ -40,3 +40,5 @@ Following the fall of the Taliban in 2001, Zahir Shah returned to Afghanistan in
 ## Debates and Open Questions
 *   The primary debate surrounding Zahir Shah's return in 2002 was whether he should be restored as monarch. The U.S. and Pakistan opposed this, fearing it would destabilize the region, particularly regarding the Durand Line issue, while many Afghan delegates favored it.
 *   The success and legacy of his 1964 constitutional reforms are debated, as they were ultimately undermined by factionalism and political infighting, leading to the coup that ended his reign.
+
+Source: adapted from "Mohammad Zahir Shah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mohammad_Zahir_Shah

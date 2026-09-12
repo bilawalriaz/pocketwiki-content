@@ -44,3 +44,5 @@ Since the civil war, Lebanon has experienced periods of instability, including t
 - The relative sizes of Lebanon's religious communities are a sensitive and debated issue, as no official census has been conducted since 1932 to avoid upsetting the confessional political balance.
 - The full implementation of the Taif Agreement, particularly the de-confessionalization of the political system, remains unfulfilled and is a point of ongoing political contention.
 - The future role and integration of Hezbollah within the Lebanese state, especially following the 2024 conflict and the weakening of its ally Syria, is a critical open question.
+
+Source: adapted from "Lebanon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lebanon

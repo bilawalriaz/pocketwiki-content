@@ -37,3 +37,5 @@ Despite his groundbreaking work, Ohm's college did not appreciate his contributi
 
 ## Debates and Open Questions
 Ohm's work was initially met with significant resistance and indifference from the scientific community. His theory of "contiguous action" was presented in opposition to the prevailing concept of "action at a distance." Furthermore, his acoustic law, which states that a musical sound is perceived as a set of pure harmonic tones, is noted in the source as being "well known to be not quite true."
+
+Source: adapted from "Georg Ohm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georg_Ohm

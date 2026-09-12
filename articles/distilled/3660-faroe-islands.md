@@ -48,3 +48,5 @@ The economy is overwhelmingly dependent on fishing and fish farming, which accou
 - **Independence vs. Unionism**: Public opinion is evenly split between those favoring full independence from Denmark and those preferring to remain within the Danish Realm, with various positions on the pace and method of any potential change.
 - **Constitutional Status**: Attempts to draft a separate Faroese constitution (2011, 2015) were withdrawn after the Danish government stated it was incompatible with the Danish constitution and would necessitate a declaration of independence.
 - **Whaling Practices**: The sustainability and ethics of the *grindadráp* pilot whale hunt are debated internationally by animal rights groups, though the Faroese government maintains it is a sustainable, regulated tradition. A 2021 super-pod kill of white-sided dolphins led to domestic controversy and new quotas.
+
+Source: adapted from "Faroe Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Faroe_Islands

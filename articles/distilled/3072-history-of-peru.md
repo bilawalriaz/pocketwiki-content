@@ -50,3 +50,5 @@ The 21st century has focused on restoring democracy and addressing past violence
 - **Impact of Conquest:** Historians debate the relative roles of disease, military technology, and internal divisions in the Spanish conquest of the Inca Empire.
 - **Legacy of Internal Conflict:** The findings of the Truth and Reconciliation Commission regarding the causes and responsibility for the violence of 1980–2000 remain politically sensitive.
 - **Political Instability:** The causes of Peru's chronic political instability since 2016, including the role of Congress, political parties, and social movements, are subjects of ongoing analysis.
+
+Source: adapted from "History of Peru" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Peru

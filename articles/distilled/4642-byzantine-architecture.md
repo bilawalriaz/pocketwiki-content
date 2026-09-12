@@ -41,3 +41,5 @@ Columns varied, often evolving from the Corinthian order with undercut ornamenta
 
 ## Debates and Open Questions
 The article notes that the terminology "Byzantine" was introduced by modern historians to designate the medieval Roman Empire as a distinct cultural entity. The transition from Roman to Byzantine style is described as a gradual drift rather than a sharp break. The influence of Eastern (e.g., Persian) decorative motifs on Byzantine brickwork patterns is suggested but presented as probable rather than definitively proven.
+
+Source: adapted from "Byzantine architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Byzantine_architecture

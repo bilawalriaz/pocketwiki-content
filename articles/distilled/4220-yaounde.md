@@ -38,3 +38,5 @@ Yaoundé hosts several universities, including the University of Yaoundé II and
 
 ## Debates and Open questions
 The source text does not present specific scholarly debates or open questions about Yaoundé. It notes that the exact founding date of the outpost is given as 1887, 1888, or February 1889, indicating a minor historical uncertainty.
+
+Source: adapted from "Yaoundé" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yaound%C3%A9

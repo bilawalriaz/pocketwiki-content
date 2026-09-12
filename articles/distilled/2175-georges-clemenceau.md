@@ -50,3 +50,5 @@ Clemenceau resigned as Prime Minister in January 1920 after failing to be electe
 *   **Was the Treaty of Versailles too harsh or too lenient?** Clemenceau defended it as a necessary compromise. Critics like Marshal Foch argued it was too lenient, while John Maynard Keynes called its reparations economically ruinous.
 *   **Did Clemenceau block a potential compromise peace in 1917?** German documents suggest Germany had no serious intention of returning Alsace-Lorraine, making a negotiated peace unlikely.
 *   **What was the impact of the U.S. Senate's rejection of the treaty?** The failure to ratify the Treaty of Guarantee nullified the Anglo-American defense pact for the Rhineland, leaving France without essential security and weakening enforcement.
+
+Source: adapted from "Georges Clemenceau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georges_Clemenceau

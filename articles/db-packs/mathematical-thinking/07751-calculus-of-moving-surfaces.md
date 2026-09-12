@@ -58,4 +58,4 @@ The shift tensor and normal couple through the gradient of C:
 
 The surface Levi-Civita symbols satisfy ∇̇ ε_{αβ} = 0 and ∇̇ ε^{αβ} = 0. These identities, together with the chain rule, govern the time differentiation of volume and surface integrals over a deforming surface.
 
-The edit trims filler ("sometimes awkward", "by integration or differentiation" → "by integration or differentiation" already there, "produces compact identities" softened), merges the duplicated Cartesian footnote into one short sentence, and replaces the closing "machinery" sentence with a concrete statement of what the identities govern. Working model, all source equations, and the conceptual scaffolding are preserved.
+Source: adapted from "Calculus of moving surfaces" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Calculus_of_moving_surfaces

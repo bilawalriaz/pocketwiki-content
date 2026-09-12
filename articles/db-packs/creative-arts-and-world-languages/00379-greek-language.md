@@ -29,3 +29,5 @@ Modern Greek vocabulary is mostly inherited from Ancient Greek, with borrowings 
 ## Open questions
 
 The closest relative of Greek within Indo-European is unsettled; Phrygian is the current leading candidate, though Armenian and the Indo-Iranian languages have also been proposed. The status of Ancient Macedonian is similarly disputed, with most scholars treating it as a Greek dialect and others as a separate language. The exact triggers of large sound changes, such as the shift of aspirated plosives to fricatives, are still under investigation.
+
+Source: adapted from "Greek language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Greek_language

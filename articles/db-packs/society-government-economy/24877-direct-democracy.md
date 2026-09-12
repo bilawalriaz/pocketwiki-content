@@ -25,3 +25,5 @@ The V-Dem Citizen-Initiated Component of Direct Popular Vote Index for 2021 rank
 ## The reform trilemma
 
 Democratic theorists describe a trilemma: a direct-democratic system can deliver at most two of three desirable properties: participation (many people involved), deliberation (reasoned weighing of evidence), and equality (everyone's views count equally). Participatory democracy achieves participation and deliberation but attracts self-selected, unrepresentative participants. Deliberative democracy, in James Fishkin's sense, achieves deliberation and equality by drawing a random representative sample, but cannot include everyone who wants to take part. Fishkin argues random sampling is the realistic route toward escaping the trilemma, though doing so fully would require radical reforms.
+
+Source: adapted from "Direct democracy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Direct_democracy

@@ -76,3 +76,5 @@ Mexican culture synthesizes indigenous and Spanish roots, forged through conques
 - **Security strategy**: The militarized "War on Drugs" (since 2006) correlates with soaring homicides and disappearances (127,000+ deaths, 100,000+ missing). Debates persist on whether to continue military-led enforcement, pivot to police reform, or pursue negotiated pacts.
 - **Judicial reform (2024)**: The shift to popular election of all federal judges (including Supreme Court) aims to combat corruption but raises fears of politicization, loss of expertise, and erosion of judicial independence.
 - **Energy sovereignty vs. climate commitments**: The government prioritizes Pemex/CFE strengthening and fossil fuel self-sufficiency, while pledging 35
+
+Source: adapted from "Mexico" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mexico

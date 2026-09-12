@@ -27,3 +27,5 @@ After that, Mesopotamia was ruled in turn by the Achaemenids, the Hellenistic Se
 ## Chronology and Open Questions
 
 Absolute dates for the 3rd and 2nd millennia BC are genuinely uncertain. Scholars use Ultra-long, Long, Middle, Short, and Ultra-short chronologies that disagree by up to 150 years; the Middle Chronology is most common in textbooks but is no more certainly correct than the others. Three other questions remain open: the unknown origins of the Sumerians, because their language is an isolate; the debated mechanism of the Ubaid expansion, adoption versus invasion; and the unreliability of the Sumerian King List for early political history. These uncertainties mean that Mesopotamia's chronology is a working framework, not a settled sequence.
+
+Source: adapted from "History of Mesopotamia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Mesopotamia

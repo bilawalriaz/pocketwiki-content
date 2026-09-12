@@ -71,3 +71,5 @@ Dalí's health collapsed in 1980 (age 76) with Parkinson-like tremor, depression
 - **Reliability of autobiography:** *The Secret Life of Salvador Dalí* (1942) is acknowledged as a surrealist performance rather than factual record; George Orwell called it evidence of a "disordered imagination."
 - **Gala's role:** Gala's management of Dalí's career and finances is credited with his commercial survival, yet allegations she supplied him with prescription pharmaceuticals and controlled his isolation in later life complicate her legacy.
 - **Paternity claim (2017):** A court-ordered exhumation for a paternity suit yielded DNA excluding Dalí, but the episode reignited public fascination with his mythology.
+
+Source: adapted from "Salvador Dalí" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD

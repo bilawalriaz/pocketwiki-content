@@ -45,3 +45,5 @@ After the war, Hergé co-founded *Tintin* magazine in 1946 with Raymond Leblanc,
 
 ## Debates and Open Questions  
 Hergé’s wartime activities remain contentious. While some argue he was apolitical and merely trying to survive, others view his work for *Le Soir* as complicity with Nazi propaganda. His early portrayals of non-European cultures have also sparked debate—some see them as products of their time, others as perpetuating harmful stereotypes. Additionally, questions persist about his alleged antisemitism, particularly regarding *The Shooting Star* and the character of Rastapopoulos. Despite these controversies, his artistic legacy endures, with ongoing reassessments of his work in light of modern values.
+
+Source: adapted from "Hergé" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Herg%C3%A9

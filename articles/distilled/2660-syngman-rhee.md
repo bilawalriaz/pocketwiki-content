@@ -44,3 +44,5 @@ Post-war South Korea remained impoverished and reliant on U.S. aid. After winnin
 - **Legacy:** Rhee is a polarizing figure. Some view him as the founding father who established the Republic of Korea and secured its alliance with the U.S., while others emphasize his authoritarian rule, corruption, and human rights abuses.
 - **Role in the Korean War:** Debates continue over the extent to which Rhee's actions and provocations contributed to the outbreak and prolongation of the war.
 - **Economic Stewardship:** His presidency saw limited economic development, leaving South Korea impoverished and aid-dependent, a stark contrast to the later "Miracle on the Han River."
+
+Source: adapted from "Syngman Rhee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Syngman_Rhee

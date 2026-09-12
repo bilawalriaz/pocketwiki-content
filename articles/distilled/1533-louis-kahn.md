@@ -69,3 +69,5 @@ Kahn had three children with three women: daughter Sue Ann with wife Esther; dau
 - **Monumentality vs. human scale**: Critics contest whether Kahn’s massive forms (especially in Dhaka) empower or overwhelm users; the "ruin aesthetic" is read variously as timeless or authoritarian.
 - **Posthumous completion ethics**: Four Freedoms Park built 38 years after death raises questions of authorial intent vs. institutional realization; the *New York Times* editorialized on the "magic" of the delayed build.
 - **Personal life and professional recognition**: Kahn’s obituary omitted Tyng and Pattison; the 2003 documentary *My Architect* reopened discourse on how biography shapes architectural legacy.
+
+Source: adapted from "Louis Kahn" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_Kahn

@@ -81,3 +81,5 @@ Scholars debate the fundamental definition of "new religious movement," with no 
 The "brainwashing" thesis continues to generate controversy despite academic research demonstrating that coercive persuasion techniques do not exist in NRMs. The tension between religious freedom and public safety in cases of alleged abuse remains contentious, particularly regarding state persecution of groups like Falun Gong.
 
 Academic research priorities also generate debate, as scholars tend to focus on controversial NRMs while neglecting less visible movements. Additionally, the interdisciplinary nature of NRS creates methodological tensions, as approaches developed for studying mainstream religions may not adequately address NRM phenomena.
+
+Source: adapted from "New religious movement" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_religious_movement

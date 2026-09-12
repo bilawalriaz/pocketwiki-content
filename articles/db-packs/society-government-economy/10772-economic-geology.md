@@ -31,3 +31,5 @@ Coal and petroleum are studied through petroleum geology, in which sedimentology
 ## Related fields
 
 Mineral economics, mineral resource classification, ore genesis, and valuation of mining projects all connect to economic geology. The discipline sits at the boundary between pure earth science and extractive industry, applying geological knowledge to the discovery and exploitation of finite mineral resources.
+
+Source: adapted from "Economic geology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economic_geology

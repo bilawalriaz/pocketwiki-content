@@ -21,3 +21,5 @@ During the Civil War, Truth helped recruit Black men for the Union Army and work
 ## Why she matters
 
 Three threads connect her work. Her courtroom win over Peter showed that the law could be used against slaveholders, not only for them. Her speeches insisted that the rights of women and the rights of Black people could not be separated, a position later formalized as intersectionality, the idea that overlapping identities like race and gender create distinct forms of discrimination. Her failed lobbying campaign documented the federal government's retreat from the economic promises of emancipation, leaving formerly enslaved people without the land that might have secured their freedom in practice. In 2009 she became the first African American woman honored with a memorial bust in the U.S. Capitol Visitor Center.
+
+Source: adapted from "Sojourner Truth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sojourner_Truth

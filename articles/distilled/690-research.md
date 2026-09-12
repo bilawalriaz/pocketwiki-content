@@ -56,3 +56,5 @@ Most scientific research funding comes from three sources: corporate R&D departm
 - **Peer review sustainability**: Unpaid review leads to reviewer fatigue and potential bias against periphery country publications.
 - **Open access vs. indigenous knowledge sovereignty**: Open movements assume knowledge belongs to humanity; indigenous communities assert relational access control, creating a perceived double standard with digital privacy norms.
 - **Artistic research legitimacy**: Ongoing debate over accepting subjectivity and practice-based outputs as rigorous research equivalent to scientific methods.
+
+Source: adapted from "Research" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Research

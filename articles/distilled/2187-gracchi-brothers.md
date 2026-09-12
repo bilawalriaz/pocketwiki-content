@@ -40,3 +40,5 @@ Most of the Gracchan legislation survived their deaths. The land commission oper
 - **Motives of the Gracchi:** Ancient sources differ on whether the brothers were motivated by genuine concern for the poor or personal ambition and a desire for political glory.
 - **Impact of Reforms:** The actual economic impact of the land redistribution is debated; some evidence suggests the allotted plots may have been too small or infertile to be viable for families.
 - **Role in the Social War:** Modern reassessments increasingly view the Gracchan land law as a major contributing factor to the Social War (91–88 BC), as it reasserted Roman claims to land long occupied by Italian allies.
+
+Source: adapted from "Gracchi brothers" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gracchi_brothers

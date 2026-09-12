@@ -42,3 +42,5 @@ printn(n, b) {
 ```
 
 `printn` recursively prints a non-negative number `n` in any base `b` from 2 to 10, relying on the fact that ASCII `'0'` through `'9'` have sequential code values. Note `if (a = n / b)`, where a single `=` assigns and yields the value rather than testing equality, the role `==` plays in C.
+
+Source: adapted from "B (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/B_%28programming_language%29

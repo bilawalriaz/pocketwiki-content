@@ -50,3 +50,5 @@ Xi pushed for greater integration of Hong Kong. Following 2019–2020 protests, 
 - **Economic model**: Scholars debate whether policies represent a definitive shift from market-oriented reforms toward a state-dominated model and its long-term growth consequences.
 - **Human rights**: The scale and nature of the Xinjiang crackdown, including allegations of genocide and crimes against humanity, remain major international contention points.
 - **Foreign policy impact**: Analysts question if assertive foreign policy effectively advances China's interests or provokes a counterbalancing coalition that could isolate it.
+
+Source: adapted from "Xi Jinping" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Xi_Jinping

@@ -23,3 +23,5 @@ Carbon stars are prodigious dust factories. With weak surface gravity, a classic
 Most classical carbon stars are also long-period variables. Because the human eye is poorly sensitive to deep red and adapts slowly to it, magnitude estimates are distorted by the Purkinje effect, in which the eye's peak sensitivity shifts toward blue at low light levels and red stars look fainter than they are.
 
 Their bright near-infrared emission and red near-infrared colours make carbon stars useful as standard candles in nearby galaxies. Individual luminosities vary, but a large sample in a similar galaxy yields a near-infrared luminosity function with a nearly constant median. Calibrated against galaxies whose distances are known by other means, that median becomes a distance indicator, sensitive in practice to the average metallicity of the AGB population.
+
+Source: adapted from "Carbon star" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carbon_star

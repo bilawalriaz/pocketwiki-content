@@ -68,3 +68,5 @@ Artistic depictions derive from the *Golden Legend* (13th c.). Common attributes
 - **Soteriology of the baptized**: His view that Christian apostates suffer temporal rather than eternal punishment (influenced by Origenism) was criticized by Augustine; the exact nature and duration of this punishment remain interpretively open.
 - **Historical reliability of the *Chronicon***: The source acknowledges the work "is not without errors" and that Jerome "did not consider himself bound by the rules of historians," raising questions about its use as a primary historical source.
 - **Lion legend**: The iconic lion-taming story is identified as "a figment" from the 13th-century *Golden Legend*, likely borrowed from the Androcles tale or confused with Gerasimus; its origin is a settled scholarly matter but persists in iconography.
+
+Source: adapted from "Jerome" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jerome

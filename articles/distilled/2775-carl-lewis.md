@@ -41,3 +41,5 @@ The 1991 Tokyo World Championships are considered Lewis's greatest performance. 
 - **1984 Long Jump Tactics:** Lewis was booed for not attempting to break Bob Beamon's world record after securing the gold with his first jump. He defended his strategy as necessary to win four gold medals.
 - **Public Perception and Marketability:** Despite his achievements, Lewis struggled with endorsements after 1984. Factors included the long jump controversy, rumors about his sexuality, and a public image perceived as aloof.
 - **Drug Testing Exoneration:** The 2003 revelation of his 1988 positive tests for stimulants sparked debate. While officially cleared for inadvertent use, the incident remains a point of discussion regarding his legacy and the era's anti-doping practices.
+
+Source: adapted from "Carl Lewis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_Lewis

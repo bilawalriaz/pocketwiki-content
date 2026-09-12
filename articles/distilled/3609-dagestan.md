@@ -47,3 +47,5 @@ Dagestan is a republic within Russia with a parliament (People's Assembly) and a
 - The extent of Persian cultural influence ("Persianisation") in southern Dagestan over centuries is a subject of historical analysis.
 - The causes and dynamics of the 1999 invasion and the subsequent insurgency in the North Caucasus involve complex debates about local support, ideology, and Russian policy.
 - The effectiveness of Russian governance and anti-corruption measures in Dagestan, given its persistent economic challenges and human rights issues, is an ongoing concern.
+
+Source: adapted from "Dagestan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dagestan

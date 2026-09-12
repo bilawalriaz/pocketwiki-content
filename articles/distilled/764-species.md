@@ -66,3 +66,5 @@ Species identification difficulties threaten research validity. Phylogenetic con
 
 ## Debates and Open Questions
 The fundamental species problem remains unresolved: no single concept applies universally. Key debates include whether to prioritize reproductive isolation (BSC) or diagnosable differences (cladistic), how to handle asexual organisms and HGT, and whether "taxonomic inflation" from splitting practices genuinely reflects biodiversity or creates conservation challenges. The "cynical species concept" suggests species are whatever qualified biologists designate, raising questions about objectivity versus utility in taxonomy.
+
+Source: adapted from "Species" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Species

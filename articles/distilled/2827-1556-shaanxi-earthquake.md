@@ -33,3 +33,5 @@ Modern estimates from the China Earthquake Administration (CEA) attribute roughl
 
 ## Debates and Open Questions
 The exact magnitude of the earthquake is debated. While older estimates placed it at Mw 8.0, more recent analysis of the 90 km rupture length along the Huashan and Weinan faults suggests a magnitude of Mw 7.0–7.5, indicating previous values may have been overestimated. Furthermore, it is not confirmed whether the observed fault scarps were produced solely by the 1556 event or formed by multiple seismic events over time.
+
+Source: adapted from "1556 Shaanxi earthquake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/1556_Shaanxi_earthquake

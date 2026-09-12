@@ -41,3 +41,5 @@ Longitude is defined as 0° at the prime meridian, ranging to ±180°. It is exp
 
 ## Debates and Open Questions
 The source notes a confusing, non-standard convention where longitude is sometimes given as negative for east, which has been used in some U.S. applications but is contrary to the international standard (ISO 6709). The text also highlights the inherent mathematical complexities at the Poles (where longitude is singular) and at the ±180° meridian discontinuity, which require careful handling in calculations.
+
+Source: adapted from "Longitude" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Longitude

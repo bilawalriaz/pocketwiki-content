@@ -31,3 +31,5 @@ The plain consists primarily of Cenozoic alluvial deposits and has undergone pro
 
 ## Debates and Open Questions
 The source notes that the plain's deposits may result from ice dams that reversed the flow of the Ob and Yenisei rivers, redirecting them into the Caspian Sea, and "perhaps the Aral Sea as well," indicating some uncertainty about the full extent of this ancient hydrological event.
+
+Source: adapted from "West Siberian Plain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/West_Siberian_Plain

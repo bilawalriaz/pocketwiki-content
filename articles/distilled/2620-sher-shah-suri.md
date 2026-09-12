@@ -41,3 +41,5 @@ Sher Shah's empire expanded through campaigns in Punjab, Malwa, Marwar, and Mewa
 
 ## Debates and Open Questions
 Historians debate Sher Shah's religious policy. Some argue he was intolerant, citing his wars against Rajputs and the massacre at Raisen as *jihad*. Others contend he was generally tolerant, noting his fair treatment of Hindus in administration and justice, and that his policies aimed for Islamic supremacy without displacing Hinduism. The exact size of his armies is also questioned, with contemporary figures likely being exaggerated.
+
+Source: adapted from "Sher Shah Suri" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sher_Shah_Suri

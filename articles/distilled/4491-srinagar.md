@@ -49,3 +49,5 @@ Transport includes road links via national highways, an international airport, a
 - The exact founding date and location of the original Mauryan capital "Srinagari" is debated, with the Rajatarangini identifying it as present-day Pandrethan, 3.5 km from modern Srinagar.
 - The causes and responsibility for the 1990s exodus of Kashmiri Hindus from Srinagar are a subject of significant political and historical debate.
 - The impact of the 2019 reorganization of Jammu and Kashmir and the subsequent security measures on the city's society and economy is an ongoing area of analysis.
+
+Source: adapted from "Srinagar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Srinagar

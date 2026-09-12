@@ -43,3 +43,5 @@ Bamako is home to major cultural institutions, including the National Museum of 
 - The effectiveness and social impact of the 2015 privatization of waste collection in Bamako, which led to unemployment and protests over inadequate service.
 - The long-term political and security stability of Bamako and Mali following the 2021 coup and ongoing jihadist insurgency.
 - The challenges of managing Bamako's rapid, uncontrolled population growth and its effects on infrastructure, housing, and services.
+
+Source: adapted from "Bamako" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bamako

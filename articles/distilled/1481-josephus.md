@@ -66,3 +66,5 @@ Popular with 4th-century+ Christians as independent witness to Jesus; accessible
 - **Herod’s tomb**: Does the Herodium structure Netzer identified match Josephus’s description, or is it too modest (Patrich/Arubas)?
 - **Testimonium Flavianum**: The *Antiquities* passage on Jesus (not detailed in source text) is widely debated for Christian interpolation vs. authentic core.
 - **Historiographical shift**: Does the move from critical (*War*) to rhetorical (*Antiquities*) historiography reflect genre change, patronage pressure, or intellectual evolution?
+
+Source: adapted from "Josephus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Josephus

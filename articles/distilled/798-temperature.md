@@ -58,3 +58,5 @@ In non-equilibrium systems, temperature may vary spatially. Local thermodynamic 
 ## Debates and Open Questions
 
 The transition from macroscopic reference-point definitions (triple point of water) to microscopic definitions (Boltzmann constant) in 2019 resolved long-standing metrological debates but introduced new challenges in precision measurement. Whether temperature remains continuous at material interfaces at the atomic scale is debated, with evidence of discontinuities up to 7.8 K at evaporating water droplet surfaces. The applicability of kinetic theory to non-equilibrium systems and the extension of temperature concepts to quantum systems with few particles remain active research areas. The use of Fermi–Dirac statistics for thermometry, unlike Maxwell–Boltzmann, has not yet been experimentally realized despite theoretical predictions.
+
+Source: adapted from "Temperature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Temperature

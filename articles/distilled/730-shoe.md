@@ -50,3 +50,5 @@ Shoes serve diverse purposes: athletic (running, basketball), boots (cowboy, hik
 
 ## Debates and Open Questions
 The exact timeline of shoe adoption remains debated, as perishable materials limit archaeological evidence. Some scholars argue for earlier use based on footprint analysis, while others caution against over-interpreting ambiguous traces. The cultural shift from barefoot to shod societies in ancient Greece and Rome is also contested, with some historians emphasizing symbolic over practical motivations. The sustainability of the modern shoe industry, particularly recycling efforts, remains unresolved, with 90% of shoes still ending in landfills despite innovations like the Nike Considered line.
+
+Source: adapted from "Shoe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shoe

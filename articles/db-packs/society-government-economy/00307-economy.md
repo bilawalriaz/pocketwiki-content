@@ -42,3 +42,5 @@ Economic health is measured by indicators like **Gross Domestic Product (GDP)**,
 ## 21st-century shifts
 
 The late 20th and early 21st centuries saw the post-industrial shift continue, with the service sector surpassing industrial production in most high-income countries. The spread of the Internet after 2000 created the information economy, centred on e-commerce. The growth of nations like China, Brazil, and India has brought non-Western economic models to global attention, challenging the dominance of traditional Western theory and reopening the question of which coordinating mechanism, whether market, state, household, or network, should handle which decisions.
+
+Source: adapted from "Economy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economy

@@ -39,3 +39,5 @@ Classical performance requires sight-reading, ensemble skill, ear training, and 
 ## Relationship to other traditions
 
 Classical music has long borrowed from popular and folk sources, including jazz (Ravel, Gershwin's *Rhapsody in Blue* in 1924), student songs (Brahms), and the nationalist folk idioms of Dvořák, Smetana, Bartók, and Khachaturian. In the opposite direction, heavy-metal lead guitarists such as Ritchie Blackmore and Randy Rhoads have modeled their styles on Baroque and Classical-era technique, and works like Pachelbel's Canon have become standard pop-cultural material through advertising, film, and television. The 1990s "Mozart effect" claim, that listening to Mozart temporarily raises IQ by 8 to 9 points, was overstated by promoters; one of the original researchers argued the money was better spent on actual music education.
+
+Source: adapted from "Classical music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Classical_music

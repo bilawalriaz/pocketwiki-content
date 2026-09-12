@@ -40,3 +40,5 @@ Economically, the plateau has been used for harvesting timber and growing a wide
 ## Debates and Open Questions
 - The precise role of the Iranian Plateau as a "population hub" for early Eurasian dispersals and the timing of subsequent divergences are subjects of ongoing genetic and archaeological research.
 - The exact location of the ancient kingdom of Aratta, known from cuneiform sources, is debated, with the central Iranian plateau being a proposed candidate.
+
+Source: adapted from "Iranian plateau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iranian_plateau

@@ -47,3 +47,5 @@ The decline of Lan Xang was due to its landlocked geography, a feudal political 
 - The exact circumstances of King Setthathirath's death in 1571 are unclear; Lao and Burmese chronicles only presume he died in battle.
 - The historical role and extent of power of Queen Maha Devi (Nang Keo Phimpha) in the 1430s is debated, including whether she formally ruled as queen.
 - The primary causes of Lan Xang's decline are multifaceted, with scholars weighing the relative importance of geography, political instability, economic limitations, and external military pressure.
+
+Source: adapted from "Lan Xang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lan_Xang

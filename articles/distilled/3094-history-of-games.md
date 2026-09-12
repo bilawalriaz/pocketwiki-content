@@ -43,3 +43,5 @@ Playing cards arrived in Europe from Mamluk Egypt in the 14th century. Poker was
 - The precise origins and dating of some games are debated, such as whether mancala dates to 6000 BC in Jordan or if the holes at Tlacuachero, Mexico (c. 3000 BC) are dice-game scoreboards.
 - The development of chess is complex; while Chaturanga is the likely precursor, some historians suggest the Greek game *petteia* may have influenced its evolution.
 - The original rules of many ancient games, like the Chinese game Liubo, are lost and subject to scholarly reconstruction.
+
+Source: adapted from "History of games" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_games

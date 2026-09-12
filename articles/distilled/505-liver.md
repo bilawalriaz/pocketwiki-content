@@ -64,3 +64,5 @@ Culturally, the liver symbolizes the soul (Greek Prometheus myth), courage (Zulu
 - **Mechanism of liver regeneration**: Whether regeneration is driven solely by mature hepatocyte proliferation or significantly involves bipotential hepatic oval cells (stem/progenitor cells in canals of Hering) remains under investigation.
 - **Artificial liver development**: As of 2018, no device replicates all liver functions; liver dialysis supports short-term failure only. Research on stem cell-generated artificial livers continues.
 - **Donor mortality in right-lobe living donation**: Early series reported at least 14 donor deaths; the risk-benefit ratio for adult-to-adult right-lobe transplantation remains controversial compared to left-lobe donation.
+
+Source: adapted from "Liver" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liver

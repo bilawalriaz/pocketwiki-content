@@ -44,3 +44,5 @@ Yokohama's 2020 gross regional product was 14.06 trillion yen. Major industries 
 
 ## Debates and Open Questions
 The source notes that the population "was the same in 2026, but steadily decreased over 2025," presenting a chronological inconsistency that requires clarification. The historical narrative also highlights the complex and often violent interactions between foreign settlers and the local population, such as the Namamugi Incident, which were pivotal in the downfall of the shogunate.
+
+Source: adapted from "Yokohama" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yokohama

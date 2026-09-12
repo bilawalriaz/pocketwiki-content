@@ -94,3 +94,5 @@ In Judaism, anger is a negative trait; Jacob condemned his sons' anger, and rest
 ## Debates and open questions
 
 Ancient philosophers disagreed over anger's intrinsic value: Seneca held it "worthless even for war," while Aristotle ascribed value to anger from perceived injustice. Modern psychologists, unlike earlier writers, point out possible ill effects of suppressing anger on well-being and interpersonal relationships. Some psychologists criticize the catharsis theory of aggression, while others maintain suppression does not eliminate anger. Scholars debate whether anger expression is genetically determined—distinguishing genetic from environmental factors requires further research and actual measurement of specific genes and environments. Research on ethnic differences in anger expression shows conflicting results depending on methodology and comparison groups.
+
+Source: adapted from "Anger" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anger

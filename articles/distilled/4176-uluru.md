@@ -51,3 +51,5 @@ The park has a hot desert climate with an average annual rainfall of 284.6 mm. T
 *   **Climbing Ban:** Public opinion was divided, with a 2017 poll finding 63% opposed the ban and a 2019 poll showing 44% in support.
 *   **Sacred Site Photography:** The Aṉangu request to not photograph certain areas creates a tension between cultural respect and tourist documentation.
 *   **Balancing Tourism and Conservation:** Managing over 400,000 annual visitors while protecting cultural values and the fragile environment remains an ongoing challenge.
+
+Source: adapted from "Uluru" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Uluru

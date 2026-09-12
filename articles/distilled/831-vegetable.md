@@ -63,3 +63,5 @@ ISO sets international standards for safety, reliability, quality. ISO 1991-1:19
 - **Toxin/antinutrient risk vs. benefit**: Cooking deactivates most toxins, but raw-food advocates question nutrient losses from heat; balance is unresolved.  
 - **Post-harvest loss reduction**: 30–50 % losses in developing nations persist; scaling cold chains, evaporative cooling, and irradiation faces economic and infrastructure barriers.  
 - **Sustainability of production**: Monoculture agribusiness vs. subsistence diversity; soil health, water use, and climate adaptation are ongoing research areas.
+
+Source: adapted from "Vegetable" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vegetable

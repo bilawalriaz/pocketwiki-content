@@ -46,3 +46,5 @@ Since the 1990s, the Hermitage has expanded its physical footprint, adding the G
 - The exact number of paintings in Catherine's initial 1764 purchase from Gotzkowsky is debated, with sources listing either 225 or 317.
 - The attribution of certain works, such as the *Benois Madonna* and *Madonna Litta*, is to Leonardo da Vinci or his school, not definitively to the master himself.
 - The status and future of looted artworks held by the museum, such as the French Impressionist paintings revealed in 1994, remain a subject of international provenance research and potential claims.
+
+Source: adapted from "Hermitage Museum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hermitage_Museum

@@ -44,3 +44,5 @@ Rizal's execution made him a martyr for the cause of independence. His remains w
 *   **National Hero Status:** While popularly revered, Rizal was never officially declared the national hero by law or executive order. Some historians argue his status was promoted by American colonizers as a model of peaceful reform, in contrast to more radical figures like Andrés Bonifacio.
 *   **Stance on Revolution:** Rizal publicly condemned the 1896 revolution, but his writings inspired it. Eyewitness accounts of his private views are conflicting, with some suggesting he supported a well-prepared uprising.
 *   **The Retraction:** The debate over whether Rizal retracted his anti-Catholic beliefs before his execution remains unresolved. Supporters cite eyewitness testimony and the document itself, while doubters point to a lack of corroborating evidence and questions about the document's authenticity.
+
+Source: adapted from "José Rizal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal

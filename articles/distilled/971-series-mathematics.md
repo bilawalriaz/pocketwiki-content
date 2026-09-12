@@ -67,3 +67,5 @@ Series generalize to arbitrary index sets $I$, requiring topological structures 
 ## Debates and Open Questions
 
 The convergence of the Flint Hills series $\sum_{n=1}^{\infty} \frac{1}{n^3 \sin^2 n}$ remains unknown, depending on how well π can be approximated by rational numbers. The numerators of continued fraction convergents of π (1, 3, 22, 333, 355, 103993, ...) determine where terms contribute most to this sum. Whether spatial motion is infinitely divisible remains debated in physics, with quantum gravity theories suggesting spacetime quantization at the Planck scale.
+
+Source: adapted from "Series (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Series_%28mathematics%29

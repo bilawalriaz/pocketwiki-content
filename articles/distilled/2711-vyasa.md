@@ -39,3 +39,5 @@ Vyasa's son, Shuka, is his spiritual successor. His four chief disciples—Paila
 - The historicity of Vyasa as a single individual is debated; he may represent a tradition or a lineage of compilers.
 - The claim that Vyasa dictated the Mahābhārata to Ganesha is considered by scholars to be a later interpolation to the epic.
 - The exact dating of the Mahābhārata and the Bhagavad Gita (contained within it) is uncertain, with scholarly estimates ranging from the 5th century BCE to the 2nd century BCE for the Gita's core.
+
+Source: adapted from "Vyasa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vyasa

@@ -45,3 +45,5 @@ The 2021 census recorded a population of 995,686, with Sakha (55.3%) and Russian
 
 ## Debates and open questions
 The source highlights ongoing tensions between federal centralization and regional autonomy, particularly regarding control over natural resources and the protection of Indigenous land rights. The economic benefits of the mining boom are also debated, as social support is noted to favor the less needy while rural poverty remains high.
+
+Source: adapted from "Sakha Republic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sakha_Republic

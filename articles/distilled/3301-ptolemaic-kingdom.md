@@ -46,3 +46,5 @@ The Ptolemaic military was a diverse, professional force combining Macedonian ph
 *   The precise nature and extent of native Egyptian revolts, such as the Great Theban Revolt, and their long-term impact on Ptolemaic stability are subjects of ongoing scholarly analysis.
 *   The degree to which the Ptolemaic state was a true "thassalocracy" (sea-based empire) versus a land-based power with a strong navy is debated.
 *   The social and economic integration of native Egyptians into the Greek-dominated state, and the formation of a hybrid Greco-Egyptian culture, remains a complex area of study.
+
+Source: adapted from "Ptolemaic Kingdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ptolemaic_Kingdom

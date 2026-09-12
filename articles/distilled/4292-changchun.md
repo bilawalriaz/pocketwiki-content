@@ -45,3 +45,5 @@ The city has a compact, planned layout with a comprehensive transport network, i
 
 ## Debates and Open Questions
 The source notes that the PRC government avoids all mention of the 1948 Siege of Changchun, during which an estimated 150,000 to 330,000 civilians starved to death, indicating a sensitive and suppressed historical event.
+
+Source: adapted from "Changchun" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Changchun

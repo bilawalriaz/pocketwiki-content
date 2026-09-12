@@ -45,3 +45,5 @@ European archaeology complicates the "Upper Paleolithic Revolution" model. While
 - **Species-Specific Trait:** Is behavioral modernity unique to *Homo sapiens*, or did other hominins like Neanderthals possess similar capacities, as suggested by their symbolic artifacts?
 - **Drivers of Change:** Was the global spread of modern behavior triggered by a specific genetic mutation (e.g., for language), or by demographic factors like increased population density and social network size?
 - **Eurocentrism:** To what extent has the traditional model been biased by focusing on the European record, and how does the African archaeological record reshape the timeline?
+
+Source: adapted from "Behavioral modernity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Behavioral_modernity

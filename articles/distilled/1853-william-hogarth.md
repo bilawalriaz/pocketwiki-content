@@ -44,3 +44,5 @@ Hogarth was a successful portrait painter, known for capturing character and mov
 *   **Attribution:** Some prints, like *Burlington Gate* (1731), once attributed to Hogarth are now disputed by modern authorities such as Ronald Paulson.
 *   **Artistic Ambition vs. Critical Reception:** Hogarth aspired to be a history painter (depicting grand historical or biblical scenes), but this work was critically undervalued by contemporaries like Joshua Reynolds, who favored a more classical "grand style."
 *   **Interpretation of Satire:** The precise targets and meanings of details within his densely symbolic works continue to be analyzed and debated by scholars.
+
+Source: adapted from "William Hogarth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Hogarth

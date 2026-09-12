@@ -49,3 +49,5 @@ Bernays believed propaganda was inevitable and that democratic societies allowed
 
 ## Debates and Open Questions
 Bernays’ legacy is deeply contested. Supporters praise him as a visionary who professionalized public relations and enabled effective communication between institutions and the public. Critics argue his methods deliberately deceived audiences and eroded democratic discourse. His role in the Guatemalan coup exemplifies concerns about corporate influence over foreign policy. Scholars debate whether his techniques were uniquely manipulative or simply reflected broader trends in 20th-century media and power structures. The extent to which modern PR continues to employ his strategies remains a subject of ongoing scrutiny.
+
+Source: adapted from "Edward Bernays" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edward_Bernays

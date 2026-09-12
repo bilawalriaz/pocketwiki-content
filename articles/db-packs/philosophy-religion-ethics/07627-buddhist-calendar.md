@@ -29,3 +29,5 @@ The lunisolar calendar is retained mainly for Buddhist holidays, with full-moon 
 ## Drift and reform
 
 Because the sidereal year is about 24 minutes longer than the tropical year, the calendar accumulates a one-day error roughly every 60 years and 4 months, which explains the New Year drift from late March to mid-April over 14 centuries. Myanmar's 19th-century Konbaung court tried to fix the problem by adjusting the intercalation schedule, but as a result Burmese calendars can only be published a year or two in advance. Thailand abandoned the lunisolar version for civil use in 1941, realigning its Buddhist Era to the Gregorian calendar; the Thai-style Buddhist calendar (Gregorian plus 543 years) is now the official civil calendar in Thailand and is supported as a locale option in Java 8, iOS, and macOS.
+
+Source: adapted from "Buddhist calendar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Buddhist_calendar

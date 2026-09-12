@@ -20,3 +20,5 @@ Their defining features are molecular-scale thickness and high structural order,
 
 The technique is limited by the monolayer collapse pressure: once lateral compression exceeds it, the film buckles into polylayers and loses its precise thickness.
 ```
+
+Source: adapted from "Langmuir–Blodgett film" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Langmuir%E2%80%93Blodgett_film

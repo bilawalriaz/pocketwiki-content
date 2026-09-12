@@ -46,3 +46,5 @@ Open space planning was integral to Mesopotamian cities, with areas set aside fo
 - The precise function and symbolic meaning of ziggurats are debated; one hypothesis suggests they were built to resemble mountains, but textual and archaeological evidence for this is considered limited.
 - The reconstruction of the third stage of the Ziggurat of Ur by excavator Leonard Woolley is an interpretation, as only two stages survive.
 - The social organization and construction methods of residential architecture, particularly for the poorest inhabitants who may have used perishable materials, are not well-documented archaeologically.
+
+Source: adapted from "Architecture of Mesopotamia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Architecture_of_Mesopotamia

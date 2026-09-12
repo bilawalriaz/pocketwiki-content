@@ -47,3 +47,5 @@ Aristotle's *De memoria et reminiscentia* already recommended systematic search 
 ## External memory aids
 
 When internal memory fails, external props help. Sticky notes, colour-coded cues, knots in handkerchiefs, and strings around fingers have been used for centuries; Heidegger kept memory with a knotted handkerchief, and the oldest legend is Ariadne's thread for Theseus. The "memory clamp," a deliberately uncomfortable, brightly coloured wrist or finger band invented by physicist Rick Yukon, works by being hard to ignore, with intermittent wear to prevent habituation. Writing on one's hand, texting oneself, and wrist- or ankle-worn aids are all variants of the same principle: offload the memory to a stable external cue.
+
+Source: adapted from "Memory improvement" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Memory_improvement

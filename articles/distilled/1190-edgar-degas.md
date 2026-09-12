@@ -60,3 +60,5 @@ Several unresolved issues surround Degas’s legacy:
 - **Motivations behind unfinished works**: Degas blamed his eye troubles for leaving many paintings incomplete, but critics like Charles Stuckey questioned whether vision alone explained his reluctance to finish.
 - **Nature of his sculptures**: Scholars agree Degas did not create sculptures merely as preparatory tools for paintings, yet their exact role in his practice remains debated.
 - **Political legacy**: While his antisemitism is well-documented, its impact on interpreting his art—particularly portraits like *Portraits at the Stock Exchange*—continues to generate scholarly discussion.
+
+Source: adapted from "Edgar Degas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edgar_Degas

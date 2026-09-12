@@ -37,3 +37,5 @@ Metallurgy may have emerged first in the Near East, with early lead and copper s
 - The origins and spread of copper smelting are debated: was it invented independently in multiple regions (e.g., Europe and the Near East) or diffused from a single source?
 - The extent to which the Chalcolithic represents a distinct "age" versus a transitional phase is contested, as seen in Britain where some archaeologists do not recognize a formal Chalcolithic period due to small-scale production.
 - The social and economic impact of early metallurgy is debated, particularly whether it caused the collapse of specialized Neolithic craft networks or was integrated into existing systems.
+
+Source: adapted from "Chalcolithic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chalcolithic

@@ -74,3 +74,5 @@ Hundreds of pre-modern Sanskrit commentaries exist, though only a fraction are p
 *   **Birthplace:** No theory (Ujjayini, Kashmir, Vidarbha, Dashapura, Vidisha, Bengal, Uttarakhand, Mithila) commands agreement; each relies on selective internal evidence countered by rival scholarship.
 *   **Textual stability:** Commentaries reveal significant variation across manuscripts; reconstructing an ur-text is complicated by oral/written transmission interplay.
 *   **Vikramāditya’s historicity:** Whether the patron "Vikramāditya" refers to Chandragupta II, the legendary 1st-century BCE king, Yaśodharman (6th century), or a generic title affects the entire chronological framework.
+
+Source: adapted from "Kalidasa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kalidasa

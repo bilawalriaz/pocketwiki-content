@@ -36,3 +36,5 @@ Upon publication, *Brave New World* received mixed reviews, with some critics li
 - **Genetic Engineering Misconception**: Some interpret the novel as a cautionary tale about genetic enhancement, but scholar Derek So argues Huxley's methods involve chemical conditioning, not heritable genetic manipulation, and that he was more concerned with totalitarianism than biotechnology itself.
 - **Plagiarism Allegations**: The novel has faced accusations of borrowing from earlier works, including Yevgeny Zamyatin's *We* (1924), Bertrand Russell's *The Scientific Outlook* (1931), and Polish author Mieczysław Smolarski's novels. Huxley denied knowledge of *We* before writing his book.
 - **Huxley's Evolving Views**: In the 1946 foreword, Huxley suggested a "third alternative" for John the Savage—a sane society balancing decentralism, science, and spirituality—indicating his own reassessment of the novel's bleak conclusion.
+
+Source: adapted from "Brave New World" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brave_New_World

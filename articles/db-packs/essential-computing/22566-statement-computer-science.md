@@ -17,3 +17,5 @@ A second axis separates statements from **expressions**. Expressions always prod
 Most languages also decide whether a word like `if` or `while` is a **reserved keyword** that cannot be used as a variable name. C reserves about 30 such words; COBOL reserves around 400. Fortran and PL/I historically did not, producing famously confusing code such as `IF IF = THEN THEN` and, because Fortran ignored spaces before Fortran 95, the typo `DO 10 I = 1.5` turned a loop into an assignment to a variable named `DO10I`. To avoid this, Algol 60 and Algol 68 used **stropping**, a special marker around keywords; later languages simply forbid reuse as identifiers.
 
 Most languages ship with a fixed set of statements defined by the language designer, though **extensible languages** have been built that let programmers define new statements.
+
+Source: adapted from "Statement (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Statement_%28computer_science%29

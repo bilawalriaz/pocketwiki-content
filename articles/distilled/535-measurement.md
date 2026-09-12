@@ -67,3 +67,5 @@ All measurements are approximations. Measuring a 1-metre fall illustrates error 
 *   **Representational Theory Validity:** Debate persists between strong (additive conjoint) and weak (Stevensian) forms regarding whether measurement requires empirical structural correlations or merely rule-based assignment.
 *   **Biology Theory Gap:** There is no well-established general theory of measurement in biology, though the theoretical context of evolution is argued to be fundamental.
 *   **Estimation vs. Measurement:** The uncertainty view implies no neat distinction exists between estimation and measurement, challenging classical positivist definitions.
+
+Source: adapted from "Measurement" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Measurement

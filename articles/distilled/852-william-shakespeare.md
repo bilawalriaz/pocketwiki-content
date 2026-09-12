@@ -82,3 +82,5 @@ Shakespeare’s impact spans centuries. He enriched English vocabulary and idiom
 - **Textual integrity**: Disputes persist over whether Shakespeare revised plays between quarto and folio editions.
 - **Chronology**: Precise dating of plays remains uncertain due to limited records.
 - **Biographical details**: Sparse documentation fuels speculation about his personality, motivations, and daily life.
+
+Source: adapted from "William Shakespeare" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Shakespeare

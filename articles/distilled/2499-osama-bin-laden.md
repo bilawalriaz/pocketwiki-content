@@ -43,3 +43,5 @@ In 2010, U.S. intelligence identified bin Laden's compound in Abbottabad, Pakist
 - The extent of Saudi government involvement in funding or supporting the 9/11 attacks remains disputed, with some U.S. investigators alleging ties while the 9/11 Commission found no evidence of foreign government funding.
 - The precise knowledge and role of Pakistan's Inter-Services Intelligence (ISI) in harboring bin Laden in Abbottabad is debated, with conflicting reports from U.S., Pakistani, and journalistic sources.
 - The long-term strategic impact of bin Laden's strategy to "bleed" the U.S. into economic collapse through prolonged wars is a subject of analysis, particularly regarding the 20-year war in Afghanistan.
+
+Source: adapted from "Osama bin Laden" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Osama_bin_Laden

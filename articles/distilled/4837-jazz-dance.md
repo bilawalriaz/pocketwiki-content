@@ -36,3 +36,5 @@ From the 1940s, choreographers like Jack Cole and Bob Fosse promoted dramatic ja
 
 ## Debates and Open Questions
 The term "Jazz Dance" is used broadly and sometimes controversially. Since the 1940s, it has been applied to Broadway and Hollywood choreography that may have little direct connection to jazz music. Furthermore, since the 1990s, colleges have used the term for physical education dance classes set to various pop music, further diluting its original association with jazz music and African American vernacular roots. This raises ongoing questions about the definition and ownership of the style.
+
+Source: adapted from "Jazz dance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jazz_dance

@@ -75,3 +75,5 @@ Constance Collier (acting teacher): "presence, luminosity, flickering intelligen
 - **Method acting**: Stanislavski-derived technique (taught at Actors Studio by Lee Strasberg) emphasizing emotional memory and psychological realism; Monroe studied it from 1955 to deepen craft beyond "dumb blonde" typecasting.
 - **Marilyn Monroe Productions (MMP)**: Independent company founded 1954 with Milton Greene; produced *The Prince and the Showgirl* (1957); challenged studio control over casting, direction, and profit participation.
 - **CinemaScope**: Anamorphic widescreen process (Fox, 1953) to lure TV audiences back
+
+Source: adapted from "Marilyn Monroe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marilyn_Monroe

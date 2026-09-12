@@ -31,3 +31,5 @@ The ridge is divided near the equator by the Romanche Trench, one of the Atlanti
 
 ## Debates and open questions
 The source notes that the ridge's contribution to the breakup of Pangaea is considered in modern tectonic models, where subduction and mantle plumes are hypothesized to be primary mechanisms. This indicates a historical and ongoing scholarly discussion about the relative importance of different forces in continental rifting.
+
+Source: adapted from "Mid-Atlantic Ridge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge

@@ -58,3 +58,5 @@ India Post issued a 30-paise stamp (31 July 1980). His Lamhi ancestral house is 
 - **Realism vs. didacticism**: Schulz praises *Godaan*’s structural balance by "Western literary standards," yet notes *Rangbhoomi*’s "too many authorial explanations"; scholars differ on whether Premchand’s didactic impulses undermine or serve his realism.
 - **Industrialization stance**: His opposition to rapid industrialization (*Rangbhoomi*) as anti-peasant is read variously as Gandhian economic nationalism or a conservative reluctance toward modernity.
 - **Language politics**: The switch from Urdu to Hindi (1914) is attributed to market constraints (Sarkar), but its role in shaping Hindi literary canon formation versus Urdu’s separate trajectory is debated.
+
+Source: adapted from "Premchand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Premchand

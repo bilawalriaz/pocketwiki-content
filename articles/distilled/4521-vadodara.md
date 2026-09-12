@@ -47,3 +47,5 @@ Vadodara is known as the "Cultural City" and houses museums like the Baroda Muse
 
 ## Debates and Open Questions
 The exact timing of the various name changes for the city (from Chandanavati to Vadodara) is difficult to ascertain historically. The shift of the main Jain center from Akota to Vadodara around the 11th century is noted, but the precise causes and timeline are part of the broader historical narrative rather than a subject of active scholarly debate presented in the source.
+
+Source: adapted from "Vadodara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vadodara

@@ -47,3 +47,5 @@ Philip's tomb was discovered in 1977 at Vergina (ancient Aigai). Tomb II, contai
 - **Assassination motive**: The personal grievance of Pausanias (per Aristotle) versus later embellishments involving jealousy or royal conspiracy remain debated.
 - **Tomb identification**: While Tomb II at Vergina is generally accepted as Philip's, a 2015 study proposed Tomb I, a claim rejected by Greek authorities based on archaeological evidence.
 - **Legacy of conquest**: Some historians speculate that Philip, being older and more pragmatic, might have pursued more limited conquests in Persia compared to Alexander's expansive campaigns.
+
+Source: adapted from "Philip II of Macedon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philip_II_of_Macedon

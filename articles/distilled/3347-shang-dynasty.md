@@ -45,3 +45,5 @@ The Shang state engaged in frequent warfare with neighboring settlements and nor
 - **Relationship with Xia**: Whether the preceding Xia dynasty was a concurrent political entity or a later myth is uncertain.
 - **Shamanism**: The degree to which shamanism was central to Shang religion is debated among scholars.
 - **Gija Joseon**: Legends claim a Shang prince founded a state in Korea, but its historical accuracy is disputed.
+
+Source: adapted from "Shang dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shang_dynasty

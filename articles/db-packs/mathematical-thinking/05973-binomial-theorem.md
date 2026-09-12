@@ -51,3 +51,5 @@ $$\sqrt{1+x} = 1 + \tfrac{1}{2}x - \tfrac{1}{8}x^2 + \tfrac{1}{16}x^3 - \tfrac{5
 $$\frac{1}{1+x} = 1 - x + x^2 - x^3 + \cdots \quad (|x|<1)$$
 
 The second recovers the geometric series. For sums of more than two terms, the *multinomial theorem* states $(x_1+\cdots+x_m)^n$ is a sum over exponent tuples $(k_1,\ldots,k_m)$ with sum $n$, with coefficient $\frac{n!}{k_1!\,k_2!\cdots k_m!}$, which counts ways to partition an $n$-set into subsets of those sizes. The general Leibniz rule gives the same form for the $n$th derivative of a product: $(fg)^{(n)}(x) = \sum_{k=0}^{n}\binom{n}{k}f^{(n-k)}(x)g^{(k)}(x)$.
+
+Source: adapted from "Binomial theorem" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Binomial_theorem

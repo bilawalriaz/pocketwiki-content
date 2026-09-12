@@ -41,3 +41,5 @@ The epic has been translated into numerous Indian languages for centuries, with 
 - **Historicity**: The exact date and historical basis of the Kurukshetra War remain highly debated, with estimates varying by over a millennium.
 - **Composition**: Scholars debate the nature of the epic's growth, with theories ranging from a single author to a fluid, orally-transmitted text that accumulated layers over centuries. The existence of a core *Jaya* of 8,800 verses is contested by some scholars.
 - **Authorship**: While traditionally ascribed to Vyāsa, the epic is understood to be the product of multiple authors and redactors over a long period.
+
+Source: adapted from "Mahabharata" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mahabharata

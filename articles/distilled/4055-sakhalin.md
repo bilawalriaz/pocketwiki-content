@@ -44,3 +44,5 @@ Since 1945, Sakhalin has been entirely under Russian administration. The economy
 - The precise nature and extent of Qing dynasty control over Sakhalin is debated, with some scholars emphasizing its loose, tributary character versus more formalized administration.
 - The environmental and economic trade-offs of large-scale oil and gas development on Sakhalin, particularly regarding projects like Sakhalin-II, remain contentious.
 - While Japan no longer claims Sakhalin, the unresolved status of the southern Kuril Islands (Northern Territories) continues to affect Russo-Japanese relations.
+
+Source: adapted from "Sakhalin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sakhalin

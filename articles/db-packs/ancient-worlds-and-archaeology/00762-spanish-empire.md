@@ -29,3 +29,5 @@ Defeat in the Seven Years' War cost Spain Havana and Manila, and the 1808 Napole
 ## Open questions
 
 Historians still debate whether colonial rule was primarily extractive or developmental: Alexander von Humboldt's early-19th-century observations suggested many indigenous New Spaniards were better off than European peasants, complicating a simple oppression narrative. The role of silver is contested, with some arguing it impoverished Spain while others emphasize its role in funding European wars. The Bourbon reforms are similarly disputed, viewed by some as too little, too late, and by others as provocations that accelerated colonial rebellion.
+
+Source: adapted from "Spanish Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_Empire

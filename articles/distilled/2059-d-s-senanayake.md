@@ -51,3 +51,5 @@ Senanayake died on 22 March 1952 from injuries sustained after falling from a ho
 ## Debates and open questions
 - The primary debate concerns the legacy of the Ceylon Citizenship Act. While it is seen as a foundational act of the new nation by some, it is criticized for deliberately disenfranchising the Indian Tamil population, creating a stateless community and sowing seeds of ethnic tension.
 - There is discussion about the nature of the independence achieved. Senanayake negotiated for dominion status and maintained strong ties with Britain, including a defence pact and British military bases, leading to questions about the completeness of sovereignty at independence in 1948.
+
+Source: adapted from "D. S. Senanayake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/D._S._Senanayake

@@ -42,3 +42,5 @@ Biya's foreign policy is characterized by pragmatic alliances. France remains a 
 *   **Electoral Legitimacy:** The credibility of Biya's repeated electoral victories is a central debate, with consistent allegations of systemic fraud from opposition parties and international observers.
 *   **Succession:** Given Biya's advanced age (93 in 2026), speculation about his health and potential successor is ongoing. His son, Franck Biya, is often mentioned in this context.
 *   **Resolution of the Anglophone Conflict:** The causes of the crisis—whether primarily political marginalization or linguistic/cultural division—and the path to its resolution remain deeply contested. Biya's government has been criticized for prioritizing military suppression over political dialogue.
+
+Source: adapted from "Paul Biya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paul_Biya

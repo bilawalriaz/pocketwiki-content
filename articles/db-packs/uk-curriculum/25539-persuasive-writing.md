@@ -29,3 +29,5 @@ Counterarguments appear either in dedicated paragraphs or woven into the main po
 Cherry-picking evidence while ignoring contrary data destroys credibility once discovered. Straw-manning the opposition—misrepresenting it to make refutation easy—backfires with attentive readers. Circular reasoning, where the thesis assumes its own proof, fails to persuade anyone not already convinced.
 
 The most durable persuasive writing treats the reader as a reasoning partner, not a target. It earns agreement by showing its work.
+
+Source: adapted from "Persuasive writing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Persuasive_writing

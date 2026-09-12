@@ -44,3 +44,5 @@ Since the 1980s, blues has seen a resurgence in both traditional and contemporar
 
 ## Debates and Open Questions
 Scholars debate the precise African origins of the blues, with some pointing to the Sahel region and Islamic musical influences, while others note the absence of certain African elements like polyrhythm and drumming. The social and economic reasons for the blues' emergence in the post-emancipation South are not fully known, though it is linked to the new freedoms and hardships of sharecropping. The genre's boundaries were fluid in its early years, with no clear division between blues and country music except for the performer's ethnicity.
+
+Source: adapted from "Blues" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Blues

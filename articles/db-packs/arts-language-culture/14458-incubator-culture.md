@@ -25,3 +25,5 @@ The CO₂ incubator reached the market in the 1960s. It let clinicians grow path
 A modern lab incubator is chosen by which variables it controls. A bacteriological incubator regulates only temperature. A CO₂ incubator adds gas and humidity for mammalian cells. A shaking incubator adds motion for aerobic cultures that need continuous mixing. Larger facilities sometimes convert entire rooms, called warm rooms, into incubators for high-volume work.
 
 Incubators range from tabletop units to warm rooms, and the common thread is the same: hold temperature, atmosphere, and sometimes motion steady while living cells replicate, so an experiment run today can be compared directly with one run next month.
+
+Source: adapted from "Incubator (culture)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Incubator_%28culture%29

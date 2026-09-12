@@ -70,3 +70,5 @@ Faraday declined a knighthood (religious objection to worldly reward) and twice 
 - **Coal dust explosion hazard (1846):** Faraday and Lyell’s forensic proof that coal dust amplified the Haswell colliery explosion—and that ventilation could prevent it—was ignored by mine owners for over 60 years until the 1913 Senghenydd disaster killed 439.
 - **Mathematical vs. experimental philosophy:** Faraday’s lack of formal mathematics (limited to simple algebra) led some peers to undervalue his theoretical insights; Maxwell later declared Faraday "a mathematician of a very high order" for his geometric reasoning via lines of force.
 - **Ethical stance on weapons:** Faraday’s refusal to develop chemical weapons for the Crimean War (1853–56) on religious/ethical grounds was a rare early instance of a scientist declining state military work on principle.
+
+Source: adapted from "Michael Faraday" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Michael_Faraday

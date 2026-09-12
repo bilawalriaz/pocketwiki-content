@@ -55,3 +55,5 @@ Bochner's theorem gives the exact criterion: a function $\varphi: \mathbb{R}^n \
 ## Generalisations
 
 The definition extends naturally. For a $k$-dimensional random vector, $\varphi_X(t) = \operatorname{E}[e^{i t^\top X}]$ with $t \in \mathbb{R}^k$; for a random matrix, the exponent uses the trace $i\operatorname{tr}(t^\top X)$; for a stochastic process $X(s)$, $\varphi_X(t) = \operatorname{E}\!\left[\exp\!\left(i\int t(s) X(s)\,ds\right)\right]$ for suitable test functions $t(s)$. The same construction generalises to random elements of any locally compact Abelian group, where characters replace the exponential.
+
+Source: adapted from "Characteristic function (probability theory)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Characteristic_function_%28probability_theory%29

@@ -48,3 +48,5 @@ Joan's execution created a political liability for Charles VII, implying his cor
 - **Cross-Dressing**: The theological and practical reasons for her wearing men's clothes remain discussed. Was it for practicality, protection, or a deliberate challenge to gender norms?
 - **Political Motivations**: The extent to which her trial was a genuine ecclesiastical proceeding versus a political tool to discredit Charles VII is a key historical question.
 - **Military Role**: Historians assess whether Joan was a true military strategist or primarily a charismatic figurehead who inspired others.
+
+Source: adapted from "Joan of Arc" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joan_of_Arc

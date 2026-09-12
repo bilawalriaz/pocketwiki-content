@@ -44,3 +44,5 @@ The large painting (3.49m x 7.76m) depicts a scene of chaos and suffering within
 - **Political Efficacy**: Some Marxist groups initially criticized the painting for lacking a clear political vision for the future.
 - **Location**: There is ongoing debate about whether the painting should be displayed in the Basque Country, its historical subject, rather than Madrid.
 - **UN Tapestry Covering**: The 2003 covering of the UN tapestry sparked debate about whether it was done to avoid an anti-war backdrop during the Iraq War buildup.
+
+Source: adapted from "Guernica (Picasso)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guernica_%28Picasso%29

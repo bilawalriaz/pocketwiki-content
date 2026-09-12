@@ -53,3 +53,5 @@ Single-lens reflex (SLR) cameras use a mirror to direct light to the viewfinder,
 
 ## Debates and open questions
 The source does not present explicit scholarly debates or open questions regarding camera technology.
+
+Source: adapted from "Camera" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Camera

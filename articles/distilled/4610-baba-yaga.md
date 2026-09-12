@@ -43,3 +43,5 @@ Baba Yaga appears on 17th- and 18th-century Russian *lubki* (woodblock prints), 
 - The precise meaning and origin of the name "Yaga" remain unclear, with no scholarly consensus.
 - Scholars debate the sources of Baba Yaga's imagery, proposing interpretations ranging from a pre-Christian goddess (of death, winter, or the earth) to a totemic matriarchal ancestress or a figure influenced by shamanism.
 - The limited geographical distribution of the closely related figure *Ježibaba* raises questions about the common origin and historical spread of the Baba Yaga archetype.
+
+Source: adapted from "Baba Yaga" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baba_Yaga

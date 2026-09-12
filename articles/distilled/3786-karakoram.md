@@ -37,3 +37,5 @@ The range is divided into numerous subranges, including the Baltoro Muztagh and 
 
 ## Debates and Open questions
 The naming and division of the Karakoram's various subranges are not universally agreed upon among geographers and scholars.
+
+Source: adapted from "Karakoram" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Karakoram

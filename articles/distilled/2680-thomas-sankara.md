@@ -47,3 +47,5 @@ On 15 October 1987, Sankara and twelve officials were assassinated in a coup led
 - **Human Rights Record**: Sankara's government faced criticism from organizations like Amnesty International for arbitrary detentions and the procedures of the Popular Revolutionary Tribunals, which did not meet international legal standards.
 - **Cause of the Agacher Strip War**: There is debate over whether Sankara intentionally provoked the conflict with Mali to rally domestic support, as alleged by some sources, or if it was primarily a Malian aggression aimed at triggering a coup in Burkina Faso.
 - **Role of Foreign Powers**: The exact extent of foreign involvement, particularly by France and Libya, in Sankara's rise and assassination remains a subject of investigation and speculation.
+
+Source: adapted from "Thomas Sankara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Sankara

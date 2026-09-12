@@ -74,3 +74,5 @@ Leeuwenhoek first observed bacteria in 1676 but did not recognize them as distin
 ## Debates and open questions
 
 Most named bacteria (43,000+ species) have never been studied; ~75% have no academic research devoted to them, and 90% of studies focus on less than 1% of species. Even in the best-studied bacterium, E. coli, a quarter of its 4,000 genes remain poorly characterized. Estimates of total bacterial diversity range from 10⁷ to 10⁹ species, possibly off by many orders of magnitude. Cavalier-Smith has argued that Archaea and Eukaryotes evolved from Gram-positive bacteria, a contested claim. The earliest life on land may have been bacteria some 3.22 billion years ago, but this is debated.
+
+Source: adapted from "Bacteria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bacteria

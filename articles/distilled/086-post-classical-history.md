@@ -100,3 +100,5 @@ The Byzantine Empire fell to the Ottomans in 1453, disrupting overland routes be
 - Whether the Taíno had influence from the Maya civilization, with little evidence
 - The causes of the Little Ice Age: sunspots, orbital cycles, volcanic activity, ocean circulation, or population decline
 - The extent of Norse–Thule interaction in Greenland and whether Norse continued visiting Canada after initial colonization
+
+Source: adapted from "Post-classical history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Post-classical_history

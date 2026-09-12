@@ -42,3 +42,5 @@ The Yuezhi, who gave their name to the region's Chinese designation *Daxia*, wer
 *   The exact location and nature of the legendary homeland *Airyanem Vaejah* mentioned in the Avesta is debated, with Bactria being a primary candidate.
 *   The precise sequence and identity of the nomadic tribes (Sakas, Yuezhi, etc.) that overthrew the Greco-Bactrian Kingdom are complex and not fully resolved.
 *   The relationship between the Tokharians of Bactria and the Tocharian people and languages of the Tarim Basin is a subject of scholarly clarification, as they are distinct groups.
+
+Source: adapted from "Bactria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bactria

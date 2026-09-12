@@ -45,3 +45,5 @@ A referendum in 2016 produced a vote to leave the European Union, and Brexit was
 | 2020 | Brexit is completed. |
 
 Britain's history shows a repeated pattern of union and fragmentation: the 1707 and 1800 unions built the state, the 1922 Irish partition and ongoing Scottish debate show the same pressures still at work, and the twentieth century left the UK smaller in empire but still managing the tensions between its constituent nations and its relationship with Europe.
+
+Source: adapted from "History of the United Kingdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_the_United_Kingdom

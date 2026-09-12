@@ -50,3 +50,5 @@ Metabolism is the network of enzyme-catalysed reactions sustaining life. Enzymes
 ## A short history of the model
 
 Phlogiston theory (Becher, 1667) held that combustion released a fire-like substance; Lavoisier disproved it in 1785 by showing combustion is reaction with oxygen. Alchemists had already produced mineral acids by ~1300, and the lead chamber process made sulfuric acid industrial by 1746. Gay-Lussac showed in 1808 that gases react in fixed volume ratios, a step toward balanced equations. Wöhler's 1828 synthesis of urea from inorganic precursors ended vitalism, the belief that organic compounds required a living source. By 1909–1910 the Haber process had made industrial ammonia synthesis feasible, proving catalysis could be central to chemistry at scale.
+
+Source: adapted from "Chemical reaction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemical_reaction

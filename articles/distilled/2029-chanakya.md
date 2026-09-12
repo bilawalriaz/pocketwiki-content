@@ -45,3 +45,5 @@ Chanakya is conventionally identified with Kauṭilya, the author of the *Arthas
 - **Authorship of the Arthashastra**: The identification of Chanakya with Kauṭilya, the text's author, is widely rejected by modern scholars as a later tradition.
 - **Age of the Arthashastra**: The text's composition is debated, with scholarly consensus placing its final form between 175–300 CE, not the Mauryan period.
 - **Relationship between legends**: Scholars debate which version of the Chanakya-Chandragupta legend is oldest and most historically reliable, with some arguing the Jain version is more consistent.
+
+Source: adapted from "Chanakya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chanakya

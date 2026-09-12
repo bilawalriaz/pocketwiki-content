@@ -39,3 +39,5 @@ Guthrie's health declined in the late 1940s due to Huntington's disease, a genet
 ## Debates and Open Questions
 *   **Communist Party Membership:** The extent of Guthrie's formal involvement with the Communist Party is debated. While he was closely associated and wrote for its publications, some sources claim he was a member, while others, including his own statements, suggest he was not.
 *   **Political Evolution:** Scholars analyze how Guthrie's political views shifted, particularly his initial anti-war stance during the Nazi-Sovist Pact and his subsequent fervent anti-fascism after the German invasion of the USSR.
+
+Source: adapted from "Woody Guthrie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Woody_Guthrie

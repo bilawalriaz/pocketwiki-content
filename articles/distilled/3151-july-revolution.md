@@ -33,3 +33,5 @@ The revolution led to the abdication of Charles X on 2 August 1830. Although he 
 
 ## Debates and Open Questions
 The article notes that the revolution's underlying motives were complex, leading to disillusionment among Parisian republicans who later revolted in 1832. The July Monarchy itself remained "doubtfully popular, disliked for different reasons by both Right and Left." The precise role of different social groups, such as the commercial middle class excluded by the ordinances versus the unemployed workers, in driving the uprising is a point of historical analysis.
+
+Source: adapted from "July Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/July_Revolution

@@ -29,3 +29,5 @@ Giotto's *Stefaneschi Triptych* (1320) illustrates recursion (a process whose ou
 ## Sacred geometry
 
 Plutarch attributed to Plato the maxim that "God geometrizes continually," a Pythagorean-rooted idea that the world's geometry is sacred. A 13th-century illumination in the *Codex Vindobonensis* shows God drawing the universe with compasses. Kepler modelled planetary orbits as nested Platonic solids in *Mysterium Cosmographicum* (1596). Blake's *Ancient of Days* (1794) and *Newton* (c. 1800) use the compass to critique reason as narrow. Dalí's tesseract cross and dodecahedron supper extend the tradition into four dimensions.
+
+Source: adapted from "Mathematics and art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematics_and_art

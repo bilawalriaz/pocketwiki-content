@@ -22,3 +22,5 @@ Most CSKBs store assertions as triples of the form X relation Y. A triple works 
 
 Around 2013, MIT researchers built BullySpace, an extension of ConceptNet containing over 200 stereotype-based semantic assertions, to flag taunting social media comments. By drawing on commonsense gender associations, the system could recognise that phrases like "put on a wig and lipstick and be who you really are" are more likely to be insults when directed at a boy than a girl. ConceptNet has also powered chatbots and helped computers compose original fiction. At Lawrence Livermore National Laboratory, a commonsense-enabled intelligent software agent detected violations of the comprehensive nuclear test ban treaty.
 ```
+
+Source: adapted from "Commonsense knowledge (artificial intelligence)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Commonsense_knowledge_%28artificial_intelligence%29

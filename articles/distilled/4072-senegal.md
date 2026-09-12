@@ -50,3 +50,5 @@ Senegal is a developing nation classified as a heavily indebted poor country. Ke
 - The Casamance conflict, despite ceasefires, remains unresolved as of 2025.
 - The role and influence of French military and economic presence have been a source of significant domestic tension, leading to the announced withdrawal of French troops.
 - The effectiveness of government institutions in enforcing women's rights protocols is criticized by feminists, highlighting a gap between legal commitments and social practices.
+
+Source: adapted from "Senegal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Senegal

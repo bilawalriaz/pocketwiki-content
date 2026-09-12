@@ -30,3 +30,5 @@ Together, these findings show Bsx as a conserved transcription factor acting in 
 ## Gene and protein data
 
 The BSX gene sits on human chromosome 11 (band 11q24.1) and on mouse chromosome 9 (band 9 A5.1). The protein shuttles between cytoplasm and nucleus and is part of a transcription-regulator complex. Database entries are UniProt Q3C1V8 (human) and Q810B3 (mouse).
+
+Source: adapted from "Brain-specific homeobox" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brain-specific_homeobox

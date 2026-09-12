@@ -46,3 +46,5 @@ Cortés returned to Spain in 1541, heavily in debt and facing lawsuits. He parti
 - **Cortés's Character**: Historical sources portray him either as a ruthless, ambitious mutineer or as a noble cavalier who expanded the Spanish Empire and facilitated Christian evangelization.
 - **Treatment by the Crown**: While Cortés claimed he was unjustly treated, other evidence suggests his disobedience and vanity contributed to his loss of political authority.
 - **Death of Catalina Suárez**: The mysterious death of his first wife in 1522 led to accusations and an investigation, with suspicions of murder never fully resolved.
+
+Source: adapted from "Hernán Cortés" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s

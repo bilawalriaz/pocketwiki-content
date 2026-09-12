@@ -39,3 +39,5 @@ The system includes numerous named ranges from the Kenai and Chugach Mountains i
 ## Debates and Open Questions
 - The precise timing of the accretion of the insular belt is uncertain, though it was completed by at least 115 million years ago.
 - The Pacific Coast Ranges province is defined by geography, not geology, leading to the inclusion of ranges with vastly different rock types and histories (e.g., the Mesozoic Peninsular Ranges vs. the Precambrian San Bernardino Mountains).
+
+Source: adapted from "Pacific Coast Ranges" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pacific_Coast_Ranges

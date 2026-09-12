@@ -49,3 +49,5 @@ Damascus is predominantly Arab, with significant Kurdish, Palestinian, and other
 - The exact etymology of the city's ancient name, *tjmsqw*, is uncertain.
 - The extent of Nabatean control over Damascus in the first century AD is debated, with evidence being inconclusive.
 - The impact of the 2024 rebel takeover on the city's future governance, stability, and reconstruction remains an open and critical question.
+
+Source: adapted from "Damascus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Damascus

@@ -57,3 +57,5 @@ Rostropovich's health declined in 2006. President Vladimir Putin visited him ahe
 - **Extent of repertoire expansion**: The article claims he premiered 117 works and enlarged the repertoire "more than any cellist before or since"—a quantitative claim that invites musicological verification.
 - **Role in 1991 and 1993 Russian crises**: His direct participation (joining Yeltsin, conducting in Red Square) is documented, but the precise impact of his celebrity on political outcomes is not assessed in the source.
 - **Citizenship restoration timing**: Citizenship was restored in 1990, yet he did not return until later; the interplay of personal choice and bureaucratic process is not detailed.
+
+Source: adapted from "Mstislav Rostropovich" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mstislav_Rostropovich

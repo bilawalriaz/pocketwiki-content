@@ -42,3 +42,5 @@ Languages in Western Europe primarily belong to two Indo-European families: the 
 
 ## Debates and Open Questions
 The article notes that many historians and social scientists view the Cold War definition of Western and Eastern Europe as outdated. The precise borders of Western Europe remain contested, as evidenced by the differing lists from the UN, CIA, and EuroVoc. The region's relationship with the broader "Western world" concept is also a point of contextual variation.
+
+Source: adapted from "Western Europe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_Europe

@@ -40,3 +40,5 @@ The novel explores themes of love, desire, renunciation, and the consequences of
 - The exact identity of Bāṇa's son is debated, with traditions naming him as either Bhūṣaṇabhaṭṭa or Pulindabhaṭṭa.
 - The degree to which the *Kādambarī* plot is adapted from the lost *Bṛhatkathā* is a matter of scholarly conjecture, as the source text is extinct.
 - The narrative's complex structure and the delayed appearance of the heroine have led to discussions about its compositional unity and the relationship between the two parts.
+
+Source: adapted from "Kādambarī" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/K%C4%81dambar%C4%AB

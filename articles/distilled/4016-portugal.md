@@ -54,3 +54,5 @@ Portugal has a high-income, advanced economy based on services, industry, and to
 - The historicity of the Battle of Covadonga (c. 722), often cited as the start of the Reconquista, and its leader Pelagius, is unestablished.
 - The etymology of "Cale," the root of "Portugal," is uncertain, with no consensus on its origin.
 - Portugal's sustained economic divergence from Western Europe despite comparable family values and high state capacity is a subject of scholarly analysis, with partial recovery only beginning in the mid-20th century.
+
+Source: adapted from "Portugal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Portugal

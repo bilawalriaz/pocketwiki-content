@@ -56,3 +56,5 @@ Some maps contain deliberate errors, such as "trap streets" for copyright protec
 - The precise date of creation for the Selden map (c. 1620) is debated, challenging historical misconceptions about East Asian cartography.
 - The origins of color use in maps are debated: was it first for information or aesthetics?
 - Deconstructionist scholarship debates the extent to which cartography was an inherent tool of European imperialism and how projections like the Mercator symbolize subjugation.
+
+Source: adapted from "Cartography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cartography

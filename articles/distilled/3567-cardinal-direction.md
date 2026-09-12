@@ -33,3 +33,5 @@ In astronomy, cardinal points on a celestial body are defined by the directions 
 - The precise origin and dating of the compass in China is debated, with early use possibly for geomancy before navigation.
 - The extent to which Germanic direction names influenced Romance languages during the Migration Period is a subject of historical linguistic study.
 - Cultural variations in direction symbolism (e.g., color associations) show significant diversity even among neighboring groups, raising questions about diffusion versus independent development.
+
+Source: adapted from "Cardinal direction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cardinal_direction

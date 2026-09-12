@@ -29,3 +29,5 @@ The continents and oceans are distributed unevenly across the hemispheres. For e
 
 ## Debates and Open questions
 The division of the Eastern and Western Hemispheres is a cartographic convention with no single "correct" meridian. Alternative hemisphere schemes, like the Land and Water Hemispheres, are conceptual tools rather than standard geographical divisions. The "Global North" and "Global South" are socioeconomic and political concepts that do not align perfectly with the geographical hemispheres.
+
+Source: adapted from "Hemispheres of Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hemispheres_of_Earth

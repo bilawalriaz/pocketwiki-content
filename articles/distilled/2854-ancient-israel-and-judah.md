@@ -49,3 +49,5 @@ Israelite religion evolved from Canaanite polytheism through henotheism (worship
 - **Origins of the Israelites**: Theories range from a gradual emergence from indigenous Canaanites to a significant influx of groups from outside, including possible refugees from Egypt.
 - **Nature of the Babylonian Exile**: While the biblical focus is on the exiled elite, the demographic impact on those remaining in Judah is debated, with some scholars arguing for a significant population collapse and others for continuity.
 - **Development of Monotheism**: The process and timeline by which Israelite religion transitioned from henotheism to strict monotheism are subjects of ongoing scholarly analysis.
+
+Source: adapted from "Ancient Israel and Judah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Israel_and_Judah

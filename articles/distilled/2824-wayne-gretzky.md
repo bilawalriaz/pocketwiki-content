@@ -50,3 +50,5 @@ After retiring, Gretzky served as executive director for Canada's 2002 Olympic g
 - **Greatest of All Time:** While the NHL and numerous polls name Gretzky the greatest player, debates persist among fans and analysts comparing him to other legends like Bobby Orr and Gordie Howe.
 - **The "Gretzky Rule":** A 1985 NHL rule change that eliminated offsetting penalties was dubbed the "Gretzky Rule" because it was seen as targeting the Oilers' success in open-ice situations. The rule was later reversed.
 - **Order of Canada:** Gretzky has not attended his investiture ceremony as a Companion of the Order of Canada, the country's highest civilian honor, drawing criticism for not fulfilling the ceremonial duty.
+
+Source: adapted from "Wayne Gretzky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wayne_Gretzky

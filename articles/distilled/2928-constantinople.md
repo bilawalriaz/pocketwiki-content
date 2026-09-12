@@ -47,3 +47,5 @@ After recapture in 1261, the restored Byzantine Empire was a shadow of its forme
 *   The exact population of Constantinople at its various peaks (e.g., under Justinian or in the 12th century) is debated, with scholarly estimates varying widely.
 *   The precise causes and sequence of events during the Nika Riots are reconstructed from sources with potential biases.
 *   The long-term impact of the Iconoclast controversy on the relationship between the Eastern and Western Churches is a subject of ongoing historical analysis.
+
+Source: adapted from "Constantinople" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Constantinople

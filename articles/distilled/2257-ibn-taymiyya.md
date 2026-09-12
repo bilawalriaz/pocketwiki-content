@@ -50,3 +50,5 @@ Ibn Taymiyya's influence was limited for centuries after his death but surged in
 - **Relationship with Sufism**: While often portrayed as anti-Sufi, evidence shows he was part of a Sufi order and praised many Sufi masters. Scholars debate the extent of his rejection versus his aim to reform Sufi practices he saw as innovative.
 - **Historical Influence**: There is scholarly disagreement on whether Ibn Taymiyya had a significant direct influence on later movements before the 19th century or if his modern prominence is largely a product of contemporary revivalist reinterpretation.
 - **Philosophical Stance**: His position is complex; he is seen as both a strict literalist who rejected philosophy and a materialist who engaged with philosophical concepts like the nature of time and God's relationship to the universe.
+
+Source: adapted from "Ibn Taymiyya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ibn_Taymiyya

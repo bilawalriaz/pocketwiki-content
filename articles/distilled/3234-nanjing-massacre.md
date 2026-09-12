@@ -46,3 +46,5 @@ Post-war tribunals, including the International Military Tribunal for the Far Ea
 - **Historicity of the Killing Contest**: The reported sword contest between officers Mukai and Noda is disputed. A 2005 Tokyo court ruling acknowledged the race occurred, but some scholars argue the story was fabricated for propaganda.
 - **Genocide Classification**: Scholars debate whether the massacre constitutes genocide. Some argue the systematic killing of civilians and cultural groups meets the definition, while others contend it was a war crime without a centrally directed genocidal policy.
 - **Japanese Denial and Textbooks**: Significant controversy exists in Japan over how the massacre is taught. Revisionist textbooks minimize the event, while mainstream texts include references. Political visits to Yasukuni Shrine exacerbate tensions.
+
+Source: adapted from "Nanjing Massacre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nanjing_Massacre

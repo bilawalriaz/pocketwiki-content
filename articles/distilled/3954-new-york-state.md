@@ -45,3 +45,5 @@ New York's economy expanded through finance, media, and technology, though it fa
 - The precise boundary between "Upstate" and "Downstate" New York is a matter of great contention and has no official definition.
 - New York has seen several secession movements, including proposals for a state of Long Island, a state of Niagara in the west, and for New York City to become its own state.
 - The state's population growth has been uneven, with robust growth in the New York metropolitan area and stagnation or decline in some Upstate cities for decades.
+
+Source: adapted from "New York (state)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_York_%28state%29

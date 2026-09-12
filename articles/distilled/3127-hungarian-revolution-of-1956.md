@@ -42,3 +42,5 @@ The revolution was followed by mass arrests, executions, and the consolidation o
 - **Soviet Motivations:** Scholars debate the internal Soviet decision-making process, particularly the influence of Mao Zedong's shifting position and the role of hardliners versus reformers like Khrushchev and Zhukov.
 - **Nature of the Revolution:** Soviet historiography labeled it a "counter-revolution" instigated by Western fascists, while most Western and Hungarian historians view it as a popular national and democratic uprising.
 - **Casualty Figures:** Precise numbers for deaths, especially during events like the Kossuth Square massacre on 25 October, remain disputed due to conflicting eyewitness accounts and propaganda.
+
+Source: adapted from "Hungarian Revolution of 1956" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956

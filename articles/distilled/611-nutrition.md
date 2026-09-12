@@ -66,3 +66,5 @@ Bacteria and archaea employ varied nutritional strategies. Phototrophs harness s
 
 ## Debates and Open Questions  
 The extent to which social determinants versus biological factors drive nutrition-related health disparities remains debated. Additionally, the long-term effects of processed foods and additives on human health continue to be studied. In ecology, questions persist about how climate change will alter nutrient cycling and its downstream impacts on food security and ecosystem resilience.
+
+Source: adapted from "Nutrition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nutrition

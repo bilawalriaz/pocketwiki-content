@@ -35,3 +35,5 @@ The novel was a major critical and commercial success, selling over one million 
 
 ## Debates and Open Questions
 The novel's self-referential narrative and use of magical realism have been central to scholarly analysis, particularly regarding how it constructs a postcolonial national allegory. The political act of "redescribing" reality through fiction, as articulated by Rushdie and enacted by Saleem, remains a key point of discussion about the writer's socio-political responsibility.
+
+Source: adapted from "Midnight's Children" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Midnight%27s_Children

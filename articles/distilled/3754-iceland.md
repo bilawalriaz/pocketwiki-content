@@ -51,3 +51,5 @@ Iceland has a market economy with low taxes and a high trade union membership. H
 - **EU Membership**: A long-standing debate. Iceland applied in 2009 but the process was halted. A referendum on resuming negotiations is scheduled for August 2026, with public opinion divided, often citing concerns over control of natural resources like fisheries.
 - **Presidential Powers**: The extent of the Icelandic president's political power is not legally clear; the constitution grants some powers, but tradition and other provisions suggest a more ceremonial role.
 - **Environmental Impact**: Despite its renewable energy, Iceland has high per capita CO2 emissions from transport and aluminium smelting. The collapse of the Atlantic Meridional Overturning Circulation (AMOC) is considered a national security risk.
+
+Source: adapted from "Iceland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iceland

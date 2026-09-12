@@ -42,3 +42,5 @@ Syracuse's identity is deeply tied to its layered history. Its ancient Greek her
 *   **Etymology of Syracuse:** The origin of the city's name is uncertain, with hypotheses deriving it from Siculian, Proto-Indo-European, or Semitic languages.
 *   **Population of Ancient Syracuse:** Historians debate the exact population at its peak, with estimates ranging widely, though it was undoubtedly one of the largest cities in the classical world.
 *   **Role of the Syracusan Church:** The city's early church was autocephalous, leading to historical disputes between the Latin (Papal) and Byzantine (Patriarchate of Constantinople) ecclesiastical authorities over its jurisdiction.
+
+Source: adapted from "Syracuse, Sicily" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Syracuse%2C_Sicily

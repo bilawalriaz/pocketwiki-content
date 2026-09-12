@@ -25,3 +25,5 @@ Cited advantages are lower cost and faster construction than rail, smaller groun
 ## Safety and accidents
 
 A TÜV SÜD-cited study reports about 25 deaths per 100 million hours of travel from car accidents, 16 from plane accidents, and 2 from cable car accidents, with most cable fatalities linked to passenger behaviour rather than system failure. The worst aerial lift disaster on record is the 1976 Cavalese, Italy cable car crash, which killed 43 people when a car fell about 200 m. A US Marine aircraft cut a cable at Cavalese in 1998, killing 20. The 2000 Kaprun funicular tunnel fire in Austria killed 155 people and remains one of the deadliest cable transport accidents.
+
+Source: adapted from "Cable transport" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cable_transport

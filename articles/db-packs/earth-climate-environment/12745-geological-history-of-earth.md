@@ -29,3 +29,5 @@ Pangaea rifted apart, first into a northern half (Laurasia) and a southern half 
 ### Cenozoic (66 million years ago to today)
 
 India's collision with Asia raised the Himalayas, and Africa's collision with Europe closed the Tethys, leaving the Mediterranean as its remnant. Around 40 million years ago, as Australia separated from Antarctica, the Antarctic Circumpolar Current began isolating the southern continent, cooling it permanently and initiating the present pattern of ice ages. The Pliocene brought the Isthmus of Panama, which redirected warm equatorial currents and contributed to Atlantic cooling. The current ice age began about 2.58 million years ago; polar ice has since advanced and retreated in cycles lasting 40,000 to 100,000 years. The last glacial period ended roughly 10,000 years ago, raising global sea level about 35 meters as the great ice sheets melted.
+
+Source: adapted from "Geological history of Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geological_history_of_Earth

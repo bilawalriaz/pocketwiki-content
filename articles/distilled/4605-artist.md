@@ -40,3 +40,5 @@ In the US, the Bureau of Labor Statistics classifies visual artists as craft art
 
 ## Debates and Open questions
 The central debate is the lack of an agreed-upon definition of art, which makes the definition of who is an artist indeterminate. Artists and philosophers continue to debate what does and does not count as art. This metaphysical inquiry into the essence of a work of art remains unresolved.
+
+Source: adapted from "Artist" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Artist

@@ -61,3 +61,5 @@ Lupino was diagnosed with polio in 1934; her recovery gave her confidence in her
 ## Debates and Open Questions
 
 Scholars debate whether Lupino should be considered a feminist filmmaker. Lupino herself rejected the label, saying "men hate bossy females" and that she often pretended to know less than she did to get cooperation. However, critic Carrie Rickey holds her up as "a model of modern feminist filmmaking," noting each of her movies "addresses the brutal repercussions of sexuality, independence and dependence." Critics also debate whether her films' conventional endings reinforced 1950s ideology or undercut it. Ronnie Scheib argues Lupino wasn't concerned with strong people but with "lost, bewildered people" and postwar trauma, comparing her to modernist directors Nicholas Ray, Sam Fuller, and Robert Aldrich.
+
+Source: adapted from "Ida Lupino" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ida_Lupino

@@ -50,3 +50,5 @@ Philosophy is a meta-discipline clarifying other fields' concepts and assumption
 - **Mind–body problem**: how mental phenomena relate to the physical.
 - **Epoché**: phenomenological suspension of theoretical assumptions.
 - **Eudaimonia**: flourishing achieved through a reflective life.
+
+Source: adapted from "Philosophy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philosophy

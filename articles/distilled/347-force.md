@@ -90,3 +90,5 @@ All macroscopic forces (friction, spring, tension, normal) derive from these fou
 *   **Unification:** Electroweak unification confirmed; **Grand Unified Theories (GUTs)** predict strong-electroweak merger at higher energies, untested. **Theory of Everything** including gravity remains speculative.
 *   **Dark Matter/Energy:** Observed gravitational effects unexplained by known matter/forces; may indicate new fundamental interactions or modifications to GR.
 *   **Measurement Problem (QM):** Ehrenfest theorem provides only an inexact link between quantum expectation values and classical force; the nature of "force" during measurement is interpretation-dependent.
+
+Source: adapted from "Force" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Force

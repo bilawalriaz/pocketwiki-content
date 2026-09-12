@@ -49,3 +49,5 @@ The population is diverse, including various ethnic groups and foreign traders. 
 ## Debates and Open Questions
 - The origins of the Bangui Magnetic Anomaly are not fully understood.
 - The efficacy and long-term impact of the Bangui Definition for AIDS in the African context remain debated, as it can confuse symptoms with those of malnutrition.
+
+Source: adapted from "Bangui" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bangui

@@ -58,3 +58,5 @@ Climate models use quantitative methods to simulate interactions and radiative e
 ## Debates and open questions
 
 The source notes that while the variables determining climate are numerous and interactions complex, there is general agreement that the broad outlines are understood, at least regarding historical climate change determinants. It also highlights that natural oscillations may be masked by volcanic eruptions, impact events, irregularities in climate proxy data, positive feedback processes, or anthropogenic emissions, complicating the identification of natural versus human-caused variability. The shifting definitions of "climate change" versus "climate variability" reflect ongoing terminological debates, particularly regarding human causation assumptions in policy contexts.
+
+Source: adapted from "Climate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate

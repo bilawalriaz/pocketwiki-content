@@ -42,3 +42,5 @@ Football is the most popular sport, with major teams Atlético Mineiro, Cruzeiro
 
 ## Debates and Open Questions
 The source notes that the city's original plan prohibited workers from living inside the urban area defined by Avenida do Contorno, which led to accelerated, less-planned growth outside this core. The intense population growth, especially in the last 20 years of the 20th century, was not anticipated by the original planners, presenting ongoing urban challenges.
+
+Source: adapted from "Belo Horizonte" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Belo_Horizonte

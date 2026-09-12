@@ -57,3 +57,5 @@ Geography studies spatial distribution on Earth using cartography and geostatist
 
 ## Debates and Open Questions
 Philosophers continue to debate whether space is an entity, a relation, or a mental construct. Poincaré’s conventionalism—that geometry choice is pragmatic—remains influential. In physics, the global shape of the universe is unknown, and whether spacetime is fundamentally continuous or discrete is unresolved. The reconciliation of general relativity with quantum mechanics remains an open challenge in theoretical physics.
+
+Source: adapted from "Space" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Space

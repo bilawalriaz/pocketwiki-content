@@ -59,3 +59,5 @@ Dietary fat (triglycerides, cholesterol, phospholipids) enables absorption of fa
 - **Essential lipid synthesis**: The evolutionary reason mammals lost desaturases for ω-6 and ω-3 fatty acids (requiring dietary intake) is not fully explained.
 - **Membrane lipid diversity**: The functional necessity for hundreds of distinct lipid species in a single membrane (lipidomics) is incompletely understood; hypotheses include fine-tuning protein function, curvature stress, and domain formation.
 - **Abiogenesis**: The prebiotic synthesis of amphiphilic lipids capable of forming stable, functional protocell membranes remains a central gap in origin-of-life models.
+
+Source: adapted from "Lipid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lipid

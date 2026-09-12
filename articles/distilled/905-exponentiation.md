@@ -116,3 +116,5 @@ Exponentiation generalizes to abstract algebraic structures like **monoids**, **
 - **Minimal addition chains**: Finding the shortest sequence of multiplications to compute \( b^n \) is computationally hard; no efficient general solution exists.
 - **Continuity of complex roots**: No globally continuous nth-root function exists over the entire complex plane due to branch cuts.
 - **Gelfond–Schneider theorem**: While it resolves transcendence for certain cases (\( b^x \) with algebraic \( b \neq 0,1 \) and irrational algebraic \( x \)), many related questions about transcendental numbers remain open.
+
+Source: adapted from "Exponentiation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Exponentiation

@@ -42,3 +42,5 @@ The Safavid legacy includes the establishment of a centralized Iranian nation-st
 - **Exact Origins:** While scholars agree on Iranian Kurdish stock, the precise details of the family's early migration and assimilation remain debated.
 - **Nature of Legitimacy:** The extent to which the Safavid claim to Alid descent was believed by contemporaries versus being a purely political tool is discussed.
 - **Imperial Status:** Historians debate whether Safavid Iran was a true "empire" in the classic sense or a more unique form of patrimonial state.
+
+Source: adapted from "Safavid dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Safavid_dynasty

@@ -33,3 +33,5 @@ The Antarctic Circle's current latitude is approximately 66°33′51.0″ south,
 
 ## Debates and Open questions
 The source text notes that the exact current latitude of the Antarctic Circle may be slightly inaccurate because the figure does not account for the effects of astronomical nutation, which can be up to 10″.
+
+Source: adapted from "Antarctic Circle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antarctic_Circle

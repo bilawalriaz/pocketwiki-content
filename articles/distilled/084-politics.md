@@ -96,3 +96,5 @@ Political freedom includes negative liberty (freedom from coercion) and positive
 ## Debates and open questions
 
 Scholars debate whether state formation can be generalized: some seek universal theories (voluntary vs. conflict theories), while others argue each case should be treated on its own. The origin of the nation state is contested—some see it as a 19th-century European phenomenon, while others argue it was an inadvertent byproduct of 15th-century intellectual discoveries in political economy and cartography. The extensive vs. limited view of what counts as "political" remains contested, as does the moralism/realism distinction—whether politics is fundamentally about ethics or about power and self-interest.
+
+Source: adapted from "Politics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Politics

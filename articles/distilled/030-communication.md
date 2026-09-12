@@ -89,3 +89,5 @@ Communication history studies how communicative processes evolved with society, 
 - Whether communicative competence is best defined by effectiveness, appropriateness, or both.
 - The precise periodization of communication history into ages is disputed.
 - The extent to which animal communication is programmed into genes (nature) versus learned (nurture).
+
+Source: adapted from "Communication" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Communication

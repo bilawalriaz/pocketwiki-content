@@ -44,3 +44,5 @@ The pattern across these cases is consistent: a reporter or small team uses docu
 ## Costs, risks, and limits
 
 Because each investigation can take a year or more and may require travel, legal review, and secure communications, the total cost often exceeds what a single advertiser-funded newsroom can absorb, which is why nonprofit and cross-border networks now do much of the heavy lifting. The personal cost can be severe: whistleblowers and journalists face legal threats, physical danger, and retaliation. Chin'ono's arrest, and the destruction of Wells-Barnett's press in 1892, show that exposing abuse of power is itself an act that draws pressure from those in power.
+
+Source: adapted from "Investigative journalism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Investigative_journalism

@@ -48,3 +48,5 @@ Beds are the evidence base for the relative-dating principles that underpin stra
 - Law of Cross-Cutting Relationships: any feature that cuts across a bed, such as a fault or an igneous dike (a sheet of magma that intrudes existing rock), must be younger than the bed it cuts.
 
 These four rules let geologists read the order of events in a rock sequence even when no absolute dates are available, which is why an outcrop of tilted beds in the French Alps is read as flat-lying sediments later deformed by mountain building.
+
+Source: adapted from "Bed (geology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bed_%28geology%29

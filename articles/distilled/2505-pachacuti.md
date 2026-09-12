@@ -45,3 +45,5 @@ Pachacuti first named his son Amaru Yupanqui as co-ruler, but later replaced him
 - **Chronology**: His exact reign dates are uncertain. Rowe's standard chronology (1438–1471) is based on colonial sources, but radiocarbon data suggests an earlier start in the early 15th century.
 - **Succession and Co-rule**: The nature of Inca succession is debated. Some historians, like Zuidema, argue for a diarchic system where Pachacuti co-ruled with other figures. The sequence and nature of co-rule with his sons Amaru and Tupac are also contested.
 - **Religious Shift**: It is debated whether Pachacuti replaced the cult of Viracocha with that of Inti, or if the association with Viracocha was a later colonial invention.
+
+Source: adapted from "Pachacuti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pachacuti

@@ -90,3 +90,5 @@ At ~380,000 years (~3000 K), electrons combined with nuclei (**recombination**),
 *   **Cosmological Lithium Problem**: Why does observed ⁷Li abundance fall a factor of ~2 below BBN predictions? Nuclear physics, stellar depletion, or new physics?
 *   **Quantum Gravity / Initial Singularity**: Does a theory of quantum gravity (string theory, loop quantum gravity) resolve the singularity? Did time begin at the Big Bang, or is it emergent?
 *   **Pre-Inflationary Cosmogony**: What, if anything, preceded inflation? Are multiverse, cyclic, or no-boundary proposals testable?
+
+Source: adapted from "Big Bang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Big_Bang

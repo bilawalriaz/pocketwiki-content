@@ -52,3 +52,5 @@ The Shah spent his final months in exile, moving from Egypt to Morocco, the Baha
 - **Causes of the Revolution**: Historians weigh factors like economic inequality, political repression, the Shah's health, clergy opposition, and Ayatollah Khomeini's mobilizing power.
 - **Economic Legacy**: The era saw unprecedented growth, but critics argue it was uneven, fueled by unsustainable oil revenues, and created inflation and social dislocation contributing to the revolution.
 - **Human Rights Record**: The extent and systematic nature of torture and repression under SAVAK remain a central point of condemnation.
+
+Source: adapted from "Mohammad Reza Pahlavi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi

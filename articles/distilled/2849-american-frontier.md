@@ -50,3 +50,5 @@ By 1890, the Census Bureau declared the frontier line closed, as settlement had 
 - **Turner's Thesis**: The Frontier Thesis remains highly debated. Critics argue it oversimplifies history, ignores the experiences of women and minorities, and downplays the role of the federal government and corporations.
 - **New Western History**: Since the 1970s, a "New Western History" has challenged traditional narratives, focusing more on cultural conflict, environmental impact, and the experiences of Native Americans, Hispanics, and other marginalized groups rather than just white expansion.
 - **Violence and Law**: The popular image of the "Wild West" as a place of constant gunfights and lawlessness is contested by historians who point to the prevalence of formal legal systems and relatively low homicide rates in many frontier communities.
+
+Source: adapted from "American frontier" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/American_frontier

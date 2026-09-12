@@ -45,3 +45,5 @@ Brandt's coalition lost its parliamentary majority after 1972 due to defections 
 *   **Effectiveness of *Ostpolitik***: Scholars debate whether the policy of rapprochement hastened the collapse of communism in Eastern Europe by exposing its contradictions or merely legitimized the Eastern Bloc regimes.
 *   **Guillaume Affair**: While the espionage scandal was the immediate trigger for Brandt's resignation, historians agree it was not the fundamental cause. His personal exhaustion, struggles with depression, and the political fallout from the 1973 oil crisis were significant factors.
 *   **US Intelligence Ties**: It was revealed posthumously that Brandt served as a paid informant for the US Counterintelligence Corps from 1948 to 1952, raising questions about the extent of his early Cold War allegiances.
+
+Source: adapted from "Willy Brandt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Willy_Brandt

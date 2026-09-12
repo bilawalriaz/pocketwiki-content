@@ -1,11 +1,11 @@
 # PocketWiki content
 
-Article text and the pack manifest for [PocketWiki](https://github.com/bilawalriaz/pocketwiki-esp32), an offline
+Article text and the pack manifest for [PocketWiki](https://github.com/bilawalriaz/pocketwiki), an offline
 library that runs on an ESP32-C3 or ESP32-S3 board and serves its articles over
 its own Wi-Fi network.
 
 This repository contains no code. The firmware, packer, Android companion app,
-and web tooling live in the [code repository](https://github.com/bilawalriaz/pocketwiki-esp32), and that tooling
+and web tooling live in the [code repository](https://github.com/bilawalriaz/pocketwiki), and that tooling
 reads this checkout to build packs and to embed the built-in archive into the
 firmware.
 
@@ -37,9 +37,9 @@ resolve this checkout at `../pocketwiki-content` by default, or wherever
 `POCKETWIKI_CONTENT_DIR` points.
 
 ```sh
-git clone https://github.com/bilawalriaz/pocketwiki-esp32 pocketwiki-esp32
+git clone https://github.com/bilawalriaz/pocketwiki pocketwiki
 git clone https://github.com/bilawalriaz/pocketwiki-content.git pocketwiki-content
-cd pocketwiki-esp32
+cd pocketwiki
 
 # Build the published catalogue and the device's copy of it.
 python3 tools/build_pack_catalog.py
@@ -55,5 +55,8 @@ offline.
 ## License and attribution
 
 The text in this repository is licensed under CC BY-SA 4.0. See `LICENSE` for
-the full license text and `ATTRIBUTION.md` for provenance, the attribution
-actually carried by the published packs, and the one gap that remains.
+the full license text and `ATTRIBUTION.md` for provenance and for how
+attribution is carried. Every article ends with a footer naming Wikipedia
+contributors, the CC BY-SA 4.0 license, and the source article; the code
+repository's `tools/article_text.py` writes it and
+`tools/finalize_articles.py --check` fails if any article drifts from it.

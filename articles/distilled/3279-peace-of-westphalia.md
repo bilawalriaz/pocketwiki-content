@@ -37,3 +37,5 @@ The treaties made significant territorial changes. France gained bishoprics near
 
 ## Debates and Open Questions
 A major scholarly debate concerns the concept of "Westphalian sovereignty." Some international relations scholars identify the treaties as the origin of modern principles like state sovereignty and non-interference. However, many historians challenge this as the "Westphalian myth," arguing that the treaties' text does not establish these as new international law principles. They contend that the sovereignty discussed was internal to the Holy Roman Empire's constitutional arrangements and that the modern state system emerged later. Regardless of its direct legal impact, the narrative of the Peace of Westphalia has profoundly shaped international political and legal thought for centuries.
+
+Source: adapted from "Peace of Westphalia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peace_of_Westphalia

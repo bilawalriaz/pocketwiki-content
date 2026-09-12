@@ -41,3 +41,5 @@ The opera follows the libertine Don Giovanni. In Act 1, he kills the Commendator
 - The choice of genre is debated; Mozart entered it as an *opera buffa* (comic opera), but its blend of comedy, melodrama, and supernatural horror makes it a unique *dramma giocoso*.
 - The extent of Bertati's influence on Da Ponte's libretto is a point of scholarly discussion.
 - Performance tradition regarding the final ensemble and the choice of arias for certain roles (like Don Ottavio) has varied significantly over time.
+
+Source: adapted from "Don Giovanni" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Don_Giovanni

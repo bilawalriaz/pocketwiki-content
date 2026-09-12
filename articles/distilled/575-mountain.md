@@ -48,3 +48,5 @@ Heights are usually measured from sea level: **Mount Everest** (Himalayas) is hi
 - **Tallest mountain metric**: "Highest" (sea level) vs. "tallest" (base-to-peak) vs. "farthest from Earth’s center" yield different answers (Everest, Mauna Kea, Chimborazo/Huascarán).
 - **Ecological response**: Velocity and direction of species migration under rapid warming; persistence of sky-island endemics.
 - **Water security**: Quantifying future river discharge changes for downstream populations dependent on glacial/snow melt.
+
+Source: adapted from "Mountain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mountain

@@ -75,3 +75,5 @@ From the late 17th to late 19th century, Raphael became the cornerstone of acade
 - **Cause of death**: Vasari cites exhaustion from sexual excess. Modern medical historians propose infectious disease (possibly typhoid or malaria) exacerbated by bloodletting, a standard contemporary treatment.
 - **St. Peter’s architectural design**: Raphael’s plans (mostly lost) are reconstructed from few drawings. Sangallo the Younger criticized them as gloomy ("like an alley"); the extent to which Michelangelo’s later design rejected or adapted Raphael’s intent is debated.
 - **Extent of antiquarian project**: Raphael’s 1519 offer to move an obelisk and his planned archaeological map of Rome were unrealized. The scope and methodology of his proposed visual survey of antiquities are known only from his letter to Leo X and diary entries by Marino Sanuto.
+
+Source: adapted from "Raphael" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Raphael

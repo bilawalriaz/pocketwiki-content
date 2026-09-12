@@ -43,3 +43,5 @@ From the 1980s onward, French cinema saw stylistic waves like *Cinéma du look* 
 ## Debates and Open Questions
 - The source notes a significant decline in France's global film export market share (from 2nd in 2013 to 15th in 2023), raising questions about the industry's future international competitiveness.
 - In 2024, allegations of systemic sexual abuse and cover-ups within the French film industry prompted a parliamentary investigation, indicating an ongoing crisis of governance and ethics.
+
+Source: adapted from "Cinema of France" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cinema_of_France

@@ -48,3 +48,5 @@ The Hejaz is Saudi Arabia's most populated region. Its people, predominantly Sun
 ## Debates and Open Questions
 *   The exact cause of the fall of the Kingdom of Lihyan is unknown; it is debated whether it was conquered by the Nabataeans.
 *   The historical extent of Jewish political sovereignty in northern Hejaz before Islam is a subject of scholarly discussion, with sources like Al-Masudi and Ferdinand Wüstenfeld suggesting it existed.
+
+Source: adapted from "Hejaz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hejaz

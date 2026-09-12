@@ -54,3 +54,5 @@ Tianjin has a comprehensive transport system, including Binhai International Air
 - The origin of the name "Tianjin" remains disputed among scholars, with multiple historical theories.
 - The city's economic development pace has been a point of discussion, noted as slower than that of special economic zones and southeast coastal areas after initial reforms.
 - The long-term impact of the 2015 Tianjin port explosion on the city's port economy and safety regulations is an ongoing subject of analysis.
+
+Source: adapted from "Tianjin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tianjin

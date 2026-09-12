@@ -28,3 +28,5 @@ A value does not need to live in memory. Most instruction sets include one or mo
 Processors usually support several immediate widths (8-bit, 16-bit, and so on), each with its own opcode and mnemonic; a literal that does not fit triggers an "Out of range" assembler error. Most assemblers accept the same literal written as ASCII, decimal, hexadecimal, octal, or binary, so `'A'`, `65`, and `0x41` denote the same byte. Multi-byte strings follow a byte order that depends on the processor and assembler.
 
 A non-immediate operand sits in a register or elsewhere in memory, and the instruction must carry a direct or indirect address (for example, an index-register address) pointing to it. Immediate and addressed operands are the two ways a value physically reaches an executing instruction, and the choice changes both instruction size and how a value can be reused across statements.
+
+Source: adapted from "Value (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Value_%28computer_science%29

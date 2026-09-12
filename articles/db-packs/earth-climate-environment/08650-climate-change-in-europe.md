@@ -19,3 +19,5 @@ In 2021 the European Parliament passed a climate law committing the EU to carbon
 ## Society and culture
 
 Around 90% of Europeans believe their children will experience climate change in daily life, and only 9% of Europeans doubt it is happening, compared with 18% in the United States. Greta Thunberg's school strikes, beginning in Sweden in 2018, and Extinction Rebellion, founded in the UK in 2018, both spread across the continent. National targets vary in ambition: Denmark has legally committed to a 70% emissions cut by 2030, Finland to carbon neutrality by 2035, and the Netherlands to a 49% cut by 2030, while Germany remains Europe's largest coal importer and only phased out nuclear power in 2023.
+
+Source: adapted from "Climate change in Europe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_change_in_Europe

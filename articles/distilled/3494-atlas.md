@@ -40,3 +40,5 @@ Significant historical atlases include Blaeu's *Atlas Maior* (1662–1667) and t
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates. However, it notes a conventional distinction: while Pietro Coppo created the first systematic atlas in the early 16th century, it was unpublished, so the title of "first modern atlas" is conventionally awarded to Abraham Ortelius's published work in 1570.
+
+Source: adapted from "Atlas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atlas

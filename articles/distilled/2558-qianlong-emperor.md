@@ -46,3 +46,5 @@ Qianlong's court viewed foreign states through a tributary lens. The 1793 Macart
 - **Nature of Qing Expansion:** Scholars debate whether Qing expansion under Qianlong was colonial in nature, similar to European imperialism, or a continuation of traditional Inner Asian empire-building.
 - **Macartney Embassy Interpretation:** Older interpretations saw the mission's failure as proof of Chinese arrogance and refusal to modernize. Recent scholarship, using more Qing documents, argues the court acted pragmatically, making calculated promises to avoid conflict with a rising British power.
 - **Qianlong's Legacy:** Historians weigh his achievements in consolidating a multiethnic empire and cultural patronage against the costs of his militarism, censorship, and the corruption that accelerated the Qing's decline.
+
+Source: adapted from "Qianlong Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Qianlong_Emperor

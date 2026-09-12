@@ -60,3 +60,5 @@ The emperor's eldest son and heir, Zhu Biao, died in 1392, creating succession u
 - **Legacy of administrative reforms**: While the abolition of the chancellorship strengthened imperial power, scholars note it weakened long-term governance capacity, creating a tension between autocratic control and effective administration that persisted through the dynasty
 - **Effectiveness of anti-merchant policies**: Despite severe restrictions on trade and merchants, contemporary observers noted that commercial profits far exceeded agricultural income, suggesting the policies failed to suppress market activity
 - **Succession planning**: The decision to bypass his sons in favor of a grandson remains debated—whether it reflected genuine attachment to his heir or a calculated attempt to prevent the military nobility from gaining power through a new emperor's gratitude
+
+Source: adapted from "Hongwu Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hongwu_Emperor

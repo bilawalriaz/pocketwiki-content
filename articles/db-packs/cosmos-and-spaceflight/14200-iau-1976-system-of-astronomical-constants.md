@@ -33,3 +33,5 @@ Two chains illustrate how the table hangs together. Multiplying the speed of lig
 ## Supporting data for ephemerides
 
 The system also tabulated masses of the largest minor planets (Ceres 5.9, Pallas 1.1, Vesta 1.2, all ×10⁻¹⁰ solar masses), the satellite/planet mass ratios needed for the major moons (Io 4.70, Europa 2.56, Ganymede 7.84, Callisto 5.6, all ×10⁻⁵; Titan 2.41 × 10⁻⁴; Triton 2 × 10⁻³), equatorial radii in km (Mercury 2 439, Venus 6 052, Earth 6 378.140, Mars 3 397.2, Jupiter 71 398, Saturn 60 000, Uranus 25 400, Neptune 24 300, Pluto 2 500, Moon 1 738, Sun 696 000), and gravity-field coefficients *J₂, J₃, J₄, C₂₂, S₂₂, S₃₁* for Earth, Mars, Jupiter, Saturn, Uranus, and Neptune, plus a Moon gravity-field block built from the inclination *I* = 5 552.7″, the moment *C/MR²* = 0.392, and Stokes-like coefficients for lunar librations.
+
+Source: adapted from "IAU (1976) System of Astronomical Constants" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/IAU_%281976%29_System_of_Astronomical_Constants

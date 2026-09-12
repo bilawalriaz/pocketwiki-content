@@ -69,3 +69,5 @@ Numerous institutions worldwide bear his name, including Loyola University Maryl
 
 - It is not clear when Íñigo began using the Latin name "Ignatius" instead of his baptismal name; historian Gabriel María Verd argues he did not intend to change his name but adopted what he believed was a simple variant for use in France and Italy.
 - The exact cause of Ignatius' death cannot be established beyond doubt; the autopsy findings suggest possible nephrolithiasis and cholelithiasis (kidney and gall bladder stones), thrombosed haemorrhoids, or a malignant gastro-intestinal growth with metastases, but sixteenth-century protocols are inadequate for a definitive diagnosis.
+
+Source: adapted from "Ignatius of Loyola" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ignatius_of_Loyola

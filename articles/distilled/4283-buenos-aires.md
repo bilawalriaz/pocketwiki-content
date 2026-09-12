@@ -45,3 +45,5 @@ Known as the "Paris of South America," Buenos Aires boasts a vibrant cultural sc
 ## Debates and Open Questions
 - The source notes a historical tension between Buenos Aires' liberal, cosmopolitan identity and the more nationalistic, Catholic views of Argentina's provinces, a conflict that has shaped the country's internal politics since the 19th century.
 - The city's autonomy remains limited compared to the provinces, with federal authorities retaining control over key institutions like the Federal Police and the port, a point of ongoing political negotiation.
+
+Source: adapted from "Buenos Aires" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Buenos_Aires

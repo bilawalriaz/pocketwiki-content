@@ -50,3 +50,5 @@ After resigning, Suharto faced corruption investigations but was never tried due
 - The exact death toll of the 1965-66 anti-communist purge is uncertain, with estimates ranging from 500,000 to over 1 million killed.
 - The extent of the Suharto family's wealth is disputed, with estimates ranging from $15 billion to over $73 billion.
 - Suharto's posthumous designation as a National Hero in 2025 reignited debate over whether his economic achievements should be honored given his record of human rights abuses and corruption.
+
+Source: adapted from "Suharto" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Suharto

@@ -49,3 +49,5 @@ The Americas are a major global economic force. The United States is the world's
 - The exact dates, routes, and number of migrations during the initial peopling of the Americas remain subject to ongoing archaeological and genetic research.
 - The linguistic and ethnic classification of Indigenous American language groups and populations is a complex and debated field.
 - The appropriate terminology for referring to the United States and its citizens in relation to the wider Americas varies by language and cultural context, leading to ongoing discussion.
+
+Source: adapted from "Americas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Americas

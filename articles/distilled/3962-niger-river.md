@@ -38,3 +38,5 @@ The fertile Niger bend region became a center for early agriculture and settleme
 - The origin of the name "Niger" is debated; it may derive from a Berber phrase, a Tuareg name, or a misinterpretation of classical texts.
 - The exact course of the river described by ancient writers like Ptolemy and Pliny is uncertain, with theories linking it to the modern Niger, the Senegal River, or other watercourses.
 - The Niger River's unusual course was a major geographical mystery for centuries, with incorrect theories (like a connection to the Nile or Congo) persisting until the 19th century.
+
+Source: adapted from "Niger River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Niger_River

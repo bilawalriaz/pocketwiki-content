@@ -33,3 +33,5 @@ The majority of scholars place Punt in the Horn of Africa, based on the products
 
 ## Debates and Open Questions
 The primary debate concerns the precise geographical location of Punt. While the Horn of Africa is the leading hypothesis, supported by recent scientific analysis of animal remains, some scholars argue for the Arabian Peninsula. A secondary debate involves the cultural interpretation of *Ta netjer*—whether it implies Punt was viewed as a divine ancestral homeland or simply a distant eastern land rich in temple goods. The exact nature of the relationship between Egypt and Punt, and the ethnic identity of the Puntites, also remain areas of scholarly discussion.
+
+Source: adapted from "Land of Punt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Land_of_Punt

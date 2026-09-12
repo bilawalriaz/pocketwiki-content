@@ -27,3 +27,5 @@ Legal frameworks such as the EU's REACH regulation stretch the everyday meaning 
 Every substance has a systematic IUPAC name and a common name; glucose carries the IUPAC designation 6-(hydroxymethyl)oxane-2,3,4,5-tetrol. The Chemical Abstracts Service assigns a unique registry number to each indexed substance, and as of February 2021 its literature contained roughly 177 million organic and inorganic entries. Computer-readable formats such as SMILES and InChI let software exchange and search structural information reliably.
 
 In industry, "chemical" is used loosely to include mixtures, and pure substances are sorted into bulk (large scale, low cost), fine (smaller scale, higher value), and research (laboratory scale, most expensive) categories, with grades such as technical versus pharmaceutical/USP reflecting how tightly purity is controlled.
+
+Source: adapted from "Substance (chemistry)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Substance_%28chemistry%29

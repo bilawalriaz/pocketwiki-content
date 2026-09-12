@@ -40,3 +40,5 @@ If, in addition, the scaled variance $a_n^{-2}\,\mathrm{var}(X_n) = \mathrm{var}
 $$X_n - E(X_n) = o_p(a_n).$$
 
 The single variance-to-probability step above is what turns a moment bound into a stochastic order.
+
+Source: adapted from "Big O in probability notation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Big_O_in_probability_notation

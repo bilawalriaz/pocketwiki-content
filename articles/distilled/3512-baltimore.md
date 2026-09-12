@@ -41,3 +41,5 @@ The Great Baltimore Fire of 1904 caused massive destruction but led to improved 
 - The long-term impact of Baltimore's status as an independent city on its political representation and economic fortunes is debated, with some arguing it limits state assistance.
 - The effectiveness of urban redevelopment projects like the Inner Harbor in addressing city-wide issues of poverty and inequality remains a topic of discussion.
 - The causes and potential solutions for Baltimore's high violent crime rate, despite recent declines, are subjects of ongoing scholarly and public policy debate.
+
+Source: adapted from "Baltimore" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baltimore

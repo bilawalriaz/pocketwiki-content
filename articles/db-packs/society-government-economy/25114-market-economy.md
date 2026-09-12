@@ -23,3 +23,5 @@ Anglo-Saxon capitalism, typical of the United States, features low taxation, ope
 ## Persistent criticisms
 
 A market economy's dependence on price signals makes it vulnerable to information failures, externalities, and unequal bargaining power. Robin Hahnel and Michael Albert argue that markets inherently produce class division: even if workers start with balanced roles, uneven distribution of conceptual versus manual work gives some greater bargaining power over income, gradually producing a class split between designers and builders, and ultimately between managers and workers.
+
+Source: adapted from "Market economy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Market_economy

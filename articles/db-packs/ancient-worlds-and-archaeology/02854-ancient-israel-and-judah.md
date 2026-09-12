@@ -38,3 +38,5 @@ Israelite religion evolved from Canaanite polytheism through henotheism, the wor
 ## Core Debates
 
 Four questions remain open. First, whether the United Monarchy was a real centralized state or a later idealization of a smaller chiefdom. Second, whether Israelites emerged purely from Canaanites or included outside groups, possibly including Egyptian refugees. Third, the demographic impact of the Babylonian Exile: some scholars argue for severe population collapse, others for substantial continuity among those who remained. Fourth, the exact timeline by which henotheism became strict monotheism.
+
+Source: adapted from "Ancient Israel and Judah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Israel_and_Judah

@@ -50,3 +50,5 @@ The state is a major center for several religions. It hosts key Hindu pilgrimage
 - The proposal to split Uttar Pradesh into four smaller states (Purvanchal, Bundelkhand, Avadh Pradesh, and Paschim Pradesh) was announced in 2011 but later dropped, indicating ongoing debate about administrative reorganization.
 - The state's poor record in economic development, governance, and human development indices (HDI) despite its political influence is a persistent issue.
 - The demolition of the Babri Mosque in Ayodhya in 1992 and the subsequent legal and social conflicts highlight enduring communal tensions.
+
+Source: adapted from "Uttar Pradesh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Uttar_Pradesh

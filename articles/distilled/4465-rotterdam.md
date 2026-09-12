@@ -51,3 +51,5 @@ Rotterdam calls itself "Sportstad" (City of Sports). It is home to three profess
 
 ## Debates and Open Questions
 The source notes the "healthy competition" and rivalry with Amsterdam, often summarized by sayings like "Amsterdam has it, Rotterdam doesn't need it." This reflects a persistent cultural and economic dialogue between the two major Dutch cities about their respective identities and roles.
+
+Source: adapted from "Rotterdam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rotterdam

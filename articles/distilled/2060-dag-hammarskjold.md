@@ -43,3 +43,5 @@ Hammarskjöld died in a plane crash while en route to negotiate a ceasefire in t
 *   **The Congo Crisis:** Scholars debate whether Hammarskjöld's actions were a principled defense of UN neutrality or a politically biased intervention that undermined a sovereign government. His legacy in the Third World remains extremely controversial.
 *   **Cause of Death:** The circumstances of the 1961 plane crash are unresolved. Evidence points to possible sabotage or shooting down, but no definitive conclusion has been reached. Investigations continue to examine new evidence and theories.
 *   **Neutrality:** Declassified documents have fueled debate about the extent of Hammarskjöld's political neutrality, particularly regarding his private communications with Western powers during the Congo Crisis.
+
+Source: adapted from "Dag Hammarskjöld" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld

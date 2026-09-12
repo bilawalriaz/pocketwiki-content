@@ -74,3 +74,5 @@ Nirvana brought alternative rock to the mainstream; AllMusic's Stephen Thomas Er
 - **Courtney Love vs. surviving members (1997–2002)**: Love sued to dissolve Nirvana LLC, claiming Cobain *was* Nirvana and the others were sidemen; settled days before trial in 2002.
 - **"Voice of a generation" label**: Media applied this to Cobain posthumously; he explicitly rejected it during his lifetime.
 - **Band's musical evolution**: Cobain expressed boredom with the quiet/loud formula near his death but doubted the band's technical ability to explore new dynamics.
+
+Source: adapted from "Nirvana (band)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nirvana_%28band%29

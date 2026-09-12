@@ -27,3 +27,5 @@ Emotion is organized in the limbic system, a group of brain structures including
 ## Disciplinary Views and Memory
 
 Sociology treats emotion through cultural labels, physiological change, expressive movement, and appraisal. The history of emotions treats it as an essential analytical category, with research in transgenerational trauma suggesting some traumatic emotions can pass across generations. Computer science addresses emotion through affective computing, originating with Rosalind Picard's 1995 paper, designing systems that recognize and interpret human feeling. Emotion also shapes autobiographical memory: emotional events are encoded more strongly, reactivated more often, and remembered more vividly, feeding back into self-perception.
+
+Source: adapted from "Emotion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emotion

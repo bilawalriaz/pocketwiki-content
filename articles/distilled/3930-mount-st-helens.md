@@ -41,3 +41,5 @@ The volcano is sacred to the Cowlitz, Klickitat, and Yakama tribes, who know it 
 - The exact configuration and interaction of the two magma chambers beneath the volcano, and whether the lower chamber is shared with Mount Adams, are subjects of ongoing study.
 - The potential scale and impact of future eruptions are uncertain, though they are predicted to be more destructive than 1980 due to the current dome structure.
 - The long-term ecological recovery and the full role of biological legacies in the post-1980 landscape continue to be researched.
+
+Source: adapted from "Mount St. Helens" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_St._Helens

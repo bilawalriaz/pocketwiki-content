@@ -45,3 +45,5 @@ Greece has a developed, high-income economy driven by services (85%), particular
 - The interpretation of early human remains from the Apidima Cave (dated to 200,000 years ago) is debated, with some scholars suggesting they represent archaic humans rather than early modern humans.
 - The extent of decline, fragmentation, and depopulation in Greece during the early Byzantine period (4th–7th centuries) is considered outdated by some historians, who point to evidence of institutional continuity and prosperity.
 - The causes and handling of the Greek government-debt crisis (2010–2018) remain contentious, with debates focusing on the roles of domestic fiscal mismanagement, the design of the eurozone, and the severity of imposed austerity measures.
+
+Source: adapted from "Greece" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Greece

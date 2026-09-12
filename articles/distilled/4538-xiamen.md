@@ -45,3 +45,5 @@ Xiamen's culture is rooted in Hokkien (Southern Min) traditions, including the g
 ## Debates and Open Questions
 - The source notes the historical debate over the identity of the "Japanese" pirates who attacked the coast in 1387, stating many were actually disaffected Chinese.
 - The city's name has undergone multiple changes reflecting political shifts (e.g., Ming loyalty, Qing administration, Republic era), illustrating how toponyms can embody historical narratives.
+
+Source: adapted from "Xiamen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Xiamen

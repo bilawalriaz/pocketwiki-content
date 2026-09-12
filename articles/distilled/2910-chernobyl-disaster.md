@@ -46,3 +46,5 @@ The accident profoundly impacted global nuclear policy, leading to a decline in 
 - **Long-Term Health Effects**: The precise number of attributable cancer deaths is highly debated, with estimates ranging from a few thousand to tens of thousands.
 - **Fate of the Corium**: The long-term stability of the "Elephant's Foot" and other corium is uncertain, with concerns about potential radioactive release over centuries.
 - **Criticality Risk**: Observations of increasing neutron density suggest ongoing low-level fission reactions. The potential for a self-sustaining reaction remains a concern for future cleanup.
+
+Source: adapted from "Chernobyl disaster" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chernobyl_disaster

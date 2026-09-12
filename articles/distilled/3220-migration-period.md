@@ -46,3 +46,5 @@ Terminology reflects differing perspectives: German and Slavic scholars often us
 - **Scale of Migration**: Estimates for the size of migrating groups vary widely, and the total demographic impact is debated.
 - **Nature of Identity**: Were "barbarian" tribes coherent ethnic groups with a shared identity, or fluid political constructs?
 - **Historiographical Perspective**: Is the period best understood as a destructive "invasion" or a transformative "migration" and settlement process?
+
+Source: adapted from "Migration Period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Migration_Period

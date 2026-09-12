@@ -39,3 +39,5 @@ Following independence in the 1950s and 1960s, African literature expanded drama
 
 ## Debates and Open questions
 The source highlights ongoing scholarly discussions about the definition and scope of African literature. A central debate concerns whether literature should be defined by a separation of art from content (a European view) or an inclusive approach where art serves social and communicative purposes (a traditional African view). The scale and diversity of pre-colonial written production, such as the manuscripts of Timbuktu and the Horn of Africa, continue to be documented, challenging earlier narratives that emphasized orality alone.
+
+Source: adapted from "African literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/African_literature

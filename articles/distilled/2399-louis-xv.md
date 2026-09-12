@@ -47,3 +47,5 @@ The final years saw the brief, conservative government of the Triumvirate, which
 - **Role of Mistresses**: To what extent did his mistresses, particularly Madame de Pompadour, influence policy and contribute to ministerial instability and military failures?
 - **Economic Policies**: Were his economic policies, such as the liberalization of the grain trade, a cause of social unrest, or were they sound reforms undermined by poor harvests and political opposition?
 - **Conflict with Parlements**: Was the struggle with the Parlements a fundamental constitutional crisis over sovereignty, or primarily a fiscal and administrative conflict?
+
+Source: adapted from "Louis XV" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_XV

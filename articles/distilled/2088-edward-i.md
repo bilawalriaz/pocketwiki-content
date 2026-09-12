@@ -50,3 +50,5 @@ Edward used Ireland primarily as a source of revenue and soldiers for his wars, 
 
 ## Debates and Open Questions
 Historians debate Edward's character and legacy. Some, like Michael Prestwich, view him as a formidable and great king who met the standards of his time, while others, like G. W. S. Barrow, see him as a ruthless opportunist who created lasting antagonism, especially in Scotland. Welsh and Irish historians, such as R. R. Davies and James Lydon, emphasize the colonial and destructive nature of his policies in those countries. There is also significant debate over his antisemitism, with scholars like Robert Stacey arguing he pioneered state-sponsored antisemitism in England. Finally, his use of Parliament is contested: was he a collaborative constitutional reformer or an autocrat using Parliament as a tool to check baronial power?
+
+Source: adapted from "Edward I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edward_I

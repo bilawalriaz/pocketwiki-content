@@ -37,3 +37,5 @@ Humans have long tried to steer the weather. Cloud seeding has been used to disp
 ## Weather beyond Earth
 
 The same physics operates elsewhere, but results depend on each world's atmosphere. Jupiter's Great Red Spot is an anticyclonic storm, a high-pressure system with descending air at its centre, that has persisted for at least 300 years. Neptune, which receives about 1/900 as much solar energy as Earth, hosts winds gusting to roughly 600 metres per second, a contrast that still puzzles planetary scientists. On Titan, the Cassini–Huygens mission found clouds of methane and ethane that rain liquid methane and other organic compounds onto the surface. Above the planets, space weather, driven by the solar wind and coronal mass ejections, generates aurorae and can disrupt satellites and power grids.
+
+Source: adapted from "Weather" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Weather

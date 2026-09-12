@@ -47,3 +47,5 @@ Plutarch’s impact on European literature is profound. Jacques Amyot’s French
 - **Galba and Otho**: Whether these surviving imperial lives form a single diptych separate from the *Parallel Lives* canon, and whether they were published under the Flavians or Nerva.
 - **Vegetarianism**: Duration and strictness of Plutarch’s abstention from meat are unclear from the two *Moralia* discourses.
 - **Lost works**: Twelve additional *Lives* and numerous *Moralia* treatises are known only by title or fragment; the original ending comparisons for all *Parallel Lives* pairs are missing (only 19 survive).
+
+Source: adapted from "Plutarch" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plutarch

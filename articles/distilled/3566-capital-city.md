@@ -46,3 +46,5 @@ Capitals are powerful symbols of the state. Their selection can be highly symbol
 - The final status of Jerusalem is a major point of contention, with most countries considering it unsettled pending negotiations.
 - The legal status of capitals is debated in some countries; for example, the Portuguese constitution does not mention Lisbon as the capital.
 - The effectiveness of relocating capitals (e.g., Myanmar to Naypyidaw, Kazakhstan to Astana) for political or economic goals is an ongoing discussion.
+
+Source: adapted from "Capital city" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Capital_city

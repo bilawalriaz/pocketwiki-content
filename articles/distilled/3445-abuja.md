@@ -46,3 +46,5 @@ Abuja is served by Nnamdi Azikiwe International Airport and a network of federal
 - The relocation of the capital from Lagos to Abuja was highly controversial, with significant opposition led by Yoruba politician Obafemi Awolowo.
 - The city's rapid growth has led to challenges, including the spread of squatter settlements and large-scale evictions and demolitions, such as the campaign that began in 2003.
 - The government's plans for newer districts like Maitama II, created in 2018 from Mpape Hills, are not fully clear, and the process involved revoking plots from previous allottees.
+
+Source: adapted from "Abuja" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abuja

@@ -51,3 +51,5 @@ The city is administered by the Bruhat Bengaluru Mahanagara Palike (BBMP), which
 - **Etymology of "Bengaluru"**: The origin of the name is debated. Theories include a derivation from "benda-kāl-ūru" (town of boiled beans), from "benga" (the Kannada term for the Indian Kino Tree), or from local temples or stones.
 - **Urban Governance and Infrastructure**: The city grapples with challenges from its rapid, often unplanned growth, including severe traffic congestion, inadequate public transport, water scarcity, and waste management problems. The recent administrative restructuring into multiple corporations is a response to these governance challenges.
 - **Cultural and Linguistic Identity**: As a cosmopolitan city with a large migrant population, there are ongoing debates and occasional controversies regarding the use of Kannada versus English and other languages in public signage, education, and administration.
+
+Source: adapted from "Bengaluru" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bengaluru

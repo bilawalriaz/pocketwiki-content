@@ -47,3 +47,5 @@ Nurhaci died without a clear heir, encouraging rule by his senior sons (beiles).
 - **Treatment of Han subjects**: Scholars analyze the shift in Nurhaci's policies from initial concessions to discrimination after the 1623 revolt, reflecting challenges in governing a multi-ethnic state.
 - **Name origins**: The meaning of "Nurhaci" is uncertain, with suggestions ranging from "wild boar skin" to "brave person."
 - **Historical sources**: Primary sources like the Manchu Veritable Records are propagandistic, while Korean records (e.g., Veritable Records of the Joseon Dynasty) provide contemporary accounts but may have their own biases.
+
+Source: adapted from "Nurhaci" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nurhaci

@@ -56,3 +56,5 @@ In Jamaica, Garvey founded the People's Political Party but faced legal and fina
 - **Views on Africa and Africans**: Garvey's vision for Africa has been criticized as paternalistic and ignorant of the continent's diverse cultures, as he never visited and promoted a model based on Western imperialism.
 - **Relationship with W.E.B. Du Bois**: The bitter rivalry between Garvey and Du Bois symbolizes the historical tension between black nationalist separatism and integrationist civil rights strategies.
 - **Pardon and Historical Legacy**: The 2025 posthumous pardon by President Biden reignites debate about the validity of his original conviction and seeks to formally rectify a historical injustice against a civil rights leader.
+
+Source: adapted from "Marcus Garvey" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marcus_Garvey

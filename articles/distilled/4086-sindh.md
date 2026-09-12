@@ -45,3 +45,5 @@ Sindh had a population of 55.7 million in the 2023 census. Muslims constitute 90
 - The precise location and extent of the ancient Achaemenid satrapy of "Hindush" is debated, with some scholars placing it in Sindh and others in the Punjab.
 - The causes of the decline and abandonment of Mohenjo-daro and the Indus Valley Civilization are not fully settled, with theories including climate change, river shifts, and invasion.
 - The exact delineations of territory and power between the Soomra dynasty and contemporary Ghaznavid/Ghurid rulers in 11th-12th century Sindh are not yet fully known.
+
+Source: adapted from "Sindh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sindh

@@ -48,3 +48,5 @@ Instruments include the sitar, sarod, and tabla (Hindustani); and the veena, mri
 
 ## Debates and Open Questions
 The nature and extent of Persian and Arabian musical influence on Hindustani music is debated. Some scholars, like the 16th-century Pundarika Vittala, argued that Persian maqams derived from older Indian ragas. Others, like Haidar Rizvi (1941), suggested the influence was in the opposite direction. Modern ethnomusicology suggests the traffic of musical ideas was likely bidirectional.
+
+Source: adapted from "Indian classical music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indian_classical_music

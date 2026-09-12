@@ -41,3 +41,5 @@ A US-brokered peace deal in June 2025 required Rwandan troops to withdraw within
 The 2006 constitution creates a semi-presidential republic, but Freedom House rates the country "Not Free," the Economist Democracy Index places it 156th of 167, and the Corruption Perceptions Index ranks it 163rd of 180. The army, officially 134,000 strong, is crippled by low pay, divided loyalties from integrating former rebels, and broken logistics. Sexual violence is routinely used as a weapon in the east, and child labour in mines is widespread. About 43.5% of children are stunted.
 
 The population grew from 12.2 million in 1950 to about 124 million in 2024 and speaks 242 living languages. French is the official language, spoken by about 74%; Lingala is the army's working language. Christianity is practised by an estimated 93–96% of citizens, and the Catholic Church runs more than 60% of primary schools.
+
+Source: adapted from "Democratic Republic of the Congo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo

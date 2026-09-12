@@ -103,3 +103,5 @@ Beyond transmission, scholars argue the Quran was **composed orally**. Formulaic
 4. **Presentist vs. cosmological function**: Do oral traditions primarily reflect current social/political needs (functionalist) or encode mythological structures (structuralist)? Miller’s synthesis: analyze discrepancies as historical signals.
 5. **Insider vs. outsider interpretation**: Should historiography prioritize the *emic* perspective of the oral performer (folklorist view) or the *etic* analysis of institutional patterns (Africanist view)?
 6. **Written-formulaic continuum**: How to classify texts (e.g., Anglo-Saxon poetry) that are written but bear dense oral formulaic traits? Benson’s concept challenges the oral/literate binary.
+
+Source: adapted from "Oral tradition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oral_tradition

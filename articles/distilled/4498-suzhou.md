@@ -45,3 +45,5 @@ Suzhou is the origin of Kunqu opera and Suzhou pingtan (storytelling). It is his
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes the traditional account of the Zhou lord Taibo establishing the state of Wu in the 11th century BC, which is a historical narrative rather than a confirmed archaeological fact. The precise origins and early development of the city are subjects of ongoing historical and archaeological research.
+
+Source: adapted from "Suzhou" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Suzhou

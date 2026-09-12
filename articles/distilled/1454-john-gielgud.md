@@ -66,3 +66,5 @@ State honours: Knight Bachelor (1953), Légion d’Honneur (1960), Companion of 
 - **Reluctance toward film before the 1960s**: Gielgud later called his early dismissal of cinema “stupid”; historians weigh how much this cost him artistically versus preserving his stage primacy.
 - **Legacy of the Queen’s Theatre company**: Though short‑lived and unprofitable, it is cited as a model for the later National Theatre and Royal Shakespeare Company; the extent of its direct influence remains a topic of theatre‑historical discussion.
 - **Private vs. public advocacy for gay rights**: Gielgud donated privately to campaign groups but refused public endorsement; biographers differ on whether this reflects caution, generational reticence, or a belief that his art spoke sufficiently.
+
+Source: adapted from "John Gielgud" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Gielgud

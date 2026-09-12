@@ -49,3 +49,5 @@ Centuries of rivalry with Rome over trade and territory led to the three Punic W
 - **Political Evolution**: The exact timing and nature of Carthage's transition from a monarchy to an oligarchic republic are unclear, with evidence pointing to reforms in the 6th or 7th century BC.
 - **Nature of the Empire**: The degree of direct control Carthage exerted over its territories is uncertain. Its empire was likely a hegemonic network of treaties, alliances, and tributary relationships rather than a centralized state.
 - **Citizenship**: The criteria for Carthaginian citizenship and the political rights of different social classes, including Libyans and other subject peoples, are not well understood.
+
+Source: adapted from "Ancient Carthage" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Carthage

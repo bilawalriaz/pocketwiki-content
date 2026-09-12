@@ -45,3 +45,5 @@ Poverty is widely treated as a human-rights violation, and environmental-justice
 ## Open Debates
 
 Whether $1.90/day is too low remains contested, as does whether wealthy nations should track absolute or relative measures. The poverty-reducing effect of neoliberal reform varies by region, and disagreement persists over how much technology and globalisation can substitute for structural change. Cultural values may shape economic behaviour, but opportunity structures explain most outcomes. Cash transfers appear more effective than in-kind aid despite political resistance, and debt relief and land reform have strong advocates but uncertain feasibility.
+
+Source: adapted from "Poverty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Poverty

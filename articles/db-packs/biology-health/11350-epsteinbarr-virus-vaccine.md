@@ -7,3 +7,5 @@ The central difficulty is that EBV looks like a different virus at different sta
 Earlier work explored other strategies. Trials of gp350-based vaccines ran in 2006–2008. MVA-EL was proposed for EBV-positive cancers rather than prevention of infection. Virus-like particle (VLP) vaccines, which are empty shells that mimic the virus without containing genetic material, are also under investigation. Antiviral drugs that block viral DNA replication have shown little effectiveness against EBV, are costly, drive resistance, and produce side effects in 1–10% of patients.
 
 In April 2018 researchers described AMMO1, the first human antibody shown to neutralize EBV. AMMO1 binds gH/gL and blocks infection of both B cells and epithelial cells, defining new vulnerability on the virus. Phase I trials of mRNA-1189 began on 5 January 2022 and Phase I trials of mRNA-1195 began in early 2023.
+
+Source: adapted from "Epstein–Barr virus vaccine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus_vaccine

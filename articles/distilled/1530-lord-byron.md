@@ -82,3 +82,5 @@ Byron’s wife coined "Byromania" for the public frenzy surrounding him. He cura
 *   **Vaccine scepticism:** *English Bards* mocks the cowpox vaccine alongside quackery (tractors, galvanism), yet Byron privately had his protégé Robert Rushton inoculated, suggesting public satire vs. private pragmatism.
 *   **Impact on Greek Independence:** Historian David Brewer argues Byron failed militarily and politically to unite Greek factions, succeeding only in humanitarian aid. Conversely, his death galvanized international support (Philhellenism), arguably altering the war’s diplomatic trajectory.
 *   **Suppression of Memoirs:** One month after Byron’s death, Moore, Hobhouse, and publisher John Murray burned his *Memoirs* to protect reputations. The Murray archive subsequently suppressed details of his bisexuality until the mid-20th century, distorting biographical scholarship for over a century.
+
+Source: adapted from "Lord Byron" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lord_Byron

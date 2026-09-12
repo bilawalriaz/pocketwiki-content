@@ -42,3 +42,5 @@ The area is rich in biodiversity. The spray from the falls nurtures a unique rai
 - The precise timing of the falls' formation and the number of past fall positions are subjects of geological study.
 - The impact of climate change on the falls' long-term viability and World Heritage status is a major concern, sparking debate between tourism industries and environmentalists.
 - The extent to which historical figures like the Portuguese priest Gonçalo da Silveira may have seen the falls before Livingstone is debated.
+
+Source: adapted from "Victoria Falls" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Victoria_Falls

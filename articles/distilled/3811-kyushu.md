@@ -45,3 +45,5 @@ Kyushu maintains deep cultural and economic ties with Okinawa, evident in shared
 ## Debates and Open Questions
 - The theory that ancient Kyushu was home to an independent dynasty with a culture distinct from Honshu is presented as a theory, not established fact.
 - The precise nature and extent of cultural exchange between Kyushu and the Ryukyu Islands throughout history is a subject of ongoing scholarly interest, as evidenced by the hybrid characteristics of instruments like the gottan.
+
+Source: adapted from "Kyushu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kyushu

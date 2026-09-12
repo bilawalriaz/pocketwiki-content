@@ -48,3 +48,5 @@ The population is predominantly Arab and Berber Muslim. Historically, Casablanca
 - The origin of the name "Casablanca" is unclear, with legends involving a white-washed structure or a Sufi saint, but no definitive explanation.
 - The human cost of the 1907 French bombardment is debated, with estimates of Moroccan casualties ranging from 600 to as high as 15,000 dead and wounded.
 - The death toll from the 1981 Bread Riots is disputed, with the government reporting 66 killed and opposition figures claiming over 600.
+
+Source: adapted from "Casablanca" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Casablanca

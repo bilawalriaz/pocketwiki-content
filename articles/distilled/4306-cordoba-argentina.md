@@ -43,3 +43,5 @@ Córdoba's population is largely of Italian and Spanish descent, with significan
 
 ## Debates and Open Questions
 The source notes that the exact reason for the 2006 mass duck die-off in the Isla de los Patos is uncertain, with pollution and avian influenza both investigated as possible causes. The article also mentions that the high-speed rail project between Buenos Aires and Córdoba was cancelled in 2012, with the French company Alstom admitting to paying bribes, highlighting issues of corruption in large infrastructure projects.
+
+Source: adapted from "Córdoba, Argentina" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/C%C3%B3rdoba%2C_Argentina

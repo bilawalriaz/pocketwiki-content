@@ -25,3 +25,5 @@ Water levels are a second pressure point. Because 80% of inflow is rain and the 
 ## Open questions
 
 Three points remain unresolved. The exact origin of the first Nile perch introductions in the 1950s is disputed; circumstantial evidence points to the Uganda Game and Fisheries Department, which has denied involvement. The ultimate headwater of the Nile is also debated: although Lake Victoria is the principal source of the White Nile, the most distant tributary is generally considered a stream feeding the Kagera River in Rwanda or Burundi. Finally, the net ecological impact of the water hyacinth is not fully understood, because the mats that suffocate native fish and disrupt power generation can also create refuges for some species under heavy fishing pressure.
+
+Source: adapted from "Lake Victoria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Victoria

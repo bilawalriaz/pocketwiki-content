@@ -48,3 +48,5 @@ Spencer was the most famous intellectual of the late Victorian era, selling over
 
 ## Debates and Open Questions
 Scholars continue to debate whether Spencer was truly a Social Darwinist or whether this label misrepresents his actual sociological theory, which focused on structural differentiation rather than competitive elimination. His political evolution—from radical individualist to conservative statist—remains contentious, with some arguing it reflects genuine intellectual development and others seeing opportunistic adaptation. The relationship between his agnosticism and residual deism creates ongoing interpretive challenges. Contemporary libertarians claim him as a predecessor, while critics argue his later conservatism undermines this legacy. His influence on non-Western modernization movements, particularly in China and Japan, raises questions about the global circulation of liberal ideas.
+
+Source: adapted from "Herbert Spencer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Herbert_Spencer

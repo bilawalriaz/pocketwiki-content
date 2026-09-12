@@ -47,3 +47,5 @@ Since the 2010s, rock has ceded its mainstream dominance to hip-hop and electron
 
 ## Debates and Open Questions  
 The definition and boundaries of rock music remain contested. Scholars debate whether rock can be rigidly defined given its eclecticism and constant borrowing from other genres. The extent of Black influence on rock, particularly in its early years, is acknowledged but often underrecognized in mainstream narratives. The role of rock as a vehicle for authenticity versus commercialization continues to be debated, especially as the genre loses mainstream relevance in the streaming era. Additionally, discussions persist about gender representation in rock, with critiques of male dominance and calls for greater inclusion of women and non-binary artists.
+
+Source: adapted from "Rock music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rock_music

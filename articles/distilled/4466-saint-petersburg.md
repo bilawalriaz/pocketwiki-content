@@ -34,3 +34,5 @@ Following the 1991 referendum, the city regained its original name. The post-Sov
 
 ## Debates and Open Questions
 The article highlights ongoing tension between preserving Saint Petersburg's historic architectural ensemble and allowing modern development. A key controversy was the proposed Okhta Center skyscraper, which was ultimately relocated to Lakhta after public outcry and UNESCO concerns. The demolition of older buildings in the historic center since 2005 remains a point of contention for preservationists.
+
+Source: adapted from "Saint Petersburg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saint_Petersburg

@@ -40,3 +40,5 @@ In 1428, Lê Lợi became emperor, restoring Đại Việt and renaming the capi
 - The ethnic origin of Lê Lợi's family is debated, with hypotheses suggesting Mường ancestry, though recent genealogical studies confirm his Kinh (Vietnamese) ethnicity.
 - The extent of popular support for the Ming colonial administration, particularly in the capital Thăng Long, versus the widespread resistance in the countryside.
 - The precise catalyst for Lê Lợi's 1418 uprising, with sources noting both the broader colonial oppression and a specific incident involving the abduction of his daughter by a Ming eunuch.
+
+Source: adapted from "Lê Lợi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/L%C3%AA_L%E1%BB%A3i

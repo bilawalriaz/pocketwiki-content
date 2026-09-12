@@ -41,3 +41,5 @@ Barranquilla is located on the west bank of the Magdalena River, 7.5 km from the
 
 ## Debates and Open Questions
 The exact origins of the settlement are debated. While traditionally dated to 1629, some historians argue it was founded by farmers from the neighboring town of Galapa. The city's decline in the mid-20th century is attributed to widespread corruption in local administrations and a subsequent lack of investment compared to other Colombian cities.
+
+Source: adapted from "Barranquilla" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Barranquilla

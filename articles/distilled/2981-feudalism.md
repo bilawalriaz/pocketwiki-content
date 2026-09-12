@@ -45,3 +45,5 @@ The concept of feudalism is a modern construct. Enlightenment writers used it to
 - **Usefulness of the Concept**: Since Brown (1974) and Reynolds (1994), there is ongoing debate whether "feudalism" is a valid analytical tool or an anachronistic construct that imposes false uniformity on diverse medieval practices.
 - **Definition Scope**: Scholars disagree on whether feudalism should be defined narrowly (Ganshof: nobility only) or broadly (Bloch: entire society including peasantry and clergy).
 - **Origins and Applicability**: The precise origins of feudal institutions are unclear. The term's application outside Europe (e.g., to Japan, Ethiopia, or the American South) is frequently questioned as potentially misleading.
+
+Source: adapted from "Feudalism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Feudalism

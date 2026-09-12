@@ -28,3 +28,5 @@ Major movements cluster by phase, though artists worked across boundaries and st
 ## Scope beyond the Western canon
 
 Art movements are not a European invention. Asia has long-standing traditions (Chinese, Japanese, Korean, Indian, Southeast Asian) organised by dynasty, region, and religion (Buddhist, Hindu, Islamic, Taoist). Africa, the Americas, and Oceania have their own named traditions (Egyptian, Igbo, Yoruba, Benin, Maya, Inuit, Hawaiian, Australian Aboriginal) and are also classified by technique (painting, sculpture, architecture, photography, digital art) and by type (abstract, figurative, narrative, naturalist). The term covers a Renaissance school, a 19th-century national romantic style, a manifesto-driven 20th-century avant-garde, and a 21st-century digital collective, all sharing a recognisable tendency tied to a time, a place, or a shared idea.
+
+Source: adapted from "Art movement" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Art_movement

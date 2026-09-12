@@ -38,3 +38,5 @@ Röntgen received numerous awards, including the Rumford Medal (1896) and the fi
 
 ## Debates and Open Questions
 The source text does not detail significant scholarly debates about Röntgen's life or work. It notes his discovery was made while repeating experiments with apparatus from other physicists like Hertz, Hittorf, Crookes, Tesla, and Lenard, placing it within a broader context of cathode ray research.
+
+Source: adapted from "Wilhelm Röntgen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen

@@ -42,3 +42,5 @@ After the Persian conquest, "Chaldean" lost its meaning as an ethnic or geograph
 *   The precise location and original extent of the Chaldean homeland, particularly the territory of Bit Yâkin, is not known precisely.
 *   The ethnic identity of later rulers like Neriglissar and Labashi-Marduk is unclear; they may have been native Babylonians rather than ethnic Chaldeans.
 *   The modern use of "Chaldean" to denote a separate ethnicity from Assyrians is a point of contention. Historians and international organizations generally treat Chaldeans as ethnic Assyrians, based on genetic, linguistic, and historical factors, while some activists advocate for a distinct identity.
+
+Source: adapted from "Chaldea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chaldea

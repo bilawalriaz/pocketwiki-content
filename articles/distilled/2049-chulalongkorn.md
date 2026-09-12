@@ -47,3 +47,5 @@ The king introduced Western-inspired civic infrastructure, including railways (f
 *   The extent to which Chulalongkorn's reforms were a direct response to Western pressure versus an internal drive for modernization is a point of analysis.
 *   The effectiveness and human cost of crushing the early 20th-century rebellions against the *Monthon* system are subjects of historical study.
 *   The long-term impact of the territorial concessions to Britain and France on Siam's national identity and foreign policy continues to be examined.
+
+Source: adapted from "Chulalongkorn" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chulalongkorn

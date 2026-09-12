@@ -48,3 +48,5 @@ Renaissance writers like Edmund Spenser framed sadness as a sign of spiritual de
 
 ## Debates and Open Questions  
 There is ongoing debate about whether sadness should always be pathologized or treated, versus accepted as a natural response to loss. Some scholars question if cultural differences in expressing sadness reflect distinct emotional realities or merely varied display rules. The extent to which pupil mirroring directly influences empathy remains under investigation. Additionally, while vocal recognition of sadness shows cross-cultural consistency, discrepancies between Western and non-Western accuracy rates suggest potential biases in current models.
+
+Source: adapted from "Sadness" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sadness

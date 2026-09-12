@@ -42,3 +42,5 @@ Gilbert’s posthumous *De Mundo* (1651) proposed a new natural philosophy, poss
 - **Gilbert’s influence on Galileo**: Some note Gilbert argued for Earth’s rotation 20 years before Galileo, though Copernicus stated it earlier.
 - **Authorship of *De Mundo***: It is unclear whether Gilbert’s brother or John Gruter edited the posthumous work.
 - **Cause of death**: Gilbert likely died of bubonic plague, but this is not certain.
+
+Source: adapted from "William Gilbert (physicist)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Gilbert_%28physicist%29

@@ -40,3 +40,5 @@ Kao joined the Chinese University of Hong Kong in 1970 to establish its electron
 
 ## Debates and Open Questions
 The source notes that Kao's initial proposal that glass fibres could replace copper wires for long-distance communication was "widely disbelieved" at the time. The primary scholarly debate was over the cause of high light loss in fibres—whether it was a fundamental physical limit or due to removable impurities. Kao's work conclusively argued for the latter, shifting the research focus to material purity.
+
+Source: adapted from "Charles K. Kao" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_K._Kao

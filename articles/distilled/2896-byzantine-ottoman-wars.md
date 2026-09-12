@@ -48,3 +48,5 @@ The Byzantines were undermined by constant civil wars, crushing taxes that alien
 *   The degree to which the Byzantine civil wars (especially 1341–1371) were the primary cause of the empire's collapse versus other factors like Ottoman military superiority or Latin interference.
 *   The extent to which the failure of Western Europe to provide substantial military aid was due to political disunity, religious schism, or competing priorities like the Hundred Years' War.
 *   The role of the Anatolian peasantry's perceived preference for Ottoman rule over Byzantine taxation in facilitating the early Ottoman conquests.
+
+Source: adapted from "Byzantine–Ottoman wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Byzantine%E2%80%93Ottoman_wars

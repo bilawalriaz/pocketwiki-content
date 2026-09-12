@@ -43,3 +43,5 @@ Humayun's second reign was brief. In January 1556, he died after falling down th
 ## Debates and Open Questions
 - Historians debate whether Humayun's difficulties were primarily due to his personal character flaws (e.g., indecisiveness, opium use) or were structural consequences of the Timurid appanage system, which institutionalized succession conflicts.
 - The significance of Humayun's Persian exile is reassessed: was it a passive period of refuge or an active and substantive transmission of Persian culture that fundamentally shaped the Mughal court's identity?
+
+Source: adapted from "Humayun" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Humayun

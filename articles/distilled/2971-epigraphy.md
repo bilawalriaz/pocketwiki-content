@@ -56,3 +56,5 @@ Sanskrit epigraphy traces the language's use from the 1st century BCE in Brahmi 
 
 ## Debates and Open Questions
 The source notes that the German discipline of *Sinnbildforschung* (ideography) was "dismissed as being highly ideological" after the Third Reich. A recurring interpretive challenge is determining whether an artist's signature on a statue refers to the original creator or a later copyist.
+
+Source: adapted from "Epigraphy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Epigraphy

@@ -71,3 +71,5 @@ Macroeconomics examines the economy as a whole, including national income and ou
 ## Debates and open questions
 
 There is no single agreed definition of economics. Robbins's scarcity-based definition has been criticised as overly broad, failing to limit its scope to market analysis, and as not accounting for the macroeconomics of high unemployment. Many economists, including Nobel Prize winners James M. Buchanan and Ronald Coase, reject the method-based definition in favour of subject-matter definitions. Ha-Joon Chang has argued that Robbins's definition makes economics peculiar because all other sciences define themselves by their area of inquiry rather than methodology. Empirical testing in economics is typically regarded as less rigorous than controlled experimentation, and conclusions more tentative. The use of commonly accepted methods need not produce a consensus on a particular question, given different tests, data sets, and prior beliefs.
+
+Source: adapted from "Economics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economics

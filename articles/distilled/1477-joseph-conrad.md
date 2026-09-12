@@ -67,3 +67,5 @@ Conrad was reserved, sceptical, and plagued by gout, malaria, neuralgia, depress
 - **Language and identity:** Whether writing in English was a pragmatic choice, an artistic liberation ("auto-translation"), or a betrayal of Polish literature; the extent to which "Poglish" syntax shapes his unique style.
 - **Autobiography vs. fiction:** Najder’s warning against "uncritical linking" of life and work; Said’s view that letters reformulate into fiction; the degree to which Conrad’s "view of the world" is a construct of both spheres.
 - **Modernist credentials:** Whether Conrad is a late realist, an impressionist, or an early modernist; Robson’s comparisons to Picasso, Eliot, and Rashomon; the priority of his narrative innovations (e.g., Marlow) over Henry James’s later experiments.
+
+Source: adapted from "Joseph Conrad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Conrad

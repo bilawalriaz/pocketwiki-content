@@ -105,3 +105,5 @@ Earhart’s celebrity, independence, and disappearance created enduring cultural
 - **Greenwich Civil Time (GCT)**: Time standard based on Greenwich noon; used by Earhart; *Itasca* used a Naval zone system offset by 30 minutes.
 - **Ninety-Nines**: International organization of women pilots founded 1929; named for 99 charter members; Earhart first president.
 - **Lockheed Electra 10E**: Twin-engine, all-metal monoplane modified with extra fuel tanks for 1937 world flight
+
+Source: adapted from "Amelia Earhart" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amelia_Earhart

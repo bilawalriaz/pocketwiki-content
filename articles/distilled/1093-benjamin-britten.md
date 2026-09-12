@@ -92,3 +92,5 @@ Composer opinions divided: Tippett praised his "incredible technical mastery"; B
 - **Cause of death**: Kildea’s syphilis hypothesis (2013) contradicts the cardiologist’s negative screening evidence and surgical records. The debate hinges on interpretation of symptoms versus documented medical data.
 - **Auden’s influence vs. Britten’s autonomy**: The extent to which Auden shaped Britten’s early political and aesthetic outlook versus Britten’s own instincts is disputed; Britten’s severance of ties ("corpses") complicates assessment.
 - **Authentic performance of Purcell realizations**: Britten’s orchestral revisions of Purcell (*Dido and Aeneas*, *The Fairy-Queen*, *The Beggar’s Opera*) brought the music to mid-century audiences but are now often sidelined by historically informed performance practice.
+
+Source: adapted from "Benjamin Britten" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Benjamin_Britten

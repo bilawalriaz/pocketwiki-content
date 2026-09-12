@@ -45,3 +45,5 @@ Clown performances are structured using **frameworks** (general outlines for act
 
 ## Debates and Open Questions
 The source notes that the exact nature of jester-like ritual performers in some Canadian First Nations cultures is kept secret from non-members. It also highlights the ongoing scholarly debate about the deep-seated human needs that clowning fulfills, suggesting it meets fundamental societal and psychological requirements similar to religion and magic. The fear of clowns (coulrophobia) is presented as a recognized phenomenon, linked to the clown's fundamentally threatening or frightening nature, especially in its modern children's entertainment form.
+
+Source: adapted from "Clown" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clown

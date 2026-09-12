@@ -49,3 +49,5 @@ Olmec society was likely hierarchical, centered on powerful rulers who derived l
 - **Nature of Olmec Influence**: How Olmec style spread across Mesoamerica is debated. Theories include trade, colonization, artisan travel, or voluntary adoption by other elites to signify status.
 - **Writing and Calendar Origins**: While the Olmec are candidates for inventing writing and the Long Count calendar, definitive proof is lacking. The Cascajal Block's authenticity and meaning are debated, and the calendar's earliest dates postdate the Olmec civilization's end.
 - **Ethnic and Linguistic Identity**: The specific language and ethnicity of the Olmec remain unknown, though Mixe-Zoquean is the leading linguistic hypothesis.
+
+Source: adapted from "Olmecs" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Olmecs

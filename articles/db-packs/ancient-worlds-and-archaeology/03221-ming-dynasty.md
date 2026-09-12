@@ -31,3 +31,5 @@ Ming vernacular literature reached its peak with novels such as *Water Margin* a
 ## Open Questions
 
 Historians debate whether Ming control over Tibet amounted to real authority or largely a religious tie through the Tibetan Buddhist clergy. Population figures are uncertain because late Ming census data underreported; estimates range from roughly 160 to 200 million. The relative weight of fiscal collapse, climate-driven famine, rebellion, and Manchu invasion in the dynasty's fall remains contested. The examination system probably expanded literacy more than it broadened elite access, since preparing for the exams required wealth and leisure.
+
+Source: adapted from "Ming dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ming_dynasty

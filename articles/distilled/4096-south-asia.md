@@ -49,3 +49,5 @@ Political systems vary widely. India is a secular federal parliamentary republic
 - The terms "Indian subcontinent" and "South Asia" are used interchangeably, but "South Asia" is often preferred as more neutral.
 - The origins and links between the Indus Valley Civilisation and later religious traditions are disputed.
 - Identification with a pan-South Asian identity is found to be significantly low among regional populations.
+
+Source: adapted from "South Asia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/South_Asia

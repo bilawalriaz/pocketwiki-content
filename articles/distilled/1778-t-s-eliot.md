@@ -42,3 +42,5 @@ Eliot's later work includes the play Murder in the Cathedral and the poem Four Q
 ## Debates and Open Questions
 * **Antisemitism**: some critics have accused Eliot of antisemitism due to his depiction of Jews in some of his poems, while others have defended him as a product of his time and cultural context.
 * **Influence and legacy**: the extent to which Eliot's work has influenced later writers and artists, and the ongoing relevance of his poetry and plays in contemporary culture.
+
+Source: adapted from "T. S. Eliot" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/T._S._Eliot

@@ -88,3 +88,5 @@ Urbanization surged post-1986 *Đổi Mới*. Hanoi/Ho Chi Minh City share of ur
 ### Languages
 National: Vietnamese (tonal, Vietic, Austroasiatic). Minority languages: Tày, Mường, Cham, Khmer, Chinese (Cantonese), Nùng, Hmong; Montagnard languages (Austroasiatic/Malayo-Polynesian). Sign languages developing in cities.
 French: legacy, spoken by educated/older southerners; member of Francophonie.
+
+Source: adapted from "Vietnam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vietnam

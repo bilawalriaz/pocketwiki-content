@@ -69,3 +69,5 @@ Sinclair was also interested in health and nutrition, experimenting with diets a
 ## Debates and open questions
 
 Sinclair's legacy includes scholarly debate about his political identity: he is considered an early American democratic socialist in the 21st century, though he was expelled from the Socialist Party in 1934 for joining the Democrats. His 1934 campaign remains controversial for the propaganda tactics used against him, which he described as a "campaign of lying" ordered by businessmen. President Theodore Roosevelt's characterization of Sinclair as a "crackpot" who was "hysterical, unbalanced, and untruthful" contrasts with Roosevelt's agreement with some of Sinclair's conclusions about capitalist greed. The suspicious burning of Helicon Home Colony remains unexplained.
+
+Source: adapted from "Upton Sinclair" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Upton_Sinclair

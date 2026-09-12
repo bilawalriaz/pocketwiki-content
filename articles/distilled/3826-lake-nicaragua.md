@@ -38,3 +38,5 @@ The lake was a vital component of passenger and freight shipping routes, especia
 - The ecological and social impacts of a potential Nicaragua Canal remain a major point of contention.
 - The long-term effects of pollution, invasive species (like tilapia), and climate events (like droughts) on the lake's ecosystem are ongoing concerns.
 - The feasibility and environmental cost of any future large-scale development projects on the lake are debated.
+
+Source: adapted from "Lake Nicaragua" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Nicaragua

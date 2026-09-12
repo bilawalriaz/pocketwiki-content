@@ -45,3 +45,5 @@ Johannesburg is the economic engine of South Africa, producing 16% of the nation
 - The exact origin of the city's name is debated, with several candidates named Johannes (Joubert, Rissik, Meyer, Kruger) proposed, as precise records were lost.
 - The spatial legacy of apartheid remains a central challenge; despite unification, Johannesburg is still highly segregated and unequal.
 - The effectiveness of recent government interventions to revive the CBD and address infrastructure decay and crime is a major ongoing concern.
+
+Source: adapted from "Johannesburg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johannesburg

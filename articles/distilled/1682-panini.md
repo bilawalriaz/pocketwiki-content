@@ -58,3 +58,5 @@ European exposure in the 19th century (via Franz Bopp) positioned Pāṇini as t
 - **Saussurean influence:** Direct Pāṇinian impact on structuralism (Saussure’s citations) vs. independent convergence (Cardona’s skepticism).
 - **Computational equivalence:** Whether the *Aṣṭādhyāyī* is strictly a context-sensitive grammar, a Post canonical system, or a unique "applied" formalism; the validity of the "Pāṇini-Backus Form" nomenclature.
 - **Lost works:** Relationship between *Jāmbavatī Vijaya* and *Pātāla Vijaya*; historicity of the brotherhood with Piṅgala (author of *Chandaḥśāstra*).
+
+Source: adapted from "Pāṇini" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini

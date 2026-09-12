@@ -35,3 +35,5 @@ From 1907 to 1926, Berliner focused on vertical flight. He developed a lightweig
 
 ## Debates and Open Questions
 The primary historical debate concerns the invention of the carbon telephone transmitter. While Berliner received a patent, a 1901 U.S. Court of Appeals ruling voided it, declaring that "Edison preceded Berliner in the transmission of speech" and that the use of carbon in a transmitter was Edison's invention. This legal and historical dispute over priority and credit remains a noted point in the history of telecommunications.
+
+Source: adapted from "Emile Berliner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emile_Berliner

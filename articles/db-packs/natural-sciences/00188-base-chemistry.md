@@ -71,3 +71,5 @@ Sodium hydroxide underpins soap, paper, and rayon. Calcium hydroxide (slaked lim
 ## Origin of the term
 
 Louis Lémery first used "base" in 1717 as a synonym for the Paracelsian "matrix," the earthy substrate an acid was thought to impregnate to grow salts. Guillaume-François Rouelle sharpened the meaning in 1754 to the substance that neutralises an acid into a solid salt, the sense chemists still use.
+
+Source: adapted from "Base (chemistry)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Base_%28chemistry%29

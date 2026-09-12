@@ -25,3 +25,5 @@ Listing antonyms—*good and evil*, *great and small*—does not create an oxymo
 ## Related distinctions
 
 A **paradox** is a statement that seems self-contradictory but may prove true; an oxymoron is the compressed linguistic form that often carries it. A **contronym** is a single word with opposite meanings (*sanction* = "approve" or "penalize"). A **tautology** repeats the same sense in different words (*free gift*). A **performative contradiction** occurs when the act of uttering contradicts the content ("I am not speaking"). Oxymorons occupy the intersection where language deliberately binds opposites to sharpen perception.
+
+Source: adapted from "Oxymoron" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oxymoron

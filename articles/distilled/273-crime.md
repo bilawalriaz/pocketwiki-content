@@ -88,3 +88,5 @@ The interdisciplinary study of crime, covering norms, deviance, violence, motiva
 *   **Media distortion:** News selection bias creates "crime waves" and inflates fear of crime independent of actual rates, complicating democratic policy-making.
 *   **Corporate/white-collar accountability:** Difficulty detecting and prosecuting complex financial crimes camouflaged by occupational anonymity and computer systems.
 *   **International enforcement:** Lack of a standard global legal system for genocide and war crimes; reliance on ad hoc tribunals and state consensus.
+
+Source: adapted from "Crime" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Crime

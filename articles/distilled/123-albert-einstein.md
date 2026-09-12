@@ -88,3 +88,5 @@ On 17 April 1955, Einstein experienced internal bleeding from a ruptured abdomin
 ## Debates and open questions
 
 Historians of physics are divided on the extent to which Mileva Marić contributed to Einstein's annus mirabilis insights; some evidence suggests influence, but scholars doubt its significance. Einstein's claim to have called the cosmological constant his "biggest blunder" is doubted by astrophysicist Mario Livio. The assertion that the geodesic equation can be derived from the field equations applied to gravitational singularities "remains disputed." Einstein's steady-state model of the universe (1931) contained a fundamental flaw and was quickly abandoned. The fate of his daughter Lieserl remains uncertain—either adoption or death from scarlet fever.
+
+Source: adapted from "Albert Einstein" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Albert_Einstein

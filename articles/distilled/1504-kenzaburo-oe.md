@@ -64,3 +64,5 @@ From *The Pinch Runner Memorandum* (1976) through *Bannen Yoshikishu* (2013), Ō
 - **Translation gap**: Most of Ōe’s vast output (essays, criticism, late novels) remains untranslated; the Nobel committee’s "imagined world" rests on a fraction of his work available globally.
 - **Hikari’s agency**: Critics differ on whether the "idiot boy" figure grants Hikari genuine subjectivity or instrumentalizes his disability as a redemptive symbol for the father/nation.
 - **Late style and catastrophe**: *Bannen Yoshikishu*’s meta-fictional break after 3/11 raises the question of whether literature can respond to unprecedented disaster without aestheticizing it—a debate Ōe staged but did not resolve.
+
+Source: adapted from "Kenzaburō Ōe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kenzabur%C5%8D_%C5%8Ce

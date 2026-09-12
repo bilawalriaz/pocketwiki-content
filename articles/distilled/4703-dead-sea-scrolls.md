@@ -45,3 +45,5 @@ The scrolls pushed the date of the oldest Hebrew biblical manuscripts back over 
 - **Ownership and custody**: Israel, Jordan, and the Palestinian Authority all claim rights to the scrolls.
 - **Dating**: New AI-assisted studies suggest some scrolls may be older than previously thought, with overlapping script styles.
 - **Significance of textual variants**: Scholars debate whether the scrolls show a fluid biblical text before canonization or support the fidelity of the Masoretic tradition.
+
+Source: adapted from "Dead Sea Scrolls" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dead_Sea_Scrolls

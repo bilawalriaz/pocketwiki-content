@@ -97,3 +97,5 @@ The term derives from *arthr-* (Ancient Greek: ἄρθρον, 'joint') and *-iti
 - Whether transcutaneous electrical nerve stimulation (TENS) is effective for knee osteoarthritis pain requires further research.
 - Evidence for low level laser therapy and pulsed electromagnetic field therapy (PEMFT) is tentative; PEMFT has evidence for improved functioning but not pain, and the FDA has not approved it for arthritis.
 - Data on arthritis prevalence in Africa are lacking and underestimated, with many studies of moderate or poor quality.
+
+Source: adapted from "Arthritis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arthritis

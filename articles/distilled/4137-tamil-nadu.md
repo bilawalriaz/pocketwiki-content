@@ -56,3 +56,5 @@ Tamil Nadu has an extensive road and rail network, with Chennai as a major trans
 - The "dark period" of Tamil history under the Kalabhra dynasty (c. 300–600 CE) is poorly documented, with information inferred from later literature and inscriptions.
 - The origin and precise etymology of the word "Tamil" itself is unclear, with multiple theories attested.
 - The exact borders of the ancient region "Tamilakam" are described in early texts like the Tolkāppiyam but are subject to historical interpretation.
+
+Source: adapted from "Tamil Nadu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tamil_Nadu

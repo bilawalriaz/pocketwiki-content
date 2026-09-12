@@ -69,3 +69,5 @@ Several key questions remain unresolved regarding Clement’s life and legacy:
 6. **Identity with Paul’s Companion**: Is the Clement mentioned in Philippians 4:3 the same as Clement of Rome? Modern scholars reject the traditional identification due to lack of evidence.
 
 These debates reflect broader uncertainties about the transition from apostolic to institutional Christianity and the development of early church hierarchy and theology.
+
+Source: adapted from "Clement of Rome" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clement_of_Rome

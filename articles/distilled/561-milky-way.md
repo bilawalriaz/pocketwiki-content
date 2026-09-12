@@ -79,3 +79,5 @@ Member of the Local Group (~50 galaxies, binary with Andromeda). Satellites: Lar
 - **Spiral arm pattern:** Two-armed (old stars) vs. four-armed (gas/young stars); pitch angle (7–25°); transient vs. long-lived density waves; role of Sagittarius Dwarf impacts.
 - **Missing baryons:** Does the hot gaseous halo (detected in X-rays) account for the ~50% of expected baryons not seen in stars/cool gas?
 - **Formation timeline:** Exact timing of the thin disk hiatus, the Kraken merger (simulation-based), and the transition to green valley status.
+
+Source: adapted from "Milky Way" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Milky_Way

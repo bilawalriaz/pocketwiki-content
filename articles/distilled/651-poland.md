@@ -59,3 +59,5 @@ Poland became a member of the Visegrád Group in 1991, and joined NATO in 1999. 
 - **Historical Memory**: Disputes over the 1943–1944 Wołyń Massacres, where up to 100,000 Poles were killed by the UPA, remain contentious in Polish-Ukrainian relations.
 - **EU Integration vs. Sovereignty**: PiS’s Euroscepticism and conflicts with EU institutions over rule of law highlight ongoing tensions between integration and national autonomy.
 - **Climate and Energy**: Poland’s reliance on coal (100 million tonnes annually) contrasts with its 2040 decarbonization goals, raising questions about feasibility and economic impact.
+
+Source: adapted from "Poland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Poland

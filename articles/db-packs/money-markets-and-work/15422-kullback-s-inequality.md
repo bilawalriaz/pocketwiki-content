@@ -41,3 +41,5 @@ $$\frac{1}{2}\, \mathcal{I}_X(\theta) \;\geq\; \frac{1}{2\,\mathrm{Var}(X_\theta
 which rearranges to the Cramér–Rao bound
 
 $$\mathrm{Var}(X_\theta) \;\geq\; \frac{(d\mu_\theta / d\theta)^2}{\mathcal{I}_X(\theta)}.$$
+
+Source: adapted from "Kullback's inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kullback%27s_inequality

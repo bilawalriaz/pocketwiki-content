@@ -41,3 +41,5 @@ Americas and Oceania: These regions developed in relative isolation. The Maya in
 ## Why the period ended
 
 The post-classical world unraveled in the 15th and 16th centuries. The Ottoman capture of Constantinople in 1453 disrupted overland routes between Asia and Europe, pushing Europeans toward the sea. Columbus reached the Americas in 1492, Vasco da Gama reached India by sea in 1498, and Magellan's crew completed the first circumnavigation in 1521. These voyages triggered the Columbian exchange, the transfer of crops, livestock, people, and diseases that bound the Americas into the Afro-Eurasian system for the first time. The post-classical era ended because the world it described, one of regional civilizations linked mainly by overland routes, gave way to an oceanic world in which every continent was connected.
+
+Source: adapted from "Post-classical history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Post-classical_history

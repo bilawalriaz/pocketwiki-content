@@ -66,3 +66,5 @@ George C. Williams used a lottery analogy to explain sexual reproduction's preva
 ## Debates and open questions
 
 The evolution of sexual reproduction remains a major puzzle due to its two-fold cost. The lottery principle, once a leading explanation, is now questioned because asexual reproduction appears more prevalent in unstable environments, contradicting its predictions. Whether the synthetic *M. mycoides* cell can be considered truly synthetic is debated, since its genome was nearly identical to a natural one and its recipient cell was naturally occurring. The possibility of same-sex procreation in humans is considered unlikely in the near future by researchers.
+
+Source: adapted from "Reproduction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Reproduction

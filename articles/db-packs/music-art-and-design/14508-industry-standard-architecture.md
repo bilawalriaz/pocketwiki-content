@@ -29,3 +29,5 @@ ATA (IDE) hard disks descend directly from the 16-bit ISA hardware on the IBM PC
 ## Current use
 
 ISA never disappeared completely. Industrial motherboards from IEI (2008, Core 2 Duo), ADEK (2013), MSI (2020, Skylake/Kaby Lake), and DFI (Coffee Lake) have exposed one or two ISA slots for legacy industrial and military cards. IEEE's P996 attempt to standardise ISA after 1985 never progressed past draft, so the bus survives as a de facto specification sustained by industrial users and the LPC software interface.
+
+Source: adapted from "Industry Standard Architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Industry_Standard_Architecture

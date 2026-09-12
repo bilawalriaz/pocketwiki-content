@@ -41,3 +41,5 @@ The island hosts diverse Arctic wildlife. Year-round residents include barren-gr
 
 ## Debates and Open Questions
 The primary scholarly debate concerns the nature and extent of pre-Viking European contact on Baffin Island. Archaeologist Patricia Sutherland's findings suggest possible Norse trading posts or settlements around 1000 CE. However, critics, including researchers like Michele Hayeur Smith and William W. Fitzhugh, argue that key evidence like spun yarn was an indigenous technology developed long before European arrival, and that the published evidence for sustained contact is insufficient. The origin of certain artifacts remains controversial and unresolved.
+
+Source: adapted from "Baffin Island" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baffin_Island

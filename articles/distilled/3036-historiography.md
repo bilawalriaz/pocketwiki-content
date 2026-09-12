@@ -45,3 +45,5 @@ The 20th century was marked by a shift from political and diplomatic history tow
 - **The Role of Theory**: Ongoing tension between historians who use social science theories (like Marxism or structuralism) and those who favor narrative and empirical description.
 - **Whig History and Teleology**: The critique of "Whig history" for assuming a goal-directed, progressive past remains a key methodological concern.
 - **The Influence of the Historian's Context**: The extent to which historians' own national, cultural, or political loyalties shape their interpretations is a perpetual question.
+
+Source: adapted from "Historiography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Historiography

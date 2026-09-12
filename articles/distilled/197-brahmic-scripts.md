@@ -51,3 +51,5 @@ As of Unicode 17.0, all major historical and modern Brahmic scripts have been as
 - **Precise transmission to Japan**: The pathway by which Siddham’s tabular order became Japanese *gojūon* is described as “believed to be descended” but not definitively proven.
 - **Classification of marginal scripts**: Several listed scripts (e.g., Proto-Tai, Khom Thai, Marchung, Pungs-chen) are marked with queries or have uncertain genealogical placement.
 - **Dating of Southern divergence**: Tamil-Brahmi (2nd c. BCE) is the earliest Southern epigraphy, but the exact timing of the Kadamba/Pallava/Vatteluttu split is not fixed in the source.
+
+Source: adapted from "Brahmic scripts" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brahmic_scripts

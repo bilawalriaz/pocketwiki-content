@@ -40,3 +40,5 @@ Upon release, *Metropolis* received mixed reviews. Critics praised its visual sp
 - **Political Message**: The film's core message has been interpreted as both a call for social reconciliation and a simplistic, even naïve, political statement. Its alleged communist message was criticized at the time, and director Fritz Lang later disowned the film's thesis as a "fairy tale."
 - **Original Vision vs. Subsequent Versions**: The original premiere cut of the film is lost. All versions seen until 2010 were based on heavily edited cuts. The 2010 restoration, while the most complete, still lacks about five minutes of the original footage, leaving some narrative elements reconstructed.
 - **Authorial Intent**: The collaborative nature of the film between Lang and von Harbou, who later joined the Nazi Party while Lang fled Germany, complicates interpretations of its political and social intent.
+
+Source: adapted from "Metropolis (1927 film)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metropolis_%281927_film%29

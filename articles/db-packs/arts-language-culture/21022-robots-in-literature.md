@@ -21,3 +21,5 @@ The modern sense of a robot begins with Karel Čapek's play *R.U.R. (Rossum's Un
 ## Robots as a science-fiction genre
 
 The robot became a stock subject of science fiction, and the defining contributor is Isaac Asimov, much of whose work centres on robots and their interaction with humans. He is best known for his **Three Laws of Robotics**: (1) a robot may not harm a human being, or through inaction allow a human being to come to harm; (2) a robot must obey orders from humans except where such orders conflict with the First Law; (3) a robot must protect its own existence except where this conflicts with the First or Second Law. Asimov uses these laws to define robot behaviour and to drive the moral puzzles of his stories.
+
+Source: adapted from "Robots in literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robots_in_literature

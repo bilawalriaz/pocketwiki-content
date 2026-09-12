@@ -52,3 +52,5 @@ The war resulted in massive casualties and widespread destruction. The United Na
 
 ## Debates and Open Questions
 Historians debate the precise start date of WWII, with some citing Japan's 1931 invasion of Manchuria or the 1936 Spanish Civil War. The war's end date is also contested—V-J Day (15 August 1945) versus formal surrender (2 September 1945). Scholars continue discussing whether the atomic bombings were necessary to end the war, and debate the extent to which economic factors versus ideological expansionism drove Axis aggression. The effectiveness of appeasement policies and the role of the League of Nations remain contentious topics.
+
+Source: adapted from "World War II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/World_War_II

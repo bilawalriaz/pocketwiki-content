@@ -41,3 +41,5 @@ Smaller states joined for specific territorial or strategic reasons, with devast
 - **Portugal**, **Brazil** (1917, after German submarines sank its merchant ships), **China**, **Siam**, and several Latin American states entered as the US did, often as "associated" rather than formal allies, with limited but real contributions: medical missions, naval patrols, a few divisions.
 
 The 1919 Paris Peace Conference classified the British Empire, France, Italy, Japan, and the US as the "Principal Allied and Associated Powers." Britain, France, Italy, and Japan became the four permanent members of the League of Nations Executive Council; the US Senate refused to ratify the treaty, excluding the United States from the League entirely. Romania, Serbia, and Belgium, despite their sacrifices, were relegated to secondary status at the bargaining table.
+
+Source: adapted from "Allies of World War I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Allies_of_World_War_I

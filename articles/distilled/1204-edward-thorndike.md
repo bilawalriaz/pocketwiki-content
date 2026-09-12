@@ -65,3 +65,5 @@ Thorndike’s work influenced B.F. Skinner and Clark Hull, and his law of effect
 
 ## Debates and Open Questions
 Scholars debate the extent to which Thorndike’s law of effect anticipated later behaviorist principles versus his rejection of strict stimulus-response models. His puzzle box methodology has been criticized for anthropomorphic interpretations and limited ecological validity. His eugenic stance remains controversial, raising questions about separating scientific contributions from personal ideology. The role of punishment in learning continues to evolve, with Thorndike’s later rejection of its efficacy aligning with modern behavior analysis.
+
+Source: adapted from "Edward Thorndike" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edward_Thorndike

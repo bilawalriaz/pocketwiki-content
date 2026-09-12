@@ -45,3 +45,5 @@ The policies of *perestroika* (restructuring) and *glasnost* (openness) in the 1
 - The exact reasons for the Soviet government's decision to release "trophy films" in the late 1940s are debated, with hypotheses ranging from economic necessity to keeping cinemas operational.
 - The degree of creative freedom versus censorship varied significantly between different Soviet administrations and individual film committees, making the artistic process complex and unpredictable.
 - Historians analyze how Soviet audiences truly received and interpreted state-approved films, often relying on anecdotal evidence due to a lack of official surveys or reviews.
+
+Source: adapted from "Cinema of the Soviet Union" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cinema_of_the_Soviet_Union

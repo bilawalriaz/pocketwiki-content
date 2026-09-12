@@ -45,3 +45,5 @@ Investigations, notably the 2001 Belgian parliamentary inquiry and the 1975 US C
 - **Lumumba's Political Legacy:** Scholars debate whether Lumumba was a pragmatic nationalist or an uncompromising radical whose actions contributed to his downfall. His political program is often seen as less developed than his symbolic importance.
 - **Impact of His Death:** Historians analyze whether Lumumba's assassination directly radicalized movements like the American civil rights movement and how his martyrdom shaped post-colonial African politics.
 - **Congolese Perception:** While internationally revered, Lumumba's legacy within the Congo is complex. He was unpopular in some regions (e.g., Katanga, South Kasai) due to the army's actions there, and his image was later co-opted by leaders like Mobutu.
+
+Source: adapted from "Patrice Lumumba" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Patrice_Lumumba

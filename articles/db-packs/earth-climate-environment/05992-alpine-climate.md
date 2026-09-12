@@ -26,3 +26,5 @@ Water vapour changes the picture. Rising air eventually saturates; the vapour co
 ## Where it appears, and at what altitude
 
 Because the tree line marks the boundary, the lowest altitude of alpine climate varies with latitude. In northern Sweden near 68°N, the tree line is as low as 650 m (2,130 ft). On Mount Kilimanjaro in equatorial Tanzania, the tree line sits at 3,950 m (12,960 ft), more than six times higher. The same climate band therefore appears near sea level in the Arctic and only near the top of tall tropical peaks, a consequence of warmer lowland temperatures at the equator.
+
+Source: adapted from "Alpine climate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alpine_climate

@@ -47,3 +47,5 @@ The primary threat is the diversion of water from feeder rivers, especially the 
 - The long-term sustainability of the lake's water level and ecosystem is debated, with comparisons to the Aral Sea disaster.
 - The environmental impact of proposed energy projects, particularly the nuclear power plant, is a subject of concern and opposition.
 - The effectiveness of international cooperation, especially with China, to manage shared water resources like the Ili River is uncertain and politically sensitive.
+
+Source: adapted from "Lake Balkhash" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Balkhash

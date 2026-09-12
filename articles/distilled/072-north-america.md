@@ -74,3 +74,5 @@ U.S. and English Canada share cultural similarities; French Canada has a legally
 ## Debates and open questions
 
 The exact timing and route of the first human settlement of North America remain unresolved: the traditional theory posits land-bridge crossing from 27,000–14,000 years ago, while a growing view suggests sailing from Beringia ~13,000 years ago. The geographic center of North America is disputed—the USGS states no government agency has established a monumented point, though a field stone obelisk in Rugby, North Dakota claims to mark it. The southern limit of the continent is also debated: the political boundary lies at the Darien Gap in Panama, but some geologists place it physiographically at the Isthmus of Tehuantepec in Mexico.
+
+Source: adapted from "North America" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/North_America

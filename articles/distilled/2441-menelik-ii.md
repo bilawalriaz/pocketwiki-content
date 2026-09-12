@@ -45,3 +45,5 @@ Menelik married three times: first to Altash Tewodros (divorced 1865), then to B
 
 ## Debates and Open Questions
 Menelik's legacy is deeply contested. While celebrated as a symbol of anti-colonial resistance and the architect of modern Ethiopia, he is also criticized for the brutality of his southern conquests. Historians debate whether the atrocities committed during these campaigns, which included massacres and forced assimilation of groups like the Oromo, constitute genocide. His expansionist policies are seen by some as a primary cause of later ethnic tensions within Ethiopia.
+
+Source: adapted from "Menelik II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Menelik_II

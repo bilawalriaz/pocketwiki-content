@@ -37,3 +37,5 @@ In the post-WWII era, Palermo experienced rapid, often unregulated growth known 
 
 ## Debates and Open Questions
 The source notes scholarly debate about the origins of Palermo's earliest inhabitants, with the Sicani people possibly arriving from the Iberian Peninsula. The extent and nature of the city's economic recovery and its success in combating Mafia influence remain ongoing challenges.
+
+Source: adapted from "Palermo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Palermo

@@ -45,3 +45,5 @@ Inner Mongolia's economy is driven by mining (coal, rare-earth metals), energy p
 - **Ethnic Identity and Marginalization**: Many indigenous Mongolians feel increasingly marginalized due to Han Chinese migration, economic policies, and cultural assimilation pressures, leading to social unrest.
 - **Language Policy**: The 2020 government plan to replace Mongolian with Chinese as the medium of instruction in some subjects sparked significant protests, highlighting tensions over cultural preservation versus national integration.
 - **Environmental vs. Economic Development**: The rapid expansion of mining and industry has driven growth but caused severe pollution and grassland degradation, raising questions about sustainable development.
+
+Source: adapted from "Inner Mongolia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Inner_Mongolia

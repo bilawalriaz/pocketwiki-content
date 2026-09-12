@@ -71,3 +71,5 @@ Motion types are categorized by trajectory and force characteristics:
 *   **Nature of dark matter/energy**: Observed cosmic motions (galaxy rotation, universal expansion) imply unseen mass/energy components not explained by the Standard Model.
 *   **Measurement problem in quantum mechanics**: The transition from probabilistic wavefunction to definite measured outcome lacks a consensus physical mechanism.
 *   **Absolute vs. relational motion**: While Newton's absolute space is rejected, the ontological status of spacetime in general relativity (substantivalism vs. relationalism) remains a philosophical debate.
+
+Source: adapted from "Motion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Motion

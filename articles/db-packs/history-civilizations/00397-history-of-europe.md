@@ -29,3 +29,5 @@ World War I (1914–1918) destroyed four empires, Ottoman, Russian, Austro-Hunga
 ## Contemporary Europe
 
 The post-Cold War era saw the European Union and NATO expand eastward into the former communist bloc. Challenges have included the Euro area crisis, Brexit, and renewed large-scale war after Russia's invasion of Ukraine in 2022, which prompted Finland and Sweden to abandon long-standing neutrality and join NATO.
+
+Source: adapted from "History of Europe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Europe

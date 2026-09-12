@@ -46,3 +46,5 @@ Babbage was a prolific inventor and writer. He invented the pilot (cow-catcher) 
 - **Ada Lovelace's Contribution**: The extent of her original contribution to programming the Analytical Engine is disputed by some scholars, despite her documented notes.
 - **Influence of Indian Thought**: Some, like Mary Everest Boole, argue Babbage's ideas were influenced by Indian logic and metaphysics, a claim that remains speculative.
 - **Legacy and Completion**: While his engines were not built in his lifetime, the successful construction of his Difference Engine in 1991 confirmed the soundness of his engineering, leaving open the question of how computing might have advanced had they been completed.
+
+Source: adapted from "Charles Babbage" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_Babbage

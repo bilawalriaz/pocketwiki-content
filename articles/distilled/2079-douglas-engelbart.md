@@ -48,3 +48,5 @@ Engelbart received numerous awards, including the 1997 ACM Turing Award and the 
 - **Ideological Conflict:** Engelbart's vision of collaborative, timeshare computing was in direct conflict with the personal computer movement embraced by many younger programmers, who viewed centralized systems with suspicion.
 - **Marginalization of Vision:** Despite creating foundational technologies, Engelbart struggled for decades to gain sustained interest and funding for his broader philosophy of augmenting collective intelligence, often being limited by commercial and institutional priorities.
 - **Influence vs. Adoption:** While his specific technologies (like the mouse) became ubiquitous, the deeper, systemic vision of using computers to boost "Collective IQ" remains an ongoing, largely unfulfilled challenge.
+
+Source: adapted from "Douglas Engelbart" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Douglas_Engelbart

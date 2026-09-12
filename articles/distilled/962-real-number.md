@@ -101,3 +101,5 @@ Both yield isomorphic Dedekind-complete ordered fields. Geometric constructions 
 *   **Physical Reality of Continuum**: Whether spacetime is fundamentally continuous ($\mathbb{R}$-based) or discrete at the Planck scale remains an open question in quantum gravity.
 *   **Explicit Hamel Basis**: AC proves $\mathbb{R}$ has a basis as a vector space over $\mathbb{Q}$, but no explicit construction is known (and may be impossible).
 *   **Definability vs. Computability**: The hierarchy of "definable" (countable) vs. "computable" (countable) vs. arbitrary reals (uncountable) raises philosophical questions about the ontological status of "most" real numbers.
+
+Source: adapted from "Real number" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Real_number

@@ -50,3 +50,5 @@ The economy was agrarian-feudal, with a complex tax system funding the Military 
 - The nature of the Pereiaslav Agreement (1654) is heavily debated: was it a treaty between equals, a submission to Muscovite suzerainty, or a strategic military alliance?
 - The degree of autonomy the Hetmanate possessed under Russian protection, especially after 1654 and again after 1709, is a subject of ongoing scholarly discussion.
 - The social impact of the "Ruin" and the extent to which the Cossack state was a "democratic" entity versus an evolving oligarchy are contested interpretations.
+
+Source: adapted from "Cossack Hetmanate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cossack_Hetmanate

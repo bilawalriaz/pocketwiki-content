@@ -50,3 +50,5 @@ The city is an education hub with institutions like IIT Bhubaneswar, AIIMS Bhuba
 ## Debates and open questions
 - The source notes that the city's rapid growth has outstripped its original planning process, leading to issues like unplanned development, floods, and waterlogging in low-lying areas.
 - The demographic changes from IT and education sector growth have caused concerns about infrastructure strain.
+
+Source: adapted from "Bhubaneswar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bhubaneswar

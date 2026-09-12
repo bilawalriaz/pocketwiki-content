@@ -11,3 +11,5 @@ When the identity of the recently living source does not matter to the product, 
 People who prefer biotic and bio-based materials over synthetics value that they are usually biodegradable, renewable, processed by well-understood methods, and have lower environmental impact. That preference does not always hold. A biotic material used in an environmentally harmful way loses the advantage when it requires heavy processing, is harvested unsustainably, or generates carbon emissions during use.
 
 In soil science, biotic material is often called organic matter. The biotic fraction of soil includes humic substances such as humic acids, fulvic acids, and humin, operationally defined fractions of decomposed organic matter distinguished by the acids and bases used to extract them. The clam shell example shows why the two vocabularies diverge: a shell is biotic but contributes almost no organic carbon to the soil.
+
+Source: adapted from "Biotic material" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biotic_material

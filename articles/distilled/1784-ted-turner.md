@@ -72,3 +72,5 @@ Turner married three times: Judy Nye (1960–1964), Jane Shirley Smith (1965–1
 ## Debates and open questions
 
 Turner's colorization of classic films remains controversial; critics argued it vandalized cinematic history, while Turner defended it as making old films accessible. His legacy is mixed: Slate called him "the Alexander the Great of broadcasting" but noted his programming "fell short of inspiring," built on reruns and old movies. His philanthropy was widely praised, but his controversial statements—on religion, terrorism, and population control—drew repeated criticism and forced apologies throughout his career.
+
+Source: adapted from "Ted Turner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ted_Turner

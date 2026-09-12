@@ -94,3 +94,5 @@ Education imparts knowledge, reasoning, and preparation for mature life. Article
 *   **Nature Disconnection:** The reality of "Nature Deficit Disorder" (correlated with 44 hrs/week screen time and declining park visits) versus the cultural de-emphasis of nature in media.
 *   **Global Education Access:** Despite recognized rights, 57M children (2011) remain out of school due to warfare (28M), poverty, labor, and distance; >20% of African children never complete primary education.
 *   **Child Mortality Disparities:** While global rates have halved (1990–2012), sub-Saharan Africa retains an infant mortality rate (98/1,000) over double the world average.
+
+Source: adapted from "Child" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Child

@@ -48,3 +48,5 @@ Fossil fuels significantly influence inflation. Energy prices drove major post-W
 - Extent to which renewable energy can fully replace fossil fuels without compromising energy security.  
 - Effectiveness of carbon pricing and subsidies in accelerating fossil fuel divestment.  
 - Feasibility of a just transition in economies heavily dependent on fossil fuel industries.
+
+Source: adapted from "Fossil fuel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fossil_fuel

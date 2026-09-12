@@ -40,3 +40,5 @@ Tourism is the economic cornerstone, accounting for 32% of GDP and attracting ov
 - The exact timeline and nature of the first human settlement of the islands remain debated, with evidence suggesting contact as early as the 1st century BC.
 - The extent to which the Castilian conquest constitutes a "genocide" of the Guanche population is a subject of scholarly discussion.
 - The international boundary of the Canary Islands' territorial waters is disputed by Morocco, which contests Spain's right to claim an exclusive economic zone based on the islands' territory.
+
+Source: adapted from "Canary Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Canary_Islands

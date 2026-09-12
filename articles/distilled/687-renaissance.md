@@ -68,3 +68,5 @@ The Renaissance unfolded against Christian backdrop; most art served the Church.
 5. **Term validity**: Is "Renaissance" a coherent historical category or a 19th-century construct (Michelet/Burckhardt) imposing unity on diverse, conflicting local cultures (Starn)?
 6. **Agency of "Great Men" vs. structural forces**: Were figures like Leonardo products of unique genius or of systemic conditions (urban capitalism, patronage networks, printing)?
 7. **Global entanglements**: How did Ottoman expansion, American colonization, and Asian trade shape the Renaissance, rather than merely receiving its output?
+
+Source: adapted from "Renaissance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Renaissance

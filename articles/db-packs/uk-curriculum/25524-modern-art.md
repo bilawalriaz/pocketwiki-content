@@ -58,3 +58,5 @@ By the late 1960s, curators and critics favored these new forms over traditional
 ## The 1970s threshold
 
 The period closes as artists and architects begin questioning "the modern" itself, producing works later labeled **Postmodern**: pluralistic, ironic, historically self-conscious, and skeptical of modernism's grand narratives of progress and purity. The center of gravity had shifted from Paris to New York; the definition of art had expanded from object to idea, action, and site; and the modernist drive toward medium-specific purity had fractured into a field of contested practices.
+
+Source: adapted from "Modern art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Modern_art

@@ -45,3 +45,5 @@ Kuwait City is a cultural hub for the Arab world. It is the only Gulf country wi
 
 ## Debates and open questions
 The source does not explicitly outline scholarly debates. However, it presents a clear historical narrative of Kuwait's transformation, highlighting the pivotal roles of trade, oil, and regional conflict. A key point of analysis is the shift from the liberal "Golden Era" to the more conservative and autocratic period of the 1980s, driven by internal political alliances and external threats.
+
+Source: adapted from "Kuwait City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kuwait_City

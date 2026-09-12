@@ -44,3 +44,5 @@ The series achieved immense commercial success, making Rowling the first billion
 *   **Thematic Interpretation:** Scholars debate the coherence of the series' social messages, particularly regarding the portrayal of house-elves and the inherent superiority of wizards over Muggles, which some argue undermines its anti-prejudice themes.
 *   **Influence on Literacy:** While widely believed to have boosted childhood reading, research from the National Endowment for the Arts found no evidence of a sustained increase in reading rates among children attributable to the series.
 *   **Author's Intent vs. Reception:** Following J.K. Rowling's public statements on gender identity from 2019 onward, many former fans have rejected the series, creating a complex debate about separating art from the artist.
+
+Source: adapted from "Harry Potter" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harry_Potter

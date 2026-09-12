@@ -88,3 +88,5 @@ Welles married three times: Virginia Nicolson (1934–40, daughter Christopher),
 - **Completion of *Don Quixote***: Welles worked on it 1957–1980s, constantly re-editing; Jesús Franco’s 1992 assembly from decaying footage is disputed as unrepresentative.
 - **Legal status of *The Other Side of the Wind***: Iranian funding, Welles’s estate, and multiple claimants locked the film for decades; released only in 2018 after Netflix settlement.
 - **Welles’s role in *Touch of Evil* editing**: Welles’s 58
+
+Source: adapted from "Orson Welles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Orson_Welles

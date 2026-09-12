@@ -48,3 +48,5 @@ Hadrian's last years were marked by chronic illness and a troubled succession. A
 - **Causes of the Bar Kokhba Revolt**: While traditionally linked to Hadrian's ban on circumcision, modern scholars debate this, suggesting other factors like heavy-handed administration, land grants to Roman colonists, and messianic fervor were primary causes.
 - **Character and Motives**: Historians debate whether Hadrian was a benevolent, cosmopolitan reformer or a secretive, authoritarian autocrat. His relationship with the Senate is consistently portrayed as hostile, but the depth of his personal cruelty versus political necessity is analyzed differently.
 - **Antinous's Death**: The circumstances of Antinous's drowning in the Nile in 130 are unknown, with theories ranging from accident and suicide to ritual sacrifice.
+
+Source: adapted from "Hadrian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hadrian

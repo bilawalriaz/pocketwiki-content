@@ -39,3 +39,5 @@ Vatican City is a "minuscule support-state" created by the Lateran Treaty to gua
 
 ## Debates and Open Questions
 The source notes that after Italy seized Rome in 1870, there was "some uncertainty among jurists" about whether the Holy See could continue as an independent personality in international law without territory. This was resolved by its sustained diplomatic practice. The distinction between the Holy See and Vatican City State is a key point of clarification in international law and diplomacy.
+
+Source: adapted from "Holy See" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Holy_See

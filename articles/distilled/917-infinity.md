@@ -66,3 +66,5 @@ In physics, infinite constructs like plane waves are idealized. Cosmology debate
 ## Debates and Open Questions
 
 Whether the physical universe is spatially infinite remains unresolved. The Continuum Hypothesis cannot be proved or disproved within ZFC. Whether actual infinity should be accepted in mathematics divides finitists from classical mathematicians. The nature of infinity in cognitive science is debated, with Lakoff proposing metaphorical foundations.
+
+Source: adapted from "Infinity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Infinity

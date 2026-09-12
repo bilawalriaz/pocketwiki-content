@@ -1,7 +1,5 @@
 # Sustainable agriculture
 
-# Sustainable agriculture
-
 Sustainable agriculture is farming that produces food and fibre while preserving the soil, water, and biodiversity on which production depends, so that the same land can keep yielding indefinitely. The U.S. Department of Agriculture gave the first formal definition in 1977, though communities had practised land-conserving methods long before the term existed.
 
 Why it matters
@@ -37,3 +35,5 @@ Externalities, the environmental and social costs not priced into food, are why 
 History and outlook
 -------------------
 The phrase "sustainable agriculture" is attributed to Australian agronomist Gordon McClymont and entered common use in the late 1980s, though indigenous land-management traditions (North American intercropping such as the Three Sisters of corn, beans, and squash, the Anishinaabe "Honorable Harvest" rules of taking only what is needed, Amazonian dark-earth raised fields, and South-East Asian rice-fish culture) embodied its principles centuries earlier. By 2018, sustainable intensification practices were in use on 163 million farms across 100 countries, covering 453 million hectares, about 29% of farmland worldwide.
+
+Source: adapted from "Sustainable agriculture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sustainable_agriculture

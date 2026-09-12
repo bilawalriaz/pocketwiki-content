@@ -35,3 +35,5 @@ Rocket launches inject black carbon, nitrogen oxides, and water vapour into the 
 Mitigation is now built into satellite programmes: designs are tested for demisability, the ability to burn up completely on re-entry, and agencies are exploring materials that char rather than shed metal fragments. In 2024 the Japan Aerospace Exploration Agency (JAXA) and NASA planned to launch LingoSat, a wooden satellite prototype, after earlier tests in 2021 showed wood samples could survive the thermal and radiation environment of low Earth orbit.
 
 International law has not kept pace: there is no binding global treaty on space-debris removal, anti-satellite weapons, or the allocation of crowded orbits, leaving the sustainability of large constellations an open question.
+
+Source: adapted from "Satellite" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Satellite

@@ -37,3 +37,5 @@ A replication crisis has emerged: systematic efforts have found that as many as 
 The APA's five ethical principles are beneficence and nonmaleficence, fidelity and responsibility, integrity, justice, and respect for people's rights and dignity. The Nuremberg Code and the Declaration of Helsinki set international research-ethics standards after Nazi abuses. University ethics committees must approve research on humans or animals; Harry Harlow's isolation experiments on rhesus monkeys drew lasting condemnation.
 
 Women now make up about 78% of U.S. psychology undergraduates and 71% of graduate students, though pay and senior-position gaps remain. Martha Bernal became the first Latina psychology PhD in 1962, and Marigold Linton the first Native American woman in 1969. In 1954, Kenneth and Mamie Phipps Clark's doll studies helped show that racial segregation damaged Black children's self-image, contributing to *Brown v. Board of Education*.
+
+Source: adapted from "Psychology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Psychology

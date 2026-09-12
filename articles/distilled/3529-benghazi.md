@@ -45,3 +45,5 @@ Following the 2011 revolution, Benghazi was the site of the 2012 U.S. diplomatic
 - The precise reasons for the relocation of Euesperides to Berenice in 246 BC are debated; it may have been due to silting lagoons or as political punishment.
 - The long-term political future of Libya remains uncertain, with tensions between eastern (Tobruk/Benghazi) and western (Tripoli) governments threatening stability despite the 2020 ceasefire and 2021 unity government.
 - The controversial demolition of Benghazi's historic Italian-era buildings in 2023 by the military, without municipal consultation, raises questions about post-war reconstruction priorities and heritage preservation.
+
+Source: adapted from "Benghazi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Benghazi

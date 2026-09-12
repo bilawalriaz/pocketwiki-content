@@ -25,3 +25,5 @@ Beyond OpenGL and DirectX: Adobe Flash 10 introduced Pixel Bender for pixel proc
 ## Translation between languages
 
 Three strategies move shaders between languages. *Common interface*: Cg, HLSL, GLSL, and MSL all support C preprocessor macros, so differing operations can be wrapped behind a shared interface — Valve's Source 2 and Nvidia's FXAA 3.11 work this way. *Direct translation*: HLSLcc partially converts DirectX bytecode to GLSL, while ANGLE and HLSL2GLSL handle the reverse. *Intermediate language*: SPIR-V can be generated from HLSL or GLSL and decompiled back into HLSL, GLSL, or MSL.
+
+Source: adapted from "Shading language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shading_language

@@ -53,3 +53,5 @@ Empirical correlations link social equality to several structural factors. Econo
 - **Economic vs. political equality**: Whether formal political rights are meaningful without material economic equality to exercise them.
 - **Universalism vs. cultural particularism**: Whether standards derived from Western Enlightenment (ontological equality, human rights) apply globally or conflict with local traditions.
 - **Expanding categories**: How to address emerging inequalities (e.g., digital access, algorithmic bias, genetic enhancement) within existing frameworks.
+
+Source: adapted from "Social equality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Social_equality

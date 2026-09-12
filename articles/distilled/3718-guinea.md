@@ -44,3 +44,5 @@ Guinea faces severe public health challenges. It has one of the world's highest 
 *   The 2021 coup and subsequent 2025 election, in which the coup leader Mamady Doumbouya won with 86.72% of the vote, raise questions about the genuine transition to civilian rule and democratic legitimacy.
 *   Guinea's vast mineral wealth, particularly bauxite and iron ore, has not translated into broad-based development, leading to debates about resource governance, corruption, and the role of foreign mining corporations.
 *   The country's history of political violence, ethnic tensions (e.g., clashes between Malinke and Fula groups), and military intervention complicates efforts to establish stable, inclusive governance.
+
+Source: adapted from "Guinea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guinea

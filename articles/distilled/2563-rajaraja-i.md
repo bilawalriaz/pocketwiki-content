@@ -40,3 +40,5 @@ Rajaraja implemented significant administrative reforms. In 1000, he ordered a c
 - The identity of the Pandya royal figure Amarabhujanga, captured during Rajaraja's southern campaigns, is debated: he may have been a Pandya prince, a Pandya general, or a prince of the Kongu Chera dynasty.
 - The exact nature of the conflict at Kandalur Salai is uncertain, including whether it primarily involved Chera or Pandya forces.
 - Historians debate whether the personal animosity between Rajaraja I and the Western Chalukya king Satyashraya was a primary driver of their conflicts, similar to earlier Chalukya-Pallava rivalries.
+
+Source: adapted from "Rajaraja I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rajaraja_I

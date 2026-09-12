@@ -113,3 +113,5 @@ Rational explanations of deity belief date to Ancient Greece. Democritus argued 
 - Aztec deity concepts remain poorly understood because historical records were constructed by Christian missionaries; the original concepts were likely more complex.
 - Modern scholarship suggests idolatry was not absent in biblical faith and resurfaced multiple times in Jewish religious life, challenging the classical presentation of Judaism as purely monotheistic.
 - The translation of the Japanese term *kami* as "god" or "spirit" is deemed "quite unsatisfactory and misleading" by scholars, who urge against translating it into English.
+
+Source: adapted from "Deity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Deity

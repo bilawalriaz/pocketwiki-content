@@ -49,3 +49,5 @@ Kumārajīva's translations became the standard in East Asian Buddhism, remainin
 - The authenticity and extent of Kumārajīva's personal contributions to translations like the *Mahāprajñāpāramitopadeśa* are debated; scholars suggest his team, particularly Sengrui, may have significantly edited or abridged the texts.
 - Scholars are divided on how many of the meditation texts attributed to Kumārajīva he actually worked on, though two (T. 613 and T. 614) are well-attested in early catalogs.
 - The view that Kumārajīva's translations are "abbreviated" compared to later versions is considered erroneous by Jan Nattier, who argues he used earlier, shorter Indian source manuscripts.
+
+Source: adapted from "Kumārajīva" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva

@@ -49,3 +49,5 @@ Unification was achieved largely on Piedmont's terms, imposing its laws, bureauc
 - The economic and social integration of the south remains a contentious issue. Some argue that the imposition of northern free-market policies on the south's protectionist economy caused long-term underdevelopment (the "Southern Question").
 - The political significance of cultural expressions, especially Giuseppe Verdi's operas, is debated. Some see them as patriotic anthems, while others argue their political dimension was exaggerated by later nationalist historians.
 - The extent to which the unification process was complete by 1871 is questioned, as the irredentist movement continued to shape Italian politics and foreign policy into the 20th century.
+
+Source: adapted from "Unification of Italy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Unification_of_Italy

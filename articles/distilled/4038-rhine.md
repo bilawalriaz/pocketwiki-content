@@ -47,3 +47,5 @@ The Rhine formed the northern boundary of the Roman Empire, separating Gaul from
 
 ## Debates and Open Questions
 The International Commission for the Hydrology of the Rhine Basin (CHR) and EUWID contend that the river could experience a massive decrease in volume, or even dry up completely in case of drought, within the next 30 to 80 years as a result of the climate crisis. The exact length of the Rhine was a point of confusion until 2010, when a 1932 typographical error (1,320 km) was corrected to the accepted 1,232 km.
+
+Source: adapted from "Rhine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rhine

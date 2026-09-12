@@ -40,3 +40,5 @@ The 1947 partition split Punjab between India and Pakistan, leading to massive c
 ## Debates and open questions
 - The status of the Punjabi language is a social issue, with activists demanding its promotion as a medium of instruction against the dominance of Urdu and English.
 - The economic and developmental divide between northern and southern Punjab remains a significant challenge.
+
+Source: adapted from "Punjab, Pakistan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Punjab%2C_Pakistan

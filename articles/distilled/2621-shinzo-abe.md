@@ -44,3 +44,5 @@ In 2022, Abe was assassinated by a man who confessed he targeted Abe due to the 
 *   **Effectiveness of Abenomics:** Economists continue to assess whether Abenomics successfully revitalized Japan's economy or merely provided a temporary boost, leaving underlying issues like deflation and demographic decline unresolved.
 *   **Constitutional Revision:** Abe's lifelong goal of revising Article 9 remains unfulfilled. The debate continues over whether such a change is necessary for Japan's security or would fundamentally alter its pacifist identity.
 *   **Regional Relations:** The long-term impact of Abe's assertive foreign policy on stability in East Asia is debated, with arguments that it either strengthened deterrence against China or unnecessarily escalated tensions.
+
+Source: adapted from "Shinzo Abe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shinzo_Abe

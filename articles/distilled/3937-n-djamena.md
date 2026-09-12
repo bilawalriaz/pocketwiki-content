@@ -42,3 +42,5 @@ Cultural attractions include the Chad National Museum, which houses the partial 
 
 ## Debates and Open Questions
 The source notes that the city's population growth has been significantly influenced by refugees fleeing conflict, but also that many people have fled N'Djamena depending on the political situation, indicating a complex and fluctuating demographic history. The long-term feasibility and impact of proposed railway projects remain uncertain, with no construction as of 2025.
+
+Source: adapted from "N'Djamena" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/N%27Djamena

@@ -48,3 +48,5 @@ European colonization began in the 16th century, with formal claims by the Nethe
 - **Etymology of "Papua":** The origin of the name is unclear, with competing theories from Tidore, Malay, and Biak languages.
 - **Implementation of Special Autonomy:** Critics argue the Indonesian government has been reluctant to issue necessary regulations, causing the policy to "fail" in practice.
 - **Human cost of conflict:** Estimates of Papuan deaths due to government-sponsored violence since Indonesian integration vary widely, from over 100,000 to roughly 500,000.
+
+Source: adapted from "New Guinea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_Guinea

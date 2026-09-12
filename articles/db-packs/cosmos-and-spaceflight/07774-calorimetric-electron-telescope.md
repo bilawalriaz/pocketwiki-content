@@ -13,3 +13,5 @@ The mission pursues three linked objectives: the origin and acceleration mechani
 CALET works in synergy with the Alpha Magnetic Spectrometer (AMS), another ISS instrument that separately measures positrons and antiprotons (antimatter counterparts of protons) to search for dark matter. A real dark matter signal should appear in both datasets, so the comparison strengthens any candidate detection.
 
 In November 2017, the collaboration published its first results: roughly half a million electron and positron events spanning 10 GeV to 3 TeV. The measured electron spectral index above 30 GeV was −3.152 ± 0.016, a precise benchmark for how steeply the electron spectrum falls at high energies. Observations were planned to continue for more than five years.
+
+Source: adapted from "Calorimetric Electron Telescope" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Calorimetric_Electron_Telescope

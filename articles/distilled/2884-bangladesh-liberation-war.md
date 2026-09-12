@@ -38,3 +38,5 @@ The Pakistani military and allied militias (Razakars, Al-Badr, Al-Shams) engaged
 - **Casualty Figures**: The exact number of people killed during the war is highly debated, with estimates ranging from 300,000 to 3 million. Independent researchers have proposed figures between 125,000 and 505,000.
 - **International Recognition**: The war's recognition as a genocide is contested. While Bangladeshi media and many international publications use the term, Pakistani authorities dispute the accusations against their forces.
 - **Role of the United Nations**: The UN condemned human rights violations but failed to intervene politically before the war began. Its Security Council resolutions for a ceasefire were vetoed by the Soviet Union.
+
+Source: adapted from "Bangladesh Liberation War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bangladesh_Liberation_War

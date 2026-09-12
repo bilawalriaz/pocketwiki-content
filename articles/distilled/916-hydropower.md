@@ -63,3 +63,5 @@ Ancient waterwheels emerged independently in the Mediterranean and China by the 
 ## Debates and Open Questions
 
 Scholars debate whether ancient Indian cakkavattaka references describe water-powered noria or hand/tread-operated devices, with some arguing the textual evidence is ambiguous. The environmental trade-offs of large dams remain contested: while they provide low-carbon baseload power and flood control, their methane emissions, ecosystem disruption, and social displacement challenge their sustainability credentials. The role of small hydropower in rural electrification versus its impact on local stream ecosystems is actively studied. Additionally, the geopolitical implications of transboundary dams—particularly on the Nile—continue to generate diplomatic tension, with no agreed framework for equitable water sharing.
+
+Source: adapted from "Hydropower" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hydropower

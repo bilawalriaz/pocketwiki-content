@@ -47,3 +47,5 @@ Native American populations inhabited the region for millennia. European explora
 *   **Impact of Climate Change:** Long-term data shows a general decline in maximum annual ice cover, aligning with regional warming. The full impact on lake levels, ecosystems, and weather patterns like lake-effect snow is an ongoing area of study.
 *   **Effectiveness of Invasive Species Control:** Despite decades of effort, new invasive species continue to arrive, and established ones like quagga mussels have caused drastic, unprecedented changes to lake food webs, such as the collapse of deepwater fish communities in Lake Huron.
 *   **Future of Water Diversion:** While the Great Lakes Compact restricts diversions, concerns remain about potential future proposals to divert water to water-scarce regions, especially as climate patterns shift.
+
+Source: adapted from "Great Lakes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Lakes

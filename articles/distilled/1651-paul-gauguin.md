@@ -67,3 +67,5 @@ Gauguin arrived at Atuona, Hiva Oa, 16 September 1901. The population had plumme
 - **Agency of Tahitian/ Marquesan subjects**: Were Teha'amana, Pau'ura, Vaeoho willing participants in local custom (*vahine* marriage), or victims of power imbalance? Gauguin’s own writings ("She asks to be raped... beating every week makes her obey") contradict Prideaux’s equity claim.
 - **Extent of influence on Picasso**: Richardson and Sweetman argue 1906 Gauguin retrospective (especially *Oviri*) was decisive for *Les Demoiselles d'Avignon*; Picasso later downplayed the debt.
 - **Dating and location of late paintings**: Marquesas works (1901–03) often indistinguishable from Tahiti works; experts rely on subtle tonal shifts (Szech: "repose and melancholy") and provenance.
+
+Source: adapted from "Paul Gauguin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paul_Gauguin

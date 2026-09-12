@@ -45,3 +45,5 @@ Traditional African art is deeply intertwined with Traditional African religions
 - There is ongoing scholarly debate about the classification and stylistic influences of art from groups like the Bwa, Gurunsi, and Mossi in Burkina Faso, partly due to historical confusion during the colonial era.
 - The restitution of African artifacts held in Western museums is a major contemporary issue, sparked by reports like the 2018 French commission, with activists like Mwazulu Diyabanza taking direct action for their return.
 - The scope of "African art" is debated, with recent movements to include the visual culture of all African regions and time periods, as well as art from the African diaspora, to gain a fuller understanding of the continent's aesthetics.
+
+Source: adapted from "African art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/African_art

@@ -47,3 +47,5 @@ The Kaaba is the holiest site in Islam. The Tawaf, a compulsory rite of pilgrima
 - **Qibla Direction**: The significance of early Islamic mosques facing different directions is a subject of debate between revisionist historians and conservatives.
 - **Historical Identification**: The identification of the ancient town "Macoraba," mentioned by Ptolemy, with Mecca is disputed. Patricia Crone argued it was a different town in southern Arabia.
 - **Origin of Tawaf**: The ritual of circumambulation is believed to have pre-Islamic origins, possibly adopted from Najranite pagan practices.
+
+Source: adapted from "Kaaba" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kaaba

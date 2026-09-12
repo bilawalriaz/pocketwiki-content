@@ -62,3 +62,5 @@ Multidisciplinary teams address motor, speech, and cognitive deficits. Most reco
 - Role of routine screening for asymptomatic carotid stenosis is contested.  
 - Impact of workweek length (>55 hours) on stroke risk requires further study.  
 - Effectiveness of cognitive rehabilitation for spatial neglect lacks strong evidence.
+
+Source: adapted from "Stroke" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stroke

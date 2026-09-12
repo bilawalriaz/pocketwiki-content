@@ -48,3 +48,5 @@ Tourism is the primary economic driver. The free-access policy increased annual 
 - The precise location of the "Wulin River" mentioned in the *Book of Han* (111 AD) as the first description of West Lake is debated, though it is widely interpreted as referring to the lake.
 - The origin of the "Three Ponds Mirroring the Moon" scenic spot is attributed to Su Shi's 11th-century designation of an area to prevent silting, but this is presented as a possible origin.
 - The economic and social impact of the 2002 free-access policy is a subject of analysis, with studies noting its role in boosting the local economy but also contributing to extreme crowding during holidays.
+
+Source: adapted from "West Lake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/West_Lake

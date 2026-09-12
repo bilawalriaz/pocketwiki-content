@@ -32,3 +32,5 @@ Though never permanently inhabited, the islands have been used for fishing and s
 
 ## Debates and Open Questions
 The source notes a territorial claim: Argentina considers the Scotia Sea part of the "Mar Argentino," a region that includes territories it claims but does not occupy, such as South Georgia and the Falkland Islands.
+
+Source: adapted from "Scotia Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scotia_Sea

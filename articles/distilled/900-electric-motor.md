@@ -96,3 +96,5 @@ Key standards: API 541/546/547 (petroleum/chemical), IEEE 112/115/841 (testing/s
 *   **Doubly-Fed Control Near Synchronism:** Doubly-fed machines offer twice the constant-torque speed range but face control instability near synchronous speed; brushless power transfer to rotor (BWRSDF) remains a theoretical solution requiring precision torque-angle/slip control.
 *   **Coreless Thermal Limits:** Ironless rotors achieve extreme acceleration but lack thermal mass; overheating remains a constraint even for small motors, mandating aggressive cooling.
 *   **Axial Flux Scaling:** Yokeless axial flux designs (e.g., Magnax) demonstrate high specific power (15 kW/kg peak) and stackability, but long-term reliability and mass-production maturity versus radial flux are evolving.
+
+Source: adapted from "Electric motor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electric_motor

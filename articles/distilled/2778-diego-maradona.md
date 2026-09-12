@@ -50,3 +50,5 @@ After retiring, Maradona had a modest managerial career, coaching clubs in Argen
 - **The "Hand of God" Goal**: The legitimacy and sportsmanship of his most famous goal remain a point of discussion, symbolizing his "cunning" style.
 - **Impact of Personal Life**: Scholars and fans debate how his off-field struggles with addiction and discipline affected his career longevity and peak performance.
 - **Cultural Icon vs. Controversial Figure**: His status as a divine figure in Argentina contrasts with his global reputation as a flawed genius, raising questions about the nature of sporting heroism.
+
+Source: adapted from "Diego Maradona" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diego_Maradona

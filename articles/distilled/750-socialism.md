@@ -85,3 +85,5 @@ Significant global support persists. 2018 IPSOS: 50% global agreement socialist 
 *   **Incentives & Calculation:** Can a socialist economy solve the incentive problem without material inequality? Can non-market allocation achieve rational efficiency (socialist calculation debate)?
 *   **Historical Legacy:** Are 20th-century communist regimes' crimes intrinsic to Marxist theory/Leninism, or contingent outcomes of backwardness/war/authoritarianism?
 *   **Ecological Compatibility:** Is socialism inherently productivist (dominating nature) or can it realize Marx's "metabolic rift" repair via eco-socialism/degrowth?
+
+Source: adapted from "Socialism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Socialism

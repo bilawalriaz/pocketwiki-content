@@ -42,3 +42,5 @@ Mosul has a Sunni Arab majority, with significant Kurdish, Assyrian, Turkmen, an
 
 ## Debates and Open Questions
 Scholars debate the authenticity and origin of many artifacts attributed to the "Mosul School" of metalwork, with some arguing that only a small number of items can be definitively linked to the city. The exact site of Xenophon's ancient town "Mépsila" is also uncertain, with some identifying it with modern Mosul and others with a location further north. The extent to which the city's social fabric was permanently altered by the rise of Salafism under Saddam Hussein and the subsequent IS occupation remains a critical question for its future.
+
+Source: adapted from "Mosul" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mosul

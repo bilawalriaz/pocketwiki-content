@@ -66,3 +66,5 @@ Released in May 1897, Wilde sailed for Dieppe, adopting the name "Sebastian Melm
 - **Authorship of *De Profundis* edits**: Robert Ross published an abridged version in 1905; the full, unexpurgated text appeared only in 1962. Douglas denied receiving a copy.
 - **Wilde’s political stance**: *The Soul of Man Under Socialism* advocates anarchist-individualist socialism (abolition of property, no government), distinct from Fabian state socialism; it inspired Russian revolutionaries but was suppressed under Stalin.
 - **Literary merit of *Dorian Gray***: Critics range from Robert McCrum (Guardian: top 100 English novels) to Robin McKie (technically mediocre, plot device unexploited). Wilde himself called the plot "as old as the history of literature."
+
+Source: adapted from "Oscar Wilde" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oscar_Wilde

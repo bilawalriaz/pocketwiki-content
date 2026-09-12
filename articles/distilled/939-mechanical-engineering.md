@@ -45,3 +45,5 @@ Computer-aided engineering (CAE) suites enable virtual prototyping, simulation, 
 
 ## Debates and Open Questions  
 The origin of the wheel remains debated, with some sources attributing it solely to Mesopotamia and others suggesting independent invention in Eastern Europe. The extent of prehistoric knowledge of simple machines versus later formalization is also discussed. In modern times, the feasibility of molecular assemblers in nanotechnology remains speculative, representing an area of exploratory engineering rather than established practice.
+
+Source: adapted from "Mechanical engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mechanical_engineering

@@ -54,3 +54,5 @@ Post-apartheid novels explore new fault lines. *The House Gun* (1998) examines w
 - **Post-apartheid relevance**: *July's People* was removed from a school list in 2001 as "deeply racist, superior and patronising"—a charge Gordimer called a grave insult. Critics still debate whether her liberal white gaze illuminates or distorts Black experience.
 - **Activism vs. artistry**: Gordimer insisted fiction should not be propaganda, yet her novels are inseparable from her activism. The Nobel citation praised "magnificent epic writing" of "very great benefit to humanity"—implying the two are fused.
 - **Unauthorised biography (*No Cold Kitchen*, 2006)**: Roberts’ account of her husband’s death, a 1950s affair, and her Israel views led Gordimer to disown the book, raising questions about authorial control over life narrative.
+
+Source: adapted from "Nadine Gordimer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nadine_Gordimer

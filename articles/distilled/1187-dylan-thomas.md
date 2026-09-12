@@ -69,3 +69,5 @@ Thomas’s stature has been debated since his death. Seamus Heaney noted he beca
 - **Welsh Identity**: Thomas denied bardic influence and nationalism, yet critics (FitzGibbon, Ackerman) root his work in Welsh geography and psyche; formal metrics (*cynghanedd*) remain contested.
 - **Plagiarism**: Biographers note extensive juvenile plagiarism in school magazine and *Boy's Own Paper*; its impact on his early development vs. later originality is debated.
 - **Critical Standing**: The Movement's rejection vs. enduring public popularity; recent scholarship (Goodby, New Centenary Edition) seeks to reclaim him as a major modernist, moving beyond the "doomed poet" myth.
+
+Source: adapted from "Dylan Thomas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dylan_Thomas

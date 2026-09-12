@@ -40,3 +40,5 @@ Niẓām al-Mulk was assassinated in 1092 by a member of the Assassins, a sect l
 
 ## Debates and Open Questions
 The historicity of the "Three Schoolfellows" story involving Niẓām al-Mulk, Omar Khayyam, and Ḥasan-i Ṣabbāh is widely disputed by scholars due to chronological inconsistencies. The exact nature and extent of Niẓām al-Mulk's personal piety and his relationship with Sufi orders are subjects of historical interpretation. While he is portrayed as the archetypal "good vizier," the balance between his administrative genius and his ruthless political maneuvering (such as the poisoning of Kavurt) remains a point of analysis.
+
+Source: adapted from "Nizam al-Mulk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nizam_al-Mulk

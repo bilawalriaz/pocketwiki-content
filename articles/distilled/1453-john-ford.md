@@ -79,3 +79,5 @@ Ford is widely ranked among cinema’s most influential directors. Admirers incl
 - **Sexuality rumors**: Maureen O’Hara’s 2004 autobiography claims she saw Ford kissing a famous male actor at Columbia Studios; the actor is unnamed and the claim is uncorroborated.
 - **Political consistency**: Scholars debate whether Ford was "essentially apolitical" (Gallagher) or a committed conservative/Republican in later life, given his Goldwater/Nixon votes, Vietnam support, and IRA funding.
 - **Lost silent films**: Only 10 of 62+ silent features survive complete; rediscoveries (e.g., *Upstream* in New Zealand, 2009; *Bucking Broadway* in France, 2002) continue to reshape understanding of his early style.
+
+Source: adapted from "John Ford" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Ford

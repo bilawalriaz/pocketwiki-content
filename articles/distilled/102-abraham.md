@@ -65,3 +65,5 @@ Paintings on Abraham focus on a few incidents: the sacrifice of Isaac, meeting M
 ## Debates and open questions
 
 Scholars debate whether Abraham's story retains any historical memory: some argue for an Amorite origin based on parallels with 2nd-millennium Mari texts and the name Abram, while others propose a Canaanite origin, citing a possible 10th-century BCE reference and a 13th-century BCE tribe named Raham. The mechanisms by which oral traditions became written text in the Persian period remain unknown, with competing hypotheses of Persian Imperial authorization versus community-defining criteria. The original meaning of Abraham's name is uncertain, with "father is exalted" proposed as more likely than the biblical folk etymology "father of a multitude."
+
+Source: adapted from "Abraham" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abraham

@@ -44,3 +44,5 @@ The central philosophical target is Leibnizian optimism, embodied by Pangloss, w
 - **The Meaning of "Cultivate Our Garden"**: Scholars debate whether this conclusion advocates for passive retreat from society, active industrious contribution to it, or simply a practical focus on one's immediate affairs.
 - **Voltaire's Voice**: The "inside/outside" controversy questions whether the novel's message should be read as directly expressing Voltaire's personal philosophy ("outside") or as an independent narrative whose meaning is contained within the text itself ("inside").
 - **Philosophical Prescription**: Critics argue over whether Voltaire is advocating for a specific philosophy (like Martin's pessimism) or simply rejecting optimism without offering a systematic alternative.
+
+Source: adapted from "Candide" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Candide

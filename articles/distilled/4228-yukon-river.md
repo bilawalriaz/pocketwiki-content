@@ -39,3 +39,5 @@ The river has a recent history of pollution from military installations and othe
 - The exact source of the Yukon River is debated, with candidates including Llewellyn Glacier, Lake Lindeman, or Teslin Lake.
 - The root cause of declining salmon runs is debated, with questions about climate change effects, fishing methods, and impacts from the Bering Sea Pollock trawl fleet.
 - The literal meaning of the name "Yukon" was historically debated among Dene nations, with evidence suggesting a Gwich'in origin meaning "white water river."
+
+Source: adapted from "Yukon River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yukon_River

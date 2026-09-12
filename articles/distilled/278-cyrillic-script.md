@@ -68,3 +68,5 @@ Unicode (v.17.0) encodes Cyrillic across seven blocks: Cyrillic (U+0400–U+04FF
 - **Script politics in the post-Soviet space:** Transitions between Cyrillic and Latin (e.g., Kazakhstan’s 2025 switch, Chechnya’s competing mandates) reflect unresolved tensions between national identity, regional integration, and Russian federal policy.
 - **Unicode support for historical and minority orthographies:** Despite Unicode 5.1/17.0 expansions, some Church Slavonic and early Cyrillic combinations remain incompletely supported; font fallback and OpenType *locl* feature implementation vary across platforms.
 - **Typography standardization vs. regional variation:** The tension between unified Unicode code points and language-specific glyph shapes (Serbian/Macedonian vs. Russian vs. Bulgarian italics) creates rendering ambiguities when language tagging is absent.
+
+Source: adapted from "Cyrillic script" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cyrillic_script

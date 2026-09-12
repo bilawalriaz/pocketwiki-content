@@ -38,3 +38,5 @@ The future evolution of the Bering Sea's climate and ecosystem is uncertain due 
 ## Debates and Open questions
 - The acceptance of the Bering land bridge as the first point of human entry into the Americas is noted as "accepted by most, though not all scientists."
 - The future evolution of the Bering Sea climate and ecosystem is explicitly stated as "uncertain" due to ongoing Arctic changes.
+
+Source: adapted from "Bering Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bering_Sea

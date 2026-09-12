@@ -33,3 +33,5 @@ A thermodynamic potential stores the energy available for work under particular 
 ## Axiomatic formulation and open questions
 
 Constantin Carathéodory's 1909 axiomatic approach rebuilt thermodynamics from rigorous mathematical axioms based on which states are adiabatically accessible from which others, without appealing to engines. Modern applications reach across physics, chemistry, engineering, biology, materials science, meteorology, and economics. Quantum thermodynamics investigates how these classical laws hold at atomic scales. The meaning of entropy, whether as disorder, missing information, or a statistical count, remains debated, as does who coined the word "thermodynamics" itself: it appears linked to William Thomson and William Rankine around 1854, though James Joule used the phrase "perfect thermo-dynamic engine" in 1858.
+
+Source: adapted from "Thermodynamics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thermodynamics

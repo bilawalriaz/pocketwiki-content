@@ -21,3 +21,5 @@ Hemispheres can also be drawn along cultural or religious lines, such as the his
 ## Limits of the Concept
 
 The East–West split is a cartographic convention, not a natural fact. No single meridian is objectively correct, which is why the Prime Meridian's location was a diplomatic decision in 1884. Socioeconomic labels like the "Global North" and "Global South" describe wealth and politics rather than latitude, and they do not align with the geographical hemispheres.
+
+Source: adapted from "Hemispheres of Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hemispheres_of_Earth

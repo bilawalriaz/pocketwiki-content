@@ -52,3 +52,5 @@ Melanchthon and Luther complemented each other: Luther was the fiery pioneer, wh
 - **Synergism vs. Luther's determinism:** His shift to teaching human cooperation in salvation created lasting tension within Lutheranism.
 - **Theological legacy:** Some view him as a faithful systematizer of Luther, while others see his humanistic and irenic tendencies as a departure from core Lutheran thought.
 - **Authorship of the Augsburg Confession:** While primarily his work, the extent of Luther's influence and approval remains discussed.
+
+Source: adapted from "Philipp Melanchthon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philipp_Melanchthon

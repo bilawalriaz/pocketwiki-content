@@ -39,3 +39,5 @@ The Timurid era was defined by a synthesis of Turco-Mongol military traditions a
 - **Legitimacy and Lineage**: Scholars debate the authenticity of Timurid genealogical claims linking Timur directly to Genghis Khan. Later texts like the *Tuzuk-e Tīmuri* are considered doubtful by modern scholarship.
 - **Cultural Identity**: The empire's identity is analyzed as a synthesis of "Turk" (steppe nomad) and "Tajik" (sedentary Persian) elements, with the terms often representing socio-political roles rather than strict ethnic descent.
 - **State Symbols**: The meaning of Timur's "sign" (three circles in a triangle) is uncertain; it may represent rule over three parts of the world or his title "Sahib-Qiran" (ruler of three planets).
+
+Source: adapted from "Timurid Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Timurid_Empire

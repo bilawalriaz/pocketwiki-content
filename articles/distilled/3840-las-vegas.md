@@ -47,3 +47,5 @@ Las Vegas hosts major professional teams: the Vegas Golden Knights (NHL), Las Ve
 *   **Water Sustainability:** Long-term growth viability is debated due to arid location and dependence on shrinking Lake Mead. The Southern Nevada Water Authority's proposed $3.2 billion pipeline across Nevada is controversial.
 *   **Economic Diversification:** Efforts to attract tech, health, and commercial industries continue, but the economy remains heavily reliant on tourism and gaming, making it vulnerable to downturns.
 *   **Urban Revitalization:** The success and impact of downtown projects like the Fremont Street Experience and the Tony Hsieh-funded Downtown Project are ongoing subjects of analysis regarding their effect on tourism and local communities.
+
+Source: adapted from "Las Vegas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Las_Vegas

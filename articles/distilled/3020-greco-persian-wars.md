@@ -47,3 +47,5 @@ Following the Persian withdrawal, Sparta lost interest in the campaign, and lead
 - **Troop Numbers**: The figures given by Herodotus for Xerxes' army (e.g., 2.5 million) are widely rejected by modern scholars as exaggerated; estimates for the Persian force at Plataea often center around 200,000.
 - **Herodotus's Reliability**: While his work is the primary source, some details, especially precise numbers and dates, are viewed with skepticism. His account of the betrayal at Thermopylae by Ephialtes is also questioned as possible folklore.
 - **The Battle of Mycale**: Some modern historians doubt Herodotus's account that the battle occurred on the same day as Plataea, suggesting it may have happened later after news of the victory arrived.
+
+Source: adapted from "Greco-Persian Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Greco-Persian_Wars

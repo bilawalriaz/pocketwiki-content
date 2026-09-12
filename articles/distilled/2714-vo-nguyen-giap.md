@@ -42,3 +42,5 @@ As Defense Minister and PAVN commander, Giáp oversaw the army's expansion durin
 - **Credit for Victory**: While often credited with North Vietnam's victory over the U.S. and South Vietnam, recent scholarship suggests other leaders like Văn Tiến Dũng and Lê Duẩn had more direct military responsibility for the final campaigns.
 - **Tet Offensive**: Giáp's role is debated; he opposed the offensive and left for medical treatment, but later defended it as a successful political and psychological strategy.
 - **Military Genius vs. Recklessness**: Critics like William Westmoreland argued Giáp showed disregard for human life, while defenders like Derek Frisby and Henry Kissinger contend he masterfully applied protracted war strategy, understanding that political will, not battlefield attrition, was decisive.
+
+Source: adapted from "Võ Nguyên Giáp" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p

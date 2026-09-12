@@ -45,3 +45,5 @@ As Cavendish Director, Rutherford fostered an environment that led to major disc
 
 ## Debates and Open Questions
 The source notes that Rutherford's 1933 speech, in which he dismissed atomic energy as "moonshine," was later cited by Leó Szilárd as the inspiration for his own idea of a controlled nuclear chain reaction. The text also clarifies that while Rutherford contributed to the development of piezoelectricity for submarine detection, the claim that he invented sonar is a misconception, as the technology primarily uses Paul Langevin's transducer.
+
+Source: adapted from "Ernest Rutherford" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ernest_Rutherford

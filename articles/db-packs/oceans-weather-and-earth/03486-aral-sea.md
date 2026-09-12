@@ -31,3 +31,5 @@ The North Aral today supports a recovering freshwater and introduced fish commun
 ## Debates and limits
 
 The International Fund for Saving the Aral Sea (IFAS) coordinates regional programmes (ASBP-1, -2, -3) covering water management, environmental protection, and socio-economic recovery, but the central tension is between upstream agricultural water use and downstream ecological needs. Grand proposals to refill the basin by diverting water from Siberian rivers such as the Ob and Irtysh remain technically and politically unfeasible. Restoration has succeeded only in the smaller, politically cooperative northern lobe.
+
+Source: adapted from "Aral Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aral_Sea

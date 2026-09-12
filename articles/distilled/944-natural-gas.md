@@ -79,3 +79,5 @@ Gas leaks pose explosion risks, especially indoors. Odorants help detect leaks, 
 - **Naming controversy**: Advocates argue “fossil gas” better reflects climate risks than “natural gas,” citing studies showing improved public risk perception with alternative terms.
 - **Fracking regulation**: Ongoing debates over environmental safety, water contamination, and seismic risks versus economic benefits of shale gas development.
 - **Future demand**: Will global reliance on natural gas decline with renewable energy growth, or will emerging markets sustain demand?
+
+Source: adapted from "Natural gas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Natural_gas

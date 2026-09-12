@@ -31,3 +31,5 @@ Humans draw two kinds of value from ecosystems. Ecosystem goods are tangible pro
 ## Open questions
 
 The boundary between a biome (a general ecosystem category such as "temperate forest") and a specific named ecosystem is not sharp. It is not settled how much function depends on biodiversity as a whole versus on the presence of particular functional species. Assigning an economic value to ecosystem services is hard for the same reason, and the attempt remains an active, contested part of environmental policy.
+
+Source: adapted from "Ecosystem" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ecosystem

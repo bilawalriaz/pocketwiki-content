@@ -42,3 +42,5 @@ The Latin root *religiō* did not originally mean belief in gods. In Roman usage
 
 - *Atheist* and *agnostic* are not the same as *irreligious*. Atheism is the lack of belief in gods; agnosticism holds that gods' existence is unknowable; *irreligion*, the absence of any religious commitment, is the true opposite and differs from active *antireligion*.
 - Violence is not exclusive to religion. Critics such as Richard Dawkins argue religion is inherently violent; anthropologist Jack David Eller counters that "violence is neither essential to nor exclusive to religion."
+
+Source: adapted from "Religion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Religion

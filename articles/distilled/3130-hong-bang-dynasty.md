@@ -38,3 +38,5 @@ The Hồng Bàng epoch concluded in 258 BC when Thục Phán, leader of the Âu 
 
 ## Debates and Open Questions
 The historicity of the Hồng Bàng period is heavily debated. The chronology and existence of the Hùng kings are based on later legends and chronicles, not contemporary records. Archaeological evidence confirms advanced Bronze Age cultures like Đông Sơn in the region, but a direct, proven link to the legendary dynasty is not established. The claimed borders of Văn Lang (e.g., to Hunan) are considered unverified by archaeological research.
+
+Source: adapted from "Hồng Bàng dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/H%E1%BB%93ng_B%C3%A0ng_dynasty

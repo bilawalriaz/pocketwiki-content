@@ -49,3 +49,5 @@ From the 1970s onward, the state fought multiple insurgencies (FARC, ELN, M-19) 
 *   The effectiveness and human rights record of President Uribe's "Democratic Security" policy remain contested, with supporters crediting it for improved security and critics highlighting abuses.
 *   The long-term success and implementation of the 2016 peace agreement with the FARC is an ongoing process, with challenges in rural reform, reintegration, and continued violence from other groups.
 *   The causes and responsibility for the Palace of Justice siege (1985) and the subsequent deaths are still subjects of investigation and dispute.
+
+Source: adapted from "History of Colombia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Colombia

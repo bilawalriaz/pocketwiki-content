@@ -53,3 +53,5 @@ The 17th-century laissez-faire movement, led by the Physiocrats in France, held 
 ## Measuring the public sector
 
 The internationally accepted methodology for compiling fiscal data is the Government Finance Statistics Manual 2001 (GFSM 2001), consistent with the System of National Accounts. It defines the general government sector as non-market producers funded mainly by compulsory levies, with four sub-sectors: central government, state government, local government, and social security funds. Public corporations are excluded from general government but included in the broader public sector. GFSM 2001 uses accrual accounting and a full set of financial statements (operations, balance sheet, cash flow), data investors use to assess sovereign risk.
+
+Source: adapted from "Public finance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Public_finance

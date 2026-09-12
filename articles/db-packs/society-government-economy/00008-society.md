@@ -46,3 +46,5 @@ Sociologists classify societies by technology: pre-industrial, industrial, and p
 ## Open questions
 
 Debates include whether humans are eusocial, the Eurocentrism of Western sociology, the validity of Sahlins's "original affluent society" thesis, the recency of organized war, and the absence of a generally accepted definition of ethnic group.
+
+Source: adapted from "Society" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Society

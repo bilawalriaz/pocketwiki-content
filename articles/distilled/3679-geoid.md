@@ -41,3 +41,5 @@ Geoid height variations reflect anomalous mass distributions within Earth. A mas
 - The precise definition and computation of the geoid remain mathematically challenging, with ongoing improvements in accuracy (e.g., Vaníček's solution achieving millimeter-to-centimeter precision).
 - The exact causes of major geoid features, like the North Atlantic Geoid High, are still studied, involving factors like ice-age loading and mantle convection.
 - The unreleased status (as of 2025) of the planned EGM2020 model indicates continued international effort to refine geoid representation with better data.
+
+Source: adapted from "Geoid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geoid

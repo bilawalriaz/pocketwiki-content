@@ -53,3 +53,5 @@ Wilson suffered a severe stroke in October 1919, leaving him incapacitated. His 
 - **Racial Legacy**: Scholars critically examine Wilson's role in institutionalizing segregation in the federal government and its long-term economic impact on Black civil servants.
 - **Foreign Policy Impact**: Debate continues over whether Wilsonian idealism was a visionary approach to international relations or an impractical doctrine that contributed to future conflicts.
 - **Health and Governance**: The extent to which Wilson's 1919 stroke and subsequent incapacity affected key decisions, particularly the final negotiations over the Treaty, remains a subject of historical inquiry.
+
+Source: adapted from "Woodrow Wilson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Woodrow_Wilson

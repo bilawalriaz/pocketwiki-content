@@ -91,3 +91,5 @@ Methods organized by length/time scale:
 - **Quantum effects in hydrogen bonding:** Proton zero-point motion and tunneling in water and associated liquids require quantum treatment even at room temperature.
 - **Ab initio prediction:** Computational cost limits quantum MD to small systems/short times; accurate classical force fields still rely on experimental fitting.
 - **Liquid-liquid phase transitions:** Hypothesized transitions between distinct liquid structures (e.g., in water, silicon) remain experimentally and theoretically debated.
+
+Source: adapted from "Liquid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liquid

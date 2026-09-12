@@ -48,3 +48,5 @@ Euler laid the groundwork in 1737 by showing $\zeta(1)$ diverges, equivalent to 
 The **Bunyakovsky conjecture** extends Dirichlet's theorem to irreducible polynomials of higher degree, asking whether $n^2+1$ takes infinitely many prime values (Landau's fourth problem), an open question. **Dickson's conjecture** and **Schinzel's hypothesis H** generalise further to several polynomials simultaneously. In algebraic number theory, **Chebotarev's density theorem** extends Dirichlet's result to Galois extensions of number fields.
 
 **Linnik's theorem** (1944) bounds how large the smallest prime in a valid progression $a+nd$ must be: it is at most $cd^L$ for absolute constants $c$ and $L$, with $L$ later reduced to 5. Shiu (2000) showed that any valid progression contains arbitrarily long runs of consecutive primes. Sunada and Katsuda (1990) established a dynamical analogue.
+
+Source: adapted from "Dirichlet's theorem on arithmetic progressions" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions

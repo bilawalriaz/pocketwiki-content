@@ -45,3 +45,5 @@ Gwanggaeto died in 412 at age 38. His conquests—reportedly 64 walled cities an
 - The identity of the enemy in Gwanggaeto's 407 campaign of 50,000 troops is debated; it could be Later Yan, Baekje, or the Wa.
 - Passages on the Gwanggaeto Stele concerning the Wa are subject to differing interpretations by Korean and Japanese scholars.
 - The exact maximum western extent of Goguryeo under Gwanggaeto is uncertain, though archaeological evidence of fortress ruins in Mongolia suggests it may have reached further than traditionally recorded.
+
+Source: adapted from "Gwanggaeto the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gwanggaeto_the_Great

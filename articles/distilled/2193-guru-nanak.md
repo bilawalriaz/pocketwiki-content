@@ -45,3 +45,5 @@ Nanak did not pass the Guruship to his sons, instead appointing his devoted foll
 - **Authenticity of Travels**: The details and extent of Nanak's travels are disputed. Early Sikh texts do not contain many travel stories, which appear and become more elaborate in later hagiographies, paralleling miracle stories in other traditions.
 - **Nature of Teachings**: Scholars debate whether Nanak's teachings were a divine revelation, a social protest movement, or an attempt to synthesize Hinduism and Islam. Recent scholarship moves away from the "syncretic" label, viewing Sikhism in the context of medieval Indian Bhakti and Sant movements.
 - **Historical vs. Legendary Nanak**: Due to a lack of contemporary factual documentation, a distinction is made between the "historical Nanak" and the "legendary Nanak" of hagiography. The Janamsakhis, the primary sources, were written for religious, not historical, purposes.
+
+Source: adapted from "Guru Nanak" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guru_Nanak

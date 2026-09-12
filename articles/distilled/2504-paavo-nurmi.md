@@ -44,3 +44,5 @@ After retiring, Nurmi coached Finnish runners, raised funds for Finland during t
 - **Amateur status suspension**: The IAAF's 1932 decision to bar Nurmi remains controversial. Evidence came from German promoters alleging payments, but the Finnish federation found no proof. Swedish official Sigfrid Edström's role sparked accusations of political maneuvering.
 - **Impact of U.S. tour**: Whether Nurmi's exhaustive 1925 American tour contributed to his later injuries and motivation issues is debated.
 - **Legacy of training methods**: While Nurmi's systematic, year-round training was revolutionary, the extent to which his stopwatch-driven approach was uniquely influential versus part of a broader early 20th-century trend is discussed.
+
+Source: adapted from "Paavo Nurmi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paavo_Nurmi

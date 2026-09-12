@@ -42,3 +42,5 @@ Theodoric's death led to a violent succession among his sons. Thorismund was ele
 - It is debated whether Theodoric I issued his own legislation.
 - The circumstances of his death are recorded with two different accounts by the historian Jordanes.
 - The precise nature of the peace treaty after 436 is unclear; it may have involved Roman recognition of Visigothic sovereignty.
+
+Source: adapted from "Theodoric I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theodoric_I

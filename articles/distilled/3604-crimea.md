@@ -49,3 +49,5 @@ The population is approximately 2.2 million. According to the 2014 Russian censu
 - The legality of the 2014 referendum and subsequent Russian annexation is not recognized by most of the international community, with Ukraine and over 100 UN member states affirming Crimea as Ukrainian territory.
 - The status and rights of the Crimean Tatar population, particularly regarding cultural and educational autonomy, remain a significant issue following their historical deportations and ongoing return.
 - The long-term geopolitical implications of the annexation and the resulting sanctions on Crimea's economy and infrastructure are subjects of ongoing analysis.
+
+Source: adapted from "Crimea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Crimea

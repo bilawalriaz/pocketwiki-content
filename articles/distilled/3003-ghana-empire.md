@@ -48,3 +48,5 @@ The economy was based on taxing trade, especially salt, while gold nuggets were 
 - **Almoravid Conquest**: The traditional narrative of a decisive Almoravid military conquest in 1076–77 is highly contested; evidence suggests political agitation rather than a full invasion.
 - **Capital Location**: The identification of Koumbi Saleh as the capital described by al-Bakri is disputed, with some scholars suggesting al-Idrisi described a different, later capital near a river.
 - **Decline**: The causes of Ghana's decline are multifaceted, involving environmental change (Sahel drying), economic shifts, and pressure from the Almoravids, Sosso, and finally Mali.
+
+Source: adapted from "Ghana Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ghana_Empire

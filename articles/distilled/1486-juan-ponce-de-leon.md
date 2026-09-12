@@ -60,3 +60,5 @@ In March 1521, Ponce de León launched a serious colonization attempt: 200 men (
 - **Southwest Florida landfall (1513 & 1521)**: Identified variously as Charlotte Harbor, Tampa Bay, Pensacola, Cape Romano, or Cape Sable; distances and travel times in Herrera’s account constrain but do not resolve the location.
 - **Pre-1513 European presence**: The Cantino Map (1502) and Bahama slave raids (from 1494) strongly suggest unrecorded Spanish slavers reached Florida before Ponce de León, though he made the first *documented* and *royal-sanctioned* voyage.
 - **Fountain of Youth**: Universally rejected by historians as a post-mortem fabrication; the 1512 contract and contemporary accounts focus exclusively on territory, gold, and labor.
+
+Source: adapted from "Juan Ponce de León" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Juan_Ponce_de_Le%C3%B3n

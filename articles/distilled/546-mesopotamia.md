@@ -76,3 +76,5 @@ Modern Iraqi groups (Mesopotamian Arabs, Assyrians, Kurds, Yazidis, Marsh Arabs)
 - **Early state formation**: Relative weight of irrigation management vs. trade/defense in driving initial urbanization and centralization.
 - **Salinization vs. political collapse**: Degree to which soil salinization caused the south’s decline versus political/military factors.
 - **Genetic continuity**: Precise relationship of modern groups (especially Marsh Arabs) to ancient Sumerians/Akkadians given limited ancient DNA.
+
+Source: adapted from "Mesopotamia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mesopotamia

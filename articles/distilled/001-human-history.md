@@ -73,3 +73,5 @@ The Cold War (1945–1991) between the United States and Soviet Union ended peac
 ## Debates and open questions
 
 Historians debate the causes of the Neolithic Revolution, with theories identifying population growth as either cause or effect of improved food supply, alongside climate change, resource scarcity, and ideology. The causes of Europe's rise (the Great Divergence) remain contested. Scholars also debate whether early human migrations died out and whether extinctions of megafauna and Neanderthals were caused by climate change, human activity, or both. Periodization itself is debated, with historians drawing on different approaches—political events, modes of production, inter-society relations, or religious/cultural turning points—to divide human history.
+
+Source: adapted from "Human history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_history

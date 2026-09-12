@@ -46,3 +46,5 @@ Fighting continued after the U.S. withdrawal. In 1975, a swift North Vietnamese 
 - **Could the U.S. have achieved military victory?** Scholars debate whether U.S. military strategy was flawed or if the political objectives were ultimately unattainable.
 - **What was the impact of the anti-war movement?** Historians disagree on the extent to which domestic opposition in the U.S. influenced the decision to withdraw and the war's outcome.
 - **How responsible was the U.S. for the post-war refugee crisis and regional instability?** The long-term consequences, including the Cambodian genocide, are analyzed in relation to U.S. policies and bombing campaigns.
+
+Source: adapted from "Vietnam War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vietnam_War

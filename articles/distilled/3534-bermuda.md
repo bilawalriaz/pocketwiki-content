@@ -49,3 +49,5 @@ The archipelago sits atop ancient volcanic seamounts, with a limestone cap forme
 - **Independence**: The 1995 referendum saw a large majority vote against independence, but the issue remains a topic of political discussion.
 - **CARICOM Membership**: Bermuda's 2003 decision to join CARICOM was controversial, with opponents arguing it was detrimental due to negligible trade and cultural differences.
 - **Citizenship and Immigration**: Historical changes to British nationality laws have affected Bermudians' rights of abode in the UK, a point of ongoing sensitivity.
+
+Source: adapted from "Bermuda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bermuda

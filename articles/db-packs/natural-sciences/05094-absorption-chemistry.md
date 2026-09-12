@@ -32,3 +32,5 @@ Reactive absorption combines physical uptake with a stoichiometric reaction betw
 ## Water in a solid
 
 Hydrophilic solids, including many of biological origin, absorb water readily. Polar interactions between water and the solid's functional groups favor partitioning of water into the bulk, so a dry hydrophilic material can pick up measurable water from air even at modest humidity. A fiber exposed to the atmosphere usually contains some water even when it feels dry; heating in an oven drives that water off as a measurable loss in weight, and the mass returns when the fiber is brought back to a normal atmosphere. In the textile industry the proportion of a material's weight made up by water under standard atmospheric conditions is called the moisture regain, a quantity that affects the weight, feel, and processing of every natural and synthetic fabric.
+
+Source: adapted from "Absorption (chemistry)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Absorption_%28chemistry%29

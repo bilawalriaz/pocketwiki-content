@@ -33,3 +33,5 @@ Four approaches are used, each with different strengths and weaknesses.
 ## Why the uncertainty matters
 
 If ECS exceeds 3.4°C, emissions cannot be reduced fast enough to meet the Paris Agreement's 2°C target through conventional decarbonisation alone. Halving the uncertainty in TCR has been estimated to be worth trillions of dollars in mitigation planning. Higher sensitivity also increases decadal temperature variability, making both heat extremes and cold extremes more likely. Atmospheric CO₂ has already risen from 280 ppm in the 18th century to over 415 ppm by 2020, producing about 1°C of warming. Because CO₂'s incremental warming effect diminishes at higher concentrations, Earth was already more than halfway to doubled-CO₂ radiative forcing by 2016, and additional emissions continue to close that gap.
+
+Source: adapted from "Climate sensitivity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_sensitivity

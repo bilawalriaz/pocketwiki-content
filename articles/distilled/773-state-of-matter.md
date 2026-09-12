@@ -76,3 +76,5 @@ Several theoretical states remain unconfirmed: **supersolids** (solids with supe
 - The mechanism behind high-temperature superconductivity is not fully understood.
 - Whether string-net liquids represent fundamental conditions of the universe requires further study.
 - The Hagedorn temperature and Planck-scale states cannot currently be produced or described by existing theories.
+
+Source: adapted from "State of matter" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/State_of_matter

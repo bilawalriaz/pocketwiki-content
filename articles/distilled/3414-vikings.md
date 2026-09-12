@@ -45,3 +45,5 @@ The Viking Age concluded with the consolidation of Scandinavian kingdoms (Denmar
 *   **The Role of Women:** While legal codes suggest Viking women had significant rights (e.g., to divorce and inheritance), the extent of their social and political power, and the reality behind the "shieldmaiden" legend, remains debated. Archaeological finds like the Birka female warrior burial continue to fuel discussion.
 *   **The "Viking" Identity:** The term "Viking" may have originally described an activity (raiding) rather than a fixed ethnic group. Genetic studies suggest Viking bands were often diverse, with members from various regions joining for expeditions.
 *   **Jomsborg:** The existence and exact location of the semi-legendary Viking stronghold of Jomsborg remain unconfirmed by archaeology.
+
+Source: adapted from "Vikings" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vikings

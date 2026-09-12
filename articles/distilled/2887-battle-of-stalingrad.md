@@ -44,3 +44,5 @@ On 31 January 1943, Field Marshal Paulus surrendered the southern pocket. The la
 *   **Soviet Losses:** The exact number of Soviet military casualties is debated, with official archival figures around 1.13 million, but some historians argue this is an undercount, with true losses potentially higher.
 *   **Role of Coercion vs. Patriotism:** Historians debate the relative importance of Soviet coercive measures (like Order No. 227 and blocking detachments) versus genuine patriotism and hatred of the invader in motivating the Red Army's resistance.
 *   **Hitler's Decision to Forbid Breakout:** The strategic wisdom of Hitler's order for the 6th Army to hold its position at all costs, rather than attempting a breakout, remains a subject of military analysis.
+
+Source: adapted from "Battle of Stalingrad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Battle_of_Stalingrad

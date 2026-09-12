@@ -44,3 +44,5 @@ Fermat communicated his work in letters, often without proof, leading to later d
 - **Fermat's proof of his Last Theorem**: Did Fermat actually possess a valid proof? Most scholars doubt it, given the complexity of the eventual proof by Andrew Wiles.
 - **Priority disputes**: Fermat's secrecy and lack of published proofs led to disputes with contemporaries like Descartes over discoveries in analytic geometry.
 - **Accuracy of his claims**: Some of Fermat's number-theoretic claims were later shown to be incorrect, such as his assertion that all Fermat numbers are prime.
+
+Source: adapted from "Pierre de Fermat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pierre_de_Fermat

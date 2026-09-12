@@ -43,3 +43,5 @@ Teach was not the most successful pirate in terms of plunder, but his calculated
 - **Governor Eden's Complicity**: Governor Eden was accused of being Teach's accomplice for legitimizing his plunder. He was investigated but defended by his council.
 - **Charles Johnson's Identity**: The author of the seminal 1724 pirate history is anonymous; candidates include playwright Charles Johnson, publisher Charles Rivington, or writer Daniel Defoe.
 - **Buried Treasure**: Despite legends, there is no historical evidence Teach buried treasure. The only known pirate to do so was William Kidd.
+
+Source: adapted from "Blackbeard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Blackbeard

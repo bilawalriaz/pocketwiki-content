@@ -55,3 +55,5 @@ Ogham (4th century+) gave way to Latin script (5th century+). The traditional Ir
 *Sample (Universal Declaration of Human Rights, Article 1):*  
 **Irish:** *Saolaítear gach duine den chine daonna saor agus comhionann i ndínit agus i gcearta. Tá bua an réasúin agus an choinsiasa acu agus ba cheart dóibh gníomhú i dtreo a chéile i spiorad an bhráithreachais.*  
 **English:** *All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.*
+
+Source: adapted from "Irish language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Irish_language

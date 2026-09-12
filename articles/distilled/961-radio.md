@@ -62,3 +62,5 @@ Radio enables: **Broadcasting** (audio/video to public); **Voice communication**
 *   **Analog-to-digital transition:** Begun in the late 1990s, this transition is described as "slow." The debate involves the pace of legacy system retirement, the cost of infrastructure replacement, and the management of interference between analog and digital services during the transition.
 *   **Health effects:** The "See also" section lists "Electromagnetic radiation and health," implying ongoing public and scientific discussion regarding non-ionizing radio wave exposure, though the source text does not detail the debate.
 *   **Jamming and security:** The tension between legitimate security uses of jamming (military) and its prohibition for civilian use (including privacy/security products) highlights an open regulatory and ethical question regarding control over the electromagnetic environment.
+
+Source: adapted from "Radio" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Radio

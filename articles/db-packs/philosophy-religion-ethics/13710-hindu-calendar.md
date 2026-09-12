@@ -33,3 +33,5 @@ Astronomical timekeeping is one of the six Vedangas, the ancillary sciences atta
 ## Reach
 
 The Hindu calendar's framework spread with religion and trade. Early Buddhist communities in India adopted the ancient Vedic calendar and later local variants. The Buddhist calendar and the traditional lunisolar calendars of Cambodia, Laos, Myanmar, Sri Lanka, and Thailand are based on an older version of the Hindu calendar. Jain festival timing follows the same lunisolar structure. In Bali, a 210-day Pawukon calendar coexists with a Hindu lunisolar saka calendar. The Hindu Calendar Reform Committee of 1952 identified more than thirty well-developed regional variants still in use across India.
+
+Source: adapted from "Hindu calendar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hindu_calendar

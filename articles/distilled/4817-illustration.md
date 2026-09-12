@@ -40,3 +40,5 @@ The 19th century saw illustrators like John Leech and George Cruikshank contribu
 
 ## Debates and Open questions
 The source notes that illustration has historically been considered of less importance than graphic design and fine art, though its status is now rising. This suggests an ongoing discussion about its valuation within the broader art world.
+
+Source: adapted from "Illustration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Illustration

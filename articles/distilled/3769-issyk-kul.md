@@ -42,3 +42,5 @@ During the Soviet era, the northern shore became a major resort area. Tourism ha
 
 ## Debates and open questions
 The source presents a key hypothesis: some hydrologists propose that Issyk-Kul's water filters deep underground into the Chu River, as it has no surface outlet. The exact origin and early spread of the Black Death from the Issyk-Kul region remains a subject of ongoing research, with the 2022 genetic study providing strong evidence for its presence there in the 14th century.
+
+Source: adapted from "Issyk-Kul" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Issyk-Kul

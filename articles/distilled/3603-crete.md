@@ -51,3 +51,5 @@ Crete's isolation has led to unique fauna, including endemic species like the vu
 - The precise causes and timeline of the decline and fall of the Minoan civilization remain subjects of scholarly investigation.
 - The impact and legacy of the brief Andalusian Arab rule (Emirate of Crete) on the island's subsequent culture and demographics is studied.
 - The long-term social and environmental effects of mass tourism on Crete's infrastructure, natural resources, and traditional communities are ongoing concerns.
+
+Source: adapted from "Crete" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Crete

@@ -38,3 +38,5 @@ Marine geology also supports hazard and environmental work. Coastal erosion in t
 ## The unfinished map
 
 According to NOAA, only about 23% of the seafloor has been mapped in detail. NOAA's Okeanos Explorer alone has mapped over 2 million km² with multibeam sonar since 2008. The international Nippon Foundation–GEBCO Seabed 2030 Project aims to complete a high-resolution map of the entire ocean floor by 2030, equipping both crewed ships and autonomous vehicles with sonar, magnetometers, and other sensors to fill in the remaining three-quarters of the planet hidden beneath the waves.
+
+Source: adapted from "Marine geology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marine_geology

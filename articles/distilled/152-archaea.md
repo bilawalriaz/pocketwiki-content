@@ -91,3 +91,5 @@ Extremophile archaea provide enzymes functioning under harsh conditions. Thermos
 - The function of cannulae in *Pyrodictium* colonies
 - Whether the apparent grouping of archaeal and eukaryotic lipids in ancient rocks reflects true archaeal ancestry
 - The role of archaea in ocean ecology and global biogeochemical cycles remains largely unexplored since most marine species are uncultured
+
+Source: adapted from "Archaea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Archaea

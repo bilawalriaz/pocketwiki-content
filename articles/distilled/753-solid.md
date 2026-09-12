@@ -45,3 +45,5 @@ Solids are classified by atomic arrangement. **Crystalline solids** (metals, ice
 - **Infrared dome trade-off:** A persistent conflict exists between optical bandpass (transmission range) and mechanical durability/thermal stability in missile dome materials (e.g., sapphire weakens >600 °C); transparent ceramics and nanocomposites are potential solutions.
 - **Nanomaterial property scaling:** Traditional solids exhibit altered properties (melting point, color, strength) at nanoscale; the full implications for energy storage (batteries, supercapacitors), catalysis, and photovoltaics are under active development.
 - **Biomimetic synthesis:** Translating biological principles of structural hierarchy, self-healing, and self-assembly into scalable chemical synthesis of high-performance synthetic materials is an emerging strategy.
+
+Source: adapted from "Solid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Solid

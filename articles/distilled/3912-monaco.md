@@ -44,3 +44,5 @@ Monaco is a 2.08 km² semi-enclave on the Mediterranean, bordered by France. It 
 - Monaco's status as a tax haven and its recent placement on the FATF "grey list" for money laundering raise ongoing international scrutiny.
 - The political system's democratic deficit is noted, with an unelected head of state and government, and election results that often do not reflect proportional vote share.
 - The environmental and social impacts of continuous land reclamation and high-density development are points of concern.
+
+Source: adapted from "Monaco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Monaco

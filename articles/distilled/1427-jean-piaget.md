@@ -82,3 +82,5 @@ Dissatisfied with standardized psychometric tests (which could not distinguish p
 - **Education Implications:** Whether constructivist discovery learning is sufficient or whether explicit instruction ("scaffolding" by a more knowledgeable other) is necessary, especially for disadvantaged learners.
 - **Validity of Clinical Method:** Whether modern experimental controls (larger samples, standardized protocols, blind coding) can preserve Piaget’s insights while meeting current methodological standards.
 - **Late Work Integration:** Whether the "psychology of functions and correspondences" (preoperational competencies, morphisms) can be reconciled with the stage model or requires a fundamentally different theoretical architecture.
+
+Source: adapted from "Jean Piaget" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean_Piaget

@@ -44,3 +44,5 @@ Narmer's tomb at Umm el-Qa'ab consists of two mud-brick chambers. Despite being 
 - **Nature of Unification**: Did Narmer complete a military conquest, or was unification a gradual process? The Narmer Palette suggests conquest, but archaeological evidence indicates earlier partial unification.
 - **Egyptian Presence in Canaan**: Was it primarily military, commercial, or colonial? The evidence supports trade and colonization, but military campaigns are plausible.
 - **Neithhotep's Relationship**: Was she Narmer's wife, or is the connection based on tomb evidence that may be misinterpreted? Recent discoveries have introduced uncertainty.
+
+Source: adapted from "Narmer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Narmer

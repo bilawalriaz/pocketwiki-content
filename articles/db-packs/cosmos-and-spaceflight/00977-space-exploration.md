@@ -29,3 +29,5 @@ Long‑duration spaceflight degrades the body through bone loss, muscle atrophy,
 ## Open questions
 
 More than two‑thirds of Mars missions have failed, a pattern called the "Mars Curse" and attributed to mission complexity rather than any exotic cause. The Outer Space Treaty forbids territorial claims, but property rights for resources and bases remain legally unclear. Effective radiation shielding for deep space is still technically difficult, and the economic case for permanent lunar bases is unproven. Interstellar propulsion, including anti‑matter, nuclear, or beamed‑energy concepts, is largely theoretical, which is why projects such as Breakthrough Starshot remain conceptual.
+
+Source: adapted from "Space exploration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Space_exploration

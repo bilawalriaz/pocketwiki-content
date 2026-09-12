@@ -17,3 +17,5 @@ The fertile Niger bend region drew early settlement after the Sahara began dryin
 ## Modern pressures
 
 Late 20th-century dams such as Sélingué in Mali and Kainji in Nigeria generate hydropower and supply irrigation, but the basin faces mounting stress from increased water abstraction, additional dam construction, climate change, and pollution. The Niger Basin Authority coordinates management across the ten riparian countries, promoting sustainable use of a river system on which tens of millions depend.
+
+Source: adapted from "Niger River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Niger_River

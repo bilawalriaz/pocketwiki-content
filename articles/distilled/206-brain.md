@@ -87,3 +87,5 @@ Vertebrate neural development is conserved: ectoderm → neural plate → neural
 - **Consciousness:** Mechanisms linking distributed neural activity to subjective experience; "hard problem" unresolved.
 - **Computational modeling:** Trade-off between biophysical realism (intractable at whole-brain scale) and abstract models (may miss critical cellular computations); Human Brain Project approach contested.
 - **Glial roles:** Expanding understanding of astrocytes, microglia, and oligodendrocytes beyond support to active modulation of synaptic transmission, plasticity, and metabolism.
+
+Source: adapted from "Brain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brain

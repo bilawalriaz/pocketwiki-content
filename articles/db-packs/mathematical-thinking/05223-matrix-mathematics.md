@@ -49,3 +49,5 @@ Multiplying two *n* × *n* matrices by the definition costs *n*³ scalar multipl
 ## Generalizations
 
 Entries can come from any field, including finite fields used in coding theory, or from any ring. Block matrices treat other matrices as entries. Tensors generalise the rectangular grid to higher dimensions. The set of *n* × *n* matrices over a ring *R* forms a *matrix ring* M(*n*, *R*). The collection of all invertible *n* × *n* matrices is the *general linear group* GL(*n*); properties preserved under multiplication and inversion carve out subgroups such as the *special linear group* (determinant 1) and the *orthogonal group* (**A**ᵀ**A** = **I**). Every finite group is isomorphic to some matrix group.
+
+Source: adapted from "Matrix (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Matrix_%28mathematics%29

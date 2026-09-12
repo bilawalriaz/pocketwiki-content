@@ -46,3 +46,5 @@ All states are republics with open-market economies. Income levels vary, with Sl
 - **Definitional Dispute**: There is no universal agreement on which countries constitute the Balkans, with definitions varying from narrow (core states) to broad (including Hungary, Moldova).
 - **Stigmatization**: The term "Balkans" and especially "Western Balkans" is seen by some, notably in Croatia and Slovenia, as pejorative, carrying negative connotations of conflict and backwardness, leading to a preference for "Southeast Europe."
 - **Northern Border**: The exact northern geographical boundary of the Balkan region is a "delicate problem" that scholars often avoid, as rivers like the Danube and Sava do not form a clear, universally accepted line.
+
+Source: adapted from "Balkans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Balkans

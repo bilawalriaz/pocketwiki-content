@@ -33,3 +33,5 @@ A. Mayer showed in 1886 that tobacco mosaic disease passed in sap but was destro
 ## Why the virus matters beyond disease
 
 Plant viruses are now tools. Tulip breaking virus produced the streaked petals that drove 17th-century Dutch tulip mania, the earliest recorded application. TMV and cauliflower mosaic virus (CaMV) are standard in plant molecular biology, and the CaMV 35S promoter is the workhorse driver in transgenic plants. Viral vectors based on TMV underpin the magnICON and TRBO expression systems for transient protein production. Virions also serve as scaffolds for nanoparticles, nanocarriers for cargo, and nanoreactors housing enzymes. Virus-induced gene silencing (VIGS), viral delivery of CRISPR nucleases, and viral expression of *FLOWERING LOCUS T* let researchers silence genes, edit genomes, and accelerate breeding within a single growing season.
+
+Source: adapted from "Plant virus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_virus

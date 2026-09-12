@@ -21,3 +21,5 @@ The strategic cost of Ashoka's pacifism remains debated. Some historians argue t
 ## Decline
 
 After Ashoka's death around 232 BCE, weaker successors and a probable partition bled the core. Provincial governors drifted toward autonomy, and the northwest faced external pressure from the Greco-Bactrians. The dynasty ended in 185 BCE when the last emperor, Brihadratha, was killed by his own general Pushyamitra Shunga during a military parade, opening a period of smaller successor states and leaving the northern frontier exposed to later invaders.
+
+Source: adapted from "Maurya Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maurya_Empire

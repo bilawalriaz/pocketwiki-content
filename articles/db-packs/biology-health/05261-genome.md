@@ -56,3 +56,5 @@ The human nuclear genome's 24 chromosomes range from 45 million to 248 million b
 All somatic cells of an organism start from one fertilized cell, so they share a genome, but mutations accumulate. Somatic mutations from replication errors or environmental mutagens can cause cancer. In immune cells, V(D)J recombination shuffles gene segments so each lymphocyte makes a unique receptor. During meiosis, recombination between paired chromosomes reshuffles alleles, so every gamete has a slightly different genome.
 
 Over evolutionary time, genomes grow by duplication (tandem repeats, gene clusters, whole chromosomes, or whole genomes) and shrink by loss of redundant sequences. Horizontal gene transfer moves DNA between distantly related microbes, and early in eukaryotic evolution many genes moved from mitochondrial and chloroplast genomes into the nucleus.
+
+Source: adapted from "Genome" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Genome

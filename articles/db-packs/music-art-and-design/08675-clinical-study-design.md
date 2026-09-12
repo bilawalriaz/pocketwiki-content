@@ -25,3 +25,5 @@ Different designs are vulnerable to different biases. Recall bias is likely in c
 The term "retrospective study" is sometimes used as a synonym for case-control study, but this usage is misleading and is discouraged, because other designs, including retrospective cohort studies, also look backward.
 
 Seasonal indications such as allergies, Seasonal Affective Disorder, and influenza force rapid enrolment and introduce weather and seasonal variation as confounders that the design must accommodate. Patient confidentiality and medical ethics constrain which designs are permissible in clinical research.
+
+Source: adapted from "Clinical study design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clinical_study_design

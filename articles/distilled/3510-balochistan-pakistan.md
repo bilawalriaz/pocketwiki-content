@@ -48,3 +48,5 @@ Agriculture and livestock contribute about 47% of the provincial GDP, but the ec
 - The legitimacy of the 1947 Shahi Jirga vote on accession to Pakistan is disputed, with claims that representatives from the Khanate of Kalat were excluded.
 - The causes and nature of the ongoing Baloch insurgency are debated, with factors including demands for autonomy, grievances over resource control, and allegations of external interference.
 - The effectiveness and equity of development projects like CPEC in benefiting the local Baloch population versus serving broader national or international interests are contested.
+
+Source: adapted from "Balochistan, Pakistan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Balochistan%2C_Pakistan

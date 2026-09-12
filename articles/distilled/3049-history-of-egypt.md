@@ -51,3 +51,5 @@ Widespread protests in 2011 forced Mubarak to resign. The subsequent transition 
 *   The exact identity and historicity of King Menes, traditionally credited with unifying Egypt, is debated; he is often identified with Narmer.
 *   The nature of Akhenaten's religious revolution (Atenism) is debated—whether it was true monotheism or a form of monolatry.
 *   The genetic origins of ancient Egyptians are an active area of research. A 2017 study of mummies showed close affinity to Near Eastern populations, while a 2025 full-genome analysis of an Old Kingdom individual suggested a two-source model with significant ancestry from both the Levant and Mesopotamia.
+
+Source: adapted from "History of Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Egypt

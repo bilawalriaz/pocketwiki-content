@@ -46,3 +46,5 @@ Catherine used lavish artistic patronage to bolster the prestige of the declinin
 - **Responsibility for the Massacre:** Historians debate the extent of Catherine's personal culpability in the St. Bartholomew's Day massacre, with some arguing she was the primary instigator and others suggesting she was reacting to a crisis beyond her control.
 - **Effectiveness of Her Rule:** Scholars assess whether her policies were pragmatic attempts to preserve the Valois monarchy in impossible circumstances or whether her vacillation exacerbated the civil wars.
 - **Legacy and Reputation:** Her historical image is contested, ranging from a "wicked Italian queen" of Protestant propaganda to a shrewd stateswoman who kept the state functioning during decades of anarchy.
+
+Source: adapted from "Catherine de' Medici" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Catherine_de%27_Medici

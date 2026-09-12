@@ -54,3 +54,5 @@ Public transport includes the Caracas Metro (operational since 1983), the Metroc
 - The exact center of the city is debated, with some identifying the historic Caracas Cathedral on Bolívar Square and others pointing to Plaza Venezuela in Los Caobos.
 - The source notes that the city's population was "initially sparse" after its founding, raising questions about the pace of early colonial settlement.
 - The long-term impact of the 2026 U.S. intervention and the capture of President Maduro on the city's governance and stability is an immediate open question.
+
+Source: adapted from "Caracas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caracas

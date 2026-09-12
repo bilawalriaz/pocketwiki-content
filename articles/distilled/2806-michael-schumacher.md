@@ -54,3 +54,5 @@ Schumacher married Corinna Betsch in 1995; they have two children, Gina-Maria an
 *   **The 1997 Disqualification:** Schumacher was disqualified from the entire 1997 championship after deliberately causing a collision with Jacques Villeneuve. He later admitted it was a mistake.
 *   **Team Orders Controversy:** The 2002 Austrian Grand Prix, where Rubens Barrichello was ordered to let Schumacher win, sparked widespread criticism and led to a temporary ban on such orders.
 *   **Legacy and "Greatest" Status:** While statistically one of the most successful, his legacy is sometimes debated due to the controversies. However, he is consistently ranked among the top drivers by mathematical models and is widely considered the greatest of his era.
+
+Source: adapted from "Michael Schumacher" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Michael_Schumacher

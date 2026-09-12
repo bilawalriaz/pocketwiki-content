@@ -71,3 +71,5 @@ Words from non-Latin scripts (Arabic, Chinese, etc.) are transliterated into Lat
 - **Crimean Tatar script**: Ukraine approved Latin transition by 2025 (2021), but Russia’s 2014 annexation imposed Cyrillic; Crimean Tatars outside Crimea continue using Latin.
 - **Ethiopia’s script transitions**: Kafa, Oromo, Sidama, Somali, and Wolaitta adopted Latin after 1991; debate continues for Hadiyya and Kambaata on whether to follow suit.
 - **Kurdish script divide**: Official Kurdish government uses Arabic script; majority of Kurdish speakers use Latin alphabets introduced in the 1930s–40s.
+
+Source: adapted from "Latin script" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Latin_script

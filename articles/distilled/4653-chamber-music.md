@@ -45,3 +45,5 @@ Modern composers have stretched chamber music's boundaries, moving it from the h
 - **The Impact of Technology**: Has the move to concert halls and the use of electronics fundamentally changed the intimate nature of chamber music?
 - **Repertoire and Accessibility**: Does the focus on 19th-century classics in concerts limit the genre's evolution, or does it ensure its survival?
 - **Composer-Performer Relationship**: How has the shift from composer-dictated scores to collaborative creation affected the music's identity?
+
+Source: adapted from "Chamber music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chamber_music

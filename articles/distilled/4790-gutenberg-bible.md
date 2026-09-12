@@ -51,3 +51,5 @@ As of 2009, 49 copies are known to exist, with 25 being substantially complete. 
 - The exact number of copies printed is uncertain, with historical sources citing either 158 or 180, while modern scholars estimate between 160 and 185.
 - The precise duration of the printing process is unknown.
 - The attribution of the illumination in the Princeton University copy to the "Master of the Playing Cards" is speculative; only the use of a shared model book is certain.
+
+Source: adapted from "Gutenberg Bible" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gutenberg_Bible

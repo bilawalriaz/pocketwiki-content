@@ -46,3 +46,5 @@ The period saw the birth of modern chemical industries. Synthetic dyes, pioneere
 
 ## Debates and Open Questions
 The concept of a distinct "Second Industrial Revolution" is itself a subject of scholarly debate. While popularized by David Landes and Alfred Chandler, some historians question whether it represents a true discontinuity or a natural acceleration of trends from the First Industrial Revolution. There is also debate over its precise start and end dates, with some scholars emphasizing earlier innovations in the mid-19th century and others focusing on the transformative period after 1870. The relative importance of different factors—such as science, management, or specific technologies—in driving the revolution remains an area of analysis.
+
+Source: adapted from "Second Industrial Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Second_Industrial_Revolution

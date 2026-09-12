@@ -54,3 +54,5 @@ Schiller married Charlotte von Lengefeld in 1790; they had four children. Despit
 - **Political Philosophy**: While generally viewed as a liberal thinker advocating freedom and republicanism, interpretations vary regarding the extent to which his works endorsed revolutionary action versus reformist ideals.
 - **Aesthetic Legacy**: Schiller’s influence on later aesthetic theory remains significant, particularly through his concept of Spieltrieb. Yet debates continue over whether his vision of beauty as a path to moral improvement is practically achievable or merely idealistic.
 - **Burial Controversy**: DNA testing in 2008 revealed that the skull interred in Schiller’s tomb in the Weimarer Fürstengruft does not belong to him, raising questions about the authenticity of remains long believed to be his.
+
+Source: adapted from "Friedrich Schiller" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Friedrich_Schiller

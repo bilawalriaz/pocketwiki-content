@@ -52,3 +52,5 @@ The economy relied on agriculture, internal trade, and external trade in furs. A
 - The role and power of the boyar duma versus the grand prince is debated; some historians argue for a "façade of autocracy" where consultation was significant.
 - The extent to which the 1503 church council formally discussed monastic landholding is questioned due to lack of evidence.
 - The traditional narrative that the "Judaizers" heresy originated from a Jew arriving in Novgorod in 1471 is rejected by most modern scholars.
+
+Source: adapted from "Grand Principality of Moscow" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Grand_Principality_of_Moscow

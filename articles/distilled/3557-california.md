@@ -45,3 +45,5 @@ The 20th century saw massive population growth, driven by opportunities in agric
 - The extent and intentionality of the California genocide is a subject of scholarly debate, with some historians and officials, like Governor Gavin Newsom, formally acknowledging it.
 - The causes and solutions for California's chronic water shortages and management, balancing agricultural, urban, and environmental needs, remain politically contentious.
 - The impact of high costs of living and recent population declines on California's future economic and political influence is actively discussed.
+
+Source: adapted from "California" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/California

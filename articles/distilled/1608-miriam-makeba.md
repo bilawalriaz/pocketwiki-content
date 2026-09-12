@@ -70,3 +70,5 @@ Makeba was the first African recording artist to win a Grammy (1966). Mandela ca
 - **Western exoticization vs. agency**: Audiences viewed Makeba as "embodiment of Africa," ignoring her cosmopolitanism; scholars debate how much she controlled versus was constrained by this framing.
 - **Feminist identification**: Makeba critiqued second-wave feminism as a "product of luxury"; scholars debate whether her intersectional activism constitutes a distinct Black feminism.
 - **Political vs. personal art**: Makeba insisted her songs were personal truth, not politics; scholars examine how this distinction functioned under apartheid where the personal was structurally political.
+
+Source: adapted from "Miriam Makeba" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Miriam_Makeba

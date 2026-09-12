@@ -64,3 +64,5 @@ Poetic forms include the sonnet (Italian/Petrarchan and English/Shakespearean), 
 ## Debates and Open Questions
 
 Key debates center on defining poetry itself. Some theorists argue that any linguistic act can be poetic, while others insist on formal distinctions from prose. The role of meter and rhyme in modern poetry remains contested, with some viewing them as outdated and others as essential. Translation of poetic form across languages raises questions about fidelity and adaptation. The rise of AI-generated poetry challenges traditional notions of authorship and creativity. Additionally, the relationship between oral and written traditions continues to influence how scholars understand the origins and evolution of poetic expression.
+
+Source: adapted from "Poetry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Poetry

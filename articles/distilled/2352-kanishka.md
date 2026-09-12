@@ -44,3 +44,5 @@ Kanishka's reign and the Kushan Empire's position on the Silk Road were pivotal 
 - **Origins:** Theories about Kanishka's specific origin—whether from Khotan or Kashmir—remain speculative.
 - **Religious Affiliation:** While a patron of Buddhism, Kanishka's personal beliefs are debated; his coins show he embraced a syncretic mix of Buddhist, Iranian, and other deities.
 - **Attribution of the Kanishka Casket:** Recent stylistic analysis has disputed the casket's attribution to Kanishka I, suggesting it may belong to his successor Huvishka.
+
+Source: adapted from "Kanishka" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kanishka

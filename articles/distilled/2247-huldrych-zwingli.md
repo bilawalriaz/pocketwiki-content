@@ -44,3 +44,5 @@ In 1531, a food blockade imposed by Zwingli's alliance on Catholic cantons faile
 - **Independence from Luther**: Scholars debate the extent of Martin Luther's influence on Zwingli's theology. Zwingli himself vigorously asserted his independence, and recent studies support the view that he developed his core ideas independently, though he later sought confirmation from Luther.
 - **Theocracy in Zurich**: Historians have debated whether Zwingli's close collaboration with the Zurich city council to implement religious reforms effectively turned the city into a theocracy.
 - **Impact of the Eucharistic Dispute**: The failure to reach agreement with Luther at the Marburg Colloquy is seen as a pivotal moment that permanently divided Protestantism into Lutheran and Reformed branches, with lasting political and theological consequences.
+
+Source: adapted from "Huldrych Zwingli" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Huldrych_Zwingli

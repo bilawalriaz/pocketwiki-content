@@ -44,3 +44,5 @@ Since the 1990s, the festival has expanded its support for new talent through se
 - **Political Neutrality**: The festival has historically aimed to be a "no man's land" free from politics, but has increasingly been a platform for political statements and has faced criticism for selections like Kirill Serebrennikov's film in 2022.
 - **Commercial vs. Artistic Integrity**: The conflict with Netflix over theatrical release rules highlights the ongoing tension between traditional cinematic exhibition and new streaming models.
 - **Inclusivity and Representation**: While progress has been made, as seen in the 2025 gender parity record, past controversies like "Heelgate" and the #MeToo movement have prompted ongoing scrutiny of the festival's culture and policies.
+
+Source: adapted from "Cannes Film Festival" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cannes_Film_Festival

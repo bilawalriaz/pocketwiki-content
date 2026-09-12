@@ -67,3 +67,5 @@ Festinger's theories broke behaviorism's "monolithic grip" on social psychology 
 - **Basic vs. applied schism**: Festinger's emphasis on pure theory and lab rigor is seen as widening the gap between basic experimental social psychology and applied practice in the U.S.
 - **Scope of cognitive reduction strategies**: The theory allows multiple dissonance-reduction paths (behavior change, cognition change, adding cognitions, trivialization); predicting which path dominates in a given context remains an active research area.
 - **Cross-cultural generality**: The source notes Festinger's final interest in why ideas/technologies are accepted in some cultures (West) but not others (Byzantine), implying cultural boundary conditions for dissonance and social comparison processes that remain underexplored.
+
+Source: adapted from "Leon Festinger" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leon_Festinger

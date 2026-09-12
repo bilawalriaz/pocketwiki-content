@@ -33,3 +33,5 @@ Christianity divides into three main branches:
 Smaller but historically important groups include Oriental Orthodoxy and Restorationist movements such as the Latter-day Saints and Jehovah's Witnesses. The Catholic Church, led by the pope in Rome, is the largest single body. Protestantism is a family of traditions, including Lutheran, Reformed, Anglican, Baptist, Methodist, and Pentecostal communities. Eastern Orthodoxy is a communion of self-governing national churches led by patriarchs.
 
 The faith is now growing fastest in sub-Saharan Africa and Asia, while attendance is declining in much of Europe, North America, and Australia. Global missionary work and, historically, European colonisation carried it to every continent between the 15th and 17th centuries.
+
+Source: adapted from "Christianity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Christianity

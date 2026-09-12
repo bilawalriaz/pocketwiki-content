@@ -53,3 +53,5 @@ Molecules range from sub-nanometer (H₂, 0.74 Å bond length) to macroscopic (p
 - **Boundary of the definition:** Whether metallic crystals constitute "giant molecules" is contested; metals behave differently than discrete molecules.
 - **Operational vs. fundamental nature:** IUPAC's energetic criterion (potential energy well depth) includes weakly bound species (e.g., He₂) not traditionally considered molecules, raising philosophical questions about whether "molecule" is a fundamental physical entity or a pragmatic chemical concept.
 - **Inclusion of polyatomic ions:** Context-dependent usage persists; quantum physics and biochemistry often treat polyatomic ions as molecules, while strict chemical definitions may exclude them due to charge.
+
+Source: adapted from "Molecule" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Molecule

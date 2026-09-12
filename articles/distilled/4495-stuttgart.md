@@ -46,3 +46,5 @@ Stuttgart is a major cultural center, home to the State Theatre (opera, ballet, 
 *   **Stuttgart 21:** The massive rail project has been a source of intense public debate and protest, notably in 2010, over its cost, disruption, and the destruction of historic parkland.
 *   **Urban Climate:** The city's basin geography creates challenges with heat and air pollution, making the effectiveness and preservation of its ventilation corridors an ongoing planning issue.
 *   **Post-War Reconstruction:** The controversial modernist rebuilding of the city center under Mayor Arnulf Klett, which demolished many historic buildings, remains a point of historical critique.
+
+Source: adapted from "Stuttgart" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stuttgart

@@ -38,3 +38,5 @@ French is the official language, but Kiswahili (specifically the Kingwana dialec
 
 ## Debates and Open Questions
 The source notes a scholarly debate on the relative strength of contemporary art in Lubumbashi versus Kinshasa. Art historian Bogumił Jewsiewicki argues that Lubumbashi's popular art scene is weaker and has not produced an internationally renowned figure like Kinshasa's Chéri Samba.
+
+Source: adapted from "Lubumbashi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lubumbashi

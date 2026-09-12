@@ -76,3 +76,5 @@ The interpretation of Hegel’s relationship to historicism remains contested. W
 The “thesis-antithesis-synthesis” formula, widely attributed to Hegel, is rejected by scholars as a Fichtean simplification. Hegel’s actual method is immanent—arising from the subject matter itself, not external schemata.
 
 Finally, Hegel’s alleged racism in the *Anthropology* continues to provoke debate. While he attributes intellectual differences to climate rather than race, his views remain problematic for modern readers seeking to separate his philosophical insights from his historical context.
+
+Source: adapted from "Georg Wilhelm Friedrich Hegel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel

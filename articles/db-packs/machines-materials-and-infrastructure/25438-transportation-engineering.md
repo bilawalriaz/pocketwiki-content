@@ -32,3 +32,5 @@ Railroad engineering covers railroads and fixed-guideway mass transit such as li
 Port and harbor engineering handles ports, harbors, canals, and other maritime facilities. It is distinct from naval architecture, which covers hull design, and marine engineering, which covers propulsion and onboard ship systems.
 
 Airport engineering designs and constructs airports. Engineers orient runways using prevailing wind analysis, size runway safety areas, set wingtip-to-wingtip clearances at gates, and define clear zones across the airfield. A civil and structural team within the department handles terminal buildings, cargo facilities, hangars, runways, and the airport master plan.
+
+Source: adapted from "Transportation engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Transportation_engineering

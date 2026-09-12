@@ -43,3 +43,5 @@ Kyoto is governed by a mayor and a 67-member city assembly. As of 2020, its popu
 
 ## Debates and Open Questions
 The source notes that the original city's layout was arranged according to Chinese *feng shui* principles, but it does not detail ongoing scholarly debates about this. It does mention that the adoption of Western architectural styles in public buildings during the Meiji era, such as the Kyoto National Museum, sparked criticism from locals who saw the designs as culturally discordant.
+
+Source: adapted from "Kyoto" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kyoto

@@ -59,3 +59,5 @@ Languages mitigate these hazards in several ways:
 PL/I and C expose untyped or freely castable pointers with full arithmetic. Pascal restricts pointers to heap-allocated objects and forbids arithmetic. Ada uses typed access types with null defaults. Go allows pointers but no arithmetic and adds garbage collection. C# keeps C-style pointers behind `unsafe` while using `Span<T>` and `IntPtr` for managed access. Rust confines raw pointers to `unsafe` blocks and uses checked references otherwise. Java replaces pointers entirely with object references. Fortran-90 packages array bounds and stride inside the pointer object, so subscripting through it stays within those bounds.
 
 A pointer is a small, indirect handle that a program can copy, pass, rearrange, and follow, and that low-level languages rely on to build the larger structures they manipulate.
+
+Source: adapted from "Pointer (computer programming)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pointer_%28computer_programming%29

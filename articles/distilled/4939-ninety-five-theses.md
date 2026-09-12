@@ -43,3 +43,5 @@ The controversy ignited by the Ninety-five Theses became the catalyst for the Pr
 *   **The Posting of the Theses:** The iconic story that Luther nailed the Theses to the door of All Saints' Church on 31 October 1517 is a later tradition. Historians debate whether he posted them at all, or if the act occurred later in November.
 *   **Luther's Intent:** Scholars question whether Luther intended to spark a widespread controversy or was genuinely surprised by the explosive reaction. Some argue he used the academic format of a disputation as a protective cover for his criticisms.
 *   **The Theses' Significance:** Luther himself later downplayed the importance of the indulgence controversy relative to his later theological works, suggesting the Theses were not initially intended as a break with Catholic doctrine.
+
+Source: adapted from "Ninety-five Theses" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ninety-five_Theses

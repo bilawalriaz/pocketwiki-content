@@ -45,3 +45,5 @@ After leaving his company in 1960, Shockley became a professor at Stanford. He b
 *   **Patent Credit:** The initial exclusion of Shockley from the point-contact transistor patents caused lasting conflict with Bardeen and Brattain. The basis for the patent applications and Shockley's role remain a point of historical discussion.
 *   **Management Legacy:** Shockley is described as "the worst manager in the history of electronics." His management style directly led to the founding of Fairchild Semiconductor, which in turn spawned much of Silicon Valley's industry—a paradoxical legacy of innovation born from his failure as a leader.
 *   **Scientific Racism:** Shockley's eugenic theories were rejected by the scientific community. The Southern Poverty Law Center describes his work as that of a "racist crank," and his views are cited as an example of "Nobel disease," where a laureate embraces scientifically unsound ideas later in life.
+
+Source: adapted from "William Shockley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Shockley

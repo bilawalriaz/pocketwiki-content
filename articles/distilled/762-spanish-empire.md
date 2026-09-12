@@ -42,3 +42,5 @@ Napoleon’s 1808 invasion of Spain created a legitimacy crisis, triggering inde
 
 ## Debates and Open Questions  
 Scholars debate whether Spanish colonial rule was primarily exploitative or developmental. Humboldt’s 1800s observations suggested indigenous peoples in New Spain were wealthier than European peasants, challenging narratives of universal oppression. The role of silver wealth in Spain’s economic decline remains contested—some argue it enriched northern Europe while impoverishing Spain, while others emphasize its role in funding European wars. The effectiveness of Bourbon reforms in preventing independence is debated, with some viewing them as too little, too late, and others seeing them as provocations that accelerated colonial rebellion. The extent to which the Spanish-American War represented a sudden collapse versus a long-declining empire is also disputed.
+
+Source: adapted from "Spanish Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_Empire

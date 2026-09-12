@@ -45,3 +45,5 @@ To counter a French-backed council that threatened to depose him, Julius II conv
 - **Motives for the name "Julius"**: It is speculated he chose it to emulate Julius Caesar, not just Pope Julius I.
 - **Goal of Italian unification**: Historians debate whether his military campaigns aimed to create a unified Italian kingdom or simply to expand and secure the Papal States.
 - **Legacy of his wars**: While he temporarily expelled foreign powers, his successor Leo X soon restored the pre-war status quo, raising questions about the long-term success of his policies.
+
+Source: adapted from "Pope Julius II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_Julius_II

@@ -48,3 +48,5 @@ The Rani became a legendary figure in Indian nationalism, associated with Hindu 
 - **Birth Year**: Her birth year is disputed between British sources (1827) and Indian sources (1835), with modern historians suggesting a date between 1828 and 1830.
 - **Circumstances of Death**: While she died fighting at Gwalior, the exact manner of her death is unknown, with multiple accounts offering different details.
 - **Historical vs. Legendary Figure**: Much of her early life and actions during the rebellion are based on legend and oral tradition rather than verified fact, making a definitive biography difficult.
+
+Source: adapted from "Rani of Jhansi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rani_of_Jhansi

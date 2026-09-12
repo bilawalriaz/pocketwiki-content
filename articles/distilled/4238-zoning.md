@@ -52,3 +52,5 @@ Zoning practices differ globally. The **United Kingdom** does not use zoning; it
 - **Equity and Segregation:** To what extent do zoning laws, particularly single-family and density restrictions, contribute to racial and economic segregation?
 - **Sprawl vs. Walkability:** How can zoning balance the need for development with the goals of reducing car dependency and creating walkable communities?
 - **Reform:** Is the traditional use-based zoning model obsolete, and should it be replaced or supplemented by form-based, performance, or smart zoning approaches?
+
+Source: adapted from "Zoning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zoning

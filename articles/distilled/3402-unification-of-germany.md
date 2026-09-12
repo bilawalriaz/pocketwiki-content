@@ -40,3 +40,5 @@ The new German Empire was a federal state of 25 states and one imperial territor
 
 ## Debates and Open Questions
 Historians debate whether Bismarck had a master plan for unification or was an opportunist who skillfully exploited circumstances to expand Prussian power. The *Sonderweg* thesis, which argued that the failure of liberal revolution in 1848 led to a delayed, authoritarian unification and ultimately to the catastrophes of the 20th century, has been challenged by more recent scholarship. This newer view contends that Germany's development was not uniquely aberrant compared to other nations and that the 1848 liberals achieved lasting constitutional and social reforms later incorporated into the empire.
+
+Source: adapted from "Unification of Germany" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Unification_of_Germany

@@ -65,3 +65,5 @@ Rogers directly influenced successors: Angela Santomero (*Blue’s Clues*, *Dani
 - **Explicit faith on air**: Rogers was an ordained minister who called the TV space "holy ground" but avoided overt religious language. Critics and admirers debate whether this secularized presentation diluted his theological intent or broadened his inclusive ministry.
 - **Pace vs. modern attention spans**: The show’s deliberate slowness and repetition were pedagogically intentional (per McFarland/Erikson). Researchers question its efficacy for contemporary children accustomed to rapid edits, though *Daniel Tiger’s Neighborhood* adapts the curriculum with faster animation.
 - **Funding model sustainability**: Rogers’ 1969 testimony secured a specific congressional appropriation. The ongoing vulnerability of PBS to political defunding attempts (2012, 2017) raises structural questions about the durability of the public-media model he championed.
+
+Source: adapted from "Fred Rogers" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fred_Rogers

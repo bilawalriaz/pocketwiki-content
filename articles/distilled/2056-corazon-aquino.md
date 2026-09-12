@@ -51,3 +51,5 @@ After leaving office in 1992, Aquino remained active in politics, opposing attem
 *   **Economic Management:** Her decision to honor the Marcos-era foreign debt is debated; supporters say it restored creditworthiness, while critics argue it burdened the economy.
 *   **Handling of Insurgencies:** The release of communist prisoners and the subsequent collapse of peace talks after the Mendiola Massacre remain points of contention regarding her approach to the insurgency.
 *   **Legacy of Political Instability:** Her presidency was marked by numerous coup attempts and cabinet infighting, raising questions about her administration's ability to consolidate power and ensure stability after the revolution.
+
+Source: adapted from "Corazon Aquino" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Corazon_Aquino

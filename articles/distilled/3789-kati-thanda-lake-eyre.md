@@ -41,3 +41,5 @@ The lake is within the traditional lands of the Arabana and Dieri peoples. It wa
 *   **Practicality of seawater diversion schemes:** Proposals to flood the lake with seawater to increase rainfall have been debated since 1883 but are generally considered impractical due to high evaporation rates and the inevitable blocking of channels by salt deposits.
 *   **Impact of new management restrictions:** The 2025 management plan's additional restrictions on visitor activities have been criticized by some, like the commodore of the Lake Eyre Yacht Club, while being supported by authorities concerned with environmental damage and visitor safety.
 *   **Bird navigation:** Scientists remain unable to determine how waterbirds detect the filling of the remote lake from hundreds of kilometers away to arrive in such large numbers.
+
+Source: adapted from "Kati Thanda–Lake Eyre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kati_Thanda%E2%80%93Lake_Eyre

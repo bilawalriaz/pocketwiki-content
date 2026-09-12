@@ -46,3 +46,5 @@ Whole-language and balanced-literacy approaches often teach high-frequency “si
 ## International Shift
 
 Over 40 U.S. states now mandate evidence-based reading instruction; England requires synthetic phonics in Years 1–2; Australia’s Victoria and Queensland have published explicit synthetic phonics toolkits; Ontario and Nova Scotia are revising curricula to remove three-cueing and mandate systematic phonics; New Zealand’s 2024 curriculum overhaul centers on structured literacy.
+
+Source: adapted from "Phonics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Phonics

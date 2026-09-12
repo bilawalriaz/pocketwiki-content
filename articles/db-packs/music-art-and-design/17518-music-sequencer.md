@@ -35,3 +35,5 @@ During the 1940s–1960s, Raymond Scott built electro-mechanical sequencers incl
 The first commercial digital sequencer products appeared in the early 1970s with EMS's Synthi Sequencer. Roland's MC-8 MicroComposer (1977) was an early polyphonic microprocessor-based CV/Gate sequencer with up to 5,200 notes in memory and eight-channel polyphony, enabling polyrhythmic sequences that shaped 1970s and 1980s electronic music.
 
 In 1981, Ikutaro Kakehashi and Dave Smith began designing a universal digital interface; MIDI was unveiled in 1983. The first MIDI sequencer, the Roland MSQ-700, appeared that year, and personal computers began hosting sequencers. From the 1990s onward, DAWs integrated MIDI sequencing with multitrack audio, and loop-based workflows converged with traditional sequencing.
+
+Source: adapted from "Music sequencer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Music_sequencer

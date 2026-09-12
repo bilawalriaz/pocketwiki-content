@@ -43,3 +43,5 @@ The limit set of a sequence is the collection of all points that are limits of c
 ## Historical landmarks
 
 Euclid's *Elements* (c. 300 BC) used the method of exhaustion, an early limit ancestor. Grégoire de Saint-Vincent gave the first explicit limit of a geometric series in 1647; Newton described limits in the 1687 *Principia*; Bolzano developed ε-δ in 1817 (unrecognised for decades); Cauchy formalised the modern definition in 1821; Leathem introduced the arrow under the limit symbol in 1905; Hardy popularised it in 1908. Two conventions persist on whether $0 < |x - c|$ is required, and in computability theory some limits have moduli of convergence that are undecidable.
+
+Source: adapted from "Limit (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Limit_%28mathematics%29

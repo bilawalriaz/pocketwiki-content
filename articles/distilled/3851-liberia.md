@@ -41,3 +41,5 @@ Liberia's economy depends on natural resources like iron ore, rubber, and timber
 - The long-term impact of Firestone and other foreign corporations on Liberia's economic autonomy and development is debated, with scholars arguing they created exploitative labor systems that persist in new forms.
 - The environmental and social costs of large-scale industrial mining and palm oil plantations versus their economic benefits remain a contentious issue, particularly regarding deforestation, pollution, and displacement of local communities.
 - The effectiveness of post-war institutions, such as the Truth and Reconciliation Commission, in achieving lasting peace and justice is questioned amid ongoing challenges like corruption and inequality.
+
+Source: adapted from "Liberia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liberia

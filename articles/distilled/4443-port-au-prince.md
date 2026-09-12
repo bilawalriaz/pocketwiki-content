@@ -48,3 +48,5 @@ Cultural life centers on the Champ de Mars plaza and the National Palace grounds
 - The exact origin of the name "Port-au-Prince" is debated, with theories linking it to a ship, pre-existing islet names, or an unknown prince.
 - The true population of the metropolitan area is difficult to ascertain due to rapid, unplanned growth of slums and a lack of recent, reliable census data.
 - The causes and extent of police and political complicity in the city's ongoing gang violence are subjects of ongoing investigation and concern.
+
+Source: adapted from "Port-au-Prince" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Port-au-Prince

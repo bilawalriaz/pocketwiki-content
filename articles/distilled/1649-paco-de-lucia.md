@@ -64,3 +64,5 @@ De Lucía’s impact is equated to Andrés Segovia’s for classical guitar. He 
 - **Commercialization**: *Friday Night in San Francisco*’s massive success sparked debate: did accessibility compromise flamenco’s marginalized, Gitano (Roma) cultural core?
 - **Notation vs. Oral Tradition**: De Lucía’s inability to read music (until forced by *Concierto de Aranjuez*) highlights the tension between flamenco’s oral transmission and classical institutionalization.
 - **Attribution of Innovations**: While de Lucía popularized the *cajón* in flamenco, Caitro Soto (Peru) and Rubem Dantas (Brazil) were instrumental in its adaptation; the extent of Paco’s sole agency is debated.
+
+Source: adapted from "Paco de Lucía" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paco_de_Luc%C3%ADa

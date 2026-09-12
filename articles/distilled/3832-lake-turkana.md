@@ -43,3 +43,5 @@ The primary modern threat is the Gilgel Gibe III Dam in Ethiopia on the Omo Rive
 - **Impact of the Gilgel Gibe III Dam**: The magnitude of the dam's effect on Lake Turkana's water level and salinity is highly contested, with estimates ranging from negligible to catastrophic.
 - **Evolutionary significance**: The region's fossil record continues to inform debates about the number of hominin lineages and the processes of human evolution.
 - **Future of subsistence**: The long-term viability of traditional pastoralism and fishing versus a cash-based economy in the face of climate change and development is uncertain.
+
+Source: adapted from "Lake Turkana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Turkana

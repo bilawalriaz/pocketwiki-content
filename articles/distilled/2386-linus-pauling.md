@@ -48,3 +48,5 @@ In his later career, Pauling advocated for **orthomolecular medicine**, the theo
 - **Vitamin C Therapy**: The efficacy of high-dose vitamin C for treating cancer and the common cold remains a subject of debate, with most clinical trials showing no benefit, contrary to Pauling's claims.
 - **Spheron Model of the Nucleus**: Pauling's alternative model for nuclear structure, based on clusters of nucleons, was not accepted by the mainstream physics community, which favors the independent-particle shell model.
 - **Political Legacy**: The extent to which political persecution (e.g., passport denial) impacted his scientific work, particularly the DNA race, is debated; evidence suggests it was not the primary factor in his failure to determine the correct structure.
+
+Source: adapted from "Linus Pauling" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Linus_Pauling

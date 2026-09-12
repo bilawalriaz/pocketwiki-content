@@ -45,3 +45,5 @@ Known as Namibia's art capital, Windhoek houses the National Art Gallery, Nation
 
 ## Debates and Open Questions
 The etymology of the city's name is debated, with theories linking it to either local geography ("windy corner") or ancestral mountains in South Africa. The city's planned expansion to cover over 5,000 km² would make it one of the world's largest by area, raising questions about development feasibility given its low population density and geographical constraints.
+
+Source: adapted from "Windhoek" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Windhoek

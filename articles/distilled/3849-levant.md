@@ -33,3 +33,5 @@ The region is home to Levantine Arabs, Jews, Kurds, Assyrians, Armenians, and ot
 
 ## Debates and Open questions
 The precise modern boundaries of the Levant are debated, with some including Cyprus, Egypt, Iraq, and parts of Turkey. The term itself is considered archaic by some dictionaries for contemporary use, though it remains standard in archaeology and is being reclaimed in political and social sciences. There is also disagreement on whether "Levant" is an accurate translation of the Arabic *ash-Shām* as used by groups like ISIL.
+
+Source: adapted from "Levant" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Levant

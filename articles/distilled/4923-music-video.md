@@ -46,3 +46,5 @@ The rise of the internet, particularly YouTube (2005), decentralized video distr
 *   **Censorship Standards:** What constitutes "offensive" content varies by culture and era, leading to ongoing debates about artistic expression versus public morality, as seen with videos from Madonna, Lil Nas X, and others.
 *   **Economic Models:** The shift from physical sales (video albums/singles) to online streaming has complicated revenue models, with debates over how royalties from platforms like YouTube are shared between labels, artists, and the platform.
 *   **Artistic vs. Commercial Purpose:** While primarily a marketing tool, the music video is also an art form. Tensions exist between its commercial function and its potential for artistic innovation and social commentary.
+
+Source: adapted from "Music video" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Music_video

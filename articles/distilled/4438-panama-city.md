@@ -44,3 +44,5 @@ Panama City contains two UNESCO World Heritage Sites: the ruins of the original 
 ## Debates and Open Questions
 *   The construction of the Cinta Costera 3 viaduct around Casco Viejo sparked controversy and protests over the potential loss of its UNESCO World Heritage status, though UNESCO decided in 2012 not to place it on the List of World Heritage Sites in Danger.
 *   Panama City's status as an international banking center has historically brought undesirable attention as a locale for money laundering, leading to the implementation of visible controls on cash flow.
+
+Source: adapted from "Panama City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Panama_City

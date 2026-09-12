@@ -83,3 +83,5 @@ Society is the system of organizations arising from human interaction. Human soc
 - The underlying nature of consciousness remains enigmatic and poorly understood
 - Whether war evolved as an innate human characteristic or is a relatively recent phenomenon due to changing social conditions
 - The reason for dangerous human childbirth (fetal head size matched closely to pelvis) is not completely understood
+
+Source: adapted from "Human" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human

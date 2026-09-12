@@ -65,3 +65,5 @@ Jewish tradition sets adulthood at 13 for boys and 12 for girls (Bar or Bat Mitz
 - Whether those aged 18–20 should be exempted from the death penalty, as raised in Washington State's 2021 ruling.
 - Whether the voting age should be lowered from 18 to 16, a growing movement in the US and elsewhere.
 - Whether legal restrictions for young adults (e.g., tobacco, marijuana, credit, exotic dancing) should be raised to 21, reflecting their transitional status.
+
+Source: adapted from "Adult" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Adult

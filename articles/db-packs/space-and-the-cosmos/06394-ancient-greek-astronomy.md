@@ -31,3 +31,5 @@ Claudius Ptolemy, working in Roman Alexandria in the 2nd century AD, gathered th
 ## Limits and legacy
 
 The Ptolemaic system accounted for changing planetary brightness and retrograde loops using only uniform circular motion combined through eccentrics and epicycles, and its predictive accuracy held for roughly 1,400 years until Maragha, Copernican, and Tychonic astronomers showed that equivalent fits could be obtained with the Earth in motion. Greek astronomy's enduring contribution is the mathematical apparatus: ecliptic and equatorial coordinates, the 48 constellations, the naked-eye planet list, and the demonstration that the apparent sky can be modelled geometrically rather than explained mythologically.
+
+Source: adapted from "Ancient Greek astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Greek_astronomy

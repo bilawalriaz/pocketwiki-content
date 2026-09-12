@@ -32,3 +32,5 @@ Cotonou's economy is based on manufacturing (palm oil, brewing, textiles, cement
 
 ## Debates and Open Questions
 The source does not explicitly detail scholarly debates, but it notes the city's official capital status is distinct from its role as the seat of government, implying a potential point of political or administrative discussion. The ongoing and worsening coastal erosion presents a critical, unresolved environmental and urban planning challenge for the city's future.
+
+Source: adapted from "Cotonou" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cotonou

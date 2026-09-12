@@ -55,3 +55,5 @@ New Zealand culture reflects Māori, early British, and more recent global influ
 - The precise date of initial Polynesian settlement is debated, with evidence suggesting a range between 1250 and 1350.
 - The interpretation and application of the Treaty of Waitangi, particularly regarding Māori sovereignty and land rights (such as the foreshore and seabed), remain subjects of ongoing political and legal debate.
 - Structural socioeconomic disparities between Māori and the European-descended population, including in health, education, and the justice system, are a persistent issue.
+
+Source: adapted from "New Zealand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_Zealand

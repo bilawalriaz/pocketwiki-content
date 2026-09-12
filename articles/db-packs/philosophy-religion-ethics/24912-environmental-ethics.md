@@ -29,3 +29,5 @@ Peter Vardy distinguishes *strong* anthropocentrism (humans rightly at the centr
 ## Animal ethics and environmental ethics
 
 Whether wild animals should be protected for their own sake (animal ethics) or as parts of ecosystems valued as wholes (environmental ethics) is contested. Faria and Paez argue the two are incompatible, since duties to individual sentient beings can conflict with duties to species or ecosystems. J. Baird Callicott argues they can be reconciled by treating wholes and their members as morally considerable together. The dispute turns on whether moral consideration is owed to individuals, to collectives, or to both.
+
+Source: adapted from "Environmental ethics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Environmental_ethics

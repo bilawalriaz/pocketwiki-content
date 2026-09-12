@@ -44,3 +44,5 @@ After a failed 1945-47 mission to mediate the Chinese Civil War, Marshall became
 - **Replacement System in WWII**: Marshall's shift from a unit-rotation plan to an individual replacement system for combat troops is criticized for harming unit cohesion and soldier morale, with some historians arguing it was a significant tactical error.
 - **Recognition of Israel**: As Secretary of State, Marshall strongly opposed President Truman's decision to recognize the new state of Israel in 1948, fearing it would cause war in the Middle East and was politically motivated.
 - **Delayed Recognition of Soviet Threat**: Some historians, like Wilson Miscamble, argue Marshall was slow to recognize the dangers posed by the Soviet Union, not fully grasping the threat until April 1947.
+
+Source: adapted from "George C. Marshall" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_C._Marshall

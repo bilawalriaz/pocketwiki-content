@@ -32,3 +32,5 @@ The first complete English translation was by R. A. Nicholson (1924–40), consi
 
 ## Debates and Open Questions
 The incomplete ending of the sixth book has led to scholarly debate about whether the work was finished at Rumi's death and to claims about the possible existence of a lost seventh volume.
+
+Source: adapted from "Masnavi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Masnavi

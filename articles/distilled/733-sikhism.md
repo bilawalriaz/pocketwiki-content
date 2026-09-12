@@ -57,3 +57,5 @@ Sikhism includes various sects such as Udasi, Nirmala, Khalsa, and Ahmadi-inspir
 - **Cannabis use**: Akali Nihangs ritually consume cannabis (shaheedi degh), conflicting with broader prohibitions on intoxicants.
 - **Caste system**: Despite official rejection, caste-based discrimination persists among rural Sikhs.
 - **Khalistan movement**: Advocacy for independent Sikh state remains controversial and politically sensitive.
+
+Source: adapted from "Sikhism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sikhism

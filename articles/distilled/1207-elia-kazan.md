@@ -47,3 +47,5 @@ Kazan continued directing into the 1970s, including *The Last Tycoon* (1976), ba
 
 ## Debates and Open Questions
 Kazan’s HUAC testimony remains a subject of intense debate. Supporters argue he protected artistic freedom and refused to lie under oath, while critics view his cooperation as a betrayal of colleagues that destroyed careers. The 1999 honorary Oscar sparked renewed controversy, with some attendees boycotting the ceremony. Scholars continue to examine whether his films, particularly *On the Waterfront*, served as veiled justifications for his testimony. The tension between his artistic legacy and political choices reflects broader questions about moral compromise in times of political repression.
+
+Source: adapted from "Elia Kazan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Elia_Kazan

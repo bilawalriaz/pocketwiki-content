@@ -61,3 +61,5 @@ Ignored for two centuries, Vermeer was revived when Waagen recognized *The Art o
 - **Output and survival**: Why so few paintings? Proposed factors: slow method, art dealing, innkeeping, guild duties, 11 surviving children, and the 1672 market crash.
 - **Attribution limits**: Only 34 works are universally accepted; Thoré-Bürger’s 1866 catalogue listed 66+, and debates persist on borderline pictures.
 - **Catholicism’s influence**: Vermeer converted at marriage; scholars debate whether works like *The Allegory of Faith* reflect personal conviction or patron-driven iconography for a *schuilkerk*.
+
+Source: adapted from "Johannes Vermeer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johannes_Vermeer

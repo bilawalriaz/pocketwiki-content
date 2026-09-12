@@ -41,3 +41,5 @@ The primary surviving descendants of the Wends are the Lusatian Sorbs in eastern
 
 ## Debates and Open Questions
 The source notes that the term "Wends" referred to various people, tribes, or groups depending on the context, indicating it was not a self-identifier for a single people. The exact origins and application of the term have evolved, with its use for Slovenes later becoming derogatory. The degree of cultural and genetic assimilation versus survival among different Wendish groups over centuries is a subject of historical study.
+
+Source: adapted from "Wends" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wends

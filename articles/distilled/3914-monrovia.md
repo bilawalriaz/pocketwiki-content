@@ -41,3 +41,5 @@ Greater Monrovia is divided into 16 zones and 161 communities, administered by t
 ## Debates and Open Questions
 - The circumstances and nature of the 1821 land purchase at Cape Mesurado by the ACS from local leaders are subject to historical debate, with modern scholarship revisiting earlier claims.
 - The origin of the "-via" suffix in Monrovia's name is debated, with theories linking it to either a West African deity or a mythological figure.
+
+Source: adapted from "Monrovia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Monrovia

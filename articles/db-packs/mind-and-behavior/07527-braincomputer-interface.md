@@ -45,3 +45,5 @@ The central problem is signal stability. Chronic (long-term implanted) microelec
 - **Consumer and gaming:** low-cost EEG headsets from NeuroSky, Emotiv, and open-source boards have brought BCI into entertainment, though motor-imagery control remains slow and requires extensive training.
 
 Ethical debates focus on informed consent for users who cannot easily communicate, long-term safety, neural-data privacy, potential coercion or "brain hacking," and the line between therapy and cognitive enhancement.
+
+Source: adapted from "Brain–computer interface" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface

@@ -23,3 +23,5 @@ Recent model studies estimate that, even if greenhouse gases were stabilised at 
 ## Misuse of the concept
 
 Climate commitment studies are not predictions of fate. They cover a range of emissions scenarios tied to past, present and future human choices. The concept is misused when worst cases are presented as inevitable regardless of social agency. Models indicate instead that additional surface warming can be halted almost simultaneously with rapid emissions reductions. The concept has appeared in successive IPCC assessment reports, including the Second and Third, and remains central to interpreting any stabilisation pathway.
+
+Source: adapted from "Climate commitment" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_commitment

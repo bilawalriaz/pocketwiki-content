@@ -54,3 +54,5 @@ The Lyapunov equation AX + XAᵀ = C is a special case, and there the Newton ite
 Then P = −V⁻¹W solves the equation.
 
 **Matrix square root.** The Denman–Beavers iteration for √A falls out of the Newton method for csgn by observing that A − PIP = 0 is a degenerate algebraic Riccati equation, whose solution P is, by construction, √A.
+
+Source: adapted from "Matrix sign function" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Matrix_sign_function

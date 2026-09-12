@@ -44,3 +44,5 @@ From its first performance, the play caused a "storm of outraged controversy." C
 *   **Nora's Morality:** Is Nora a sympathetic heroine or a morally flawed woman who abandons her children? Critics like Strindberg have questioned her ethics, while others see her actions as a necessary act of self-preservation.
 *   **The Meaning of the Ending:** Does Nora's departure represent a hopeful journey toward self-discovery or a tragic abandonment of duty? The play's final line from Torvald—"The most wonderful thing of all—?"—leaves this open to interpretation.
 *   **The "Doll's House" Metaphor:** To what extent does the title refer to Nora's role as a decorative plaything, the Helmer home as a superficially perfect dollhouse, or the constrained domestic sphere for women in general?
+
+Source: adapted from "A Doll's House" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/A_Doll%27s_House

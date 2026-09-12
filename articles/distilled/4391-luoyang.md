@@ -39,3 +39,5 @@ Luoyang is a prefecture-level city governing 7 districts and 7 counties. Its geo
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes that the exact population figures for ancient Luoyang (e.g., 600,000 during the Jin and Northern Wei) are historical estimates. The city's identity is also layered with multiple historical names (Luoyi, Dongdu, Shen Du, Henanfu), reflecting its changing political status across dynasties.
+
+Source: adapted from "Luoyang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Luoyang

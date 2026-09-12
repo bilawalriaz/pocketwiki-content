@@ -89,3 +89,5 @@ Though not ideal model organisms due to size and slow reproduction, sheep have c
 - **Welfare Practices**: Tail docking, castration, and mulesing remain controversial despite claims of necessity for health management.
 - **Role in Climate Change**: Sheep emit methane via enteric fermentation, prompting debate over their environmental impact relative to other livestock.
 - **Sheep Intelligence**: Though shown to rival cattle cognitively, public perception still views them as unintelligent, affecting welfare policies.
+
+Source: adapted from "Sheep" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sheep

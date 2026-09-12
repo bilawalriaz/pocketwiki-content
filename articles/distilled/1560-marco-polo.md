@@ -68,3 +68,5 @@ Released in August 1299, Marco returned to Venice. His family purchased a palazz
 - **Manuscript stemma:** With ~150 divergent manuscripts and no autograph, reconstructing the "original" text remains an open problem of textual criticism; key passages (e.g., the Xiangyang mangonels) appear only in some branches.
 - **Extent of Polo’s itinerary:** While his presence in Yuan territory is widely accepted, the precise scope of his travel in southern China versus reliance on secondhand reports for peripheral regions (e.g., Japan, Java) is unresolved.
 - **Astronomical omission:** Polo described a comet (1293) to Pietro d’Abano, recorded in the *Conciliator*, but this observation is absent from *The Travels*—raising questions about editorial selection or Rustichello’s filtering.
+
+Source: adapted from "Marco Polo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marco_Polo

@@ -49,3 +49,5 @@ Davy's health declined after a stroke in 1826. He spent his last years writing *
 - **Relationship with Faraday**: Davy's accusation of plagiarism and attempt to block Faraday's Royal Society membership remain contentious, with sources differing on whether his later praise was genuine.
 - **Effectiveness of his presidency**: Historians debate whether Davy's leadership modernized the Royal Society or was undermined by his political errors and declining health.
 - **Copper protection failure**: The scheme to protect ships' hulls succeeded in reducing corrosion but caused fouling, leading to its abandonment—a case study in unintended consequences.
+
+Source: adapted from "Humphry Davy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Humphry_Davy

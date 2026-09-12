@@ -46,3 +46,5 @@ Scipio was a Hellenophile who introduced Greek culture and the clean-shaven fash
 - **Burial Place**: His burial location is uncertain, with possibilities including the Tomb of the Scipios in Rome, his villa at Liternum, or the Meta Romuli.
 - **Political Eclipse**: Some scholars, like Howard Hayes Scullard, believe Scipio's political influence waned after his censorship in 199 BC, a view that is disputed.
 - **Trials of the Scipios**: The exact nature and outcome of the legal charges against Scipio and his brother Lucius regarding alleged bribes from Antiochus III are confused in the ancient sources.
+
+Source: adapted from "Scipio Africanus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scipio_Africanus

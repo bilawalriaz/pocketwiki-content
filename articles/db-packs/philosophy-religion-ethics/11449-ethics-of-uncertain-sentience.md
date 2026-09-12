@@ -35,3 +35,5 @@ Some people adopt AI veganism, avoiding AI systems over concerns about how they 
 ## Tensions and limits
 
 The frameworks disagree on what counts as adequate evidence. Precaution can be expensive and may block research that would resolve the underlying uncertainty. The expected-value approach requires assigning numerical probabilities to sentience, which is controversial. The incautionary approach risks ignoring suffering that turns out to be real. Across all of them, sentience is a private phenomenon, and current science can only infer it indirectly from behaviour, physiology and neural architecture.
+
+Source: adapted from "Ethics of uncertain sentience" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ethics_of_uncertain_sentience

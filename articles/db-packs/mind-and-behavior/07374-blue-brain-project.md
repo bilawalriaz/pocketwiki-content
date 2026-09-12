@@ -35,3 +35,5 @@ All Blue Brain software is open source and hosted on GitHub. Each tool addresses
 ## Collaborations and funding
 
 The Cajal Blue Brain Project, coordinated by Javier de Felipe at the Technical University of Madrid, ran parallel simulations on the Magerit supercomputer at the Supercomputing and Visualization Center of Madrid (CeSViMa). The project was funded mainly by the Swiss government and the European Commission's Future and Emerging Technologies (FET) Flagship grant, with additional private donations. EPFL acquired the Blue Gene prototype at a discount, and the project became a recognised test case for the Blue Gene architecture. The 2021 documentary *In Silico*, directed by Noah Hutton, tracked the project's shifting goals over the preceding decade.
+
+Source: adapted from "Blue Brain Project" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Blue_Brain_Project

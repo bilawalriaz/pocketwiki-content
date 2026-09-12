@@ -44,3 +44,5 @@ Despite his political disgrace, Alba retained influence at court. In 1580, at ag
 *   **Effectiveness vs. Brutality:** Historians debate whether Alba's methods in the Netherlands were strategically counterproductive, as his repression hardened resistance and prolonged the war, versus being a necessary, if harsh, response to rebellion.
 *   **Legacy in the Netherlands:** His figure remains a central element of the Dutch "Black Legend," symbolizing Spanish tyranny. This memory was invoked as late as 1904 during debates over Dutch conduct in the Aceh War.
 *   **Political Factions at Court:** Alba represented the conservative "Albista" faction at Philip II's court, which advocated for firm, military solutions, in contrast to the more liberal "Ebolista" faction that favored negotiation. The king's shifting trust between these factions influenced policy.
+
+Source: adapted from "Fernando Álvarez de Toledo, 3rd Duke of Alba" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fernando_%C3%81lvarez_de_Toledo%2C_3rd_Duke_of_Alba

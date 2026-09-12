@@ -84,3 +84,5 @@ Several aspects of Stradivari's life and work remain debated:
 - **Birth Year**: Estimated c. 1644 based on later instruments, but no birth record survives.
 - **Instrument Quality**: Despite acclaim, blind listening tests and acoustic analyses have failed to prove Stradivarius instruments are objectively superior to modern high-quality violins.
 - **Sons' Contributions**: The extent of Francesco and Omobono's involvement in production is unclear, though their labels suggest limited independent output.
+
+Source: adapted from "Antonio Stradivari" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antonio_Stradivari

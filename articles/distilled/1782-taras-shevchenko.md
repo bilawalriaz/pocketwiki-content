@@ -59,3 +59,5 @@ Shevchenko wrote 237 poems, but only 28 were published in the Russian Empire dur
 ## Debates and open questions
 
 During the Soviet era, official sources represented Shevchenko as "the founder of the revolutionary democratic trend in the history of Ukrainian social thought" and a utopian socialist, attributing his worldview to Russian revolutionary democrats such as Herzen, Belinsky, Dobrolyubov, and Chernyshevsky. Soviet editors and commentators went so far as to falsify the texts of his poems, removing mentions of God and religion. However, historian Dmytro Doroshenko argued that while Shevchenko foresaw a future social revolution, he hoped to influence the ruling classes through his word so they would peacefully renounce their privileges and prevent bloodshed. Shevchenko himself rejected the label "materialism," understanding by that word the vulgar materialism of contemporary thinkers such as Büchner, Moleschott, and Vogt.
+
+Source: adapted from "Taras Shevchenko" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taras_Shevchenko

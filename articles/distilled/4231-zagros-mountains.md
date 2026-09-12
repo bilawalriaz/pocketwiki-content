@@ -40,3 +40,5 @@ The Zagros features a semi-arid, continental Mediterranean climate with snowy wi
 ## Debates and Open Questions
 - The exact timing and mechanisms of the uplift in the northeastern parts of the belt, involving the obduction of Neotethys oceanic crust and continental arc collision, are noted as having major effects but are distinct from the main Miocene collision.
 - The genetic legacy of Neolithic Zagros populations is debated; the Wezmeh Cave individual did not contribute to early European farmers but is genetically similar to some modern Iranian and South Asian groups, suggesting the Zagros was a plausible source of Eurasian ancestry in Central and South Asia.
+
+Source: adapted from "Zagros Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zagros_Mountains

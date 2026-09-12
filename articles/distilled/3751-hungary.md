@@ -49,3 +49,5 @@ Hungary joined NATO (1999) and the EU (2004). In 2010, Viktor Orbán's Fidesz pa
 *   The exact number of ethnic Hungarians left outside Hungary's borders after the Treaty of Trianon is debated, with estimates ranging from 2 million to 5 million.
 *   The extent of the Horthy government's complicity in the Holocaust remains a point of historical controversy.
 *   The characterization of Hungary under Viktor Orbán—whether as an illiberal democracy, hybrid regime, or other form—is a subject of ongoing political and academic debate.
+
+Source: adapted from "Hungary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hungary

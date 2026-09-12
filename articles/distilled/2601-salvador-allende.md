@@ -46,3 +46,5 @@ On 11 September 1973, the military, led by General Augusto Pinochet, staged a co
 *   **U.S. Role:** The degree of direct U.S. involvement in the 1973 coup itself remains debated, though declassified documents confirm extensive efforts to destabilize Allende's government.
 *   **Economic Causes:** The primary cause of Chile's economic crisis under Allende is debated, with factors including his policies, U.S. intervention, and international market forces like falling copper prices.
 *   **Soviet Support:** The extent and nature of Soviet economic and political support for Allende's government is detailed in various sources but remains a subject of historical analysis.
+
+Source: adapted from "Salvador Allende" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Salvador_Allende

@@ -46,3 +46,5 @@ Telecommunication—the transmission of signals over a distance—began with anc
 - The status of the Indus Valley script as a writing system is questioned by a few scholars.
 - The exact nature and origin of the early "alphabetic" system developed in central Egypt around 1700 BCE remain open to interpretation, as these early writings cannot be read.
 - There is scholarly debate regarding the earliest uses of the Greek alphabet due to the changes made to adapt the West-Semitic alphabet.
+
+Source: adapted from "History of communication" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_communication

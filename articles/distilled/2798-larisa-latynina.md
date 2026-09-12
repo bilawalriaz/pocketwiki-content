@@ -36,3 +36,5 @@ After retiring in 1966, Latynina coached the Soviet national team until 1977, le
 
 ## Debates and open questions
 The source does not present scholarly debates, but it notes a key historical distinction: Latynina held the record for most Olympic medals (18) from 1964 until 2012, when it was surpassed. She remains the female gymnast with the most Olympic gold medals (9), a record she holds jointly with swimmer Katie Ledecky.
+
+Source: adapted from "Larisa Latynina" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Larisa_Latynina

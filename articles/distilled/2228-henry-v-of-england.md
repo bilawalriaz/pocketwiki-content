@@ -43,3 +43,5 @@ Henry's armies were heavily weighted towards archers using the English longbow, 
 - **Assessment of Reign**: Scholars are divided on whether Henry was a brilliant ruler and military genius or a warmonger whose ambition bankrupted England and weakened his dynasty.
 - **Legacy of Conquests**: There is debate over whether the loss of Henry's French conquests was inevitable or contingent on events after his death, such as the early death of Charles VI.
 - **Character**: Contemporary accounts range from admiration for his discipline to portrayals of him as a tyrant, and modern interpretations vary widely.
+
+Source: adapted from "Henry V of England" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henry_V_of_England

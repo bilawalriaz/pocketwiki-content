@@ -35,3 +35,5 @@ Conditions of the nervous system span several specialties: neurology (for exampl
 
 Two engineering directions extend this work. Brain–computer interfaces are being developed to bypass damaged circuits and restore function. Neuromorphic engineering builds silicon chips whose architecture mimics biological neurons; the Heidelberg BrainScaleS system, for instance, runs about 864 times faster than real biology. The same neural measurements that support medicine now feed neuroeconomics, neuroeducation, neuroethics, and neurolaw, which revisit questions that once belonged only to the social sciences.
 ```
+
+Source: adapted from "Neuroscience" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neuroscience

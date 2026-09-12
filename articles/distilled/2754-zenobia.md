@@ -49,3 +49,5 @@ Zenobia was taken to Emesa for trial and later to Rome. She was publicly humilia
 - **Extent of Early Authority**: Historians debate whether her power was initially limited to Palmyra and Emesa until 270 or if she controlled all her husband's territories from the start.
 - **Agreement with Rome**: It is unclear if Aurelian tacitly accepted Palmyrene rule in the East for a time, as suggested by joint coinage and papyri dating, or if this was a Roman ruse.
 - **Zenobia's Fate**: Ancient accounts disagree on whether she died before reaching Rome, was executed, or lived out her days in Italy.
+
+Source: adapted from "Zenobia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zenobia

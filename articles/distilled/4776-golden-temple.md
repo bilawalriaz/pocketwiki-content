@@ -44,3 +44,5 @@ The Golden Temple was a center for the Singh Sabha movement (1883–1920s), whic
 - The exact appearance and design of the original temple built by the Sikh Gurus before 1764 is unknown and debated, as no surviving records exist.
 - The claim that the Sufi saint Mian Mir laid the foundation stone of the first temple is considered unsubstantiated by some scholars, with traditional sources stating Guru Arjan did so.
 - The casualty figures and events of Operation Blue Star (1984) remain disputed between official government accounts and independent reports.
+
+Source: adapted from "Golden Temple" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Golden_Temple

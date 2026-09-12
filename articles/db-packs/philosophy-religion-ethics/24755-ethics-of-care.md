@@ -35,3 +35,5 @@ Care ethics is often accused of applying only within families and friend groups,
 ## Criticisms
 
 Within nursing, Peter Allmark has objected that subjective caring does not guarantee that care is harmless, and that the theory can conflict with treating everyone with unbiased consideration. Care ethics has also been faulted for offering weak protection against paternalism, the risk that caregivers mistake their own needs for those of the people they care for. Ruddick's response is that caregivers should respect the "embodied willfulness" of those receiving care.
+
+Source: adapted from "Ethics of care" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ethics_of_care

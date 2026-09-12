@@ -41,3 +41,5 @@ The attack was a tactical victory but a strategic failure for Japan. By sparing 
 - **Third wave decision**: Historians debate whether a third Japanese strike targeting oil tanks and repair facilities would have crippled the U.S. Pacific Fleet for over a year, significantly prolonging the war.
 - **Midget submarine contribution**: There is dispute over the effectiveness of the midget submarine attack, including whether one fired torpedoes that sank or heavily damaged battleships like the *West Virginia* and *Oklahoma*.
 - **Japanese declaration of war**: Research has challenged the long-held view that the delayed delivery of Japan's 14-part message was a mere accident, suggesting internal debate within the Japanese government about providing proper notice.
+
+Source: adapted from "Attack on Pearl Harbor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor

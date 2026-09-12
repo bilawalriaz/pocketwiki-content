@@ -44,3 +44,5 @@ Amman's population reached over 4 million by 2015, comprising about 42% of Jorda
 - The exact location and nature of the Crusader castle in Amman, referenced in historical texts, remain uncertain, with archaeological evidence pointing more strongly to an Ayyubid-period structure.
 - The proportion of Amman's population with Palestinian versus Jordanian (from other parts of Jordan) descent is not officially recorded, making precise demographic analysis difficult.
 - The rapid, large-scale urban expansion of Amman has created significant challenges for municipal planning and resource management, such as water scarcity, which are ongoing concerns.
+
+Source: adapted from "Amman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amman

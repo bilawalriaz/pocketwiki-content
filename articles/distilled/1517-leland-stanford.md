@@ -66,3 +66,5 @@ Stanford married Jane Elizabeth Lathrop in Albany, New York, on September 30, 18
 - **Southern Pacific Ouster (1890)**: The source suggests Collis Huntington forced Stanford out of the Southern Pacific presidency in retaliation for Stanford’s Senate victory over Huntington’s friend Aaron Sargent; the extent of personal vendetta versus corporate power struggle is debated.
 - **Populist Legislation**: Stanford’s Senate bills for worker cooperatives and land-backed currency aligned with the People’s Party but failed in committee; historians question whether this represented genuine reformism or strategic positioning.
 - **Jane Stanford’s Death (1905)**: The source notes she died of strychnine poisoning; the circumstances (murder vs. accident) remain a historical mystery.
+
+Source: adapted from "Leland Stanford" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leland_Stanford

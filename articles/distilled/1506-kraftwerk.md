@@ -73,3 +73,5 @@ Critics rank Kraftwerk among the most influential groups in pop history (Neil Mc
 - **Degree of live improvisation vs. sequencing**: Since the laptop transition (2002), the balance between Hütter's manual playing, pre-programmed sequences, and onstage improvisation is opaque; the band emphasizes "interactive control" but the extent of live generation versus playback is debated by audiences and critics.
 - **Schneider's role in later years**: Sources note Schneider's live vocoding was replaced by software speech synthesis before his 2008 exit; his exact creative contribution in the 2000s versus Hütter's leadership is unclear.
 - **Unreleased material**: Three new songs performed on the 1998 tour remain unreleased; the "second boxed set" of early albums mentioned by Hütter in 2010 has not appeared.
+
+Source: adapted from "Kraftwerk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kraftwerk

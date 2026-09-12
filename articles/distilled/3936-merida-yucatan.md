@@ -46,3 +46,5 @@ Mérida is a major transport hub. The Manuel Crescencio Rejón International Air
 
 ## Debates and Open Questions
 The source notes a debate regarding the origin of Mérida's nickname, "La Ciudad Blanca" (The White City). One theory attributes it to the white limestone used on colonial buildings. Another is a folk tale that the Spanish only allowed white-skinned Europeans to live in the city, enforced by arches at its entrance. However, the source states the first arches were not built until 1690, nearly 150 years after the city's foundation, casting doubt on this folklore.
+
+Source: adapted from "Mérida, Yucatán" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/M%C3%A9rida%2C_Yucat%C3%A1n

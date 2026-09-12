@@ -48,3 +48,5 @@ Though the rebellion failed, it marked the first large-scale Indigenous uprising
 - **Ideological Complexity**: The rebellion contained diverse elements, from conservative demands for a return to pre-reform conditions to radical, proto-egalitarian ideas that sought to "turn the world upside down" by abolishing racial hierarchies and forced labor.
 - **Role of Women**: The significant participation of women like Micaela Bastidas and Bartola Sisa (who led after Túpac Katari's capture) is increasingly studied, challenging traditional narratives focused solely on male leaders.
 - **Legacy and Symbolism**: The reinterpretation of Túpac Amaru II by 20th-century leftist and nationalist governments raises questions about the appropriation of historical figures for contemporary political agendas.
+
+Source: adapted from "Túpac Amaru II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/T%C3%BApac_Amaru_II

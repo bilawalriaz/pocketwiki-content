@@ -44,3 +44,5 @@ The electric guitar's amplified sound and capacity for effects like distortion a
 ## Debates and Open Questions
 *   The exact origins of the modern guitar are "not known," and scholars debate the extent of influence from instruments like the lute or ancient kithara.
 *   The claim that the poet Vicente Espinel invented the five-course guitar is contested, as his birth year (1550) may make this chronologically impossible.
+
+Source: adapted from "Guitar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guitar

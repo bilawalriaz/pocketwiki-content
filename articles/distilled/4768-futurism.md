@@ -49,3 +49,5 @@ Futurism influenced later movements including Art Deco, Constructivism, Surreali
 - The degree to which Futurism's early radicalism was compromised by its later alliance with Fascism remains a central point of scholarly debate.
 - The movement's relationship with other avant-gardes, like Cubism, is complex; while influenced by it, Futurists insisted on depicting motion and dynamism, unlike the more static Cubist works.
 - The role and recognition of female Futurists, such as Benedetta Cappa Marinetti and Valentine de Saint-Point, within a movement whose founding manifestos expressed misogyny, is an ongoing area of study.
+
+Source: adapted from "Futurism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Futurism

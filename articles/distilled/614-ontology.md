@@ -136,3 +136,5 @@ Ancient roots: Upanishads (c. 700 BCE) on unity/plurality of ultimate reality; S
 - **Methodology**: Can ontology be pursued a priori (intuition, conceptual analysis) or only naturalistically (via science)?  
 - **Social kinds**: Are money, gender, institutions mind-dependent constructions or do they have objective reality?  
 - **Modal realism**: Are possible worlds concrete (Lewis) or abstract/fictional?
+
+Source: adapted from "Ontology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ontology

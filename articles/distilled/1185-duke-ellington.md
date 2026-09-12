@@ -73,3 +73,5 @@ Ellington married Edna Thompson in 1918; son Mercer was born 1919. They separate
 - **Newport 1956 album authenticity**: The original *Ellington at Newport* LP (1956) contained only ~40% live material; the rest was studio re-creation with added crowd noise, undisclosed until the 1999 release of the actual concert tapes.
 - **Commercial vs. artistic priorities**: Ellington's statement "jazz is music, the swing is business" reflects tension between his compositional ambition and the dance-band economics that sustained the orchestra; scholars weigh how much this compromise shaped his output.
 - **Pulitzer Prize 1965**: The jury recommended Ellington for the Pulitzer Prize in Music, but the board declined to award it that year; the 1999 Special Award was widely seen as belated correction, though the 1965 decision remains a noted controversy.
+
+Source: adapted from "Duke Ellington" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Duke_Ellington

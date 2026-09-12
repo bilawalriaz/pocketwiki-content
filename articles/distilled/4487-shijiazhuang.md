@@ -40,3 +40,5 @@ The city is a major hub where the Beijing–Guangzhou and other railways interse
 
 ## Debates and Open Questions
 The origin of the city's name is "heavily disputed," with competing theories involving homophones, family names, and older historical references. The accuracy of a 2011 survey naming Shijiazhuang residents the "happiest" in China caused "strong doubts from netizens."
+
+Source: adapted from "Shijiazhuang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shijiazhuang

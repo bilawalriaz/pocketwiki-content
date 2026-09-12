@@ -44,3 +44,5 @@ Roman involvement began in Italy and Sicily. After defeating Macedon in the Seco
 - **End Date**: Scholars debate the precise end of the period. While 30 BC (death of Cleopatra) is most common, other proposed dates include 146 BC (Roman destruction of Corinth), AD 330 (Constantine's move to Constantinople), or even AD 138.
 - **Nature of Hellenization**: Historians disagree on whether the spread of Greek culture was a deliberate policy of the rulers or a more organic process of cultural diffusion. The extent and depth of its adoption by native populations are also debated.
 - **Scientific Legacy**: Some scholars, like Lucio Russo, argue that the scientific method was born in the 3rd century BC, while others contend its significance has been overstated compared to Classical Greek science.
+
+Source: adapted from "Hellenistic period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hellenistic_period

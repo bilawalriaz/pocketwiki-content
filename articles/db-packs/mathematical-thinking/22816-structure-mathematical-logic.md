@@ -41,3 +41,5 @@ A relation is *implicitly definable* when a formula in the language extended wit
 ## Generalizations
 
 A *many-sorted structure* has several domains, one per *sort* named in the signature, with arities given as tuples of sorts. Vector spaces fit naturally as a two-sorted structure with sorts $V$ (vectors) and $S$ (scalars) and scalar multiplication of type $(S, V; V)$. Universal algebra restricts axioms to universally quantified equations, which makes the choice of signature more significant than in model theory and leads to *partial algebras* when operations are undefined on part of the domain. In set theory and category theory the domain may be a *proper class* rather than a set, giving *class models*.
+
+Source: adapted from "Structure (mathematical logic)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Structure_%28mathematical_logic%29

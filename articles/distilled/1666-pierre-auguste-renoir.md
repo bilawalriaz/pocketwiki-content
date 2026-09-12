@@ -56,3 +56,5 @@ Renoir’s paintings are defined by vibrant light, saturated color, and candid, 
 - **Attribution disputes**: The Bernheim-Jeune catalogue raisonné and the Wildenstein Institute’s pending critical catalogue disagree on certain works, notably an unsigned painting at Picton Castle (featured in the TV series *Fake or Fortune*).
 - **Arthritis painting method**: Popular accounts claim Renoir painted with brushes strapped to paralyzed fingers; the source clarifies he could still grasp a brush but needed an assistant to place it in his hand.
 - **Stolen works**: *Paysage Bords de Seine* was withdrawn from a 2012 auction after being identified as stolen from the Baltimore Museum of Art in 1951; provenance research remains active.
+
+Source: adapted from "Pierre-Auguste Renoir" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir

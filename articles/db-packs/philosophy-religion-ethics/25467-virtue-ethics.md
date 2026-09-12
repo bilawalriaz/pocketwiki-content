@@ -51,3 +51,5 @@ Three objections recur. Nussbaum argues virtue ethics is less a rival to Kantian
 ## Applications
 
 The framework now extends beyond moral philosophy. McCloskey has used it to defend capitalism as compatible with bourgeois virtues. Page has grounded peace education in virtue ethics. Faunce argues healthcare whistleblowing needs a virtue-ethics foundation, reflected in the UNESCO Declaration on Bioethics. Schwartz treats practical wisdom as an antidote to bureaucratic medicine. Vallor's *Technology and the Virtues* proposes technomoral virtues, honesty, humility, justice, courage, empathy, care, civility, flexibility, and magnanimity, needed for flourishing in a socio-technical world.
+
+Source: adapted from "Virtue ethics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Virtue_ethics

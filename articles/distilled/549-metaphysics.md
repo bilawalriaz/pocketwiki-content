@@ -101,3 +101,5 @@ Causality links cause and effect. **Deterministic** views: cause necessitates ef
 *   **Free Will:** Is determinism true? If so, is free will compatible (Compatibilism) or impossible (Incompatibilism)?
 *   **Methodology:** Can *a priori* intuition yield metaphysical knowledge, or must metaphysics be naturalized/empirical?
 *   **Meaningfulness:** Are metaphysical disputes substantive or merely verbal (deflationism)? Do metaphysical statements have truth conditions (realism vs. anti-realism)?
+
+Source: adapted from "Metaphysics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metaphysics

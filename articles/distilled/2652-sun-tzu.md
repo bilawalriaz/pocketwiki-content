@@ -34,3 +34,5 @@ The earliest account of Sun Tzu comes from Sima Qian's *Shiji* (c. 97 BC), which
 
 ## Debates and Open Questions
 The primary debate concerns the historical existence of Sun Tzu. Scholars question whether "Sun Wu" was a real person or a legendary figure, noting the lack of contemporary records and the anachronisms in the text attributed to him. The discovery of Sun Bin's work clarified that two different authors were both called "Sun Tzu," but it also supports the theory that the historical figure of Sun Wu may have been inspired by or conflated with the later, verified Sun Bin. The exact date of composition for *The Art of War* remains settled only in broad terms (Warring States period), with the 1972 discovery providing a firm *terminus ante quem* (latest possible date) of 118 BC.
+
+Source: adapted from "Sun Tzu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sun_Tzu

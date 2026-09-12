@@ -62,3 +62,5 @@ Twain fought unauthorized Canadian editions (e.g., Belford Brothers’ *Tom Sawy
 - **Native American views**: Early writings (*The Noble Red Man*, 1870) advocate genocide and depict Indians as irredeemably treacherous; later works maintain ridicule (Cooper critique, 1895). Scholars debate whether this reflects fixed racism or period-specific polemic.
 - **Religious heterodoxy**: Twain’s *Autobiography* (2010) attacks Christianity as "terrible" and Hell as a "prodigious crime," yet he professed belief in an almighty God and Providence elsewhere. The extent of his theism vs. deism vs. agnosticism remains contested.
 - **Autobiography structure**: Twain dictated non-chronologically for humor and flow; editors have rearranged it conventionally, potentially altering his intended "whims and tangents." The Mark Twain Project publishes the unexpurgated, chronological edition.
+
+Source: adapted from "Mark Twain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mark_Twain

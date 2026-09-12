@@ -41,3 +41,5 @@ Makassar is a primary port for Eastern Indonesia, famous for the traditional *pi
 
 ## Debates and Open questions
 The source does not present explicit scholarly debates, but it notes that the city's name history involves contested choices, such as the locally unpopular renaming to Ujung Pandang in 1971. The exact scale and nature of the pre-colonial Makassan voyages to Australia, while documented, are part of a broader historical discussion on early trans-cultural contacts in the region.
+
+Source: adapted from "Makassar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Makassar

@@ -53,3 +53,5 @@ In Europe, guilds survive as livery companies in London, ceremonial and charitab
 - **Women's Participation**: Scholars disagree on whether women's roles in guilds declined in the early modern period, with regional variations complicating the narrative.
 - **Modern Licensing**: There is debate over whether contemporary licensing and accreditation practices serve public good or primarily protect professionals by limiting competition, akin to historical guild privileges.
 - **Patents and Innovation**: Questions arise about whether patents, as modern guild privileges, hinder innovation, especially in fields like agriculture where public investment may underpin breakthroughs.
+
+Source: adapted from "Guild" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guild

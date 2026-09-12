@@ -47,3 +47,5 @@ Improvisation is used in film and television for script development and in final
 
 ## Debates and Open Questions
 The source notes that the skills of improvisation are used outside performing arts, but the extent and formalization of "applied improvisation" as a distinct field is a more recent development. There is also a noted distinction between ad-libbing and true improvisation in film. Historically, the legality of unscripted performance was a debate, as seen in the prosecution of director Joan Littlewood in Britain before 1968 for allowing actors to improvise.
+
+Source: adapted from "Improvisational theatre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Improvisational_theatre

@@ -38,3 +38,5 @@ Comedy has distinct traditions worldwide. Indian classical drama included satire
 
 ## Debates and Open Questions
 Scholars debate the precise origins of comedy, with Aristotle noting they were obscure because comedy was not treated seriously from its start. There is also a historical tension between views of comedy as a positive, civilizing force (Aristotle) versus a potentially destructive one (Plato). The definition and boundaries of comedy remain fluid; in the late 20th century, some scholars preferred the term "laughter" to avoid ambiguous genre labels like "grotesque" or "irony."
+
+Source: adapted from "Comedy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Comedy

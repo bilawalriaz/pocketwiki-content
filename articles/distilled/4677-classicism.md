@@ -38,3 +38,5 @@ Literary classicism drew inspiration from ancient Greek and Latin literature, wi
 
 ## Debates and Open questions
 The influence of French classicist theatre rules on playwrights in other nations, such as England, is noted as debatable. The article also presents classicism as a force invoked by opposing sides in the 20th century—both by those rejecting modern changes and by modern movements themselves.
+
+Source: adapted from "Classicism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Classicism

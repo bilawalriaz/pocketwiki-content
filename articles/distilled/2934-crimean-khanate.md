@@ -40,3 +40,5 @@ The Khanate was ruled by the Giray dynasty, who traced their lineage to Genghis 
 
 ## Debates and Open questions
 The exact nature of the Khanate's relationship with the Ottoman Empire is debated. While it was a protectorate after 1475, the khans retained significant sovereignty in the steppes, leading to questions about whether it was a true vassal or a semi-independent ally. The scale and impact of the slave trade are also subjects of historical analysis, with estimates of the number of captives varying and ongoing discussion about its long-term demographic and social effects on the region.
+
+Source: adapted from "Crimean Khanate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Crimean_Khanate

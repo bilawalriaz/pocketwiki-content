@@ -29,3 +29,5 @@ The last three kings were Etruscan in origin, marking a phase of strong cultural
 ## The fall of the monarchy
 
 The dynasty ended in scandal. Sextus Tarquinius, son of the last king, raped the noblewoman Lucretia, whose suicide triggered a revolt led by Lucius Junius Brutus. In 509 BC Brutus deposed Tarquinius Superbus and, with Lucius Tarquinius Collatinus, became the first two consuls of the Roman Republic. An attempt by the Etruscan ruler Lars Porsena to restore the Tarquins failed, though a minority of sources claim he briefly captured Rome.
+
+Source: adapted from "Roman Kingdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Roman_Kingdom

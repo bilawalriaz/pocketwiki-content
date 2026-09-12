@@ -48,3 +48,5 @@ In 2013, Secretary of State John Kerry declared the doctrine's era over. However
 *   **Imperialism vs. Anti-Colonialism:** Critics like Noam Chomsky and historian William Appleman Williams argue the doctrine was used as a justification for U.S. hegemony and unilateral intervention, creating a form of "imperial anti-colonialism."
 *   **Interpretive Shifts:** The doctrine's meaning is contested, oscillating between its original anti-colonial intent, the interventionist Roosevelt Corollary, the multilateral Good Neighbor Policy, and its 21st-century revival as a tool for great-power competition.
 *   **Latin American Agency:** The reaction in Latin America was mixed—initially grateful but suspicious of U.S. motives, and later strongly opposed to the interventionism it came to represent.
+
+Source: adapted from "Monroe Doctrine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Monroe_Doctrine

@@ -31,3 +31,5 @@ The many-worlds interpretation, proposed by Hugh Everett III, rejects wavefuncti
 ## Historical roots
 
 Aristotelian physics imagined a finite spherical universe with Earth at its centre; matter composed of earth, water, air, and fire moved naturally toward or away from that centre, and celestial bodies circled in the aether. Movement was defined as change in place. Newtonian physics overturned this: Newton's first law states that every body perseveres in rest or uniform straight-line motion unless compelled by impressed forces, with no natural or inherent motion, and absolute space was a three-dimensional Euclidean space, infinite and without centre. Leibniz, Newton's contemporary, argued from the 1690s onward that space, time, and motion are relative rather than absolute, anticipating Einstein.
+
+Source: adapted from "Philosophy of physics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philosophy_of_physics

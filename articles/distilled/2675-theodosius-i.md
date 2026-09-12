@@ -49,3 +49,5 @@ In 390, Roman troops massacred thousands of civilians in Thessalonica, likely in
 - **The "End of Paganism":** Was his reign a decisive turning point ending paganism through law, or did it decline gradually with his laws having limited effect?
 - **The Gothic Settlement:** Was the 382 treaty a pragmatic necessity securing peace, or a catastrophic error creating a dangerous autonomous power?
 - **Church vs. State:** Does Ambrose's penance demonstrate the church's new political power over the emperor, or was it a unique, negotiated event?
+
+Source: adapted from "Theodosius I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theodosius_I

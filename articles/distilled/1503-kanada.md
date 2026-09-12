@@ -62,3 +62,5 @@ Kaṇāda’s analytical categories (substance, quality, action, etc.) created a
 *   **Textual Stratification**: The *Vaiśeṣika Sūtra* exists in multiple manuscript versions; the extent to which the surviving text reflects Kaṇāda’s original composition versus later systematization (c. 200 BCE – 1st century CE) is unresolved.
 *   **Theistic vs. Non-theistic Origins**: While classical Vaisheshika is explicitly non-theistic (law-governed universe, self-effort *moksha*), later Nyāya-Vaiśeṣika synthesis (e.g., Udayana) introduced God (Īśvara) as the efficient cause of atomic combination. The transition point and motivation remain debated.
 *   **Influence on Charaka**: The *Charaka Samhita* shares categorical terminology (e.g., *padārtha*, *dravya*, *guṇa*), but the direction and depth of influence—borrowing vs. shared intellectual milieu—is not definitively established.
+
+Source: adapted from "Kaṇāda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ka%E1%B9%87%C4%81da

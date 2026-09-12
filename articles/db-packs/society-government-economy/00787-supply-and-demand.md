@@ -35,3 +35,5 @@ At the macro level, **aggregate demand–aggregate supply (AD–AS)** models app
 ## A short history
 
 The price-adjusting logic has old roots: the *Tirukkural* (c. 2000 BCE) contains an early articulation, and John Locke (1691) and Francis Hutcheson (1755) wrote about price set by buyer–seller ratios. James Denham-Steuart first used the phrase "supply and demand" in 1767, followed by Adam Smith's *The Wealth of Nations* (1776) and Thomas Robert Malthus (1803). David Ricardo titled a 1817 chapter "On the Influence of Demand and Supply on Price." Augustin Cournot (1838) built the first mathematical model with diagrams, Fleeming Jenkin (1870) drew the first English-language curves including comparative statics, and Alfred Marshall (1890) popularised the modern form in *Principles of Economics*.
+
+Source: adapted from "Supply and demand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Supply_and_demand

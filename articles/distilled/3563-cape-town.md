@@ -52,3 +52,5 @@ Cape Town has a well-developed infrastructure, including an international airpor
 - The balance between promoting tourism and short-term rentals (like Airbnb) versus ensuring housing availability and affordability for residents.
 - The long-term sustainability of the city's water supply and the necessity of expensive new infrastructure like desalination plants.
 - The potential and implications of the small but growing secessionist movement advocating for "Cape Independence."
+
+Source: adapted from "Cape Town" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cape_Town

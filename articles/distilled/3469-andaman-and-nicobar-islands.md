@@ -40,3 +40,5 @@ Agriculture engages about 50% of the population, though only 6% of land is arabl
 
 ## Debates and Open Questions
 The source highlights ongoing scholarly debates regarding the precise origins and linguistic relationships of the indigenous Andamanese peoples. A major open question concerns the future of uncontacted tribes like the Sentinelese, balancing protection from disease and external influence with the right to self-determination. The long-term ecological impact of the 2004 tsunami and subsequent human development on the islands' unique biodiversity also remains a subject of study.
+
+Source: adapted from "Andaman and Nicobar Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands

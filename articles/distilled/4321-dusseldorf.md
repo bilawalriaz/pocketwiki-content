@@ -44,3 +44,5 @@ Düsseldorf is a major arts hub, anchored by the Kunstakademie Düsseldorf, whic
 
 ## Debates and Open Questions
 The source notes the enduring, often humorous, rivalry with Cologne, which stems from commercial competition after the 1288 Battle of Worringen and extends to football, beer preferences (Altbier vs. Kölsch), and carnival. The origin of the city's "cartwheeler" tradition is also noted as having different theories, indicating a point of local historical debate.
+
+Source: adapted from "Düsseldorf" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/D%C3%BCsseldorf

@@ -75,3 +75,5 @@ Immediate reaction canonized Scott as a national hero of duty and sacrifice; a m
 - **Scurvy and Nutrition**: The *Discovery* Expedition suffered scurvy; *Terra Nova* used seal meat but fuel shortages prevented melting snow/cooking, leading to dehydration and effective starvation.
 - **Motor Sledges**: Scott bet on experimental caterpillar-tracked motors; both failed early. Was this a reasonable innovation or a diversion of resources from proven dog teams?
 - **Reputation Historiography**: How much of Scott’s posthumous reputation reflects changing cultural values (Edwardian duty vs. post-WWI disillusionment vs. modern scientific reassessment) rather than historical facts?
+
+Source: adapted from "Robert Falcon Scott" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Falcon_Scott

@@ -48,3 +48,5 @@ The death of Jonas Savimbi in February 2002 led to a rapid ceasefire. The war ki
 - **Battle of Cuito Cuanavale (1988):** Both sides claimed victory. Scholars debate whether the battle was a strategic stalemate or a decisive moment that forced South Africa to negotiate, with some viewing it as a turning point in the Cold War in Southern Africa.
 - **Role of External Actors:** The degree to which the war was driven by internal Angolan dynamics versus the strategic interests of the U.S., USSR, Cuba, and South Africa remains a central debate in understanding the conflict's longevity and intensity.
 - **UNITA's Diamond Trade:** The extent to which the international diamond trade, including the role of companies like De Beers, sustained UNITA's war effort despite sanctions is a key question in the conflict's economics.
+
+Source: adapted from "Angolan Civil War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Angolan_Civil_War

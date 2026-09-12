@@ -49,3 +49,5 @@ After the war, Chadwick served as a scientific advisor to the UN Atomic Energy C
 - The exact nature of the neutron remained unclear after its discovery; physicists like Niels Bohr and Werner Heisenberg debated whether it was a fundamental particle or a proton-electron composite.
 - Precise measurements of the neutron's mass in 1933–34 yielded conflicting results from different laboratories before Chadwick and Goldhaber's method provided a more accurate value.
 - Chadwick's initial caution about the atomic bomb's feasibility contrasted with later assessments, reflecting the evolving theoretical understanding of fission and chain reactions in the early 1940s.
+
+Source: adapted from "James Chadwick" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_Chadwick

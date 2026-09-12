@@ -89,3 +89,5 @@ Remote sensing is dramatically improving conservation knowledge. Indigenous trib
 - **LGM forest extent**: Scientists debate whether the rainforest at the last glacial maximum was reduced to small, isolated refugia or remained largely intact but less extensive. The debate is hard to resolve because data sampling is biased away from the basin's center.
 - **Climate model uncertainty**: Simulations of Amazon basin climate change vary widely—from weak increases to strong decreases in rainfall—making future projections uncertain.
 - **Orellana's claims**: Whether his 1540s observations of complex civilization were accurate (supported by *Unnatural Histories*) or exaggerated (previously believed).
+
+Source: adapted from "Amazon rainforest" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amazon_rainforest

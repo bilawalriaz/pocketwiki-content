@@ -33,3 +33,5 @@ Long established as one of the greatest novels, *Madame Bovary* has been praised
 - **Flaubert's Identification with Emma**: The accuracy of the famous assertion "Madame Bovary, c'est moi" ("Madame Bovary is me") is debated. Flaubert's letters suggest he distanced himself from the novel's sentiments.
 - **The Novel's Social Critique**: Scholars debate whether the novel is primarily a critique of bourgeois society, romantic illusions, or the gap between desire and reality in modern life.
 - **The Obscenity Trial**: The trial's focus on "realism" as an "offence against art" raises ongoing questions about the relationship between artistic representation, morality, and censorship.
+
+Source: adapted from "Madame Bovary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Madame_Bovary

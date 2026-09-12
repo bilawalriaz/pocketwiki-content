@@ -47,3 +47,5 @@ Escobar's death led to the fragmentation of the Medellín Cartel and the rise of
 *   **Political Influence:** Scholars debate the extent to which Escobar and other drug lords infiltrated and corrupted all levels of the Colombian government during the 1980s.
 *   **Role in the Palace of Justice siege:** While Virginia Vallejo testified that Escobar financed the operation, the full extent of his involvement and the precise sequence of events remain subjects of investigation and legal proceedings.
 *   **Public Image:** The "Robin Hood" narrative versus the reality of his extreme violence continues to be a point of contention in assessing his legacy in Colombia.
+
+Source: adapted from "Pablo Escobar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pablo_Escobar

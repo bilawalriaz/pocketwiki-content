@@ -74,3 +74,5 @@ Married Marie Laurent (daughter of Strasbourg rector) in 1849; she assisted him 
 *   **Rabies vaccine ethics and efficacy**: The Meister trial lacked a medical license, rigorous animal pre-trials (notebooks: 11 dogs vs. claimed 50), and informed consent; the vaccine’s exact mechanism (killed vs. live attenuated) and batch consistency remained uncertain.
 *   **Notebook secrecy**: Pasteur’s lifetime suppression of laboratory notebooks prevented contemporary verification; their late release (1971/1985) enabled historical critique but leaves some methodological details unresolved.
 *   **Koch–Pasteur rivalry**: Nationalistic and personal tensions (France vs. Germany) fueled disputes over anthrax vaccine priority, culture purity, and statistical interpretation, complicating the historical record of early bacteriology.
+
+Source: adapted from "Louis Pasteur" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_Pasteur

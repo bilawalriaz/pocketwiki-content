@@ -44,3 +44,5 @@ Founded at the entrance to Guanabara Bay, Rio's landscape is defined by mountain
 - The city's crime rate is often perceived as high, but the source notes it has a lower incidence than most Brazilian state capitals, highlighting a discrepancy between perception and data.
 - The environmental health of Guanabara Bay remains a major concern, with ongoing pollution from sewage and industry, despite decontamination efforts.
 - The social and economic impacts of hosting mega-events like the Olympics are subjects of ongoing analysis, particularly regarding their legacy for infrastructure and inequality.
+
+Source: adapted from "Rio de Janeiro" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rio_de_Janeiro

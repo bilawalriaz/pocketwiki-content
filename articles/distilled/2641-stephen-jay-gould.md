@@ -49,3 +49,5 @@ Gould's *The Mismeasure of Man* (1981) critiqued the history of intelligence tes
 - **Cambrian Explosion**: The interpretation of the Burgess Shale fauna is contested. Gould emphasized its bizarre, unique forms and the role of contingency, while Simon Conway Morris stressed convergent evolution and links to modern phyla.
 - **The Mismeasure of Man**: Gould's analysis of Samuel Morton's skull measurements has been both supported and criticized by later anthropologists, with ongoing debate about the extent of bias in historical scientific work.
 - **NOMA**: The principle that science and religion are non-overlapping is criticized by those who argue religion makes empirical claims or that science can inform ethics.
+
+Source: adapted from "Stephen Jay Gould" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stephen_Jay_Gould

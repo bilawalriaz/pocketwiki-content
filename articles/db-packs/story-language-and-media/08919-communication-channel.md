@@ -68,3 +68,5 @@ When several endpoints share one medium, the channel is multi-terminal rather th
 - Multiple access channel: many senders share a medium to reach one or a few receivers, requiring a channel access scheme such as a media access control (MAC) protocol combined with multiplexing. The uplink of a cellular network fits this model.
 - Relay channel: intermediate nodes (relays, repeaters, or gap fillers) help carry a message to its destination.
 - Interference channel: two senders each send to their own receiver, with possible crosstalk or co-channel interference. Inter-cell interference in cellular systems is the canonical case; in 3G spread-spectrum systems, interference can also arise inside a cell when non-orthogonal codes are used.
+
+Source: adapted from "Communication channel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Communication_channel

@@ -50,3 +50,5 @@ Disney was known for his public charisma contrasting with private shyness. He wa
 - **Prejudice allegations**: Accusations of antisemitism and racism persist, but biographers like Neal Gabler argue there is no evidence Disney held such views personally. His association with anti-communist groups may have fueled reputational damage.
 - **EPCOT’s intent**: Whether EPCOT was meant as a real city or an elaborate theme park remains debated; posthumous development favored the latter.
 - **Cultural impact**: Scholars debate whether Disney represented wholesome American values or cultural imperialism, particularly through Cold War-era propaganda and global expansion.
+
+Source: adapted from "Walt Disney" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Walt_Disney

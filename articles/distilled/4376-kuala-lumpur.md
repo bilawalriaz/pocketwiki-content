@@ -43,3 +43,5 @@ Kuala Lumpur is Malaysia's most populous city, with a highly diverse population 
 - The exact origin of the name "Kuala Lumpur" is debated, with theories involving a "muddy river" (Sungai Lumpur) or a corruption of other words.
 - The precise identity of the first settlers is unclear, with evidence of pre-1857 settlements by indigenous Temuan people, Chinese miners, and Sumatran traders.
 - The accuracy of early population censuses, such as the 1891 census, is considered uncertain by historians.
+
+Source: adapted from "Kuala Lumpur" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kuala_Lumpur

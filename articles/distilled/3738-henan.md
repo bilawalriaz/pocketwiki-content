@@ -48,3 +48,5 @@ Henan is the heartland of Chinese mythology, associated with figures like Nüwa,
 - The exact death toll of the 1887 Yellow River flood is debated, with estimates ranging from 930,000 to 7 million.
 - The death toll from the 1975 Banqiao Dam collapse is uncertain, with unofficial estimates ranging from 26,000 to 230,000.
 - Conflicting data exists on Henan's gender ratio, with some studies suggesting a much higher imbalance than official statistics report.
+
+Source: adapted from "Henan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henan

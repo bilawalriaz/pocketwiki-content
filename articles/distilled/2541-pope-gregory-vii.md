@@ -47,3 +47,5 @@ Gregory's reforms sought to curb lay control of the Church and centralize author
 - The spontaneity of Gregory's election by acclamation in 1073 is debated; some sources suggest it was orchestrated.
 - The exact nature and extent of Gregory's "autocratic" exercise of power were criticized even by contemporaries.
 - Historians assess his flexibility and political skill versus his rigid ideological stance, with modern views often highlighting his adaptability.
+
+Source: adapted from "Pope Gregory VII" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_Gregory_VII

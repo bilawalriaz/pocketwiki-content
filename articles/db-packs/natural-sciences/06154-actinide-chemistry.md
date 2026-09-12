@@ -41,3 +41,5 @@ Pu⁴⁺(aq) + 4 NO₃⁻(aq) + 2 S(org) → [Pu(NO₃)₄S₂](org)
 A complex forms between the metal cation, the nitrate ions, and the tributyl phosphate. A model dioxouranium(VI) complex with two nitrates and two triethyl phosphates has been characterised by X-ray crystallography. Insoluble fine solids are filtered out before extraction, since they can stabilise emulsions (called "third phases" in the solvent-extraction community) at the liquid–liquid interface.
 
 Plutonium is separated from uranium by reducing it to the +3 state with aqueous ferrous sulphamate, which sends it back into the aqueous phase. Uranium is then stripped from the kerosene by back-extraction into dilute nitric acid at about 0.2 mol dm⁻³. The minor actinides americium and curium stay with the aqueous raffinate throughout.
+
+Source: adapted from "Actinide chemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Actinide_chemistry

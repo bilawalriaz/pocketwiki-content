@@ -47,3 +47,5 @@ Vatican City houses immense cultural heritage, including Renaissance art by Mich
 - The **"Roman Question"** was formally resolved by the Lateran Treaty, but the relationship and financial agreements between the Holy See and Italy continue to be modified, as seen in the 1984 concordat.
 - The Vatican's **financial transparency** has been a subject of international scrutiny, leading to reforms under Pope Francis, including the establishment of a Secretariat for the Economy and audits of its accounts.
 - The **legal and moral status** of the Holy See's diplomatic neutrality, especially during historical events like World War II, remains a topic of scholarly analysis and debate.
+
+Source: adapted from "Vatican City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vatican_City

@@ -46,3 +46,5 @@ Benin's economy is dependent on subsistence agriculture and cotton, which accoun
 *   The 2026 presidential election was characterized by international observers as "neither free nor fair," raising questions about the health of Benin's democracy following the Talon era.
 *   The long-term impact of the 2025 constitutional reform, which created a Senate and was passed under President Talon, on political stability and the balance of power is uncertain.
 *   The effectiveness of government policies in reducing poverty, which has increased despite economic growth, remains a critical issue.
+
+Source: adapted from "Benin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Benin

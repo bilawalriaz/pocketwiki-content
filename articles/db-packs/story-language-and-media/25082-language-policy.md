@@ -15,3 +15,5 @@ States, local authorities, and pressure groups can promote bilingual signage, ag
 More than half of the roughly 6000 languages spoken today are estimated to be in danger of disappearing during the 21st century. Survival depends on the size of the native-speaker population, use in formal communication, and the geographic and socio-economic weight of the speakers. National language policies can either mitigate or worsen these pressures.
 
 The comparative study of policy has its own reference infrastructure. Sociolinguist Jacques Leclerc built the French-language site L'aménagement linguistique dans le monde, hosted by Université Laval under the CIRAL, which by2008 documented linguistic portraits and policies for 354 states or autonomous territories across 194 recognised countries.
+
+Source: adapted from "Language policy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Language_policy

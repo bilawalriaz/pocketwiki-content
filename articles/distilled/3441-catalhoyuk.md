@@ -48,3 +48,5 @@ The economy combined agriculture, animal management, and hunting. Cultivated cro
 - **The "Map" Mural**: Does a famous wall painting represent a landscape with Mount Hasan volcano, or is it a decorative design, such as a leopard skin?
 - **Economic Equality**: To what extent was the society truly egalitarian? Evidence points to both shared tools and emerging inequalities in wealth transmission.
 - **Burial Practices**: What do the changing patterns of burial (from kin-based to more diverse groups) and the removal of skulls reveal about evolving social and ritual life?
+
+Source: adapted from "Çatalhöyük" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk

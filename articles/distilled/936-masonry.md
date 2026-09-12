@@ -62,3 +62,5 @@ Masonry is a highly compressed material with a large strength differential betwe
 ## Debates and Open Questions
 
 The seismic vulnerability of unreinforced masonry remains a major concern, with ongoing research into retrofit methods and reinforcement strategies. The balance between aesthetic rusticity and structural uniformity in brickwork continues to evolve. Additionally, the long-term durability of gabions in corrosive environments depends on wire material selection, which remains a subject of engineering evaluation.
+
+Source: adapted from "Masonry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Masonry

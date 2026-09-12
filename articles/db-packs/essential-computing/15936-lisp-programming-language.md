@@ -42,3 +42,5 @@ A recursive factorial in Common Lisp:
 ## Influence
 
 Lisp influenced an unusually broad set of later languages, including JavaScript, Python, Ruby, Perl, Lua, Haskell, ML, Scala, Julia, Swift, Smalltalk, R, Dylan, Forth, Elixir, and the Wolfram Language. Alan Kay, who led Smalltalk's development, considered Lisp and Smalltalk the only two languages truly conceived around object-oriented principles, because of their late binding and reflective metaclass systems. MIT replaced Scheme with Python in its introductory computer science curriculum and its MITx MOOC.
+
+Source: adapted from "Lisp (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lisp_%28programming_language%29

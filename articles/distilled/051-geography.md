@@ -81,3 +81,5 @@ The European Age of Discovery in the 16th and 17th centuries revived desire for 
 - Who first asserted that the Earth is spherical—Parmenides or Pythagoras—remains debated.
 - Narrowing geography down to a few key concepts is "extremely challenging and subject to tremendous debate within the discipline," as demonstrated by the expanding list of key concepts between editions of "Key Concepts in Geography."
 - Technical geography's status as a branch is controversial, being the most recently recognized of the three branches.
+
+Source: adapted from "Geography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geography

@@ -28,3 +28,5 @@ The book drew sharp scientific, philosophical, and religious criticism, even as 
 - **Time.** Physicist Lord Kelvin calculated an Earth too young for gradual evolution, an estimate overturned after radioactivity was discovered.
 
 From the 1880s to the 1930s many biologists accepted that life had evolved but rejected natural selection in favour of alternatives such as Lamarckism (the inheritance of acquired traits) and orthogenesis, a period called the *eclipse of Darwinism*. Full acceptance of selection came with the **modern evolutionary synthesis** of the 1930s–40s, which wedded Darwin's mechanism of differential survival to Mendelian genetics and produced the framework still used in biology today. The theory's prestige also led to its misappropriation by movements such as Social Darwinism, a use Darwin neither endorsed nor controlled.
+
+Source: adapted from "On the Origin of Species" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/On_the_Origin_of_Species

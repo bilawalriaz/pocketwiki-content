@@ -36,3 +36,5 @@ Truth tables establish logical equivalence. For the material conditional p → q
 In digital logic, truth tables specify hardware look-up tables (LUTs). An *n*-input LUT is fully described by a table of 2^*n* rows, and the output can be encoded as a single integer with one bit per row; a 32-bit integer encodes a table for up to 5 inputs. The bit index *k* is *k* = *V*₀·2⁰ + *V*₁·2¹ + ⋯ + *V*_{*n*−1}·2^{*n*−1}, where each *V*ᵢ is 1 if the *i*-th input is true and 0 otherwise. Because tables double in size with each new input, they are not practical for many inputs; binary decision diagrams and text equations are more memory efficient.
 
 A half-adder for binary addition is a four-row table with inputs A and B, carry C, and result R, and is equivalent to modulo-2 addition and to XOR. A full-adder adds the previous carry as a third input and needs eight rows.
+
+Source: adapted from "Truth table" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Truth_table

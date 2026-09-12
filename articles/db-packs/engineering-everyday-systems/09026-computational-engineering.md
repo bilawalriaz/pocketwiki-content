@@ -44,3 +44,5 @@ The same algorithmic feedback-loop pattern is applied to very different domains:
 - Physics: particle physics, automatic calculation of particle interaction or decay, plasma modelling, and cosmological simulation.
 
 Each of these domains already relies on mathematical models, so wrapping them in a generative algorithm with feedback is often a small step, and the payoff is the same: designs that can be re-tuned by changing inputs rather than rebuilt by hand.
+
+Source: adapted from "Computational engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computational_engineering

@@ -44,3 +44,5 @@ Over 90% of the population were peasants engaged in cereal agriculture (millet, 
 - The veracity of the "burning of books and burying of scholars" events (213–212 BC) is disputed by some modern scholars, as the earliest account is from the Shiji (c. 91 BC).
 - The extent of standardization under Qin Shi Huang is debated; while regional script variations were reduced, variant characters remained frequent among scribes, suggesting the idea of a strict, uniform standard may be a later Han-era notion.
 - The etymology of "China" from "Qin" is questioned by scholars who note the Sanskrit term "Sina" appears centuries before the Qin dynasty's founding.
+
+Source: adapted from "Qin dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Qin_dynasty

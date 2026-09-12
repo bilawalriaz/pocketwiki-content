@@ -51,3 +51,5 @@ Insider trading, the buying or selling of securities while in possession of mate
 ## Variations by jurisdiction
 
 Most publicly traded US companies incorporate in Delaware because of favourable corporate tax treatment, managerial flexibility under the DGCL, and the specialised Delaware Court of Chancery. The United Kingdom was the first country to draft modern corporation statutes and remains influential across the Commonwealth. Germany, the European Union (with its Societas Europaea form), and other jurisdictions each operate distinct company laws, though the five defining features of the corporation remain broadly comparable across all of them.
+
+Source: adapted from "Corporate law" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Corporate_law

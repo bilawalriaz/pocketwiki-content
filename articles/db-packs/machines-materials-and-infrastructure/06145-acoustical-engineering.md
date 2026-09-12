@@ -32,3 +32,5 @@ Acoustical engineers usually hold a bachelor's degree in acoustics, physics, or 
 ## Fundamental science
 
 A handful of ideal wave behaviours underlie all of this work. Absorption is energy loss when a sound wave meets a surface, either transmitted through or dissipated by the material. Reverberation is the persistence of sound from repeated boundary reflections after the source stops, especially important in enclosed spaces. Diffraction is the bending of sound around obstacles. Refraction is bending caused by changes in the medium, such as temperature gradients in air. Engineers combine these behaviours with mathematical analysis to control sound across every application above.
+
+Source: adapted from "Acoustical engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Acoustical_engineering

@@ -42,3 +42,5 @@ Fuzhou is Fujian's political, economic, and cultural center. Its economy include
 
 ## Debates and Open Questions
 The extent of Japanese command and control over Fuzhou city itself during World War II, as opposed to the port and estuary, is uncertain. The city's name has numerous historical romanizations (e.g., Foochow, Hokchew), reflecting different linguistic influences over time.
+
+Source: adapted from "Fuzhou" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fuzhou

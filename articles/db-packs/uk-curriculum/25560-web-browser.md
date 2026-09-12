@@ -25,3 +25,5 @@ Streaming services such as Netflix and Spotify protect content with Digital Righ
 ## Security and privacy
 
 Browsers are frequent hacker targets. Vendors patch vulnerabilities regularly; users should keep browsers updated and use antivirus software. During browsing, sites store cookies (small data files that hold login credentials or preferences but also enable long-term tracking). Browsers provide cookie deletion; some block trackers and fingerprinting by default. Finer control usually requires extensions. Most browsers collect telemetry, typically opt-out. A 2020 study found privacy-focused browsers (Brave, DuckDuckGo, LibreWolf, Tor, Mullvad, Helium, Firefox Focus) outperformed mainstream browsers (Chrome, Firefox, Safari) largely because they block fingerprinting, tracking scripts, and ads by default.
+
+Source: adapted from "Web browser" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Web_browser

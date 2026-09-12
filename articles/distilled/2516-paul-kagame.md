@@ -48,3 +48,5 @@ Kagame has cultivated close ties with the United States and the United Kingdom, 
 - **Legitimacy of Elections:** International observers consistently find Kagame's elections lack freedom and fairness, citing repression of opposition and irregularities. Scholars debate whether Kagame would win without these tactics.
 - **Involvement in Congo:** Rwanda's alleged support for insurgencies in the DRC and exploitation of its minerals remains a major point of contention, with periodic UN reports and government denials.
 - **Authoritarian Rule vs. Development:** A central debate is whether Kagame's authoritarian governance is a necessary trade-off for Rwanda's stability and rapid economic development, or if it fundamentally undermines human rights and long-term peace.
+
+Source: adapted from "Paul Kagame" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paul_Kagame

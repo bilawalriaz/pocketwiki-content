@@ -13,3 +13,5 @@ Two facts about the water explain the erosion. The outside of a bend is where th
 ## Why this matters over time
 
 Cut banks are not stable ground. The same combination of outer-bank erosion and inner-bank deposition is what slowly swings a meander across its floodplain. As the outer bank retreats and the inner bank grows, the loop becomes so exaggerated that the river cuts a shorter path across the neck of the bend. When the two sides reconnect, the abandoned loop is sealed off and becomes an oxbow lake, a crescent of still water marking where the river used to flow.
+
+Source: adapted from "Cut bank" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cut_bank

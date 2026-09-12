@@ -37,3 +37,5 @@ In 1961, the city was renamed Volgograd under Nikita Khrushchev's de-Stalinizati
 
 ## Debates and Open Questions
 The most prominent debate concerns the city's name. While officially Volgograd since 1961, there is significant local and political support for reverting to Stalingrad to honor its WWII legacy. A 2013 petition to President Putin for a permanent name change received 50,000 signatures; Putin suggested a local referendum should precede any change. The 2025 renaming of the airport to Stalingrad International Airport indicates the ongoing symbolic importance of the historical name.
+
+Source: adapted from "Volgograd" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Volgograd

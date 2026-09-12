@@ -62,3 +62,5 @@ Nijinsky's diary, written in 1919, was published in a bowdlerized version by his
 ## Debates and open questions
 
 Nijinsky's birth year is uncertain (1889 or 1890). His diagnosis of schizophrenia, made by Eugen Bleuler in 1919, is accepted but the onset is debated. The cause of his brother Stanislav's death in 1917 is disputed. The bowdlerization of Nijinsky's diary by his wife Romola—who deleted about 40 percent, including references to homosexuality—raised questions about his sexuality and the authenticity of his voice; the 1995 unexpurgated edition restored the original text. Whether Nijinsky's dismissal from the Ballets Russes was due to his marriage, his missed performance, or Diaghilev's jealousy remains a matter of interpretation.
+
+Source: adapted from "Vaslav Nijinsky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vaslav_Nijinsky

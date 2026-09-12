@@ -31,3 +31,5 @@ Peer review maintains quality. Scientists work in academia, industry, government
 - **Falsifiability** (Popper): the requirement that theories can conflict with observation.
 - **Paradigm shift** (Kuhn): replacement of a guiding world-portrait when anomalies accumulate.
 - **Replication crisis**: a systemic problem of unreproducible study results.
+
+Source: adapted from "Science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Science

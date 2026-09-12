@@ -58,3 +58,5 @@ Minerals are classified by variety, species, series, and group. The two dominant
 ## Debates and Open Questions
 
 The primary debate centers on the IMA's exclusion of biogenic minerals. Skinner (2005) argues for their inclusion, while the IMA maintains the exclusion unless geological processes are involved. Proposals to classify amorphous substances as minerals have not been accepted. The IMA is also hesitant to accept naturally occurring nanoparticles as minerals, though no minimum crystal size is defined. The definition of stability (room temperature vs. formation conditions) remains debated, with the IMA requiring only that structure and composition be well-determined (e.g., meridianiite, stable below 2°C). The classification of quasicrystals (e.g., icosahedrite) as minerals represents a recent expansion of the concept of "ordered atomic arrangement" beyond periodic crystals.
+
+Source: adapted from "Mineral" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mineral

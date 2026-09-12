@@ -30,3 +30,5 @@ The Gulf is a major generator of storms that bring heavy snow and ice to souther
 
 ## Debates and open questions
 The source notes the 1977 climate shift in the Gulf of Alaska was "at that time inexplicable," indicating a historical scientific debate or gap in understanding regarding its cause. The differing boundary definitions for the Gulf between the International Hydrographic Organization and the US Geological Survey represent an ongoing point of cartographic distinction.
+
+Source: adapted from "Gulf of Alaska" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_of_Alaska

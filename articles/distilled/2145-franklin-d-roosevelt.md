@@ -48,3 +48,5 @@ Roosevelt is consistently ranked among the greatest U.S. presidents for his lead
 - **Roosevelt and the Holocaust:** Scholars continue to assess Roosevelt's response to the Nazi genocide. Critics argue he could have done more to admit Jewish refugees and bomb concentration camps, while defenders note the political constraints of isolationism and the priority of winning the war.
 - **Yalta Conference:** Roosevelt's role at the 1945 Yalta Conference remains controversial. Critics charge he naively conceded Eastern Europe to Soviet domination, while supporters argue he secured vital Soviet cooperation for the war's end and the United Nations, with little leverage to do otherwise.
 - **Health and Decision-Making:** The extent to which Roosevelt's severe health decline in 1944–45 impaired his judgment and affected critical wartime and post-war decisions is a subject of ongoing historical analysis.
+
+Source: adapted from "Franklin D. Roosevelt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Franklin_D._Roosevelt

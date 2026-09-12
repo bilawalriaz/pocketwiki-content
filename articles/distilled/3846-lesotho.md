@@ -47,3 +47,5 @@ The population is 99.7% Basotho, making it one of the world's most ethnically ho
 - **Annexation proposals:** Periodically, movements like the People's Charter Movement have called for Lesotho's practical annexation by South Africa, citing economic collapse and the HIV epidemic. South Africa has consistently rejected this.
 - **Economic integration:** An African Union report has called for economic integration with South Africa, and a South African finance minister once suggested a confederation between Lesotho, Eswatini, and South Africa as a political solution.
 - **Tariff justification:** The US government's 2025 imposition of a 50% tariff was based on the claim that Lesotho taxes American goods at nearly 100%, an accusation many observers consider unfounded given Lesotho's membership in SACU and its minimal imports from the US.
+
+Source: adapted from "Lesotho" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lesotho

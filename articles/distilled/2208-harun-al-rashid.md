@@ -45,3 +45,5 @@ Hārūn divided the succession between his sons: al-Amin (son of the Arab Zubaid
 - The reasons for the dramatic fall of the Barmakid family in 803 are varied; historical accounts cite specific incidents like entering the caliph's presence without permission, but the underlying cause may have been their growing power and perceived disrespect.
 - The precise cause of his brother al-Hadi's death is uncertain, with accounts suggesting either an abdominal ulcer or assassination possibly prompted by his mother, al-Khayzuran.
 - Scholars debate whether Hārūn's division of the succession between his sons was a deliberate policy error that directly caused the subsequent civil war and the caliphate's political disintegration.
+
+Source: adapted from "Harun al-Rashid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harun_al-Rashid

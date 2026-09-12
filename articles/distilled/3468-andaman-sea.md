@@ -38,3 +38,5 @@ The sea is a major fishing ground; in 2000, Thailand harvested 710,000 tonnes of
 
 ## Debates and Open Questions
 The source does not explicitly frame scholarly debates, but it presents ongoing issues: the precise contribution of different factors (strait transport, rainfall, rivers) to sea level changes in the basin, and the long-term ecological recovery of coral reefs and mangroves following the 2004 tsunami and continued human pressure.
+
+Source: adapted from "Andaman Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andaman_Sea

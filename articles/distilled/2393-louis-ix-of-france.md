@@ -45,3 +45,5 @@ Keeping a vow made during illness, Louis led the Seventh Crusade (1248–1254) t
 
 ## Debates and Open Questions
 The primary sources for Louis's life—by Jean de Joinville, Geoffrey of Beaulieu, and William of Chartres—are all biased favorably toward the king. Historians debate the extent of his personal rule versus his mother's influence during the early years of his reign. His legacy is also viewed through a modern lens, with his religious persecutions and disastrous crusades contrasting with his reputation as a just and saintly ruler.
+
+Source: adapted from "Louis IX of France" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_IX_of_France

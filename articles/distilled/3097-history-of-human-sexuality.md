@@ -45,3 +45,5 @@ The 20th-century birth control pill and legal abortion gave women greater contro
 - **Anachronism in Identity**: Do modern labels like "gay" or "homosexual" accurately describe historical figures and practices, or do they impose a contemporary identity framework on the past?
 - **Bachofen's Theory**: To what extent was early human society matriarchal, as theorized by Bachofen, and how did the transition to patriarchy occur?
 - **Impact of Technology**: How will digital technologies like dating apps and pornography continue to reshape sexual norms, relationships, and health outcomes for future generations?
+
+Source: adapted from "History of human sexuality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_human_sexuality

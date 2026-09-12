@@ -47,3 +47,5 @@ Yogananda died on March 7, 1952, after speaking at a banquet in Los Angeles. The
 - **Cause of Death**: The medical verdict was "acute coronary occlusion" (heart attack), while his disciples maintain he entered *mahasamadhi*.
 - **Bodily Incorruptibility**: The mortuary director reported an "unparalleled" absence of decay for over 20 days, though the body was embalmed, leading some to question the term "incorruptibility."
 - **Paternity Allegations**: A paternity claim made in the 1990s was definitively settled by DNA tests in 2002, which showed no biological connection between Yogananda and the claimant.
+
+Source: adapted from "Paramahansa Yogananda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paramahansa_Yogananda

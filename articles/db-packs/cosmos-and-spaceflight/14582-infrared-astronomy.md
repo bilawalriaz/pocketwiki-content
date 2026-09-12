@@ -31,3 +31,5 @@ Space-based infrared astronomy began with United States Air Force sky surveys us
 ## Resolution and interferometry
 
 Angular resolution depends on telescope diameter and observing wavelength, so single infrared telescopes resolve less detail than optical instruments of the same size. To overcome this, infrared telescopes are combined into astronomical interferometers, in which the effective resolution is set by the separation between telescopes rather than by their individual apertures. When used with adaptive optics, interferometers such as the pair of 10-meter Keck telescopes or the four 8.2-meter telescopes of the Very Large Telescope Interferometer achieve much higher resolution than any single dish.
+
+Source: adapted from "Infrared astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Infrared_astronomy

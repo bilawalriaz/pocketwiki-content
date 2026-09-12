@@ -39,3 +39,5 @@ In *The Structure of Scientific Revolutions* (1962), Kuhn argued that science do
 ## Particular sciences
 
 General problems reappear with new force in specific domains. *Reduction* asks whether one science can be expressed in the terms of another, such as chemistry in physics. Philosophy of statistics recasts the problem of induction as a debate between frequentist methods, which report the probability of data given a null hypothesis, and *Bayesian inference*, which assigns probabilities to hypotheses themselves. Philosophy of medicine turns demarcation into a life-or-death question about which treatments to trust. Philosophies of biology, psychology, and the social sciences ask whether the study of human beings can be value-neutral, or whether it is inevitably shaped by the values of its practitioners.
+
+Source: adapted from "Philosophy of science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philosophy_of_science

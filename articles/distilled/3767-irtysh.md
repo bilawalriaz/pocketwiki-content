@@ -43,3 +43,5 @@ The river banks were occupied by Mongol and Turkic peoples for centuries. After 
 
 ## Debates and Open questions
 The etymology of the river's name is debated, with multiple competing theories from different linguistic and historical sources. The environmental impact of increased water diversion in China on the river's flow to Kazakhstan remains a point of concern and potential conflict.
+
+Source: adapted from "Irtysh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Irtysh

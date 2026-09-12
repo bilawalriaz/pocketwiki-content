@@ -79,3 +79,5 @@ Posthumous honors include Grammy Lifetime Achievement (2007), BBC Music Magazine
 - **"Secret child" with Onassis**: Biographer Nicholas Gage claimed a son born/died March 30, 1960; Meneghini and others dispute this, citing birth certificates issued decades later. Abortion claims also circulate unverified.
 - **Estate controversy**: Sister Jackie accused pianist Vasso Devetzi of embezzling half the estate under guise of a foundation; Devetzi eventually established the Maria Callas Foundation after alleged losses.
 - **Nature of her voice**: Scholars debate whether she was a natural mezzo-soprano stretched upward (Ardoin/sfogato theory) or a high soprano with unusual lower extension (Scott/Ponselle view).
+
+Source: adapted from "Maria Callas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maria_Callas

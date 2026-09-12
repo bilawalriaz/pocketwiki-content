@@ -47,3 +47,5 @@ Zhang Heng is credited with establishing the rectangular grid system in Chinese 
 
 ## Debates and Open Questions
 Scholars debate the exact mechanics of Zhang Heng's seismoscope, with different reconstructions proposed (e.g., suspended vs. inverted pendulum). Some, like Anthony Barbieri-Low, suggest Zhang designed but did not personally craft his inventions, collaborating with artisans. Comparisons to Ptolemy highlight a key difference: while Zhang's celestial model resembled Ptolemy's geocentric theory, Chinese astronomy did not develop a similarly structured theoretical model, focusing instead on algebraic patterns of planetary motion. The authenticity and preservation of some inventions, like the south-pointing chariot, are also questioned.
+
+Source: adapted from "Zhang Heng" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zhang_Heng

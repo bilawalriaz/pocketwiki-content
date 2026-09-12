@@ -97,3 +97,5 @@ Polygons are primitives for modelling/rendering. Stored as vertex arrays (coordi
 - **Terminology for self-intersecting polygons**: The term “complex polygon” is sometimes used for self-intersecting polygons, but this conflicts with the standard meaning of a polygon in the complex Hilbert plane (two complex dimensions).
 - **Naming conventions**: Use of “kai” in concatenated prefixes (e.g., icosikaihenagon vs. icosihenagon for 21-gon) is not universal; Conway advocated it for clarity in polyhedron naming, but many sources omit it.
 - **Dimensional terminology**: Whether “polyhedron” and “polytope” are dimension-specific (polyhedron = 3D, polytope = *n*D) or used interchangeably with “polytope” implying boundedness varies by convention.
+
+Source: adapted from "Polygon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Polygon

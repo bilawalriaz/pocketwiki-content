@@ -74,3 +74,5 @@ Air pollution is the introduction of airborne chemicals, particulate matter, or 
 - **Missing xenon problem**: Xenon's concentration is much lower than other noble gases; proposed explanations include Xe–Fe oxides in the lower mantle, xenon dioxide in silica, and reactions with Fe/Ni in the core, but no consensus exists.
 - **Faint young Sun paradox**: How Earth maintained liquid water and life when the early Sun put out 30% lower radiance than today remains unresolved.
 - **Oxygen variation**: The cause of atmospheric oxygen fluctuations over the last 600 million years (peaking at ~35% around 280 million years ago) is not precisely understood, though it correlates with plant carbon fixation and animal oxygen consumption.
+
+Source: adapted from "Atmosphere of Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atmosphere_of_Earth

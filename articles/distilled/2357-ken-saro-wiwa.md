@@ -42,3 +42,5 @@ The executions provoked immediate international condemnation. The UN General Ass
 - The precise degree of Royal Dutch Shell's complicity in the Nigerian government's crackdown and the execution of the Ogoni Nine remains a subject of legal and historical debate.
 - The motivations behind the Nigerian military government's decision to proceed with the executions despite intense international pressure are analyzed as a test of the Abacha regime's resolve.
 - The effectiveness of the posthumous pardon granted in 2025 in achieving reconciliation and justice for the Ogoni people is an ongoing question.
+
+Source: adapted from "Ken Saro-Wiwa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ken_Saro-Wiwa

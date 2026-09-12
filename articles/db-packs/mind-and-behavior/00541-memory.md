@@ -38,3 +38,5 @@ Spacing study sessions exploits the **spacing effect**, producing better retenti
 
 Plants have no neurons yet show memory-like behavior. A **Venus flytrap** closes only when two trigger hairs are stimulated within about 30 seconds; the plant sums cytoplasmic calcium across events until an action-potential threshold is reached. **Mimosa pudica** habituates to being dropped after roughly 60 trials and remembers the habituation a month later, though shaking restores its response, ruling out simple fatigue. Whether these processes are homologous to animal memory or merely convergent physiology remains contested.
 ```
+
+Source: adapted from "Memory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Memory

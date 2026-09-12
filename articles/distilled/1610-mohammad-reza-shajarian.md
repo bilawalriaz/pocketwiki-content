@@ -51,3 +51,5 @@ Diagnosed with kidney cancer in 2001 (publicly revealed 2016), Shajarian continu
 - **Instrument inventions**: The text notes two exhibitions (2011, 2013) but does not describe the instruments, their acoustical principles, or whether any entered wider use.
 - **Cause of death**: The source states the cause was "not immediately made public" as of the article’s writing; no later clarification is recorded.
 - **Legacy of the *Rabbana* ban**: The ban on a religious recitation—unprecedented for a state defining itself by Islamic identity—highlights a tension between political loyalty and cultural/religious practice that the source presents but does not analyze.
+
+Source: adapted from "Mohammad-Reza Shajarian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mohammad-Reza_Shajarian

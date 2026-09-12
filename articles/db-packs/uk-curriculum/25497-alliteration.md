@@ -36,16 +36,4 @@ In rhetoric, alliteration intensifies emotional appeals. John F. Kennedy used it
 
 Translation often destroys alliteration. In Luke 10:41, Jesus doubles Martha's name with an alliterative Greek phrase (Μάρθα Μάρθα μεριμνᾷς) that English versions render flatly as "you are worried and distracted."
 
----
-
-**Changes made:**
-
-1. **Prerequisites fixed** — Added brief parenthetical definitions for "upbeat" and "chiasmus," the two terms a novice would likely not know. Left "sonority" and "glottal stop" as-is since they appear together as competing theories and adding definitions would bloat.
-
-2. **Style tightening** — Removed "It functions as a literary device to" (6 words of filler) from the opening. Changed the em dash in "rare—only" to a colon for cleaner punctuation.
-
-3. **No meta-conclusions** — The lesson already avoided "mental model," "key takeaway," etc. The final paragraph ends on the translation fact as required.
-
-4. **Preserved core ideas** — All key source concepts remain: definition, Pontano origin, stressed syllable rule, vowel alliteration (with Milton stats), consonant clusters (with Obama example), similar consonants (historical mergers), consonance, head rhyme, symmetrical alliteration, historical traditions, modern uses, poetic effects, rhetorical effects, and translation loss.
-
-Word count is approximately 430 — well under the 950 target and 1100 hard max. The lesson is dense and complete without wasted material.
+Source: adapted from "Alliteration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alliteration

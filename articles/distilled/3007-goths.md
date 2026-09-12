@@ -46,3 +46,5 @@ The Goths spoke the Gothic language, the earliest attested Germanic language, pr
 - **Scandinavian Origins**: The historicity of Jordanes' account of a migration from Scandinavia is debated. While archaeological and genetic evidence supports a link to the Baltic region, the scale and nature of the migration (elite clans vs. mass movement) are uncertain.
 - **Ethnic Composition**: The Goths were likely a diverse confederation. Genetic studies show that Gothic-associated populations (like the Wielbark culture) had Scandinavian ancestry but also mixed with local and steppe peoples, supporting the view of ethnically diverse "Gothic" groups.
 - **Extent of Ermanaric's Kingdom**: The 4th-century Gothic king Ermanaric's realm is described by Jordanes as vast, but historians debate whether this was a large, unified state or a more limited sphere of influence.
+
+Source: adapted from "Goths" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Goths

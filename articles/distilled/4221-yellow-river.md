@@ -44,3 +44,5 @@ The river flows through seven provinces and two autonomous regions, commonly div
 - **Historical Course Control**: There was a long-running imperial debate on whether to invest in returning the river to its old channels after a shift or to adapt to the new course.
 - **Modern Water Management**: The balance between agricultural irrigation, urban water supply, ecological flow requirements, and flood control remains a critical challenge, especially given climate change and pollution.
 - **Ecological Restoration**: The effectiveness of fishing bans and habitat restoration in recovering native fish populations and the overall health of the river ecosystem is an ongoing concern.
+
+Source: adapted from "Yellow River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yellow_River

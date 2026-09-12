@@ -45,3 +45,5 @@ Metaphysics has used *a priori* intuition and deduction, *thought experiments* (
 The field faces persistent criticism. Skeptics hold that humans lack access to ultimate reality (Hume, Kant). The logical positivists (Carnap) argued metaphysical statements are meaningless because they fail empirical verification. Deflationists (Hirsch, Chalmers) treat many disputes as merely verbal, such as "tables exist" versus "particles arranged table-wise exist." Critics also point to lack of progress and pragmatic irrelevance. Defenders reply that at least some disputes track objective structure, even if others collapse into language.
 
 Metaphysics is now entangled with empirical science (Relativity reshaped spacetime metaphysics), with formal ontology in computer science (SUMO, BFO), and with logic as a tool of precision. The Quinean criterion reads ontological commitment directly from the existential quantifiers of our best formalized theories.
+
+Source: adapted from "Metaphysics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metaphysics

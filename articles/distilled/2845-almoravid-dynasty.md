@@ -42,3 +42,5 @@ The Almoravid period fostered a unified Andalusi-Maghribi artistic style. They p
 - The nature and extent of Almoravid military conquest in the Ghana Empire (c. 1076–77) is heavily debated. Some scholars argue it was a full military invasion, while others, citing archaeological evidence, suggest it was more a gradual political and religious influence.
 - The exact reasons for the adoption of the name "Almoravid" are uncertain, with multiple historical traditions offering different explanations.
 - The degree to which Almoravid art and architecture represented a break from, or a continuation of, earlier Andalusi and Maghrebi styles is a subject of scholarly discussion.
+
+Source: adapted from "Almoravid dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Almoravid_dynasty

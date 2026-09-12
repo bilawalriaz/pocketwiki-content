@@ -62,3 +62,5 @@ Ivinskaya was re-arrested in 1960 (released 1964); her memoirs published abroad 
 - **Pasternak's agency in declining the Nobel**: Ivinskaya blamed herself for pressuring him; Solzhenitsyn condemned the capitulation. The source presents Pasternak's telegram as coerced by exile threats, but his letter to Khrushchev frames it as a voluntary act of loyalty to Russia.
 - **Jewish identity and assimilation**: The novel's Israeli critics attacked its "assimilationist" Christianity; Pasternak defended it as written pre-1948 and reflecting his Orthodox practice. The tension between his Jewish lineage, Christian spirituality, and Soviet identity remains a critical flashpoint.
 - **Ivinskaya as Lara**: The source identifies her as the model, but the degree to which Lara is a composite (like Strelnikov/Minchakievich) versus a portrait is a literary question.
+
+Source: adapted from "Boris Pasternak" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Boris_Pasternak

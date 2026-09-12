@@ -43,3 +43,5 @@ Erdoğan's political style, sometimes termed "Erdoğanism," blends conservative 
 *   **Economic Policy:** There is intense debate over the causes and sustainability of Turkey's economic crisis, with critics blaming Erdoğan's unorthodox insistence on low interest rates and his interference with the Central Bank's independence.
 *   **Role of Religion in Politics:** Erdoğan's promotion of conservative Islamic values in a historically secular state continues to fuel deep societal polarization and debate over the country's identity.
 *   **Foreign Policy Direction:** Analysts question whether Turkey is strategically reorienting itself away from the West towards a more independent, multi-polar foreign policy, or if its actions are primarily transactional.
+
+Source: adapted from "Recep Tayyip Erdoğan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan

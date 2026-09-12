@@ -31,3 +31,5 @@ In the Americas, the Vero Beach bone dates to about 11,000 BCE. Mesoamerica prod
 ## The standing debates
 
 Three questions remain open. First, when does art begin: the engraved *Homo erectus* shells, the Blombos crosshatching, and Middle Paleolithic finds such as the Tan-Tan figurine are all claimed as earliest art, and the disagreement is about what counts as deliberate symbolic expression rather than incidental marking. Second, did Neanderthals make art: the Spanish cave paintings and the 51,000-year-old bone carving, if correctly attributed, imply symbolic cognition was not exclusive to *Homo sapiens*. Third, why was any of it made: whether geometric marks, figurines, and megaliths served ritual, communication, territorial signalling, or aesthetic play cannot be settled from the objects alone, since the makers left no written explanations. The art itself is unambiguous; its meaning is not.
+
+Source: adapted from "Prehistoric art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prehistoric_art

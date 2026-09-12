@@ -43,3 +43,5 @@ The lake is biologically diverse, with highly oxygenated waters supporting algae
 
 ## Debates and open questions
 The source notes a classification debate: while commonly called a lake, its hydrological characteristics may better classify it as an estuary or semi-enclosed bay. The environmental impact of the extensive oil infrastructure and ongoing pollution remains a critical and unresolved issue for the lake's ecosystem.
+
+Source: adapted from "Lake Maracaibo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Maracaibo

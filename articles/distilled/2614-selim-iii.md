@@ -44,3 +44,5 @@ A cultured ruler, Selim III was a significant composer and poet (writing under t
 
 ## Debates and Open Questions
 The article presents a clear narrative of reform thwarted by conservative reaction. A central scholarly debate concerns the **effectiveness and intent of Selim's reforms**. Were they a genuine attempt at modernization to save the empire, or merely a conservative effort to restore central authority using new tools? The text notes his reforms were "intended to do no more than preserve the tradition of the Ottomans." Another open question is the **role of foreign influence**: while Selim engaged European instructors and diplomats, the article states French influence "did not revive" after Napoleon's invasion, yet he later joined Napoleon's Continental System, suggesting complex and shifting diplomatic calculations.
+
+Source: adapted from "Selim III" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Selim_III

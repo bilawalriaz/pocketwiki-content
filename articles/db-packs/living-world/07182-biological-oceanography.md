@@ -21,3 +21,5 @@ The **HMS Challenger expedition of 1872–1876**, led by Charles Wyville Thomson
 ## What biological oceanographers actually ask
 
 Four broad threads of questions dominate. The first maps biodiversity: which organisms live where, at what depths, and why. The second measures the production of organic matter by marine life and the physical and chemical factors that control growth rates. The third studies relationships, both between organisms from microbes to whales and between organisms and the chemistry or physics of their surroundings. The fourth is more applied: how much can be harvested from the sea, and how weather, seasons, natural disasters, and long-term climate change will affect fisheries. Among these, understanding how climate change will alter ocean biota is the central question for the coming decades.
+
+Source: adapted from "Biological oceanography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_oceanography

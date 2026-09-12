@@ -45,3 +45,5 @@ Basra is Iraq's economic capital, with an economy dominated by oil and petrochem
 - The exact reason for the choice of Basra's original site, which lacked water and farmland, remains unclear to historians.
 - The sustainability and long-term impact of the massive early Islamic irrigation system built around Basra are subjects of study, with evidence of its eventual failure due to salinity.
 - The genetic studies of Basra's population reveal a complex history, with paternal lineages showing strong ancient Mesopotamian affinity and maternal lineages reflecting broader diversity from its role as a trade hub.
+
+Source: adapted from "Basra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Basra

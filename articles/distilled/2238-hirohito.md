@@ -45,3 +45,5 @@ The extent of Hirohito's responsibility for Japan's wartime actions is heavily d
 - **Culpability for War Crimes**: To what extent was he personally responsible for ordering or sanctioning atrocities like the Nanjing Massacre, the use of chemical weapons, and the Three Alls Policy?
 - **Motivation for Surrender**: Did he primarily seek peace to end suffering, or did he hope for a decisive military victory ("tennozan") to secure better surrender terms?
 - **Post-War Mythmaking**: How much was the image of the "peace-loving emperor" a deliberate construct by U.S. occupation authorities and Japanese conservatives to ensure stability and avoid a power vacuum?
+
+Source: adapted from "Hirohito" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hirohito

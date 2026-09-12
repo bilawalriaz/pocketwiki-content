@@ -47,3 +47,5 @@ F# supports a lightweight actor model through `MailboxProcessor`. Each agent is 
 ## Tools and Ecosystem
 
 F# is supported in Visual Studio, JetBrains Rider, VS Code (via Ionide), Vim, and Emacs, and runs on Windows, Linux, and macOS. Common application areas include web development with the SAFE Stack, mobile apps through Xamarin, quantitative finance, machine learning, and REPL scripting. Notable open-source projects include Fable, an F#-to-JavaScript transpiler, Paket for package management, FAKE for build automation, and Giraffe and Suave for web servers. F# also includes an ML compatibility mode that compiles a subset of OCaml.
+
+Source: adapted from "F Sharp (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/F_Sharp_%28programming_language%29

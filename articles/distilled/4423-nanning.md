@@ -41,3 +41,5 @@ Nanning is the cultural and educational center of Guangxi, hosting numerous univ
 
 ## Debates and Open Questions
 The source does not present specific scholarly debates or open questions about Nanning.
+
+Source: adapted from "Nanning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nanning

@@ -45,3 +45,5 @@ Stanton was a prolific writer. She co-authored the first three volumes of the *H
 *   **Stanton's Racial Views:** Scholars debate the extent to which Stanton's opposition to the Fifteenth Amendment was based on principled insistence on universal suffrage versus personal elitism and racial prejudice, as evidenced by her use of terms like "Sambo."
 *   **Impact of *The Woman's Bible*:** Historians analyze how the controversy surrounding this book affected Stanton's legacy and the suffrage movement's public image and internal cohesion.
 *   **Legacy and Recognition:** Stanton's role was often overshadowed by Susan B. Anthony's in the decades after her death. Her full recognition as a central figure was largely a product of the second-wave feminist movement in the 1960s.
+
+Source: adapted from "Elizabeth Cady Stanton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton

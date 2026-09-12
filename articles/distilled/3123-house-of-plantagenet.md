@@ -48,3 +48,5 @@ Henry VII, a Lancastrian claimant, founded the Tudor dynasty. He married Elizabe
 - **The Princes in the Tower**: The fate of Edward V and his brother Richard, who disappeared in 1483 after being lodged in the Tower by Richard III, remains unknown.
 - **Richard III's Usurpation**: Scholars analyze if Richard III's seizure of the throne was political survival or ruthless usurpation.
 - **The Causes of the Wars of the Roses**: Origins are debated, including Henry VI's weak rule, the disputed 1399 succession, and empowered nobles with private armies.
+
+Source: adapted from "House of Plantagenet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/House_of_Plantagenet

@@ -41,3 +41,5 @@ The script is encoded across several Unicode blocks: Arabic (0600–06FF), Arabi
 ## Why the pattern matters
 
 A single morphologically flexible script has served as a template for dozens of unrelated languages by adjusting how many vowels it writes, which letters it adds, and which joined form it prefers. What changes between uses is the phonology the script is forced to carry; what stays constant is the right-to-left, cursive, joined-letter core.
+
+Source: adapted from "Arabic script" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabic_script

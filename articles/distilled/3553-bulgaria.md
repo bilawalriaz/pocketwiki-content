@@ -55,3 +55,5 @@ Bulgarian culture blends Thracian, Slavic, and Ottoman influences. Folk traditio
 *   The exact size of the Roma population is uncertain due to undercounting.
 *   The long-term impact of the demographic crisis is a major concern.
 *   The effectiveness of efforts to combat corruption remains critical.
+
+Source: adapted from "Bulgaria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bulgaria

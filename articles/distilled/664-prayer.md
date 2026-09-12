@@ -44,3 +44,5 @@ Scientific studies on intercessory prayer and health have yielded inconsistent r
 
 ## Debates and Open Questions  
 The efficacy of intercessory prayer for healing remains scientifically unresolved, with meta-analyses showing no effect and some studies suggesting negative outcomes. Theological debates persist over whether prayer should aim to change divine will or human disposition. Scholars also question whether “religious experience” is a universal category or a Western construct imposed on non-Western traditions. The role of ritualized versus spontaneous prayer, and the validity of measuring spiritual phenomena empirically, continue to divide researchers and believers.
+
+Source: adapted from "Prayer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prayer

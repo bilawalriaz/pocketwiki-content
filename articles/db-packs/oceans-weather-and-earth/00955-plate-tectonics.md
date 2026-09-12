@@ -35,3 +35,5 @@ Seven or eight major plates carry the continents and oceans: African, Antarctic,
 ## Tectonics beyond Earth
 
 Plate tectonics appears to be rare elsewhere. Venus shows no current plate motion, and its surface age of 500–750 million years hints at catastrophic global resurfacing; the absence of liquid water may prevent the shear-zone weakening, a loss of rock strength along narrow bands of deformation, needed for subduction. Mars has an ancient crustal dichotomy but no active plates; its magnetic stripes fail the reversal test, showing patterns that do not mirror symmetrically about a ridge, so they were not produced by seafloor spreading. Jupiter's moon Europa shows an ice shell that fractures and shifts in tectonic-like patterns. Whether exoplanets sustain plate tectonics depends on their mass, water content, and internal heat.
+
+Source: adapted from "Plate tectonics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plate_tectonics

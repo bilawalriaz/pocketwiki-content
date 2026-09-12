@@ -53,3 +53,5 @@ By 2002, Rwanda's position weakened due to rebel fatigue and internal mutinies. 
 - **Death Toll**: The estimated 5.4 million deaths is contested. The Human Security Report Project argues the figure is inflated and should be revised to around 860,000 excess deaths, while the original authors maintain their methodology is sound.
 - **Assassination of Kabila**: While a disgruntled child soldier is confirmed as the shooter, theories persist about the involvement of external actors like Rwanda, Angola, or others, though no proof exists.
 - **International Complicity**: The UN has accused Uganda and Rwanda of illegally exploiting Congolese resources. Furthermore, institutions like the IMF and World Bank have been criticized for providing debt relief to these nations during the conflict, potentially facilitating the looting.
+
+Source: adapted from "Second Congo War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Second_Congo_War

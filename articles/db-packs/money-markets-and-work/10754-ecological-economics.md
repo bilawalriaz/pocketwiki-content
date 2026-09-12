@@ -33,3 +33,5 @@ Clive Spash groups work in the area into new resource economists, new environmen
 ## The monetisation debate
 
 Valuing ecosystems in money polarises the field. Defenders say it makes nature visible to decision-makers; critics reply that financial valuation makes conservation hostage to market swings, as when Costa Rican coffee plantations were replanted with pineapple after coffee prices fell, dropping the bees' pollination value to zero. McCauley argues that ecosystems do not act "for" any one species, that human ingenuity keeps inventing artificial substitutes, and that monetisation is, in his phrase, "selling out on nature."
+
+Source: adapted from "Ecological economics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ecological_economics

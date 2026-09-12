@@ -41,3 +41,5 @@ The University of Toulouse, founded in 1229, is one of Europe's oldest. The city
 
 ## Debates and open questions
 The article notes that the historical name "Tolosa" is of unknown origin, with possible connections to Aquitanian, Iberian, or Gaulish roots. The exact cause and full impact of the 2001 AZF explosion are subjects of ongoing legal and historical scrutiny. The city's rapid growth presents ongoing challenges for urban planning and transportation infrastructure.
+
+Source: adapted from "Toulouse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Toulouse

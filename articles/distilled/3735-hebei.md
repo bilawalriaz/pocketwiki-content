@@ -43,3 +43,5 @@ Hebei is a central node in China's rail network. The Jing-Jin-Ji regional integr
 
 ## Debates and open questions
 The source notes that the exact location of the mythical Battle of Zhuolu, which is said to have started Huaxia civilization, is debated but placed in Zhangjiakou, Hebei. The political status of the Catholic Church in Hebei is a point of tension, with a significant "underground" church loyal to the Pope existing alongside the state-approved Catholic Patriotic Church.
+
+Source: adapted from "Hebei" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hebei

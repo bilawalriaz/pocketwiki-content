@@ -49,3 +49,5 @@ Anime is classified by target demographics: *kodomo* (children), *shōnen* (boys
 - **Working Conditions**: The industry faces ongoing criticism regarding the low pay and overwork of animators, with efforts at reform being a current focus.
 - **Globalization vs. Authenticity**: As anime becomes a global industry with increased international collaboration and investment, questions arise about how this affects its traditional production methods and cultural identity.
 - **Piracy and Distribution**: While legal streaming has reduced fansubbing, the balance between global accessibility, fair compensation for creators, and piracy remains a complex issue.
+
+Source: adapted from "Anime" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anime

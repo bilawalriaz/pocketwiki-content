@@ -60,3 +60,5 @@ Post-war, Lindbergh shifted focus to environmentalism and conservation, advocati
 - **Political Impact**: Lindbergh’s pre-war influence on U.S. isolationism remains contentious—some argue he delayed necessary intervention, while others see him as a principled voice against entanglement.
 - **Scientific Legacy**: The Lindbergh-Carrel perfusion pump was groundbreaking in concept but ultimately impractical. Its historical significance lies more in inspiration than direct application.
 - **Personal Integrity**: Revelations of seven secret children with three mistresses after his death have complicated his legacy, raising questions about hypocrisy versus private indiscretion.
+
+Source: adapted from "Charles Lindbergh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_Lindbergh

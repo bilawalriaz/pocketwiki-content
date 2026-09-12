@@ -48,3 +48,5 @@ National parks, especially in former colonies, are criticized for perpetuating c
 - The IUCN continues to discuss the precise parameters for defining a national park, as many existing parks do not meet its criteria.
 - There is ongoing debate about the colonial legacy of national parks and the ethics of displacing indigenous peoples to create protected areas.
 - Scholars and managers question how to balance tourism benefits with the potential for environmental degradation from high visitation.
+
+Source: adapted from "National park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/National_park

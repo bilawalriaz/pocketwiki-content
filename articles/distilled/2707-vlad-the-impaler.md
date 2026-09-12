@@ -46,3 +46,5 @@ Vlad's reputation for extreme cruelty was cemented by German pamphlets and Slavi
 - **Reason for Imprisonment**: The exact cause of his 14-year imprisonment by Matthias Corvinus is unclear. The three letters allegedly proving Vlad's treachery to the Ottomans are widely considered forgeries.
 - **Connection to Dracula**: While Vlad's name inspired Stoker's character, historians note that Stoker had limited knowledge of the historical figure and that the fictional vampire is not a direct portrayal.
 - **Cause of Death**: The circumstances of his death are uncertain, with accounts ranging from being killed in battle to being assassinated by a Turkish agent or even mistakenly by his own troops.
+
+Source: adapted from "Vlad the Impaler" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vlad_the_Impaler

@@ -45,3 +45,5 @@ Since the return to democracy, Uruguay has been a stable constitutional republic
 
 ## Debates and Open questions
 The source notes scholarly debate regarding the interpretation of the name "Uruguay," with several proposed meanings from the Guaraní language, including "bird-river" and "river of painted birds." The latter, proposed by poet Juan Zorrilla de San Martín, is culturally significant but considered dubious.
+
+Source: adapted from "Uruguay" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Uruguay

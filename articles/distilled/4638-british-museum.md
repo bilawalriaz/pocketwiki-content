@@ -44,3 +44,5 @@ The museum faces significant criticism over the provenance of key objects. The E
 
 ## Debates and Open Questions
 The primary debate concerns the ethics and legality of possessing artefacts acquired during the colonial era or under contested circumstances. Countries like Greece, Nigeria, and Egypt continue to press for the return of major items. The museum maintains that its universal collection serves a broader educational purpose and is protected by law. A secondary debate involves the museum's financial relationships, particularly its sponsorship by BP, which critics argue conflicts with its educational mission. The 2023 thefts have also raised serious questions about the museum's security and governance.
+
+Source: adapted from "British Museum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/British_Museum

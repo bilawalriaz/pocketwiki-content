@@ -46,3 +46,5 @@ The primary source is Chen Shou's *Records of the Three Kingdoms*, annotated by 
 - **Historical vs. Literary Image**: A major debate concerns the gap between the historical Cao Cao and the treacherous villain portrayed in the *Romance of the Three Kingdoms* and traditional opera.
 - **Legitimacy of His Rule**: Scholars debate whether Cao Cao was a loyal minister preserving the Han or a de facto usurper. His acceptance of titles like King of Wei while the emperor reigned is central.
 - **Authenticity of His Tomb**: A tomb discovered in Anyang in 2009, claimed to be Cao Cao's, sparked controversy. While officially endorsed, some experts have questioned its authenticity, though the academic community has largely accepted it.
+
+Source: adapted from "Cao Cao" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cao_Cao

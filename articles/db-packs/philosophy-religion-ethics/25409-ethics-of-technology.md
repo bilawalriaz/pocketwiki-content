@@ -44,3 +44,5 @@ Two formal responses have developed. A **Technoethical Assessment (TEA)** evalua
 ## Open tensions
 
 The field cannot fully resolve several it identifies. Holding technologists responsible for long-term consequences presumes a capacity to foresee them that almost no one possesses. Debates such as mashup copyright, GMO regulation, and AI bias show that the same innovation can be called inhumane by some and life-changing by others, with no neutral ground for adjudication. Even when laws constrain surveillance or data exploitation, enforcement lags behind practice, as repeated data breaches demonstrate. Each generation of technology forces the field to renegotiate where acceptable innovation ends and unacceptable harm begins.
+
+Source: adapted from "Ethics of technology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ethics_of_technology

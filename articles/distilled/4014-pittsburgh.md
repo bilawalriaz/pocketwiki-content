@@ -57,3 +57,5 @@ Pittsburgh is a city of bridges, with 446 within city limits. It is served by Pi
 - **Environmental Racism:** Studies indicate that minority communities in Pittsburgh are disproportionately affected by air and water pollution, leading to concerns about environmental injustice.
 - **Gentrification:** Urban renewal and redevelopment projects, particularly from the 1950s onward, are criticized for displacing low-income and Black residents, contributing to ongoing gentrification debates.
 - **Economic Transition:** While Pittsburgh is hailed as a successful model for post-industrial transition, questions remain about the sustainability of its new economy and the equitable distribution of its benefits.
+
+Source: adapted from "Pittsburgh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pittsburgh

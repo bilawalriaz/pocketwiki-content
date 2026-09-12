@@ -31,3 +31,5 @@ In 1854, John Snow traced a cholera outbreak in London to a contaminated water p
 ## Open questions
 
 The long-term health effects of most PFAS compounds remain unclear. Water fluoridation is still debated in some communities. The common advice to drink eight glasses of water a day has no strong scientific basis.
+
+Source: adapted from "Drinking water" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Drinking_water

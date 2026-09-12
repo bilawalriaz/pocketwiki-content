@@ -45,3 +45,5 @@ Integration extends beyond the EU through bodies like the **Council of Europe** 
 - **Finalité Politique:** There is no agreed-upon end goal for integration; debates continue on whether the EU should evolve into a federal state or remain a union of states.
 - **Enlargement vs. Deepening:** The EU faces the challenge of simultaneously integrating new member states (enlargement) while deepening political and economic union among existing members.
 - **Democratic Deficit:** Scholars and citizens debate whether EU institutions are sufficiently democratic and accountable to the public.
+
+Source: adapted from "European integration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/European_integration

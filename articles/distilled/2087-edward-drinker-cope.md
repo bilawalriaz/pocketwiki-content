@@ -44,3 +44,5 @@ Financially ruined by failed mining investments in the 1880s, Cope sold his coll
 - **Accuracy of Work**: Cope's rapid publication rate led to numerous errors and retracted names, sparking debates about the trade-off between speed and scientific rigor.
 - **Racial Views**: Cope's writings on racial hierarchy, which he framed as scientific, are now condemned as racist and have led to the renaming of the journal *Copeia*.
 - **Religious Conflict**: Scholars debate the extent of Cope's internal conflict between his Quaker upbringing and his scientific career, with some suggesting he downplayed doubts to maintain family support.
+
+Source: adapted from "Edward Drinker Cope" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edward_Drinker_Cope

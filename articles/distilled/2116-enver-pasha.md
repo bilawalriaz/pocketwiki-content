@@ -44,3 +44,5 @@ After the Ottoman defeat, Enver escaped in November 1918. He was tried in absent
 *   **Responsibility for Genocide:** While the source states Enver was a "principal perpetrator" of the Armenian, Greek, and Assyrian genocides, the precise extent of his personal responsibility versus that of the broader CUP leadership is a subject of historical analysis.
 *   **Military Competence:** Enver's reputation as a military leader is highly contested. He was celebrated as a hero after the Young Turk Revolution and the recapture of Edirne, but his command at Sarikamish is universally regarded as a catastrophic failure.
 *   **Legacy in Modern Turkey:** Enver's image remains controversial. He was rehabilitated in the 1990s by President Süleyman Demirel and has been praised by later leaders like President Erdoğan, contrasting with his historical rivalry with Atatürk, the founder of the Turkish Republic.
+
+Source: adapted from "Enver Pasha" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Enver_Pasha

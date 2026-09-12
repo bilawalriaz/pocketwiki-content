@@ -45,3 +45,5 @@ After Apple, Wozniak founded CL 9, which created the first programmable universa
 *   The exact division of credit and financial reward for the *Breakout* circuit board design between Wozniak and Jobs is a point of historical discussion, with Wozniak learning of the full bonus paid by Atari a decade later.
 *   Wozniak's views on artificial superintelligence have evolved significantly over time, shifting from foreboding to seeing potential benefits, and later expressing skepticism about its emergence, highlighting ongoing uncertainty about AI's long-term impact.
 *   The reasons for Wozniak's final departure from Apple in 1985 have been publicly attributed to both disagreements with management and his personal desire to pursue new, fun engineering projects.
+
+Source: adapted from "Steve Wozniak" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Steve_Wozniak

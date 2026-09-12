@@ -53,3 +53,5 @@ Albania is an upper-middle-income economy transitioning from central planning. T
 - The ethnogenesis of the Albanian people is uncertain, with historical records providing limited clarity on their origins.
 - The motives behind the widespread Islamisation of Albanians during Ottoman rule are debated, with factors ranging from social advancement to coercion.
 - Assessments of Albania's current political system are divided, with debates over the extent of democratic backsliding, the effectiveness of anti-corruption measures, and the influence of clientelism and state capture.
+
+Source: adapted from "Albania" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Albania

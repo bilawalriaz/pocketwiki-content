@@ -46,3 +46,5 @@ Seismic waves from earthquakes reveal internal layering. Shear waves cannot trav
 - **Core composition**: Whether silicon is the dominant light element in the core remains debated; enstatite chondrite models offer alternative compositions.
 - **Crystal structure**: Whether the inner core consists of a single giant crystal or polycrystalline aggregates is unresolved.
 - **Cooling rate**: Estimates of core solidification timing vary, with uncertainty around heat loss mechanisms.
+
+Source: adapted from "Internal structure of Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Internal_structure_of_Earth

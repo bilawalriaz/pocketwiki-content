@@ -58,3 +58,5 @@ Diana Ross & the Supremes gave their final performance on January 14, 1970, in L
 - **Ballard's dismissal**: Florence Ballard claimed that Gordy and Diana Ross conspired to force her out of the group; she sued for $8.7 million in 1971, but the court ruled in favor of Motown.
 - **Authorship of recordings**: On many late-1960s singles, neither Mary Wilson nor Cindy Birdsong actually sang; session singers such as the Andantes replaced them, raising questions about the group's true recorded output.
 - **The 2000 reunion tour**: The "Return to Love" tour featured Diana Ross with Payne and Laurence, none of whom had been in the group at the same time or sung on the original hit recordings; this caused fan disappointment and criticism.
+
+Source: adapted from "The Supremes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_Supremes

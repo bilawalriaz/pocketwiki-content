@@ -36,3 +36,5 @@ The Sargasso Sea faces threats from industrial fishing, plastic pollution, oil d
 ## Debates and Open Questions
 - The claim that ancient mariners like Himilco the Navigator reached the Sargasso Sea is debated; modern scholars consider it unlikely.
 - The exact ecological role of plastic-consuming bacteria in the Sargasso Sea is unknown—whether they remediate pollution or spread toxins is an open question.
+
+Source: adapted from "Sargasso Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sargasso_Sea

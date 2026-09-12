@@ -47,3 +47,5 @@ The Asante economy was driven by gold, agricultural exports, and trade. Infrastr
 - Scholars debate the precise nature of the pre-Asante "Akani" or "Arcania" polities—whether they were a centralized kingdom, a confederation, or a trading society.
 - Historians like Larry Yarak and Ivor Wilks disagree on the relative power of the Asante bureaucracy versus the Asantehene himself, though both agree it was a highly developed system.
 - The extent to which the Asante economy depended on the Atlantic slave trade versus domestic production and other trade is debated. Some historians argue it was not primarily based on slave-raiding for export.
+
+Source: adapted from "Asante Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Asante_Empire

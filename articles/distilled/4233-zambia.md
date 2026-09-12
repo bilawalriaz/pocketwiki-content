@@ -46,3 +46,5 @@ Zambia is highly urbanized, with the population concentrated around Lusaka and t
 - The precise number of distinct languages versus dialects in Zambia is debated, with estimates ranging from 20 to 73.
 - The economic impact and social integration of significant Chinese investment and immigration in Zambia is a contemporary issue, with reports of both economic benefits and labor controversies.
 - The government's handling of civil liberties, including press freedom and the criminalization of homosexuality, draws international criticism and domestic debate.
+
+Source: adapted from "Zambia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zambia

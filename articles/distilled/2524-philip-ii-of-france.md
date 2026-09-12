@@ -43,3 +43,5 @@ Philip transformed Paris into a European capital, paving its main streets, build
 - The exact reasons for Philip's immediate hostility and annulment attempt after his marriage to Ingeborg of Denmark are unclear, with claims of consanguinity or personal aversion debated.
 - The extent to which Philip's victory at Bouvines directly caused the Magna Carta in England is a matter of historical interpretation, as internal baronial pressures were also key.
 - The role of Philip's personal piety versus political opportunism in his complex relationship with the papacy (e.g., over the Albigensian Crusade and his marital issues) is analyzed by scholars.
+
+Source: adapted from "Philip II of France" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philip_II_of_France

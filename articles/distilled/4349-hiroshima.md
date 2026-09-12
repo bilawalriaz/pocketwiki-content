@@ -42,3 +42,5 @@ Hiroshima was rebuilt with national assistance, formalized by the 1949 Hiroshima
 - The exact death toll from the atomic bombing remains debated, with estimates ranging from 90,000 to 166,000 by the end of 1945.
 - The decision to use the atomic bomb and its military necessity is a subject of ongoing historical analysis.
 - The city's postwar identity is defined by the tension between its traumatic past and its present role as a global advocate for peace and nuclear disarmament.
+
+Source: adapted from "Hiroshima" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hiroshima

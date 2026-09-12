@@ -31,3 +31,5 @@ Arm Holdings sells designs, not chips. A licensee combines an ARM core with its 
 Modern cores include hardware debug via JTAG or ARM's two-wire SWD protocol, supporting breakpoints, watchpoints, and halt or monitor mode debugging. ARMv6 added execute-never page protection. The Large Physical Address Extension (LPAE, 2011) widened physical addresses to 40 bits. The PSA Certified security scheme (introduced 2017) provides a standard framework for securing IoT devices built on ARM.
 
 Operating system support is broad. Android supports Armv8-A since version 5.0; iOS since iOS 7 and 64-bit-only since iOS 11; Linux since kernel 3.7 in late 2012; Windows 10 and 11 run native ARM64 plus emulated x86; macOS has run on Apple silicon since Big Sur in late 2020. Embedded RTOSs including FreeRTOS, QNX, VxWorks, Zephyr, and seL4 all support ARM.
+
+Source: adapted from "ARM architecture family" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/ARM_architecture_family

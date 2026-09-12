@@ -55,3 +55,5 @@ Anselm was canonized and declared a Doctor of the Church by Pope Clement XI in 1
 ## Debates and Open Questions
 
 Modern scholarship remains divided over Anselm's episcopal leadership. Some historians, like Fröhlich and Schmitt, argue that Anselm carefully managed his reputation as a devout scholar, minimizing worldly conflicts. Others, including Vaughn, contend that his image of "simple holiness and profound thinking" was a deliberate tool used by a skilled political operator. The traditional view, supported by Southern, portrays Anselm as a genuinely pious and reluctant church leader who "nursed a deep-seated horror of worldly advancement." These differing perspectives reflect broader questions about the relationship between religious ideals and political realities in medieval Europe.
+
+Source: adapted from "Anselm of Canterbury" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anselm_of_Canterbury

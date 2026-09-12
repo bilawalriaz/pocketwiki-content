@@ -47,3 +47,5 @@ Linnaeus trained many students, sending seventeen of his most devoted "apostles"
 - **Human Taxonomy and Scientific Racism**: Linnaeus's classification of humans into four varieties based on skin color and continent has been criticized for establishing a biological basis for racial stereotypes and colonial ideologies. Scholars debate whether his intent was purely descriptive or if it inherently implied hierarchy.
 - **Theological Concerns**: His placement of humans within the animal kingdom, alongside apes, challenged the prevailing "great chain of being" and theological views of human uniqueness, drawing criticism from contemporaries.
 - **Legacy of Classification**: While his hierarchical system is foundational, modern taxonomy has significantly revised his groupings and principles, incorporating genetics and evolutionary relationships. The debate continues on how to contextualize his 18th-century framework within modern science.
+
+Source: adapted from "Carl Linnaeus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_Linnaeus

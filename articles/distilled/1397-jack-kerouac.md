@@ -60,3 +60,5 @@ On October 20, 1969, in St. Petersburg, Florida, Kerouac vomited blood from esop
 - **Political Stance**: Kerouac endorsed right-wing candidates (Taft, Goldwater) and supported McCarthy, yet rejected ideological labels; biographers dispute whether this reflects conservatism, contrarianism, or a traditionalist Catholic worldview.
 - **French Works’ Significance**: The 2016 publication of *La vie est d'hommage* raises questions about whether Kerouac’s French writing represents a distinct, perhaps more authentic voice than his English prose.
 - **Legacy vs. Intent**: Kerouac despised the hippie movement and "beatnik" stereotype his work spawned; the tension between his Catholic mysticism and his cultural legacy as a rebellion icon remains unresolved.
+
+Source: adapted from "Jack Kerouac" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jack_Kerouac

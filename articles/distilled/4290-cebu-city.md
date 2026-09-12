@@ -56,3 +56,5 @@ The population was 965,332 in the 2024 census. The vast majority speak Cebuano. 
 - The authenticity of the "Sri Lumay" founding myth and the historical significance of the supposed capital "Singhapala" are highly debated and considered by scholars to be modern inventions.
 - The exact date of the initial settlement and naming of the village "Sugbu" remains unknown due to the lack of pre-colonial written records among the Visayans.
 - The historical interpretation of the "Pisheye" territories mentioned in Chinese records and their precise relationship to pre-colonial Cebu is a subject of scholarly analysis.
+
+Source: adapted from "Cebu City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cebu_City

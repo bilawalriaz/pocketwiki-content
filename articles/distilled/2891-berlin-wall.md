@@ -40,3 +40,5 @@ The Wall's fall was triggered by a chain of events: reforms in the Soviet Union,
 - **Death Toll**: The exact number of people killed at the Berlin Wall is disputed, with estimates ranging from at least 140 to over 200.
 - **Responsibility for Construction**: While the initiative is often attributed to the GDR, historical records suggest Soviet leader Nikita Khrushchev played a key role, though he was initially wary.
 - **Cultural Legacy**: Polls taken decades after reunification show a persistent minority in both former East and West Germany who viewed the Wall's existence favorably or supported its rebuilding, indicating a lasting "wall in the head" (*Mauer im Kopf*).
+
+Source: adapted from "Berlin Wall" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Berlin_Wall

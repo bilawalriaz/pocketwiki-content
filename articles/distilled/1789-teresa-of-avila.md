@@ -74,3 +74,5 @@ Teresa's mystical thought centers on the ascent of the soul to God. In her autob
 - Scholars debate the precise classification of Teresa's stages of prayer; Aumann discerns infused contemplation as a separate stage in the fourth mansion, while Poulain and Thouless do not, and Merton criticized the tendency toward systematization.
 - The tradition that Teresa owned the Infant Jesus of Prague statue lacks written historical evidence, though the statue's age approximates her lifetime.
 - In 2025, netizens questioned the incorrupt state of her body given its apparent condition when publicly exposed.
+
+Source: adapted from "Teresa of Ávila" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila

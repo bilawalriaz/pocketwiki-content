@@ -41,3 +41,5 @@ The 2007 census recorded a population of 341,834, with the Oromo (46%), Somali (
 
 ## Debates and Open Questions
 The source notes that the area around Dire Dawa is believed to have been a settlement of the extinct Harla people, indicating archaeological and historical uncertainty about its earliest inhabitants. The city's administrative fate was a point of contention in 1993, with both the Somali and Oromia regions claiming it before federal intervention.
+
+Source: adapted from "Dire Dawa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dire_Dawa

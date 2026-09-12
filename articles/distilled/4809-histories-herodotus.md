@@ -42,3 +42,5 @@ Herodotus's accuracy has been debated since antiquity, with critics like Plutarc
 *   **Bias**: Accusations of bias, especially a pro-Athenian slant and prejudice against cities like Thebes and Corinth, have persisted since antiquity. His reliance on Athenian sources is a key factor in this debate.
 *   **Methodology**: Herodotus's blend of myth, folklore, and empirical observation raises questions about his historical method. Is he a rigorous researcher or primarily an entertaining storyteller? Modern scholarship generally views him as both, pioneering a new form of inquiry that incorporated diverse evidence.
 *   **The "Giant Ants"**: His account of gold-digging "ants" in India (Book III) was long considered a fable, but some modern ethnographers suggest it may be a misinterpreted description of Himalayan marmots.
+
+Source: adapted from "Histories (Herodotus)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Histories_%28Herodotus%29

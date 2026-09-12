@@ -59,3 +59,5 @@ At his death, classical Ottoman architecture had peaked. His successors, includi
 - **Selimiye vs. Hagia Sophia dome**: Sinan claimed Selimiye’s dome was the world’s largest. In fact, its diameter exceeds Hagia Sophia’s by only ~0.5 m, and its height from ground level is lower, though measured from its base it is higher.
 - **Attribution of works**: The official list counts 476 structures; Sinan supervised a large office and delegated extensively, so personal design authorship varies.
 - **Western influence**: The article notes Sinan likely knew Alberti’s/Vitruvian ideals but pursued simplification rather than enrichment; the extent of direct Renaissance influence remains a scholarly question.
+
+Source: adapted from "Mimar Sinan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mimar_Sinan

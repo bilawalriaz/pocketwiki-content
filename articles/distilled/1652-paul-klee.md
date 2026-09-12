@@ -71,3 +71,5 @@ Contemporaries recognized his uniqueness: Oskar Schlemmer (1916) praised his wis
 - **Political engagement**: Long viewed as apolitical or whimsical, recent scholarship (Kort, Aichele) argues his parody, wit, and grotesque satire encode anti-fascist critique. The degree and intentionality of political content are contested.
 - **Late work and illness**: The correlation between scleroderma’s progression and stylistic shifts (larger forms, heavier lines, hieroglyphs, output surge) is documented but interpreted variously as adaptation, defiance, or physiological determinism.
 - **Nazi-era provenance**: Numerous works passed through Nazi seizures (museums) and forced sales (Jewish collectors). Restitution claims (e.g., *Swamp Legend*) involve complex legal and ethical questions still unresolved.
+
+Source: adapted from "Paul Klee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paul_Klee

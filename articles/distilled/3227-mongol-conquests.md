@@ -49,3 +49,5 @@ Mongol invasions reached into South Asia, occupying parts of the northwest but f
 - The total Mongol manpower during Genghis Khan's lifetime is debated, with estimates between 50,000 and 75,000 soldiers.
 - The function of the *qara'ul/qaraghul* military formation remains uncertain.
 - The role of Mongol shamans in influencing battles through weather is recorded in accounts but is subject to scholarly interpretation.
+
+Source: adapted from "Mongol conquests" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mongol_conquests

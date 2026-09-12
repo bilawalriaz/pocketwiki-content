@@ -46,3 +46,5 @@ Decebalus is a national hero in Romania, a status solidified in the 19th century
 *   **Identity of Diurpaneus:** Ancient sources refer to the Dacian leader in the 86 AD raids as "Diurpaneus." Scholars debate whether this was King Duras himself or the future king Decebalus. Recent sources favor the view that Diurpaneus was Decebalus.
 *   **Parentage of Decebalus:** A Dacian pot inscription reading "Decebalus per Scorilo" has led to the theory that his father was named Scorilo. This idea, originally a "scholarly joke," is considered plausible by some historians, who may link Scorilo to a king named Coryllus mentioned by Jordanes.
 *   **Ancestry of Regalianus:** The Roman usurper Regalianus claimed kinship with Decebalus. This is sometimes linked to the abduction of Decebalus's sister during the First Dacian War, suggesting she may have been an ancestress of Regalianus.
+
+Source: adapted from "Decebalus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Decebalus

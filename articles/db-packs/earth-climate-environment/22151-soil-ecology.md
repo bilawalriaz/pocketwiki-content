@@ -27,3 +27,5 @@ A defining feature is spatial separation. Microbes cluster in hot spots such as 
 ## The soil food web and its services
 
 The food web runs from one-celled bacteria, algae, fungi, and protozoa through nematodes and micro-arthropods to earthworms, insects, small vertebrates, and plants. As they feed and move, these organisms deliver ecosystem services: they decompose organic compounds including manure, plant residues, and pesticides, preventing water pollution; they sequester and fix nitrogen; they build aggregates and pores that increase infiltration and reduce runoff; and they prey on crop pests while feeding above-ground animals. Functional dissimilarity (differences in what species do rather than how many exist) can matter more than raw species richness for these processes, and non-trophic interactions such as phoresy (passive transport of one species by another) also shape outcomes.
+
+Source: adapted from "Soil ecology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Soil_ecology

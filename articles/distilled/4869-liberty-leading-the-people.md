@@ -40,3 +40,5 @@ The painting has had a significant cultural legacy, influencing works like Victo
 ## Debates and Open Questions
 - The identity of the man in the top hat is widely debated. While once thought to be a self-portrait of Delacroix, modern art historians refute this. Other suggestions include theatre director Étienne Arago or curator Frédéric Villot, but there is no consensus.
 - The painting's exact political message has been interpreted differently over time. It was initially seen as a reminder to the new king, then as too revolutionary for public display, and later as a symbol of the Republic.
+
+Source: adapted from "Liberty Leading the People" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liberty_Leading_the_People

@@ -37,3 +37,5 @@ A second wave followed, the Secondary Products Revolution proposed by Andrew She
 ## What Changed for Bodies
 
 The cost was biological. Neolithic diets were dominated by starchy cereals, lower in fibre, protein, and micronutrients than the varied hunter-gatherer diet. Dental caries, slower childhood growth, higher body fat, and shorter stature followed. Europeans lost roughly 13 cm of average height after the transition, a loss not recovered until the twentieth century. Living close to livestock and to other humans in permanent settlements created ideal conditions for infectious disease; zoonoses such as influenza, smallpox, and Salmonella jumped from animals to people, and natural selection in farming populations favoured genetic resistance, a legacy that still shapes disease patterns across the world.
+
+Source: adapted from "Neolithic Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neolithic_Revolution

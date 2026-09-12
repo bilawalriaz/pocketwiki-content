@@ -44,3 +44,5 @@ After a costly victory at Monte de las Cruces, Hidalgo controversially decided n
 *   Historians debate Hidalgo's reasons for not attacking Mexico City after Monte de las Cruces. Theories include the poor discipline of his army and the strength of the city's defenses.
 *   The primary motive of Hidalgo's revolt is debated: was it for independence, or to support Ferdinand VII against the Napoleonic usurper while opposing the local peninsular government?
 *   The social composition and motivations of his massive army—whether driven by a nascent nationalism or by local grievances over hunger and oppression—remain subjects of scholarly analysis.
+
+Source: adapted from "Miguel Hidalgo y Costilla" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Miguel_Hidalgo_y_Costilla

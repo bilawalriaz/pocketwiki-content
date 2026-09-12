@@ -60,3 +60,5 @@ Nureyev’s sexuality is described as bisexual or homosexual; he had heterosexua
 - **Artistic authorship**: His stagings of *Swan Lake*, *Sleeping Beauty*, and *La Bayadère* closely followed Mariinsky/Petipa traditions but introduced significant male choreography; scholars debate the balance of restoration vs. innovation.
 - **AIDS disclosure**: Nureyev denied his diagnosis publicly for years; the timing and manner of his eventual acknowledgment (only confirmed the morning of his death) reflect the stigma of the era.
 - **Legacy in Russia**: His reputation was officially restored post-Soviet era (name re-entered Mariinsky history, monuments erected), yet the 2017 Bolshoi ballet *Nureyev* was cancelled and later dropped due to "gay propaganda" laws, indicating ongoing cultural tension.
+
+Source: adapted from "Rudolf Nureyev" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rudolf_Nureyev

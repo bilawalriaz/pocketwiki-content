@@ -65,3 +65,5 @@ Bernhardt was among the first actresses to appear in films. Her 1900 *Le Duel d'
 - **Relationship with Louise Abbéma**: Rumoured to be lovers; a 1990 donation of a painting to the Comédie-Française included a letter describing it as painted "on the anniversary of their love affair."
 - **Vegetarianism**: Described as a strict vegetarian (later termed vegan), but a 1923 biography notes she consumed fish and cheese in later years.
 - **Critical reception**: Admirers (Hugo, Wilde, Freud) praised her "golden voice" and hypnotic presence; detractors (Shaw, Chekhov, Turgenev) called her acting artificial and egotistical.
+
+Source: adapted from "Sarah Bernhardt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sarah_Bernhardt

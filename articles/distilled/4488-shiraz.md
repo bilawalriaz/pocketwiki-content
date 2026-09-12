@@ -39,3 +39,5 @@ Located at 1,500 meters (4,900 ft) above sea level in the Zagros Mountains, Shir
 
 ## Debates and Open Questions
 Scholars debate the significance of ancient Shiraz. Some sources suggest it was merely a way-station, while others, citing its frequent appearance in Persepolis administrative archives, argue it was one of the most important settlements in the area during the Achaemenid era. The exact nature and extent of the pre-Islamic settlement at the site of the modern city remain subjects of archaeological investigation.
+
+Source: adapted from "Shiraz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shiraz

@@ -48,3 +48,5 @@ Keller's life has been widely portrayed, most famously in William Gibson's play 
 - **Plagiarism Allegation:** Her 1891 story "The Frost King" was found to be substantially similar to "The Frost Fairies" by Margaret Canby. The Perkins Institute investigation concluded it was likely a case of cryptomnesia (unconscious memory), not deliberate plagiarism.
 - **Political Radicalism vs. Public Image:** Keller's socialist and IWW activism often conflicted with the inspirational, apolitical image of her as a "miracle" over disability, leading to public criticism and media dismissal of her political views.
 - **Support for Eugenics:** Her 1915 writings in favor of denying medical care to infants with severe disabilities stand in stark contrast to her lifelong advocacy for people with disabilities, presenting a complex and controversial aspect of her legacy.
+
+Source: adapted from "Helen Keller" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Helen_Keller

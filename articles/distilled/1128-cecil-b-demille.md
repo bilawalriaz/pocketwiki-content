@@ -53,3 +53,5 @@ DeMille’s impact extends beyond box office success. He influenced directors li
 
 ## Debates and Open Questions
 DeMille’s artistic merit remains contested. Critics historically dismissed his work as shallow spectacle, while supporters argue his visual innovations and thematic consistency qualify him as an auteur. His political conservatism and alleged antisemitism, particularly following *The King of Kings*, sparked controversy, though he donated profits to charity in response. Scholars debate whether his early silent films or later epics better represent his genius, with some praising his pioneering techniques and others criticizing his outdated aesthetics. The availability of only 20 of his silent films on DVD highlights ongoing preservation challenges.
+
+Source: adapted from "Cecil B. DeMille" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cecil_B._DeMille

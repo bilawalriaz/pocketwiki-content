@@ -48,3 +48,5 @@ Internal weaknesses, including chronic succession struggles and a failing corvé
 - **Nature of Expansion**: Traditional narratives emphasize territorial conquest, while modern scholarship suggests Ayutthaya expanded primarily through political merger and consolidation of existing city-states.
 - **Decline and "General Crisis"**: The hypothesis that Ayutthaya declined after the 1688 expulsion of Europeans has been largely refuted by recent studies. Historians like Lieberman, Baker, and Phongpaichit argue the 18th century was a period of economic vitality driven by Chinese trade, not decline.
 - **Fall in 1767**: The extent of destruction and depopulation is debated, with some historians suggesting the kingdom's social and economic structures had already collapsed internally before the walls fell.
+
+Source: adapted from "Ayutthaya Kingdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ayutthaya_Kingdom

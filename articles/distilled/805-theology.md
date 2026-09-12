@@ -40,3 +40,5 @@ Critics from antiquity to today have questioned theology’s validity. Protagora
 
 ## Debates and Open Questions  
 Key debates include whether theology requires a faith commitment incompatible with academic freedom, whether it should remain in secular universities, and how it differs from religious studies. Scholars also contest the applicability of "theology" to non-theistic traditions like Buddhism and question its methodological rigor compared to empirical disciplines. The tension between confessional and secular approaches continues to shape theology’s institutional and intellectual future.
+
+Source: adapted from "Theology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theology

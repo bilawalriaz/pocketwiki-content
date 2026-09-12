@@ -40,3 +40,5 @@
 *   **Cause of the European Withdrawal (1242):** The primary debate is whether the Mongol armies retreated from Europe solely because of Ögedei's death, as most sources indicate, or if logistical difficulties and the strength of European fortifications also played a significant role.
 *   **The Oirat Incident:** The historicity of the account (from the Persian historian Juvayni) alleging that Ögedei ordered the mass rape of 4,000 Oirat girls is questioned. Scholars note it is the only such account and may be a later fabrication or misidentification, as other sources mention a forced requisition of women but not rape.
 *   **Ögedei's Death:** While the standard account attributes his death to alcoholism after a drinking bout, an alternative anecdote from Juvayni suggests he died after a wolf he released turned on him, contradicting the more widely accepted story.
+
+Source: adapted from "Ögedei Khan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C3%96gedei_Khan

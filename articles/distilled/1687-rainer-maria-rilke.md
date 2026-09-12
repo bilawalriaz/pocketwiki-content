@@ -79,3 +79,5 @@ Rilke is a best-selling poet in the US, frequently cited in self-help contexts a
 - **Late French poems**: The status of *Vergers* and *Quatrains valaisans*—minor exercises or a distinct, stripped-down late style—divides critics.
 - **Influence of psychoanalysis**: Andreas-Salomé’s Freudian training (1912–13) informed her readings of Rilke; the extent to which Rilke internalized psychoanalytic concepts versus resisting them is debated.
 - **Translation fidelity**: The density of Rilke’s German (compound nouns, syntactic ambiguity) makes English translation notoriously contested; no version captures all registers.
+
+Source: adapted from "Rainer Maria Rilke" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rainer_Maria_Rilke

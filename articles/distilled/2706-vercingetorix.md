@@ -35,3 +35,5 @@ Vercingetorix (c. 82–46 BC) was a Gallic chieftain of the Arverni tribe who un
 - **Prior Relationship with Caesar:** Cassius Dio's account suggests Vercingetorix surrendered hoping for clemency based on past friendship, leading to scholarly speculation that he may have collaborated with Caesar between 57 and 54 BC.
 - **Surrender Scene:** Ancient sources differ on the details of his surrender. Caesar's narrative likely shaped the event to enhance his own prestige, while later accounts add dramatic elements like Vercingetorix riding around Caesar's tribunal.
 - **Reason for Execution:** While Caesar acknowledged Gallic bravery, Vercingetorix's execution was likely a political necessity to counter Roman public hostility towards Gauls, rather than standard Roman practice for captured leaders.
+
+Source: adapted from "Vercingetorix" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vercingetorix

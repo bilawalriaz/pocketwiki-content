@@ -38,3 +38,5 @@ Rainfall varies significantly, from over 130 cm annually in the north to less th
 
 ## Debates and Open Questions
 The primary scholarly debate concerns the geological origin of the depression that the plains fill. The main competing theories are the "furrow" hypothesis, the "syncline" hypothesis, and the now largely rejected "rift valley" hypothesis. The current consensus leans towards a trough formed by tectonic activity related to the Himalayan orogeny.
+
+Source: adapted from "Indo-Gangetic Plain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indo-Gangetic_Plain

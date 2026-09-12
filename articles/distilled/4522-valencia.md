@@ -47,3 +47,5 @@ Valencia is officially bilingual in Spanish and Valencian (a variety of Catalan)
 ## Debates and Open Questions
 - The official name of the city in the Valencian language is "València," with a grave accent. However, in 2023, the municipal corporation agreed in principle to a dual official denomination "Valencia/Valéncia," with some political groups insisting on a non-standard acute accent ("é") in the Valencian name.
 - The precise meaning of the Arabic name for the city during Islamic rule is debated: it could be "City of Joy" (Medina at-Tarab) or "City of Sands" (Medina at-Turab).
+
+Source: adapted from "Valencia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Valencia

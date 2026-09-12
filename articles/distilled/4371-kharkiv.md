@@ -45,3 +45,5 @@ Kharkiv was a primary target of the 2022 invasion. Russian forces advanced to th
 - The origin of the city's name is debated; a folk etymology links it to a legendary Cossack founder named Kharko, but the river name predates the fortress.
 - The extent of local support for the 2014 pro-Russian separatist movement remains contested, with evidence suggesting it lacked broad popular backing.
 - The long-term demographic and cultural impact of the 2022 invasion, including shifts in language use and the preservation of the city's architectural heritage, is an ongoing concern.
+
+Source: adapted from "Kharkiv" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kharkiv

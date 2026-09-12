@@ -51,3 +51,5 @@ Kolkata is regarded as India's cultural capital, with a legacy in literature, ci
 - **Economic Trajectory**: Scholars debate the causes and timeline of Kolkata's post-independence economic decline and the effectiveness of its recent revival.
 - **Cultural Capital Status**: While widely called India's "cultural capital," the basis and contemporary relevance of this title are subjects of discussion.
 - **Urban Challenges**: The city's ability to address issues like air pollution, inadequate infrastructure, and slum conditions while sustaining economic growth remains a key question.
+
+Source: adapted from "Kolkata" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kolkata

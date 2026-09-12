@@ -43,3 +43,5 @@ The sultans sponsored Sunni Islamic architecture, building mosques, madrasas, an
 - The extent of Byzantine sabotage during the Second Crusade is debated; while some sources accuse Emperor Manuel I of hindering Crusaders, this is likely a fabrication by Western chroniclers.
 - The precise role and integration of the native Byzantine Greek aristocracy within the Seljuk nobility and harem is a subject of scholarly interest.
 - The degree to which the sultanate's cultural "Persianization" versus its Turkic military identity defined its society remains an area of study.
+
+Source: adapted from "Sultanate of Rum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sultanate_of_Rum

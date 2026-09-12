@@ -72,3 +72,5 @@ Cash wrote over 1,000 songs and influenced artists across genres; Bob Dylan cred
 - **"The Chicken in Black" motive**: Biographer Robert Hilburn (2013) disputes the legend that Cash recorded this 1984 novelty single to sabotage his Columbia contract, arguing Cash enthusiastically accepted the label’s suggestion until Waylon Jennings mocked the video.
 - **Ancestry claims**: Family lore claimed Cherokee ancestry via paternal grandmother; a 2021 DNA test on daughter Rosanne (via *Finding Your Roots*) found no Native American markers but identified sub-Saharan African DNA on the paternal line.
 - **Extent of late-life sobriety**: Marshall Grant’s memoir states Cash did not fully quit amphetamines until ~1970 (not 1968), relapsed in 1977 and 1983, and entered multiple rehabs (Betty Ford, Cumberland Heights, Loma Linda) through the 1990s.
+
+Source: adapted from "Johnny Cash" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johnny_Cash

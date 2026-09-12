@@ -73,3 +73,5 @@ Since the late 19th century, the family maintains a low public profile, donating
 - **American "missed opportunity":** *The New York Times* and Evelyn de Rothschild acknowledged the family "grossly misjudged" and "never seized the initiative in America," viewing it as a major strategic error.
 - **Conspiracy theories:** The source explicitly attributes the persistence of theories (world wealth control, war manipulation) to "antisemitic prejudice and various antisemitic tropes," citing historian Niall Ferguson’s rebuttal that as bondholders, the Rothschilds stood to *lose* from war by the mid-19th century.
 - **Art restitution:** Austrian government returned 250 looted art treasures in 1999; the extent of unrecovered assets from Nazi seizures (Austria, France) remains an open historical ledger.
+
+Source: adapted from "Rothschild family" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rothschild_family

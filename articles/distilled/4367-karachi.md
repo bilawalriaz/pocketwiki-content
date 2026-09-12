@@ -42,3 +42,5 @@ From the 1980s, Karachi faced sharp ethnic, sectarian, and political conflict, e
 - **Population Figures**: The official 2017 census figure of 14.9 million for Karachi is disputed by political parties and some analysts, who argue it undercounts the population due to methodological issues and the city's complex administrative boundaries. Estimates have ranged from 18 to over 25 million.
 - **Impact of the Rangers Operation**: While credited with drastically reducing crime, the 2013 Karachi operation is described as "controversial," with concerns about extrajudicial actions and its impact on political dynamics.
 - **Governance and Infrastructure**: The city's fragmented civic administration, with multiple authorities (KMC, DMCs, cantonments, provincial agencies) controlling different services, is frequently cited as a root cause of its chronic infrastructure and service delivery problems.
+
+Source: adapted from "Karachi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Karachi

@@ -57,3 +57,5 @@ Livingstone became a symbol of Victorian ideals—scientific curiosity, Christia
 
 ## Debates and Open Questions
 Livingstone's legacy is deeply contested. While he is remembered as a pioneering explorer and abolitionist, critics argue that his impact on African societies was minimal and that he inadvertently supported colonial expansion. His failure to convert significant numbers of Africans to Christianity, his strained relationships with fellow missionaries and explorers, and his dependence on slave traders during his final expedition raise questions about his effectiveness and ethics. Additionally, debates persist over the accuracy of his accounts of slavery and whether his writings were exaggerated for public sympathy. Modern scholarship continues to reassess his role in the broader context of British imperialism and African resistance.
+
+Source: adapted from "David Livingstone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/David_Livingstone

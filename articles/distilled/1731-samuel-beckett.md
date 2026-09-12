@@ -64,3 +64,5 @@ Beckett mounted the most sustained attack on the realist tradition among English
 - **Bilingual authorship**: Beckett wrote major works in French then self-translated (except *Molloy*, with Patrick Bowles). Scholars debate whether the French originals or English versions hold primacy, and how the "without style" rationale shapes each language’s texture.
 - **Psychoanalytic influence**: Two years with Wilfred Bion (1933–35) informed *Watt* and *Godot*, but the precise mapping of Bion’s concepts (e.g., "container/contained," attacks on linking) onto Beckett’s aesthetics is unsettled.
 - **Estate performance restrictions**: The Beckett estate’s strict licensing—requiring fidelity to stage directions, casting, and setting—sparks debate over whether it preserves authorial intent or stifles living theatre practice.
+
+Source: adapted from "Samuel Beckett" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samuel_Beckett

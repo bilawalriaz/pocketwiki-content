@@ -45,3 +45,5 @@ Several organizations aim for regional integration, such as the Eurasian Economi
 - Geologists debate whether Eurasia is a single rigid mega block.
 - The political and cultural definition of "Eurasia" varies, sometimes referring to the entire continent and other times specifically to the post-Soviet space.
 - The feasibility and scope of pan-continental integration projects like the Greater Eurasian Partnership remain open questions.
+
+Source: adapted from "Eurasia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eurasia

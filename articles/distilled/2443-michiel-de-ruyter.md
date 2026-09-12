@@ -46,3 +46,5 @@ After the English withdrawal in 1674, de Ruyter fought against France. A 1674 am
 
 ## Debates and Open Questions
 The source notes that many anecdotes about de Ruyter's early life are of "dubious historical value." The exact number of Dutch ships in the Battle of Plymouth is described as "unclear." There is also a scholarly debate about the origin of his surname "De Ruyter," with suggestions ranging from a nickname meaning "raider" to a commemoration of a cavalry ancestor.
+
+Source: adapted from "Michiel de Ruyter" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Michiel_de_Ruyter

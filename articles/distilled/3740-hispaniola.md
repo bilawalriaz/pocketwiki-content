@@ -48,3 +48,5 @@ Hispaniola is mountainous, with five major ranges. Its highest point is Pico Dua
 *   **Authenticity of "Quisqueya":** Historians disagree on whether the name "Quisqueya" (meaning "mother of the lands") is an authentic indigenous name or a later invention by Spanish chroniclers.
 *   **Causes of Taíno Decline:** While disease, violence, and forced labor are all cited, the relative weight of each factor in the catastrophic population decline remains a subject of historical analysis.
 *   **Haiti's Forest Cover:** Media reports often claim Haiti has only 2% forest cover, but recent environmental analysis suggests the figure is closer to 30%, though this is still a dramatic decrease from historical levels.
+
+Source: adapted from "Hispaniola" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hispaniola

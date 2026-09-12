@@ -45,3 +45,5 @@ The revolution involved significant internal social upheaval. "Social revolution
 *   **Dutch Responsibility**: A 2022 Dutch historical review concluded that the Netherlands used "systematic and excessive violence" that was "deliberate" and "condoned at every level," a finding that led to formal apologies.
 *   **Role of External Powers**: The decisive impact of U.S. diplomatic and economic pressure on the Dutch decision to withdraw is a key point of analysis.
 *   **Legacy of Violence**: The revolution entrenched a culture of political violence and established the military's influential role in Indonesian politics, the effects of which persist.
+
+Source: adapted from "Indonesian National Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indonesian_National_Revolution

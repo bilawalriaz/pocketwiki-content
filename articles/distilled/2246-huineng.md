@@ -49,3 +49,5 @@ Doctrinally, Huineng's Southern School is associated with sudden enlightenment, 
 - **Authorship of the Platform Sutra:** The text is a composite work. Its core may have originated within the Oxhead school, not the Southern School as traditionally believed.
 - **The Poem Contest:** The traditional interpretation of the verses as representing gradual vs. sudden approaches is considered incorrect by scholars like John McRae, who see them as complementary.
 - **Shenhui's Role:** To what extent did Shenhui invent Huineng's biography and teachings to win imperial favor and establish his own lineage's authority?
+
+Source: adapted from "Huineng" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Huineng

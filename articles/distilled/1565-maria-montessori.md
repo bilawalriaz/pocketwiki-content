@@ -81,3 +81,5 @@ The method groups children in three-year age spans (e.g., 3–6, 6–9, 9–12) 
 *   **Scalability and Public Integration:** Montessori requires extensive teacher training (often a full graduate year) and specialized materials, posing cost and staffing barriers for public school adoption.
 *   **Evidence Base:** While recent meta-analyses show positive effects, many studies lack random assignment or control for selection bias (parental motivation, socioeconomics). Long-term outcomes (adulthood) remain understudied.
 *   **Adolescent Model:** Montessori wrote and lectured on the third/fourth planes (Erdkinder/farm school model) but did not fully develop materials or a widespread implementation framework for ages 12–18, leaving a gap in secondary Montessori education.
+
+Source: adapted from "Maria Montessori" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maria_Montessori

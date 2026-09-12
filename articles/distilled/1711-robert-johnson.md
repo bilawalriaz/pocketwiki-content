@@ -82,3 +82,5 @@ Johnson left no will. In 1998, the Mississippi Supreme Court ruled **Claud Johns
 *   **Nature of the "Devil":** Christian Satan vs. African Legba vs. metaphor for secular music's sinfulness in the Black church (Lomax).
 *   **Historical magnitude:** Elijah Wald argues Johnson was a "minor figure" in the evolution of Black music, overshadowed by urban artists; others (Guralnick, Hall of Fame) view him as a pivotal genius.
 *   **Photograph authenticity:** Only two verified images exist; several published candidates (2008, 2015) have been debunked by forensic and historical analysis.
+
+Source: adapted from "Robert Johnson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Johnson

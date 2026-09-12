@@ -52,3 +52,5 @@ Following the 2001 U.S.-led invasion, Kabul experienced rapid population growth 
 - The exact origin and etymology of the name "Kabul" remain unknown, with various theories involving Sanskrit, Greek, and Persian roots.
 - The precise population of Kabul is uncertain due to the lack of a recent, comprehensive census, with various estimates provided by different sources.
 - The historical impact of the 2021 Taliban takeover on Kabul's social fabric, economy, and future development is still unfolding and subject to ongoing analysis.
+
+Source: adapted from "Kabul" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kabul

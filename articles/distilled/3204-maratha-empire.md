@@ -42,3 +42,5 @@ Internal divisions weakened the Confederacy. The British East India Company inte
 
 ## Debates and Open Questions
 Historians debate the accurate terminology for the polity. Some argue "empire" implies too much centralization, while "confederacy" suggests a stability of power-sharing that did not exist, as internal dynamics shifted frequently. The Maratha treatment of other Hindu groups, such as the Jats and Rajputs, is criticized for contributing to their defeat at Panipat, where these groups did not support them. The causes of the Panipat defeat itself—including strategic errors, lack of allies, and supply issues—remain a subject of scholarly analysis.
+
+Source: adapted from "Maratha Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maratha_Empire

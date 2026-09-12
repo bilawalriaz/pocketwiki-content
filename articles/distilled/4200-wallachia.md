@@ -46,3 +46,5 @@ Slavery (*robie*) existed in Wallachia from its founding until the mid-19th cent
 - The exact origins of Wallachian slavery and whether the Roma arrived as free people or slaves remain debated among historians.
 - The extent of Bulgarian suzerainty over Wallachian lands in the late 14th century is a point of scholarly discussion.
 - The legendary figure Radu Negru, traditionally credited with founding Wallachia in 1290, is considered mythical, though he is often associated with the historical Basarab I.
+
+Source: adapted from "Wallachia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wallachia

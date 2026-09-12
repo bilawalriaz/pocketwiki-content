@@ -42,3 +42,5 @@ No single cause is accepted; a combination of factors is likely. **Climate chang
 - **Causality**: What was the primary driver—climate change, invasion, internal revolt, or systemic failure? Most scholars now argue for a "perfect storm" of multiple, interacting factors.
 - **Role of the Sea Peoples**: Were they a primary cause of collapse, or merely opportunistic raiders exploiting already-weakened states?
 - **Continuity vs. Rupture**: To what extent did cultural and economic practices continue uninterrupted in certain regions (e.g., Cyprus, parts of the Levant) despite political collapse?
+
+Source: adapted from "Late Bronze Age collapse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse

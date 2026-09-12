@@ -36,3 +36,5 @@ After retiring from competition, Joyner-Kersee focused on philanthropy, founding
 
 ## Debates and Open Questions
 Joyner-Kersee's career was marred by allegations of performance-enhancing drug (PED) use. Brazilian runner Joaquim Cruz made accusations in 1988, and coach Darrell Robinson accused her husband in 1989. Doping insider Victor Conte later claimed he witnessed an official notify Bob Kersee of a positive test at the 1988 Seoul Games. Joyner-Kersee has consistently maintained that she competed without PEDs. The source presents these as allegations and does not confirm them.
+
+Source: adapted from "Jackie Joyner-Kersee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jackie_Joyner-Kersee

@@ -49,3 +49,5 @@ The Gulf's warm waters (averaging 28°C in summer) fuel powerful Atlantic hurric
 - The 2025 U.S. executive order to rename the Gulf of Mexico the "Gulf of America" is controversial, with objections from Mexico and mixed public opinion in the U.S.
 - The exact identity of the early 19th-century shipwreck known as the "Mardi Gras" remains a mystery.
 - The long-term ecological impacts of major oil spills like Deepwater Horizon are still being studied.
+
+Source: adapted from "Gulf of Mexico" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_of_Mexico

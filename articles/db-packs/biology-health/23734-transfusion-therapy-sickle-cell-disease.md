@@ -42,3 +42,5 @@ Transfusion treats and prevents complications by reducing the number of red cell
 **Alloimmunisation** is common in patients transfused in Europe and North America, because donor pools are predominantly Caucasian while recipients are usually of African or Afro-Caribbean ancestry, and blood group antigens differ between these groups. Extended phenotype matching of Rh and Kell groups as well as ABO reduces the risk but does not eliminate it.
 
 **Iron overload** accumulates because each unit of blood delivers about 250 mg of iron and the body cannot excrete the excess, so tissue iron builds up with each chronic transfusion and adds to long-term illness and death. Iron chelation therapy counters it, and guidelines recommend monitoring patients on regular or intermittent transfusions for overload.
+
+Source: adapted from "Transfusion therapy (Sickle-cell disease)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Transfusion_therapy_%28Sickle-cell_disease%29

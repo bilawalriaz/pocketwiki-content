@@ -68,3 +68,5 @@ Heirs sued Kaiser Wilhelm Museum (Krefeld) in 2020 for four paintings; US Distri
 - **New York City I orientation**: The 1941 paper-tape work was displayed upside down at Kunstsammlung Nordrhein-Westfalen since at least 1980; the museum retains the orientation to avoid damage, leaving the "correct" view unresolved.
 - **Flower paintings’ status**: Their secretive production and commercial disclaimer raise questions: were they private devotional acts, market concessions, or a parallel practice Mondrian never reconciled with Neoplasticism?
 - **Nazi-looted art jurisdiction**: US courts have so far declined jurisdiction over heirs’ claims against European museums (Krefeld, Philadelphia), leaving restitution unresolved.
+
+Source: adapted from "Piet Mondrian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Piet_Mondrian

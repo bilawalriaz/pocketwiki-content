@@ -58,3 +58,5 @@ The *Imitations of Horace* (1733–38) updated the Roman satirist to attack Geor
 *   **Misogyny in *The Rape of the Lock*:** Critics dispute whether the poem’s "voyeuristic interest" in Belinda’s toilette and the sylphs reinforces or subverts patriarchal objectification of aristocratic women.
 *   **Philosophy of *An Essay on Man*:** The poem’s optimism—"whatever is, is right"—has been read as a genuine theodicy or a satiric target (later mocked by Voltaire in *Candide*). The tension between its deistic "Great Chain" and Christian assumptions about the Fall remains unresolved.
 *   **Martha Blount Relationship:** The nature of Pope’s lifelong attachment to Martha Blount—described by friend William Cheselden as the reason he left a "gay [hedonistic]" life—is debated as romantic, platonic, or a sublimated literary partnership.
+
+Source: adapted from "Alexander Pope" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alexander_Pope

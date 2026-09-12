@@ -79,3 +79,5 @@ Post-war bankruptcy (US loan 1946) and Cold War dynamics forced reassessment. Th
 *   **Net legacy assessment:** Niall Ferguson contends the empire provided net economic/institutional benefits (rule of law, infrastructure, English language); Caroline Elkins and post-colonial scholars emphasise systemic violence, emergency laws, detention camps, and underdevelopment.
 *   **Democratic correlation:** A noted correlation exists between former British colonies and post-independence democracy, though it weakens significantly after 30 years; causality versus selection effects remain contested.
 *   **Public memory:** 21st-century British public opinion on the empire remains broadly positive, contrasting with critical academic consensus and apathy toward the modern Commonwealth.
+
+Source: adapted from "British Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/British_Empire

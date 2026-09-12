@@ -47,3 +47,5 @@ Ron Brachman, writing in 1985, grouped the recurring difficulties in KR design i
 ## Ontology engineering
 
 As knowledge bases grew from research demos to real applications, the field shifted toward ontology engineering: building large, modular ontologies that multiple projects could share. Tom Gruber observed that "every ontology is a treaty, a social agreement among people with common motive in sharing," because no single ontology can fit every domain. Examples include domain-specific ontologies for liquids, time, belief, and electronic circuits, each offering a particular way of carving up its subject matter.
+
+Source: adapted from "Knowledge representation and reasoning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning

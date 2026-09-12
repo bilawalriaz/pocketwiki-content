@@ -47,3 +47,5 @@ Musicals are performed worldwide, from Broadway and London's West End to off-Bro
 
 ## Debates and Open Questions
 A key tension exists between original innovation and the commercial safety of revivals, adaptations, and jukebox musicals. Critics like Stephen Sondheim argue spectacular, tourist-oriented productions risk turning Broadway into a "tourist attraction." Historian John Kenrick counters that change signifies a living genre. The COVID-19 pandemic accelerated discussions about theatre's financial model and digital streaming's role, with its long-term impact on live performance still unfolding.
+
+Source: adapted from "Musical theatre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Musical_theatre

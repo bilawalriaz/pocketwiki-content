@@ -118,3 +118,5 @@ Hosts Asian Infrastructure Investment Bank, Silk Road Fund, Shanghai Cooperation
 *   **Population Cap Policy:** 2017 controls ("big city disease") aim to cap population at 23M by 2020. Forced removal of low-income migrants raises equity concerns; effectiveness of redistribution to Xiong'an (new area, 100km south) is unproven.
 *   **Water Scarcity:** Reliance on South–North Water Transfer Project (Yangtze diversion) and groundwater overdraft creates long-term sustainability risks for the North China Plain.
 *   **Urban Form ("Spreading Pancake
+
+Source: adapted from "Beijing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Beijing

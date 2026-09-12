@@ -44,3 +44,5 @@ The Meiji Restoration opened Japan to Western influence, creating a dichotomy be
 *   The exact date and nature of Buddhism's introduction to Japan (552 or 538 CE) is debated among scholars.
 *   The role of Korea in transmitting Buddhism and continental culture to Japan is a subject of historical discussion, with some scholars viewing it as an active agent rather than a mere transmitter.
 *   The interpretation of Jōmon dogū figurines—whether they are fertility objects, shamanic tools, or representations of deities—remains uncertain.
+
+Source: adapted from "Japanese art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Japanese_art

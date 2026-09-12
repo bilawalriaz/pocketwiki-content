@@ -46,3 +46,5 @@ Following the U.S. withdrawal in 2021, a rapid Taliban offensive led to the coll
 - The causes of the rapid collapse of the Islamic Republic in 2021 are debated, with factors including the U.S. withdrawal, corruption, and the Taliban's military strategy.
 - The future of international recognition for the Taliban government is uncertain, as the internationally recognized government is the collapsed Islamic Republic.
 - The potential for a full-scale civil war involving multiple anti-Taliban resistance groups remains an open concern.
+
+Source: adapted from "Afghan conflict" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Afghan_conflict

@@ -37,3 +37,5 @@ Several developments have made stronger action more feasible. Renewable energy s
 ## Persistent obstacles
 
 Fossil fuels still supply about 80% of world energy, and removing consumer subsidies has historically triggered riots. Doomism, the view that it is already too late to act, discourages action among some who are not outright deniers. Some environmental groups have blocked climate policies they judged insufficient, as when Australia's Greens voted against a 2009 carbon trading scheme. Military forces are responsible for 5.5% of global emissions, and wars such as the conflict in Ukraine divert resources from climate action. Adaptation can backfire when it ignores local trade-offs, as when Tanzanian coral reef protection pushed villagers into higher-emissions farming. A 2024 analysis identified 100 US representatives and 23 senators, all Republicans, as climate change deniers.
+
+Source: adapted from "Politics of climate change" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Politics_of_climate_change

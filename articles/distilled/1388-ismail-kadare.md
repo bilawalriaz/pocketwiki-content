@@ -64,3 +64,5 @@ Critics rank Kadare with Kafka, Gogol, Orwell, Márquez, and Balzac, yet note hi
 - **Allegory vs. evasion:** The Writers' Union accused Kadare of "deliberately evading politics by cloaking fiction in history and folklore"; Kadare viewed allegory as the only viable resistance under total censorship. The debate centers on whether his historical masks were strategic necessity or political avoidance.
 - **Regime tolerance:** The regime alternately banned Kadare's works and promoted him internationally; scholars debate whether this inconsistency reflected internal Politburo factionalism, fear of Western backlash, or genuine confusion over his coded critiques.
 - **Post-Communist relevance:** Kadare's later works (*Spiritus*, *The Doll*) address post-totalitarian transition and memory; critics debate whether his allegorical method retains its power absent the censorship that shaped it.
+
+Source: adapted from "Ismail Kadare" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ismail_Kadare

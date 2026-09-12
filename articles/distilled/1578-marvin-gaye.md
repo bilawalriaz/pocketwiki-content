@@ -78,3 +78,5 @@ Motown discouraged politics; Gordy told Gaye, "Don't be ridiculous" regarding pr
 - **"In Our Lifetime" Authorship:** The 1981 Motown release was an unauthorized remix of a stolen rough draft. Gaye’s intended final version (with question mark, different sequencing) remains a "lost album" subject to bootlegs and 2000s reissues.
 - **Father’s Motive:** Gay Sr.’s brain tumor diagnosis reduced the charge to voluntary manslaughter. The source notes constant conflict and Gaye’s physical aggression moments before the shooting, but the precise psychological dynamic remains debated.
 - **Drug Impact on Late Vocals:** The source notes "cocaine and PCP-triggered paranoia" and "increasing vocal issues" on the 1983 tour, but the extent to which substance use permanently damaged his instrument versus temporary tour fatigue is unresolved.
+
+Source: adapted from "Marvin Gaye" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marvin_Gaye

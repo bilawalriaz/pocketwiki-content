@@ -50,3 +50,5 @@ Phoenician independence eroded under successive empires: Assyrian, Babylonian, a
 
 ## Debates and Open Questions  
 Scholars debate whether the Phoenicians constituted a distinct people or were simply Canaanites in specific coastal cities. The extent of practices like child sacrifice remains contested. The origins of the trireme and the precise route of alphabet transmission to Greece are also disputed. Genetic studies reveal continuity with Bronze Age populations but highlight admixture events during the Iron Age and later periods. The role of Phoenician women in politics and religion continues to be explored through limited textual and archaeological evidence.
+
+Source: adapted from "Phoenicia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Phoenicia

@@ -42,3 +42,5 @@ Torvalds is a vocal advocate for open-source development but pragmatically uses 
 - **Torvalds's leadership style**: His blunt and sometimes abrasive communication on public mailing lists has been a recurring point of criticism and debate regarding community governance and inclusivity.
 - **The 2018 Code of Conduct**: The sudden replacement of the kernel's "Code of Conflict" with a new Code of Conduct sparked significant debate within the developer community about its implications for free speech and project management.
 - **The 2024 maintainer exclusion**: The removal of some developers based on nationality or email address raised questions about the political neutrality of the project and the legal pressures facing open-source foundations.
+
+Source: adapted from "Linus Torvalds" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Linus_Torvalds

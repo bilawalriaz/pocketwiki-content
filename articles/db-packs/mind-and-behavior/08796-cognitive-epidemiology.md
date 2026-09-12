@@ -23,3 +23,5 @@ Behavioural pathways explain much of the link. People with higher IQ tend to acq
 ## Limits
 
 The relationship is observational, so causal direction is debated, though most studies use childhood IQ measured before illness, ruling out reverse causation for adult disease. Effects are graded rather than threshold-based, appearing across the IQ range, and associations with cancer, alcohol, and drugs remain inconsistent across cohorts and countries. One proposed extension is a general "f-factor" of fitness that would combine intelligence, health, and fertility into a single heritable dimension, analogous to g.
+
+Source: adapted from "Cognitive epidemiology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cognitive_epidemiology

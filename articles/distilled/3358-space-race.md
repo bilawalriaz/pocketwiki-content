@@ -46,3 +46,5 @@ After the Moon landings, the competition evolved. The USSR pioneered long-durati
 - **Who "won" the Space Race?** The US is widely seen as the victor due to the Apollo Moon landings, which fulfilled Kennedy's goal. However, some historians argue the USSR "won" in terms of overall early spaceflight capability and numerous "firsts" (first satellite, first human in space, first spacewalk, first space station).
 - **Impact of Secrecy:** The USSR's policy of secrecy regarding its space program, including concealing failures and rocket designs, created a "space curtain" that obscured the true state of the competition from Western observers.
 - **Legacy of Competition:** The intense rivalry drove rapid technological innovation but also led to significant risks and tragedies, such as the Apollo 1 fire and the Soyuz 1 and Soyuz 11 fatalities. Its legacy is the foundation for today's international cooperation in space, exemplified by the ISS.
+
+Source: adapted from "Space Race" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Space_Race

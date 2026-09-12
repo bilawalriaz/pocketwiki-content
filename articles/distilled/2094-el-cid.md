@@ -46,3 +46,5 @@ El Cid died on July 10, 1099, undefeated in Valencia. His wife, Jimena Díaz, in
 - The historicity of the famous oath El Cid supposedly forced Alfonso to take at Santa Gadea is questioned, as it appears in the epic poem but not in the more reliable 12th-century chronicle *Historia Roderici*.
 - The origin of his honorific "El Cid" is uncertain; it may have been earned during his service in Zaragoza or after his conquest of Valencia.
 - The legend of his posthumous victory is considered a later myth, possibly derived from the manner of his funeral procession into Burgos.
+
+Source: adapted from "El Cid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/El_Cid

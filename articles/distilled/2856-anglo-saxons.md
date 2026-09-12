@@ -48,3 +48,5 @@ Anglo-Saxon society was hierarchical, centered on kinship and the bond between a
 - **Continuity with Roman Britain**: The degree to which Romano-British culture, institutions, and population survived and influenced the emerging Anglo-Saxon society is contested.
 - **Role of Women**: While evidence shows women could own property and wield influence (especially as abbesses), the extent of their legal and social autonomy compared to later periods is debated.
 - **The "Heptarchy" Model**: The traditional concept of seven stable kingdoms is considered an oversimplification; scholars now emphasize fluid political boundaries and shifting overlordships.
+
+Source: adapted from "Anglo-Saxons" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anglo-Saxons

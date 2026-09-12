@@ -74,3 +74,5 @@ Donatello’s influence permeates all fifteenth-century Florentine sculpture. Hi
 - **Authorship of the *Niccolò da Uzzano* bust**: The earliest Florentine portrait bust; attributed to Donatello, Desiderio da Settignano, or a later copy. The use of a life/death mask is hypothesized but unproven.
 - **Workshop practice in Padua**: Donatello’s ten-year stay seeded Padua’s bronze industry, but the division of labor between him, Andrea del Caldiere (casting), and assistants on the Santo altar is unclear.
 - **Vasari’s reliability**: Vasari wrote a century later, misdates the birth by 17 years, and conflates Donatello’s pupils with later artists. His anecdotes (money bucket, Brunelleschi crucifix rivalry) are literary constructions but shape the popular image.
+
+Source: adapted from "Donatello" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Donatello

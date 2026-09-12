@@ -44,3 +44,5 @@ John's writings, composed between 1578 and 1591, are primarily commentaries on h
 *   **Intellectual Influences:** There is debate about the extent of John's formal education and the precise sources of his thought. While often linked to Thomas Aquinas, his access to such scholastic philosophy is questioned. Influences from Pseudo-Dionysius, medieval mystics, and even Islamic sources have been proposed.
 *   **Converso Ancestry:** Claims that John's family were *Conversos* (descendants of Jewish converts to Catholicism) are noted but remain contested.
 *   **Islamic Influence:** A controversial theory suggests his mystical imagery may have been influenced by Islamic mysticism, though scholars argue sufficient Christian antecedents exist.
+
+Source: adapted from "John of the Cross" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_of_the_Cross

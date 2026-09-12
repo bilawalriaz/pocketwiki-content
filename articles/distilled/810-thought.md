@@ -50,3 +50,5 @@ Several unresolved issues persist:
 - **Cognitive phenomenology**: Does thinking have a unique subjective character, or is it derivative of sensory experience?
 - **Critical thinking universality**: Are there universal standards for good thinking, or do they vary by domain and context?
 - **Positive thinking efficacy**: Does positive thinking reliably improve outcomes, or can it lead to harmful complacency?
+
+Source: adapted from "Thought" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thought

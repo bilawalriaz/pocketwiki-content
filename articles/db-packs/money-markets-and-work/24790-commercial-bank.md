@@ -19,3 +19,5 @@ In most countries, commercial banks are supervised by the central bank, which im
 ## History
 
 The English word *bank* comes from the Italian *banco*, meaning desk or bench, used by Florentine bankers of the Italian Renaissance who transacted across cloth-covered tables. Banking activity itself goes back to antiquity. In the United States, the term "commercial bank" took on a specific legal meaning after the Great Depression, when the Glass–Steagall Act of 1933 required commercial banks to engage only in banking activities while confining investment banks to capital-market activities. That separation was largely repealed in 1999 by the Gramm–Leach–Bliley Act, allowing both activities to operate under one roof.
+
+Source: adapted from "Commercial bank" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Commercial_bank

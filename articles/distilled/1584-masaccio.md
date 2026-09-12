@@ -65,3 +65,5 @@ Masaccio redirected Italian painting from Gothic idealization toward a humanist,
 - **Holy Trinity patron**: No contemporary document names the patron; recent archival research suggests the working-class Berti family, based on tomb ownership records at the fresco’s base.
 - **Cause of death**: Unknown; the poisoning legend reported by Vasari is uncorroborated.
 - **Attribution of Roman works**: Masaccio’s possible contributions to Masolino’s San Clemente frescoes or the Santa Maria Maggiore altarpiece remain hypothetical.
+
+Source: adapted from "Masaccio" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Masaccio

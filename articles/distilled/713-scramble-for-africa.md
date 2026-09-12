@@ -54,3 +54,5 @@ By 1914, only Ethiopia and Liberia remained independent. Between 1885 and 1914, 
 
 ## Debates and Open Questions  
 Historians debate the primacy of economic versus political factors. John A. Hobson argued that capitalist overproduction and surplus capital drove imperialism, while William Easterly contends that colonialism was more about state-led development than corporate expansion. The role of the Berlin Conference is also debated: while it formalised partition, some argue it merely legitimised already ongoing conquests. The extent of indigenous agency in resisting or collaborating with colonial powers remains contested, particularly regarding the use of African soldiers and auxiliaries in Portuguese campaigns. Additionally, estimates of population loss in the Congo Free State vary widely due to lack of reliable pre-colonial census data.
+
+Source: adapted from "Scramble for Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scramble_for_Africa

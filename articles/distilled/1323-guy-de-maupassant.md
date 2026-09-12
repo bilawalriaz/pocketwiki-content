@@ -51,3 +51,5 @@ Maupassant contracted syphilis in his youth (possibly congenital, as his brother
 - **Origin of syphilis**: It is suggested the disease may have been congenital, as his brother Hervé reportedly also suffered from it, though this remains unconfirmed.
 - **Supernatural vs. psychological**: In fantastic stories like "Le Horla," critics dispute whether the supernatural elements are literal or purely projections of the protagonist’s deteriorating mind, informed by Charcot’s psychiatry.
 - **Literary paternity of the modern short story**: While often called a "father of the modern short story" alongside Chekhov, the precise lineage of his influence on later writers like Somerset Maugham and O. Henry (particularly regarding twist endings and plotting) is a subject of ongoing comparative study.
+
+Source: adapted from "Guy de Maupassant" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guy_de_Maupassant

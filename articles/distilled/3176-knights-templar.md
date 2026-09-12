@@ -44,3 +44,5 @@ The dissolution was not uniform. In Portugal, King Denis I refused to persecute 
 *   **Pope's Role:** To what extent was Pope Clement V a willing participant versus a pawn pressured by Philip IV? The Chinon Parchment suggests he privately absolved them while publicly succumbing to political pressure.
 *   **Fate of Templar Wealth:** What happened to the vast Templar treasury and assets not transferred to the Hospitallers? Legends persist of hidden treasures.
 *   **Survival and Continuity:** Do any modern organizations, such as the Portuguese Order of Christ or various neo-Templar groups, have a legitimate historical or spiritual succession from the original Knights Templar?
+
+Source: adapted from "Knights Templar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knights_Templar

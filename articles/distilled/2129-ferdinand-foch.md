@@ -45,3 +45,5 @@ After the war, Foch was made a British Field Marshal (1919) and a Marshal of Pol
 *   **Contribution to the 1918 Victory:** While credited as the architect of victory, some argue his counter-attacks at the Marne in 1914 failed, and his 1918 success was due more to Allied material superiority and German exhaustion.
 *   **The Armistice Delay:** Foch's refusal to declare an immediate ceasefire after the armistice was signed resulted in thousands of casualties on the final day, a decision still questioned.
 *   **Versailles Treaty Judgment:** His prediction that the treaty was merely a "20-year armistice" is often cited as prescient given the outbreak of WWII in 1939, though the treaty's actual role in causing the war is a major historical debate.
+
+Source: adapted from "Ferdinand Foch" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ferdinand_Foch

@@ -64,3 +64,5 @@ Psychology treats humans as "ideological animals" (Althusser). Key theories:
 - **End of ideology?**: Did the post-1991 "post-ideological" consensus (Fukuyama) mark a genuine exhaustion of grand narratives, or is "post-ideology" itself the dominant contemporary ideology (Žižek, Sloterdijk)?
 - **Genetic heritability**: If political ideology is partially heritable, how do biological predispositions interact with social structure and cultural transmission?
 - **Classification**: Can political ideologies be rigorously classified given cultural relativity (e.g., shifting meanings of "liberalism," "conservatism" across contexts)?
+
+Source: adapted from "Ideology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ideology

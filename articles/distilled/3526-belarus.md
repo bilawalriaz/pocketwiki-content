@@ -52,3 +52,5 @@ The economy is state-dominated, with manufacturing and agriculture (notably pota
 - The legitimacy of Alexander Lukashenko's presidency is contested internationally following the disputed 2020 election, with several countries and the EU refusing to recognize him as the legitimate leader.
 - The future of the Union State with Russia remains uncertain due to delays in implementing monetary union and other integration measures.
 - The extent of Belarus's complicity in the 2022 Russian invasion of Ukraine and the impact of subsequent international sanctions on its economy and political stability are ongoing issues.
+
+Source: adapted from "Belarus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Belarus

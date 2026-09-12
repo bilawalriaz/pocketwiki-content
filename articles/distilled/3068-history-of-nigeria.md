@@ -48,3 +48,5 @@ Following Abacha's death, a transition to democracy led to the Fourth Republic i
 *   **Ethnic Federalism:** The effectiveness of Nigeria's federal structure in managing its immense diversity is constantly questioned. Proposals for restructuring or devolution of power remain contentious.
 *   **Resource Curse:** There is ongoing debate over whether Nigeria's vast oil wealth has been a blessing or a curse, fueling corruption, environmental degradation, and conflict rather than sustainable development.
 *   **Democratic Consolidation:** Despite peaceful elections, concerns persist about electoral transparency, institutional corruption, and the military's lingering influence, questioning the depth of Nigeria's democratic consolidation.
+
+Source: adapted from "History of Nigeria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Nigeria

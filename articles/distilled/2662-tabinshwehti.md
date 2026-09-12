@@ -41,3 +41,5 @@ Tabinshwehti made no effort to centralize administration, instead relying on a d
 ## Debates and open questions
 - The exact cause of the Burmese–Siamese Wars is debated. Burmese sources cite Siamese incursions into the Tavoy frontier, while Siamese sources claim Burma initiated hostilities to exploit a political crisis in Ayutthaya.
 - The degree to which Tabinshwehti's early campaigns were directed by his older ministers versus his own decision is uncertain, as chronicles attribute the audacious war policy to the young king alone.
+
+Source: adapted from "Tabinshwehti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tabinshwehti

@@ -25,3 +25,5 @@ Parthian religion was polytheistic and syncretic, with Greek and Iranian deities
 ## Decline
 
 The empire ended in 224 AD when Ardashir I of Persis defeated and killed the last Parthian king, Artabanus IV, establishing the Sasanian Empire. The earlier Achaemenid collapse similarly came from internal revolt rather than external defeat, though the Sasanian takeover was led by a single rival dynasty rather than fragmented provinces.
+
+Source: adapted from "Parthian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Parthian_Empire

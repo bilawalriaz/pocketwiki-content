@@ -23,3 +23,5 @@ Because any centaur perturbed sunward can outgas, about 30 centaurs have shown c
 ## Origin, naming, and notable objects
 
 Most centaurs are thought to scatter inward from the Kuiper belt, but 2013 VZ70 may be a fragment of a Saturnian irregular moon, and the high-inclination retrograde orbits of some centaurs have been controversially linked to interstellar capture. The first centaur recognised under the JPL definition was 944 Hidalgo in 1920, but the population was only identified after 2060 Chiron was found in 1977. Saturn's moon Phoebe, imaged by Cassini in 2004, may itself be a captured centaur from the Kuiper belt. Under International Astronomical Union rules, centaurs with a < 30 AU and q > 5.5 AU are named after mythological centaurs, while Neptune-crossing trans-Neptunian objects sharing the centaur label are named after chimeras.
+
+Source: adapted from "Centaur (small Solar System body)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Centaur_%28small_Solar_System_body%29

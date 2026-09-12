@@ -42,3 +42,5 @@ Water from the upper Ural supplies major metallurgical plants in Magnitogorsk an
 
 ## Debates and Open Questions
 The etymology of the river's name is debated, with proposed origins in Turkic, Sarmatian, or Finno-Ugric languages. While the Ural River is the conventional Europe-Asia boundary, some sources occasionally use the shorter Emba River, which would shift the continental border further into Kazakhstan.
+
+Source: adapted from "Ural (river)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ural_%28river%29

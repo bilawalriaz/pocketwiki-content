@@ -64,3 +64,5 @@ Saadi Day is observed annually on 1 Ordibehesht (21 April, 20 April in leap year
 - **Death year**: 1291 (Safa, based on Hamdallah Mustawfi’s *Tarikh-i guzida*, 1330) vs. 1292 (Nafisi); Losensky accepts either, noting year-end death complicates chronicles.
 - **Arabic poetry quality**: Browne calls it average; Musa Anwar rates it respectable but notes grammatical errors.
 - **Bani Adam manuscript variant**: *yekdigar* ("one another") in earliest manuscripts vs. *yek peykar* ("one body") in later editions and most English translations.
+
+Source: adapted from "Saadi Shirazi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saadi_Shirazi

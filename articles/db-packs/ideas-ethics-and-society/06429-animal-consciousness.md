@@ -47,3 +47,5 @@ The New York Declaration on Animal Consciousness (2024), signed by over 500 scie
 Consciousness is not self-awareness: feeling pain does not require passing the mirror test. Consciousness is not language: extended consciousness does not require it. A neocortex is not required: birds and many invertebrates show relevant neural and behavioural markers. The mirror test is vision-biased, so species that rely on other senses need different tests.
 
 The live empirical frontier is where conscious experience falls among invertebrates, fish, and reptiles. Recent declarations have shifted the burden of proof from "demonstrate that this animal is conscious" toward "consider the realistic possibility that it is."
+
+Source: adapted from "Animal consciousness" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Animal_consciousness

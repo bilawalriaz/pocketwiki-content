@@ -55,3 +55,5 @@ The Netherlands has a population of over 18 million, making it one of Europe's m
 - The historical extent of the decline of the Dutch Republic after the Golden Age is debated among historians, with some arguing the decline was overstated, especially before the mid-18th century.
 - The optimal balance between the Netherlands' intensive, export-oriented agricultural sector and the need to reduce nitrogen pollution and meet environmental goals is a major ongoing political and social conflict.
 - The country's role as a "conduit country" for international tax avoidance and its status as a significant tax haven remain subjects of international scrutiny and domestic debate.
+
+Source: adapted from "Netherlands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Netherlands

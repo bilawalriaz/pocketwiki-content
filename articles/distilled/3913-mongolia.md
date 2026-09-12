@@ -46,3 +46,5 @@ The dissolution of the Soviet Union prompted Mongolia's peaceful democratic revo
 *   The etymology of the word "Mongol" is uncertain, with scholarly proposals linking it to the founder of the Rouran Khaganate or other historical terms.
 *   The ethnic origins and classification of the ancient Xiongnu empire, the first major nomadic state in the region, remain debated.
 *   The economic and political challenges of balancing Mongolia's "third neighbor" policy with its deep economic dependence on China and strategic location between Russia and China are ongoing.
+
+Source: adapted from "Mongolia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mongolia

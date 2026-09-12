@@ -43,3 +43,5 @@ The Trưng sisters are central to Vietnamese national identity, symbolizing inde
 - **Fate of the Sisters**: Chinese sources state they were beheaded, while Vietnamese tradition often holds they committed suicide to avoid capture.
 - **Historical Accuracy**: The brevity of Chinese records versus the detailed Vietnamese chronicles leads to debate over the precise events, motivations, and the sisters' exact roles.
 - **Social Implications**: Their leadership is interpreted by some as evidence of a pre-sinicization matriarchal society in Vietnam, though this interpretation is debated.
+
+Source: adapted from "Trưng sisters" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tr%C6%B0ng_sisters

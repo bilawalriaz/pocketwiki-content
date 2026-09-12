@@ -52,3 +52,5 @@ From the 1950s, Ernst lived primarily in France. In 1954, he won the Grand Prize
 - **Authorship in automatic techniques**: Since frottage and grattage rely on chance and material agency, critics question the balance of authorship: does the artist "find" the image or "make" it, and how does this redefine artistic intention?
 - **Influence on Abstract Expressionism**: While Ernst’s presence in New York (1941–1953) is documented as influential, the precise channels of transmission to artists like Jackson Pollock (who saw Ernst’s work at Peggy Guggenheim’s *Art of This Century* gallery) remain a subject of art-historical tracing.
 - **Market and legacy**: The 1954 Venice Biennale Grand Prize sparked debate about whether institutional acceptance domesticated a radically anti-institutional artist, or validated Surrealism’s entry into the canon.
+
+Source: adapted from "Max Ernst" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Max_Ernst

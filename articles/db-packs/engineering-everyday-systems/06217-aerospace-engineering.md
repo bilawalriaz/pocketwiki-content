@@ -31,3 +31,5 @@ These elements were once tested empirically using scale models in wind tunnels; 
 Aerospace engineering is taught at advanced diploma, bachelor's, master's, and doctoral levels, requiring a strong background in physics, chemistry, computer science, and mathematics. A few universities separate aeronautical and astronautical tracks.
 
 The popular phrase "rocket science" is a misnomer. Aerospace engineers are not scientists, and most do not work on rockets; "rocket engineering" would be etymologically correct. The label persists as a synonym for extreme technical difficulty, which is why "It's not rocket science" means a task is straightforward.
+
+Source: adapted from "Aerospace engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aerospace_engineering

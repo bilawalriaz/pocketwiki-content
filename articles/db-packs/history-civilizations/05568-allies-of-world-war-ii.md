@@ -39,3 +39,5 @@ Four former Axis states switched sides in 1943–44, becoming "co-belligerents" 
 ## Legacy: the United Nations
 
 The alliance directly produced the United Nations. The 1942 Declaration was its seed; the 1944 Dumbarton Oaks Conference (US, UK, USSR, China) designed the Security Council; the San Francisco Conference of April–June 1945 produced the Charter, signed by 50 states on 26 June 1945. The five permanent Security Council seats (US, UK, USSR, France, China) reflect the Big Four plus France, rehabilitated after liberation. The wartime coalition thus evolved, within four years, from an improvised military alliance into the permanent framework of the postwar international order.
+
+Source: adapted from "Allies of World War II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Allies_of_World_War_II

@@ -61,3 +61,5 @@ Godard embraced digital video (DV) and later 3D. *Éloge de l'amour* (2001) spli
 - **Political sincerity vs. aestheticization**: Critics debate whether his Maoist films (1968–79) were genuine revolutionary praxis or aestheticized radicalism; Godard later expressed disappointment with Maoist ideals and attempted suicide (per biographer Antoine de Baecque).
 - **Late work: decline or culmination?**: *Histoire(s) du cinéma* and the 3D films are viewed either as hermetic, difficult codas or as the synthesis of his career-long interrogation of image, history, and technology.
 - **Auteur vs. collective authorship**: Godard oscillated between fierce auteurism (1960s) and anonymous collectivity (Dziga Vertov Group), finally settling into a stable collaboration with Miéville; the tension between "Godard the brand" and "Godard the critic" structures his reception.
+
+Source: adapted from "Jean-Luc Godard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean-Luc_Godard

@@ -41,3 +41,5 @@ The period saw a mass migration of Han Chinese to the south, transforming the Ya
 
 ## Debates and open questions
 The source notes that the process of sinicization was accompanied by increasing popularity of Buddhism and Daoism, but does not detail scholarly debates on their precise interplay. It presents the cultural and demographic shifts as established facts rather than contested interpretations.
+
+Source: adapted from "Northern and Southern dynasties" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Northern_and_Southern_dynasties

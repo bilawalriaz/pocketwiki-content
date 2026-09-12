@@ -41,3 +41,5 @@ After the conquest, Spanish authorities exiled dozens of Túpac Amaru's royal de
 
 ## Debates and Open Questions
 The primary debate concerns the legality of Túpac Amaru's execution. One view holds that Viceroy Toledo, by executing a head of state recognized by the Spanish as an independent king, exceeded his authority and committed a crime under Spanish law. The opposing view argues that Túpac Amaru was in rebellion (as his predecessors had allegedly accepted Spanish authority), that Toledo pursued peaceful means first, and that the murder of his ambassadors justified the military response and subsequent trial. King Philip II's disapproval of the execution adds weight to the controversy.
+
+Source: adapted from "Túpac Amaru" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/T%C3%BApac_Amaru

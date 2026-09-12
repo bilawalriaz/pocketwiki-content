@@ -40,3 +40,5 @@ Lyell was a close friend and major influence on Charles Darwin. Darwin took Volu
 - **Lyell's Acceptance of Evolution**: Scholars debate the extent and timing of Lyell's private acceptance of evolution versus his public, often equivocal, statements. His inner struggle between scientific evidence and religious belief is a central theme.
 - **The Anthropocene**: Lyell's creation of the "Recent" epoch for human history is widely cited as providing foundations for the modern debate over formally defining an Anthropocene epoch.
 - **Critique of Catastrophism**: Lyell's strong opposition to catastrophism was pivotal in shifting geological thought, but modern geology recognizes that both gradual processes and rare catastrophic events (like asteroid impacts) shape Earth's history.
+
+Source: adapted from "Charles Lyell" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_Lyell

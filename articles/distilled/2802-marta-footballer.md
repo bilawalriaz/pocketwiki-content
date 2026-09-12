@@ -39,3 +39,5 @@ A short yet sturdy player, Marta is renowned for her quick feet, technical skill
 
 ## Debates and Open Questions
 The source material presents Marta's status as the greatest female footballer of all time as a widely held view ("regarded by many") rather than a settled, objective fact, implying an ongoing debate. Her career is also defined by a series of major tournament final losses (2007 World Cup, 2004, 2008, 2024 Olympics), which contrasts with her immense individual success and club achievements.
+
+Source: adapted from "Marta (footballer)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marta_%28footballer%29

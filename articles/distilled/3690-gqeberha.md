@@ -45,3 +45,5 @@ Located on Algoa Bay, the city has a mild oceanic climate (Cfb) with warm summer
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates, but it notes the city's name change as a significant recent development, reflecting ongoing discussions about colonial heritage and indigenous recognition in South Africa. The historical narrative also touches on the contested processes of racial classification and forced removals under apartheid, which remain subjects of historical and social analysis.
+
+Source: adapted from "Gqeberha" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gqeberha

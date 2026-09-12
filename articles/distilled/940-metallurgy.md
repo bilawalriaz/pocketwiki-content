@@ -60,3 +60,5 @@ Metallography, invented by Henry Clifton Sorby, examines microscopic and macrosc
 
 ## Debates and Open Questions
 The precise beginnings of metallurgy remain unclear, with new archaeological discoveries continuously emerging. The relationship between lead and copper smelting chronologies is debated, as lead artifacts from the 6th millennium BCE in the Near East may predate copper smelting. The extent of technological exchange between early metallurgical centers, such as between the Balkans and the Near East, is not fully understood. The mechanisms behind pattern formation in wootz/Damascus steel continue to be studied, with recent reproduction research highlighting the roles of ore impurities and thermal cycling. The transition from cold to hot metallurgy and its cultural drivers remain topics of ongoing investigation.
+
+Source: adapted from "Metallurgy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metallurgy

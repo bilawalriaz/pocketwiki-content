@@ -45,3 +45,5 @@ The population of about 201,800 (2018 estimate) is predominantly of African and 
 ## Debates and open questions
 *   The exact dates of the initial European discovery are debated, with sources citing 1470, 1471, or 1472 for the different islands.
 *   The long-term economic impact of potential petroleum revenues remains uncertain, with ongoing debates about how to manage and distribute the wealth.
+
+Source: adapted from "São Tomé and Príncipe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe

@@ -45,3 +45,5 @@ Training can be informal (working with a professional) or formal (college, art s
 
 ## Debates and Open Questions
 The source notes that the profession of interior design is still unregulated in the UK, meaning it is not yet officially a profession there. The distinction between interior design and interior decorating remains a point of clarification, with designers handling technical planning and decorators focusing on adornment.
+
+Source: adapted from "Interior design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Interior_design

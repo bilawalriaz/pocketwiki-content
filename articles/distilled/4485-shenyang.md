@@ -41,3 +41,5 @@ Shenyang is a center for scientific research and education, home to universities
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates, but it notes historical complexities such as the city's name changes and the contested nature of its development under foreign influence. The transition from a heavy-industry-dependent economy to a diversified modern one remains an ongoing process.
+
+Source: adapted from "Shenyang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shenyang

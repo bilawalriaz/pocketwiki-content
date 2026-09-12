@@ -35,3 +35,5 @@ A second advance, the **classifier**, arrived in the 1990s. Rather than having a
 ## The Semantic Web
 
 The most recent step has been to apply knowledge-based technology, particularly a family of logic called description logic, to the internet. Web data is large, messy, and unstructured, and benefits from on-demand classification of objects rather than a rigid schema. The resulting vision, the **Semantic Web**, treats web content as machine-meaningful knowledge that can be reasoned over, drawing directly on the classification capability that classifiers brought to knowledge-based systems.
+
+Source: adapted from "Knowledge-based systems" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knowledge-based_systems

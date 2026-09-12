@@ -42,3 +42,5 @@ Moldavian society was hierarchical, with a boyar nobility, free peasants (răze�
 - The ethnic identity of the early medieval Bolohoveni people is debated; Romanian scholars identify them as Vlachs, while archaeological evidence suggests they were Slavic.
 - The exact etymology of the name "Moldavia" is unknown, with multiple competing theories (legendary, Gothic, Slavic, or from a local landowner).
 - The historical population of the principality in the 15th century is estimated broadly between 250,000 and 600,000, as no census was conducted until 1769–1774.
+
+Source: adapted from "Moldavia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moldavia

@@ -43,3 +43,5 @@ With Manuel Sandoval Vallarta, Lemaître demonstrated that cosmic rays are charg
 *   **Interpretation of Einstein's praise:** There is disagreement over whether Einstein's reported 1933 comment—"This is the most beautiful and satisfactory explanation of creation"—referenced Lemaître's entire Big Bang theory or only his hypothesis that cosmic rays were "fossils" of the primeval decay.
 *   **Omission in translation:** The reason Lemaître removed his original estimate of the "Hubble constant" from the 1931 English translation of his 1927 paper remained unclear for decades until clarified in 2011 as a choice to cite Hubble's stronger, more recent data.
 *   **Role of the cosmological constant:** While Lemaître championed a positive Λ, Einstein initially rejected it after abandoning his static universe model. The constant's physical reality as "dark energy" was only confirmed long after both men's deaths.
+
+Source: adapted from "Georges Lemaître" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre

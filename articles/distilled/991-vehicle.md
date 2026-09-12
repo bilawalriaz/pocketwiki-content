@@ -57,3 +57,5 @@ Vehicles are classified internationally: Category M (passengers), N (goods), O (
 - The feasibility of propellers operating in space is questioned, given the near-vacuum environment.
 - Nuclear-powered aircraft experiments (Tupolev Tu-119, Convair X-6) were abandoned due to safety and efficiency concerns.
 - The environmental trade-offs between ICE vehicles and electric vehicles, particularly regarding battery production and disposal, remain contentious.
+
+Source: adapted from "Vehicle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vehicle

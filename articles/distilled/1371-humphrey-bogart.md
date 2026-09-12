@@ -57,3 +57,5 @@ In his later years, Bogart formed Santana Productions and starred in critically 
 - **Casablanca’s Ending**: The final scene of *Casablanca* was rewritten multiple times, with some debate over whether the original ending was more pessimistic.  
 - **The Big Sleep Plot**: The film’s complex narrative has led to ongoing speculation about unresolved plot points, including the identity of the chauffeur’s killer.  
 - **Legacy of *Beat the Devil***: Initially poorly received, the film has gained critical appreciation over time, raising questions about its place in Bogart’s filmography.
+
+Source: adapted from "Humphrey Bogart" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Humphrey_Bogart

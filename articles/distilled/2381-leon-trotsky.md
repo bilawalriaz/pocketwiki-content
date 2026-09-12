@@ -46,3 +46,5 @@ Sentenced to death in absentia during the Moscow show trials, Trotsky lived in T
 *   **Role in Revolutionary Violence:** Trotsky's defense of the Red Terror and the violent suppression of the Kronstadt rebellion remain controversial, with critics arguing these actions laid groundwork for Stalinist totalitarianism.
 *   **Economic Proposals:** Scholars debate the extent to which Stalin's later industrialisation and collectivisation policies appropriated the Left Opposition's earlier proposals, and how Trotsky's planned economy would have differed in practice.
 *   **Political Acumen:** A central debate concerns why Trotsky, despite his prominence, lost the power struggle to Stalin. Explanations range from his alleged lack of political skill and failure to build a power base to objective factors like the party bureaucracy's desire for stability.
+
+Source: adapted from "Leon Trotsky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leon_Trotsky

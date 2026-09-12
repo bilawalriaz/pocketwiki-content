@@ -37,3 +37,5 @@ As one of the Seven Summits, Mount Vinson attracts well-funded climbers, with gu
 
 ## Debates and Open questions
 The source does not detail ongoing scholarly debates. However, it notes that the massif lies within the unrecognized Chilean claim under the Antarctic Treaty System, which suspends territorial claims. The initial 1959 measurement of 5,140 m was later revised by more accurate GPS surveys.
+
+Source: adapted from "Vinson Massif" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vinson_Massif

@@ -31,3 +31,5 @@ Molecular biology then took over. James Watson and Francis Crick's 1953 double-h
 ## Twenty-first century: integration
 
 The boundary between molecular and organismal biology has largely dissolved. Organismal researchers now use molecular tools, while molecular researchers study how genes interact with environment. Genomics, proteomics (large-scale study of proteins), bioinformatics, synthetic biology, and astrobiology have all emerged, driven by cheaper sequencing, better imaging, and large-scale computation. Recombinant DNA technology, first demonstrated in 1972, now underpins mRNA vaccines, gene therapies, and engineered microbes that produce pharmaceuticals and biofuels.
+
+Source: adapted from "History of biology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_biology

@@ -55,3 +55,5 @@ James is a global icon and businessman, becoming the first active NBA player to 
 - **Greatest of All Time (GOAT)**: The central debate of James's legacy is whether he surpasses Michael Jordan as the greatest basketball player. Polls often show a generational divide, with older fans favoring Jordan and younger fans favoring James.
 - **Finals Record**: Critics point to James's 4-6 record in the NBA Finals as a mark against his legacy, while supporters argue his teams were often undermatched and that his individual performances were exceptional.
 - **Impact of "The Decision"**: The manner of his 2010 departure from Cleveland remains a point of criticism, though James later expressed regret. It fundamentally changed how star players approach free agency.
+
+Source: adapted from "LeBron James" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/LeBron_James

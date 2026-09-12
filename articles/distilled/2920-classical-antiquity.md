@@ -45,3 +45,5 @@ The Western Roman Empire weakened due to the crisis of the third century, German
 
 ## Debates and Open Questions
 The precise end of classical antiquity is debated. While 476 AD (fall of the Western Roman Empire) is conventional, scholars also cite 529 AD (closure of the Platonic Academy) or the Muslim conquests of the 7th–8th centuries as more definitive breaks. The transition was a slow, complex socio-economic change, not a single event. The political legacy of the Roman Empire as a universal state continued to influence medieval and early modern Europe, from Charlemagne's coronation as "Roman Emperor" in 800 to the Russian Czars' claim as heirs to Byzantium.
+
+Source: adapted from "Classical antiquity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Classical_antiquity

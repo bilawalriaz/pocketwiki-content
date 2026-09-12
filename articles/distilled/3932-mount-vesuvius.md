@@ -43,3 +43,5 @@ Vesuvius has erupted dozens of times since AD 79. A major eruption in 1631 kille
 - The precise date of the AD 79 eruption is debated, though evidence points to after 17 October.
 - The cause of Pliny the Elder's death is uncertain; while traditionally attributed to toxic gases, it may have been a stroke or heart attack.
 - The timing and triggers for Vesuvius's next major eruption are subjects of ongoing monitoring and scientific modeling.
+
+Source: adapted from "Mount Vesuvius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Vesuvius

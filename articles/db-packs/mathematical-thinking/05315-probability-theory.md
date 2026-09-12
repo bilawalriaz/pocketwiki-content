@@ -39,3 +39,5 @@ Strong convergence implies convergence in probability, which implies convergence
 ## Where the theory reaches
 
 Probability theory underpins statistics, so it shapes any activity that reasons from data. The same machinery describes complex systems known only partially, from statistical mechanics to sequential estimation. Twentieth-century physics revealed that phenomena at atomic scales are themselves probabilistic, though quantum mechanics relies on a different interpretation of probability than the Kolmogorov axioms. The subject's roots lie in Gerolamo Cardano's sixteenth-century analysis of games of chance, the problem of points solved by Pierre de Fermat and Blaise Pascal in the seventeenth century, Christiaan Huygens's 1657 treatise, and Pierre Laplace's classical definition in the nineteenth century.
+
+Source: adapted from "Probability theory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Probability_theory

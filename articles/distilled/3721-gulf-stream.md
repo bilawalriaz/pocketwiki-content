@@ -41,3 +41,5 @@ While the Gulf Stream itself is not projected to collapse even if the Atlantic M
 - The primary debate concerns the future stability of the Gulf Stream and its parent circulation, the AMOC. While the IPCC Sixth Assessment Report concludes the Gulf Stream will not collapse, its projected slowdown and the associated climatic impacts are subjects of intense study.
 - The extent to which the Gulf Stream's recent weakening (as of 2018) is due to natural variability versus anthropogenic climate change is an active area of research.
 - The precise mechanisms and feedbacks linking the Gulf Stream's behavior to regional sea-level rise and extreme weather events in Europe and North America are still being refined.
+
+Source: adapted from "Gulf Stream" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_Stream

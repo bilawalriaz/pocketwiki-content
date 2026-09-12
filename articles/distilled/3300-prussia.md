@@ -45,3 +45,5 @@ The German Revolution of 1918 ended the monarchy. As a "Free State" in the Weima
 - The extent to which Bismarck deliberately planned German unification versus opportunistically exploiting circumstances is debated by historians.
 - The legacy of Prussia is contested: is it primarily defined by militarism and authoritarianism, or also by its traditions of efficient administration, legal reform, and religious tolerance?
 - The international status of Prussia's former eastern territories was disputed until the Treaty on the Final Settlement with Respect to Germany (1990), but their return remains a cause for some German revanchist groups.
+
+Source: adapted from "Prussia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prussia

@@ -60,3 +60,5 @@ State terrorism involves governments using terror tactics, such as massacres or 
 - **Counterterrorism ethics**: Balancing civil liberties with security measures in democratic societies.  
 - **Root causes**: To what extent do poverty, mental illness, or ideology drive individuals to terrorism?  
 - **Media role**: Does media coverage inadvertently encourage terrorism by amplifying messages?
+
+Source: adapted from "Terrorism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Terrorism

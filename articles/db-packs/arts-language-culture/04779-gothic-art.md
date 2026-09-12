@@ -32,3 +32,5 @@ Gothic sculpture moved from the elongated, wall-bound figures of early portals t
 ## Terminology and Its History
 
 The label "Gothic" was coined by Renaissance critics, most notably Giorgio Vasari, who used it as a pejorative meaning "barbaric," associating the style with the Goths blamed for the fall of Rome. Its gradual acceptance as a neutral art-historical term came later. The exact origins of the style remain debated, with proposed roots in Lombard, Frankish, and Norse traditions, and the boundary between late Romanesque and early Gothic painting is blurry, with no clear break, so scholars treat the transition as gradual rather than a sharp starting date.
+
+Source: adapted from "Gothic art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gothic_art

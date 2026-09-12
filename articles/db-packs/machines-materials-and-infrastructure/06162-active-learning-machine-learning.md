@@ -37,3 +37,5 @@ It is hard to predict in advance which strategy fits a given problem, which has 
 ## SVM-based selection: minimum marginal hyperplane
 
 Support-vector machines give a natural selection rule. Each unlabelled point has a margin W, its distance to the SVM's separating hyperplane. Points with the smallest W are the ones the SVM is most uncertain about, so they are the natural candidates for labelling. Symmetric variants pick the largest margins, and trade-off methods mix the two.
+
+Source: adapted from "Active learning (machine learning)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Active_learning_%28machine_learning%29

@@ -32,3 +32,5 @@ The Canadian Shield is one of the world's richest areas for mineral ores, includ
 
 ## Debates and open questions
 The source text does not present specific scholarly debates or open questions about the Canadian Shield.
+
+Source: adapted from "Canadian Shield" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Canadian_Shield

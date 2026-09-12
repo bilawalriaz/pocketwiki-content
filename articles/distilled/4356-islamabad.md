@@ -47,3 +47,5 @@ Islamabad International Airport is Pakistan's largest. Public transport includes
 
 ## Debates and Open Questions
 The source does not detail significant scholarly debates about Islamabad. However, it notes that the city's location is part of the Punjab Province on official maps, despite being a federally administered territory, which implies an administrative nuance. The text also mentions that the capital was not moved directly from Karachi but was first shifted temporarily to Rawalpindi in the early 1960s, highlighting a transitional period in its establishment.
+
+Source: adapted from "Islamabad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Islamabad

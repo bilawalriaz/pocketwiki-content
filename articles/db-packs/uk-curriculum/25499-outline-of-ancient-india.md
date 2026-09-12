@@ -13,3 +13,5 @@ Ancient India spans the Indian subcontinent from prehistoric times to around 500
 **Classical Period (c. 300–550 CE).** The Gupta Empire (c. 320–579 CE) was a major power. Concurrent powers included the Vakataka, Pallava, and Kadamba dynasties in the south.
 
 **Religion and language.** The historical Vedic religion evolved into Hinduism over centuries, but scholars disagree on when. Some place the classical period at 100–1000 CE, others at 200 BCE–1100 CE, still others at 800–200 BCE, when karma, reincarnation, and personal enlightenment emerged. These concepts were absent in early Vedic thought. Jainism and Buddhism also arose as distinct traditions. Languages included Vedic Sanskrit and Old Tamil, written in scripts such as Brahmi, Tamil-Brahmi, and later Pallava and Gupta scripts. Science and technology produced advances in mathematics, astronomy, Ayurveda, and martial arts like Kalaripayattu.
+
+Source: adapted from "Outline of ancient India" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Outline_of_ancient_India

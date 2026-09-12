@@ -40,3 +40,5 @@ Mauritius has transformed from a sugar-based economy to a diversified, high-inco
 - The sovereignty of **Tromelin Island** is disputed between Mauritius and France, as the 1814 Treaty of Paris did not explicitly mention it.
 - The **Chagos Archipelago** sovereignty transfer agreement, signed in 2025, awaits ratification and involves complex arrangements for the Diego Garcia military base.
 - The environmental and ethical impacts of the **biomedical export of macaques** are debated, balancing population control with animal welfare and religious concerns.
+
+Source: adapted from "Mauritius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mauritius

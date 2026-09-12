@@ -41,3 +41,5 @@ The wars were marked by ethnic cleansing and atrocities by all sides. For the Ot
 *   The role of the Great Powers was contradictory; they officially opposed the wars but unofficially pursued conflicting interests, undermining any unified intervention.
 *   Russia's policy was a critical factor: it helped create the Balkan League but then failed to manage the post-war disputes, ultimately losing influence and being drawn into World War I to support Serbia.
 *   The wars are considered by some scholars, like Paul Mojzes, to constitute an "unrecognized genocide" due to the scale of ethnic cleansing and civilian atrocities.
+
+Source: adapted from "Balkan Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Balkan_Wars

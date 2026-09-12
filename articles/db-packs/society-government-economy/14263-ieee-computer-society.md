@@ -27,3 +27,5 @@ Alongside the Association for Computing Machinery (ACM), the society helps shape
 Awards recognize contributions in three categories: Technical, Education, and Service. Examples include the Harry H. Goode Memorial Award and the W. Wallace McDowell Award in the technical category, the Taylor L. Booth Education Award in the education category, and the Richard E. Merwin Award for Distinguished Service in the service category. In 2018, the society itself won a Southern California Journalism Award for "Untold Stories: Setting the Record Straight on Tech's Racial History."
 
 The society's day-to-day effect on computing comes from three channels: the standards its committees publish, the conferences and journals where new research appears, and the curriculum guidance that shapes how university programs train new practitioners.
+
+Source: adapted from "IEEE Computer Society" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/IEEE_Computer_Society

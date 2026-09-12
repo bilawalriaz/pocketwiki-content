@@ -42,3 +42,5 @@ The novel engages with several key social issues. **Feminism** is central, as Ja
 - **Feminist Interpretation**: While seen as a pioneering feminist text, some critics note that Jane's ultimate fulfillment comes through marriage and domesticity, complicating a straightforward feminist reading.
 - **Narrative Reliability**: The close first-person perspective has been criticized for making the reader "too uncritically accepting of her worldview," raising questions about Jane's reliability as a narrator.
 - **The "Gothic Double"**: The relationship between Jane and Bertha is a central scholarly debate, with Bertha often interpreted as Jane's repressed, passionate, and "savage" double.
+
+Source: adapted from "Jane Eyre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jane_Eyre

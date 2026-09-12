@@ -44,3 +44,5 @@ MoMA's collection includes over 200,000 works. Its six curatorial departments ar
 - **Art Repatriation**: The museum continues to be involved in claims for artworks lost during the Holocaust, with cases sometimes settled confidentially, raising questions about transparency and justice.
 - **Architectural Impact**: The demolition of the American Folk Art Museum building in 2014 sparked debate about the balance between institutional expansion and preserving recent architectural heritage.
 - **Collection Integration**: The 2019 renovation's shift from a medium-based to a chronological presentation is a significant curatorial experiment, the long-term impact of which is still being assessed.
+
+Source: adapted from "Museum of Modern Art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Museum_of_Modern_Art

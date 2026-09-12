@@ -52,3 +52,5 @@ Milan's economy is driven by finance, fashion, publishing, and services. It host
 
 ## Debates and Open Questions
 The article does not present explicit scholarly debates, but it notes that the etymology of *Mediolanum* has multiple theories, including one linking it to the "half-woolly sow" emblem. The historical population peak and subsequent decline due to suburbanization is a noted demographic trend.
+
+Source: adapted from "Milan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Milan

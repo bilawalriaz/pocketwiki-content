@@ -48,3 +48,5 @@ In the aftermath, the Iraqi government brutally suppressed Shia and Kurdish upri
 - **Civilian casualties**: Estimates of Iraqi civilian deaths during the war and subsequent uprisings vary widely, from tens of thousands to over 200,000, with studies offering conflicting data on long-term health impacts.
 - **Media and propaganda**: The war's media coverage was tightly controlled by the military. The revelation that key public relations stories, like the "incubator babies" testimony, were fabricated raised questions about the role of propaganda in justifying the conflict.
 - **Strategic decision to stop**: The decision by President George H. W. Bush not to march on Baghdad and overthrow Saddam Hussein is debated, with critics arguing it left a dangerous regime in power and supporters claiming it prevented a costly occupation and preserved the coalition.
+
+Source: adapted from "Gulf War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_War

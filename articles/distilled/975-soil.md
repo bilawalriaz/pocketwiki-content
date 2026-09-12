@@ -62,3 +62,5 @@ Soil supports 98.8% of human food production and underpins construction, mining,
 - **Peatland climate impact**: Field-scale studies question whether rewetting peatlands consistently reduces greenhouse gas emissions or may enhance them under certain conditions.
 - **Biochar safety**: Uncontrolled application of charred waste products risks harming soil biota and human health, despite benefits in nutrient-poor tropical soils.
 - **Microplastic fate**: The extent and consequences of microplastic accumulation in agricultural soils from sewage sludge and irrigation remain poorly understood.
+
+Source: adapted from "Soil" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Soil

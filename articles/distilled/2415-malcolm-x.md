@@ -45,3 +45,5 @@ On February 21, 1965, Malcolm X was assassinated while speaking in New York's Au
 - **Responsibility for his assassination:** While three men were convicted, questions persist about the full extent of involvement by the Nation of Islam, the FBI, or the NYPD, especially after the 2021 vacating of two convictions.
 - **Evolution of his views:** Scholars debate the depth and consistency of his ideological shift from racial separatism to a more inclusive human rights perspective in his final year.
 - **Allegations of bisexuality:** Based on biographer Manning Marable's work, some historians claim Malcolm X had early homosexual encounters, a claim his family vehemently rejects.
+
+Source: adapted from "Malcolm X" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Malcolm_X

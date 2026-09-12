@@ -42,3 +42,5 @@ Following his father Shah Rukh's death in 1447, Ulugh Beg entered a war of succe
 
 ## Debates and Open Questions
 The source notes that Ulugh Beg's scientific expertise was not matched by his political skill, leading to his downfall. It also highlights his discovery of "multiple mistakes" in the long-accepted astronomical data of Ptolemy, which motivated his independent work. The relative accuracy of his tropical year measurement compared to later estimates by Copernicus is a point of scholarly interest.
+
+Source: adapted from "Ulugh Beg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ulugh_Beg

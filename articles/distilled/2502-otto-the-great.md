@@ -47,3 +47,5 @@ Otto's reign fostered the "Ottonian Renaissance," a revival of arts and learning
 - **Nature of Rule:** Historians debate whether Otto I was primarily an autocratic ruler who subjugated the nobility or a consensus-builder who worked within the existing political structures of medieval Europe.
 - **Imperial Administration:** Scholars question the effectiveness of the Ottonian imperial church system and the extent to which the empire functioned as a centralized state versus a confederacy of powerful duchies.
 - **Byzantine Relations:** The exact terms and implications of the 972 peace with Byzantium, particularly regarding southern Italy, remain a subject of analysis.
+
+Source: adapted from "Otto the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Otto_the_Great

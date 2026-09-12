@@ -39,3 +39,5 @@ The Pact began to unravel with the spread of the 1989 Revolutions in Eastern Eur
 *   **Was the Pact "superfluous"?** Given the USSR's existing political and military domination of Eastern Europe by 1955, some historians and NATO officials considered the formal treaty redundant, labeling it a "cardboard castle."
 *   **Romania's Independence:** Scholars debate whether Romania's relationship with the Soviet Union is best described as "independent" or "autonomous," given its continued membership in the Pact and Comecon, though its actions consistently defied Soviet directives.
 *   **Soviet Intentions:** The true nature of Soviet proposals to join NATO in 1954 remains debated—whether they were a serious attempt at collective security or a diplomatic maneuver to undermine Western unity.
+
+Source: adapted from "Warsaw Pact" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Warsaw_Pact

@@ -45,3 +45,5 @@ From the 18th century, the Mutapa state fragmented. Succession wars between the 
 - **Succession System**: While theoretically adelphic (rotating among brothers), the practical reality was frequent violent conflict, which scholars like Stan Mudenge have quantified.
 - **Rozvi Origins**: There is scholarly disagreement on whether Changamire Dombo, founder of the Rozvi Empire, descended from the earlier Changamire I.
 - **Impact of Portuguese Contact**: Historians debate the degree to which Portuguese trade and intervention caused the empire's decline versus internal factors like succession disputes.
+
+Source: adapted from "Mutapa Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mutapa_Empire

@@ -65,3 +65,5 @@ In democracies, the military is a public force; support varies by threat percept
 *   **Transparency vs. secrecy:** Public oversight requirements conflict with operational secrecy needs for intelligence and capability.
 *   **Autonomous weapons:** Growing role of robotic systems (UAVs/UGVs) and information warfare raises unresolved ethical and legal questions.
 *   **Militarism vs. soft power:** Societal debate on whether security is best served by military culture/capability (hard power) or diplomatic/economic influence (soft power).
+
+Source: adapted from "Military" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Military

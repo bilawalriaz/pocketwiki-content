@@ -53,3 +53,5 @@ A widely held belief, "time diversification", holds that younger investors shoul
 ## Historical antecedents
 
 Diversification appears in Ecclesiastes (c. 935 BC): "divide your investments among many places, for you do not know what risks might lie ahead." The Talmud recommends splitting wealth into thirds (business, liquid reserves, land), now called naive or 1/n diversification, and studied as a benchmark since around 2000. Shakespeare's Merchant of Venice (c. 1599) makes the same point. Modern portfolio theory began with Harry Markowitz in the 1950s. John Maynard Keynes, managing King's College, Cambridge from the 1920s until 1946, anticipated the idea by pairing assets with opposed risks and holding up to 75% of the endowment in non-UK stocks, an early instance of international diversification.
+
+Source: adapted from "Diversification (finance)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diversification_%28finance%29

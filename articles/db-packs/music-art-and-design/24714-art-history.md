@@ -29,3 +29,5 @@ Where the 19th-century discipline was Eurocentric and limited to Western fine an
 ## Institutional life
 
 Museums, galleries, and archives employ art historians as curators, registrars, and researchers. In the United States, the **College Art Association** runs an annual conference and publishes *Art Bulletin* and *Art Journal*; in the United Kingdom, the **Association of Art Historians** publishes *Art History*. Museum studies, including the history of collecting and display, has become a specialization in its own right.
+
+Source: adapted from "Art history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Art_history

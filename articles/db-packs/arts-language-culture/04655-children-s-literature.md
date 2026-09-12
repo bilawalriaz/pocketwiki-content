@@ -29,3 +29,5 @@ First, representation. Studies of the US and UK markets show that male character
 Second, the colonial past. Scholars examine imperialism and racism in classic characters such as *Babar* and *Curious George*, and weigh whether to alter, contextualize, or preserve such content in new editions of older works like *The Secret Garden* or *Pippi Longstocking*.
 
 Third, the field's boundaries. Crossover hits like *Harry Potter*, *The Hobbit* (1937), and the *Narnia* series (begun 1950) are read voraciously by adults, raising the question of whether "children's literature" is a marketing label, a developmental category, or a tradition in its own right. Underlying all three debates is an empirical claim the field takes seriously: books read in childhood measurably affect language, cognitive, social, and emotional development, which is why the content of these books is treated as a serious cultural and political matter.
+
+Source: adapted from "Children's literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Children%27s_literature

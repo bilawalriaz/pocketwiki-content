@@ -48,3 +48,5 @@ Cyril died in 444, but the theological disputes continued through the Robber Syn
 - **Extent of Jewish expulsion**: Socrates claims all Jews were banished, while John of Nikiû suggests only those involved in the massacre were exiled.
 - **Nature of Cyril’s Christology**: His formula “one physis” is interpreted variously as monophysite, miaphysite, or a unique expression of Chalcedonian orthodoxy.
 - **Responsibility for posthumous controversies**: Whether Cyril’s theology led inevitably to the Monophysite schism remains debated among historians and theologians.
+
+Source: adapted from "Cyril of Alexandria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cyril_of_Alexandria

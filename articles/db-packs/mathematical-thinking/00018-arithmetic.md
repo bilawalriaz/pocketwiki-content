@@ -35,3 +35,5 @@ Elementary education builds number sense through concrete tools (beads, number l
 ## Open questions
 
 The boundaries of "arithmetic" remain contested. Whether the Lebombo and Ishango bones are truly arithmetic artifacts, and whether number sense predates language, are unresolved. The deepest debates concern the nature of numbers and how arithmetic knowledge is possible.
+
+Source: adapted from "Arithmetic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arithmetic

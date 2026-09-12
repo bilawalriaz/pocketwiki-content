@@ -44,3 +44,5 @@ The forest has been used for centuries for agriculture, aquaculture, and timber.
 - The exact origin of the name "Sundarbans" is debated, with theories ranging from "beautiful forest" to a corruption of "Samudraban" (Sea Forest).
 - The impact of the Rampal Power Station on the forest's ecology is a point of contention between environmental activists and the government of Bangladesh.
 - The precise rate and future impact of sea-level rise on the Sundarbans ecosystem remain subjects of ongoing study and concern.
+
+Source: adapted from "Sundarbans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sundarbans

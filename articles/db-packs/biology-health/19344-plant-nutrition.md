@@ -58,3 +58,5 @@ Nitrogen deficiency is the most common: stunted growth, pale chlorosis, and purp
 Because the essential elements are known, plants can be grown without soil in a nutrient solution. The standard formula is Hoagland solution, which supplies all 17 elements in the correct ratios. In the nutrient film technique, a thin layer of aerated solution flows past the roots, preventing hypoxia, which would otherwise shut down root respiration and block nutrient uptake.
 
 Boron illustrates how narrow the safe range can be. Below 1 ppm in soil solution causes deficiency; above 1 ppm is toxic to most plants, though boron-tolerant crops such as sugar beet tolerate up to 200 ppm. Excess boron is leached by irrigation combined with sulphur to lower soil pH.
+
+Source: adapted from "Plant nutrition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_nutrition

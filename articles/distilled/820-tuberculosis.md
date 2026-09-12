@@ -80,3 +80,5 @@ Zoonotic TB (*M. bovis*) affects cattle and wildlife. Reverse zoonosis has been 
 - **Latent TB Treatment**: Optimal duration and candidates remain debated.  
 - **Global Targets**: End TB milestones largely unmet; funding and equity gaps persist.  
 - **Zoonotic Transmission**: Role of *M. bovis* in human disease understudied in many regions.
+
+Source: adapted from "Tuberculosis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tuberculosis

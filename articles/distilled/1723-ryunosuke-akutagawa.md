@@ -64,3 +64,5 @@ Critical interpretation has shifted dramatically:
 *   **Madness: Pathology or Epistemology?** Early critics read his suicide and hallucinations as hereditary insanity (mother Fuku) or bourgeois decay. Later scholarship frames his "vague unease" as a philosophical crisis—the collapse of the knowing subject—making his madness inseparable from his epistemological project.
 *   **China Trip Impact:** The 1921 journey is agreed to have ruined his health, but scholars debate whether it triggered his disillusionment with modernity/civilization or merely accelerated an existing trajectory.
 *   **Universality vs. Appropriation:** Akutagawa claimed literature should transcend borders by freely rewriting global sources. Critics debate whether this synthesizes a genuine universal humanism or reflects a colonial-era Japanese intellectual's selective, imaginative consumption of "China" and "West."
+
+Source: adapted from "Ryūnosuke Akutagawa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ry%C5%ABnosuke_Akutagawa

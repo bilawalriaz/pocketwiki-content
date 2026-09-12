@@ -47,3 +47,5 @@ Coimbatore is well-connected by air (Coimbatore International Airport), rail (Co
 - The etymology of "Coimbatore" is debated, with theories linking it to chieftain Kovan/Koyan or goddess Kovaiamma.
 - The city faces ongoing environmental challenges, including air pollution, inadequate waste management, and degradation of water bodies like the Noyyal River and urban tanks.
 - Proposals for a metro rail system have been discussed and shelved multiple times, with feasibility studies completed in 2021 for five corridors.
+
+Source: adapted from "Coimbatore" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Coimbatore

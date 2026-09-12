@@ -67,3 +67,5 @@ Khusrau wrote primarily in Persian but used the term *Hindavī* (“of Hind/Indi
 - **Invention of six musical forms (*qaul, qalbana, naqsh, gul, tarāna, khyāl*):** Musicians credit Khusrau, but the source notes “insufficient evidence for this.”
 - **Shalimar verse provenance:** Popular tradition ascribes the “paradise on earth” couplet to Khusrau in Kashmir; scholarship (Rana Safvi) assigns it to Sa‘adullah Khan under Shāh Jahān.
 - **Extent of ‘Alā’ ud-Dīn’s patronage:** Baranī claims the Sultan undervalued Khusrau (1,000 *tankas* only), while Khusrau’s own panegyrics describe lavish rewards; the discrepancy remains unresolved.
+
+Source: adapted from "Amir Khusrau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amir_Khusrau

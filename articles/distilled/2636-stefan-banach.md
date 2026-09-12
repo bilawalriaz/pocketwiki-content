@@ -41,3 +41,5 @@ Banach's primary contribution was the rigorous, axiomatic foundation of function
 
 ## Debates and Open Questions
 The source notes that the naming of Banach spaces was not immediate; they were briefly called "Banach–Wiener" spaces, but the name "Banach spaces" became standard due to the limited scope of Norbert Wiener's work on the topic. The development of the theory had antecedents in the work of Frigyes Riesz and contemporaneous contributions from Hans Hahn and Norbert Wiener.
+
+Source: adapted from "Stefan Banach" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stefan_Banach

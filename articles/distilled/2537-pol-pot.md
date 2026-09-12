@@ -48,3 +48,5 @@ Following the end of the Cold War and UN-brokered peace talks, the Khmer Rouge f
 *   **Ideological Deviation:** Scholars debate whether Pol Pot's ideology was a genuine, if extreme, form of Maoism or a unique, xenophobic Khmer nationalism with only a "thin Marxist veneer."
 *   **International Complicity:** The extent to which foreign powers, particularly China and the United States, supported the Khmer Rouge during and after its rule for strategic reasons remains a significant historical and ethical question.
 *   **Personal Responsibility:** While Pol Pot was the undisputed leader, the degree to which he directly ordered specific atrocities versus the autonomous violence of local cadres is analyzed by historians.
+
+Source: adapted from "Pol Pot" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pol_Pot

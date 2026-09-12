@@ -52,3 +52,5 @@ The identity of the informant who betrayed the Secret Annex remains disputed. Va
 - In 2018, another theory implicated Ans van Dijk, a Dutch Jew who collaborated with the Gestapo and betrayed at least 145 people.
 - In 2022, a controversial investigation led by former FBI agent Vince Pankoke named Arnold van den Bergh, a member of Amsterdam’s Jewish Council, as the suspected informant. However, historians criticized the methodology and sources, leading to retractions and scholarly rejection of the claim.
 Despite numerous investigations, no definitive proof has confirmed any single informant.
+
+Source: adapted from "Anne Frank" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anne_Frank

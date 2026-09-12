@@ -55,3 +55,5 @@ Giacometti died in 1966 in Chur. His widow Annette became sole rights holder, co
 - **Etruscan influence**: The extent to which Etruscan bronzes directly shaped his attenuated forms versus serving as a retrospective affinity remains under discussion.
 - **Market vs. scholarship**: Record auction prices ($141.3M for *L’Homme au doigt*) raise questions about whether market narratives overshadow art-historical analysis of his painting, drawing, and printmaking.
 - **Authenticity and forgeries**: The high value of his work fuels a persistent market in fakes; the Fondation’s authentication efforts (and the 2007 conviction of Roland Dumas and Jacques Tajan) highlight ongoing provenance challenges.
+
+Source: adapted from "Alberto Giacometti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alberto_Giacometti

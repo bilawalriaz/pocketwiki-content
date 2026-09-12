@@ -42,3 +42,5 @@ Clovis died in 511 and was buried in Paris, giving the city symbolic importance.
 - **Motives for Conversion**: Scholars debate whether Clovis's conversion was primarily a sincere spiritual decision, a calculated political move to gain Gallo-Roman support, or a combination of both.
 - **Historical Sources**: The primary source for Clovis's life is Gregory of Tours, writing in the late 6th century. His chronology is often considered fabricated or schematic, creating uncertainty about precise dates and events.
 - **Veneration as a Saint**: Clovis was popularly venerated as a saint in France, particularly in the south, but was never formally canonized by the Pope. The reasons for his cult's promotion and its political uses by later French monarchs are subjects of historical analysis.
+
+Source: adapted from "Clovis I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clovis_I

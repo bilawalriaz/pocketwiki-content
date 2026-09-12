@@ -49,3 +49,5 @@ where $\phi(\eta,\kappa)=0$ if $\kappa$ divides $\eta$, and otherwise $\phi(\eta
 ## Historical note
 
 The pairwise-summation trick behind the series formula is older than the often-repeated primary-school anecdote about Gauss. Similar rules appear in the work of Archimedes, Hypsicles, and Diophantus, with Zhang Qiujian in China, Aryabhata, Brahmagupta, and Bhaskara II in India, Alcuin, Dicuil, Fibonacci, and Sacrobosco in medieval Europe, and in Tosafist commentary on the Talmud, with the Pythagoreans of the 5th century BC as a likely earlier source.
+
+Source: adapted from "Arithmetic progression" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arithmetic_progression

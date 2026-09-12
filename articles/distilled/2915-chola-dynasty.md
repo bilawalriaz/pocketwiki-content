@@ -41,3 +41,5 @@ The Chola administration was highly organized, with their territory centered on 
 - The internal chronology and succession of the Early Chola kings from Sangam literature is "still far from settled."
 - The exact nature and duration of the Chola interregnum are not well-documented, with little known about the dynasty's fate between c. 300 and 848 CE.
 - There is a modern popular culture debate, noted in the source, where some Tamil film personalities have asserted that the Cholas were not Hindu, a claim that contrasts with the historical record of their Hindu patronage and temple construction.
+
+Source: adapted from "Chola dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chola_dynasty

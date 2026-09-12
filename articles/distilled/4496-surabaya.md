@@ -45,3 +45,5 @@ The population is predominantly Javanese (83%), with significant Madurese (7%) a
 ## Debates and Open Questions
 - The exact origin of the name "Surabaya" is debated, with multiple folk etymologies and a prophecy linked to a battle between a shark and crocodile, which is interpreted by some as foretelling the 1293 Mongol invasion or the 1945 independence war.
 - The definition of Surabaya's metropolitan area varies among sources (e.g., OECD, UN, Indonesian government), leading to differing population estimates ranging from approximately 6.8 million to over 12 million.
+
+Source: adapted from "Surabaya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Surabaya

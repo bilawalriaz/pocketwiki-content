@@ -48,3 +48,5 @@ Heterotrophs cannot grow on CO₂ alone, but several still incorporate it. Pyruv
 ## Carbon fixation in soils
 
 Soil bacteria and fungi fix and sequester carbon as they decompose organic matter. They incorporate carbon into microbial biomass and produce extracellular polymers and enzymes that bind soil particles into aggregates, protecting organic carbon from further decomposition. These aggregates accumulate over centuries to millennia as soil organic matter, a long-term carbon reservoir that improves soil fertility, water retention, and nutrient cycling while offsetting atmospheric CO₂.
+
+Source: adapted from "Biological carbon fixation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_carbon_fixation

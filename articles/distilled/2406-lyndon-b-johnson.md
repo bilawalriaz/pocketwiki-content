@@ -51,3 +51,5 @@ After Johnson withdrew, Vice President Hubert Humphrey won the Democratic nomina
 *   **Legacy Assessment:** Historians consistently rank Johnson highly for his transformative domestic achievements but heavily criticize his foreign policy, particularly the escalation of the Vietnam War. His overall legacy remains deeply contested.
 *   **Vietnam War Decision-Making:** Scholars debate the precise factors behind Johnson's decision to escalate the war, including his fear of appearing weak on communism, his trust in military advisors, and the political pressure he felt.
 *   **1968 Withdrawal:** Historians have debated the primary reasons for Johnson's surprise decision not to seek re-election, citing factors like his declining popularity, health concerns, a desire to heal the nation, and the influence of the Tet Offensive.
+
+Source: adapted from "Lyndon B. Johnson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lyndon_B._Johnson

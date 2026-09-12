@@ -45,3 +45,5 @@ Music preference is influenced by social identity and personality; for example, 
 - The boundaries between major categories like "art music" and "popular music" are often blurred (e.g., minimalist music, film scores).
 - The subjective and controversial nature of genre classification means categories can overlap and are constantly evolving as novel music is created.
 - The role of technology (e.g., sound recording, digital distribution) in creating new genres and altering traditional transmission methods is a key area of study.
+
+Source: adapted from "Music genre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Music_genre

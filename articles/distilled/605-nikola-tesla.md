@@ -67,3 +67,5 @@ Several aspects of Tesla’s life and work remain debated:
 - **Death Ray Feasibility:** While Tesla described a defensive particle beam weapon, modern physicists consider such technology impractical given the energy requirements.
 - **Patent Priority in Radio:** Tesla’s wireless tuning patents were posthumously recognized by the U.S. Supreme Court in 1943, though Marconi is often credited with inventing radio.
 - **Relationship with Mark Twain:** Their friendship is well-documented, but the depth of their collaboration on scientific ideas is sometimes exaggerated in popular culture.
+
+Source: adapted from "Nikola Tesla" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nikola_Tesla

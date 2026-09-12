@@ -47,3 +47,5 @@ Florida's government has three branches. It is a major political swing state, th
 - **Historical Interpretation:** Historians debate the primary causes of the Seminole Wars, with traditional views emphasizing Seminole raids and slave havens, while more recent scholarship highlights U.S. settler pressure on Seminole lands.
 - **Political Status:** Following the 2022 elections, pundits debate whether Florida has shifted from a perennial swing state to a reliably Republican "red" state.
 - **Environmental Threats:** The long-term impact of climate change, including sea-level rise and coral bleaching, on Florida's ecosystems and economy is a critical ongoing concern.
+
+Source: adapted from "Florida" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Florida

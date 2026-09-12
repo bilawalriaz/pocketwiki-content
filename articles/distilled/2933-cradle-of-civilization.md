@@ -59,3 +59,5 @@ The Olmec civilization, considered the "mother culture" of Mesoamerica, emerged 
 - **Olmec as "Mother Culture"**: The degree and nature of Olmec influence on subsequent Mesoamerican civilizations is a long-standing scholarly debate.
 - **Caral–Supe Economy**: The extent to which the Caral–Supe civilization depended on maritime resources versus agriculture remains hotly debated.
 - **Xia Dynasty**: Whether the Erlitou archaeological culture corresponds to the semi-legendary Xia dynasty of Chinese historical records is unresolved.
+
+Source: adapted from "Cradle of civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cradle_of_civilization

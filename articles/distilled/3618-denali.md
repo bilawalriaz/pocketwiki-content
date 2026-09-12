@@ -40,3 +40,5 @@ A weather station at 19,000 feet (5,800 m) is the third-highest in the world. It
 
 ## Debates and Open Questions
 The primary ongoing debate concerns the mountain's official name. While the federal name was changed to Denali in 2015, it was reverted to Mount McKinley in 2025. This decision has been criticized by Alaska's political leaders, who prefer Denali. The historical climbing record also contains controversies, most notably the unverified 1906 ascent claim by Frederick Cook and the disputed 1910 "Sourdough Expedition" claim to have reached the North Summit.
+
+Source: adapted from "Denali" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Denali

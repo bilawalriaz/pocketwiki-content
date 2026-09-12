@@ -52,3 +52,5 @@ A new government, the Islamic Republic of Afghanistan, was established under Ham
 - The founder of the first modern Afghan state is disputed: some credit Ahmad Shah Durrani (1747), while others point to Dost Mohammad Khan.
 - The international community's policy toward the unrecognized Taliban government, particularly regarding women's rights and aid, is a major ongoing dilemma.
 - The long-term viability of the Taliban's ban on opium cultivation, which reduced production by over 95% by 2023, and its economic and social consequences are uncertain.
+
+Source: adapted from "Afghanistan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Afghanistan

@@ -90,3 +90,5 @@ wedging its two columns gives −13 e₁∧e₂ − 7 e₁∧e₃ + 5 e₂∧e�
 ## A note on terminology
 
 Some older books call a cofactor an **adjunct**, written Aᵢⱼ = (−1)^(i+j) Mᵢⱼ. The **adjugate** (transpose of the cofactor matrix) and the **adjoint** (usually a linear-operator concept) are different things and should not be confused with adjunct.
+
+Source: adapted from "Minor (linear algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Minor_%28linear_algebra%29

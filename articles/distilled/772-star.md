@@ -46,3 +46,5 @@ Stars form in groups within galaxies; most are in binary or multiple systems. Bi
 
 ## Debates and Open Questions  
 The role of binary interactions in massive star evolution remains disputed: some argue single-star models cannot explain observed populations of luminous blue variables and Wolf–Rayet stars, while others propose mass transfer in binaries as the key mechanism. The exact upper mass limit for star formation (~150 M☉) is uncertain, with some observations suggesting mergers in dense clusters may bypass this limit. The nature of Population III stars—the first generation after the Big Bang—is still being investigated, with recent evidence pointing to their existence in high-redshift galaxies. Whether all stars initially form as binaries is debated, though recent studies of star-forming regions suggest a high binary fraction.
+
+Source: adapted from "Star" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Star

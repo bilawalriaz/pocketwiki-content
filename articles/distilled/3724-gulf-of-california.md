@@ -43,3 +43,5 @@ Coastal communities are highly reliant on commercial and sport fishing. However,
 - The gulf's ability to recuperate after years of overfishing remains uncertain, with data varying widely by species.
 - The impacts of the Mexican government's macro-level tourist development vision for the gulf on local ecology and society are uncertain.
 - The existence of a giant creature known as the "Black Demon" is alleged by locals but is not scientifically verified.
+
+Source: adapted from "Gulf of California" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_of_California

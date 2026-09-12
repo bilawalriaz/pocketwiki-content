@@ -37,3 +37,5 @@ Religion centred on peak sanctuaries and sacred caves, with a likely pantheon he
 Around 1450 BC widespread destructions ended the Neopalatial order. Mycenaean Greeks then took control of Crete, producing a hybrid Minoan-Mycenaean culture that lasted until the broader Late Bronze Age collapse around 1100 BC. The civilisation was forgotten until archaeologists rediscovered it in the early twentieth century. Genetic studies show that Bronze Age Minoans resembled earlier Neolithic Europeans, and that modern Cretans are genetically similar to them, despite Mycenaean rule and later migrations.
 
 Open questions cluster around the same gap: without deciphered texts, scholars cannot determine the political structure, the precise function of the palaces, the family of the Minoan language, the reality behind the "Minoan peace", or whether the c. 1450 BC destructions were Mycenaean conquest, internal revolt, or natural disaster.
+
+Source: adapted from "Minoan civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Minoan_civilization

@@ -43,3 +43,5 @@ As a regional business center, Palembang's economy relies on manufacturing, cons
 ## Debates and Open Questions
 - The exact founding date and early political structure of Srivijaya, the kingdom for which Palembang was the capital, remains a subject of scholarly debate, with inscriptions like the Kedukan Bukit providing key but debated evidence.
 - The etymology of the name "Palembang" has multiple proposed origins, including from Malay words meaning "a place to pan gold" or "a place which was constantly inundated by water."
+
+Source: adapted from "Palembang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Palembang

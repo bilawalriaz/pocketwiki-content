@@ -32,3 +32,5 @@ Ramkhamhaeng fostered trade with Yuan China, which led to the importation of cer
 ## Debates and Open questions
 - The exact date of Ramkhamhaeng's death is debated. The Chinese *History of Yuan* records 1298, but historian George Cœdès suggests it was "more probable" it occurred "shortly before 1318."
 - The traditional narrative of his vast empire is interpreted by scholars within the flexible "mandala" model, questioning the extent of direct control versus spheres of influence.
+
+Source: adapted from "Ramkhamhaeng" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ramkhamhaeng

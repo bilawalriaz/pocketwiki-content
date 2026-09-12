@@ -98,3 +98,5 @@ Ancient Egypt (kyphi) → Hippocrates (naming) → Maimonides (12th C, environme
 *   **PRS clinical utility:** Polygenic scores stratify risk in research but lack validation for routine screening or treatment selection.
 *   **Bronchial thermoplasty / OCS-sparing:** Long-term safety/efficacy of thermoplasty debated; optimal biologic sequencing and OCS withdrawal protocols in severe asthma unresolved.
 *   **Global mortality disparity:** >80% deaths in LMICs; extent due to underdiagnosis, undertreatment (ICS access), pollution, or phenotype differences unclear.
+
+Source: adapted from "Asthma" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Asthma

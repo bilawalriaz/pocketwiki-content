@@ -55,3 +55,5 @@ Bhutan's population is primarily composed of the Ngalop and Sharchop ethnic grou
 - The abandonment of the Gross National Happiness framework in 2022 in favor of GDP has sparked debate about Bhutan's development path and the balance between economic growth and its traditional values.
 - The ongoing border dispute with China over approximately 269 square kilometers of territory is a key foreign policy challenge.
 - The mass emigration of over 50,000 young people since the pandemic raises questions about Bhutan's economic future and social stability.
+
+Source: adapted from "Bhutan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bhutan

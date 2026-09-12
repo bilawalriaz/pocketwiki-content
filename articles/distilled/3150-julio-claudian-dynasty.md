@@ -52,3 +52,5 @@ Despite the fall of the dynasty, Augustus's bloodline survived. Through his gran
 *   The exact circumstances of several imperial deaths are debated, including whether Tiberius was smothered, if Claudius was poisoned by Agrippina, and the motivations behind Caligula's assassination (personal vs. republican).
 *   The role and ambition of figures like Sejanus and Agrippina the Younger are subjects of historical interpretation, with ancient sources often being hostile.
 *   The degree to which Nero was responsible for the Great Fire of Rome remains a point of contention, with ancient accounts varying.
+
+Source: adapted from "Julio-Claudian dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Julio-Claudian_dynasty

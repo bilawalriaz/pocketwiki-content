@@ -45,3 +45,5 @@ The modern city has expanded to include Elephantine Island. Its economy relies o
 
 ## Debates and Open Questions
 The source material does not present explicit scholarly debates. However, it notes that the origin of Aswan's ancient name is attributed to multiple possibilities (a goddess, a trade symbol), indicating a point of historical interpretation. The precise dating and interpretation of newly discovered artifacts, such as the underwater carvings from 2024, are subjects of ongoing research that may shed new light on political and religious practices in southern Egypt.
+
+Source: adapted from "Aswan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aswan

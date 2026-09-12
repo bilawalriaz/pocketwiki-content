@@ -33,3 +33,5 @@ Continental philosophy, rooted in German idealism and Husserl's phenomenology (t
 ## Enduring debates
 
 Several unresolved questions run through the entire tradition. The mind-body problem asks how conscious experience relates to physical processes; physicalists, dualists, and panpsychists still disagree. Free will versus determinism pits moral responsibility against a causally closed universe. Epistemology debates internalism (justification is internal to the thinker) against externalism (it depends on reliable connection to the world). Moral philosophy cannot settle whether values are objective. Political philosophy continues to argue about justice, rights, and the legitimate role of the state. The analytic-continental divide still shapes which questions count as central and which methods are acceptable.
+
+Source: adapted from "Western philosophy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_philosophy

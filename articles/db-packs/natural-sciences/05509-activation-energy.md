@@ -37,3 +37,5 @@ Some reactions slow down as temperature rises, giving a fitted Eₐ below zero. 
 **Multistep reactions** can also show an apparent negative Eₐ. If a rapid pre-equilibrium (an initial fast step that settles into a balance between reactants and an intermediate) whose constant drops sharply with T precedes a slow step, the drop in the equilibrium concentration of the intermediate can outweigh the speeding-up of the slow step, and the overall rate falls with T. The termolecular oxidation 2 NO + O₂ → 2 NO₂ is one example, with rate law v = k[NO]²[O₂] and a negative Eₐ, explained by the two-step mechanism 2 NO ⇌ N₂O₂ followed by N₂O₂ + O₂ → 2 NO₂.
 
 Cationic chain-growth polymerisations can also show a negative overall Eₐ = Eᵢ + Eₚ − Eₜ. Because the propagation step has a very small Eₐ of its own, the overall value becomes negative when the termination step has a larger Eₐ than initiation; typical values lie between 40 and 60 kJ/mol.
+
+Source: adapted from "Activation energy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Activation_energy

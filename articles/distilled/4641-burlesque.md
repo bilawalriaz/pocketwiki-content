@@ -38,3 +38,5 @@ American burlesque, an offshoot of the Victorian genre, incorporated elements of
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes that the term "burlesque" has been applied retrospectively to works from Chaucer to Graeco-Roman classics, implying ongoing discussion about the genre's historical boundaries. The transition from literary burlesque to the American variety show format also represents a significant, and perhaps contested, evolution in the term's meaning.
+
+Source: adapted from "Burlesque" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Burlesque

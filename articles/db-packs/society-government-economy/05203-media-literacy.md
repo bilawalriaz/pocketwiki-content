@@ -42,3 +42,5 @@ A meta-analysis of more than 50 studies, published in the *Journal of Communicat
 ## Where the field falls short
 
 Two foundational 21st-century texts, James Potter's and Stanley Baran's, do not address emerging concerns such as post-truth discourse, mob censorship, or the role of artificial intelligence in producing and spreading information. Media-literacy research has struggled to keep pace with the migration of audiences to digital platforms, leaving a gap between the problems citizens now face and the frameworks still taught in many classrooms.
+
+Source: adapted from "Media literacy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Media_literacy

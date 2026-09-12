@@ -46,3 +46,5 @@ Internal conflicts and a catastrophic defeat by the Aq Qoyunlu in 1467 led to th
 - **Religious Affiliation**: Scholars debate the sincerity of the Qara Qoyunlu rulers' Shia Islam. While they promoted it, some rulers minted coins with the names of the four caliphs (rejected by Shia), and contemporary rival sources do not note Shia inclinations.
 - **Ethnic and Linguistic Impact**: The dynasty's rule accelerated the Turkicization of Azerbaijan and parts of Fars, but the exact nature and pace of this process is a subject of historical study.
 - **Cultural Patronage**: The relative artistic contributions of Jahan Shah versus his son Pir Budaq are distinguished, with Pir Budaq being noted as a more active patron of refined manuscripts.
+
+Source: adapted from "Qara Qoyunlu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Qara_Qoyunlu

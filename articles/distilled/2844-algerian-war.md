@@ -45,3 +45,5 @@ After failed coups and negotiations, the Évian Accords were signed in March 196
 - **Use of Torture:** France officially acknowledged in 2018 that torture was systematic and routine, but for decades it was denied or downplayed as isolated acts. The debate over its scale and justification continues.
 - **Historical Memory:** The war was known as "la guerre sans nom" (the war without a name) in France for decades. There is still no consensus on commemoration, and memories remain fragmented between French and Algerian perspectives.
 - **Legacy of Violence:** Scholars debate how the FLN's use of authoritarian methods and violence during the war shaped the post-independence Algerian state and contributed to the civil war of the 1990s.
+
+Source: adapted from "Algerian War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algerian_War

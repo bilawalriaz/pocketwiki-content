@@ -46,3 +46,5 @@ Cixi died on 15 November 1908, one day after the Guangxu Emperor. Forensic tests
 - **Guangxu Emperor's death**: While 2008 forensic tests confirmed arsenic poisoning, definitive proof of who administered it is lacking. Cixi remains the prime suspect, but the role of Yuan Shikai is also theorized.
 - **Boxer Rebellion support**: Scholars analyze whether Cixi's support for the Boxers was a genuine anti-imperialist stance, a miscalculation, or a desperate attempt to harness popular sentiment against foreign encroachment.
 - **Impact of reforms**: There is debate over whether her post-1901 New Policies were a sincere effort to save the dynasty through constitutional monarchy or too little, too late to prevent revolution.
+
+Source: adapted from "Empress Dowager Cixi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Empress_Dowager_Cixi

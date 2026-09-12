@@ -44,3 +44,5 @@ The wars resulted in the extinction of the direct male Plantagenet line and the 
 - Historians disagree on the primary causes, weighing factors like bastard feudalism, the weak rule of Henry VI, and the succession crisis from Edward III's reign.
 - The fate of the "Princes in the Tower" (Edward V and his brother) remains unknown, with the most accepted theory being their murder on Richard III's orders.
 - The scale of social disruption is debated; revisionists argue the wars' impact on the general populace was limited, as fighting was largely confined to nobles and their retinues.
+
+Source: adapted from "Wars of the Roses" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wars_of_the_Roses

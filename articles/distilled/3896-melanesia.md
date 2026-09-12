@@ -37,3 +37,5 @@ Geographically, Melanesia is divided between the large island of New Guinea (par
 
 ## Debates and Open Questions
 The precise geographical and cultural boundaries of Melanesia remain debated. Scholars disagree on whether to include all of New Guinea, and Fiji is sometimes considered a border region or even part of Polynesia. The extent of genetic and cultural interaction between ancient Austronesian migrants and indigenous Papuan peoples is also contested, with recent genetic evidence suggesting less mixing than previously theorized.
+
+Source: adapted from "Melanesia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Melanesia

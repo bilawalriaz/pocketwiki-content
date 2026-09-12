@@ -39,3 +39,5 @@ Following the siege, Jochi became estranged from his father, possibly due to the
 - **The Siege of Gurganj:** Historians debate the accuracy of the account detailing a quarrel between Jochi and Chagatai. Some, like Christopher Atwood, argue this narrative was invented later to bolster Ögedei's legitimacy as khan.
 - **Cause of Estrangement:** The exact reasons for the permanent rift between Jochi and Genghis Khan after the Khwarazmian war are unclear, with sources offering conflicting explanations.
 - **Place of Burial:** A large mausoleum in Kazakhstan traditionally identified as Jochi's tomb has been shown by radiocarbon dating to be from a much later period.
+
+Source: adapted from "Jochi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jochi

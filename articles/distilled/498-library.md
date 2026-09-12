@@ -91,3 +91,5 @@ Libraries are cultural heritage assets at risk in conflicts (destruction, lootin
 *   **Space Repurposing:** Converting stack space (reduced by digital shift) into collaborative study areas, makerspaces, or community hubs without alienating traditional users.
 *   **Sustainability of Special Collections:** Preserving rare/unique physical materials (manuscripts, fragile items) requires specialized, costly conservation amid general budget cuts.
 *   **Role of Librarians:** Evolving from collection gatekeepers to educators, data curators, publishers (Open Access), and technology facilitators—requiring continuous re-skilling since the 1960s computerization wave.
+
+Source: adapted from "Library" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Library

@@ -48,3 +48,5 @@ The economy is based on natural resources. Argentine Patagonia relies on sheep f
 - **Origin of the Patagonian Landmass**: Geologists debate whether it is an allochthonous terrane that drifted from Antarctica (proposed by Víctor Ramos) or of parautochthonous (nearby) origin (argued by R.J. Pankhurst).
 - **Northern Boundary**: The precise northern limit of Patagonia is not universally defined, with common definitions using the Colorado and Barrancas rivers or the Huincul Fault.
 - **Impact of Colonization**: The extent and intentionality of population decline among indigenous groups following European colonization and the "Conquest of the Desert" remain subjects of historical analysis.
+
+Source: adapted from "Patagonia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Patagonia

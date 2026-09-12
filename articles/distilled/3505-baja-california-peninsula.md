@@ -45,3 +45,5 @@ At the time of Spanish contact, the peninsula was home to several indigenous gro
 
 ## Debates and Open Questions
 The source notes that the persistence of the "California as an island" myth in cartography is debated. One theory suggests it originated from a 1620 map by friar Antonio Ascension based on misconceptions. A 2023 opinion by Garcia and Jorge proposes the error may have been sustained because Spain kept its cartography secret from other European powers.
+
+Source: adapted from "Baja California peninsula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baja_California_peninsula

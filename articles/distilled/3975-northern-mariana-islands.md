@@ -48,3 +48,5 @@ The 2020 population was 47,329, a decline from 2000 due to economic changes. The
 - **Political status**: The CNMI's relationship with the U.S. continues to evolve, with ongoing discussions about the scope of federal authority, particularly regarding immigration and labor laws.
 - **Economic sustainability**: The territory faces challenges in diversifying its economy beyond tourism and managing the impacts of global economic shifts.
 - **Cultural preservation**: Efforts continue to preserve the Chamorro and Carolinian languages and traditions amidst significant demographic and cultural change.
+
+Source: adapted from "Northern Mariana Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Northern_Mariana_Islands

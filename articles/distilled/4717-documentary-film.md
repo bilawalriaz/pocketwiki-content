@@ -42,3 +42,5 @@ Digital technology has lowered production costs, aiding filmmakers. However, fun
 - The definition of documentary remains debated, with tensions between Grierson's "creative treatment of actuality" and Vertov's "life as it is."
 - The use of stylized re-enactments and directorial manipulation in films like *The Thin Blue Line* raises questions about whether such works can truly be called documentaries.
 - The line between documentary and other forms, such as reality television or "mondo films," is often blurred, leading to critical debate about authenticity and genre boundaries.
+
+Source: adapted from "Documentary film" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Documentary_film

@@ -46,3 +46,5 @@ Post-independence, Morocco became a constitutional monarchy under Mohammed V and
 - **Western Sahara's status:** The territory remains disputed between Morocco, which administers most of it, and the Polisario Front, which seeks a referendum on independence. The UN-led peace process has been stalled for decades.
 - **Nature of pre-Islamic society:** The extent of Romanization and the persistence of Berber cultural and political autonomy in the hinterland during ancient periods are subjects of scholarly discussion.
 - **Impact of colonialism:** Historians debate the long-term economic and social effects of the French protectorate, particularly regarding infrastructure development versus resource extraction and cultural disruption.
+
+Source: adapted from "History of Morocco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Morocco

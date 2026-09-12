@@ -53,3 +53,5 @@ The **Ars nova** style, centered in France, introduced sophisticated rhythmic no
 - There is controversy over whether sections of imperfect tempus in Ars nova music were performed with a breve of equal length or a changed proportion.
 - The attribution of the *Ars Nova* treatise to Philippe de Vitry is questioned by some scholars, who consider it anonymous.
 - The role of instrumental accompaniment in liturgical dramas is unclear, as stage directions do not specify instruments.
+
+Source: adapted from "Medieval music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Medieval_music

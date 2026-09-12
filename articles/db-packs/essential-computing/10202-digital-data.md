@@ -35,3 +35,5 @@ All digital communication shares four practical properties. It needs *synchroniz
 Digital encoding predates electronics. DNA stores genetic information in discrete base pairs; smoke signals, beacon fires, flag semaphore, maritime signal flags, and Morse code all use a small set of distinct states. The abacus, created between 1000 BC and 500 BC, represents numbers with beads in discrete positions. The word "digital" was used by Bell Labs mathematician George Stibitz in 1942 to describe the fast electrical pulses of an anti-aircraft gun controller, and it derives from *digitus*, the Latin word for finger, the original counting tool.
 
 The scale has shifted rapidly. In 1986 less than 1% of the world's stored technological information was digital; by 2002 more was stored in digital than analog form, and by 2007 the figure was 94%, with roughly 281 exabytes of digital data in existence that year.
+
+Source: adapted from "Digital data" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Digital_data

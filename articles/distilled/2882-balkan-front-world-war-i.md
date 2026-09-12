@@ -40,3 +40,5 @@ In September 1918, a multinational Allied army under French General Franchet d'E
 
 ## Debates and Open Questions
 The historian John Keegan argued that the installation of a "violently nationalist" government in Athens after the war complicated the Allied effort to resettle Europe, as it mobilized Greece for the "Great Idea" of recovering a Greek empire in the east.
+
+Source: adapted from "Balkan Front (World War I)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Balkan_Front_%28World_War_I%29

@@ -51,3 +51,5 @@ The role was likely created for Richard Burbage. The play has been continuously 
 - **Polonius's Inspiration:** Was the character Polonius modeled on William Cecil (Lord Burghley), Queen Elizabeth I's chief advisor?
 - **Connection to Hamnet Shakespeare:** Is the play's hero linked to Shakespeare's son, Hamnet, who died in 1596? Most scholars reject this, noting the name's popularity, though Stephen Greenblatt has argued for a connection.
 - **Textual Authority:** Should *Hamlet* be presented as a single conflated text or as separate Q2 and F1 versions, given their significant differences?
+
+Source: adapted from "Hamlet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hamlet

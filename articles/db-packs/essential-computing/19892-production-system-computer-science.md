@@ -47,3 +47,5 @@ Some textbooks describe production systems as systems of logic that reason by fo
 ## Related systems
 
 Rule-based and production-style systems include CLIPS, JESS (a CLIPS superset for Java), JBoss Drools, ILOG rules, OpenL Tablets, Lisa, and Constraint Handling Rules. The cognitive architectures ACT-R, Soar, and OpenCog are also built on production systems. Prolog is often mentioned alongside them but uses backward chaining and a logical rather than imperative semantics.
+
+Source: adapted from "Production system (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Production_system_%28computer_science%29

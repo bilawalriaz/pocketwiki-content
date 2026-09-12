@@ -43,3 +43,5 @@ Following the Russian Revolution of 1917, the Soviet Union incorporated most of 
 - The precise origins and ethnic identity of the Xiongnu, and their relationship to later Turkic and Mongol peoples, remain debated.
 - The extent and nature of the influence of the Bactria-Margiana Archaeological Complex on the development of Indo-Iranian cultures is a subject of scholarly discussion.
 - The long-term geopolitical implications of the "Great Game" rivalry between Russia and Britain, and its modern echoes in the competition for influence and energy resources in Central Asia, are ongoing topics of analysis.
+
+Source: adapted from "History of Central Asia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Central_Asia

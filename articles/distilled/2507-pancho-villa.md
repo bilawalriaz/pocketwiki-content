@@ -49,3 +49,5 @@ After Carranza's assassination in 1920, Villa negotiated an amnesty with interim
 *   **German Involvement:** While documented contacts existed between Villa's agents and German officials after 1915, scholars disagree on their significance. Most conclude Villa was not a German agent but a desperate leader seeking arms after being cut off by the U.S.
 *   **Responsibility for His Assassination:** Although Jesús Salas Barraza claimed sole responsibility, most historians attribute the assassination to a conspiracy involving Plutarco Elías Calles and Joaquín Amaro, with at least the tacit approval of President Álvaro Obregón.
 *   **Historical Legacy:** Assessments of Villa vary. Some historians, like Friedrich Katz, credit his governorship with effective social and economic reforms. Others, like Alan Knight, emphasize his bandit origins and view the Revolution as a continuation of his criminality.
+
+Source: adapted from "Pancho Villa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pancho_Villa

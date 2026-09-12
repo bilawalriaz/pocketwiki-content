@@ -73,3 +73,5 @@ Several contentious issues surround fertilizer use and policy. The extent to whi
 The long-term viability of phosphate reserves raises concerns about "peak phosphorus," though estimates vary widely depending on resource definitions and extraction technologies. Similarly, the environmental costs of nitrogen fertilizer—including emissions and biodiversity impacts—are weighed against its role in preventing hunger and supporting population growth.
 
 Finally, the effectiveness of regulatory measures versus market-driven incentives in promoting sustainable practices continues to evolve, especially amid geopolitical disruptions affecting fertilizer supply chains and pricing.
+
+Source: adapted from "Fertilizer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fertilizer

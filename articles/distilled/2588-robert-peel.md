@@ -52,3 +52,5 @@ After 1846, Peel led a faction of "Peelites" who remained influential in Parliam
 *   **Motivation for Repealing the Corn Laws:** Historians debate whether Peel's primary motivation was humanitarian concern for the Irish Famine or a long-held intellectual commitment to free trade, using the famine as a political catalyst.
 *   **Impact of the Famine:** The effectiveness of Peel's limited food subsidies during the famine is questioned, with some arguing they had little tangible effect due to the prevailing laissez-faire economic policies.
 *   **Political Legacy:** Peel's career is analyzed as a tension between pragmatic national leadership and party loyalty; his reversals on key issues are seen by some as principled and by others as treacherous to the Tory cause.
+
+Source: adapted from "Robert Peel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Peel

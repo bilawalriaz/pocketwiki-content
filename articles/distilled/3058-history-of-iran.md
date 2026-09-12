@@ -45,3 +45,5 @@ The Pahlavi dynasty (1925–1979) pursued rapid, authoritarian modernization. A 
 - The extent to which the 1979 revolution was a popular uprising versus a clerical takeover remains debated.
 - The impact of the Islamic Golden Age on European Renaissance science is a subject of ongoing scholarly discussion.
 - The future of Iran's nuclear program and its integration into the global community remains a central and unresolved geopolitical question.
+
+Source: adapted from "History of Iran" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Iran

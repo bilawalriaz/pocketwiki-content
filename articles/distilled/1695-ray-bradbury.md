@@ -61,3 +61,5 @@ Bradbury lived with his parents until marrying Marguerite McClure in 1947 (age 2
 - **Political evolution**: His shift from New Deal Democrat to Reagan Republican (with a Carter interlude) and late-life anti-government rhetoric ("destroy part of our government") complicates readings of his anti-authoritarian fiction.
 - **Adaptation fidelity**: Bradbury praised some adaptations (Truffaut's *Fahrenheit 451*) but called *The Martian Chronicles* miniseries "just boring," raising questions about the translatability of his prose style to visual media.
 - **Mr. Electrico's historicity**: The Mr. Electrico anecdote is central to Bradbury's self-mythology, but no independent verification of the performer or event exists beyond Bradbury's own retellings.
+
+Source: adapted from "Ray Bradbury" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ray_Bradbury

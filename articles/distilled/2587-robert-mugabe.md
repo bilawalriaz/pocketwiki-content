@@ -46,3 +46,5 @@ Mugabe won a disputed landslide in 2013. His later years were marked by internat
 *   **Motivations for Land Seizures:** Was the post-2000 farm invasion program a genuine effort to correct colonial land imbalances, a violent political strategy to crush opposition and reward loyalists, or both?
 *   **Legacy Assessment:** Mugabe remains deeply polarizing. He is praised by some as a liberation hero who defied Western imperialism and championed African sovereignty, while others condemn him as a brutal dictator whose policies caused economic ruin and immense human suffering.
 *   **Responsibility for Gukurahundi:** While Mugabe acknowledged the massacres as "an act of madness" in 2000, the extent of his direct command and the ultimate political goals of the operation remain subjects of historical analysis.
+
+Source: adapted from "Robert Mugabe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Mugabe

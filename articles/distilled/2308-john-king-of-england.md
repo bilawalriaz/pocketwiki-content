@@ -50,3 +50,5 @@ The failure of John's 1214 French campaign, culminating in the allied defeat at 
 - The fate of Arthur of Brittany remains uncertain; while modern historians believe John had him murdered, the exact circumstances are not known.
 - Interpretations of Magna Carta have shifted: it is now often seen as a failed peace treaty between partisan factions rather than a purely constitutional document.
 - There is ongoing debate about the nature of John's Irish policies and the stability of his rule there by 1216.
+
+Source: adapted from "John, King of England" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John%2C_King_of_England

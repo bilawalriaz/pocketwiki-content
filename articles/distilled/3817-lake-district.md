@@ -43,3 +43,5 @@ The landscape has inspired artists for centuries. It is intimately linked with t
 
 ## Debates and Open Questions
 The source notes that the precise geographical extent of the Lake District is undefined and sometimes considered larger than the National Park boundary. It also highlights ongoing tensions between tourism's economic benefits and its negative impacts, such as traffic congestion, parking issues, and soil erosion from footpath use. The successful re-establishment of certain wildlife populations, like red kites and ospreys, represents a continuing conservation effort and debate about species reintroduction.
+
+Source: adapted from "Lake District" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_District

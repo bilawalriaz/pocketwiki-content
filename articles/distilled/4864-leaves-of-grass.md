@@ -41,3 +41,5 @@ Despite initial derision, *Leaves of Grass* became recognized as a central work 
 *   **Edition Count:** Scholars disagree on whether to count six or nine separate editions, depending on whether a new set of type is required for a new edition.
 *   **Whitman's Nationalism:** While his work is celebrated for its democratic ideals, critics like Nathanael O'Reilly argue his imagined America is "arrogant, expansionist, hierarchical, racist and exclusive."
 *   **Borrowed Material:** Despite his proclamation of "original energy," scholars have found Whitman borrowed phrases from newspapers and science books, complicating claims of pure originality.
+
+Source: adapted from "Leaves of Grass" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leaves_of_Grass

@@ -49,3 +49,5 @@ The British colonial period sparked a Hindu Renaissance and reform movements lik
 - **Influence**: The nature and direction of influence between early Upanishads and Buddhist teachings is contested by scholars.
 - **Shankara's Influence**: The historical prominence and widespread influence of the philosopher Shankara and Advaita Vedanta in early medieval India is questioned, with some scholars suggesting their fame was amplified later.
 - **Muslim Rule Impact**: The historical impact of Muslim conquests on Hinduism is a subject of diverse viewpoints, ranging from narratives of widespread destruction to those emphasizing coexistence and voluntary conversion.
+
+Source: adapted from "History of Hinduism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Hinduism

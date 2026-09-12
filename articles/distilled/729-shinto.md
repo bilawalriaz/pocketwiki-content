@@ -56,3 +56,5 @@ Kami veneration began in the Yayoi period. Buddhism's arrival in the Kofun perio
 ## Debates and Open Questions
 
 Scholars debate when Shinto became a distinct religion. Some argue it was "invented" during the Meiji era, while others see continuity from ancient practices. The classification of Shinto as "indigenous" is contested, given its absorption of Chinese and Buddhist influences. Whether pre-Meiji practices constitute "Shinto" or merely "kami worship" remains debated. The post-war separation from state and modern emphasis on nature-based spirituality are seen by critics as rhetorical strategies to distance the tradition from militarist associations. Academic research has historically been dominated by Shinto theologians, raising questions about objectivity in historical analysis.
+
+Source: adapted from "Shinto" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shinto

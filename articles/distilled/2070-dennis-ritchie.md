@@ -39,3 +39,5 @@ Ritchie continued to contribute to operating systems, including Plan 9 and Infer
 
 ## Debates and Open Questions
 The source does not detail significant scholarly debates about Ritchie's work. It does note that his PhD dissertation was lost for decades before being rediscovered in 2020, and that his classified cryptanalysis work on the M-209 cipher machine was never published due to its ongoing relevance.
+
+Source: adapted from "Dennis Ritchie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dennis_Ritchie

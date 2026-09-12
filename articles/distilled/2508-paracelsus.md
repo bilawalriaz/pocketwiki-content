@@ -42,3 +42,5 @@ After his death, Paracelsus's unpublished works were edited and widely read, ins
 - The authenticity of many works attributed to Paracelsus is disputed, as numerous "Pseudo-Paracelsian" writings circulated after his death.
 - Scholars debate the extent to which his medical innovations were separate from or dependent on his alchemical and astrological beliefs.
 - The origin and meaning of his adopted name "Paracelsus" are uncertain, with interpretations ranging from "surpassing Celsus" to a Latinization of his birthplace.
+
+Source: adapted from "Paracelsus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paracelsus

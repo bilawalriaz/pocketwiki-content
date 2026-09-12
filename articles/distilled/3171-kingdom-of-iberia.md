@@ -44,3 +44,5 @@ The kingdom's independence was progressively eroded by Sasanian pressure. In 580
 - The historicity of early figures like Azo and the story of an invasion by Alexander the Great are considered legendary, though they may reflect later desires to associate the monarchy with the Hellenistic world.
 - The theory of an ethnogenetical kinship between Caucasian Iberians and the inhabitants of the Iberian Peninsula (based on the similar name) was popular in medieval Georgia but is not supported by modern scholarship.
 - The precise nature and extent of Zoroastrianism's establishment in Iberia, and its relationship with the indigenous cult of Armazi, is a subject of scholarly interpretation.
+
+Source: adapted from "Kingdom of Iberia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Iberia

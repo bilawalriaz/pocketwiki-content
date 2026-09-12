@@ -53,3 +53,5 @@ Helsinki's architecture ranges from Engel's neoclassical center to Art Nouveau d
 ## Debates and Open Questions
 - The origin of Helsinki's name is uncertain, with theories linking it to Swedish settlers from Hälsingland or the Swedish word *helsing* (neck), referring to a narrow river part.
 - The historical "Swedish Crusades" to Finland, traditionally used to explain the region's incorporation into Sweden and Christianity, are debated by modern researchers, who suggest a more complex combination of economic, cultural, and political motivations.
+
+Source: adapted from "Helsinki" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Helsinki

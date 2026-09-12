@@ -52,3 +52,5 @@ Seattle has a mayor–council form of government and is known for its liberal po
 - **Urban Growth Management:** The city grapples with balancing increased density (e.g., relaxing height limits downtown) with preserving single-family housing zones.
 - **Transportation:** Seattle has the 8th-worst traffic congestion in the U.S. and is investing heavily in expanding its light rail system (Sound Transit 3) to address this.
 - **Social Equity:** The city has addressed issues like caste discrimination (banning it in 2023) and continues to work on racial balance in its public schools following a 2007 Supreme Court ruling.
+
+Source: adapted from "Seattle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seattle

@@ -37,3 +37,5 @@ On land, Antarctica has only two native vascular plants, hairgrass and pearlwort
 ## Contaminants from thawing permafrost
 
 Antarctic permafrost is far less extensive than the Arctic's, but stores persistent organic pollutants such as DDT, hexachlorobenzene, and polycyclic aromatic hydrocarbons, along with heavy metals including mercury, lead, and cadmium. Thawing releases them into surface water, where bioaccumulation and biomagnification spread them through the food web.
+
+Source: adapted from "Climate change in Antarctica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_change_in_Antarctica

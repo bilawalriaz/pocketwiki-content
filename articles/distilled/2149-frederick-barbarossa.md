@@ -42,3 +42,5 @@ In Germany, Frederick maintained order through vigorous but conciliatory measure
 - Historians debate the extent to which Frederick's policies were a pragmatic adaptation versus a romantic, reactionary attempt to revive a classical Roman empire.
 - The true size of his Third Crusade army is uncertain, with medieval sources claiming 100,000 men, while modern scholars estimate 12,000–15,000.
 - The long-term impact of his use of Roman law versus his political concessions in Italy remains a subject of scholarly analysis regarding his legacy.
+
+Source: adapted from "Frederick Barbarossa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frederick_Barbarossa

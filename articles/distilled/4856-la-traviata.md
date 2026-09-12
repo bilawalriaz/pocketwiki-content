@@ -33,3 +33,5 @@ The opera is set in Paris and its vicinity in the early 19th century. It follows
 
 ## Debates and Open Questions
 The source text highlights a central historical debate: the conflict between Verdi's desire for a contemporary setting and the theatre's insistence on a historical one. This delayed the "realistic" productions the composer envisioned until the 1880s. The initial failure of the premiere is also debated, with Verdi himself questioning whether the fault was his or the singers'.
+
+Source: adapted from "La traviata" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/La_traviata

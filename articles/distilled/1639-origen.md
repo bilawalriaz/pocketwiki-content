@@ -85,3 +85,5 @@ Origen cited Hermippus to claim Pythagoras borrowed from Judaism—early example
 - **Second Council of Constantinople (553)**: Did the council anathematize Origen personally, or only later “Origenist” teachings (Evagrius)? Textual variants and papal silence suggest Origen’s name may be a later insertion.
 - **Reincarnation**: Did Origen teach metempsychosis? He explicitly denies “transmigration of souls,” but MacGregor argues his eschatology implies it; Olson calls this a New Age misreading.
 - **Lost works**: The *Hexapla*, most commentaries, and all speculative treatises are lost. The surviving corpus (filtered through Rufinus/Jerome) may not represent Origen’s most radical ideas.
+
+Source: adapted from "Origen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Origen

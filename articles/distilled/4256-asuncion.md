@@ -49,3 +49,5 @@ According to the 2022 census, Asunción has 462,241 inhabitants, while its metro
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes historical interpretations, such as the claim that the Paraguayan War provoked a "steady downfall" of the city and country. It also references ongoing urban challenges, including unbridled growth, lack of infrastructure, and crime, which are subjects of public and policy concern.
+
+Source: adapted from "Asunción" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Asunci%C3%B3n

@@ -66,3 +66,5 @@ Classical reductionism uses radioactive tracers to map pathways and purifies enz
 - **Metabolic control distribution**: Identifying which enzymes exert flux control (vs. mere regulation) in complex networks is context-dependent and technically challenging.
 - **Cancer metabolism**: The Warburg effect (aerobic glycolysis) and oncometabolite roles are active therapeutic targets, but metabolic heterogeneity and plasticity complicate intervention.
 - **Metabolic engineering limits**: Predicting systemic effects of genetic modifications remains difficult due to incomplete kinetic parameters, regulatory complexity, and host burden.
+
+Source: adapted from "Metabolism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metabolism

@@ -44,3 +44,5 @@ Yang moved to Stony Brook University in 1965, founding its Institute for Theoret
 - **Parity Violation:** The proposal was initially controversial, challenging a fundamental symmetry law, but was quickly confirmed by multiple experiments.
 - **CEPC Opposition:** Yang publicly opposed the construction of the CEPC in China, arguing it was speculative and not guaranteed to yield benefits for the Chinese people, reflecting a debate on big-science project priorities.
 - **Citizenship:** Yang's decision to become a U.S. citizen was a source of personal conflict with his father, and he later renounced it in 2015, highlighting the complex relationship between scientists and their homelands.
+
+Source: adapted from "Yang Chen-Ning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yang_Chen-Ning

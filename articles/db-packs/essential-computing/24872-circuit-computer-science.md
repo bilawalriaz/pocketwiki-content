@@ -47,3 +47,5 @@ Two algorithmic facts anchor the theory:
 - For an integer circuit, it is **unknown** whether the corresponding evaluation problem is even decidable, that is, whether an algorithm exists that always halts with the correct answer.
 
 **Circuit complexity** classifies Boolean functions by the size or depth of the smallest circuit that computes them. Two extensions beyond Boolean circuits are widely studied: **arithmetic circuit complexity**, which focuses on addition and multiplication over a field, and **quantum circuits**, which use quantum gates and underpin the complexity class BQP (the class of problems efficiently solvable on a quantum computer).
+
+Source: adapted from "Circuit (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Circuit_%28computer_science%29

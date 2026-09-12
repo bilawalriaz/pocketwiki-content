@@ -37,3 +37,5 @@ Over 50,000 Otto engines were produced in the 17 years following the 1876 model'
 
 ## Debates and Open Questions
 The article notes that the concept of the four-stroke cycle was patented by Beau de Rochas in 1862, before Otto's successful 1876 engine. Neither Otto nor his contemporary Gottlieb Daimler were aware of this prior patent at the time. Rochas never built an engine, and it is debated whether he could have done so.
+
+Source: adapted from "Nicolaus Otto" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nicolaus_Otto

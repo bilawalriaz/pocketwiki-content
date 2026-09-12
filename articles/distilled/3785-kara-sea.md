@@ -39,3 +39,5 @@ The Kara Sea is an important fishing ground and contains the East-Prinovozemelsk
 ## Debates and Open Questions
 - The precise environmental risk posed by the dumped nuclear reactors, especially the *K-27*, is a subject of ongoing concern and study.
 - The balance between developing the sea's significant hydrocarbon resources and protecting its fragile Arctic ecosystem remains a contentious issue.
+
+Source: adapted from "Kara Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kara_Sea

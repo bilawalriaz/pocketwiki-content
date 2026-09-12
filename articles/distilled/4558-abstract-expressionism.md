@@ -45,3 +45,5 @@ By the early 1960s, abstract expressionism's dominance waned, giving way to reac
 - **Why did it gain mainstream acceptance in the 1950s?** One theory suggests that in the politically conservative McCarthy era, abstract art was seen as apolitical and therefore safe, unlike the overt social protest of earlier realism.
 - **The role of the CIA:** A significant historical debate centers on whether the CIA covertly promoted abstract expressionism as a tool of Cold War cultural propaganda to symbolize American freedom. Some historians argue this was a major factor, while others contend the evidence is decontextualized or overstated.
 - **Critical interpretation:** A fundamental divide existed between critics like Clement Greenberg, who focused on the formal "objectness" of the paintings, and Harold Rosenberg, who emphasized the existential "event" of their creation.
+
+Source: adapted from "Abstract expressionism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abstract_expressionism

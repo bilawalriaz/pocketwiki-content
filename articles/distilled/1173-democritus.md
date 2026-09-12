@@ -68,3 +68,5 @@ Thrasyllus (1st century AD) identified six aesthetic works (on poetry, beauty of
 - **Empirical basis**: Democritus' atomism is often called "scientific," but it lacked empirical foundation; it was a metaphysical response to Eleatic logic. The resemblance to 19th-century atoms is structural, not methodological.
 - **Ethical consistency**: His advice against procreation conflicts with his view that humans naturally form societies; whether this reflects a consistent anti-natalism or context-dependent maxims is debated.
 - **Aesthetic fragments**: Only a small percentage of his six aesthetic works survive; the scope of his theory of art/poetry remains largely unrecoverable.
+
+Source: adapted from "Democritus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Democritus

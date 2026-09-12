@@ -25,3 +25,5 @@ Three independent geological clocks push the appearance of liquid water back nea
 - Rocks from the Nuvvuagittuq Greenstone Belt in Quebec are dated 3.8 billion years old by one study and 4.28 billion years old by another, and show signs of contact with water at those ages.
 
 No earlier direct oceanic evidence has survived, probably because plate tectonics and crustal recycling have erased it. The cool early Earth hypothesis and the possibility of plate tectonics as far back as 4 billion years ago allow surface water at temperatures consistent with the zircon evidence.
+
+Source: adapted from "Origin of water on Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Origin_of_water_on_Earth

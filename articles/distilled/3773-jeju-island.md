@@ -42,3 +42,5 @@ Jeju's unique ecosystem supports many endemic species. Numerous plants and anima
 ## Debates and Open Questions
 - The *gotjawal* forest is considered an internationally important wetland by some researchers and a candidate for Ramsar Convention designation, but it has not yet been officially declared a Ramsar site.
 - The exact origin of the European name "Quelpart" is debated; it may derive from a Dutch ship or a visual similarity to a type of vessel.
+
+Source: adapted from "Jeju Island" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jeju_Island

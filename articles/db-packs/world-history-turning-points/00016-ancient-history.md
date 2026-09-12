@@ -21,3 +21,5 @@ Andean civilisation began with fishing communities from 3500 BC; the Chavín cul
 ## Ideas, religions, and technology
 
 Around the 6th century BC, new philosophies and religions arose: Buddhism and Jainism in India, Zoroastrianism in Persia, and Greek philosophy through Socrates, Plato, and Aristotle. Judaism (c. 1700 BC) became the origin of the Abrahamic religions, and Christianity spread through the Roman world. In China, Confucianism, Taoism, and Legalism dominated thought. Civilisation brought institutional polytheistic religion, often tied to city or state, with sacrifices. Technological gains included metal alloys, Egyptian machines (ramp, lever), Babylonian and Egyptian astronomy, qanats for water management, the Hindu–Arabic numeral system with zero developed in India, and paper invented in China in the 1st century AD.
+
+Source: adapted from "Ancient history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_history

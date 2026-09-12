@@ -51,3 +51,5 @@ Because the field is interdisciplinary, it borrows methods from many disciplines
 Cognitive science has reshaped philosophy of mind and language, contributed to linguistics, and supplied models for behavioral finance, which studies how psychological biases affect economic decisions. In medicine, it has clarified how localized brain damage produces specific deficits such as dyslexia, anopsia, and hemispatial neglect.
 
 A remaining puzzle is the binding problem: how the brain combines separate features such as color, shape, and motion, processed in different regions, into a single coherent percept. One proposed mechanism is binding-by-synchrony, the idea that neurons encoding the same object fire in synchrony, and this temporal alignment is how the brain tags features as belonging together.
+
+Source: adapted from "Cognitive science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cognitive_science

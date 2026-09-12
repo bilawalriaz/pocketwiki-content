@@ -42,3 +42,5 @@ Bantu speakers engaged in extensive cultural and physical contact with pre-exist
 - There is debate over the correlation between archaeological evidence (like ceramics) and linguistic spread, with criticism that the link is sometimes assumed rather than proven.
 - The extent of population replacement versus assimilation in specific regions, such as Angola, is uncertain due to a lack of clear archaeological evidence.
 - The term "Bantu" itself is contested, with concerns it has been incorrectly expanded from a linguistic label to imply a unified culture, society, or race.
+
+Source: adapted from "Bantu expansion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bantu_expansion

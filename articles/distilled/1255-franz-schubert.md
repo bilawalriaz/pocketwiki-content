@@ -73,3 +73,5 @@ Schubert's early death inspired regret (Grillparzer's epitaph; Radu Lupu) but al
 *   **Symphony numbering:** Confusion persists over the numbering of the late symphonies (particularly the "Unfinished" and "Great") due to posthumous publication order and the status of fragments (D 729, D 936A).
 *   **Operatic failure:** Despite 20 attempts, Schubert never achieved stage success. Causes cited include weak libretti (often by friends), the dominance of Rossini, censorship, and a mismatch between his lyrical style and theatrical demands.
 *   **Schwanengesang status:** Published posthumously as a cycle, it combines poems by Rellstab, Heine, and Seidl. Scholars debate whether Schubert intended it as a unified cycle like *Winterreise* or if it is a publisher's anthology.
+
+Source: adapted from "Franz Schubert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Franz_Schubert

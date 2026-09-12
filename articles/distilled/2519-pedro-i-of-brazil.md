@@ -46,3 +46,5 @@ Political struggle between Pedro and the Liberal Party over ministerial control 
 - The extent of his commitment to abolition is questioned; while he expressed anti-slavery views, he took no concrete action against slavery as emperor, partly due to opposition from slave-owning legislators.
 - His legacy is contested between those who see him as a heroic liberator who spread liberal ideals and those who emphasize his political failures, personal scandals, and the humiliating terms of Brazil's independence recognition.
 - The role of his Portuguese birth in fueling opposition during his Brazilian reign remains a point of historical analysis, as critics used it to question his loyalty.
+
+Source: adapted from "Pedro I of Brazil" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pedro_I_of_Brazil

@@ -46,3 +46,5 @@ Tito died in 1980 after a prolonged illness. His death removed the unifying figu
 
 ## Debates and open questions
 Historians debate whether Tito was a "benevolent dictator" who modernized Yugoslavia and maintained ethnic peace, or an authoritarian ruler who suppressed dissent and delayed necessary political reforms. His legacy is highly polarized in the former Yugoslav republics, viewed positively in Slovenia and Bosnia but more divisively in Croatia and Serbia. Scholars also analyze whether the decentralized 1974 constitution, intended to manage ethnic tensions, inadvertently created the structural weaknesses that made Yugoslavia's violent dissolution inevitable.
+
+Source: adapted from "Josip Broz Tito" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Josip_Broz_Tito

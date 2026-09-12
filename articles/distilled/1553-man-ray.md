@@ -69,3 +69,5 @@ In 1974, he received the Royal Photographic Society's Progress Medal and Honorar
 - **Primacy of painting vs. photography**: Man Ray insisted he was a painter, yet his fame and market value rest overwhelmingly on photography. The tension between his self-identification and historical reception shapes assessments of his legacy.
 - **Dada/Surrealist affiliation**: His ties were informal; he participated in key exhibitions and publications but resisted formal membership. Scholars debate whether this independence strengthened his innovation or reflects an inability to commit to collective programs.
 - **George Hodel connection**: Steve Hodel's claim that the Black Dahlia murder staging was an homage to Man Ray's Surrealism is speculative and not accepted by mainstream art history or criminology.
+
+Source: adapted from "Man Ray" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Man_Ray

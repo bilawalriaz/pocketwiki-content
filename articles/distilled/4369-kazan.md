@@ -46,3 +46,5 @@ The population is approximately 1.3 million, with a near-even split between ethn
 ## Debates and Open Questions
 *   The exact founding date of Kazan is debated, with archaeological evidence supporting c. 1005 AD, but the city officially celebrated its millennium in 2005 based on this date.
 *   The origin of the city's name has multiple legends, though the most likely explanation is its geographical location in a depression.
+
+Source: adapted from "Kazan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kazan

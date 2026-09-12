@@ -60,3 +60,5 @@ In his "twilight years" (1932–1941), Tagore scrutinised orthodoxy. He rebuked 
 - **Caste and social reform**: Tagore campaigned against untouchability (opening Guruvayoor Temple) and wrote Dalit protagonists, yet his family’s Pirali Brahmin background and his own position within *bhadralok* society complicate assessments of his radicalism.
 - **Painting: late bloom or eccentricity?**: Tagore began painting at sixty; works were exhibited in Europe but removed by Nazis as "degenerate art." Critics debate whether his visual art constitutes a significant modernist oeuvre or a synesthetic extension of his poetry, especially given his likely colour blindness.
 - **Science and poetry in late work**: *Visva-Parichay* (1937) and stories like *Se* weave contemporary physics and biology into narrative. Scholars differ on whether this reflects a genuine integration of scientific epistemology or a poetic metaphorics.
+
+Source: adapted from "Rabindranath Tagore" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rabindranath_Tagore

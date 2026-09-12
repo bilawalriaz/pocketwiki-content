@@ -45,3 +45,5 @@ Upon publication, *Nineteen Eighty-Four* received widespread critical acclaim fo
 *   **The Reality of Big Brother and the Brotherhood**: The novel never confirms whether Big Brother exists as a person or if the Brotherhood resistance movement is real or a Party fabrication.
 *   **Orwell's Political Intent**: While Orwell described the book as a satire on the "perversions to which a centralised economy is liable," debates persist about whether it is primarily an anti-communist, anti-socialist, or anti-totalitarian work.
 *   **Comparison with *Brave New World***: A major scholarly debate contrasts Orwell's vision of control through pain and fear with Aldous Huxley's vision in *Brave New World* of control through pleasure and distraction.
+
+Source: adapted from "Nineteen Eighty-Four" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nineteen_Eighty-Four

@@ -44,3 +44,5 @@ The Sui was a cultural transition period. The state promoted Taoism, with differ
 - The exact motivations and long-term impact of the Grand Canal's initial construction are debated, with its primary purposes being grain shipment to the capital and military logistics.
 - The role of Buddhism as a unifying cultural force during the transition from division to Sui reunification is a subject of historical analysis.
 - The extent to which Emperor Yang's policies (e.g., promoting Confucian education over nomadic support) directly caused the loss of crucial alliances and contributed to the dynasty's fall is discussed.
+
+Source: adapted from "Sui dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sui_dynasty

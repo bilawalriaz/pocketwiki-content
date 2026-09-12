@@ -43,3 +43,5 @@ From 1882 to 1889, Gibbs applied Maxwell's equations to optical phenomena like b
 - Gibbs's work was initially difficult for his contemporaries to understand, leading to slow recognition in the U.S. despite immediate praise from European scientists like Maxwell.
 - The practical value of his theoretical work only became evident with the rise of industrial chemistry in the early 20th century.
 - His resolution of the "Gibbs paradox" regarding the entropy of mixing gases is now seen as prefiguring the quantum mechanical principle of particle indistinguishability.
+
+Source: adapted from "Josiah Willard Gibbs" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs

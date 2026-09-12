@@ -44,3 +44,5 @@ Deeply affected by the French Revolution, Francis became deeply suspicious of ra
 *   The source notes Francis's assumption of the Austrian imperial title in 1804 was "technically illegal in terms of imperial law," though Napoleon agreed to it beforehand. This highlights the tension between traditional imperial legitimacy and the new realities of power.
 *   His personal role in military command is contrasted with his deep distrust of allowing any individual too much power, as seen in his management of his brother Archduke Charles. This reflects a core dilemma of his rule: balancing effective leadership with centralized control.
 *   His political testament advised his son to "preserve unity in the family," suggesting he saw dynastic cohesion as a key to stability, even as his policies of repression and reaction sought to hold together a multi-ethnic empire against the forces of nationalism.
+
+Source: adapted from "Francis II, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Francis_II%2C_Holy_Roman_Emperor

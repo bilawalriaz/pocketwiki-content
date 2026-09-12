@@ -47,3 +47,5 @@ Nyerere voluntarily stepped down in 1985, earning international respect. He late
 - **Economic Legacy**: Scholars debate whether Nyerere's socialist policies were a principled failure or a necessary, if flawed, attempt at equitable development that was undermined by external factors.
 - **Democratic Record**: While praised for voluntarily leaving office, his construction of a one-party state and use of detention without trial lead to accusations of dictatorial governance.
 - **Ujamaa's Viability**: The long-term sustainability and social impact of forced villagization and communal farming remain contested, with critics pointing to economic decline and proponents highlighting expanded social services.
+
+Source: adapted from "Julius Nyerere" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Julius_Nyerere

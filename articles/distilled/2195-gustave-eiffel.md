@@ -41,3 +41,5 @@ After retiring from engineering, Eiffel focused on meteorology and aerodynamics,
 
 ## Debates and Open Questions
 The primary controversy during Eiffel's lifetime was the intense artistic and public opposition to the Eiffel Tower, which critics viewed as an industrial blight on Paris's historic skyline. His legacy also involves ongoing scholarly debate about the attribution of designs, such as the tower, which originated with his engineers Koechlin and Nouguier before his involvement. The Panama Canal scandal remains a point of historical discussion regarding the extent of his culpability versus that of the project's directors.
+
+Source: adapted from "Gustave Eiffel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gustave_Eiffel

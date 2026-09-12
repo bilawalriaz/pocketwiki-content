@@ -49,3 +49,5 @@ In 1908, Díaz told a U.S. journalist that Mexico was ready for democracy and he
 *   **Legacy Revisionism:** Díaz's historical image has shifted from a tyrant to a more benign figure in some modern analyses ("Neo-Porfirismo"), especially as his economic policies align with later neoliberal reforms.
 *   **Succession Failure:** A central debate is whether Díaz's regime collapsed primarily because he failed to institutionalize a process for presidential succession, creating a power vacuum.
 *   **Economic Impact:** Scholars debate whether the economic growth of the Porfiriato was a genuine national development or primarily a transfer of wealth to foreign investors and a small Mexican elite, at the direct expense of the rural masses.
+
+Source: adapted from "Porfirio Díaz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz

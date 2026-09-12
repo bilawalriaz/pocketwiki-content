@@ -50,3 +50,5 @@ Haiku is related to other Japanese art forms. *Haibun* combines prose and haiku,
 - The appropriate syllable count for haiku in English is debated; the traditional 5-7-5 pattern is often considered too long, with some suggesting around 12 syllables is a closer equivalent to 17 Japanese *on*.
 - The necessity of a *kigo* (season word) in non-Japanese or modern haiku is contested, as many contemporary poets omit it.
 - The role and translation of the *kireji* (cutting word) into languages without a direct equivalent remains a challenge for poets and translators.
+
+Source: adapted from "Haiku" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Haiku

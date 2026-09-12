@@ -31,3 +31,5 @@ Direct temperature records cover only the mid-19th century onward; satellite dat
 ## Modern warming
 
 Since the Industrial Revolution, human activity has become a forcing comparable to the great natural ones. Burning fossil fuels, deforestation, livestock (cattle produce methane), and industrial aerosols have altered the composition of the atmosphere. The result is unambiguous: global average surface temperature has risen, the oceans have absorbed about 90% of the excess heat, land has warmed faster than sea, the Northern Hemisphere has warmed faster than the Southern, and the upper atmosphere has cooled while the lower atmosphere has warmed, the signature of greenhouse warming. Arctic sea ice has shrunk, the Greenland and Antarctic ice sheets have lost mass since 2002, and global sea level has risen through thermal expansion and meltwater.
+
+Source: adapted from "Climate variability and change" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_variability_and_change

@@ -45,3 +45,5 @@ Antananarivo is the economic hub of Madagascar, with industries including soap, 
 - The exact founding date of Antananarivo is debated, with accounts varying between c. 1610 and 1625.
 - The effectiveness of the CUA's governance and urban planning strategies is a persistent issue, hampered by debt, corruption, and high staff turnover.
 - The impact of the 2009 political crisis on the city's administrative autonomy and development trajectory remains significant.
+
+Source: adapted from "Antananarivo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antananarivo

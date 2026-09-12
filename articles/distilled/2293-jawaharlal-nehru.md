@@ -43,3 +43,5 @@ Nehru was a principal architect of India's foreign policy, holding the external 
 *   **Secularism and Uniform Civil Code:** Nehru's decision to apply reformed personal law to Hindus while allowing Muslims to retain their own personal laws is criticized as inconsistent secularism. His inclusion of Article 44 (the Directive Principle for a Uniform Civil Code) remains a point of political and legal debate.
 *   **Foreign Policy and the 1962 War:** The failure of his non-aligned and peaceful coexistence policies with China, culminating in the 1962 military defeat, is a major point of criticism. Some argue his idealism was naive, while others contend the war was an inevitable betrayal by China.
 *   **Kashmir Policy:** His handling of the Kashmir dispute, including the initial promise of a UN-supervised plebiscite (later withdrawn) and the ouster of Sheikh Abdullah in 1953, remains deeply contested between India and Pakistan.
+
+Source: adapted from "Jawaharlal Nehru" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jawaharlal_Nehru

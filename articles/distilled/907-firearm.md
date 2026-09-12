@@ -55,3 +55,5 @@ Firearms cause significant mortality and morbidity. In 2017, the U.S. recorded 3
 
 ## Debates and Open Questions
 The definition of "assault rifle" remains politically contested, with some restricting it to selective-fire military weapons and others applying it broadly to civilian semi-automatic rifles with cosmetic similarities. The effectiveness of gun control laws in reducing violence is debated, with studies showing mixed results across jurisdictions. The classification of certain firearms as "dangerous and unusual" under U.S. constitutional law continues to evolve through court decisions. The global proliferation of 3D-printed firearms raises new regulatory challenges. Whether civilian ownership of semi-automatic firearms enhances or reduces public safety remains a subject of ongoing research and political division. The distinction between "assault weapons" bans and their actual impact on crime rates is frequently debated in policy circles.
+
+Source: adapted from "Firearm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Firearm

@@ -45,3 +45,5 @@ Indo-Islamic architecture evolved from early structures like the Quwwat-ul-Islam
 - The extent and intentionality of the Sultanate's temple destruction campaigns are debated. Historian Richard Eaton documents 37 instances of desecration but notes this was not unique to Muslim rulers in medieval India, and that sultans also sometimes patronized or repaired temples.
 - The economic impact of policies like Ala ud-Din Khalji's price controls is debated; while they strengthened the treasury, they also caused resentment and may have stifled trade.
 - The claim of Sayyid descent from the Prophet Muhammad by the founders of the Sayyid dynasty is considered doubtful by modern historians.
+
+Source: adapted from "Delhi Sultanate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Delhi_Sultanate

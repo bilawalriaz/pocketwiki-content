@@ -84,3 +84,5 @@ Smaller, periodic floods recharge groundwater, deposit nutrient-rich sediment, a
 - **Climate attribution**: While climate change intensifies the water cycle and raises seas, quantifying its precise contribution to specific flood frequency/severity changes remains an active research area.
 - **Managed retreat vs. structural defense**: Balancing "room for the river" (sacrificial floodplains, overlaten) against hardening defenses in the face of rising risk and entrenched development.
 - **Urban pluvial prediction**: High-resolution forecasting of flash flooding in cities requires sub-hourly rainfall data and detailed drainage network models not yet universally available.
+
+Source: adapted from "Flood" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Flood

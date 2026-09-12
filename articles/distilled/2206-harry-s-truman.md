@@ -55,3 +55,5 @@ Truman left office deeply unpopular but later regained stature. He established t
 - **Korean War**: Truman's decision to fire General MacArthur is debated as either a crucial stand for civilian control of the military or a politically damaging mistake that prolonged the war.
 - **"Losing" China**: Truman faced intense criticism from conservatives for not preventing Mao Zedong's communist victory in the Chinese Civil War.
 - **Post-Presidency Finances**: While long believed to have been nearly destitute, evidence shows Truman accumulated considerable wealth from his salary, memoirs, and investments, complicating the narrative that his financial struggles led to the Former Presidents Act.
+
+Source: adapted from "Harry S. Truman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harry_S._Truman

@@ -50,3 +50,5 @@ Philadelphia operates under a strong-mayor form of government. Since 1952, every
 - The origin of the city's name is derived from Greek, but other historical cities named Philadelphia leave the precise inspiration for Penn's choice as a matter of historical interpretation.
 - The city's long population decline from 1950 to 2006 and its subsequent reversal are documented, but the long-term sustainability of this growth amid challenges like affordable housing shortages remains an open question.
 - The effectiveness of the "Green Cities, Clean Water" environmental policy is noted as promising but insufficient, with researchers stating the city must expand plans to adequately mitigate climate change impacts like increased runoff and temperatures.
+
+Source: adapted from "Philadelphia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philadelphia

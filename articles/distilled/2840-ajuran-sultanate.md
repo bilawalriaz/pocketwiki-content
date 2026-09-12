@@ -41,3 +41,5 @@ The empire declined in the late 17th century as rulers abandoned Sharia, became 
 ## Debates and Open Questions
 - The precise origins of the Ajuran are debated, as they are rooted in traditional Somali folklore rather than clear historical records.
 - The exact nature and extent of the *ius primae noctis* practice implemented by the Garen rulers is a point of historical discussion.
+
+Source: adapted from "Ajuran Sultanate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ajuran_Sultanate

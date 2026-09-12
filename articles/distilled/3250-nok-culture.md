@@ -53,3 +53,5 @@ Since the 1970s, Nok sites have been heavily looted for the international art ma
 - **Function of Sculptures**: The primary purpose of the terracotta figures—whether ritual, funerary, or otherwise—is still debated.
 - **Social Complexity**: While the art is sophisticated, the archaeological record shows no evidence of social hierarchy or urban development, leading to questions about the nature of their society.
 - **Descendants**: The link between the Nok culture and later peoples like the Yoruba or Jukun is suggested by stylistic similarities but is not definitively proven.
+
+Source: adapted from "Nok culture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nok_culture

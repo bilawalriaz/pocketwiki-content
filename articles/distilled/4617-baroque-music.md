@@ -48,3 +48,5 @@ The *dance suite* was a core instrumental form, typically containing an allemand
 
 ## Debates and Open Questions
 Scholars debate the precise start and end dates of the Baroque period, as stylistic changes occurred at different times across Europe. The application of the term "Baroque"—originally a pejorative from visual arts criticism—to music is also contested, with some arguing it imposes non-musical categories on the repertoire. There is disagreement about the degree of stylistic unity across the era, given the diversity between national styles (e.g., French vs. Italian) and between sacred and secular music.
+
+Source: adapted from "Baroque music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baroque_music

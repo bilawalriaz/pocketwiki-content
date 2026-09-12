@@ -41,3 +41,5 @@ Part Two shifts focus from Faust's personal soul to broader social, historical, 
 *   **Attribution of Translations**: The authorship of an 1821 English translation is disputed. Some scholars attribute it to Samuel Taylor Coleridge, while others provide evidence against this, citing Coleridge's denials.
 *   **Political Interpretation**: Boris Pasternak's 1950 Russian translation was attacked in the Soviet journal *Novy Mir* for allegedly distorting Goethe's ideas to defend "pure art" and for emphasizing irrational elements over progressive social meaning.
 *   **Completeness of Part Two**: Translator Walter Kaufmann objected to translating all of Part Two, believing its attempt to imitate Greek poetry in German could not be effectively transposed into English.
+
+Source: adapted from "Goethe's Faust" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Goethe%27s_Faust

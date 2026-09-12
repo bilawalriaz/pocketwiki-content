@@ -87,3 +87,5 @@ Mexico City built over Tenochtitlan. Aztec warriors served as Spanish auxiliarie
 - ****Temalacatl**** — Carved stone disk for gladiatorial sacrifice; war captives tied to it and fought armed warriors (e.g., Stone of Tizoc).
 - ****Teotl**** — Central Nahua metaphysical concept: a single, dynamic, self-generating sacred energy/force manifest as deities.
 - ****Tlacotin**** — Slaves; status
+
+Source: adapted from "Aztecs" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aztecs

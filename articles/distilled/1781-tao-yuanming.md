@@ -55,3 +55,5 @@ Zhong Rong (468–518) described Tao's style as "spare and limpid, with scarcely
 ## Debates and open questions
 
 Scholars debate Tao Yuanming's birth year: the *Book of Jin* gives 365, but scholar Yuan Xingpei has argued for 352, which would make him 76 at death rather than 63. Versions of his biography in Chinese sources vary as to his name and age during historical events. Accounts of his second and third government stints also differ between sources, including Lu Qingli's *A Year-by-Year Biography of Tao Yuanming*. The exact circumstances of his resignation—whether due to his sister's death, disgust at court corruption, or the imminent imposition of an onerous supervisor—are variously reported.
+
+Source: adapted from "Tao Yuanming" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tao_Yuanming

@@ -52,3 +52,5 @@ The Salween has extremely high hydropower potential. Since the 1970s, Myanmar an
 - The environmental and social impacts of proposed dams, including sediment trapping, loss of fisheries, and displacement, are major points of contention.
 - The effectiveness of conservation measures versus pressures from logging, mining, and agricultural expansion is debated.
 - The river's role in ongoing ethnic conflicts and whether development projects exacerbate or mitigate tensions is a critical open question.
+
+Source: adapted from "Salween River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Salween_River

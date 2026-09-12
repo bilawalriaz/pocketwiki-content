@@ -36,3 +36,5 @@ Carnot's book received little notice until Émile Clapeyron's 1834 commentary. T
 ## Debates and open questions
 - The precise circumstances and cause of Carnot's mental illness and death are obscured by the actions of his brother, who destroyed many personal papers.
 - Carnot's unpublished 1832 notes show he had moved beyond the caloric theory, but it is debated whether he recognized the full implications for his earlier work or why he did not publish these new ideas.
+
+Source: adapted from "Nicolas Léonard Sadi Carnot" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot

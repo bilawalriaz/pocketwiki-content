@@ -52,3 +52,5 @@ Fine painted pottery declined as metalware became more popular. Vase forms becam
 - The relationship between the "Baroque" and "Rococo" trends is debated; some see them as simultaneous opposites, others as sequential developments.
 - The origins of tessellated mosaics are unclear; there is no direct evidence they evolved from earlier pebble mosaics.
 - The function of "grotesque" terracotta figurines is uncertain—were they medical models, caricatures, or something else?
+
+Source: adapted from "Hellenistic art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hellenistic_art

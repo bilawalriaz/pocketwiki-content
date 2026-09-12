@@ -42,3 +42,5 @@ The war ended with the Treaty of Frankfurt (10 May 1871). France was forced to p
 *   Historians debate whether Bismarck deliberately provoked the war to unite Germany or simply exploited the circumstances as they unfolded. All agree he recognized the potential for new alliances.
 *   The political motivations and military passivity of Marshal Bazaine during the Siege of Metz, including his alleged negotiations with Bismarck, remain a subject of historical criticism and debate.
 *   The extent of war crimes committed by Prussian forces, including summary executions of prisoners and violence against civilians, is documented but the precise scale is part of the historical record.
+
+Source: adapted from "Franco-Prussian War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Franco-Prussian_War

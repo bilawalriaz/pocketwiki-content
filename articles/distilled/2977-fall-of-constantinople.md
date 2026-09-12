@@ -39,3 +39,5 @@ Mehmed II made Constantinople the new Ottoman capital. The Hagia Sophia was conv
 - **Fate of Constantine XI**: His body was never identified; legends claim he was turned to marble or will return.
 - **Impact on the Renaissance**: The extent to which the migration of Byzantine scholars directly caused the Renaissance is debated.
 - **Millet System**: The idea that Mehmed II created a formal system of religious autonomy for Christians is now considered a later myth.
+
+Source: adapted from "Fall of Constantinople" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fall_of_Constantinople

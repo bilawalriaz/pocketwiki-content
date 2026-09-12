@@ -51,3 +51,5 @@ Punjab is an agricultural powerhouse, known as the "breadbasket" of both India a
 *   The exact site of the Battle of the Hydaspes (326 BCE) between Alexander the Great and Porus remains unknown.
 *   The early life and exact accession date of Chandragupta Maurya are unclear, with conflicting accounts from Greek and Indian sources.
 *   The demographic impact and scale of casualties during the 1947 Partition are subjects of ongoing historical study.
+
+Source: adapted from "Punjab" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Punjab

@@ -53,3 +53,5 @@ Ottawa is governed by a mayor and city council. As the national capital, it host
 - The selection of Ottawa as capital was historically contentious, with debate over other cities like Montreal and Toronto.
 - The 2022 Freedom Convoy occupation raised questions about public order, protest rights, and the Emergencies Act.
 - Negotiations regarding an Algonquin land claim for the unceded territory have been ongoing since 1991, with an agreement in principle in 2016 but no final treaty.
+
+Source: adapted from "Ottawa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ottawa

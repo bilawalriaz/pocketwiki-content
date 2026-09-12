@@ -46,3 +46,5 @@ The novel is structured in six parts and an epilogue, with a symmetrical "flatte
 *   **Raskolnikov's Motives:** Scholars analyze whether his crime stems primarily from ideological theory, psychological illness, social environment, or a combination of all three.
 *   **Dostoevsky's Craftsmanship:** Early critics saw his narrative style as messy and untidy, but later analysis (e.g., by Bakhtin) reveals a highly sophisticated, intentional "dialogical" architecture.
 *   **Political Interpretation:** Radicals like Pisarev initially rejected the novel's portrayal of their ideas, while Soviet critics often emphasized environmental determinism, downplaying its religious and philosophical dimensions.
+
+Source: adapted from "Crime and Punishment" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Crime_and_Punishment

@@ -44,3 +44,5 @@ After a kidney transplant in 2004, Lomu made a professional comeback in 2005, pl
 ## Debates and Open Questions
 - The source presents Lomu's impact as universally transformative, but does not explore any scholarly debate on the extent of his influence compared to other contemporaries.
 - His financial troubles are noted, with earnings absorbed by divorces, medical bills, and failed ventures, but no debate is presented on the causes or management of his finances.
+
+Source: adapted from "Jonah Lomu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jonah_Lomu

@@ -43,3 +43,5 @@ Hernando de Soto's expedition (1539–43) provides crucial written records of Mi
 - The exact causes of Cahokia's decline are debated, with factors including drought, deforestation, overhunting, and political instability.
 - The nature of the relationship between Cahokia and its outposts (e.g., missionary vs. pilgrimage site) is interpreted differently by scholars.
 - The degree of social stratification and the specific political structures (e.g., theocracy) of Mississippian chiefdoms remain subjects of archaeological investigation.
+
+Source: adapted from "Mississippian period (archaeology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mississippian_period_%28archaeology%29

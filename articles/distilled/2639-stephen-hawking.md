@@ -44,3 +44,5 @@ Hawking married Jane Wilde in 1965, and they had three children. His physical ab
 - **Black Hole Information Paradox:** A major debate over whether information that falls into a black hole is permanently lost when it evaporates via Hawking radiation, which would violate quantum mechanics. Hawking initially argued information was lost but later conceded the bet, proposing it could be retrieved.
 - **The No-Boundary Proposal:** The idea that the universe has no initial boundary remains a significant but debated model in quantum cosmology, with implications for the origin of time.
 - **Existence of God:** Hawking's work, particularly the no-boundary proposal, led him to argue that a creator God was not necessary to explain the universe's origin, though he acknowledged the question of why the universe exists at all.
+
+Source: adapted from "Stephen Hawking" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stephen_Hawking

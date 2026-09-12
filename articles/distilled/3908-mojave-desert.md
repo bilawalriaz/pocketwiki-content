@@ -45,3 +45,5 @@ The Mojave Desert is one of the best-protected ecoregions in the U.S., largely d
 - The exact boundaries of the Mojave Desert are less distinctive to the east due to the absence of a clear indicator species like the Joshua tree.
 - The impact of large-scale renewable energy developments on desert ecosystems and cultural landscapes is an ongoing concern, highlighted by incidents like the death of an endangered bird at a solar farm.
 - The long-term effects of invasive annual grasses on the desert's natural fire regime and native plant communities are a significant area of ecological study.
+
+Source: adapted from "Mojave Desert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mojave_Desert

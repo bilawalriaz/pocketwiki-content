@@ -40,3 +40,5 @@ As a professor at Göttingen for 46 years, Wöhler trained about 8,000 students.
 
 ## Debates and open questions
 The source notes that Wöhler's role in definitively overturning vitalism has been exaggerated over time. His synthesis was initially celebrated as a refutation, but historians like Hermann Kopp emphasized it more as a demonstration of isomerism. Furthermore, modern chemistry understands that cyanate is not purely inorganic, as it is formed in metabolic pathways, meaning Wöhler's reaction was not a strict conversion from inorganic to organic matter. The extent to which his work single-handedly ended the vitalism debate remains a point of historical discussion.
+
+Source: adapted from "Friedrich Wöhler" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Friedrich_W%C3%B6hler

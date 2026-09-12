@@ -40,3 +40,5 @@ The Dnieper is a national symbol of Ukraine, mentioned in its anthem. It has ins
 
 ## Debates and Open Questions
 The etymology of the river's ancient name is disputed, with competing theories linking it to Sarmatian or Scythian languages. The exact number of historical rapids is also debated, with sources citing either nine major rapids or a smaller number. The future of the international waterway connection via the Dnieper–Bug Canal is uncertain due to political relations and infrastructure barriers.
+
+Source: adapted from "Dnieper" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dnieper

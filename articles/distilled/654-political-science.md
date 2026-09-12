@@ -40,3 +40,5 @@ Political science occupies a position between the sciences and humanities in the
 
 ## Debates and Open Questions
 Scholars debate the extent to which political science can achieve the same level of predictive and explanatory rigor as the natural sciences, given the complexity and consciousness of human actors. The Perestroika Movement highlighted tensions between mathematical formalization and methodological diversity, with ongoing disagreement over the proper balance between quantitative and qualitative approaches. The integration of normative and positive political science remains contested, as does the field's relevance to external audiences. Additionally, the applicability of evolutionary psychology to political behavior raises questions about the universality and adaptability of ancestral psychological mechanisms in modern political systems.
+
+Source: adapted from "Political science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Political_science

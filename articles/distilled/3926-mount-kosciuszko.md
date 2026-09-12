@@ -36,3 +36,5 @@ The mountain is the easiest of the "Seven Summits" (the highest peaks on each co
 
 ## Debates and Open Questions
 The primary debate concerns the proposed dual name *Kunama Namadgi*. Proponents, like the Toomaroombah Kunama Namadgi Indigenous Corporation, state it is the traditional Ngarigo name. Opponents, including some Indigenous elders, dispute its authenticity and meaning, arguing it is not from their language and is offensive. This reflects broader discussions about the process and criteria for officially recognizing Indigenous place names.
+
+Source: adapted from "Mount Kosciuszko" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Kosciuszko

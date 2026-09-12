@@ -55,3 +55,5 @@ Dublin has a rich literary heritage, producing Nobel laureates like Yeats, Shaw,
 *   The extent and impact of the Viking slave trade on Dublin's early economic growth is noted by historians but remains a topic of scholarly discussion.
 *   The historical north-south cultural and economic divide within the city, while less pronounced, continues to be a subject of social analysis.
 *   The severity of the current housing crisis and its impact on the city's social fabric and economic competitiveness is a major ongoing public and political debate.
+
+Source: adapted from "Dublin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dublin

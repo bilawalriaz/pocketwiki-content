@@ -33,3 +33,5 @@ Most modern economists reject the idea that bilateral deficits are inherently ba
 ## Effect on GDP and distinction from the balance of payments
 
 Net exports enter the expenditure-based calculation of GDP directly, so a surplus adds to it and a deficit subtracts from it. The balance of trade is narrower than the **balance of payments**: the trade balance covers only visible goods, while the balance of payments adds services, investment income, transfers, and capital flows.
+
+Source: adapted from "Balance of trade" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Balance_of_trade

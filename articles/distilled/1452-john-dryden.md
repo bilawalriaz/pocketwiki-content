@@ -65,3 +65,5 @@ In 1672 Dryden objected to Ben Jonson’s phrase “The bodies that those souls 
 - **Literary reputation trajectory**: Wordsworth and Matthew Arnold dismissed Dryden as lacking “sensibility” and being “classics of our prose,” while T. S. Eliot hailed him as “the ancestor of nearly all that is best in the poetry of the eighteenth century” yet accused him of a “commonplace mind.”
 - **Marriage and personal life**: Little evidence survives about the Drydens’ domestic relationship; Lady Elizabeth’s reported mental decline after his death and the childlessness of their three sons leave biographical gaps.
 - **Authorship of the preposition rule**: Dryden’s 1672 objection to Jonson is the earliest recorded instance, but whether he *invented* the rule or codified an existing preference remains debated.
+
+Source: adapted from "John Dryden" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Dryden

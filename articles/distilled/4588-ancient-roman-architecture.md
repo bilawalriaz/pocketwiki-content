@@ -47,3 +47,5 @@ Triumphal **arches** were free-standing monuments commemorating military victori
 
 ## Debates and Open Questions
 The source notes that the idealized proportions described by the architect Vitruvius do not always reflect actual Roman practice, which was variable. There is also scholarly debate about the precise meaning and social implications of the word *insula*, which referred to both apartment buildings and the city blocks they occupied. The origins of the triumphal arch form are described as unclear, with precursors in Etruscan gates and Greek architectural elements.
+
+Source: adapted from "Ancient Roman architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Roman_architecture

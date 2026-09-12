@@ -55,3 +55,5 @@ Turner’s framework shaped religious historiography (e.g., frontier origins of 
 - **Environmental Determinism vs. Agency**: Turner’s evolutionary language suggests geography determines culture. The extent to which he allowed for human agency or cultural persistence remains contested.
 - **Sectionalism vs. Nationalism**: Does Turner’s sectional model explain the Civil War and political realignments better than nationalist narratives, or does it fragment the national story excessively?
 - **Influence on Popular Myth vs. Academic History**: Why did Turner’s thesis dominate popular culture (film, parks, politics) long after academic historians rejected it? The gap between scholarly consensus and public memory is an open research area.
+
+Source: adapted from "Frederick Jackson Turner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frederick_Jackson_Turner

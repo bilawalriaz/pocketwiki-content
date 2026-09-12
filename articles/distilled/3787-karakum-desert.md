@@ -35,3 +35,5 @@ The oases of Mary and Tejen are noted for cotton cultivation. The Trans-Caspian 
 
 ## Debates and Open Questions
 The source does not explicitly detail scholarly debates, but it presents the cause of the Aral Sea's loss as a historical fact tied to Soviet irrigation projects. The completion and environmental impact of the massive Golden Age Lake project are presented as ongoing plans with significant costs and a long timeline, implying future uncertainty.
+
+Source: adapted from "Karakum Desert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Karakum_Desert

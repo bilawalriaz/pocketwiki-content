@@ -39,3 +39,5 @@ mRNA lifetime sets how much protein a cell can make from a transcript. In mammal
 ## Discovery and application
 
 The idea of mRNA emerged from the PaJaMo experiment of Arthur Pardee, François Jacob, and Jacques Monod, which hinted at a short-lived informational intermediate. On 15 April 1960, Sydney Brenner and Francis Crick heard Jacob describe the result at Cambridge, and with Matthew Meselson at Caltech they ran the experiment that proved mRNA existed. Jacob and Monod coined the name "messenger RNA" later that year. Two back-to-back papers in May 1961, one by Brenner, Jacob, and Meselson, the other by Watson and Gros, experimentally characterised the molecule. The 2023 Nobel Prize in Physiology or Medicine was awarded to Katalin Karikó and Drew Weissman for nucleoside-modified mRNA that worked as a vaccine, the same class deployed against COVID-19 by Pfizer–BioNTech and Moderna.
+
+Source: adapted from "Messenger RNA" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Messenger_RNA

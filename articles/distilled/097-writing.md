@@ -92,3 +92,5 @@ Orthography comprises rules and conventions for writing a language, including ho
 - The Proto-Sinaitic script's precise dating and the graphical origins of many letterforms remain unclear; the script remains undeciphered.
 - Whether notation systems for signed languages like SignWriting constitute a written form of sign language is not universally agreed.
 - McLuhan's theories are critiqued as overemphasizing the medium and being overly deterministic.
+
+Source: adapted from "Writing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Writing

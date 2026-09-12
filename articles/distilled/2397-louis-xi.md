@@ -45,3 +45,5 @@ Louis skillfully isolated Burgundy by signing the Treaty of Picquigny with Engla
 - The exact nature of Louis's childhood marriage to Margaret of Scotland is debated; while it was politically arranged and unhappy, the personal feelings of the couple are unknown.
 - Louis's reputation is complex: he is praised as a "civil reformer" and unifier of France but also criticized for his secretive, treacherous methods. Niccolò Machiavelli later condemned his reliance on Swiss mercenaries over a national infantry.
 - The long-term impact of his Italian marriage alliance is debated; while it initiated French involvement, the major Italian Wars began under his son, Charles VIII.
+
+Source: adapted from "Louis XI" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_XI

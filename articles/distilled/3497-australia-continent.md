@@ -51,3 +51,5 @@ Australia has a highly developed, service-based economy and is a major global ec
 - The precise timing of the first human arrival in Australia is debated, with evidence pointing to at least 50,000 years ago, and possibly 65,000 years ago.
 - The definition and boundaries of "Oceania" versus the "continent of Australia" vary among geographical, political, and statistical organizations.
 - The implementation of "Special Autonomy" for Papua province in Indonesia is partial and often criticized.
+
+Source: adapted from "Australia (continent)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Australia_%28continent%29

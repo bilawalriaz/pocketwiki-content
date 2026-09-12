@@ -45,3 +45,5 @@ Aleppo's Old City, a UNESCO World Heritage Site, is characterized by its medieva
 *   The identification of the ancient city of **Armi**, mentioned in the Ebla tablets, with Aleppo is contested by historians.
 *   The extent to which post-Ottoman border changes, rather than internal factors, caused Aleppo's decline relative to Damascus is a subject of historical analysis.
 *   The causes of the 1850 sectarian violence in Aleppo are debated; some scholars argue it was driven by economic tensions from Tanzimat reforms rather than pure religious conflict.
+
+Source: adapted from "Aleppo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aleppo

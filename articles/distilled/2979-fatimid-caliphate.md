@@ -44,3 +44,5 @@ Internal decay began with the long, detached reign of al-Mustansir (1036–1094)
 - The extent of popular conversion to Isma'ili Shi'ism in Egypt remains unclear, with sources reporting enthusiasm that later waned.
 - The character and motivations of Caliph al-Hakim are heavily debated: traditional sources portray him as insane, while modern scholarship seeks explanations in political and social context.
 - The precise nature of negotiations between the Fatimids and the First Crusade is uncertain, with some sources suggesting the Fatimids may have invited the Crusaders to attack the Seljuks.
+
+Source: adapted from "Fatimid Caliphate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fatimid_Caliphate

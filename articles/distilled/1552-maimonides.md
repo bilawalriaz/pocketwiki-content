@@ -81,3 +81,5 @@ Maimonides was not a Kabbalist. *The Guide* explicitly conceals *Sod* (esoteric 
 *   **Kabbalah Stance:** Was Maimonides strictly anti-mystical, or does *The Guide* contain a rationalist mysticism (intellectual conjunction with Active Intellect) functionally similar to Kabbalistic *devekut* (cleaving)?
 *   **Medical Oath/Prayer:** The *Oath of Maimonides* (1793) and *Prayer of Maimonides* are likely later compositions (attributed to Markus Herz), not authentic.
 *   **Burial:** Medieval sources claim reburial in Tiberias; no contemporary evidence confirms removal from Fustat. The Tiberias tomb inscription ("From Moses to Moses arose none like Moses") reflects the medieval epitaph.
+
+Source: adapted from "Maimonides" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maimonides

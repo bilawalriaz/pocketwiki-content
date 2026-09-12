@@ -71,3 +71,5 @@ Scholars (Wendy Brown, Carolin Amlinger, Oliver Nachtwey) identify a 21st-centur
 - **What drives the 21st-century "democratic recession"?** Contested explanations: globalization backlash, populism/neo-nationalism, Beijing Consensus appeal, 2008 crisis, wage stagnation, social media’s epistemic disruption, far-right extremism mainstreaming.
 - **How to classify hybrid regimes?** The spectrum between democracy and authoritarianism produces competing typologies (competitive authoritarianism, electoral authoritarianism, hybrid regimes, authoritarian constitutionalism) with debated boundaries and defining criteria.
 - **Is the U.S. experiencing democratic backsliding?** A 2025 expert survey indicates the vast majority view movement toward authoritarianism; the extent, causes, and trajectory remain subjects of intense scholarly and public debate.
+
+Source: adapted from "Authoritarianism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Authoritarianism

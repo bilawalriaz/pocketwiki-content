@@ -32,3 +32,5 @@ Omdurman is a major educational hub with several public universities, including 
 
 ## Debates and open questions
 The source does not present explicit scholarly debates, but the etymology of "Omdurman" is noted as unknown, with the literal translation "Mother of Durmān" offering no clear identification of the namesake.
+
+Source: adapted from "Omdurman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Omdurman

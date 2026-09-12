@@ -50,3 +50,5 @@ The economy is diverse, with major sectors including real estate, finance, manuf
 - **Water Sustainability**: The long-term viability of Phoenix's growth is debated due to its reliance on the Colorado River and groundwater, with the 2023 state halt on new groundwater-dependent development highlighting the crisis.
 - **Urban Sprawl vs. Density**: The city's low-density, sprawling development pattern is frequently analyzed as a case study, raising questions about its environmental and economic sustainability compared to more compact cities.
 - **Historical Segregation**: The legacy of post-WWII segregation, where growth was concentrated in white neighborhoods on the north side, continues to shape the city's social and geographic landscape.
+
+Source: adapted from "Phoenix, Arizona" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Phoenix%2C_Arizona

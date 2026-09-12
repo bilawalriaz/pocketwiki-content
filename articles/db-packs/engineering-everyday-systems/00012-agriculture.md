@@ -42,3 +42,5 @@ Plant breeding advanced after Mendel's genetics work, and X-ray and UV mutagenes
 - **Eutrophication**: excessive nutrient enrichment of water bodies causing algal blooms and oxygen loss.
 - **Integrated pest management (IPM)**: combining chemical, biological, mechanical, and cultural methods, with pesticides as a last resort.
 - **Fire-stick farming**: controlled burning by indigenous peoples to sustain low-density agriculture.
+
+Source: adapted from "Agriculture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Agriculture

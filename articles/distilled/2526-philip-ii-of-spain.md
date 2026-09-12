@@ -47,3 +47,5 @@ Following a succession crisis after the death of King Sebastian in 1578, Philip 
 
 ## Debates and Open Questions
 Historical assessments of Philip II are deeply divided, influenced by the "Spanish Black Legend" of anti-Spanish propaganda and the "White Legend" of his defenders. Scholars debate whether his rigid Catholicism and micromanagement style doomed his policies to failure, or if his achievements in consolidating Spain's empire and defending Catholicism were significant. Historian Geoffrey Parker argues that Philip's character flaws—micromanagement, inflexibility, and messianic thinking—prevented him from effectively managing his vast empire, despite his dedication and hard work.
+
+Source: adapted from "Philip II of Spain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philip_II_of_Spain

@@ -44,3 +44,5 @@ Formal protection began in 1959 with the national park, followed by the marine r
 - **Pre-Columbian visitation**: Archaeological evidence is debated. While some artifacts were found, a 2016 reanalysis suggests they may have been deposited after Spanish contact, and no evidence of permanent settlement exists.
 - **Conservation vs. Development**: The islands face ongoing tension between protecting their unique ecosystems and supporting the local economy, which is heavily dependent on tourism and fishing.
 - **Effectiveness of protection**: While significant progress has been made, the recurring threat of invasive species and the impacts of climate events like El Niño raise questions about the long-term efficacy of conservation measures.
+
+Source: adapted from "Galápagos Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands

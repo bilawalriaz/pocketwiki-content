@@ -52,3 +52,5 @@ In the absence of a magnetic field, all orbitals with the same *n* and *ℓ* hav
 ## Other magnetic quantum numbers
 
 The same idea generalises to other angular momenta: *mj* labels the *z*-component of the total electronic angular momentum *j*, and *mI* labels the *z*-component of nuclear spin *I*. Capital letters (*ML*, *MS*, …) denote totals for a system of particles rather than a single one.
+
+Source: adapted from "Magnetic quantum number" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Magnetic_quantum_number

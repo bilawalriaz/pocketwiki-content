@@ -91,3 +91,5 @@ The word *meat* derives from Old English *mete*, meaning food in general. Modern
 - **Environmental accounting:** Nations show vastly different emissions intensities (Brazil, Australia >200% above income-group averages); optimal mitigation policies for diverse production systems are debated.
 - **Cultural vs. planetary boundaries:** Biologists argue industrial meat's "planetary monopoly" must be curbed, but emphasize respecting indigenous cultures where meat is a vital protein source.
 - **Alternative proteins:** Scalability, consumer acceptance, and regulatory pathways for cultured meat, microbial protein, and plant-based substitutes remain open questions.
+
+Source: adapted from "Meat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Meat

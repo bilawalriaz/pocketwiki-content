@@ -44,3 +44,5 @@ The Black Death (1347) caused massive fatalities, disrupting labor systems and c
 - The extent to which the Black Death directly caused serfdom's decline in Western Europe versus other factors like peasant revolts and economic change.
 - The classification of Tibetan social structures before 1959 as serfdom is contested by scholars like Melvyn Goldstein.
 - The degree to which serfdom in Russia had evolved into *de facto* slavery by the 19th century, despite its name.
+
+Source: adapted from "Serfdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Serfdom

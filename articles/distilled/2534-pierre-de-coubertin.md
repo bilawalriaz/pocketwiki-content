@@ -39,3 +39,5 @@ Coubertin became the second IOC president in 1896. His tenure saw the early Game
 *   **Class and Control:** Critics argue that the modern amateur ideal was a tool for upper-class control over sport, excluding working-class athletes. Defenders suggest Coubertin was unaware of these class repercussions.
 *   **Historical Accuracy:** Coubertin's romanticized vision of the ancient Games (e.g., the importance of participation over winning, the Games as a direct impetus for peace) is considered by scholars to differ significantly from the historical record.
 *   **Role in 1896 Games:** The extent of Coubertin's practical involvement in planning the 1896 Athens Games is questioned, with some accounts suggesting he played a minor logistical role.
+
+Source: adapted from "Pierre de Coubertin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pierre_de_Coubertin

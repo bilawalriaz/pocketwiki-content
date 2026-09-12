@@ -45,3 +45,5 @@ The WHO ended the public health emergency in May 2023, though it continued to ca
 *   **Pandemic End Point:** There is no universally agreed-upon definition for when a pandemic ends. The WHO's 2023 decision to end the PHEIC was not a declaration that the pandemic was over, and experts continue to debate whether COVID-19 should still be described as a pandemic.
 *   **Origin of the Virus:** While the scientific consensus favors a zoonotic origin, other hypotheses, including a potential laboratory incident, have been proposed and remain subjects of investigation and debate.
 *   **True Mortality Toll:** Significant uncertainty remains around the exact global death toll, with estimates of excess mortality far exceeding official confirmed counts. Distinguishing deaths directly caused by COVID-19 from those caused by indirect consequences (e.g., overwhelmed healthcare systems) is an ongoing challenge.
+
+Source: adapted from "COVID-19 pandemic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/COVID-19_pandemic

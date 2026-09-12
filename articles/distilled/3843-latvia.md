@@ -44,3 +44,5 @@ The Singing Revolution, a peaceful protest movement, began in 1987. In 1990, Lat
 *   **Language Policy:** The transition from Russian to Latvian as the sole language of instruction in schools has been a contentious issue, with debates over minority rights, integration, and national identity. A 2012 referendum to make Russian a second official language was rejected by 74.8% of voters.
 *   **Citizenship and Integration:** The large population of non-citizens (14.1% in 2015) remains a political and social challenge, raising questions about democratic inclusion and social cohesion.
 *   **Historical Memory:** The interpretation of the Soviet period and the roles of collaborators and victims during the Nazi and Soviet occupations continue to be subjects of scholarly and public debate.
+
+Source: adapted from "Latvia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Latvia

@@ -43,3 +43,5 @@ The range hosts significant protected areas in both countries. In Bulgaria, the 
 
 ## Debates and Open Questions
 The exact etymology of the ancient name "Haemus" is debated, with competing folk etymologies from Greek mythology. The environmental impact of proposed micro-hydropower plants in Serbia's protected areas has been a major point of contention between developers, authorities, and local communities.
+
+Source: adapted from "Balkan Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Balkan_Mountains

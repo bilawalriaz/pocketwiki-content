@@ -51,3 +51,5 @@ Ukraine has a transition economy with the lowest nominal GDP per capita in Europ
 *   The classification of the Holodomor as a genocide versus a broader Stalinist policy of repression.
 *   The degree of agency and collaboration of Ukrainian nationalist groups (like the OUN and UPA) with Nazi Germany during World War II.
 *   The future trajectory of Ukraine's integration with the EU and NATO, especially in the context of the ongoing war with Russia.
+
+Source: adapted from "Ukraine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ukraine

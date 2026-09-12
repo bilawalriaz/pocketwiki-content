@@ -61,3 +61,5 @@ Mies died of esophageal cancer in 1969. His ashes rest under a plain black grani
 - **Ornament vs. structure**: Critics (invoking Adolf Loos) argued the Seagram Building’s deepened H-shaped mullions—exaggerated beyond structural necessity—constituted "crime of ornamentation," challenging Mies’s claim to structural honesty.
 - **Posthumous relevance**: The rapid eclipse of Miesian modernism by postmodernism (Venturi’s "less is a bore") and subsequent architectural movements prompts debate on whether his rigid formal vocabulary was inherently limited or whether its corporate adoption diluted its critical potency.
 - **Lilly Reich attribution**: Scholars continue to reassess the collaborative role of Lilly Reich (1885–1947) in Mies’s European projects and furniture designs, given her 1,000 drawings in the MoMA archive and partnership from 1927–1937.
+
+Source: adapted from "Ludwig Mies van der Rohe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe

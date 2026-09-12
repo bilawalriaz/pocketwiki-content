@@ -45,3 +45,5 @@ The region's population was estimated at over 537.9 million in 2017. Languages i
 - The exact location and timeline of the emergence of anatomically modern humans are debated, with evidence from sites like Jebel Irhoud (Morocco) and Olorgesailie (Kenya) suggesting a broader origin in Africa.
 - The causes of East Africa's low rainfall totals are not fully understood, though factors like the Somali Jet and rift valley topography are proposed.
 - The precise boundaries of "East Africa" remain fluid, with varying definitions used by the UN, regional organizations, and in common parlance.
+
+Source: adapted from "East Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/East_Africa

@@ -51,3 +51,5 @@ Before their conversion, the Franks practiced Germanic paganism, likely polythei
 - The historicity and precise meaning of Frankish mythological origin stories, which link them to Troy and Pannonia, are debated.
 - The nature of the relationship between the Roman commander Aegidius and the Frankish leader Childeric I in the mid-5th century is unclear.
 - The extent to which early Franks were primarily infantry or cavalry is debated, as Byzantine sources conflict with archaeological and Frankish legal evidence.
+
+Source: adapted from "Franks" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Franks

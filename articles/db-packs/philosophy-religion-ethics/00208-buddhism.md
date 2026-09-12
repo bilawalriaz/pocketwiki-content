@@ -51,3 +51,5 @@ Theravāda also spread to Sri Lanka (3rd c. BCE) and East Asia: Korea (4th c.), 
 ## Living Debates
 
 The dates and social background of the historical Buddha remain uncertain (5th vs. 6th century BCE). Scholars disagree on whether a coherent "earliest Buddhism" can be recovered, on Mahāyāna's origins (textual, monastic, or lay), and on whether tathāgatagarbha contradicts non-self. Vajrayāna's debt to Hindu Tantra is read as direct borrowing, mutual influence, or undetermined. Contemporary Buddhists also debate whether meat-eating is permitted and whether Buddhism is best classed as religion, philosophy, or psychology.
+
+Source: adapted from "Buddhism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Buddhism

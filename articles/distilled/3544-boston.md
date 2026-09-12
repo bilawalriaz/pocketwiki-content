@@ -43,3 +43,5 @@ The early 20th century saw architectural growth but later economic decline as fa
 - The effectiveness and social cost of mid-20th century urban renewal projects, such as the demolition of the West End, remain debated.
 - The long-term impacts of gentrification on Boston's neighborhoods and affordability are ongoing concerns.
 - The city's strategies for mitigating sea-level rise and climate change impacts are a critical and evolving policy challenge.
+
+Source: adapted from "Boston" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Boston

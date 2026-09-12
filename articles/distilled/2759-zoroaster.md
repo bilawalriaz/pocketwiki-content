@@ -41,3 +41,5 @@ Zoroaster's ideas may have influenced later religions. Some scholars see his con
 - **Historicity**: By modern historiographical standards, no evidence can place Zoroaster in a fixed period, and the historicization of his life may be a later development.
 - **Birthplace**: While generally agreed to be in eastern Iran, specific locations like Bactria, Sistan, or the Bactria–Margiana Archaeological Complex remain tentative proposals.
 - **Influence**: The extent of Zoroaster's direct influence on Greek philosophers (e.g., Heraclitus, Plato) and Abrahamic religions is a subject of ongoing scholarly controversy.
+
+Source: adapted from "Zoroaster" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zoroaster

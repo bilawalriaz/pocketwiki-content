@@ -43,3 +43,5 @@ A decreased LOC can also result from a combination of these factors.
 Assessment begins with observation: how quickly and accurately the person responds to questions, touch, and pain, and whether reflexes such as cough and gag are intact. In the emergency setting, the first investigations usually include pulse oximetry to rule out hypoxia, a blood glucose to rule out hypoglycaemia, a urine drug screen, and a CT head to look for bleeding. A lumbar puncture is added if meningitis is suspected.
 
 Initial treatment targets the most easily reversible causes: intravenous dextrose for low blood sugar, oxygen for hypoxia, naloxone for opioid overdose, and thiamine, given with glucose to prevent Wernicke encephalopathy in malnourished patients. Subsequent care addresses the underlying cause revealed by the workup.
+
+Source: adapted from "Altered level of consciousness" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Altered_level_of_consciousness

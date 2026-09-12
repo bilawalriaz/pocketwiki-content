@@ -66,3 +66,5 @@ Outer space, a near-vacuum of hydrogen-helium plasma, contains cosmic microwave 
 - The role of dark matter and dark energy in cosmic evolution is unknown.
 - Whether life exists beyond Earth, particularly on Mars or icy moons, is unresolved.
 - The anthropic principle and fine-tuning of physical constants spark debate about the universe’s apparent design for life.
+
+Source: adapted from "Nature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nature

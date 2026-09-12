@@ -28,3 +28,5 @@ Most buildings hide substantial internal infrastructure. Heating, cooling, elect
 ## Risks
 
 Buildings face damage from a predictable set of hazards: storms, explosions, ground subsidence, landslides, fire, flooding, poor maintenance, and improper alterations. Each of these modes is recognised in building codes and engineering practice, which is why surveyors and specialist engineers are part of the standard design team rather than optional additions.
+
+Source: adapted from "Building" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Building

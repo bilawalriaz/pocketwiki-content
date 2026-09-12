@@ -50,3 +50,5 @@ Core theoretical components: warmth (intimacy, closeness, companionship), confli
 - **Sibling Relationship Inventory (SRI):** Affection, hostility, rivalry.
 
 **Outcomes:** Low quality links to increased sibling conflict, higher depression risk, and greater drug involvement. High quality associates with greater social competence, fewer adolescent problem behaviors, reduced depressive symptoms after stress, and higher psychological well-being. Supportive sibling relationships foster empathy, communication, and companionship; conflict provides practice for emotion regulation and problem-solving in a familiar setting. Consistent emotional support and communication strengthen trust and family bonds over time, shaping long-term social competence and psychological well-being.
+
+Source: adapted from "Relationship quality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Relationship_quality

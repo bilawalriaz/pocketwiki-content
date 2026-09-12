@@ -44,3 +44,5 @@ The Alans were famed for their highly mobile cavalry. They used tactics like the
 - The extent of Alanic influence on Gothic culture and military tactics after the 3rd century is a subject of study.
 - The primary cause of the Alans' apostasy from Christianity in 932, as reported by al-Mas‘udi, is unclear.
 - The location and historical reality of the 12-year Mongol siege of an Alan mountain fortress, reported by Giovanni da Pian del Carpine, is uncertain.
+
+Source: adapted from "Alans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alans

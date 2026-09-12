@@ -44,3 +44,5 @@ In linguistics, philosopher Mikhail Bakhtin introduced "speech genres"—sociall
 - **Stability vs. Change**: Genres are defined by conventions, but they must adapt to changing audiences and creators. How they maintain identity while evolving is a central question.
 - **Arbitrariness**: Especially in music, genre classifications are often seen as arbitrary, controversial, and overlapping, reflecting sociological differences more than strict musical criteria.
 - **Educational Application**: There is debate about whether standard composition courses teach authentic, useful genres or merely inauthentic "mutt genres" with little real-world application.
+
+Source: adapted from "Genre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Genre

@@ -43,3 +43,5 @@ The revolution ended feudalism and monarchy, introducing republican ideals. Howe
 - **Role of Foreign Powers**: The extent of foreign influence, particularly from Japan and Western nations, in shaping the revolution's outcome is contested.
 - **Social Impact**: Scholars question whether the revolution brought meaningful social change or primarily benefited existing elites.
 - **Legacy in Modern China**: Both the ROC and PRC interpret the revolution's legacy to legitimize their own rule, creating ongoing political and historical narratives.
+
+Source: adapted from "1911 Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/1911_Revolution

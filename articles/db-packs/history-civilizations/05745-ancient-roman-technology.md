@@ -35,3 +35,5 @@ The standard legionary javelin was the pilum, about 2.25 kg, designed to be unus
 ## Medicine
 
 Roman military surgeons pioneered the battlefield surgical unit and developed instruments still in use today, including hemostatic tourniquets and arterial clamps, alongside a rudimentary antiseptic technique.
+
+Source: adapted from "Ancient Roman technology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Roman_technology

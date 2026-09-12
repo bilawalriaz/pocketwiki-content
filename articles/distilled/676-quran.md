@@ -68,3 +68,5 @@ The Quran’s connections to Jewish and Christian texts are widely acknowledged.
 
 ### Modern Standardization  
 The 1924 Cairo edition is the standard text used today, but its dominance has marginalized other readings, such as the Warsh version in North Africa. The lack of a critical edition based on manuscript evidence remains a point of contention among scholars seeking to reconstruct the Quran’s earliest form.
+
+Source: adapted from "Quran" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Quran

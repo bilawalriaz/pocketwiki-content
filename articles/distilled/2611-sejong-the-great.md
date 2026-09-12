@@ -51,3 +51,5 @@ Sejong suffered from recurring health issues, likely diabetes or ankylosing spon
 - **Health Diagnosis**: Historians and medical researchers debate whether Sejong's symptoms indicate type 1 or type 2 diabetes, or ankylosing spondylitis.
 - **Effectiveness of Northern Policies**: Historians have mixed evaluations of Sejong's efforts to pacify the northern frontier, noting that Korean settlers often struggled and the region remained problematic.
 - **North Korean View**: North Korean texts reportedly evaluate Sejong skeptically as a feudal oppressor, downplaying his achievements and attributing Hangul's development to the masses.
+
+Source: adapted from "Sejong the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sejong_the_Great

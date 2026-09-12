@@ -54,3 +54,5 @@ Berlioz's style defied convention, emphasizing irregular rhythms, expanded orche
 ## Debates and Open Questions
 
 Berlioz's place in music history remains debated. Julian Rushton argues he had no predecessors or successors, calling him a "lone wolf." Critics like Pierre Boulez noted "awkward harmonies," while defenders highlight his orchestral innovations. The *Symphonie fantastique* is celebrated for its form and emotional depth, yet some view it as structurally loose. *Les Troyens* is hailed as his masterpiece, but its staging challenges persist. His *Treatise on Instrumentation* influenced generations, but his operas' infrequent performance raises questions about their accessibility. Recent scholarship, aided by recordings, has rehabilitated his reputation, though debates over his technical mastery and coherence continue.
+
+Source: adapted from "Hector Berlioz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hector_Berlioz

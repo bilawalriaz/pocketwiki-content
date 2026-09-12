@@ -49,3 +49,5 @@ Ankara's main sights include the Ankara Castle, the ancient Temple of Augustus a
 *   The identification of Ankara with the Hittite cult center **Ankuwaš** is a matter of debate.
 *   The exact date of the city's capture by the Seljuk Sultanate of Rum after 1073 is unknown.
 *   There is debate over whether Atatürk's famous quote at the Security Monument is "Be proud" (*övün*) or "Use your mind" (*öğün*).
+
+Source: adapted from "Ankara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ankara

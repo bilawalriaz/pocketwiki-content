@@ -36,3 +36,5 @@ The lake is a critical stop on Asian bird migration routes, making it a focal po
 
 ## Debates and Open questions
 The primary debate concerns the lake's recent size fluctuation. After shrinking for most of the 20th century due to factors like overgrazing and land reclamation, its water level has been rising since 2004. The causes of this reversal and its long-term ecological implications are ongoing areas of study.
+
+Source: adapted from "Qinghai Lake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Qinghai_Lake

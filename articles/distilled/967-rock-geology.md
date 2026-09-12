@@ -56,3 +56,5 @@ Rocks have shaped human civilization for at least 2.5 million years, beginning w
 ## Debates and Open Questions
 
 The classification of anthropic rock as a potential fourth rock class, proposed by geologist James R. Underwood, remains debated among scholars. Additionally, the boundaries between rock types are not sharply defined; they pass through continuous gradations, making precise categorization sometimes subjective. The relative contributions of temperature versus pressure in different metamorphic environments also continue to be refined through ongoing research.
+
+Source: adapted from "Rock (geology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rock_%28geology%29

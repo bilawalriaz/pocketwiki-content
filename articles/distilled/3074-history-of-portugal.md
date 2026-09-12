@@ -59,3 +59,5 @@ The First Republic (1910–1926) was unstable. A 1926 coup led to the authoritar
 - Historians debate the nature of the First Republic (1910–1926): was it a progressive, democratic experiment or a continuation of elitist, unstable liberal regimes?
 - The extent to which the Portuguese Age of Discovery was driven by economic motives versus religious or geopolitical ones is discussed.
 - The legacy of the Estado Novo is contested, with some emphasizing its role in maintaining stability and others highlighting its repression and economic stagnation.
+
+Source: adapted from "History of Portugal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Portugal

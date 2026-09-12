@@ -39,3 +39,5 @@ X-ray reflection and fluorescence dominate the signal from solar-system bodies o
 ## Exotic transients
 
 **Microquasars** such as SS 433 are X-ray binaries that also drive resolved radio jets, with material in SS 433's jet moving at about 26% of the speed of light. **Be X-ray binaries** show periodic outbursts tied to the eccentric orbit of a compact object around a rapidly rotating B star. **Supergiant fast X-ray transients** are defined by flares that rise in tens of minutes and last only hours, much shorter than classical HMXB outbursts.
+
+Source: adapted from "Astrophysical X-ray source" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astrophysical_X-ray_source

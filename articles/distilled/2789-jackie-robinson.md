@@ -40,3 +40,5 @@ Over a 10-year career (1947–1956), Robinson was a six-time All-Star, the 1949 
 ## Debates and Open Questions
 *   The exact nature and threat of a planned player strike by the St. Louis Cardinals in 1947 to protest Robinson's debut is debated. While a newspaper report detailed the plot, the Cardinals players denied it, and some historians question the account's veracity.
 *   The circumstances of Robinson's departure from baseball are complex. The Dodgers traded him to the New York Giants after the 1956 season, but the trade was never completed because Robinson had already privately agreed to retire and become an executive with Chock full o'Nuts.
+
+Source: adapted from "Jackie Robinson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jackie_Robinson

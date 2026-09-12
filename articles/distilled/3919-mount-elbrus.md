@@ -49,3 +49,5 @@ Elbrus has been climbed by vehicle (a Land Rover in 1997), on ATVs (2016), and m
 
 ## Debates and Open Questions
 The identification of the ancient Greek peak "Strobilos" with Elbrus is a scholarly interpretation, not a certainty. The exact number of main glaciers is debated (22 or 23 depending on the source). The geopolitical status of the mountain was briefly altered when it was incorporated into the Georgian SSR from 1944–1956.
+
+Source: adapted from "Mount Elbrus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Elbrus

@@ -46,3 +46,5 @@ The Dead Sea's surface area has shrunk from 1,050 km² in 1930 to 605 km² today
 - The exact geological mechanism creating the Dead Sea's low elevation is debated: is it a true rift zone or a result of a "step-over" discontinuity along the transform fault?
 - The precise cause of the dramatic drop in the lake's level around 10,000 years ago is unknown, though it is ruled out to be volcanic activity.
 - The long-term viability of the Dead Sea's ecosystem and the potential environmental impact of any large-scale water replenishment project remain open questions.
+
+Source: adapted from "Dead Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dead_Sea

@@ -44,3 +44,5 @@ Tokhtamysh was the last great khan to reunify the Golden Horde and the last to m
 - The exact tribal affiliation of Tokhtamysh's mother, Kutan-Kunchek of the Khongirad tribe, is based on the account of the historian Muʿīn-ad-Dīn Naṭanzī, whose testimony is sometimes considered inaccurate.
 - The precise motivations behind Timur's leniency toward Tokhtamysh's captured warriors after the 1387 skirmish are unclear—whether it was respect for his royal lineage or a strategic attempt to avoid a wider conflict.
 - The exact terms of the 1399 treaty between Tokhtamysh and Vytautas are debated, particularly whether it stipulated that Vytautas would pay tribute to Tokhtamysh once the khan regained his throne.
+
+Source: adapted from "Tokhtamysh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tokhtamysh

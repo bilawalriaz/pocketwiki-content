@@ -39,3 +39,5 @@ The conflict expanded as Charles II was crowned in Scotland and allied with Cove
 
 ## Debates and Open Questions
 Historians debate the war's primary cause. The **Whig** view saw it as a struggle for parliamentary rights against royal tyranny. The **Marxist** interpretation, led by Christopher Hill, framed it as a bourgeois revolution. **Revisionists** in the 1970s emphasized contingency and local loyalties, challenging both theories. More recently, the **"Wars of the Three Kingdoms"** perspective argues the conflict cannot be understood apart from events in Scotland and Ireland. Another debate centers on whether it was fundamentally a **religious war**, as argued by John Morrill, or a constitutional one.
+
+Source: adapted from "English Civil War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/English_Civil_War

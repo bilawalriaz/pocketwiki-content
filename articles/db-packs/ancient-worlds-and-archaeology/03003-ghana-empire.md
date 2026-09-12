@@ -13,3 +13,5 @@ In the eleventh century the Almoravids, a Berber-Muslim reform movement, swept d
 Ghana's fall was gradual. The Sahel was drying, which shifted trade routes south and west and strengthened the peoples Ghana had once ruled. In 1203 the Sosso, a former vassal, conquered the empire. In 1235 Sundiata Keita of Mali defeated the Sosso, and what remained of Ghana became a Mali vassal. The capital was abandoned in the fifteenth century.
 
 The economy was fiscal: a tax state built on caravan duties, salt levies, and royal gold, not on productive agriculture or mine ownership. Muslim scribes and officials handled the commercial and legal paperwork of a largely non-Muslim court, and by the eleventh century Ghana hosted recognised centres of learning. The name "Ghana" later lent itself to the modern state, and the trade-and-tribute model Ghana pioneered was inherited, on a larger scale, by Mali.
+
+Source: adapted from "Ghana Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ghana_Empire

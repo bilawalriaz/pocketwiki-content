@@ -67,3 +67,5 @@ Peirce was an objective idealist and scholastic realist, believing in the realit
 ## Debates and Open Questions
 
 Peirce’s work was largely overlooked during his lifetime, leading to debates about his influence and legacy. Some scholars argue that his ideas were too far ahead of their time, while others suggest his difficult personality and personal scandals hindered his recognition. The interpretation of his pragmatism remains contested, particularly regarding its relationship to later developments by William James and John Dewey. Additionally, the completeness and coherence of his unpublished manuscripts continue to be subjects of scholarly investigation, with ongoing efforts to edit and publish his works systematically.
+
+Source: adapted from "Charles Sanders Peirce" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_Sanders_Peirce

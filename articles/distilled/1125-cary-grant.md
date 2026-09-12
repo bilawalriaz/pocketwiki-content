@@ -49,3 +49,5 @@ Grant married five times, including to Barbara Hutton and Dyan Cannon, and had o
 - **Sexual Identity**: Speculation about Grant’s sexuality persists, fueled by his long-term relationship with Randolph Scott and accounts from contemporaries. His daughter Jennifer denies he was gay, but biographers remain divided.
 - **LSD Use**: Grant experimented with LSD therapy in the 1950s, claiming it helped him overcome personal trauma. Some view this as self-medication; others see it as risky experimentation.
 - **Retirement Decision**: Whether Grant’s 1966 retirement was driven by artistic dissatisfaction or personal priorities remains debated, though he consistently cited fatherhood as central to his choice.
+
+Source: adapted from "Cary Grant" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cary_Grant

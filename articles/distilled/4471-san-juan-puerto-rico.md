@@ -43,3 +43,5 @@ San Juan is the territorial capital, housing Puerto Rico's government branches. 
 - The article notes that the name "Puerto Rico" originally referred to the city, while the island was called "San Juan Bautista." This usage reversed by 1746, leading to the city being called "Puerto Rico de Puerto Rico" on maps.
 - The source states that the city's flag color was changed from orange to white at some point, but does not specify when or why.
 - The Tren Urbano metro system, which opened in 2004, has received less ridership than projected and has not significantly reduced automobile traffic.
+
+Source: adapted from "San Juan, Puerto Rico" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/San_Juan%2C_Puerto_Rico

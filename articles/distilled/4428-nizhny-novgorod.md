@@ -39,3 +39,5 @@ As Gorky, the city was a restricted military-industrial hub, subjected to heavy 
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes historical contingencies that shaped the city's fate, such as its survival during the Mongol invasion due to its initial "insignificance" and the delayed Russian eastward expansion until the capture of Kazan in 1552. The city's identity has been repeatedly reshaped by external forces: its name change to Gorky honored a Soviet author, and its "closed" status was a direct result of its military-industrial importance. The post-Soviet era has focused on re-establishing its historical identity while integrating into the modern global economy.
+
+Source: adapted from "Nizhny Novgorod" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nizhny_Novgorod

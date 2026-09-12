@@ -55,3 +55,5 @@ Early effects were "in-camera," like stop-motion substitution (seen in 1896's *T
 *   **Film vs. Digital:** A persistent debate concerns the aesthetic qualities of photochemical film (e.g., grain, dynamic range) versus the convenience, flexibility, and evolving quality of digital cinematography. Some directors still prefer film for its perceived organic look.
 *   **The Role of the Cinematographer:** There is ongoing discussion about the balance of creative authority between the director and the cinematographer in defining a film's visual style.
 *   **Technological Impact:** How new technologies (e.g., virtual production with LED walls, AI-assisted tools) will further transform the cinematographer's craft and the definition of "cinematic" imagery remains an open question.
+
+Source: adapted from "Cinematography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cinematography

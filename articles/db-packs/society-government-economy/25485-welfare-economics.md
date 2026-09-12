@@ -39,3 +39,5 @@ The behavioral consensus behind the cardinal and ordinal programs largely collap
 A social welfare function formally ranks economic states by society's value judgments about how to weight different citizens' interests. Drawing a social utility frontier, also called a grand utility frontier, from the outer envelope of utility possibilities traces out every Pareto efficient allocation. Among those, only one maximizes social welfare, the "point of bliss," where the social utility frontier is tangent to the highest attainable social indifference curve.
 
 Because redistribution is itself costly, a permanent tension exists between equity and efficiency, and a large body of research has measured the efficiency losses caused by the tax-and-transfer programs that implement it.
+
+Source: adapted from "Welfare economics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Welfare_economics

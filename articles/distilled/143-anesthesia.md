@@ -65,3 +65,5 @@ Herbal remedies were the first attempts at anesthesia. Alcohol was used in ancie
 ## Debates and open questions
 
 The FDA's 2016 warning about anesthetic effects on children's brain development was criticized by the American College of Obstetricians and Gynecologists, which cited the absence of direct evidence for pregnant women and concern that the warning could dissuade providers from medically indicated care. Some patient advocates argue a randomized clinical trial would be unethical and that the mechanism is well-established in animal studies. Direct comparisons of mortality statistics over time and across countries cannot reliably be made due to differences in risk stratification, though there is evidence anesthetics have significantly improved safety—to what degree is uncertain. It is not known whether animals dream under general anesthesia.
+
+Source: adapted from "Anesthesia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anesthesia

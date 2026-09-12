@@ -73,3 +73,5 @@ A lifelong amateur violinist (second violin in Toulouse orchestra, chamber music
 - **Color deficiency?** The Institute (1838) and Baudelaire noted his students’ "dull, opaque" color. Ingres called color "handmaiden" to drawing. Was this a pedagogical failure or a coherent aesthetic choice?
 - **Chassériau’s defection:** Ingres’s disowning of his most gifted pupil over stylistic drift (toward Delacroix) raises questions about his rigidity as a teacher versus his own eclectic borrowing.
 - **Modernist appropriation:** Picasso, Matisse, and Newman claimed Ingres as a forefather of abstraction and flattening. Did Ingres anticipate modernism, or did modernists project their concerns onto his "primitive" passages?
+
+Source: adapted from "Jean-Auguste-Dominique Ingres" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres

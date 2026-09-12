@@ -44,3 +44,5 @@ Traditionally, globes were made by gluing printed paper gores (tapered strips) o
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates. However, it notes the historical shift from geocentric to heliocentric models as a fundamental change in cosmic understanding reflected in celestial globes. The structural challenge of representing the sky's perspective on an external globe surface is also a noted technical problem.
+
+Source: adapted from "Globe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Globe

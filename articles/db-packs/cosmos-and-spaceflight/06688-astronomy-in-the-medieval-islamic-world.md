@@ -37,3 +37,5 @@ In China, Islamic astronomy arrived through the Mongols. Kublai Khan brought Ira
 ## Observatories
 
 Malik Shah I established the first large observatory, probably at Isfahan, where Omar Khayyam and collaborators produced the *jalali* (Persian Solar) calendar, ancestor of the modern Solar Hijri calendar still used in Iran and Afghanistan. Maragha (1259), under Tusi, ran for 50 years. Ulugh Beg built his Samarkand observatory in 1420, which yielded a new set of planetary tables before its remains were excavated in 1908. In Ottoman Constantinople, Taqi al-Din founded a comparably scaled observatory in 1577; it was destroyed in 1580 after opponents argued against its use for astrological prognostication, since Ottoman clergy accepted astronomy but opposed astrology.
+
+Source: adapted from "Astronomy in the medieval Islamic world" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomy_in_the_medieval_Islamic_world

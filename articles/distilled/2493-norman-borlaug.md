@@ -49,3 +49,5 @@ Critics, including journalist John Vidal and activist Vandana Shiva, argued the 
 - **Environmental Cost**: To what extent did the reliance on chemical fertilizers, pesticides, and monocultures cause long-term environmental damage?
 - **Population vs. Technology**: Borlaug initially stressed curbing population growth but later emphasized technology's capacity to feed 10 billion people. This shift reflects an ongoing debate about whether food security is primarily a production or distribution/population issue.
 - **Applicability in Africa**: Why did Borlaug's methods achieve rapid success in Asia but face greater obstacles in Africa, and what does this reveal about the necessary preconditions (e.g., infrastructure, markets) for agricultural transformation?
+
+Source: adapted from "Norman Borlaug" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Norman_Borlaug

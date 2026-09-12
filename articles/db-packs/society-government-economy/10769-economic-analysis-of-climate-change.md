@@ -49,3 +49,5 @@ Adaptation (sea walls, resilient infrastructure, drought-resistant crops) is che
 ## Who pays
 
 No consensus exists on how to share the burden. Competing principles include equal per-person rights to the atmosphere, basic needs, the polluter-pays principle (two-thirds of historical GHG stock came from industrialized countries), ability to pay, and grandfathering current emissions. The choice is ultimately ethical, not purely economic. Wealthy countries have contributed most emissions while facing smaller impacts, and poor countries face the largest damages with the least capacity to respond, a pattern that deepens global inequality and can push millions into poverty.
+
+Source: adapted from "Economic analysis of climate change" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economic_analysis_of_climate_change

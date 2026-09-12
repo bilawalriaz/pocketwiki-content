@@ -26,3 +26,5 @@ Historically, surveyors used theodolites, chains, and plane tables. From the mid
 ## Uses and access
 
 Topographic maps support infrastructure planning, civil engineering, mining, earth sciences, land navigation, hiking, and orienteering. Military training emphasizes contour interpretation for tactical movement. Since the 2007 EU INSPIRE directive, European national mapping agencies must provide public search, view, and download services for their official series; many offer data under Creative Commons licenses. Commercial vendors also compile international series.
+
+Source: adapted from "Topographic map" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Topographic_map

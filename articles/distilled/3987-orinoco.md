@@ -40,3 +40,5 @@ Major infrastructure includes the Angostura Bridge (1967) and the Orinoquia Brid
 
 ## Debates and Open Questions
 The source of the Orinoco was only discovered in 1951, highlighting the historical difficulty in fully mapping the river. The article notes the river's potential for future oil production from tar sands, implying ongoing economic and environmental considerations regarding its development.
+
+Source: adapted from "Orinoco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Orinoco

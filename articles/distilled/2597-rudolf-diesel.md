@@ -39,3 +39,5 @@ After his death, the diesel engine was further developed and became crucial for 
 
 ## Debates and Open Questions
 The primary unresolved question is the cause of Rudolf Diesel's disappearance and presumed death. Theories range from suicide, supported by his financial notes and a cross drawn in his diary, to murder or a staged defection to Britain. The lack of definitive evidence means his fate remains a historical mystery.
+
+Source: adapted from "Rudolf Diesel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rudolf_Diesel

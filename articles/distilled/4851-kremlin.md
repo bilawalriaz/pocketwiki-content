@@ -44,3 +44,5 @@ After the 1917 Revolution, the Bolshevik government moved to the Kremlin. Lenin 
 
 ## Debates and Open Questions
 The article notes ongoing debate about restoration. The current director of the Kremlin Museums, Elena Gagarina, advocates for a full-scale restoration of the destroyed medieval cloisters and churches. However, recent work has focused on restoring the original interiors of the Grand Kremlin Palace, which were altered during Stalin's rule. This reflects a broader tension between preserving the complex's layered history and restoring specific historical periods.
+
+Source: adapted from "Kremlin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kremlin

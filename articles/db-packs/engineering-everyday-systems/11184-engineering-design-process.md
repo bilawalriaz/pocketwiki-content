@@ -50,3 +50,5 @@ Production planning and tool design covers how to mass-produce the product and w
 The engineering design process resembles the scientific method. Both start from existing knowledge and gradually become more specific in the search for knowledge (in basic science) or a solution (in applied science such as engineering). The difference is orientation: engineering applies systematic thinking to leverage technology in service of human needs, while science emphasises explanation, prediction, and discovery. Scientific discoveries may later feed into engineering solutions.
 
 The engineering design process and its methods are taught in universities worldwide, including those with ABET or Washington Accord accredited engineering programs.
+
+Source: adapted from "Engineering design process" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Engineering_design_process

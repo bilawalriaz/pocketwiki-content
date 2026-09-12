@@ -45,3 +45,5 @@ The main economic activities are farming, herding, and fishing, with significant
 
 ## Debates and Open questions
 The source does not present explicit scholarly debates, but it notes that the definition of "Central Africa" itself varies between different international organizations. The precise origins and extent of prehistoric iron smelting in the Central African Republic (c. 3000–2500 BCE) are presented as evidence but may be subject to archaeological debate.
+
+Source: adapted from "Central Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Central_Africa

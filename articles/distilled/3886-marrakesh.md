@@ -49,3 +49,5 @@ The Jemaa el-Fnaa square is the city's iconic center. The medina contains numero
 - The exact founding date of Marrakesh is debated, with sources citing 1062, 1070, or 1078.
 - The etymology of the name "Marrakesh" is uncertain, with proposed origins from Berber words meaning "Land of God" or "country of the sons of Kush."
 - The long-term sustainability of tourism-driven urban policy and the commodification of heritage are subjects of scholarly critique.
+
+Source: adapted from "Marrakesh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marrakesh

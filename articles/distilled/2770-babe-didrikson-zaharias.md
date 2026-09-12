@@ -38,3 +38,5 @@ Zaharias married George Zaharias in 1938. In her later years, she had a close, r
 - **Amateur Status:** Zaharias's career was marked by disputes over her amateur status, which was revoked when she turned professional and later regained after a three-year hiatus from other sports.
 - **Racial Incident:** The source notes a racist incident before the 1932 Olympics where Zaharias threw water on Black athletes Tidye Pickett and Louise Stokes, who were subsequently removed from the team.
 - **Sexual Orientation:** Zaharias's romantic relationship with Betty Dodd has led to her being described as the first lesbian gold medalist in Olympic athletics, though the term "lesbian" was not used by the couple.
+
+Source: adapted from "Babe Didrikson Zaharias" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Babe_Didrikson_Zaharias

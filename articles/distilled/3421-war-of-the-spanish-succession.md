@@ -42,3 +42,5 @@ By 1709, the war had reached a stalemate. The harsh Allied preliminaries of The 
 *   **Primary Cause:** Was the war fundamentally about dynastic succession and the balance of power, or were commercial and colonial rivalries the primary driver?
 *   **Allied Strategy:** Did the Grand Alliance's insistence on placing Archduke Charles on an undivided Spanish throne make a negotiated peace impossible and prolong the war?
 *   **Outcome:** Was the Peace of Utrecht a pragmatic settlement that ensured a lasting balance of power, or did it merely set the stage for future conflicts by leaving key grievances unresolved?
+
+Source: adapted from "War of the Spanish Succession" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession

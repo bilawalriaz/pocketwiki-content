@@ -27,3 +27,5 @@ Functionality only needs the abstract data type of the variables it works with, 
 Driving directions illustrate the trap. If an intersection is represented by a zip code and two street names, a city where the same two streets cross more than once produces bugs, because the data no longer uniquely identifies the intersection. Restructuring data is a common task in software engineering, done to eliminate bugs, increase efficiency, or support new features, and data-driven designs make such restructuring costly.
 
 The languages commonly described as data-driven include AWK, BASIC, Clojure, fdm, Lua, maildrop, Oz, Perl, procmail, Raku, REBOL and other Redbol languages, sed, Sieve, Tab, and XSLT. They differ in scope: full languages such as AWK and Perl embed data-driven constructs inside a general-purpose toolkit, while narrow tools such as pcap or base Sieve restrict the user to filtering.
+
+Source: adapted from "Data-driven programming" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Data-driven_programming

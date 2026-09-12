@@ -52,3 +52,5 @@ After being forgotten for two centuries, the poem was rediscovered in 1755 and d
 - **Historical vs. Mythological Core**: The precise historical origins of figures like Siegfried are debated. Some speculate a mythologized connection to Arminius, while others see a purely mythological origin.
 - **Kriemhild's Motivation**: The poet likely transformed Kriemhild from a traditionally treacherous figure into a courtly lady motivated by love. Scholars debate how successfully this new motivation is integrated with older, darker elements of her character.
 - **Narrative Coherence**: The poem's structure, with its sometimes disconnected stanzas and doubled motivations for events, has led to debate about whether it reflects oral composition techniques or deliberate artistic choice.
+
+Source: adapted from "Nibelungenlied" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nibelungenlied

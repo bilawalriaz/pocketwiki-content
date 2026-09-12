@@ -21,3 +21,5 @@ The bridge from abstract math to computing came through **Boolean algebra**. Geo
 Any two distinguishable states can carry binary information. **Braille** uses a six-dot grid, each dot either raised or flat, to encode letters, numbers, and punctuation by touch.
 
 Binary code endures not because two states are the only option, but because they are the most noise-resistant and easiest to build reliably in hardware. That practical simplicity, first formalised by Leibniz and activated by Shannon, is why modern computing is built on bits.
+
+Source: adapted from "Binary code" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Binary_code

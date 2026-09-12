@@ -45,3 +45,5 @@ The 19th century saw the rise of astrophysics through spectroscopy and photograp
 - The interpretation of prehistoric artifacts as astronomical (e.g., Marshack's bone sticks, Lascaux cave drawings) is debated.
 - The precise function and cultural significance of megalithic structures like Stonehenge remain subjects of scholarly discussion.
 - The "Great Debate" of the 1920s about the nature of spiral nebulae and the size of the universe was resolved by Hubble's observations, but questions about the universe's ultimate fate and composition continue.
+
+Source: adapted from "History of astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_astronomy

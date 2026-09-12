@@ -50,3 +50,5 @@ Gregorian chant is the direct ancestor of Western musical notation. Its melodies
 - **Rhythm**: There is no consensus on medieval performance practice. Theories range from free rhythm (Solesmes) to proportional mensuralism, with ongoing research into neume interpretation.
 - **Melodic Authenticity**: Modern critical editions (e.g., *Graduale Novum*) aim to correct errors in later sources by comparing early manuscripts, but decisions on melodic variants remain scholarly challenges.
 - **Liturgical Role**: The precise balance between preserving chant's traditional "pride of place" and integrating other sacred music in modern worship is an ongoing discussion.
+
+Source: adapted from "Gregorian chant" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gregorian_chant

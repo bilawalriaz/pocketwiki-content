@@ -46,3 +46,5 @@ After fleeing to the United States in 1794, Priestley continued his theological 
 - **Discovery of Oxygen**: Priestley isolated oxygen in 1774, but Carl Wilhelm Scheele may have discovered it earlier (though he published later), and Antoine Lavoisier was the first to explain it without phlogiston theory. The exact dating and credit for the discovery remain debated.
 - **Rejection of Lavoisier's Chemistry**: Priestley's steadfast defense of phlogiston theory against Lavoisier's new chemistry has perplexed scholars. Explanations range from his identity as a "natural philosopher" rather than a modern chemist to his theological view of nature as infinite and coextensive with God.
 - **Unity of His Work**: Scholars debate whether Priestley's scientific, theological, and political works form a coherent system or are contradictory. Recent scholarship challenges older views that his theology distracted from his science.
+
+Source: adapted from "Joseph Priestley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Priestley

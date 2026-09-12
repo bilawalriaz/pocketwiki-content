@@ -88,3 +88,5 @@ Several aspects of Defoe’s life and work remain contested:
 - **Historical Accuracy vs. Fiction**: Many of Defoe’s novels claim to be true accounts (*e.g.*, *Journal of the Plague Year*). Scholars continue debating how closely these align with actual events.
 - **Political Motivation in Union Advocacy**: Defoe’s role in promoting the 1707 Union remains ambiguous. Was he a genuine believer in British unity or merely a propagandist serving government interests?
 - **Literary Innovation**: Though hailed as the father of the English novel, some argue that earlier writers like Aphra Behn laid more foundational groundwork. Defoe’s innovations lie more in popularization than invention.
+
+Source: adapted from "Daniel Defoe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Daniel_Defoe

@@ -46,3 +46,5 @@ After the revolution, 47 Romanov survivors went into exile. Dowager Empress Mari
 - **Identity of the Missing Remains**: Experts debate which daughter's remains were missing from the main 1991 grave (Anastasia or Maria) until the 2007 discovery.
 - **Succession Dispute**: The headship of the imperial house is contested between Maria Vladimirovna and other claimants, based on disagreements over the validity of marriages under the Pauline Laws.
 - **Dynastic Legitimacy**: The Romanov Family Association, composed of most male-line descendants, officially does not advance dynastic claims, supporting instead whatever government the Russian people choose.
+
+Source: adapted from "House of Romanov" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/House_of_Romanov

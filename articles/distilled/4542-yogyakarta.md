@@ -43,3 +43,5 @@ Yogyakarta is Indonesia's premier educational center, home to Gadjah Mada Univer
 
 ## Debates and Open questions
 The exact cause of the Mataram Kingdom's capital move from Central to East Java around 929 CE is uncertain, with theories pointing to either a severe eruption of Mount Merapi or a power struggle with the Srivijaya kingdom.
+
+Source: adapted from "Yogyakarta" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yogyakarta

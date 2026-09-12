@@ -57,3 +57,5 @@ Malinowski married Australian photographer Elsie Masson in 1919; they had three 
 
 ## Debates and Open Questions
 Malinowski’s legacy remains contested. His posthumously published diaries exposed ethnocentric and paternalistic attitudes, fueling critiques of colonial anthropology. Scholars debate whether his fieldwork methods genuinely empowered indigenous voices or reinforced Western epistemic dominance. Additionally, his psychological functionalism is seen as overly individualistic compared to structural approaches. The tension between his scientific rigor and personal biases continues to shape discussions on objectivity and ethics in anthropological practice.
+
+Source: adapted from "Bronisław Malinowski" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bronis%C5%82aw_Malinowski

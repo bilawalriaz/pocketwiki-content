@@ -37,3 +37,5 @@ The 1967 Outer Space Treaty declares space the "province of all mankind," free f
 ## What it is used for
 
 Artificial satellites carry most of the world's communications, navigation, weather forecasting, and Earth observation. The vacuum allows telescopes to observe across the entire electromagnetic spectrum; Hubble has seen light from more than 13 billion years ago. On Earth, the ultracold temperature of space enables passive daytime radiative cooling through the atmospheric infrared window, a property photonic metamaterials can enhance.
+
+Source: adapted from "Outer space" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Outer_space

@@ -36,3 +36,5 @@ West Asia is the birthplace of four major religions: Judaism, Christianity, Isla
 
 ## Debates and Open Questions
 The primary open question is the precise definition of "West Asia." There is no consensus among academic, UN, or other institutional bodies on which countries belong to the region. Key points of contention include the inclusion or exclusion of Turkey, Iran, Egypt, Cyprus, and the Caucasus nations (Armenia, Georgia, Azerbaijan), leading to multiple, sometimes contradictory, official definitions.
+
+Source: adapted from "West Asia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/West_Asia

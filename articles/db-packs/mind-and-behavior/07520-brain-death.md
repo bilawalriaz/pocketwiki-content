@@ -35,3 +35,5 @@ A 1968 Harvard Medical School report defined "irreversible coma." In 1981, a US 
 ## Organ donation
 
 Because a brain-dead body on a ventilator keeps its organs perfused with oxygenated blood, it is the ideal source for transplantable hearts, livers, kidneys, and lungs. The official time of death is the moment brain death was diagnosed, not when the heart later stops. Some countries (Spain, France, Portugal, the UK) treat everyone as a default organ donor unless they opt out; others, including most of the United States, rely on prior registration or family consent. A do-not-resuscitate order can prevent recovery of the heart and lungs, but other tissues often remain usable.
+
+Source: adapted from "Brain death" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brain_death

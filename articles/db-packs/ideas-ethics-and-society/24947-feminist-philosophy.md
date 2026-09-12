@@ -16,3 +16,5 @@ The work is carried out in several subfields:
 - **Feminist philosophy of science** treats scientific practice as value-laden rather than value-free, arguing that ideologies, including those about gender, are embedded in the models and methods that produce scientific knowledge.
 
 Running through these subfields is a recurring methodological move: take a category (knowledge, morality, perception, art, reality, science) that mainstream philosophy treats as neutral or universal, show how it is shaped by gender and related structures of power, and rebuild the account on that basis.
+
+Source: adapted from "Feminist philosophy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Feminist_philosophy

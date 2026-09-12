@@ -25,3 +25,5 @@ Three events reshaped that order. Imperial Russia established the Black Sea Flee
 Both world wars brought major naval operations, including the Siege of Sevastopol (1941–1945). In the 21st century the sea has become a contested zone again. After Russia's 2022 invasion of Ukraine, Ukrainian forces sank the cruiser *Moskva* and fought over Snake Island; in 2023 a Russian Su-27 damaged an American MQ-9 Reaper drone over the water. As of January 2025, neither side holds full control, and coastal zones are more exposed to land-based weapons than open water.
 
 The basin supports fishing, including Turkey's large anchovy catch, coastal tourism, and hydrocarbon exploration, with Turkey reporting a 320 billion m³ natural gas discovery in 2020.
+
+Source: adapted from "Black Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Black_Sea

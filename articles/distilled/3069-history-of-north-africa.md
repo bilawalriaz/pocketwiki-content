@@ -57,3 +57,5 @@ Most North African states gained independence in the 1950s and 1960s. The post-c
 - **Origins of Pharaonic Egyptians:** Scholars recognize population variability in pharaonic Egypt, with Upper Egyptians showing biological affinities to southern African populations and Lower Egyptians closer to Levantine/Mediterranean groups.
 - **Almoravid Role in Ghana Empire's Decline:** While traditionally blamed for the destruction of the West African Ghana Empire, some scholars argue this is folklore and that Almoravid political agitation, not military conquest, was a more significant factor.
 - **Classification of Genetic Haplogroups:** Researchers question the categorization of certain mitochondrial DNA haplogroups (e.g., U6, M1) as "Eurasian" in North African studies, arguing this reflects outdated racial typologies given their long-established presence in ancient African populations.
+
+Source: adapted from "History of North Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_North_Africa

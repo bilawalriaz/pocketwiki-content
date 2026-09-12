@@ -33,3 +33,5 @@ Three risks matter most. Credit (default) risk: governments have defaulted many 
 ## A short history
 
 Public borrowing has existed for millennia. The founding of the Bank of England in 1694 transformed public finance: it ended defaults like Charles II's 1672 suspension of payments, and from then on the British government never failed to repay its creditors, a credibility other states later emulated. At the close of the Napoleonic Wars in 1815, British government debt peaked above 200% of GDP and was paid down over decades through primary budget surpluses, where revenue exceeded non-interest spending.
+
+Source: adapted from "Government debt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Government_debt

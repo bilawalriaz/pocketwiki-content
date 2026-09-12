@@ -49,3 +49,5 @@ After the mid-19th century, Neoclassicism was replaced by Eclecticism but persis
 - A fierce dispute raged for decades over the relative merits of Greek and Roman art, with Winckelmann and his fellow Hellenists generally winning.
 - The extent to which Neoclassical architecture in totalitarian regimes was a genuine revival versus a political tool remains debated.
 - The term "Neoclassical" was not used contemporaneously; the style was initially called "the true style" or "reformed," complicating historical analysis.
+
+Source: adapted from "Neoclassicism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neoclassicism

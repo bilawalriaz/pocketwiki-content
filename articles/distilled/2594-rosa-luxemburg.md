@@ -46,3 +46,5 @@ While celebrating the 1917 Bolshevik Revolution, Luxemburg offered a sharp criti
 *   **Critique of the Russian Revolution:** Scholars debate whether Luxemburg's posthumously published critique was a final, considered judgment or if she might have modified her views had she lived. Her comrades, like Clara Zetkin, claimed she had revised her position.
 *   **Economic Theory:** Her thesis in *The Accumulation of Capital* that capitalism requires non-capitalist markets to survive was rejected by many leading Marxists, including Lenin and Kautsky, but has been revisited by later theorists.
 *   **Legacy:** Her legacy is contested. She is a heroine for democratic socialists, council communists, and the New Left, but was denounced as a heretic by the Stalinist tradition. Her opposition to Polish independence remains controversial in Poland.
+
+Source: adapted from "Rosa Luxemburg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rosa_Luxemburg

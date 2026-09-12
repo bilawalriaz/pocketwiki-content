@@ -44,3 +44,5 @@ The city's main attraction is Pha That Luang, a 45-metre golden stupa built in 1
 
 ## Debates and Open Questions
 The source notes that the etymology of "chan" in Vientiane is debated, with two possible Sanskrit origins ('sandalwood' or 'moon'). It also highlights a significant historical "what-if": had a French colonial plan to settle more Vietnamese in key Lao regions been implemented, "the Lao might well have lost control over their own country."
+
+Source: adapted from "Vientiane" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vientiane

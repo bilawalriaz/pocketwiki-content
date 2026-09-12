@@ -45,3 +45,5 @@ After retiring, Fangio remained involved in motorsport as an executive and ambas
 ## Debates and Open Questions
 *   **Greatest of All Time (GOAT):** While statistical analyses often rank Fangio as the best driver in F1 history due to his winning percentage and era-adjusted performance, debates persist about comparing drivers across vastly different technological and safety eras.
 *   **Paternity and Legacy:** The posthumous confirmation of his three sons through DNA testing added a complex and previously unknown chapter to his personal legacy, leading to legal battles over his estate.
+
+Source: adapted from "Juan Manuel Fangio" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Juan_Manuel_Fangio

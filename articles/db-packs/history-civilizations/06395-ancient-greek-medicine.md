@@ -35,3 +35,5 @@ Galen's anatomy remained authoritative until 1543, when Vesalius's *De humani co
 ## The Hippocratic-Galenic tradition
 
 After the Western Empire's collapse, Hippocratic and Galenic texts survived in the Byzantine East and were translated into Arabic, Persian, and Andalusi languages after about 750 AD, with Avicenna the most influential Muslim commentator. From the late eleventh century they returned to Latin Europe through Arabic translations, and during the Renaissance directly from Greek. Although dissection began in the thirteenth century, findings were often forced into Galenic categories, and bloodletting, a core Hippocratic-Galenic therapy, persisted into the 19th century despite its ineffectiveness.
+
+Source: adapted from "Ancient Greek medicine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Greek_medicine

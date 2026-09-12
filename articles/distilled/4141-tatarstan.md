@@ -44,3 +44,5 @@ Islam, introduced in 922, is the most common faith. Tatarstan maintains active r
 - The political status of Tatarstan remains a sensitive issue, balancing its historical pursuit of autonomy with Russia's centralizing reforms.
 - The source of rising Islamic radicalism in the 2010s is debated, attributed to a combination of a desire for stronger religious identity and increased immigration.
 - The inclusion and enumeration of the Keräşen Tatars as a distinct group has provoked controversy among intellectuals seeking to portray Tatars as a homogeneous people.
+
+Source: adapted from "Tatarstan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tatarstan

@@ -48,3 +48,5 @@ The city is a major cultural center with over 200 museums, numerous theaters, an
 
 ## Debates and Open Questions
 The etymologies of "Buda" and "Pest" remain obscure and debated, with multiple theories involving Turkic, Slavic, and legendary origins. The city's architectural future presents a debate between preserving its historic low-rise cityscape and the pressure to develop high-rise buildings. The political landscape shows tension between the nationalist government in Budapest and the opposition-led city administration.
+
+Source: adapted from "Budapest" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Budapest

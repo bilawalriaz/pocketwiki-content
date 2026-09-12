@@ -46,3 +46,5 @@ CNS damage is often severe due to limited regeneration and scar tissue formation
 - **Neural induction mechanisms**: While BMP inhibition is key, the exact roles of FGF and other signals vary across species.  
 - **CNS regeneration**: Scar tissue limits recovery; mechanisms for promoting repair are under investigation.  
 - **Spatiotemporal control of neurogenesis**: How neuroblasts migrate and integrate into circuits is still being unraveled.
+
+Source: adapted from "Nervous system" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nervous_system

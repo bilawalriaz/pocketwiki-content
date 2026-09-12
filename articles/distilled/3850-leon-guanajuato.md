@@ -46,3 +46,5 @@ Key landmarks include the Cathedral Basilica of Our Lady of the Light (begun 174
 ## Debates and Open Questions
 - There is a discrepancy about whether León's valley is sub-humid or semi-arid, depending on the methodology and the specific years of data used for analysis.
 - The construction of the Expiatory Sanctuary of the Sacred Heart of Jesus has been ongoing since 1920 and is considered 90% complete, with its funding partly reliant on the sale of crypts.
+
+Source: adapted from "León, Guanajuato" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Le%C3%B3n%2C_Guanajuato

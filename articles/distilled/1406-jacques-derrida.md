@@ -74,3 +74,5 @@ Derrida influenced architecture (Peter Eisenman, Bernard Tschumi, Parc de la Vil
 *   **Paul de Man Controversy:** Derrida's defense of his friend after the revelation of de Man's wartime antisemitic journalism remains contested: did Derrida minimize the offense, or did he demonstrate the complexity of reading texts haunted by history?
 *   **Schmitt and Juridical Rationality:** Hugo E. Herrera argues Derrida's reading of Carl Schmitt reduces juridical decision to calculable technical rationality, missing Schmitt's distinct concept of practical juridical reasoning oriented to the concrete singular case.
 *   **Unity of Consciousness:** Post-Kantian critics (Herrera) argue *différance* explains differentiation but cannot account for the synthesis/unity required for self-identification and coherent experience without presupposing an original principle of unity.
+
+Source: adapted from "Jacques Derrida" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jacques_Derrida

@@ -45,3 +45,5 @@ Christina was a major art collector, acquiring works from the Prague loot and du
 *   **Motives for Abdication:** While her conversion to Catholicism is cited as a primary reason, her abdication was also driven by political discontent with her rule, financial mismanagement, and her refusal to marry and produce an heir.
 *   **Execution of Monaldeschi:** The circumstances and justification for her ordering the murder of Gian Rinaldo Monaldeschi in 1657 remain controversial, with accounts differing on the evidence of his betrayal.
 *   **Authenticity of Conversion:** Some contemporaries and later scholars have questioned the sincerity of her Catholic conversion, pointing to her continued interest in classical mythology and freethinking ideas.
+
+Source: adapted from "Christina, Queen of Sweden" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Christina%2C_Queen_of_Sweden

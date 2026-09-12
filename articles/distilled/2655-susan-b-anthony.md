@@ -50,3 +50,5 @@ Anthony was a key figure in creating the International Council of Women (1888) a
 - **The Fifteenth Amendment Split**: The strategic disagreement over whether to support the 15th Amendment without a suffrage provision for women caused a bitter, decades-long rift in the women's movement.
 - **Views on Abortion**: A posthumous dispute exists over Anthony's stance on abortion. Historians like Ann D. Gordon state she never voiced an opinion on the topic, contradicting later claims by some anti-abortion groups.
 - **Relationship with Stanton**: While their partnership was foundational, their interests diverged later in life. Anthony became more conservative, forming alliances with groups like the WCTU, while Stanton grew more radical, as seen in her controversial work *The Woman's Bible*.
+
+Source: adapted from "Susan B. Anthony" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Susan_B._Anthony

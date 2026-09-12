@@ -44,3 +44,5 @@ Inuit settlements like Pond Inlet and Clyde River exist on the Canadian coast. T
 ## Debates and open questions
 - The extent of Norse contact with Baffin Bay is suggested by recent excavations but remains a subject of study.
 - The potential for large-scale oil and gas extraction in the bay is a significant economic and environmental consideration, with concessions already offered by Greenland.
+
+Source: adapted from "Baffin Bay" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baffin_Bay

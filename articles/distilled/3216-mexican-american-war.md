@@ -44,3 +44,5 @@ The war had profound consequences. For the U.S., the vast territorial acquisitio
 - **How decisive was the war in causing the U.S. Civil War?** While the war intensified the slavery debate, some scholars argue other factors were more critical to the outbreak of civil conflict in 1861.
 - **What was the role of racial ideology?** The war was fueled by American notions of racial superiority and "civilizing" missions, which influenced both the conflict and the subsequent treatment of Mexicans and Native Americans in the ceded territories.
 - **How did Mexican internal divisions affect the outcome?** The constant political instability and factional fighting in Mexico severely hampered its ability to mount a unified defense against the U.S. invasion.
+
+Source: adapted from "Mexican–American War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War

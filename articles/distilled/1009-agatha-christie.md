@@ -48,3 +48,5 @@ Christie was the first recipient of the Mystery Writers of America’s Grand Mas
 
 ## Debates and Open Questions
 Christie’s 1926 disappearance remains debated. Diagnoses ranged from fugue state to nervous breakdown. Some speculate it was a calculated act to embarrass her husband, while others view it as genuine psychological distress. Her portrayal of ethnic minorities in early works has also sparked controversy, leading to recent editorial changes in reissued editions to remove offensive language.
+
+Source: adapted from "Agatha Christie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Agatha_Christie

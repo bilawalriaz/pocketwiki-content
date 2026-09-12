@@ -40,3 +40,5 @@ Calling a function has overhead: allocating and freeing its stack frame, saving 
 ## Origins
 
 The callable-unit idea appeared with the earliest stored-program computers. Konrad Zuse implemented a single subroutine on the Z4 in 1945 using tape, and Alan Turing in 1945 used the terms "bury" and "unbury" for calling and returning while drafting the concept of a return-address stack. Maurice Wilkes, David Wheeler, and Stanley Gill are usually credited with formalising the closed subroutine, in contrast to open subroutines, also called macros, whose body is spliced into each caller. FORTRAN II (1958) was among the first high-level languages to let users write their own subroutines; ALGOL and later procedural languages followed. Collections of reusable subroutines, originally stored as physical tapes or card decks sometimes kept in a literal library, became the first subroutine libraries.
+
+Source: adapted from "Function (computer programming)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Function_%28computer_programming%29

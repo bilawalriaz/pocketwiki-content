@@ -67,3 +67,5 @@ Bellow drifted from Trotskyism to cultural conservatism. He opposed political co
 - **Political legacy**: Was Bellow’s anti-political-correctness stance a principled defense of intellectual freedom against Stalinist "thought-police," or a reactionary defense of privilege that produced racist rhetoric (the "Zulus/Papuans" remark)?
 - **Jewish writer label**: Bellow rejected the category, yet his work centers Jewish alienation and transcendence; does the label illuminate or reductively ghettoize his universal ambition?
 - **Late work valuation**: Is *Ravelstein* (2000) a crowning synthesis of wisdom and wit (Rosenbaum), or does it share the "longueurs" of his later period?
+
+Source: adapted from "Saul Bellow" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saul_Bellow

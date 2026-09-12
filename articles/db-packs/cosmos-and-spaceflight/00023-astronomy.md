@@ -33,3 +33,5 @@ Unresolved questions include the nature of dark matter and dark energy, the ulti
 - **Cosmic microwave background**: Faint radio radiation from the early universe, discovered in 1965.
 - **Astrometry**: Measurement of precise celestial positions.
 - **Multi-messenger astronomy**: Combining electromagnetic, neutrino, and gravitational-wave observations.
+
+Source: adapted from "Astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomy

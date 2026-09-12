@@ -47,3 +47,5 @@ Following the Indian Rebellion of 1857, the British government passed the Govern
 - The extent to which the EIC's actions directly caused famines like the Great Bengal Famine of 1770 is a subject of historical analysis, focusing on the impact of its tax and trade policies.
 - The company's role in the origins of the American Revolution is debated, particularly how its financial crisis and the resulting Tea Act directly precipitated the Boston Tea Party.
 - Historians debate the degree to which the EIC's early relationship with the Mughal Empire was one of vassalage versus a partnership of convenience, and how this shifted to outright domination.
+
+Source: adapted from "East India Company" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/East_India_Company

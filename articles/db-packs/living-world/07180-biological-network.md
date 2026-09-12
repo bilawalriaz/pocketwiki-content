@@ -47,3 +47,5 @@ These measures answer different questions and are often reported together.
 **Communities.** Many biological networks are modular. Community-detection algorithms partition nodes into groups with dense internal edges and sparse external ones. The Louvain method greedily maximizes modularity by repeatedly moving each node to the community that most increases that score. The Leiden algorithm refines this approach with faster merging and a refinement step, producing better-connected communities. A 2002 study of Chesapeake Bay marine mammals using this kind of method found a clear split between pelagic and benthic organisms.
 
 **Network motifs.** Statistically significant recurring patterns of a few nodes, often 2 or 3, are network motifs. Motif analysis of directed functional brain networks built from resting-state fMRI has been used to study basic patterns of information flow in the human brain.
+
+Source: adapted from "Biological network" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_network

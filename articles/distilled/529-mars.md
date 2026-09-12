@@ -94,3 +94,5 @@ Two small, irregular bodies discovered 1877 by Asaph Hall.
 *   **Moons' Origin:** Captured asteroids vs. giant impact ejecta vs. remnant of prior moon system? Phobos's porosity/mineralogy favors impact origin.
 *   **Present Habitability:** Can any known terrestrial extremophile survive surface conditions (radiation, perchlorates, desiccation)? Or only deep subsurface?
 *   **Sample Return Feasibility:** Technical, budgetary, and planetary protection challenges for NASA/ESA and China missions.
+
+Source: adapted from "Mars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mars

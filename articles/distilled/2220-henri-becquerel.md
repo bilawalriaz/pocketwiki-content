@@ -39,3 +39,5 @@ Becquerel continued to study radioactivity, identifying beta particles as high-s
 
 ## Debates and Open Questions
 The source notes that the discovery of radioactivity was nearly made decades earlier. In 1857, Abel Niépce de Saint-Victor observed that uranium salts emitted radiation that could darken photographic plates, a fact later published by Becquerel's own father, Edmond Becquerel, in 1868. This highlights that scientific discovery often depends on the right context and interpretation, as the earlier observation was not pursued as a fundamental new phenomenon.
+
+Source: adapted from "Henri Becquerel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henri_Becquerel

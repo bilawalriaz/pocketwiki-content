@@ -41,3 +41,5 @@ Despite initial neglect, Schopenhauer gained posthumous influence through *Parer
 
 ## Debates and Open Questions
 Schopenhauer’s relationship with Buddhism is debated: while he acknowledged similarities with the Four Noble Truths, scholars question whether his philosophy truly aligns with Buddhist doctrine. His views on women, race, and Judaism remain controversial, reflecting 19th-century biases. Whether he should be classified as an antinatalist is contested—his metaphysics suggest existence transcends individual birth and death, complicating moral judgments about procreation. His influence on existentialism, psychoanalysis, and quantum physics continues to be explored.
+
+Source: adapted from "Arthur Schopenhauer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arthur_Schopenhauer

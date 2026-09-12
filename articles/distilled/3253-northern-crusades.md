@@ -45,3 +45,5 @@ The crusades also involved conflicts with Orthodox Christian states like Novgoro
 - The extent of **Danish success and permanent footholds** in Finland before Swedish efforts is uncertain, with sparse attestation for some campaigns (e.g., 1202, 1209).
 - The identity of the **"barbarians"** threatening Finland in papal letters (c. 1221) remains unclear, though later documents specify Novgorodians.
 - The effectiveness of **peaceful conversion attempts** (e.g., by Adalbert of Bremen, 1045–1072) versus military campaigns is debated.
+
+Source: adapted from "Northern Crusades" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Northern_Crusades

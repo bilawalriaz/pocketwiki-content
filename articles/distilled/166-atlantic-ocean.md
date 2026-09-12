@@ -70,3 +70,5 @@ Endangered species include the manatee, seals, sea lions, turtles, and whales. D
 ## Debates and open questions
 
 The exact timing of the central Atlantic opening is controversial, with estimates ranging from 200 to 170 Ma. The "blitzkrieg" and "three-wave" hypotheses for the settlement of the Americas are challenged by archaeological discoveries in South America, and genetic data support neither hypothesis while delivering mutually ambiguous results. Alternative theories include the Solutrean hypothesis and other Pre-Columbian trans-oceanic contact theories, ranging from hypothetical to mostly disputed. The future of the Atlantic is debated: one theory proposes Atlantic closure via the Gibraltar Arc and Caribbean subduction systems, while others propose the Pacific closes first, creating supercontinents Amasia, Novopangaea, or Aurica. Recent but disputed research suggests eels may use Earth's magnetic field for navigation.
+
+Source: adapted from "Atlantic Ocean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atlantic_Ocean

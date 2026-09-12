@@ -23,3 +23,5 @@ The Sanskrit epic *Ramayana* describes *vanaras*, an ape-like species with human
 ## Spiritual evolution
 
 A separate current treats evolution as a spiritual rather than biological process. Reformers have linked the Samkhya term *parinama* (evolute) to Darwinian evolution, and David Gosling has argued that Swami Vivekananda's cosmological and biological ideas drew heavily on Samkhya. Influenced by Western esoteric thought, Vivekananda and Sri Aurobindo described an *involution* of the Divine into matter, followed by the soul's evolution over many lives until the Divine recognises its true nature and liberation (*moksha*) is attained.
+
+Source: adapted from "Hindu views on evolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hindu_views_on_evolution

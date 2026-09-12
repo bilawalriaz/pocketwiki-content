@@ -57,3 +57,5 @@ Supply elasticity depends on scarcity of inputs, spare capacity, the time horizo
 ## Applications
 
 Enterprises use elasticity to set prices: cut price when demand is elastic, raise price and trim output when it is inelastic, and avoid crossing into the elastic region, where further price changes only shrink revenue. Governments use it to gauge tax incidence, since a tax on an inelastic good raises revenue without much curbing demand, while a tax on an elastic good mainly suppresses the market. Elasticity also underlies analysis of international trade terms, the burden of taxation, advertising's pull on demand, and the welfare effects of price ceilings and floors. In empirical work, elasticity appears as the coefficient on a logged variable in a linear regression.
+
+Source: adapted from "Elasticity (economics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Elasticity_%28economics%29

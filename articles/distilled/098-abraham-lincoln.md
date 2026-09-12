@@ -89,3 +89,5 @@ Lincoln redefined republicanism, presenting the Declaration of Independence's eq
 - Whether Lincoln's health was declining before assassination: photographs suggest weight loss; proposed conditions include Marfan syndrome or multiple endocrine neoplasia type 2B.
 - Whether Lincoln deserved the title "Great Emancipator": since the late 1960s, some Black intellectuals (e.g., Lerone Bennett Jr.) called him a White supremacist, citing ethnic slurs and opposition to social equality; defenders cite his condemnation of slavery and role in abolition.
 - Whether Lincoln was moving toward more radical Reconstruction at his death: Phillip S. Paludan suggests yes; Eric Foner imagines possible agreement on federal protection for civil rights plus limited Black suffrage.
+
+Source: adapted from "Abraham Lincoln" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abraham_Lincoln

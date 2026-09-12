@@ -40,3 +40,5 @@ The Nuremberg trials (1945–46) were held in the city's largely undamaged Palac
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates, but it notes the city's symbolic choice for the trials was a compromise, with Berlin intended as the permanent seat of the International Military Tribunal. The Cold War prevented subsequent trials from occurring there. The city's ongoing effort to reconcile with its Nazi past is evidenced by the establishment of the Nuremberg International Human Rights Award in 1995.
+
+Source: adapted from "Nuremberg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nuremberg

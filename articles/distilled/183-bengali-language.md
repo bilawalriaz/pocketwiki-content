@@ -70,3 +70,5 @@ Estimated ~100,000 words: 16% tadbhava (inherited Indo-Aryan), 40% tatsama (dire
 - **Glossia level**: Scholars dispute whether Bengali exhibits diglossia, triglossia, or heteroglossia given the range of written and spoken varieties.
 - **Script reform**: The tension between preserving traditional opaque consonant ligatures and adopting “transparent” forms for learners remains unresolved; no uniform collation standard has been adopted.
 - **UN official language**: Bangladesh and West Bengal have proposed Bengali for UN official status since 2010; as of 2023 no action has been taken, though the UN adopted it as an unofficial language in 2022.
+
+Source: adapted from "Bengali language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bengali_language

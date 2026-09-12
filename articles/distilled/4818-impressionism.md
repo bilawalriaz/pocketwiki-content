@@ -47,3 +47,5 @@ The artists gained little financial reward from the early exhibitions, but their
 - The extent of the influence of visual Impressionism on its musical counterpart is debatable; composer Claude Debussy disavowed the term.
 - The role and recognition of female Impressionists have been a subject of scholarly re-evaluation, as they were historically marginalized in art historical narratives.
 - The categorization of artists like Paul Cézanne, who participated in early exhibitions but later developed a distinct style, illustrates the difficulty of applying fixed labels to the movement's evolution.
+
+Source: adapted from "Impressionism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Impressionism

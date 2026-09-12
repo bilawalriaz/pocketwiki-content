@@ -35,3 +35,5 @@ The plain's extensive irrigation creates unusually moist air. As climate change 
 
 ## Debates and Open Questions
 The source notes a scholarly debate: many historians propose that the plain's environmental challenges (floods, droughts, invasions) encouraged the development of a centralized Chinese state for management and defense. This is linked to the "hydraulic society" school of thought.
+
+Source: adapted from "North China Plain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/North_China_Plain

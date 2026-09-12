@@ -42,3 +42,5 @@ Knuth married Nancy Jill Carter in 1961; they have two children. He is an accomp
 ## Debates and Open Questions
 - The source notes Knuth's strong opposition to software patents for trivial solutions, though he holds more nuanced views for nontrivial ones like the interior-point method for linear programming.
 - The completion of *The Art of Computer Programming* is an ongoing project; as of 2020, Knuth anticipated Volume 4 would have at least parts A through F.
+
+Source: adapted from "Donald Knuth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Donald_Knuth

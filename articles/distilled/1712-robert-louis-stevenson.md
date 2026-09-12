@@ -66,3 +66,5 @@ Stevenson was celebrated in life by peers (James, Conan Doyle, Kipling, Proust).
 - **Political ideology**: Conservative (cousin Graham Balfour), individualist/Social Darwinist (critics of *Treasure Island*), libertarian (citing “The Day After Tomorrow”), or anti-imperialist radical (Julia Reid, citing Samoan activism)? Evidence supports multiple readings.
 - **Collaboration with Fanny Osbourne**: *The Dynamiter* (1885) and *The Wrong Box*, *The Wrecker*, *The Ebb-Tide* (with Lloyd Osbourne) raise questions about her editorial and compositional role.
 - **Literary status**: Why was he canonically excluded mid-century? Was it genre prejudice, the “children’s author” label, or modernist rejection of romance? The reversal since the 1980s remains a case study in reputation formation.
+
+Source: adapted from "Robert Louis Stevenson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Louis_Stevenson

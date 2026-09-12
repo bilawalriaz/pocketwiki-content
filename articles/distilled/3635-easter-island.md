@@ -46,3 +46,5 @@ Today, Easter Island is a special territory of Chile with a population of severa
 - **Population Size**: Estimates of the pre-European population vary widely, from a few thousand to as high as 15,000, with recent research favoring lower numbers.
 - **Statue Transportation**: The exact methods used to transport the massive moai from the quarry to the ahu are still debated, with theories involving wooden sledges, log rollers, or "walking" the statues with ropes.
 - **Decipherment of Rongorongo**: The meaning and nature of the rongorongo script remain unknown, as it has not been deciphered and few texts survive.
+
+Source: adapted from "Easter Island" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Easter_Island

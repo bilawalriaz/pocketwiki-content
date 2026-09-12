@@ -31,3 +31,5 @@ In 2016, 75% of all central-bank assets were held by four centres: China, the Un
 ## Criticism
 
 Central banks have drawn opposition from across the political spectrum. Thomas Jefferson warned that "banking establishments are more dangerous than standing armies," and Andrew Jackson destroyed the Second Bank of the United States, calling it a "money power." Austrian-school economists from Friedrich Hayek to Murray Rothbard argue that central-bank credit expansion distorts interest rates, misallocates capital, and drives the business cycle, a view that fed the 2008 surge of public scepticism and renewed interest in free banking, full-reserve banking, and currency boards.
+
+Source: adapted from "Central bank" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Central_bank

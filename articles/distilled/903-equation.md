@@ -44,3 +44,5 @@ A **differential equation** relates a function to its derivatives, modeling proc
 - The solvability of polynomial equations by radicals is fully characterized by Galois theory, but efficient root-finding for high-degree polynomials remains computationally challenging.
 - The distinction between algebraic and transcendental numbers is well-defined, but proving specific numbers (beyond π and e) to be transcendental is often difficult.
 - For differential equations, the existence and uniqueness of solutions depend on specific conditions, and many PDEs lack general solution methods, relying instead on numerical approximation.
+
+Source: adapted from "Equation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Equation

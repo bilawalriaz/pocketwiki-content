@@ -42,3 +42,5 @@ Andersen’s personal life was marked by unrequited love and complex emotional b
 
 ## Debates and Open Questions
 Scholars continue to debate the extent and nature of Andersen’s sexual identity. Biographer Jackie Wullschlager interprets his relationships with men like Harald Scharff as evidence of physical liaisons, while researchers from the H.C. Andersen Centre argue that such claims contradict his moral and religious values. The authenticity and interpretation of his private journals remain contentious, reflecting broader tensions in biographical scholarship about how to assess historical figures’ identities within evolving social frameworks.
+
+Source: adapted from "Hans Christian Andersen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hans_Christian_Andersen

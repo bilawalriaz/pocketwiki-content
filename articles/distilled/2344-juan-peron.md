@@ -53,3 +53,5 @@ Perón's government provided refuge to Nazi war criminals after WWII, including 
 - **What was Perón's true ideological stance?** Scholars debate whether he was a nationalist socialist, a pragmatic populist, a Christian democrat, or a unique synthesis. His own descriptions evolved from "national socialism" to "justicialism."
 - **What was the extent of state involvement in harboring Nazis?** Documents show organized ratlines and high-level protection for war criminals, motivated by a desire for German technology and personnel, though the full scope remains researched.
 - **How responsible was Perón for the violence of his third term?** His inability to control escalating conflict between left- and right-wing Peronists, and his empowerment of figures like López Rega, are seen as key factors leading to the "dirty war" that followed his death.
+
+Source: adapted from "Juan Perón" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Juan_Per%C3%B3n

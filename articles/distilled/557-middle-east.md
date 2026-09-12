@@ -63,3 +63,5 @@ Economies range from very poor (Gaza, Yemen) to extremely wealthy (Qatar, UAE). 
 - **Ethnic vs. civic identity:** Tension between dominant Arab-Islamic identity and minority nationalisms (Kurdish, Assyrian, Amazigh, etc.) drives conflict and migration.
 - **Resource curse vs. diversification:** Oil wealth creates rentier states with high youth unemployment; post-COVID tourism and sport investments test economic transition away from fossil fuels.
 - **Climate adaptation:** Extreme aridity, water scarcity, and heat threaten habitability; governance capacity for transboundary water management (Nile, Tigris/Euphrates, Jordan) is untested.
+
+Source: adapted from "Middle East" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Middle_East

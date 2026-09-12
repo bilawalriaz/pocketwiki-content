@@ -44,3 +44,5 @@ After the Communist victory in 1949, Soong joined the new government in Beijing,
 - **Degree of Communist Sympathy:** Scholars debate whether Soong was a committed communist ideologue or a pragmatic nationalist who aligned with the CCP for Sun Yat-sen's legacy. Her refusal to formally join the party until 1981 suggests complexity.
 - **Role in the Comintern:** The extent of her secret work for the Comintern and the CCP during the 1930s remains a subject of historical research, with some details still emerging from archives.
 - **Family Relations:** Her political choices caused a permanent rift with her sisters, especially Soong Mei-ling (wife of Chiang Kai-shek), highlighting the personal cost of China's political divisions.
+
+Source: adapted from "Soong Ching-ling" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Soong_Ching-ling

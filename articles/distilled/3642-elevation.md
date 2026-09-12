@@ -31,3 +31,5 @@ Topographical maps depict elevation primarily through contour lines, which conne
 
 ## Debates and Open Questions
 The source text does not contain explicit scholarly debates or open questions. However, the ongoing development of programs like 3DEP highlights a continuous need for higher-quality, more detailed topographic data to meet growing demands.
+
+Source: adapted from "Elevation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Elevation

@@ -29,3 +29,5 @@ If the three Standard Model forces are unified in a Grand Unified Theory, a cosm
 ## Observational consequences
 
 Cosmological phase transitions can leave two measurable traces: primordial gravitational waves and the baryon asymmetry. Adequate confirmation has not yet been achieved.
+
+Source: adapted from "Cosmological phase transition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cosmological_phase_transition

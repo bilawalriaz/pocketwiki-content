@@ -46,3 +46,5 @@ After the Shimabara Rebellion (1637–1638), ninja faded from open warfare. Unde
 - **Historical Evidence**: Direct historical accounts of ninja are scarce, and many stories are later legends. The existence of the first "dubbed ninja," Otomono Sahito, is based on scarce evidence.
 - **Iga Ninja Theory**: The traditional story of Hattori Hanzō leading 300 ninja to rescue Tokugawa Ieyasu after Nobunaga's assassination is disputed. Some researchers, like those at Mie University, suggest it was Kōka militias, not ninja, who provided aid, and that the ninja army story may be Edo-period propaganda to elevate the status of Iga and Kōka clans.
 - **Assassin Myth**: Despite popular belief, there is little evidence that ninja were primarily assassins. Their documented roles were overwhelmingly espionage and sabotage.
+
+Source: adapted from "Ninja" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ninja

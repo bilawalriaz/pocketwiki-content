@@ -38,3 +38,5 @@ The label "dependent" or "independent" is contextual, not a fixed property of th
 ## Moduli spaces
 
 When a family of objects is described by parameters, those parameters can themselves be treated as variables, and the set of all possible parameter values becomes a space. The quadratic y = ax² + bx + c is the family of all parabolas, each picked out by a triple (a, b, c). Letting a, b, and c vary turns the set of parabolas into a three-dimensional moduli space in which each point is one parabola. Letting the constants of one problem become the variables of a larger one is one of the main ways modern mathematics links algebra to geometry and produces new objects from old ones.
+
+Source: adapted from "Variable (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Variable_%28mathematics%29

@@ -89,3 +89,5 @@ By autumn 1347: Alexandria (via slave ship from Constantinople). Summer 1348: Ca
 - **Co-circulating pathogens**: Whether typhus, smallpox, or other diseases contributed significantly to mortality alongside *Y. pestis*.
 - **Demographic uniformity**: 2022 pollen study challenges assumption of uniformly devastating impact across Europe; high regional variability requires explanation.
 - **Climate link**: Whether plague-driven reforestation contributed to the Little Ice Age (Van Hoof hypothesis).
+
+Source: adapted from "Black Death" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Black_Death

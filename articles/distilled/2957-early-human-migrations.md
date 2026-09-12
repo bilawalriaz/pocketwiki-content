@@ -48,3 +48,5 @@ After the Last Glacial Maximum, the Holocene (beginning 12,000 years ago) saw mi
 - **Impact of the Toba eruption**: The extent to which the Toba super-eruption (c. 74,000 years ago) caused a human population bottleneck is contested.
 - **First peopling of the Americas**: The exact timing, routes (ice-free corridor vs. coastal migration), and number of migrations into the Americas remain subjects of active research.
 - **Late survival of archaic humans in Africa**: The possibility of late survival and hybridization with *H. sapiens* in West Africa until as late as 12,000 years ago is argued based on archaeological evidence.
+
+Source: adapted from "Early human migrations" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Early_human_migrations

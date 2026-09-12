@@ -28,3 +28,5 @@ A state on a C*-algebra is a positive linear functional of unit norm, assigning 
 ## Curved spacetimes
 
 Because the framework ties physics to spacetime regions rather than a fixed background, it generalises to curved spacetimes. The local-algebra viewpoint supports a renormalisation procedure on curved backgrounds, and results concerning quantum fields in the presence of black holes have been obtained within it.
+
+Source: adapted from "Algebraic quantum field theory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algebraic_quantum_field_theory

@@ -44,3 +44,5 @@ Mayotte faces severe socioeconomic issues. Over 83% of the population lives belo
 - **Sovereignty dispute:** The independent Union of the Comoros continues to claim Mayotte as its own, a position supported by some UN General Assembly resolutions, though France maintains sovereignty based on local referendums.
 - **Immigration policy:** The effectiveness and humanitarian impact of France's interception operations and the "Balladur visa" are debated, with some Comorians blaming the visa for deadly illegal crossings.
 - **Integration challenges:** The pace and social cost of aligning Mayotte's legal, educational, and social systems with metropolitan French standards are ongoing issues, given deep-seated poverty and cultural differences.
+
+Source: adapted from "Mayotte" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mayotte

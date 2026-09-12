@@ -46,3 +46,5 @@ Graf's game was defined by her powerful inside-out forehand, exceptional footwor
 *   **Greatest of All Time (GOAT):** While widely considered the greatest female player of the 20th century, debate continues regarding her standing versus later champions like Serena Williams, who matched her record of 22 major titles.
 *   **Impact of Seles's Absence:** The stabbing of Monica Seles in 1993, which sidelined her for over two years, is a central point of discussion. It is debated how Graf's career statistics and legacy would differ had Seles remained active during that period.
 *   **Surface Versatility:** Graf's ability to win multiple majors on clay, grass, and hard courts is often cited as evidence of her unparalleled all-around skill, setting her apart from specialists.
+
+Source: adapted from "Steffi Graf" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Steffi_Graf

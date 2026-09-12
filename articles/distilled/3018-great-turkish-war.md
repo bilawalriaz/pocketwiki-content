@@ -42,3 +42,5 @@ The war's decisive moment came at the Battle of Zenta (1697), where Habsburg for
 *   The extent of participation by the Crimean Tatar cavalry, allied with the Ottomans, at the Battle of Vienna is debated.
 *   The impact of the concurrent Nine Years' War (1688–1697) on the Great Turkish War's duration and outcome is a key scholarly consideration, as it diverted major Imperial resources.
 *   The long-term significance of Russia's first formal alliance with Western European powers, initiated by its entry into the Holy League, is analyzed as a pivotal moment in European geopolitics.
+
+Source: adapted from "Great Turkish War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Turkish_War

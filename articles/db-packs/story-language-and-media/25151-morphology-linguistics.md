@@ -39,3 +39,5 @@ Pingelapese shows morphology layering meaning onto roots. The suffix *-kin* atta
 Morphological analysis is ancient. The Indian grammarian Pāṇini formulated rules of Sanskrit morphology in the *Aṣṭādhyāyī* using a constituency grammar. The term "morphology" itself entered linguistics in 1859 when August Schleicher borrowed it from the natural sciences.
 
 **Lexical morphology** focuses on the lexicon, the inventory of lexemes, and so centres on word formation: derivation and compounding. A persistent complication is the **clitic**, a hybrid unit that behaves grammatically like an independent word but prosodically clings to its neighbour, blurring the line between word and affix across many of the world's languages.
+
+Source: adapted from "Morphology (linguistics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Morphology_%28linguistics%29

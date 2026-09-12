@@ -45,3 +45,5 @@ Wu continued her research, experimentally confirming the conserved vector curren
 ## Debates and Open Questions
 - **Nobel Prize Omission**: The decision to award the 1957 Nobel Prize in Physics to Lee and Yang but not to Wu for her experimental confirmation of their theory is considered a significant oversight. Wu received 23 Nobel nominations between 1958 and 1974 but never won.
 - **Legacy and Recognition**: While Wu was highly respected by peers, her recognition lagged behind theoretical physicists for decades. Her story highlights historical gender bias in scientific awards and recognition.
+
+Source: adapted from "Chien-Shiung Wu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chien-Shiung_Wu

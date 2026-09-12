@@ -28,3 +28,5 @@ Defeat in World War II weakened the empire's hold. France fought and lost two lo
 - 1954 — French defeat at Điện Biên Phủ forces withdrawal from Indochina.
 - 1960 — Most remaining African colonies gain independence in the Year of Africa.
 - 1962 — Algeria gains independence, effectively ending the French empire.
+
+Source: adapted from "French colonial empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_colonial_empire

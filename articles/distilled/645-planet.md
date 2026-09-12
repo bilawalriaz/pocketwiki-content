@@ -49,3 +49,5 @@ Planetary names derive from Babylonian, Greek, and Roman mythology. Earth's name
 
 ## Debates and Open Questions
 The IAU's 2006 planet definition remains controversial. Planetary geologists favor geophysical definitions based on roundness rather than orbital dynamics, arguing location shouldn't determine planethood. The boundary between planets and brown dwarfs (13 Jupiter masses for deuterium fusion) is disputed, with some catalogs including objects up to 60 Jupiter masses. The minimum size for dwarf planet classification varies—Grundy et al. (2019) suggest 900–1000 km diameter for trans-Neptunian objects, larger than the ~400 km threshold for icy moons. Free-floating planetary-mass objects' classification remains unresolved. The IAU's 2018 exoplanet working definition uses 13 Jupiter masses as the deuterium-burning limit, but many catalogs exceed this threshold.
+
+Source: adapted from "Planet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Planet

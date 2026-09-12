@@ -49,3 +49,5 @@ Historically dependent on agricultural exports like indigo and coffee, El Salvad
 - The effectiveness and consequences of adopting (and later repealing) Bitcoin as legal tender are still being assessed.
 - The consolidation of power under President Bukele, including constitutional changes to allow re-election and extend terms, raises questions about the future of democratic institutions in El Salvador.
 - The root causes of gang violence and the sustainability of the security-driven reduction in homicide rates are ongoing scholarly and policy discussions.
+
+Source: adapted from "El Salvador" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/El_Salvador

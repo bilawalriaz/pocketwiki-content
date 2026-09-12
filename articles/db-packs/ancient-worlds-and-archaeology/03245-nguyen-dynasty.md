@@ -23,3 +23,5 @@ The Nguyễn dynasty ended in 1945, when Japan overthrew the French administrati
 ## Historical Assessment
 
 The dynasty's legacy is contested. Some historians view it as a period of cultural consolidation, while others see it as oppressive feudalism that hindered modernisation. A related debate concerns how much its conservative, Sinicised policies directly caused its failure to resist French colonisation, and how much internal court politics, including the succession crisis after Emperor Tự Đức's death, facilitated the final takeover.
+
+Source: adapted from "Nguyễn dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_dynasty

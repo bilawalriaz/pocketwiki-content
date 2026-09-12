@@ -41,3 +41,5 @@ The cello has a vast solo repertoire, including J.S. Bach's six unaccompanied Su
 
 ## Debates and open questions
 The source does not explicitly outline ongoing scholarly debates, but it notes historical points of contention, such as the popular misconception that the cello evolved from the viola da gamba, which it did not. The exact date of the first bass violin (a cello ancestor) is uncertain, with a possible invention as early as 1538.
+
+Source: adapted from "Cello" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cello

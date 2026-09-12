@@ -43,3 +43,5 @@ Saint Lucia is a parliamentary democracy and constitutional monarchy. Its legal 
 ## Debates and open questions
 - The exact date and nature of initial European contact are debated; Christopher Columbus may have sighted the island in 1502, but it was noted on Spanish maps earlier.
 - The origin of the island's name is debated: legend attributes it to French sailors shipwrecked on St. Lucy's feast day, but a 1520 Vatican globe shows it as "Sancta Lucia," suggesting earlier Spanish naming.
+
+Source: adapted from "Saint Lucia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saint_Lucia

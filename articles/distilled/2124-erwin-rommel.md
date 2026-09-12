@@ -52,3 +52,5 @@ Rommel's forces operated in a theatre with fewer civilians than the Eastern Fron
 *   **The "Clean War" Myth:** Was the North African campaign truly a "war without hate," or did Rommel's forces commit or enable war crimes, particularly against Jewish populations and prisoners?
 *   **Military Genius or Overrated?:** Was Rommel a strategic genius, or primarily a gifted tactician whose operational and strategic shortcomings contributed to Germany's defeat in Africa?
 *   **The "Rommel Myth":** To what degree has his historical reputation been shaped by post-war political needs for West German rearmament and reconciliation rather than a balanced assessment of his career?
+
+Source: adapted from "Erwin Rommel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Erwin_Rommel

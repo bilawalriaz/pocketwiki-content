@@ -42,3 +42,5 @@ Hannibal met Scipio at the Battle of Zama in 202 BC. Unlike his earlier battles,
 *   **Troop Numbers:** The precise size of Hannibal's army at various stages, especially after crossing the Alps, is uncertain and disputed by historians.
 *   **Hannibal's Son:** The existence of a son named Haspar or Aspar, mentioned by the poet Silius Italicus, is not confirmed by other major ancient sources like Livy or Polybius.
 *   **Cause of Death:** Ancient sources give conflicting accounts of Hannibal's death, with stories ranging from suicide by poison to death from a fever after a sword wound.
+
+Source: adapted from "Hannibal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hannibal

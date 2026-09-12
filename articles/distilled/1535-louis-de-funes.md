@@ -60,3 +60,5 @@ De Funès was made Chevalier of the Légion d'honneur in 1973. A rose variety be
 - **Health vs. art causality**: The source attributes his heart attacks to "excessive strain of his stage antics," but does not cite medical sources or explore whether his performance style was medically contraindicated.
 - **Private vs. public persona gap**: The stark contrast between his shy, devout Catholic private life and his explosive, amoral screen characters is noted but not psychologically examined.
 - **Olivier de Funès's career**: The source mentions his son Olivier acted in several films but does not assess his independent trajectory or the impact of paternal legacy.
+
+Source: adapted from "Louis de Funès" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_de_Fun%C3%A8s

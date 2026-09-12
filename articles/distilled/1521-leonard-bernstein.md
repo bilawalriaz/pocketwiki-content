@@ -81,3 +81,5 @@ As a conductor, Bernstein was celebrated for physically expressive, communicativ
 - **Personal life vs. public image**: Bernstein’s homosexuality was an open secret; his marriage to Felicia and their arrangement (documented in letters) raise questions about the cost of public concealment in mid-century America.
 - **Political surveillance**: The FBI’s 800-page file (released via FOIA) documents decades of monitoring; the extent to which this constrained his career (blacklisting, passport issues) versus his ability to operate freely is not fully resolved.
 - **Authorship of *West Side Story* lyrics**: Stephen Sondheim received sole lyric credit, but Bernstein contributed lyrical ideas; the collaborative dynamic between Bernstein, Sondheim, Laurents, and Robbins remains a subject of musicological analysis.
+
+Source: adapted from "Leonard Bernstein" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leonard_Bernstein

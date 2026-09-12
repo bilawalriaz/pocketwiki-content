@@ -46,3 +46,5 @@ Today, the canal is part of the New York State Canal System and is used primaril
 ## Debates and Open Questions
 - The death toll from "swamp fever" (malaria) during construction of the Montezuma Marsh section is debated; recent research suggests the commonly cited figure of over 1,000 workers is likely exaggerated.
 - The 1858 debate over closing the canal on Sundays centered on whether the canal, as an "artificial river," should be treated like natural waterways (which were not closed) or like public roads.
+
+Source: adapted from "Erie Canal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Erie_Canal

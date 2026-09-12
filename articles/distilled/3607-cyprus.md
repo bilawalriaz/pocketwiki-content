@@ -47,3 +47,5 @@ The Republic of Cyprus is a presidential republic and a developed, high-income e
 - The legality of Turkey's 1974 intervention is disputed; Turkey cites the 1960 Treaty of Guarantee, while the UN and international community deem the subsequent occupation illegal.
 - The future political structure of Cyprus remains unresolved, with proposals ranging from a bi-zonal, bi-communal federation to a two-state solution, the latter rejected by the Republic of Cyprus and the international community.
 - The destruction of cultural heritage in the north is contested, with Greek Cypriots alleging systematic erasure of their history and some scholars noting shared responsibility for damage.
+
+Source: adapted from "Cyprus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cyprus

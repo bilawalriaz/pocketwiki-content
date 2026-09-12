@@ -47,3 +47,5 @@ The rebellion's suppression required the rise of Han-led provincial armies, dece
 - **Death Toll**: Estimates vary widely from 20–30 million to as high as 73–100 million, with no reliable census data.
 - **Nature of the Movement**: Historians disagree on whether it was primarily a religious movement, a nationalist uprising, or a proto-communist revolution.
 - **Western Role**: The extent and motivation of limited Western intervention on the Qing side remain subjects of analysis.
+
+Source: adapted from "Taiping Rebellion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taiping_Rebellion

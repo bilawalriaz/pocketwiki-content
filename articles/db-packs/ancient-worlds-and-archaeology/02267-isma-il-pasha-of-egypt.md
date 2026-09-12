@@ -19,3 +19,5 @@ In 1876, Britain and France imposed joint control over Egyptian finances, creati
 ## The Urabi Revolt and Deposition
 
 The squeeze triggered the Urabi Revolt, a nationalist uprising (1879–1882) led by Colonel Ahmed Urabi against the Khedive and European financial control. Isma'il, hoping to use the movement to recover real power, did little to suppress it. When Britain and France demanded the reinstatement of their ministers in 1879, he refused. On 26 June 1879, Ottoman Sultan Abdülhamid II, pressured by those two powers, deposed him and installed his son Tewfik Pasha. Isma'il was exiled first to Italy, then to Constantinople, where he died on 2 March 1895. Four years after his fall, Britain occupied Egypt in 1882.
+
+Source: adapted from "Isma'il Pasha of Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Isma%27il_Pasha_of_Egypt

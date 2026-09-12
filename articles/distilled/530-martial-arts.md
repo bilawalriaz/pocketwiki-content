@@ -73,3 +73,5 @@ The 1970s popularity surge spawned fraudulent schools ("McDojos," "belt factorie
 *   **Pedagogical value of contact levels:** Whether light/medium-contact sparring instills bad habits (pulling punches) or serves as necessary scaffolding for full-contact readiness.
 *   **Cultural preservation vs. modernization:** Tension between maintaining traditional lineage/family systems (often suppressed by states, e.g., PRC’s Wushu regulation) and adapting to global sport/industry standards.
 *   **Fraud detection:** Difficulty for consumers in distinguishing legitimate instruction from "McDojos," cult-like groups, or instructors making false claims (no-touch knockouts, invented styles, self-awarded high ranks).
+
+Source: adapted from "Martial arts" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Martial_arts

@@ -25,3 +25,5 @@ In the **multi-class** case, the algorithm encourages features shared across man
 ## Caveats
 
 Strictly, only algorithms that are provable boosters in the PAC learning sense are boosting algorithms; other "leveraging" methods resemble boosting but lack the theoretical guarantee.
+
+Source: adapted from "Boosting (machine learning)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Boosting_%28machine_learning%29

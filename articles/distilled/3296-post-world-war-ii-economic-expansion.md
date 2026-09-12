@@ -37,3 +37,5 @@ The boom enabled profound social and political changes, including the baby boom,
 
 ## Debates and Open Questions
 The primary debate concerns the causes of the boom. Keynesian economists attribute it to deliberate government policies of demand management and social spending. Others emphasize structural factors like postwar reconstruction, technological catch-up, and the unique geopolitical conditions of the Cold War. The role of "military Keynesianism"—stabilization through high military spending—is also debated. Furthermore, scholars question whether the golden age was a unique, non-repeatable historical anomaly or if its lessons can be applied to contemporary economic challenges.
+
+Source: adapted from "Post–World War II economic expansion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion

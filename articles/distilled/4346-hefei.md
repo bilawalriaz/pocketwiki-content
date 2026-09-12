@@ -44,3 +44,5 @@ Hefei is a leading global city for scientific research, ranking 12th worldwide i
 
 ## Debates and open questions
 The source does not explicitly present scholarly debates or open questions about Hefei.
+
+Source: adapted from "Hefei" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hefei

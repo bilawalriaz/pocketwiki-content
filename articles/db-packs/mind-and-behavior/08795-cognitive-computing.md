@@ -27,3 +27,5 @@ A cognitive system is not the same as an artificially intelligent one. A neural 
 ## Industry and labour
 
 Paired with big data and algorithms tuned to customer needs, cognitive computing can sharpen economic decision-making. The same capabilities threaten broad displacement of human labour, because AI-driven machines can take over tasks across nearly every field. That shift tends to raise inequality: capital owners in the cognitive-computing industry concentrate new wealth, while displaced workers lose reliable income. As more industries adopt the technology, competition for the remaining human roles tightens.
+
+Source: adapted from "Cognitive computing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cognitive_computing

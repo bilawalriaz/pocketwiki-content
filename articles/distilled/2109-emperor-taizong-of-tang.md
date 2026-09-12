@@ -44,3 +44,5 @@ Taizong's later years were marred by a bitter succession dispute. His eldest son
 - **Motives for the Xuanwu Gate Incident**: Traditional accounts portray Li Shimin as acting in self-defense against plots by Li Jiancheng and Li Yuanji. Modern historians debate the extent to which these accounts were shaped by Taizong's later control of historical records to legitimize his usurpation.
 - **Succession and Character of Li Zhi**: Taizong's choice of the "gentler" Li Zhi as heir, despite doubts about his strength, is seen as a pivotal decision. Scholars debate whether this choice, aimed at avoiding fratricide, inadvertently paved the way for the later dominance of Empress Wu Zetian.
 - **Legacy of the Zhenguan Era**: While celebrated as a model reign, some historians note that Taizong's later years saw increased autocracy, costly campaigns, and the succession crisis, complicating the image of a flawless golden age.
+
+Source: adapted from "Emperor Taizong of Tang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang

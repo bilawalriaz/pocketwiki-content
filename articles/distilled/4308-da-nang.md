@@ -43,3 +43,5 @@ Da Nang is a key transport node. Its international airport is Vietnam's third-la
 
 ## Debates and Open Questions
 The exact etymology of the name "Da Nang" is debated among scholars, with multiple proposed origins from Chamic and other languages. The article also notes a major administrative change in 2025 where Da Nang incorporated Quảng Nam province, the long-term effects of which are yet to be seen.
+
+Source: adapted from "Da Nang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Da_Nang

@@ -47,3 +47,5 @@ Since 2000, Harare has seen periods of decline but also stabilization and uneven
 - The true purpose of Operation Murambatsvina is debated; the government cited crime and disease, while it was widely alleged to be a political move to weaken opposition support in urban areas.
 - The effectiveness of the Mnangagwa government's reforms to improve Harare's business environment and attract diaspora investment remains uncertain, with progress described as limited.
 - The future of Harare's urban development is a concern, with predictions of a metropolitan population reaching 4–5 million by 2025 sparking worries about unregulated sprawl and infrastructure strain.
+
+Source: adapted from "Harare" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harare

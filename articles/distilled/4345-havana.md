@@ -48,3 +48,5 @@ Contemporary Havana is described as three cities: the historic Old Havana (a UNE
 - The origin of the name "Havana" is debated, with theories linking it to the Taíno chief Habaguanex or other local terms.
 - The economic and social impact of the post-Soviet "Special Period" and the ongoing effects of the U.S. embargo on Havana's development remain subjects of analysis.
 - The effectiveness of government policies to control population growth in Havana and manage internal migration is a persistent issue.
+
+Source: adapted from "Havana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Havana

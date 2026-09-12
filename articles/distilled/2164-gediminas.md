@@ -45,3 +45,5 @@ Gediminas built fortresses and castles, including in Vilnius, which he establish
 *   **Sincerity of Conversion:** Scholars question whether his letters to the Pope were a genuine request for baptism or solely a diplomatic maneuver to gain protection from the Teutonic Order.
 *   **Cause of Death:** The source states he was "presumably killed during a coup d'état," but the exact circumstances are not detailed.
 *   **Number of Wives:** Historical sources conflict on whether he had one, two, or three wives, affecting the interpretation of his succession.
+
+Source: adapted from "Gediminas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gediminas

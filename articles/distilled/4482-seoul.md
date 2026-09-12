@@ -45,3 +45,5 @@ Seoul's culture blends historical and modern elements. It has five UNESCO World 
 - **Capital Status:** While the Constitutional Court ruled Seoul must remain the legal capital, the gradual relocation of government ministries to Sejong City has created a de facto administrative capital, raising questions about the long-term political and economic implications for Seoul.
 - **Air Pollution Sources:** The relative contributions to Seoul's air pollution from domestic sources (traffic, industry) versus transboundary pollution from China and Asian dust storms are a subject of ongoing analysis and policy focus.
 - **Population Decline:** The causes and consequences of Seoul's shrinking population and ultra-low fertility rate are critical demographic challenges for the city's future.
+
+Source: adapted from "Seoul" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seoul

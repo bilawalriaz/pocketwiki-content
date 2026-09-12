@@ -47,3 +47,5 @@ Historically, the Kashmir Valley has been overwhelmingly Muslim (over 90% in ear
 
 ## Debates and Open Questions
 The core dispute is the unresolved status of Kashmir: should it be part of India, Pakistan, or an independent entity? The UN-mandated plebiscite was never held, with both nations blaming each other for failing to meet preconditions. Scholarly debate continues on the legality of the 1947 accession, the causes of the 1990s insurgency and Pandit exodus, and the human rights record of all administering powers. The 2019 revocation of Jammu and Kashmir's autonomy by India remains a major point of contention.
+
+Source: adapted from "Kashmir" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kashmir

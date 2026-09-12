@@ -40,3 +40,5 @@ Seleucus became the sole surviving companion of Alexander after defeating Lysima
 - **Extent of Mauryan Cession**: The exact territories Seleucus ceded to Chandragupta are debated; sources like Strabo suggest areas along the Indus, but the inclusion of regions like Aria and Gedrosia is questioned by modern scholars.
 - **Nature of the Mauryan Conflict**: Details of the war are scarce, and it is unclear if a major pitched battle occurred or if the conflict was brief.
 - **Prophecy of Antiochus**: A story claims Chaldean astrologers predicted Seleucus would rule Asia, prompting Antigonus to pursue him; its historicity is doubted by scholars.
+
+Source: adapted from "Seleucus I Nicator" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seleucus_I_Nicator

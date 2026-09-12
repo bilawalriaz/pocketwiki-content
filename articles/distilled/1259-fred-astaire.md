@@ -83,3 +83,5 @@ Astaire married Phyllis Potter in 1933 over family objections; her 1954 death fr
 - **Choreographic authorship**: While Astaire credited collaborators, John Mueller argues Astaire was lead choreographer on all solos and partnered dances throughout his career, citing stylistic consistency with or without Hermes Pan.
 - **Singing ability**: Astaire claimed he "could not sing," yet Berlin, Kern, and Burton Lane ("world's greatest musical performer") ranked him among the finest interpreters. George Gershwin was critical but wrote for him extensively.
 - **Biopic prohibition**: Astaire's will forbade portrayal of his life, yet his estate sold film rights to his autobiography *Steps in Time* to Sony, enabling a 2021 announced biopic with Tom Holland—raising questions about estate control vs. artist intent.
+
+Source: adapted from "Fred Astaire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fred_Astaire

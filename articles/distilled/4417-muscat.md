@@ -42,3 +42,5 @@ Modern Muscat features landmarks like the Sultan Qaboos Grand Mosque and the Roy
 - The origin of the name "Muscat" is disputed, with proposed derivations from Arabic, Old Persian, and other languages.
 - Scholars are divided on which ancient port identified by Ptolemy—Cryptus Portus or Moscha Portus—corresponds to modern Muscat.
 - The exact start date of the Hindu merchant community's settlement in Muscat is debated, with arguments for the 15th century.
+
+Source: adapted from "Muscat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muscat

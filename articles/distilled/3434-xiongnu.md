@@ -48,3 +48,5 @@ The ethnic and linguistic identity of the Xiongnu elite is heavily debated, with
 - **Relationship to the Huns**: The hypothesis that the European Huns descended from the Xiongnu is widely discussed but not definitively proven. Sogdian documents refer to both by the same name (γwn), suggesting a connection.
 - **Geographic Origin**: The exact homeland of the Xiongnu before their rise is disputed, with no archaeological mortuary practices providing a clear match.
 - **Status and Ethnicity**: Genetic studies suggest a correlation between social status and ancestry within the Xiongnu, with high-status individuals showing more East Eurasian heritage, indicating a complex social structure.
+
+Source: adapted from "Xiongnu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Xiongnu

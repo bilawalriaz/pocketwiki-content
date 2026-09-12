@@ -44,3 +44,5 @@ The river is a critical economic engine for Guinea, Mali, Mauritania, and Senega
 
 ## Debates and Open Questions
 The primary scholarly debate concerns the river's etymology, with competing theories linking it to a Wolof chieftain, a Wolof phrase, the Berber Zenaga people, the medieval city of Sanghana, or a Serer religious term. Another historical question is the precise location and identity of the legendary "Island of Gold" (Wangara/Palolus) depicted on medieval maps, which is conjectured to represent the Bambuk-Buré goldfield district surrounded by rivers.
+
+Source: adapted from "Senegal River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Senegal_River

@@ -80,3 +80,5 @@ Post-fame novels *Breakfast of Champions* (1973) and *Slapstick* (1976) were cri
 *   **Late-career quality**: Biographers and critics disagree on the merit of post-*Slaughterhouse-Five* novels. Gregory Sumner views *Timequake* as a testament to resilience; Christopher Lehmann-Haupt (*NYT*) felt Vonnegut had "given up storytelling."
 *   **Biographical controversy**: Charles J. Shields’s 2011 biography *And So It Goes* portrayed Vonnegut as "distant, cruel and nasty," contradicting his public persona. Friends and scholars (e.g., Jerome Klinkowitz) contested this depiction, noting his late-life frailty and depression.
 *   **Censorship legacy**: *Slaughterhouse-Five* has been banned or challenged in at least 18 instances (e.g., *Island Trees School District v. Pico*, 1982). The tension between its status as a canonical anti-war text and its frequent suppression remains a live issue in education.
+
+Source: adapted from "Kurt Vonnegut" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kurt_Vonnegut

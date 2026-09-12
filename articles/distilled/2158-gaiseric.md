@@ -42,3 +42,5 @@ Gaiseric later repulsed two major Roman attempts to reclaim Africa. In 460, he d
 - **Scale of Migration**: The number of people Gaiseric led to Africa is debated; ancient sources suggest 80,000, but scholars argue it was likely closer to 20,000.
 - **Religious Persecution**: The timing and severity of Vandal persecution of Nicene Christians is debated. While the historian Victor of Vita claimed it began immediately after the capture of Carthage, scholar Peter Heather argues systematic policies were likely implemented only after 442, and were not uniformly applied across all Vandal provinces.
 - **Motives for Migration**: The invitation by Roman governor Bonifacius is presented as a possibility, not a certainty, in the source.
+
+Source: adapted from "Gaiseric" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gaiseric

@@ -50,3 +50,5 @@ Madrid is a central transport node for Spain, with a radial network of highways 
 *   The etymology of the name "Madrid" is unknown, with competing theories from Celtic, Arabic, and Latin origins.
 *   The social composition of Real Madrid's fan base is debated, with claims it is primarily middle-class versus suggestions of a large working-class following.
 *   Bullfighting remains a controversial tradition in Madrid, with significant public debate surrounding it.
+
+Source: adapted from "Madrid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Madrid

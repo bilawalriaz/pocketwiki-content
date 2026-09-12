@@ -44,3 +44,5 @@ A devout Anglican, Boyle believed natural philosophy could provide evidence for 
 - The formulation of Boyle's law is debated: while Boyle published it in 1662, Henry Power first hypothesized it in 1661, and Edme Mariotte independently published it in 1676.
 - Boyle's views on race, including his monogenist belief that all humans descended from Adam and Eve and his theories on skin color, were controversial among his contemporaries and remain a subject of historical analysis.
 - The extent of his sister Katherine Jones's influence on his scientific work is acknowledged by contemporaries but was often omitted in later historical accounts.
+
+Source: adapted from "Robert Boyle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Boyle

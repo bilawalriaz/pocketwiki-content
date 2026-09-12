@@ -63,3 +63,5 @@ The elementary functions extend to $\mathbb{C}$ through their power series. The 
 The Cayley–Dickson construction produces larger number systems by repeated doubling: $\mathbb{R}\to\mathbb{C}\to\mathbb{H}$ (quaternions)$\to\mathbb{O}$ (octonions). Each step loses an algebraic property: $\mathbb{C}$ cannot be ordered (since $i^2=-1$ has no real square root), $\mathbb{H}$ loses commutativity of multiplication, $\mathbb{O}$ loses associativity. Hurwitz's theorem states that $\mathbb{R},\mathbb{C},\mathbb{H},\mathbb{O}$ are the only normed division algebras over the reals.
 
 The *split-complex numbers* $\mathbb{R}[x]/(x^2-1)$ have four square roots of $1$. The *$p$-adic complex numbers* $\mathbb{C}_p$ are algebraically closed but not locally compact; as bare fields, $\mathbb{C}_p$ and $\mathbb{C}$ are isomorphic, though not as topological fields.
+
+Source: adapted from "Complex number" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Complex_number

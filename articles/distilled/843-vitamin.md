@@ -62,3 +62,5 @@ Letters F–J were skipped because those compounds were reclassified, discarded,
 - Many proposed vitamins (e.g., B17, B21) are not scientifically validated.  
 - Long-term effects of high-dose supplementation are poorly understood.  
 - Regulatory frameworks vary globally, with inconsistent oversight of supplement safety and labeling.
+
+Source: adapted from "Vitamin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vitamin

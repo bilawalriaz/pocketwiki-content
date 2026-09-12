@@ -48,3 +48,5 @@ After World War II, Sardinia became an autonomous region in 1948. A major campai
 *   The identification of the Nuragic Sards with the Sherden of the Sea Peoples is a scholarly speculation.
 *   The extent of Aghlabid (Muslim) control versus mere raiding in 9th-century Sardinia is disputed among historians.
 *   The causes of the decline of the Judicates and the transition to Aragonese rule involve complex interplay between external conquest and internal political fragmentation.
+
+Source: adapted from "Sardinia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sardinia

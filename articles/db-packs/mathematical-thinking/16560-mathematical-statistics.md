@@ -29,3 +29,5 @@ Nonparametric statistics are computed from data without assuming the data come f
 ## The mathematical core of statistics
 
 Mathematical statistics is the mathematical core of the wider discipline of statistics. Gauss, Laplace, and C. S. Peirce applied decision theory, using probability distributions together with loss or utility functions to guide choices. Abraham Wald revived this approach, and his successors extended it with scientific computing, analysis, and optimisation. For designing experiments, statisticians draw on algebra and combinatorics. Probability and decision theory underlie much of statistical practice, yet applying them remains contested, particularly when the model chosen for non-randomised data injects the statistician's judgement into every subsequent inference.
+
+Source: adapted from "Mathematical statistics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematical_statistics

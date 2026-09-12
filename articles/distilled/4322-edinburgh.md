@@ -47,3 +47,5 @@ Edinburgh is a major centre for education, with four universities, including the
 
 ## Debates and open questions
 The source notes that the exact date of Edinburgh's royal burgh charter is unknown. It also mentions that the 2023 Plant Based Treaty was called "anti-farming" by groups like the Scottish Countryside Alliance, indicating a debate over its implications. The shelving of a friendship arrangement with Kaohsiung, Taiwan, in 2024 due to concerns over cyber attacks and Chinese diplomatic pressure highlights ongoing geopolitical tensions affecting the city's international relations.
+
+Source: adapted from "Edinburgh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edinburgh

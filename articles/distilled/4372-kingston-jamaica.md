@@ -40,3 +40,5 @@ Kingston is the core of Jamaica's economy, hosting most government ministries, f
 
 ## Debates and Open Questions
 The source notes historical debates, such as the 18th-century opposition to transferring the government to Kingston due to its perceived "moral distractions." It also highlights ongoing socioeconomic challenges, including high crime rates in specific areas and the persistent issue of housing inequality and squatter settlements.
+
+Source: adapted from "Kingston, Jamaica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingston%2C_Jamaica

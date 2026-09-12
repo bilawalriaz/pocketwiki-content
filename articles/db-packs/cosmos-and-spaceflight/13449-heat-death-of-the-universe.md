@@ -45,3 +45,5 @@ Quantum extensions are possible. Even after thermodynamic entropy has reached it
 ## What remains
 
 The classical heat-death hypothesis is one well-defined scenario for the far future of an expanding universe, grounded in the second law of thermodynamics and in Kelvin's nineteenth-century reasoning. Its weaknesses are real: the universe is not obviously a closed equilibrium system, gravitational entropy is poorly understood, and gravity appears to drive structure formation rather than dissipation. Whether the universe actually ends in thermodynamic equilibrium depends on the geometry of space, the value of the cosmological constant, and whether gravity is correctly included in the thermodynamic accounting.
+
+Source: adapted from "Heat death of the universe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Heat_death_of_the_universe

@@ -47,3 +47,5 @@ In early 1937, Gershwin experienced severe headaches and olfactory hallucination
 - **Schillinger’s influence**: Joseph Schillinger taught Gershwin composition (1932–1936) and claimed significant credit for *Porgy and Bess* after its posthumous success. Ira Gershwin completely denied that his brother had any such assistance for this work, while others, including friend Vernon Duke, offered a more nuanced view.
 - **Classification of *Porgy and Bess***: Critics struggled to categorize the work—as opera, musical, or something else entirely. Theater historian Robert Kimball noted it “crossed the barriers,” eliciting responses from both music and drama critics.
 - **Ravel’s reaction**: Accounts vary on whether Ravel or Igor Stravinsky made the famous remark about giving Gershwin lessons, though Stravinsky confirmed hearing the story from Ravel.
+
+Source: adapted from "George Gershwin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_Gershwin

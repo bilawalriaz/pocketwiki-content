@@ -33,3 +33,5 @@ Whether machines could be conscious is unsettled. Alan Turing's 1950 **Turing te
 ## The Mental Model
 
 Consciousness sits at the intersection of three questions with no shared answer: what it is, how the brain produces it, and who else has it. Definitions split into raw feel (phenomenal) and reportable, usable information (access). The hard problem is why physical processes yield subjective experience at all, a gap that physicalism, the leading philosophical view, has yet to close. Neuroscience maps the brain activity that tracks consciousness, especially in higher, integrative regions, while a handful of theories (GWT, IIT, Orch-OR, Attention Schema) offer competing accounts. Medicine treats consciousness as a graded clinical state, animals share the underlying neural machinery, and the prospect of conscious machines remains an open philosophical and empirical frontier.
+
+Source: adapted from "Consciousness" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Consciousness

@@ -43,3 +43,5 @@ White-nose syndrome, first found in New York bats in 2006, is caused by the cold
 ## From understanding to action
 
 Zoonotic diseases such as Ebola, hantavirus, and COVID-19 spill over when deforestation, climate change, and fragmentation bring wildlife, livestock, and people into new contact. The One Health approach, which combines human medicine, veterinary medicine, and environmental science, is now central to rabies control, malaria prevention, and pandemic preparedness. Treating ecosystems as part of the disease system has also made interventions cheaper: filtering copepods from water, managing predator and reservoir populations, and protecting biodiversity all reduce transmission by addressing the ecological conditions that sustain pathogens.
+
+Source: adapted from "Disease ecology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Disease_ecology

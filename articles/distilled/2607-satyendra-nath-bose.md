@@ -42,3 +42,5 @@ Bose was awarded the Padma Vibhushan in 1954 and was a Fellow of the Royal Socie
 ## Debates and Open questions
 - The reason Bose's initial paper was rejected by the British journal *Philosophical Magazine* before he sent it to Einstein is not known.
 - Bose was nominated for the Nobel Prize in Physics in 1956, 1959, and 1962, but the Nobel Committee's expert, Oskar Klein, deemed his work not worthy of the prize. The criteria for this evaluation remain a point of historical discussion.
+
+Source: adapted from "Satyendra Nath Bose" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Satyendra_Nath_Bose

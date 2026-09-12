@@ -35,3 +35,5 @@ China has constructed major infrastructure to traverse and stabilize the desert,
 
 ## Debates and Open Questions
 The etymology of "Taklamakan" is debated. While "makan" is agreed to be Arabic for "place," the origin of "takla" is unclear. Proposed meanings include "place of ruins," a link to the Tocharians ("Tocharistan"), or the folk etymology "Place of No Return." The first recorded use is from an 1867 text.
+
+Source: adapted from "Taklamakan Desert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taklamakan_Desert

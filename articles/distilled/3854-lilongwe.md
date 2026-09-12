@@ -38,3 +38,5 @@ The city is located on the East African Rift Valley plateau at an altitude of 1,
 
 ## Debates and Open Questions
 The primary debate concerns the effectiveness of Lilongwe's urban planning versus its rapid, often unplanned, growth. While the original Master Plan aimed for orderly, multi-centred development, the city has experienced significant sprawl and the proliferation of informal settlements, creating challenges for service delivery and land management. The need to urgently secure land for planned residential development is a key ongoing issue.
+
+Source: adapted from "Lilongwe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lilongwe

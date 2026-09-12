@@ -68,3 +68,5 @@ Tributes include John Lewis's jazz standard "Django" (1954), Dickey Betts's "Jes
 - **Electric period assessment**: Reinhardt's post-1946 amplified/bebop recordings have historically received less attention than his pre-war acoustic output; recent revival (Rosenberg Trio, Biréli Lagrène, scholarship by Wayne Jefferies) argues they represent a major, underrated bebop contribution.
 - **Unrecorded compositions**: Several youthful waltzes (e.g., "Montagne Sainte-Genevieve," "Gagoug") survived only in associates' repertoires; a Mass for the Gypsies was incomplete (8-minute extract exists). Their musical significance is still being explored.
 - **Literacy and composition method**: Reinhardt could not read/write music; he dictated compositions to assistants. The degree to which this shaped his harmonic structures versus his ear-based improvisational genius is a musicological question.
+
+Source: adapted from "Django Reinhardt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Django_Reinhardt

@@ -50,3 +50,5 @@ Fiscal calendars structure budgeting and taxation, such as the U.S. fiscal year 
 
 ## Debates and Open Questions
 Several modern calendar reform proposals—such as the World Calendar, International Fixed Calendar, Holocene calendar, and Hanke–Henry Permanent Calendar—have been promoted but failed to gain widespread adoption due to concerns over continuity, upheaval, and disruption of religious cycles. The interpretation of prehistoric artifacts as calendars remains debated: Alexander Marshack’s reading of a 25,000-year-old bone baton as a lunar calendar and Michael Rappenglueck’s analysis of a 15,000-year-old cave painting as lunar notation are both controversial. Additionally, the extent to which early calendars were observation-based versus algorithmic continues to be studied, particularly regarding fragmentary sources like the Coligny calendar.
+
+Source: adapted from "Calendar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Calendar

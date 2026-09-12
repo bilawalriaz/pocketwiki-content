@@ -46,3 +46,5 @@ The steppe was home to numerous nomadic confederations and empires, including th
 - The process by which mounted archery developed after horse domestication is not fully understood.
 - The stirrup was not completely developed until around 300 AD, impacting cavalry warfare.
 - The Kurgan hypothesis for Indo-European origins, while widely held, is one of several theories.
+
+Source: adapted from "Eurasian Steppe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eurasian_Steppe

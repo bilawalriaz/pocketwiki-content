@@ -74,3 +74,5 @@ The Jim Henson Company, Foundation, and Creature Shop continued. Steve Whitmire 
 - **Cause of death timing**: Medical staff stated Henson might have survived with hospitalization just hours earlier; his reluctance to seek care (believing the illness would resolve) is a documented factor.
 - **Kermit as alter ego**: Henson described Kermit as bolder than himself, able to "say things I hold back," suggesting a complex psychological relationship between performer and signature character.
 - **Muppet etymology**: Henson’s "marionette + puppet" explanation is contradicted by the fact that early Muppets were primarily hand/rod puppets, not marionettes.
+
+Source: adapted from "Jim Henson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jim_Henson

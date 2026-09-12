@@ -43,3 +43,5 @@ In 1895, a journalist's article rediscovered Dunant in the Swiss village of Heid
 - The exact influence of Dunant's personal conflicts with Gustave Moynier on the early direction and policies of the Red Cross is a subject of historical analysis.
 - The Nobel Committee's decision to split the first Peace Prize between Dunant (humanitarian) and Passy (pacifist) established a lasting precedent for the prize's interpretation, which continues to be debated.
 - Some contemporaries argued that the Red Cross and Geneva Conventions, by mitigating the suffering of war, might paradoxically make conflict more politically and socially acceptable.
+
+Source: adapted from "Henry Dunant" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henry_Dunant

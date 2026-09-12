@@ -69,3 +69,5 @@ Coetzee married Philippa Jubber in 1963; they divorced in 1980. Their son Nicola
 - **Autobiographical pact in the "Scenes from Provincial Life" trilogy**: The blurred line between memoir and fiction in *Boyhood*, *Youth*, and *Summertime* raises unresolved questions about the status of the "J.M. Coetzee" character versus the historical author.
 - **Late style and the "Jesus" trilogy**: Critics disagree on whether the spare, allegorical, Spanish-first trilogy represents a culmination of Coetzee’s resistance to English hegemony or a departure from his earlier narrative strengths.
 - **Animal rights as philosophical center vs. thematic motif**: The centrality of animal suffering in Coetzee’s later work (*The Lives of Animals*, *Elizabeth Costello*) prompts debate on whether it constitutes a rigorous philosophical intervention (extending the "sympathetic imagination") or a symbolic displacement of human political violence.
+
+Source: adapted from "J. M. Coetzee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/J._M._Coetzee

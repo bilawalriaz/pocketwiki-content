@@ -45,3 +45,5 @@ The massacre shocked the Muslim community and galvanized the pro-Alid movement i
 - **Motivations**: Scholars debate whether Husayn's march to Kufa was a calculated political move to regain leadership, a principled stand against tyranny, or a conscious journey toward martyrdom to expose injustice.
 - **Responsibility for his Death**: Historical sources differ on whether primary responsibility lies with the Umayyad caliph Yazid I or his governor Ubayd Allah ibn Ziyad, with some accounts suggesting Yazid publicly cursed Ibn Ziyad to deflect blame.
 - **Nature of the Battle**: Historian Henri Lammens argued the event was a quick massacre, not a battle, based on an official report. This is countered by other historians who, analyzing multiple accounts, conclude a day-long battle occurred as Umayyad commanders initially sought to pressure Husayn into submission rather than kill him immediately.
+
+Source: adapted from "Husayn ibn Ali" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Husayn_ibn_Ali

@@ -43,3 +43,5 @@ After WWII, the United States became the new focal point for art. Abstract Expre
 - **Defining Boundaries:** There is no single, universally agreed-upon date for the start of modern art; 1863, 1855, and 1784 are all proposed.
 - **The "End" of Modern Art:** Scholars debate when modern art ended and contemporary or postmodern art began, with the late 1970s often cited.
 - **The Role of the U.S.:** The shift of the art world's center from Paris to New York after WWII is a major historical development, but its implications for global art narratives are still discussed.
+
+Source: adapted from "Modern art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Modern_art

@@ -45,3 +45,5 @@ The Université de Strasbourg, formed in 2009 from three older universities, is 
 
 ## Debates and Open Questions
 The source notes that the origin of the city's pre-Germanic name, Argantorati, is debated: it may refer to a fortified enclosure near a gold mining site or to a hoard of gold. The destruction of the city's original library in 1870 is also a point of historical contention, with differing accounts of responsibility between French and German sources.
+
+Source: adapted from "Strasbourg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Strasbourg

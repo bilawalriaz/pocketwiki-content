@@ -43,3 +43,5 @@ The city is located in the Rachna Doab, a plain between the Chenab and Ravi rive
 ## Debates and Open Questions
 *   The exact origins and founding date of Gujranwala are unclear. While traditionally believed to be named after a Gujjar named Khanpur Sansi, recent scholarship suggests it may have been the village of Serai Gujran.
 *   The severity of the 1919 riots is noted as among the most violent in British India, with historical records burned in attacked offices.
+
+Source: adapted from "Gujranwala" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gujranwala

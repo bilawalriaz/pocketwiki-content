@@ -66,3 +66,5 @@ Watson married Mary Ickes in graduate school; they had two children (John and Ma
 - **Rosalie Rayner’s agency:** Historians question the extent to which Rayner (co-author of the Albert study and *Psychological Care*) genuinely endorsed Watson’s views versus conforming to professional/personal pressure.
 - **Impact on advertising:** Scholars debate whether Watson genuinely revolutionized advertising (e.g., testimonials, coffee breaks) or merely adopted existing techniques; his own claim was the latter.
 - **Legacy of child-rearing advice:** The long-term psychological effects on Watson’s own grandchildren (e.g., Mariette Hartley) and the broader cultural influence of his detached parenting model remain subjects of biographical and historical analysis.
+
+Source: adapted from "John B. Watson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_B._Watson

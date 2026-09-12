@@ -45,3 +45,5 @@ Talât fled to Berlin, where he was granted asylum. The Ottoman government tried
 *   **Nature of Rule:** Historians debate whether the CUP regime was a triumvirate (1913–1914) or if Talât became the sole dictator afterward, especially after 1917.
 *   **Legacy in Turkey:** Talât is viewed as a "great statesman" and "founding father" in Turkey, where he is primarily criticized for leading the empire into WWI, not for the genocide. His 1922 conviction was rescinded by the Kemalist government.
 *   **Genocide Responsibility:** While historians widely identify him as the main architect of the Armenian Genocide, his posthumous memoirs propagated a narrative blaming Armenians as rebels and secessionists.
+
+Source: adapted from "Talaat Pasha" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Talaat_Pasha

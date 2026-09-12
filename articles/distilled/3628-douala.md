@@ -41,3 +41,5 @@ Douala is served by the Douala International Airport (DLA), the busiest in the C
 
 ## Debates and Open Questions
 The source notes that the historical archives documenting Douala's urban development are dispersed across multiple cities in Europe and Africa. It also highlights the ongoing challenge of urban planning, with a 1959 city plan still influencing development, and the persistent problem of infrastructure decay due to corruption despite investment.
+
+Source: adapted from "Douala" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Douala

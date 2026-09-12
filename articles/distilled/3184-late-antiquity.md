@@ -68,3 +68,5 @@ Regions followed diverse paths: the eastern Roman Empire persisted as Byzantium;
 - The nature of post-Roman kingdoms is debated—sharp break or continuity.
 - The extent of urban decline in the west versus resilience in the east is discussed.
 - The Sasanian Empire's relationship with diverse religious communities is reevaluated as a "state of mixture."
+
+Source: adapted from "Late antiquity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Late_antiquity

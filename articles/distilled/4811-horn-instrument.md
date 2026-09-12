@@ -41,3 +41,5 @@ The German horn, with its rotary valves and larger bore, is the standard orchest
 - The exact use and playing manner of ancient instruments like the lurer is unknown due to a lack of written histories from their makers.
 - There is debate over the literal interpretation of early hunting-horn notation (e.g., calls notated on a single pitch), as a monotonic reading would make many calls indistinguishable.
 - The precise origin of the hooped hunting horn is debated; while the first known example was made in Germany in 1667, the form became especially associated with France.
+
+Source: adapted from "Horn (instrument)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Horn_%28instrument%29

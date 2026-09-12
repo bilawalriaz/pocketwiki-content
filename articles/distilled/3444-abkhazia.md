@@ -45,3 +45,5 @@ The 1992–1993 war caused a massive demographic shift. Before the war, Georgian
 - **Sovereignty vs. dependency:** While Abkhazia functions as a de facto state, its heavy reliance on Russian financial, military, and political support leads to debate over whether it is truly independent or a Russian protectorate.
 - **Right of return:** The UN and Georgia advocate for the return of all displaced persons (mostly ethnic Georgians) to Abkhazia, but the de facto Abkhaz authorities have resisted large-scale returns, citing demographic and security concerns.
 - **Future status:** Proposals for Abkhazia to join the Russian Federation have been periodically voiced by Abkhaz and Russian officials but are opposed by Georgia and the Abkhaz government-in-exile.
+
+Source: adapted from "Abkhazia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abkhazia

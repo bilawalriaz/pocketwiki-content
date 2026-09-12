@@ -66,3 +66,5 @@ Collectors always valued Bruegel (Ortelius called him "the most perfect painter 
 - **Burned drawings**: Content of the "sharp or sarcastic" designs Bruegel ordered destroyed—political satire, religious dissent, or personal?
 - **Attribution flux**: Ongoing purification of drawings corpus (Mielke, 1990s); new forgeries (Savery group) still identified.
 - **Degree of political encoding**: Whether peasant scenes contain covert commentary on Spanish rule/Reformation (e.g., *Massacre of the Innocents* as allegory of Habsburg repression) remains contested.
+
+Source: adapted from "Pieter Bruegel the Elder" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder

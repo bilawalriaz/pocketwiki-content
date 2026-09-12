@@ -42,3 +42,5 @@ Part One was an immediate success, with editions printed across Europe and the A
 - **Avellaneda's Identity**: The true identity of Alonso Fernández de Avellaneda, author of the spurious 1614 sequel, remains unknown despite many theories.
 - **Location of the "Place in La Mancha"**: Cervantes deliberately left the opening village unnamed, sparking centuries of debate. A 2004 academic study proposed Villanueva de los Infantes, but the question is unresolved.
 - **Translation Fidelity**: With numerous English translations, scholars debate which best captures Cervantes' style, with no single version considered ideal for all purposes.
+
+Source: adapted from "Don Quixote" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Don_Quixote

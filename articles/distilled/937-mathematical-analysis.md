@@ -75,3 +75,5 @@ Analysis dominates classical mechanics, relativity, and quantum mechanics via di
 ## Debates and Open Questions
 
 Key historical debates included whether the continuum consists of points or infinitesimals (Aristotle, Occam, Bradwardine), and whether infinitesimals are legitimate (resolved by Weierstrass's ε-δ approach). The late 19th century grappled with unproven continuum assumptions, resolved by Dedekind's construction. Modern foundational debates persist in constructive vs. classical analysis, non-standard analysis (rigorous infinitesimals), and computable analysis (algorithmic computability).
+
+Source: adapted from "Mathematical analysis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematical_analysis

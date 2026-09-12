@@ -57,3 +57,5 @@ Professional genealogists follow research standards, such as the Genealogical Pr
 - The distinction between "genealogy" and "family history" is debated, with some organizations defining them differently while others use the terms interchangeably.
 - The ethical use of DNA information and the privacy of living individuals in genetic genealogy are ongoing areas of standard-setting and discussion.
 - The impact of urbanization, migration, and technology on traditional genealogical practices, such as those in India, is a noted concern for preservation.
+
+Source: adapted from "Genealogy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Genealogy

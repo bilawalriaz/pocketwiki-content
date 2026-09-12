@@ -53,3 +53,5 @@ In practice, mining is split into two steps: first, apply a minimum support thre
 ## Statistically sound associations
 
 A practical danger is spurious rules. With 10,000 items and rules of the form "two items on the left, one on the right," roughly one trillion candidate rules exist; at a 5% significance level, a naive test would flag about 50 billion of them as "significant" by chance. Statistically sound association discovery (Webb, 2007) controls the family-wise error rate so that the probability of finding any spurious association stays below a user-chosen threshold.
+
+Source: adapted from "Association rule learning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Association_rule_learning

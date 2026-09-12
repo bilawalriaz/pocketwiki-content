@@ -23,3 +23,5 @@ The cost broke the regime. The Portuguese Colonial War (1961–1974) bled resour
 ## What the Empire Did and Did Not Do
 
 At its height between 1500 and 1800, trade with the empire contributed roughly a fifth of Portuguese per-capita income, an enormous share for a small European kingdom, though that wealth did not prevent Portugal's relative decline within Europe. The empire's long reach depended on the caravel, the *feitoria*, and control of narrow sea lanes rather than mass settlement, and on coerced labour, including enslaved Africans shipped both to Brazil and across the Atlantic. After 1974, the mass return of settlers and mixed-race Portuguese, the *retornados*, swelled Portugal's population by roughly a tenth within a single generation.
+
+Source: adapted from "Portuguese Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Portuguese_Empire

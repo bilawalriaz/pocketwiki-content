@@ -39,3 +39,5 @@ Pershing's insistence on open-warfare tactics and frontal assaults, even after o
 - **Tactical Criticism:** Historians debate whether Pershing's reliance on costly frontal assaults was a necessary learning experience for the U.S. Army or an avoidable error that caused excessive casualties.
 - **Armistice Day Actions:** His decision to continue offensive operations on 11 November 1918 remains controversial; some view it as a breach of orders, while Pershing argued he was following Allied Supreme Commander Foch's directive to maintain pressure.
 - **Political Ambitions:** A movement to draft him for the 1920 presidential nomination failed, partly because party leaders saw him as too closely tied to Democratic President Wilson.
+
+Source: adapted from "John J. Pershing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_J._Pershing

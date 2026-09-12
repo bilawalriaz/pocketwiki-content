@@ -46,3 +46,5 @@ Since RAMSI's withdrawal in 2017, politics have remained volatile with frequent 
 *   **State Failure vs. Unformed State:** Scholars debate whether Solomon Islands is a "failed state" that cannot build a national identity over local loyalties, or an "unformed state" that never fully consolidated its institutions after independence.
 *   **Ethnic Conflict Label:** Some academics argue that labeling the 1998–2003 conflict as purely "ethnic" is an oversimplification, as it also involved political and economic factors.
 *   **China Security Pact:** The 2022 security agreement with China is a source of regional tension, with debate over its implications for sovereignty, regional stability, and the balance of power in the Pacific.
+
+Source: adapted from "Solomon Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Solomon_Islands

@@ -44,3 +44,5 @@ Quebec's economy is diverse, with major sectors in services, aerospace, hydroele
 - **Constitutional Accord**: Quebec has never formally consented to the 1982 Constitution Act. Efforts to amend the constitution to gain Quebec's recognition, such as the Meech Lake and Charlottetown Accords, have failed.
 - **Language and Identity**: Debates continue over the balance between protecting the French language and accommodating linguistic minorities, particularly anglophones and allophones.
 - **Indigenous Relations**: The nature and scope of Indigenous self-governance and land rights within Quebec, especially following agreements like the James Bay and Northern Quebec Agreement, remain active areas of negotiation and discussion.
+
+Source: adapted from "Quebec" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Quebec

@@ -45,3 +45,5 @@ Uganda is geographically diverse, featuring volcanic hills, mountains, and major
 - The long-term impact of President Museveni's rule, including the abolition of term limits and allegations of electoral fraud, on Uganda's democratic future is a subject of ongoing concern.
 - The effectiveness and human rights implications of Uganda's progressive refugee policy, which hosts more refugees than any other African country, are debated.
 - The potential economic benefits versus the risks of corruption and environmental impact from the development of Uganda's oil reserves.
+
+Source: adapted from "Uganda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Uganda

@@ -51,3 +51,5 @@ Buddhism received widespread state patronage for the first time, flourishing und
 - The exact ethnic origins of the Jie people, particularly Shi Le's group, remain disputed among historians.
 - The historiographical definition of the "Sixteen Kingdoms" is based on the 6th-century work of Cui Hong, which excludes several contemporary regimes like the Western Yan and Dai/Northern Wei, leading to debates about periodization and inclusion.
 - The degree to which non-Han rulers were genuinely sinicized versus pragmatically adopting Chinese institutions for control is a subject of ongoing scholarly analysis.
+
+Source: adapted from "Sixteen Kingdoms" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sixteen_Kingdoms

@@ -13,3 +13,5 @@ Ecologically, the Ural delta is a major node on the Asian flyway, the bird migra
 The same geography that supports fish and birds drives industry. Water from the upper Ural feeds metallurgical plants in Magnitogorsk and Orsk, while the lower reaches supply irrigation, especially for melon cultivation. The river is navigable up to Uralsk and has a working port at Atyrau, which is also a major oil centre. A levee failure near Orsk on 6 April 2024 caused major flooding across the floodplain.
 
 Although the Ural is the conventional Europe-Asia boundary, some sources use the shorter Emba River instead, which would push the dividing line further south into Kazakhstan. The etymology of the Ural is likewise unresolved, with competing proposals from Turkic, Sarmatian, and Finno-Ugric origins, and the choice between rivers reflects geographic convention rather than a single authoritative rule.
+
+Source: adapted from "Ural (river)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ural_%28river%29

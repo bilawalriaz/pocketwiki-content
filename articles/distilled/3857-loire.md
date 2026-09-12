@@ -45,3 +45,5 @@ The Loire Valley, a 280 km (170 mi) stretch, is famed for its cultural landscape
 ## Debates and Open Questions
 - The primary debate covered is the conflict between development (dam construction) and conservation in the late 20th century, which resulted in a shift toward ecosystem restoration.
 - The source text notes the Loire is "constantly under threat of losing its status as the last wild river in France" due to its length and navigability, implying ongoing tension between use and preservation.
+
+Source: adapted from "Loire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Loire

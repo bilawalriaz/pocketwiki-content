@@ -23,3 +23,5 @@ The host in which sexual reproduction occurs is the *definitive* host; *intermed
 The earliest eukaryotic life cycles were probably haploid and asexual; bacteria and archaea still follow that basic pattern. Many eukaryotes reproduce asexually either by loss of sex or as a facultative part of the cycle, though molecular evidence indicates that true sexual cycles with meiosis and fertilisation are ancient across eukaryotes.
 
 A consequence of separating germ cells (set aside to produce the next generation) from somatic cells (the body) is that the body ages and dies while the cell lineage carrying DNA forward can persist without limit. Recombination and DNA repair during meiosis in germ cells can fix damage that accumulates in somatic cells, and the ancestry of every living cell traces back in an unbroken line of more than 3 billion years to the origin of life.
+
+Source: adapted from "Biological life cycle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_life_cycle

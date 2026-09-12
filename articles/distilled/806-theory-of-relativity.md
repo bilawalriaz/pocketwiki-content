@@ -52,3 +52,5 @@ Relativistic effects are critical for practical engineering. GPS, GLONASS, and G
 ## Debates and Open Questions
 
 The interpretation of the Michelson-Morley null result remained debated—while it showed light speed isotropy, it alone could not definitively disprove aether theory or validate special relativity. The FitzGerald-Lorentz contraction hypothesis was an ad hoc attempt to preserve aether theory without theoretical foundation. Whether the velocity of the solar system affects light speed measurements was considered too coincidental to accept as an explanation for Kennedy-Thorndike results. The distinction between principle-theories and constructive theories remains a methodological consideration in physics.
+
+Source: adapted from "Theory of relativity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theory_of_relativity

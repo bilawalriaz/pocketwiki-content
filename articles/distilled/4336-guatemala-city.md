@@ -43,3 +43,5 @@ Today, Guatemala City is the economic hub of Central America, housing the centra
 ## Debates and Open questions
 - The exact causes of the collapse of the ancient Maya city of Kaminaljuyu are debated, with recent research pointing to agricultural instability, political factors, and severe droughts.
 - The rapid growth of Guatemala City has led to ongoing debates about urban planning, inequality, and the adequacy of municipal infrastructure and maintenance, particularly regarding the sewerage system's role in sinkhole formation.
+
+Source: adapted from "Guatemala City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guatemala_City

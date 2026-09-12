@@ -45,3 +45,5 @@ Cardano's later life was troubled. His favorite son was executed for murder in 1
 - **Authorship of inventions**: Cardano is credited with inventions like the gimbal and the Cardan shaft, but the source notes these devices may predate him or were not described by him.
 - **The Tartaglia dispute**: The ethical and legal conflict over Cardano's publication of Tartaglia's solution to the cubic equation remains a famous episode in the history of science, involving questions of sworn secrecy and priority.
 - **Accuracy of his works**: As noted by later figures like Sir Thomas Browne, Cardano was criticized for sometimes accepting information uncritically, blending rigorous observation with superstition and occult ideas.
+
+Source: adapted from "Gerolamo Cardano" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gerolamo_Cardano

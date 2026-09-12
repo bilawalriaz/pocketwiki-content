@@ -43,3 +43,5 @@ Heraclius is remembered for his victory over Persia and the recovery of the True
 *   **Heraclius's Origins:** Scholars debate his ethnic background. Some, like Walter Kaegi, consider an Armenian origin "probable," while Anthony Kaldellis argues the primary sources do not support this claim.
 *   **The True Cross Narrative:** The story of Heraclius recovering and returning the True Cross is a famous legend, but some scholars, like Constantin Zuckerman, suggest the relic returned in 629 may have been a fake for political purposes.
 *   **Islamic Traditions:** Islamic sources describe Heraclius receiving a letter from the Prophet Muhammad and considering Islam. Most Western historians view these accounts as part of religious tradition rather than verifiable history, noting a lack of contemporary Byzantine evidence.
+
+Source: adapted from "Heraclius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Heraclius

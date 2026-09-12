@@ -39,3 +39,5 @@ In many European cities (e.g., London, Paris, Moscow), historic preservation has
 
 ## Debates and Open Questions
 The source highlights an ongoing structural shift in many global cities, particularly in India, where commercial activity is migrating from historic CBDs to newer suburban and peripheral corridors. This raises questions about the future economic and cultural role of traditional city centers and the long-term viability of policies that restrict development in historic cores. The emergence of multiple CBDs in megacities also prompts debate about urban planning, transportation infrastructure, and the definition of a city's "center."
+
+Source: adapted from "Central business district" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Central_business_district

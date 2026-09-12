@@ -58,3 +58,5 @@ Rhythm (isochrony) is one of three prosodic components (with stress, intonation)
 - **Origin of human rhythm**: Jordania’s hypothesis (rhythm evolved for battle trance/collective defense) vs. possible roots in courtship ritual.
 - **Rhythm–tempo modeling**: Whether the correlative-perception/simplicity principle fully explains context-dependent rhythm perception across cultures and complexities.
 - **Linguistic rhythm classification**: Narmour’s additive/cumulative/countercumulative categories cannot account for syncopation; transformation-based models are proposed but not settled.
+
+Source: adapted from "Rhythm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rhythm

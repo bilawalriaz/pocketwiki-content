@@ -46,3 +46,5 @@ Sun's Three Principles of the People (nationalism, democracy, people's livelihoo
 - **Legacy in Mainland China vs. Taiwan**: Sun is honored as "Father of the Nation" in Taiwan but as "Forerunner of the Revolution" in the PRC, which reinterprets his Three Principles to align with communist ideology (the "New Three Principles of the People").
 - **Relationship with Japan**: Sun had deep ties with Japanese supporters and admired the Meiji Restoration, but he later condemned Japan's Twenty-One Demands as a betrayal of Pan-Asian ideals.
 - **"Father of the Nation" Debate**: In 2004, a proposal by Taiwan's Ministry of Education that Sun was not the "father of Taiwan" sparked significant controversy and protest.
+
+Source: adapted from "Sun Yat-sen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sun_Yat-sen

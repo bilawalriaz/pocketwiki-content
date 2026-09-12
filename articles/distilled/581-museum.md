@@ -84,3 +84,5 @@ Museums resist single categorization but are often grouped by collection (art, h
 *   **Neutrality vs. Activism:** Whether museums can/should be neutral arbiters of fact or active agents for social justice, decolonization, and climate action.
 *   **Financial Sustainability:** How to balance mission-driven access (low admission revenue) with rising conservation costs (climate control = ~70% energy use) and labor demands (unionization, living wages) without relying on volatile philanthropy or government cuts.
 *   **Human Remains Stewardship:** Balancing scientific research value (DNA, pathology) against the ethical and legal imperatives of descendant communities for reburial and consent.
+
+Source: adapted from "Museum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Museum

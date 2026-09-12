@@ -49,3 +49,5 @@ Mieszko I is credited as the founder of the Polish state. His acceptance of Chri
 *   **Extent of Conquests:** The exact timing and nature of the incorporation of Lesser Poland and parts of Pomerania are uncertain due to limited sources. Some historians argue Bohemian rule in Lesser Poland was only nominal.
 *   **The *Dagome iudex*:** Its purpose is debated: was it to establish a regular church organization and pay Peter's Pence, or to protect the inheritance rights of Mieszko's second wife, Oda, and their sons?
 *   **Mieszko's Daughter:** The identity and marriages of Mieszko's daughter (possibly named Gunhild) are confused in sources. She was long identified as Sigrid the Haughty, but modern research suggests she married only Sweyn Forkbeard of Denmark.
+
+Source: adapted from "Mieszko I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mieszko_I

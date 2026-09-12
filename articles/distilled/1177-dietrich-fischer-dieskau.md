@@ -53,3 +53,5 @@ He married cellist Irmgard Poppen in 1949; they had three sons (Mathias, Martin,
 - **Interpretive evolution**: His multiple recordings of *Winterreise* (with Moore, Demus, Barenboim, Brendel, Perahia) span 40 years; scholars debate whether later versions deepen or manner the earlier textual clarity.
 - **Legacy of "perfection"**: While universally praised for technical flawlessness and intellectual rigor, a minority of listeners find his approach overly analytical or emotionally reserved compared to more instinctive singers.
 - **Nazi-era context**: His Wehrmacht service and the family’s victimization (brother’s murder) complicate biographical narratives; the source notes these facts without resolving the moral tension.
+
+Source: adapted from "Dietrich Fischer-Dieskau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dietrich_Fischer-Dieskau

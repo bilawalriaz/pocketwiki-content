@@ -55,3 +55,5 @@ Psychology tests behavior in controlled experiments. Neuroscience links cognitio
 ## A short history
 
 Inquiry into cognition begins in ancient philosophy, with Aristotle's work on perception and logic, and runs through medieval faculty psychologies and the early modern split between rationalism (innate knowledge) and empiricism (the mind as a blank slate, associated with John Locke). Experimental psychology began with Wilhelm Wundt in the late 19th century. In the 1950s the cognitive revolution replaced behaviorism's focus on stimulus-response with the study of internal information processing, and the later rise of neuroimaging and artificial intelligence expanded the field's reach.
+
+Source: adapted from "Cognition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cognition

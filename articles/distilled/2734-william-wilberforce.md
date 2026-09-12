@@ -42,3 +42,5 @@ After 1807, Wilberforce focused on the complete abolition of slavery. He resigne
 *   **Motivations for Abolition:** Historian Eric Williams argued abolition was driven by economic decline in the sugar industry, not humanitarianism. More recent historians note the industry was still profitable, renewing focus on the moral and evangelical motivations of Wilberforce and his allies.
 *   **Wilberforce's Role vs. Clarkson's:** Wilberforce's sons' biography emphasized his leadership, downplaying Thomas Clarkson's crucial work in research and public mobilization. Historians now view their partnership as essential to the campaign's success.
 *   **Effectiveness of Tactics:** Wilberforce's decision in 1789 to allow parliamentary hearings on evidence is criticized for prolonging the slave trade. His trusting, deferential nature is also seen as having sometimes hindered the campaign.
+
+Source: adapted from "William Wilberforce" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Wilberforce

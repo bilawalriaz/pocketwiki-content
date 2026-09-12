@@ -30,3 +30,5 @@ The river is navigable only in isolated sections due to the dams, none of which 
 
 ## Debates and Open Questions
 The construction of dams on the Angara sparked criticism from Soviet intellectuals, notably Valentin Rasputin, who opposed the flooding of villages and agricultural lands. The long-term ecological and social impacts of these reservoirs on the Baikal region and river communities remain subjects of discussion.
+
+Source: adapted from "Angara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Angara

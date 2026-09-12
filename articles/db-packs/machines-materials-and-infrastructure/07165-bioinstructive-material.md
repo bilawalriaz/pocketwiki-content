@@ -19,3 +19,5 @@ Multifunctional Alginate Scaffolds for T cell Engineering and Release (MASTER) s
 With MASTER, T cells are mixed with a virus carrying a cancer-targeting gene and loaded into an alginate scaffold preloaded with activating antibodies and interleukins. The scaffold is implanted. Inside it, the antibodies switch the T cells on, the virus inserts the cancer-targeting gene so the cells become CAR T cells, and the interleukins drive proliferation. The cells leave the scaffold and attack the cancer, so the procedure takes hours rather than weeks.
 
 The resulting CAR T cells are younger, persist longer, show stronger potency against cancer, and display fewer markers of exhaustion, the loss of killing function that T cells suffer after prolonged stimulation. These features were demonstrated in mouse models of lymphoma.
+
+Source: adapted from "Bioinstructive material" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bioinstructive_material

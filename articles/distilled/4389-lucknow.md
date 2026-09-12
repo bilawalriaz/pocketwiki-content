@@ -44,3 +44,5 @@ The city is administered by the Lucknow Municipal Corporation and the Lucknow De
 - The exact origin of the city's name is debated, with theories linking it to the Hindu deity Lakshmana, the goddess Lakshmi, or an architect named Lakhna Ahir.
 - There is ongoing criticism regarding the lack of a High Court bench in western Uttar Pradesh, which generates over 50% of the state's GDP but must travel to Allahabad or Lucknow for hearings.
 - Despite being the capital, Lucknow ranks only 7th in per capita income within Uttar Pradesh, lagging behind cities like Noida and Meerut in industrial growth.
+
+Source: adapted from "Lucknow" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lucknow

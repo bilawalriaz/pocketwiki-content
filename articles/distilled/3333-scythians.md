@@ -46,3 +46,5 @@ The Scythian kingdom declined after Ateas's death in 339 BC, facing military def
 - **Darius I's Campaign**: The outcome of the Persian king Darius I's 513 BC campaign against the Scythians is unclear; Persian sources claim victory, while Greek accounts (via Herodotus) describe a Scythian victory through evasion.
 - **Terminology**: Modern scholars debate the use of "Scythian" broadly for all Iron Age steppe nomads versus narrowly for the Pontic Scythians proper, with the latter preferred by many Scythologists.
 - **Origins of Griffin Legend**: One hypothesis suggests the griffin myth originated from Scythians encountering *Protoceratops* fossils, though this is contested by scholars who trace the imagery to earlier West Asian traditions.
+
+Source: adapted from "Scythians" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scythians

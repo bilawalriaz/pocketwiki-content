@@ -72,3 +72,5 @@ One authenticated calligraphy scroll survives: "Going Up to the Sun Terrace" (38
 - **Death:** Cause and exact date unknown (1762). Competing accounts: chronic illness (Pi Rixiu, 9th c.) vs. legendary drowning while embracing the moon’s reflection.
 - **Textual authenticity:** Many poems attributed to Li are spurious; variant readings abound due to library destructions. The *Complete Tang Poems* (Qing) is the standard edition, but earlier Song editions sometimes preserve superior readings.
 - **Li-Du debate:** Centuries of criticism frame Li and Du Fu as opposing poles (romantic/transcendent vs. realist/Confucian); modern scholars (e.g., Paula Varsano) argue this binary obscures their shared depths and mutual influence.
+
+Source: adapted from "Li Bai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Li_Bai

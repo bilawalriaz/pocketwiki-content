@@ -43,3 +43,5 @@ Bose's ideology was a synthesis of anti-colonial nationalism, socialism, and aut
 *   **Ethical legacy**: His alliance with Nazi Germany and Imperial Japan poses a major ethical dilemma. Critics highlight his failure to condemn the Holocaust and his 1942 article promoting anti-Semitism, while supporters often emphasize his anti-colonial struggle.
 *   **Circumstances of death**: The official account of his death in a 1945 plane crash is rejected by many supporters, who believe he survived and that various conspiracy theories about his fate are true.
 *   **Impact on independence**: Historians assess whether the INA's military campaigns and the subsequent British trials of its officers significantly weakened British resolve to hold India, thereby accelerating independence.
+
+Source: adapted from "Subhas Chandra Bose" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Subhas_Chandra_Bose

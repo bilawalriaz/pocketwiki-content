@@ -50,3 +50,5 @@ Catalonia is one of Spain's most industrialized and economically dynamic regions
 - The 2010 Constitutional Court ruling on the 2006 Statute of Autonomy is seen by many Catalans as a breach of trust and a key catalyst for the surge in pro-independence sentiment.
 - The legitimacy and consequences of the 2017 independence referendum and unilateral declaration remain deeply contested between pro-independence and unionist factions, and between Catalan and Spanish institutions.
 - The economic impact of the political instability, including corporate relocations and debt levels, is a subject of ongoing analysis and debate.
+
+Source: adapted from "Catalonia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Catalonia

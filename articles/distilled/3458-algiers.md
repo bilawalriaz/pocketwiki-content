@@ -54,3 +54,5 @@ Algiers blends architectural styles. The historic Casbah is a UNESCO site of tra
 - The exact origin of the Berber name *Dzayer* is debated, with theories linking it to the Zirid founders or a contraction of a term meaning "those of Ziri."
 - The authorship of the primary 17th-century source *Topografía e historia general de Argel*, which details life in Ottoman Algiers, is disputed.
 - The human and material cost of the Algerian War (1954–1962) remains a subject of significant scholarly debate, with death toll estimates ranging widely from 350,000 to 1,500,000.
+
+Source: adapted from "Algiers" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algiers

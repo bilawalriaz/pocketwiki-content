@@ -59,3 +59,5 @@ In the early 19th century, inspired by Enlightenment ideas and the Napoleonic Wa
 - The term "colonization" and the concept of "colonies" are contested by scholars, who debate whether these terms accurately describe the Spanish imperial relationship with its American territories.
 - The demographic impact of colonization is debated, with estimates of pre-contact indigenous populations varying widely, affecting calculations of the scale of population decline.
 - The environmental impact of colonial-era ranching, particularly sheep herding, is debated among historians.
+
+Source: adapted from "Spanish colonization of the Americas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas

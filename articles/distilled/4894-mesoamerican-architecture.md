@@ -44,3 +44,5 @@ Styles evolved regionally and chronologically. The megalithic style used large l
 - The purpose of the light-and-shadow effect on the "El Castillo" pyramid at Chichén Itza during equinoxes is debated; while popularly believed to be intentional, evidence for this specific design intent is lacking.
 - The true nature of Mesoamerican arches is contested. Traditional scholarship holds they used only corbelled arches, but recent engineering analysis and archaeological discoveries suggest knowledge of true arches and more advanced trapezium truss systems using concrete.
 - The precise function of some structures, like the Pyramid of the Sun, is inferred from artifact finds (e.g., ritual objects) but remains a subject of ongoing research.
+
+Source: adapted from "Mesoamerican architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mesoamerican_architecture

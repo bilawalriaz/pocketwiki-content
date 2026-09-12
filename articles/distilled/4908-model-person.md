@@ -42,3 +42,5 @@ The rise of social media created "Instagram models," who gain followings through
 
 ## Debates and Open Questions
 The industry has ongoing debates about **health standards**, prompted by model deaths from eating disorders, leading to bans on underage and underweight models. **Racial diversity** remains a contentious issue, with periods of "whitewashing" on runways and activism demanding inclusion. The **impact of social media** is debated, as Instagram models challenge traditional agency structures and raise questions about authenticity and exploitation. The **ethics of child modelling** are addressed by new labour laws, but concerns about pressure and exploitation persist.
+
+Source: adapted from "Model (person)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Model_%28person%29

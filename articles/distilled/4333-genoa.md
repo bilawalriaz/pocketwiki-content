@@ -45,3 +45,5 @@ Genoa remains a major economic centre, with a metropolitan GDP of $30.1 billion 
 - The etymology of "Genoa" is debated, with proposed origins from Latin *genua* (knees), the god Janus, *ianua* (door), or the Etruscan *Kainua* (new city).
 - The claim that the English flag derives from the Genoese St. George's Cross via the Knights Templar is a historiographical tradition that "cannot be substantiated as historical."
 - Historians debate the extent of Genoese influence on Spanish Atlantic exploration and exploitation, with some arguing their practices were "crucial" while others stress their financial role.
+
+Source: adapted from "Genoa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Genoa

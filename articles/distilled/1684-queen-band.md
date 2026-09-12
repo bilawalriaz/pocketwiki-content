@@ -68,3 +68,5 @@ Mercury designed the Queen Crest logo combining members' zodiac signs: two lions
 - **"No Synthesisers!" sleeve notes**: Originally perceived as anti-synth purism; producer Roy Thomas Baker later revealed it was to correct executives who assumed guitar orchestrations were synths.
 - **Mercury's HIV timeline**: Diagnosed 1987 per source; public announcement only 24 hours before death (Nov 1991). Inner circle knew; band continued recording *Innuendo* with Mercury's declining health.
 - **Catalogue ownership (2024)**: Sony Music deal (~£1B) covers publishing/recording rights ex-US/Canada; Disney's Hollywood Records retains US/Canada rights in perpetuity; Universal distribution expires 2026/2027.
+
+Source: adapted from "Queen (band)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Queen_%28band%29

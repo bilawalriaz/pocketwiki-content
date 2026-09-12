@@ -43,3 +43,5 @@ Post-war reconstruction has transformed Sarajevo into the fastest-growing city i
 - The exact location and importance of the medieval settlement of Vrhbosna in relation to modern Sarajevo is debated by scholars.
 - The origin of the "-evo" suffix in the city's name is disputed, with theories pointing to either Slavic or Turkish linguistic roots.
 - The impact of administrative pressures on ethnic self-identification in census data is analyzed, suggesting a potential discrepancy between official figures and personal identification.
+
+Source: adapted from "Sarajevo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sarajevo

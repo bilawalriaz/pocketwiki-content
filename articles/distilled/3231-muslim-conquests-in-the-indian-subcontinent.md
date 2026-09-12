@@ -49,3 +49,5 @@ The conquests introduced Islamic political frameworks, spurred trade, and foster
 - **Temple Destruction**: Was it a systematic policy of religious persecution, or primarily political, targeting symbols of sovereignty and wealth? Evidence shows both destruction and occasional patronage or repair by Muslim rulers.
 - **Historical Sources**: The reliability of texts like the *Chach Nama* is questioned; some view it as a historical romance or political theory rather than a factual chronicle.
 - **Legacy of Coexistence vs. Conflict**: To what extent did periods of harmony and cultural synthesis balance episodes of persecution and violence? This debate is central to understanding the long-term impact of Muslim rule on Indian society.
+
+Source: adapted from "Muslim conquests in the Indian subcontinent" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muslim_conquests_in_the_Indian_subcontinent

@@ -40,3 +40,5 @@ Discovery of petroleum led to disputes over the "Timor Gap," an area outside nat
 - The geological interpretation of the Timor Trough is debated: some geologists see it as an extension of the Java Trench, while others view it as a foreland trough to Timor's mountain range.
 - The future of the Greater Sunrise gas field remains contested, with Woodside Petroleum proposing a floating platform and Timor-Leste's government preferring a pipeline to its territory.
 - Opposition exists to new projects like the Barossa gas field from Indigenous groups and climate justice organizations.
+
+Source: adapted from "Timor Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Timor_Sea

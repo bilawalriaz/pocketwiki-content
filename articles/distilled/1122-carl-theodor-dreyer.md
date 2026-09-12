@@ -38,3 +38,5 @@ Dreyer’s greatest unrealized project was a film about Jesus. A manuscript was 
 
 ## Debates and Open Questions
 Scholars debate whether *Gertrud* represents a decline or culmination of Dreyer’s artistry; some critics view it as lesser than earlier works, while others, like David Thomson, argue it “awaits rediscovery as Dreyer’s finest film.” The unfinished Jesus film continues to intrigue researchers, raising questions about how Dreyer’s perfectionism may have limited his output. Additionally, interpretations of his conservative politics vary—some see them as limiting his engagement with social reform, while others argue they focused his work on timeless moral dilemmas rather than transient ideology.
+
+Source: adapted from "Carl Theodor Dreyer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_Theodor_Dreyer

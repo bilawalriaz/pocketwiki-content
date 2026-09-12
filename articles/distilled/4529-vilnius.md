@@ -45,3 +45,5 @@ Vilnius University, founded in 1579, is the largest and oldest university in Lit
 
 ## Debates and Open Questions
 The historical ethnic composition of Vilnius, particularly during the 19th and early 20th centuries, is a subject of scholarly debate, with different censuses (e.g., Russian 1897, German 1916, Polish 1931) providing varying estimates for Polish, Lithuanian, and Jewish populations. The city's identity has been shaped by these demographic shifts and competing national narratives.
+
+Source: adapted from "Vilnius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vilnius

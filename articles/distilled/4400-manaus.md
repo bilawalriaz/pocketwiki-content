@@ -45,3 +45,5 @@ The city is the seventh-largest in Brazil, with a population over 2 million. Gen
 *   The precise scientific reasons for the "Meeting of Waters" phenomenon are not definitively settled, though differences in current speed, volume, and density are the primary factors.
 *   The environmental and social impacts of the Free Trade Zone's industrial model on the surrounding Amazon rainforest remain a subject of ongoing analysis and debate.
 *   The city's infrastructure, particularly road connections to the rest of Brazil, is highly limited, making it largely dependent on river and air transport.
+
+Source: adapted from "Manaus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Manaus

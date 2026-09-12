@@ -47,3 +47,5 @@ The economy is developing and heavily dependent on natural resource extraction (
 - **Bougainville's future**: The 2019 referendum was non-binding. Negotiations between the PNG national government and the Bougainville Autonomous Government on the path to potential independence are ongoing.
 - **Governance and corruption**: The interplay between the wantok system, patronage politics, and formal anti-corruption measures creates a persistent challenge, with cultural expectations often clashing with legal norms.
 - **Land tenure**: The vast majority of land is customary and unregistered, which complicates large-scale development projects and economic formalization.
+
+Source: adapted from "Papua New Guinea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Papua_New_Guinea

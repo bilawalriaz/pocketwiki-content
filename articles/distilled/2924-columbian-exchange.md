@@ -41,3 +41,5 @@ The movement of people caused a "clash of cultures," transferring European conce
 ## Debates and Open Questions
 - The origin of syphilis is debated: one hypothesis suggests it was carried from the Americas to Europe by Columbus's crew, while another proposes it existed unrecognized in Europe prior to 1492.
 - The extent and impact of possible pre-Columbian trans-oceanic contacts (e.g., between Polynesians and South Americans around 1200) remain subjects of scholarly speculation and investigation.
+
+Source: adapted from "Columbian exchange" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Columbian_exchange

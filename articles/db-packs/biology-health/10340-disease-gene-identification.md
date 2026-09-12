@@ -41,3 +41,5 @@ Whole exome sequencing uses modern sequencing and DNA assembly to reconstruct al
 ## Choosing a method
 
 The right technique depends on the disease's inheritance pattern and the population structure of the affected families. LOH suits paired tumor and normal tissue from one individual. IBD mapping fits families with multiple affected and unaffected siblings. Homozygosity and autozygosity mapping are reserved for diseases in small, closed populations where founder effects are likely. Genome-wide knockdown and whole exome sequencing are general-purpose tools that do not require prior family structure. In every case, the workflow stays the same: collect DNA, screen for probable regions, align them across samples, and sequence the overlap until the causal mutation emerges.
+
+Source: adapted from "Disease gene identification" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Disease_gene_identification

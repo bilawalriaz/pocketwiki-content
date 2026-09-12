@@ -40,3 +40,5 @@ The empire's decline was caused by a combination of factors. Internal instabilit
 - **Cause of Collapse**: The primary cause is debated. Some emphasize the catastrophic drought (the 4.2-kiloyear event), while others critique this theory, pointing to uncertain chronology and the empire's internal political weaknesses and revolts as sufficient explanations.
 - **Location of Akkad**: The capital city, Akkad (Agade), has never been definitively located archaeologically, hindering a complete understanding of the empire's core.
 - **Extent of Trade**: The precise nature and scale of Akkadian trade with distant regions like the Indus Valley (Meluhha) and Cyprus (Kaptara) are still being clarified through archaeological evidence.
+
+Source: adapted from "Akkadian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Akkadian_Empire

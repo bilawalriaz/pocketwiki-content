@@ -86,3 +86,5 @@ Catholicism: 2016 decree elevated her July 22 memorial to a Feast (rank of Apost
 - **Gnostic Mary vs. historical Mary**: To what extent do Gnostic texts preserve authentic tradition vs. projecting later theological debates onto her figure?
 - **Relic authenticity**: Competing French sites (Vézelay, Saint-Maximin) and Mount Athos claim bodily remains; no scientific verification possible.
 - **Jesus’s marital status**: *Da Vinci Code* claims and *Gospel of Jesus’s Wife* fragment are universally rejected by scholars; silence of canonical gospels and Paul suggests celibacy, but absolute certainty is impossible.
+
+Source: adapted from "Mary Magdalene" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mary_Magdalene

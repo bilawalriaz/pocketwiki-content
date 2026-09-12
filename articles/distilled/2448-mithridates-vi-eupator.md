@@ -44,3 +44,5 @@ Mithridates was a polyglot, reportedly speaking the languages of all the nations
 - The exact number of casualties in the Asiatic Vespers is debated, with ancient sources giving figures as high as 80,000.
 - The precise composition and efficacy of Mithridates' personal antidote (*mithridatium*) are lost to history, leading to centuries of speculation and varied recipes.
 - Scholars debate the sincerity of Mithridates' philhellenism versus its use as a calculated political strategy to rally support against Rome.
+
+Source: adapted from "Mithridates VI Eupator" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mithridates_VI_Eupator

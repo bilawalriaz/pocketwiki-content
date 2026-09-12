@@ -39,3 +39,5 @@ Facing military defeat and economic disruption, the Qing court agreed to negotia
 - **Inevitability**: Scholars question whether the conflict could have been avoided. Some point to the lack of diplomatic mechanisms and China's refusal to negotiate as equals, while others argue that British commercial expansion made some form of conflict likely.
 - **Chinese Internal Politics**: Revisionist views emphasize that Qing court factionalism and internal concerns about corruption and military decay (due to opium) were key drivers of the crackdown, rather than just a simple moral stance against the drug.
 - **Moral Judgment**: The war remains morally contentious. In Britain, it was opposed by figures like William Gladstone as an unjust war to protect a "disgraceful" drug trade, while proponents framed it as a fight for free trade and diplomatic respect.
+
+Source: adapted from "First Opium War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/First_Opium_War

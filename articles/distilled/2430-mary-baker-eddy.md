@@ -43,3 +43,5 @@ Eddy's later years were marked by controversy, including the 1907 "Next Friends"
 - **Mental Health and Paranoia**: Eddy's belief in "malicious animal magnetism" has been cited by critics as evidence of paranoia or psychosis, while defenders view it as a theological concept and a form of vigilant prayer.
 - **Use of Medicine**: There is controversy over whether Eddy secretly used morphine later in life, with biographers offering conflicting accounts of addiction versus normal medical practice.
 - **Engagement with Eastern Religions and British Israelism**: Scholars debate whether Eddy was influenced by Hinduism or Buddhism, and the degree to which she was intrigued by British Israelism, a theory tracing Anglo-Saxon ancestry to the ancient Israelites.
+
+Source: adapted from "Mary Baker Eddy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mary_Baker_Eddy

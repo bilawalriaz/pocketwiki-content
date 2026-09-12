@@ -42,3 +42,5 @@ Techniques evolved to simulate natural forms, from copying ragged rocks to using
 
 ## Debates and Open Questions
 The source notes that the distinction between a fine art landscape and a topographical view "is not always meaningful," and similar prejudices existed in Chinese art. It also states that the exact status of early Chinese paintings surviving only as later copies is "unclear." The spiritual element in landscape art is present from its beginnings in East Asia but only became explicit in the West with Romanticism, highlighting a fundamental philosophical difference between the traditions.
+
+Source: adapted from "Landscape painting" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Landscape_painting

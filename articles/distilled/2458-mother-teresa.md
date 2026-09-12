@@ -44,3 +44,5 @@ Despite her public faith, private letters published posthumously revealed Mother
 *   **Financial Management:** Critics allege donations were not used to improve facilities or medical care, while defenders state funds supported a vast global network of charity.
 *   **Motivations:** Some critics, like Hitchens, argued her primary goal was religious conversion rather than social welfare, a charge strongly denied by her order.
 *   **The Miracle for Canonization:** The Vatican-approved miracle for her beatification (the healing of Monica Besra) was disputed by her husband and some medical staff, who attributed her recovery to conventional medicine.
+
+Source: adapted from "Mother Teresa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mother_Teresa

@@ -40,3 +40,5 @@ Since 1945, Wrocław has rebuilt itself as a Polish city with a mixed architectu
 *   **Name Origin:** The traditional theory that the city was named after Duke Vratislav I of Bohemia is contradicted by the timeline of Czech control; the name likely derives from the Old Polish personal name *Wrocisław*.
 *   **Ethnic Composition:** The size of the Polish minority in early 20th-century Breslau is debated; official German censuses recorded about 3% Polish-speakers in 1910, while some Polish scholars estimate up to 10% of Polish extraction.
 *   **Post-War Demographics:** While the city was repopulated by Poles from the lost eastern territories (*Kresy*), by 1949 only 20% of the new population were actual refugees from those areas; the rest came from other Polish regions.
+
+Source: adapted from "Wrocław" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wroc%C5%82aw

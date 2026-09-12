@@ -46,3 +46,5 @@ The population was 603,519 in 2021. Historically diverse, it is now over 90% eth
 ## Debates and Open Questions
 - The historical Chinese name for the area, *Haishenwai* (海參崴), remains in common use outside mainland China, and Chinese maps officially bracket it, reflecting ongoing historical and geopolitical sensitivities regarding the region's past.
 - The environmental impact of pollution from industrial sites and the city's vulnerable geography, which traps pollutants in populated basins, is a concern highlighted by local ecologists.
+
+Source: adapted from "Vladivostok" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vladivostok

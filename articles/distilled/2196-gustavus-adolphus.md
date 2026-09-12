@@ -46,3 +46,5 @@ He is widely commemorated by Protestants as a defender of their cause, with chur
 - **Military legacy**: Some scholars argue his innovations were exaggerated or developed by his staff, while others credit him with revolutionary changes.
 - **Expansionist aims**: German historian Johannes Burkhardt suggests Gustavus Adolphus may have aimed for the Holy Roman imperial crown, indicating expansionist rather than defensive goals.
 - **Assassination theories**: Stories persisted that Prince Francis Albert of Saxe-Lauenburg killed him, though this was dismissed by contemporaries like King Charles XII.
+
+Source: adapted from "Gustavus Adolphus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gustavus_Adolphus

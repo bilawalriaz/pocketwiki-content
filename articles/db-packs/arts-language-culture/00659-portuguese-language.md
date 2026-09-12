@@ -31,3 +31,5 @@ The Portuguese lexicon has around 228,500 entries, the great majority from Latin
 ## Open questions
 
 Scholar Ana Maria Martins argues that the *Notícia de Fiadores* (1175) is the earliest Portuguese document, while others reject it as too lightly Romance; the Will of Afonso II (1214) is the earliest widely accepted text. Whether Galician and Portuguese are two languages or co-dialects of one remains contested, though many linguists lean toward the co-dialect view. The roughly 1420 boundary between Middle and earlier Portuguese, set by scholars such as Luís Lindley Cintra and Serafim da Silva Neto, is a working convention rather than a sharp break. The depth of Portuguese influence on the Asian and African languages it encountered, and how far those contacts produced creoles, remains an active area of research.
+
+Source: adapted from "Portuguese language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Portuguese_language

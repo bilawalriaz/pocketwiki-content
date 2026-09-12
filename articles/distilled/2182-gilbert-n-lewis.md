@@ -40,3 +40,5 @@ Lewis was a transformative figure at UC Berkeley, where he mentored numerous fut
 ## Debates and open questions
 - **Cause of Death:** The official cause was coronary artery disease, but many believe Lewis died by suicide, possibly triggered by a lunch with his Nobel-winning rival Irving Langmuir.
 - **Nobel Prize Omission:** The reasons for his repeated failure to win the Nobel Prize are debated, involving personal rivalries (notably with Walther Nernst) and possible procedural blocking by members of the Nobel committee.
+
+Source: adapted from "Gilbert N. Lewis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gilbert_N._Lewis

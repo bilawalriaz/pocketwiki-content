@@ -43,3 +43,5 @@ Visayan culture is characterized by hospitality, strong religious traditions, an
 - **Etymology of "Visayas"**: The origin of the name is unknown, with competing theories linking it to Srivijaya, Borneo, or Chinese records, all of which are considered speculative.
 - **Geographical Boundaries**: Scholars debate whether the provinces of Palawan and Masbate are part of the Visayas, challenging the traditional three-division model of the Philippines.
 - **Linguistic Identity**: The term "Bisaya" is contested; it is often equated with Cebuano but is used to refer to different Visayan language groups (e.g., Hiligaynon, Waray) in various regions, causing ambiguity.
+
+Source: adapted from "Visayas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Visayas

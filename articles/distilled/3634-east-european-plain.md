@@ -29,3 +29,5 @@ The plain is drained by several of Europe's largest rivers. The Volga, the longe
 
 ## Debates and Open Questions
 The source text does not present specific scholarly debates or open questions regarding the East European Plain.
+
+Source: adapted from "East European Plain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/East_European_Plain

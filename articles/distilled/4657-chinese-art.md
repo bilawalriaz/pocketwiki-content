@@ -45,3 +45,5 @@ The late Qing and early 20th century saw modernization efforts, with artists lik
 - The precise religious and social significance of symbols and designs on Neolithic Yangshao pottery is debated.
 - The early significance and origin of the taotie motif on Shang bronzes remain unclear, with myths about it only recorded later.
 - The extent to which contemporary Chinese art is a genuine expression versus a product constructed for the international art market and curators is a point of controversy.
+
+Source: adapted from "Chinese art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinese_art

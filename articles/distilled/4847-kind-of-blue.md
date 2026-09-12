@@ -43,3 +43,5 @@ Upon release, *Kind of Blue* was immediately acclaimed as Davis's masterpiece. I
 - **Authorship of "Blue in Green" and "Flamenco Sketches":** While the album credits Davis as the sole composer, many scholars and fans believe Bill Evans co-wrote or wrote these pieces. Evans claimed co-credit on his own recording, and the Davis estate acknowledged his authorship in 2002.
 - **Producer Credit:** The original LP did not credit a producer. Subsequent reissues have variously credited Irving Townsend, Teo Macero, or both. Historical analysis indicates Townsend was the primary producer for the original sessions, with Macero playing a minor, apprentice-like role.
 - **Impact of Ornette Coleman:** The arrival of Ornette Coleman and his free jazz innovations in 1959 initially muted the impact of *Kind of Blue*, a fact that reportedly irritated Davis. The two artists offered different alternatives to bebop's rules.
+
+Source: adapted from "Kind of Blue" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kind_of_Blue

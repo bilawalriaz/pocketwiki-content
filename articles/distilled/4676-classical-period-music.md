@@ -45,3 +45,5 @@ The standard Classical orchestra comprised a string section (violin, viola, cell
 - The precise boundaries of the period are debated, with some scholars placing the start as early as 1730 or as late as 1770.
 - The classification of Franz Schubert is ambiguous; he is sometimes included in the First Viennese School but is also seen as a bridge to Romanticism.
 - The extent to which the "First Viennese School" represents a cohesive movement versus a geographical label for three towering individuals is a point of scholarly discussion.
+
+Source: adapted from "Classical period (music)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Classical_period_%28music%29

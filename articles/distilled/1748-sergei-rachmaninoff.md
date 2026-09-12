@@ -63,3 +63,5 @@ His reputation as a composer generated varied opinions; the 1954 Grove Dictionar
 ## Debates and open questions
 
 Scholars have speculated that Rachmaninoff's hand size, height, and slender frame indicate he may have had Marfan syndrome, which would account for back pain, arthritis, and eye strain. An article in the Journal of the Royal Society of Medicine instead suggested acromegaly, which could explain stiffness in his hands, repeated periods of depression, and possibly even his melanoma. The disastrous premiere of Symphony No. 1 remains debated: critics did not comment on the deficiencies of Glazunov's conducting, but witnesses suggested he made poor use of rehearsal time and may have been drunk.
+
+Source: adapted from "Sergei Rachmaninoff" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sergei_Rachmaninoff

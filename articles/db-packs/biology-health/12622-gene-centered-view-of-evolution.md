@@ -31,3 +31,5 @@ Critics argue that the gene-centred view is too narrowly adaptationist. It treat
 The main alternative is multilevel selection, which holds that selection can act simultaneously on genes, cells, organisms, groups, and species, and that no single level has automatic priority. Proponents such as E. O. Wilson, David Sloan Wilson, Elliott Sober, and Samir Okasha develop the mathematical and conceptual tools for treating these levels together.
 
 Defenders of the gene-centred view, including Dawkins in The Extended Phenotype, reply that gene effects on developing phenotypes blend during an individual's life, but the genes themselves do not blend as they replicate and recombine across generations, so the gene remains the entity whose frequencies selection changes.
+
+Source: adapted from "Gene-centered view of evolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gene-centered_view_of_evolution

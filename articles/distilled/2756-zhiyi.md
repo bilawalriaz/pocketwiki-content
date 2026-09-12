@@ -45,3 +45,5 @@ Zhiyi taught that all beings possess **Buddha-nature**, which he described as an
 - **Relationship to Madhyamaka**: Some scholars (like Paul Swanson) argue Zhiyi's Threefold Truth is consistent with classical Madhyamaka, while others (like Ng Yu-Kwan) see it as a distinct "Middle Way–Buddha Nature" thought that moves beyond Madhyamaka's apophatic negation.
 - **Systematization**: The more developed "Five Periods and Eight Teachings" schema is attributed to Zhiyi by tradition but was likely systematized by his later disciple Zhanran.
 - **Inherent Evil**: The doctrine that Buddha-nature includes evil is a distinctive and sometimes controversial Tiantai teaching, differing from traditions that view Buddha-nature as purely pure.
+
+Source: adapted from "Zhiyi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zhiyi

@@ -79,3 +79,5 @@ Watts died on 24 August 2021 at age 80. The band became the highest-earning live
 - Brian Jones' death by drowning in July 1969 was "under mysterious circumstances."
 - The *News of the World* drug article claimed Mick Jagger took Benzedrine at a club, but it was "a case of mistaken identity; the reporter had in fact been eavesdropping on Brian Jones."
 - Whether Oldham engineered the band's "Bad Boys" image is debated: Wyman said Oldham "never did engineer it. He simply exploited it exhaustively."
+
+Source: adapted from "The Rolling Stones" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_Rolling_Stones

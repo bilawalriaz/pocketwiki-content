@@ -51,3 +51,5 @@ Taxonomy underpins biodiversity studies and conservation. Taxonomic descriptions
 
 ## Debates and Open Questions
 Debates persist over the relationship between taxonomy and systematics, particularly regarding the role of nomenclature. The integration of molecular and morphological data sometimes yields conflicting phylogenies. The three-domain system proposed by Woese remains influential but contested, with alternatives like Cavalier-Smith’s Neomura hypothesis challenging its assumptions. The PhyloCode’s adoption versus traditional Linnaean ranks is unresolved. Additionally, the species concept remains contentious, with microtaxonomy grappling with definitions across diverse organisms. The scalability and standardization of taxonomic databases also pose ongoing challenges.
+
+Source: adapted from "Taxonomy (biology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taxonomy_%28biology%29

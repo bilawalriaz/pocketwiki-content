@@ -27,3 +27,5 @@ The modern Solfa Cipher (2013) combines relative solfège degrees with relative 
 ## Encryption and steganography together
 
 Music ciphers typically blend cryptography with steganography. Encryption scrambles a message so it is unreadable; steganography hides it so no one suspects a message exists. Most practitioners believed that disguising text as sheet music gave added security, because intercepted music would rarely be examined for hidden content. As Francesco Lana de Terzi observed, the disguise works not because the cipher melody sounds like real music, but because almost no one is musically literate enough to notice that it does not.
+
+Source: adapted from "Music cipher" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Music_cipher

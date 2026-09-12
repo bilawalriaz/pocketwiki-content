@@ -47,3 +47,5 @@ Kant speculated that faint nebulae were separate galaxies; Hubble confirmed this
 The nature of dark energy and dark matter is unknown. The cause of the universe's preference for matter over antimatter is unsolved. Whether anything preceded the Big Bang, and whether ours is one of many disconnected universes in a multiverse, are unsettled. The fine-tuning of physical constants for life is debated, and even its meaning is contested. Whether the total universe is finite or infinite has no answer.
 
 The observable universe is built almost entirely from components we cannot see, shaped by a beginning we can only reconstruct from the faint glow of light released 13.8 billion years ago.
+
+Source: adapted from "Universe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Universe

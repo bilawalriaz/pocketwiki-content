@@ -90,3 +90,5 @@ Despite frequent portrayal in media (e.g., *The Ten Commandments*, *The Prince o
 - **Chronology of later Syrian campaigns:** Source notes “precise chronology… not clear” for campaigns after Year 7 due to monuments lacking regnal dates.
 - **Cause of death:** Unknown; leading hypothesis is fatal infection from a mandibular dental abscess, but not certain.
 - **Sarcophagus fate:** Original granite sarcophagus fragment identified 2023 (reused by 21st Dynasty priest Menkheperre); location of the complete original sarcophagus (and whether it was ever used) remains open.
+
+Source: adapted from "Ramesses II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ramesses_II

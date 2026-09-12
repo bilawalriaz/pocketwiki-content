@@ -51,3 +51,5 @@ Ronaldo evolved from a skillful winger into a complete forward, renowned for his
 
 ## Debates and Open Questions
 The primary scholarly and fan debate concerns Ronaldo's place in football history, specifically in comparison to Lionel Messi. The discussion often centers on contrasting their playing styles, personalities, and trophy cabinets. While Ronaldo is celebrated for his athleticism, goal-scoring records across multiple leagues, and leadership, Messi is often praised for his playmaking and dribbling. The debate is subjective and remains unresolved, with both players widely considered among the greatest of all time.
+
+Source: adapted from "Cristiano Ronaldo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cristiano_Ronaldo

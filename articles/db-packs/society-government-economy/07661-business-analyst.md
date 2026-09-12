@@ -35,3 +35,5 @@ Common entry paths are a bachelor's degree in information technology, business a
 ## Challenges
 
 Delivering value depends on access to large volumes of data, and that access creates four recurring risks. Data privacy becomes harder as social media and big data expand, requiring that only necessary data reach appropriate employees. Analytical resources carry high up-front costs, which must be managed to protect profit. Team dynamics matter because conclusions are strongest when group work is balanced. And external communication is difficult because BA terminology is often opaque to other departments, so findings must be translated into language non-specialists can act on.
+
+Source: adapted from "Business analyst" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Business_analyst

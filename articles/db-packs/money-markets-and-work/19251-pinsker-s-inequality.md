@@ -55,3 +55,5 @@ which stays informative up to $\delta = 1$.
 ## History
 
 Pinsker first proved the inequality with a larger constant. The form stated here was proved independently by Solomon Kullback, Imre Csiszár, and J. H. B. Kemperman.
+
+Source: adapted from "Pinsker's inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pinsker%27s_inequality

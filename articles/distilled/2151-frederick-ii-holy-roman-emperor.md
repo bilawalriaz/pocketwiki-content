@@ -44,3 +44,5 @@ Pope Innocent IV declared Frederick deposed at the Council of Lyons (1245). Fred
 - **"First Modern Man"**: Historians debate whether his centralized, bureaucratic state in Sicily makes him a precursor to early modern absolutism or if he was a conventional medieval ruler operating within existing structures.
 - **Imperial Vision**: Did Frederick pursue a coherent, step-by-step plan to build a unified Italo-German empire, or was his policy a pragmatic, reactive response to immediate crises?
 - **Legacy of the Constitutions**: To what extent did the Constitutions of Melfi influence later European state-building and legal traditions?
+
+Source: adapted from "Frederick II, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor

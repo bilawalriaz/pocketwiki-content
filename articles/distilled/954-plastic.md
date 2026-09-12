@@ -100,3 +100,5 @@ March 2, 2022: UNEA-5.2 resolution "End plastic pollution: Towards an internatio
 - **Production caps vs. circularity:** 2025 UN negotiations pivot to reducing production (3–5% GHG, may triple) vs. industry focus on waste management/recycling; black carbon from burning adds climate urgency.
 - **Degradation predictability:** Polymer structure dictates degradation pathway; polyolefins persist centuries, PVC autocatalyzes via HCl; no reliable "design-for-degradation" rules for all environments.
 - **Equity:** Per capita consumption 94 kg (NA) vs. 58 kg (China); waste export to Global South; uncontrolled incineration exposes vulnerable populations to dioxins/POPs.
+
+Source: adapted from "Plastic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plastic

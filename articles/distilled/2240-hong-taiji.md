@@ -45,3 +45,5 @@ Hong Taiji died in 1643 without having designated an heir. The Deliberative Coun
 - **The name "Abahai":** This Western appellation is now considered a mistake, unattested in Manchu and Chinese sources. It may stem from a confusion with his father's consort, Lady Abahai.
 - **Reasons for the dynastic name "Qing":** The exact motivation is unclear. Theories include avoiding the negative connotations of the earlier Jin dynasty, following five-element theory (water overcomes Ming's fire), or using a name with a water radical to symbolically quell fraternal strife.
 - **The founding myth:** Hong Taiji promoted a legend of his clan's divine origin from a virgin birth near the Changbai Mountains. An older, recorded version places the event near the Amur River, suggesting he altered the story to align with a more southern, central location.
+
+Source: adapted from "Hong Taiji" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hong_Taiji

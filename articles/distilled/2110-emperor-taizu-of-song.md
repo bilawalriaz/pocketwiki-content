@@ -41,3 +41,5 @@ Taizu died in 976 at age 49. Despite having two adult sons, he was succeeded by 
 - **The "Taizu's Oath"**: Many sources record an oath by Taizu forbidding his successors from killing scholar-officials. However, this story might be a later historical construct.
 - **Succession Dispute**: The exact circumstances of Taizu's death and the succession of his brother over his sons remain a subject of historical debate, with theories ranging from a legitimate promise to fratricide.
 - **Military Style**: Whether Emperor Taizu actually invented the Taizu Changquan (Long Fist) martial arts style is unknown, with the tradition being part of later lore.
+
+Source: adapted from "Emperor Taizu of Song" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emperor_Taizu_of_Song

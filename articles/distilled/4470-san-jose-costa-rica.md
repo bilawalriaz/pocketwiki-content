@@ -46,3 +46,5 @@ The city is a cultural center with numerous theaters, including the historic Nat
 
 ## Debates and Open Questions
 The source does not explicitly detail ongoing scholarly debates about San José. However, it notes historical points of contention, such as the city's fluctuating status as a "city" between 1813 and 1820, and the legal and social tensions surrounding the operation of ride-sharing services like Uber versus traditional taxi cooperatives.
+
+Source: adapted from "San José, Costa Rica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/San_Jos%C3%A9%2C_Costa_Rica

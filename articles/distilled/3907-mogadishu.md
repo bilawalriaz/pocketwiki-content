@@ -42,3 +42,5 @@ Following independence, Mogadishu was the capital of the Somali Republic until a
 ## Debates and Open Questions
 - The founding ethnicity of Mogadishu and its early sultanate is debated. Older theories suggested Arab or Persian founders, but modern scholarship, based on archaeology and oral sources, indicates pre-existing indigenous Somali communities with whom immigrants integrated.
 - The origin of the name "Mogadishu" is uncertain. Theories include derivation from Somali words meaning "sight killer" or "place where sheep are slaughtered," or a link to the Hebrew word for "holy place."
+
+Source: adapted from "Mogadishu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mogadishu

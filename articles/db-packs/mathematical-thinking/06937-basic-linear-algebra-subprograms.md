@@ -40,3 +40,5 @@ The original spec covers only dense vectors and matrices. Two extensions have si
 
 - **Sparse BLAS**, a small kernel set for sparse matrices, standardized in 2002.
 - **Batched BLAS**, specified in 2017 for parallel hardware such as GPUs. The traditional GEMM performs poorly on stacks of many small matrices because per-call overhead dominates. Batched GEMM applies C[k] ← αA[k]B[k] + βC[k] to every matrix k in a stack at once, often in a strided layout. Time-stepping integrators such as exponential or Magnus integrators use it to parallelize the expensive matrix exponential across time steps.
+
+Source: adapted from "Basic Linear Algebra Subprograms" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms

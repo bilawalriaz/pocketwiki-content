@@ -44,3 +44,5 @@ Venezuelan culture is a blend of Indigenous, Spanish, and African influences. Th
 - The legitimacy of the 2024 presidential election results and the subsequent political crisis.
 - The long-term implications of the 2026 U.S. intervention for Venezuelan sovereignty and its status as a potential "puppet state."
 - The future of Venezuela's vast oil reserves and their role in the global energy transition.
+
+Source: adapted from "Venezuela" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Venezuela

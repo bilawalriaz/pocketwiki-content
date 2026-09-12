@@ -43,3 +43,5 @@ Before Herodotus, Greek history consisted mainly of local traditions. The Persia
 ## Debates and Open Questions
 
 Herodotus's reliability remains contested. Thucydides dismissed him as a storyteller, and 19th-century scholars questioned whether ridicule drove his departure from Halicarnassus. Modern historians acknowledge exaggeration but note archaeological confirmation of many claims. His death location is uncertain—Athens (plague), Pella (Macedonian patronage), or Thurii. The "Herodotus and his shade" anecdote (missing Olympia reading due to seeking shade) may be apocryphal. Giambattista Vico criticized his "Homeric elements" and myth-filled content. The Suda's claim that he liberated Halicarnassus lacks corroborating evidence. His relationship with the Thessalian Plesirrhous and childless death remain debated.
+
+Source: adapted from "Herodotus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Herodotus

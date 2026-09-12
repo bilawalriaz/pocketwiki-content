@@ -33,3 +33,5 @@ Coal supplied 66% of Australia's grid electricity in 2020, and coal is the singl
 ## Politics, media, and protest
 
 Climate policy has been a divisive issue since the 2000s, with conservative parties generally protecting coal interests and some media outlets, including Sky News Australia, identified as global sources of climate misinformation. Public pressure has been substantial: a 2009 Melbourne rally drew 40,000 people, the 2019 climate strikes drew an estimated 180,000–300,000 across the country, and ongoing Rising Tide blockades at the Newcastle coal port have resulted in mass arrests, including 156 in November 2025. In November 2023, Australia began offering permanent residency to 280 climate-displaced Tuvalu citizens per year under a bilateral deal.
+
+Source: adapted from "Climate change in Australia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_change_in_Australia

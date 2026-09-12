@@ -57,3 +57,5 @@ European cartography cemented his fame: Angelino Dulcert’s 1339 map, the 1375 
 - **Conquest of Gao and Timbuktu**: Did Musa personally secure these cities on his return, or were they conquered by his general Saghmanja (or earlier under Sakura)? Was Mali’s control episodic rather than continuous?
 - **Date of death**: 1332 (reign-length calculation), 1337 (diplomatic correspondence), or earlier (al-Umari’s abdication claim)? How to reconcile Ibn Khaldun’s conflation of Sulayman and Maghan?
 - **Wealth quantification**: Is it possible to separate Musa’s personal wealth from state treasury? Are modern “richest person in history” claims historically meaningful?
+
+Source: adapted from "Mansa Musa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mansa_Musa

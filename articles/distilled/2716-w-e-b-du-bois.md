@@ -46,3 +46,5 @@ In his later years, Du Bois became increasingly focused on global peace and anti
 - **Stance on Segregation**: Du Bois's 1934 reversal, where he stated "separate but equal" was an acceptable goal, caused a major rift with the NAACP and remains a point of scholarly discussion regarding his evolving ideology.
 - **Relationship with Communism**: Du Bois's late-life embrace of the Communist Party is debated. Biographer David Levering Lewis suggests he endorsed it not for its own sake, but because "the enemies of his enemies were his friends," viewing it as a potential counter to capitalist-driven racism.
 - **Views on Japan**: Du Bois's ambivalent views on Imperial Japan, which he initially saw as a counter to Western imperialism, are critically examined, especially his initial downplaying of its colonial brutality in Manchuria.
+
+Source: adapted from "W. E. B. Du Bois" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/W._E._B._Du_Bois

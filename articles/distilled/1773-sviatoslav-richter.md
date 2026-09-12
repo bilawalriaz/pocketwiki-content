@@ -38,3 +38,5 @@ In his later years, Richter continued to perform and record, despite struggling 
 * The nature of Richter's personal life, including his relationships and sexual orientation, remains a subject of debate and speculation.
 * The extent to which Richter's unique approach to performance, which emphasized the importance of the composer's intentions, influenced his interpretations and performances.
 * The impact of Richter's legacy on the world of classical music, including his influence on other pianists and composers, remains a topic of ongoing discussion and study.
+
+Source: adapted from "Sviatoslav Richter" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sviatoslav_Richter

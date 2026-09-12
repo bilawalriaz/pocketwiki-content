@@ -42,3 +42,5 @@ Taejo's foreign policy was shaped by the destruction of Balhae by the Khitan. He
 - The exact nature of Wang Kŏn's ancestry is debated. While later texts claimed imperial Tang descent, modern historians believe his family were influential Goguryeo refugees who accumulated wealth through trade.
 - The historical accuracy of specific legends, such as the dragon woman story involving his grandfather, is dismissed by scholars as hagiographical.
 - The degree to which Wang Kŏn's unification was a "complete" unification of the Korean people, as opposed to the earlier Silla unification which excluded Balhae, is a point of historical interpretation.
+
+Source: adapted from "Taejo of Goryeo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taejo_of_Goryeo

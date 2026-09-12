@@ -46,3 +46,5 @@ Harvey's other major work, *On Animal Generation* (1651), advanced embryology wi
 - **Priority of discovery**: While Harvey provided the first complete and detailed description of circulation, precursors like Michael Servetus, Realdo Colombo, and Jacques Dubois had described parts of the pulmonary circuit. The article notes Ibn al-Nafis also provided an earlier model.
 - **Resistance to acceptance**: Harvey's theory directly contradicted the deeply entrenched Galenic paradigm, leading to significant professional backlash. Some physicians "would rather err with Galen than proclaim the truth with Harvey."
 - **Observation vs. inference**: Harvey's discovery relied heavily on inference and quantitative reasoning, as he lacked the microscopes needed to directly observe capillaries. He wrote that blood "permeates the pores" in the flesh.
+
+Source: adapted from "William Harvey" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Harvey

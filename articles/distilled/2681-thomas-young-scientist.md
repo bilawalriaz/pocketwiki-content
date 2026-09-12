@@ -47,3 +47,5 @@ Young's work spanned many fields. He developed the Young–Laplace equation for 
 
 ## Debates and open questions
 The primary historical debate concerns the priority of deciphering Egyptian hieroglyphs between Thomas Young and Jean-François Champollion. While Champollion produced the first comprehensive system, Young's work on the demotic script and his identification of phonetic hieroglyphs were essential precursors. The dispute was fueled by nationalistic rivalry between Britain and France. Modern scholarship generally acknowledges Young's crucial foundational role while crediting Champollion with the final breakthrough.
+
+Source: adapted from "Thomas Young (scientist)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29

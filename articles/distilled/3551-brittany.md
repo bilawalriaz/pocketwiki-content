@@ -43,3 +43,5 @@ The French Revolution abolished the duchy in 1789, dividing Brittany into five d
 - **Reunification**: There is ongoing debate about reincorporating Loire-Atlantique into the Brittany region. Polls show majority support (58% in Brittany, 62% in Loire-Atlantique), but obstacles include economic imbalance and the potential destabilization of the Pays de la Loire region.
 - **Regional Identity**: Polls indicate a complex identity, with many inhabitants feeling both Breton and French. Support for greater political autonomy exists, but independence has minimal backing (around 4.6%).
 - **Language Revival**: While Breton is classified as "severely endangered," immersion schools (Diwan) and bilingual education have increased the number of young speakers. Gallo, however, remains threatened and lacks widespread promotion.
+
+Source: adapted from "Brittany" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brittany

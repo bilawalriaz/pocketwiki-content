@@ -31,3 +31,5 @@ Instrumentation can be applied at several levels: manual (a programmer adds timi
 ## History
 
 Profiler-driven analysis on Unix began in 1973 with `prof`, which listed each function and its share of execution time. In 1982, `gprof` extended this to a complete call graph analysis. In 1994, Amitabh Srivastava and Alan Eustace at Digital Equipment Corporation published ATOM, which converts a program into its own profiler by inserting analysis code at compile time, the canonical example of instrumentation. Performance-analysis tools existed on IBM/360 and IBM/370 systems from the early 1970s based on timer interrupts that detected hot spots, an early form of sampling.
+
+Source: adapted from "Profiling (computer programming)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Profiling_%28computer_programming%29

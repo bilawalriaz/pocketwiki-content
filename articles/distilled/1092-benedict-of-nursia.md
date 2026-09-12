@@ -49,3 +49,5 @@ Benedict died of fever at Monte Cassino on 21 March 547 and was buried alongside
 ## Debates and Open Questions
 
 The authenticity of Gregory I's *Dialogues* as a historical source is disputed, as it was written decades after Benedict's death and serves primarily as a spiritual portrait rather than factual biography. The exact origin of the Saint Benedict Medal remains uncertain despite its association with a 1647 witchcraft trial at Natternberg. The date of Benedict's birth (c. 480) and death (21 March 547) are based on tradition rather than contemporary records. The 1969 revision of the General Roman Calendar moved his memorial from 21 March to 11 July, creating ongoing uncertainty about the proper commemoration date.
+
+Source: adapted from "Benedict of Nursia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Benedict_of_Nursia

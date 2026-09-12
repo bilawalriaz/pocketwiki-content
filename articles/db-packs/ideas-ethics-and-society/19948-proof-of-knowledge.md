@@ -44,3 +44,5 @@ states that the prover knows an $x$ linking $y_1, y_2$ through $x_2 = a x_1 + b$
 ## Applications
 
 Proofs of knowledge underlie identification protocols, and their non-interactive variants yield signature schemes such as Schnorr signatures. They also underpin group signature and anonymous digital credential systems.
+
+Source: adapted from "Proof of knowledge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Proof_of_knowledge

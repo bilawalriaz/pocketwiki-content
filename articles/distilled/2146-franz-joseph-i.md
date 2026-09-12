@@ -43,3 +43,5 @@ Franz Joseph's personal life was marked by profound tragedy. He married his cous
 *   The role of Empress Elisabeth in facilitating the Compromise of 1867 is noted as significant, though the exact extent of her behind-the-scenes influence is a matter of historical interpretation.
 *   The "Bohemian question"—the unresolved demand for recognition of separate Bohemian state rights within the monarchy—remained a persistent source of political tension throughout Franz Joseph's reign.
 *   The decision-making process during the July Crisis of 1914 is debated, particularly the balance of influence between Franz Joseph's hesitancy and the war-advocacy of his military chief, Conrad von Hötzendorf.
+
+Source: adapted from "Franz Joseph I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Franz_Joseph_I

@@ -44,3 +44,5 @@ World War I led to the breakup of empires and the creation of new states like Po
 - The term is sometimes considered pejorative due to stereotypes of inferiority compared to Western Europe, leading to the use of alternatives like "Central and Eastern Europe."
 - The classification of specific countries is contested; for example, the Baltic states are placed in Northern Europe by some organizations and Eastern Europe by others, while Greece is rarely included despite its Orthodox heritage.
 - The status of the South Caucasus nations (Armenia, Azerbaijan, Georgia) is ambiguous, as they are geographically in Western Asia but often included in definitions of Eastern Europe due to political and cultural ties.
+
+Source: adapted from "Eastern Europe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eastern_Europe

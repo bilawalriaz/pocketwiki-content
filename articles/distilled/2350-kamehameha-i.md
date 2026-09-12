@@ -43,3 +43,5 @@ As king, Kamehameha unified the legal system and used tax products to promote tr
 *   **Birth Date**: The exact year of Kamehameha's birth is debated, with scholarly estimates ranging from 1736 to 1761.
 *   **Paternity**: While officially the son of Keōua, oral traditions and accounts from figures like Kameʻeiamoku suggest he may have been the son of Maui chief Kahekili II, a claim dismissed by later King Kalākaua as scandalous.
 *   **Number of Wives and Children**: The exact count is uncertain due to destroyed records, with estimates for wives ranging from 21 to 30.
+
+Source: adapted from "Kamehameha I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kamehameha_I

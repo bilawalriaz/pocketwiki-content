@@ -44,3 +44,5 @@ Moreau married Jean-Louis Richard (1949–1964), with whom she had a son, Jérô
 ## Debates and open questions
 - **Polanski Petition (2009)**: Moreau’s support for Roman Polanski during his detention sparked controversy regarding the separation of artistic merit from personal conduct and the role of film festivals as "neutral" spaces.
 - **Legacy Assessment**: While Welles called her "the greatest actress in the world," scholarly debate continues on the relative weight of her theatrical versus cinematic contributions and her agency as a director/writer compared to her iconic status as a muse.
+
+Source: adapted from "Jeanne Moreau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jeanne_Moreau

@@ -49,3 +49,5 @@ Sagan was married three times: to biologist Lynn Margulis, artist Linda Salzman,
 - **Academic Reception:** Sagan's reputation was polarized. Critics like Nobel laureate Harold Urey felt he was too focused on publicity, contributing to his denial of tenure at Harvard. Others later acknowledged his popular advocacy benefited science.
 - **Nuclear Winter:** The hypothesis he helped popularize was met with skepticism from some scientists and politicians who felt he used media to disseminate an uncertain idea for persuasive purposes.
 - **UFOs:** While Sagan rejected extraterrestrial explanations for UFO reports, he argued they were a legitimate subject for scientific study due to public interest and potential pedagogical benefits.
+
+Source: adapted from "Carl Sagan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_Sagan

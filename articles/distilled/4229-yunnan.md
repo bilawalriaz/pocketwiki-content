@@ -46,3 +46,5 @@ Yunnan's economy relies on agriculture (tobacco, tea, flowers), mining, hydropow
 - The etymology of "Yunnan" is debated, with multiple theories (e.g., "south of colorful clouds" vs. "south of the Yunling Mountains") lacking definitive proof.
 - The precise origins and classification of some ethnic groups, like the Mosuo, remain subjects of scholarly and political discussion.
 - The impact of large-scale dam construction on the Mekong River's ecology and downstream communities is an ongoing concern.
+
+Source: adapted from "Yunnan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yunnan

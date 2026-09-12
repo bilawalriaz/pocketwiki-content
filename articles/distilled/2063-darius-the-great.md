@@ -42,3 +42,5 @@ Darius was a prolific builder, initiating major construction at Susa, Persepolis
 *   **Legitimacy of Accession:** Scholars debate whether Darius's account of overthrowing an imposter (Gaumata) was true or a propaganda story to conceal his usurpation of the legitimate heir, Bardiya.
 *   **Religious Influence:** There is no consensus on whether Darius and his predecessors were directly influenced by Zoroastrianism, though his devotion to Ahura Mazda is well-documented.
 *   **Scythian Campaign Outcome:** The success of Darius's 513 BCE campaign against the Scythians is debated; while he built forts and forced a retreat, he did not achieve a decisive victory or lasting control.
+
+Source: adapted from "Darius the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Darius_the_Great

@@ -40,3 +40,5 @@ Under the Pahlavi dynasty, Mashhad saw modernization, including new hospitals, f
 *   The exact ancient origins of the site are debated, with some sources linking it to Alexander the Great and others to the Parthian city of Patigrabanâ.
 *   The city's name evolved over time from Sanabad to Mashhad al-Rida, with the shortened "Mashhad" becoming common later.
 *   The political and social impact of the Astan Quds Razavi's immense economic power is a subject of ongoing discussion regarding its role in the city's development and governance.
+
+Source: adapted from "Mashhad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mashhad

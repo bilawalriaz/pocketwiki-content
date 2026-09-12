@@ -55,3 +55,5 @@ The city is served by Sri Guru Ram Das Ji International Airport and the busy Amr
 - The death toll of the Jallianwala Bagh massacre is disputed between British and Indian sources.
 - The justification for the timing and style of Operation Blue Star is "hotly debated."
 - The exact number of casualties during Operation Blue Star varies widely between official and independent estimates.
+
+Source: adapted from "Amritsar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amritsar

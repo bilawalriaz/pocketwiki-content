@@ -44,3 +44,5 @@ New Orleans's economy is driven by its port, tourism, and conventions. The city 
 - The precise rate and impact of land subsidence in the New Orleans area are debated, with studies offering varying conclusions on its severity and causes.
 - The long-term viability of the city's flood protection system is questioned, as levees cannot provide absolute protection against extreme events, especially with rising sea levels.
 - The social and demographic impacts of post-Katrina recovery are contested, with ongoing concerns about gentrification, displacement, and racial equity.
+
+Source: adapted from "New Orleans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_Orleans

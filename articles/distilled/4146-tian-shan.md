@@ -43,3 +43,5 @@ The Tian Shan is sacred in Tengrism, a Central Asian shamanistic religion. Its s
 ## Debates and Open questions
 - The precise origin of the Black Death pandemic is debated, with one hypothesis placing its source in the Tian Shan region.
 - The exact historical reference for the name "Tian Shan" is uncertain; it may relate to the Xiongnu word *Qilian* for "sky" or "heaven," but this is not definitively proven.
+
+Source: adapted from "Tian Shan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tian_Shan

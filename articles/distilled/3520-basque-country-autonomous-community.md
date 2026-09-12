@@ -44,3 +44,5 @@ Basque culture is renowned for its cuisine, with San Sebastián considered a wor
 - **Constitutional Legitimacy**: Many Basques argue they are not bound by the 1978 Spanish Constitution due to high abstention and opposition during its ratification.
 - **Territorial Integration**: The statute allows for neighboring Navarre to join the community, a point of contention. The status of the enclaves Treviño and Valle de Villaverde is also a recurring political issue.
 - **Police Presence**: Despite ETA's ceasefire, the Basque Country has the highest rate of police per capita in Western Europe, leading to debates about the necessity of Spanish national police forces.
+
+Source: adapted from "Basque Country (autonomous community)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Basque_Country_%28autonomous_community%29

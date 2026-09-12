@@ -36,3 +36,5 @@ Memory B cells can persist for decades without continued antigen exposure or T-c
 ## Vaccination and clinical relevance
 
 Vaccines work by exploiting this compartment: a non-pathogenic antigen triggers a primary response that generates long-lived plasma cells and memory B cells, so that real infection is met with an accelerated secondary response and is cleared before it causes disease. Booster shots refresh and broaden the pool. Higher counts of memory B cells in the blood have been linked to a lower relapse risk in non-small-cell lung cancer patients treated with perioperative chemoimmunotherapy, and the smallpox-specific memory B cell pool has been detectable for decades after DryVax vaccination in the absence of restimulation.
+
+Source: adapted from "Memory B cell" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Memory_B_cell

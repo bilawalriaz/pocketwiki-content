@@ -63,3 +63,5 @@ Under a mirror reflection (orientation reversal), most vectors (displacement, ve
 ## Generalizations
 
 The algebraic rules (addition, scaling, dot product) generalize to $\mathbb{R}^n$ and abstract vector spaces. The cross product does not; its higher-dimensional analogue is the exterior product, yielding bivectors. In a pseudo-Euclidean space (e.g., Minkowski space of special relativity) the squared length can be negative. In thermodynamics and other fields, vectors live in spaces without a natural length or angle: affine spaces for bound vectors, vector spaces for free vectors. A vector is a rank-1 contravariant tensor; tensors generalize the transformation behavior to higher ranks.
+
+Source: adapted from "Euclidean vector" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Euclidean_vector

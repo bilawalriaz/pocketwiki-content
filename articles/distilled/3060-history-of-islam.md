@@ -46,3 +46,5 @@ The early modern period (15th–18th centuries) was dominated by three "gunpowde
 - **Muhammad's Intentions:** Debate over whether Muhammad intended a universal religion or primarily Arab monotheistic reform, citing Quran's Arabic focus and interfaith accommodations.
 - **Nature of Early Conquests:** Historians debate if early conquests were driven by religious zeal, economic motives, or secular expansionism, with religious narratives possibly constructed retrospectively.
 - **Sectarian Origins:** The timing and causes of the Sunni-Shi'a split are debated, from immediate political dispute to gradual theological differentiation over centuries.
+
+Source: adapted from "History of Islam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Islam

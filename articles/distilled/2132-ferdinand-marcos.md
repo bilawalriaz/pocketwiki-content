@@ -45,3 +45,5 @@ The Marcos regime committed widespread human rights abuses, including extrajudic
 *   **Marcos's War Record:** Marcos claimed to be the most decorated Filipino war hero of World War II. These claims have been widely debunked by researchers and official records.
 *   **The Jabidah Massacre (1968):** While the massacre of Moro recruits is documented, the full extent of official involvement and its direct link to Marcos's orders remains a point of historical investigation.
 *   **Scale of Stolen Wealth:** While estimates range from $5 billion to $10 billion, the precise total and the full extent of hidden assets remain unknown due to the complexity of the financial networks used.
+
+Source: adapted from "Ferdinand Marcos" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ferdinand_Marcos

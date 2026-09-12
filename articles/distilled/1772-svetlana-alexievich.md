@@ -38,3 +38,5 @@ Alexievich has faced persistent political pressure in Belarus. *Zinky Boys* led 
 *   **Genre Classification:** Alexievich rejects the label of journalist, preferring "documentary literature." Her work sits at the intersection of journalism, sociology, psychology, and literature, sparking debate about its precise genre.
 *   **Accuracy and Purpose:** Her book *Zinky Boys* led to trials where she was accused of "distorting and falsifying" testimonies. The Belarus League for Human Rights claimed such cases were politically motivated attempts to preserve old ideology.
 *   **Political Impact:** Her exile in 2020 and the subsequent removal of her work from school curricula highlight the ongoing conflict between her documentation of state-sponsored trauma and the Belarusian government's narrative.
+
+Source: adapted from "Svetlana Alexievich" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Svetlana_Alexievich

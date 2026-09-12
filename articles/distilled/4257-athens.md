@@ -49,3 +49,5 @@ Athens is a global archaeological hub, home to the National Archaeological Museu
 ## Debates and Open Questions
 *   The exact impact of Emperor Justinian I's 529 AD ban on pagan philosophy teaching in Athens is much debated by historians.
 *   The origin of the city's name is debated; modern scholars generally agree the goddess Athena was named after the city, not vice versa, but the name's root is possibly pre-Greek.
+
+Source: adapted from "Athens" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Athens

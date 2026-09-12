@@ -45,3 +45,5 @@ The destruction of Ugarit is a key chronological marker for the end of the Bronz
 - The precise logic behind the design and ordering of the Ugaritic alphabet's letters is still unknown.
 - The relationship between the Ugaritic and Phoenician alphabets is not fully understood; they may share a common ancestor but are not direct derivatives.
 - The identification of the "Temple of Rhyton" as a possible Temple of El is based on a single statue and is not conclusive.
+
+Source: adapted from "Ugarit" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ugarit

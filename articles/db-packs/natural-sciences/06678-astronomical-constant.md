@@ -65,3 +65,5 @@ A few widely used quantities are not part of the IAU's adopted list but appear i
 ## A limitation of the 1976 values
 
 The tabulated precession, obliquity, aberration, and nutation values were fixed with the 1976 system. Modern theories of precession and nutation have improved, and the definition of the ecliptic has shifted with them. The numbers above remain correct within the older framework, but current work uses a larger set of constants tied to present models.
+
+Source: adapted from "Astronomical constant" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomical_constant

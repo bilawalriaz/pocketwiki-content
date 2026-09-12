@@ -31,3 +31,5 @@ Scratch draws on Logo, Smalltalk, HyperCard, and AgentSheets. The prototype Scra
 | 3.0 | 2 January 2019 | HTML5 and JavaScript, built on Google's Blockly library |
 
 Scratch 3.0 replaced Flash after Adobe dropped support at the end of 2020 and added software-based extensions alongside hardware ones. Project files use `.sb3`, essentially a zip archive containing JSON plus `.wav` sounds and `.png` images; older versions used `.sb` and `.sb2`. In 2023 the site adopted purple headers and higher-contrast block colors to help colorblind users. Scratch has influenced Snap! (a Berkeley variant with first-class procedures and lists), mBlock, Catrobat, ScratchJr (a rewrite for ages 5–7), and TurtleStitch; open-source forks such as TurboWarp compile projects to JavaScript for faster execution. In August 2020, China blocked access to the site.
+
+Source: adapted from "Scratch (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scratch_%28programming_language%29

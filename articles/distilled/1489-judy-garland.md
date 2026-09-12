@@ -58,3 +58,5 @@ A lifelong Democrat, Garland supported FDR, Adlai Stevenson, JFK, RFK, and Henry
 - **Cirrhosis and alcoholism**: A British specialist at autopsy claimed cirrhosis from alcoholism; a second autopsy found no evidence. The discrepancy remains unresolved in biographies.
 - **Financial collapse causes**: Sources cite IRS debts (unpaid 1951–52 taxes), *A Star Is Born* losses, agent embezzlement (Fields, Begelman), and Garland’s generosity. The relative weight of mismanagement vs. personal spending is debated.
 - **Legacy as "tragic figure" vs. resilient artist**: Garland and daughter Lorna Luft rejected the "tragic" label, emphasizing her humor, warmth, and triumphs. Critics like Camille Paglia argue her art *required* the chaos; others (e.g., William Ruhlmann) warn the tragedy narrative obscures her multimedia accomplishments.
+
+Source: adapted from "Judy Garland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Judy_Garland

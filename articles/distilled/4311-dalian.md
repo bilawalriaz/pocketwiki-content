@@ -44,3 +44,5 @@ Dalian's culture reflects its history of migration from Shandong and foreign occ
 ## Debates and Open Questions
 - The exact scale of the 2010 Dalian oil spill is debated, with official figures at 11,000 barrels and independent estimates suggesting it could be much higher.
 - The environmental and long-term health impacts of the oil spill and the 2011 petrochemical plant breach remain a concern.
+
+Source: adapted from "Dalian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dalian

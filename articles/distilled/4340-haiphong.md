@@ -37,3 +37,5 @@ Haiphong is Vietnam's third-most populous city, with a 2015 metropolitan populat
 
 ## Debates and Open questions
 The source does not detail specific scholarly debates, but the city's development trajectory—balancing rapid industrialization with environmental concerns over its coastal ecosystems—represents an ongoing practical challenge. The recent provincial merger also raises questions about administrative integration and future economic planning.
+
+Source: adapted from "Haiphong" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Haiphong

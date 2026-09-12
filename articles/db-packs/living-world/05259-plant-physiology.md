@@ -37,3 +37,5 @@ Plants face viruses, bacteria, fungi, insects, and roundworms. Because they cann
 ## Brief history
 
 Jan Baptist van Helmont's 1648 willow experiment is the first quantitative experiment in plant physiology: a willow grew in 200 pounds of oven-dry soil for five years and the soil lost only two ounces, leading him to conclude that plant mass comes from water, not soil. Stephen Hales is called the father of plant physiology for his 1727 *Vegetable Staticks*, and Julius von Sachs later unified the discipline through his *Lehrbuch der Botanik*. Nineteenth-century researchers established that plants absorb mineral nutrients as inorganic ions in water, the basis of hydroponics.
+
+Source: adapted from "Plant physiology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_physiology

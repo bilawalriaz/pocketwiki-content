@@ -42,3 +42,5 @@ Responses included maritime quarantines, social distancing measures (closing sch
 - **High Young Adult Mortality**: The reason for the unusually high death rate among young adults is debated, with the cytokine storm theory being prominent but not universally accepted.
 - **Mortality Estimates**: The total global death toll is highly contested, with estimates ranging from 17 million to over 100 million, reflecting challenges in historical data.
 - **Role of Climate**: The influence of a severe climate anomaly (1914–1919) on the pandemic's severity and spread is a subject of ongoing research.
+
+Source: adapted from "Spanish flu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_flu

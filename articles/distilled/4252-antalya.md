@@ -46,3 +46,5 @@ Antalya's cuisine features dishes like Piyaz and şiş köfte. The city hosts th
 
 ## Debates and Open Questions
 The source notes that the exact location of Antalya's historic Jewish synagogue is unknown and it may no longer exist. It also mentions that some bishops attributed to the episcopal see of Attaleia in Pamphylia may have been from a different Attalea in Lydia, indicating a historical ambiguity in ecclesiastical records.
+
+Source: adapted from "Antalya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antalya

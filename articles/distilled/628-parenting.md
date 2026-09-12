@@ -88,3 +88,5 @@ Obligations: home, food, security, education, healthy atmosphere. **Universal De
 *   **Generalizability:** Need for further research to increase generalizability of ethnic-racial socialization findings across diverse populations.
 *   **Material Parenting Long-term Effects:** Emerging concerns link material rewards to adult overconsumption, reduced self-esteem, marital issues, and financial hardship; causal pathways require clarification.
 *   **Trustful vs. Directive Histories:** Gray’s evolutionary claim (trustful = hunter-gatherer norm; directive = agriculture/industry) contrasts with modern "directive-protective" dominance; empirical validation of historical prevalence is debated.
+
+Source: adapted from "Parenting" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Parenting

@@ -43,3 +43,5 @@ Mamluk systems existed elsewhere, including the Delhi Sultanate (1206–1290) in
 *   **Ghilman vs. Mamluk**: Historians debate the distinction between the earlier *Ghilman* system and the later, more systematic Mamluk institution. The current consensus suggests the Mamluk system was a later, more organized development.
 *   **Impact on Political Development**: Scholars argue that the Mamluk system allowed Muslim rulers to bypass local elites, which may have hindered the development of representative government compared to Europe, where rulers relied on local lords for military forces.
 *   **Mamluk Identity**: The extent to which Mamluks maintained ties to their homelands (e.g., Georgian Mamluks sending money and gifts to family) versus forming a new, exclusive identity is a subject of study.
+
+Source: adapted from "Mamluk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mamluk

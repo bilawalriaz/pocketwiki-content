@@ -53,3 +53,5 @@ Raman married Lokasundari Ammal in 1907. He was an agnostic who wore traditional
 - **Role of K. S. Krishnan**: Krishnan was the primary researcher in the experiments leading to the Raman effect's discovery and co-authored most related papers, but he was not included in the Nobel Prize. Raman later acknowledged Krishnan as a co-discoverer but publicly disparaged him.
 - **Raman–Born controversy**: A decades-long dispute over the correct theory of lattice dynamics. Most physicists supported Born's theory, which was later validated, but Raman refused to concede.
 - **Views on women in science**: Raman's initial refusal to admit Kamala Sohonie to IISc because of her gender reflects the broader historical bias against women in scientific research during that era.
+
+Source: adapted from "C. V. Raman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/C._V._Raman

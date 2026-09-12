@@ -57,3 +57,5 @@ The population is predominantly Romanian (89.33%), with significant Hungarian an
 *   **Origin of the Romanians:** The central debate is between the Daco-Roman continuity theory (an unbroken Latin-speaking presence north of the Danube) and theories of a later migration from the Balkans in the 11th century.
 *   **Reliability of medieval sources:** The accuracy of chronicles like the *Gesta Hungarorum* regarding early medieval Transylvania's ethnic composition is debated.
 *   **Democratic health:** International assessments rate Romania as a "flawed democracy," with debates about the effectiveness of anti-corruption efforts and political stability.
+
+Source: adapted from "Romania" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Romania

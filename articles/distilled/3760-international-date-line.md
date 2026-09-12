@@ -45,3 +45,5 @@ Most Christian churches recognize the IDL, celebrating holidays like Christmas o
 - The precise course of the IDL in international waters is arbitrary and not fixed by treaty, leading to cartographic inconsistencies.
 - Religious communities near the IDL, particularly Seventh-day Adventists, debate which day constitutes the true Sabbath due to the line's artificial imposition on the natural day-night cycle.
 - The 1917 nautical date line convention remains legally valid, but modern maps often do not depict it, instead following national *de facto* boundaries.
+
+Source: adapted from "International Date Line" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/International_Date_Line

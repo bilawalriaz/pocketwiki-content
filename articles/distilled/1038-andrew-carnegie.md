@@ -74,3 +74,5 @@ Influenced by John Bright, Carnegie opposed military intervention and American c
 - **Library design and control**: While Carnegie funded 3,000 libraries, historians (e.g., Van Slyck, White) argue the buildings reinforced paternalistic civic pride and that library boards (often dominated by mill managers) controlled reading material, limiting worker autonomy.
 - **Homestead responsibility**: Though Carnegie was in Scotland during the 1892 strike, he authorized Frick’s hardline strategy; debate persists over his moral culpability for the violence and union-breaking.
 - **Peace advocacy vs. war profits**: Carnegie’s steel mills supplied armor plate for the U.S. Navy expansion in the 1880s–90s while he publicly championed pacifism and arbitration—a contradiction he never fully resolved.
+
+Source: adapted from "Andrew Carnegie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andrew_Carnegie

@@ -29,3 +29,5 @@ What followed was an Italian Civil War fought alongside the Allied advance. Germ
 ## Strategic debates
 
 Three debates remain about the theatre's significance. Historians still argue whether the German rescue of Italy in the Balkans in spring 1941, by forcing a delay to the invasion of the Soviet Union, helped doom Barbarossa. Others question whether the Allied "soft underbelly" strategy through the Mediterranean was wiser than an earlier direct cross-Channel invasion of France. The label "Italian Civil War" for 1943–45, popularised by Claudio Pavone in 1991, is also still contested in Italian memory politics.
+
+Source: adapted from "Mediterranean and Middle East theatre of World War II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mediterranean_and_Middle_East_theatre_of_World_War_II

@@ -54,3 +54,5 @@ Cultural institutions include the Uganda Museum, the National Theatre, and the U
 - The effectiveness of Kampala's urban planning is debated, as multiple physical plans (1947, 1951, 1972, 1994) were never fully implemented due to political and economic turmoil.
 - The city faces ongoing challenges with traffic congestion, informal settlements, and the management of its wetlands, which are used for urban agriculture but are ecologically sensitive.
 - The balance of control between the central government (via KCCA) and local authorities remains a point of administrative discussion.
+
+Source: adapted from "Kampala" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kampala

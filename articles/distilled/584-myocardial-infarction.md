@@ -67,3 +67,5 @@ Media depictions (sudden collapse) misrepresent typical symptoms, delaying care-
 - **Very early invasive strategy for NSTEMI:** 2017 review found no mortality benefit for immediate (<24h) vs. delayed (1–3 days) PCI; optimal timing remains debated.
 - **Duration of DAPT:** Optimal length beyond 12 months uncertain; trials test extended vs. shortened regimens balancing ischemic vs. bleeding risk.
 - **Social determinants:** Mechanisms linking neighborhood disadvantage, race, and insurance status to biology (stress, access, treatment bias) need further elucidation to design effective interventions.
+
+Source: adapted from "Myocardial infarction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Myocardial_infarction

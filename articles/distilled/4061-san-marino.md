@@ -49,3 +49,5 @@ The country has a rich tradition in music and hosts museums dedicated to its his
 *   The traditional founding date of AD 301 is based on accounts recorded centuries later and is considered a mixture of "fables and miracles," though a monastic community is evidenced by the 5th or 6th century.
 *   The exact nature and extent of Papal control after San Marino sought formal protection in 1631 is unclear, as it "never amounted to a de facto Papal control."
 *   The future of San Marino's relationship with the European Union remains a topic, as it uses the euro but is not a member.
+
+Source: adapted from "San Marino" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/San_Marino

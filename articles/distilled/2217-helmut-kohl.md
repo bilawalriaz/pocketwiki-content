@@ -43,3 +43,5 @@ Domestically, Kohl's policies focused on integrating the former East Germany, a 
 - **Reunification Policy**: The decision to allow a 1:1 exchange rate for wages and savings between the East and West German marks is debated for its long-term economic impact on the new federal states.
 - **Political Style**: Kohl was often criticized for a lack of charisma and a provincial image, yet his personal networks and tenacity were key to his political success.
 - **Post-Chancellorship Controversies**: His 2008 marriage to Maike Richter while incapacitated led to a public family feud and questions about his final years, including his estrangement from his sons.
+
+Source: adapted from "Helmut Kohl" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Helmut_Kohl

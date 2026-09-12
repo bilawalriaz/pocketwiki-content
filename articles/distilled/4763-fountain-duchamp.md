@@ -44,3 +44,5 @@ Duchamp's authorship has been contested. In a 1917 letter, he wrote that "one of
 - **Originality of the Object**: Is the specific urinal model a unique Philadelphia product, as argued by Glyn Thompson, contradicting Duchamp's claim of purchasing it from J. L. Mott Iron Works in New York?
 - **Meaning of the Signature**: Does "R. Mutt" primarily reference the Mott company, the *Mutt and Jeff* comic, a German pun, or French slang?
 - **Status as Art**: Does the act of selection and recontextualization alone qualify an ordinary object as a work of art, or does this represent an "arrogant" overreach of artistic privilege?
+
+Source: adapted from "Fountain (Duchamp)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fountain_%28Duchamp%29

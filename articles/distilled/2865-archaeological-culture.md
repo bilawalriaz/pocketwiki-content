@@ -35,3 +35,5 @@ The concept has been criticized for assuming a straightforward link between mate
 
 ## Debates and Open Questions
 The primary debate concerns the epistemological validity of equating archaeological cultures with past human societies, ethnic groups, or political entities. Critics argue the concept is "idealist" and treats culture as a static assemblage of ideas, while proponents find it a necessary classifying tool. There is ongoing discussion about whether material culture differences reflect distinct peoples or are due to environmental factors, lifestyle variations, or other non-ethnic causes.
+
+Source: adapted from "Archaeological culture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Archaeological_culture

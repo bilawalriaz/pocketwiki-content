@@ -47,3 +47,5 @@ Nairobi is known as the "Green City under the Sun" for its many parks and green 
 - **Population of Kibera**: There is a significant discrepancy between the Kenyan government's official population count (185,777) and non-governmental estimates (500,000 to 1,000,000) for the Kibera slum.
 - **Urban Planning and Public Space**: The colonial-era 1948 Master Plan, designed for 250,000 people, still guides planning. Rapid growth has led to the loss of public spaces, such as City Park losing approximately 20 hectares to private development.
 - **Water Supply Security**: With 40% of piped water lost to distribution and only 40% of house connections receiving water continuously, the city's water supply system faces significant efficiency and equity challenges.
+
+Source: adapted from "Nairobi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nairobi

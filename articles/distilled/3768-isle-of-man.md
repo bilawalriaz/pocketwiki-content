@@ -40,3 +40,5 @@ The Manx are a Celtic nation, with culture influenced by Norse and British tradi
 - The exact origin of the island's name is debated; it may derive from the Brittonic *Manaua* ("mountain island") or be associated with the sea god Manannán mac Lir, though the latter is considered less likely.
 - The historical extent of Northumbrian and later English influence on the island is unclear, as few Old English place names exist.
 - The impact of legal measures to combat money laundering and financial crime remains uncertain, and as of 2023, the island was not fully compliant with international anti-money laundering standards.
+
+Source: adapted from "Isle of Man" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Isle_of_Man

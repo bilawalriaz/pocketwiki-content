@@ -41,3 +41,5 @@ The modern drum kit typically includes a **crash** cymbal for accents, a **ride*
 
 ## Debates and Open questions
 The exact origin and initial spread of cymbals are not definitively known, with evidence pointing to multiple ancient civilizations. The *Shahnameh* refers to cymbals as "Indian," but does not claim they are Persian in origin, leaving their precise path of cultural transmission open to scholarly interpretation.
+
+Source: adapted from "Cymbal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cymbal

@@ -49,3 +49,5 @@ Xinjiang's economy is driven by agriculture (notably cotton), mining (coal, oil,
 - **Human Rights**: The Chinese government describes its policies as counter-terrorism and vocational education, while critics and international bodies have documented mass detention and cultural suppression, with some alleging genocide.
 - **Demographic Change**: The shift in ethnic composition due to Han migration is viewed by the government as economic development but by Uyghur activists as a threat to their cultural survival.
 - **Economic Development**: The benefits of Xinjiang's resource wealth and infrastructure projects are debated, with concerns over equitable distribution and the role of forced labor in industries like cotton and polysilicon production.
+
+Source: adapted from "Xinjiang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Xinjiang

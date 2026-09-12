@@ -46,3 +46,5 @@ The revolution had profound domestic and international effects. Domestically, it
 *   **Khomeini's Intentions:** There is debate over whether Khomeini always intended to establish a theocracy or if he used the democratic rhetoric of the revolution to gain power, only revealing his full plan later.
 *   **Role of the U.S.:** The extent of U.S. responsibility is debated. Some argue American support for the Shah created the conditions for revolution, while others focus on the Carter administration's confused and contradictory policies during the crisis, which may have inadvertently facilitated Khomeini's rise.
 *   **Popular Support:** While the revolution had massive popular mobilization, the degree of genuine, widespread support for Khomeini's specific vision of an Islamic Republic versus opposition to the Shah is contested. The 98% referendum result is often viewed with skepticism.
+
+Source: adapted from "Iranian Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iranian_Revolution

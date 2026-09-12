@@ -50,3 +50,5 @@ The North Eastern Council (NEC), under the Ministry of Development of North East
 - The exact cause of the escalation into the 1962 Sino-Indian War is still disputed by both Chinese and Indian sources.
 - The impact of jhum cultivation on forest cover is debated; while often cited as a reason for loss, it is also a traditional system supporting diverse crop cultivation.
 - The effectiveness of the "Act East" policy and various connectivity projects in overcoming the region's geographical and infrastructural isolation for economic development remains a key question.
+
+Source: adapted from "Northeast India" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Northeast_India

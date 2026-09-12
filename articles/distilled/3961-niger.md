@@ -46,3 +46,5 @@ Niger's economy is based on subsistence agriculture and uranium mining; it was t
 - The origin of the Niger River's name is uncertain, with theories linking it to a Tuareg phrase or the writings of Ptolemy, but not the Latin word for "black."
 - The exact number of deaths during the 1990–1995 Tuareg Rebellion is disputed, with estimates ranging from 70 to 1,000.
 - The 2023 coup and the junta's subsequent pivot away from France and the West towards Russia (including cooperation with the Wagner Group) represent a major, ongoing shift in Niger's foreign relations and geopolitical alignment.
+
+Source: adapted from "Niger" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Niger

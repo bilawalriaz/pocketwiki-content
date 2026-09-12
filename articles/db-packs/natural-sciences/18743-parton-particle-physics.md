@@ -23,3 +23,5 @@ Generalized parton distributions (GPDs) extend PDFs by adding transverse momentu
 ## Simulation
 
 Parton showers are central to computational particle physics, especially at the Large Hadron Collider. Monte Carlo event generators such as PYTHIA and HERWIG evolve a hard scattering into a parton shower down to a fixed scale, at which point hadronization, the recombination of partons into observable hadrons, takes over. These simulations calibrate detectors and interpret collision data.
+
+Source: adapted from "Parton (particle physics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Parton_%28particle_physics%29

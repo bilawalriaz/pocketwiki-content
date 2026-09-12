@@ -41,3 +41,5 @@ Cahokia's decline began in the late 12th century. Scholars propose multiple, int
 - **Social Integration**: Scholars debate how well the large immigrant population was integrated. Evidence of separate burials suggests possible ethnic segregation and weak social cohesion.
 - **Function of the Palisade**: Whether the large palisade built c. 1175 CE was primarily for defense against warfare or for ritual/formal separation of sacred space is contested.
 - **Population Estimates**: The peak population is highly variable, with estimates ranging from 6,000 to 40,000, significantly impacting interpretations of the city's scale and influence.
+
+Source: adapted from "Cahokia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cahokia

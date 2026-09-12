@@ -50,3 +50,5 @@ Thatcher's authority was undermined by the poll tax riots, her opposition to Eur
 *   **Social Impact:** Was she a necessary reformer who broke the power of vested interests, or a divisive figure who condoned greed and exacerbated social divisions?
 *   **Political Realignment:** To what extent did she permanently reshape British politics, forcing even the Labour Party under Tony Blair to accept the core tenets of her economic revolution?
 *   **European Policy:** Was her opposition to deeper European integration a principled defence of national sovereignty, or a damaging and isolationist stance?
+
+Source: adapted from "Margaret Thatcher" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Margaret_Thatcher

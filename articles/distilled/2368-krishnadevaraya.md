@@ -40,3 +40,5 @@ Krishnadevaraya was a devout Hindu who respected all sects. He rebuilt temples, 
 
 ## Debates and Open Questions
 The primary scholarly debate concerns Krishnadevaraya's religious affiliation. While his patronage of the Tirumala temple and the content of his *Amuktamalyada* suggest strong Sri Vaishnava leanings, historical texts from the Madhva tradition assert that the scholar Vyasatirtha was his official royal guru. This discrepancy highlights the complex interplay of personal devotion, political strategy, and sectarian patronage in his court.
+
+Source: adapted from "Krishnadevaraya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Krishnadevaraya

@@ -31,3 +31,5 @@ Geological maps that show where each formation reaches the surface are central t
 Formations can be usefully defined for sedimentary rocks, low-grade metamorphic rocks, and volcanic rocks. Intrusive igneous rocks and highly metamorphosed rocks are generally excluded and are described instead as lithodemes, units defined by similar lithology but without stratigraphic position.
 
 Informally, the word "formation" is also used for shapes produced by erosion or deposition, such as stalactites and stalagmites in caves, and these informal formations persist only as long as the geologic agent that produced them remains active.
+
+Source: adapted from "Geological formation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geological_formation

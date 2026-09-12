@@ -46,3 +46,5 @@ Mary's arrival in England placed Elizabeth in a difficult position: Mary was a f
 *   **The Casket Letters:** Their authenticity is the central historical controversy. Historians are divided on whether they are complete forgeries, altered genuine letters, or written by Mary to Bothwell. The originals were likely destroyed in 1584.
 *   **Mary's Complicity:** There is no concrete proof of her direct involvement in Darnley's murder. Accusations rest on circumstantial evidence and the disputed casket letters. Historian Jenny Wormald argued Mary was a "tragic failure" unable to cope with her circumstances, while others see her as a pawn of scheming nobles.
 *   **Elizabeth's Role:** Elizabeth's handling of Mary's captivity and execution is debated. She appeared to vacillate, possibly to avoid the stain of executing a fellow monarch while allowing her council to act decisively.
+
+Source: adapted from "Mary, Queen of Scots" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mary%2C_Queen_of_Scots

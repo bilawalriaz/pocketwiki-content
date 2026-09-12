@@ -95,3 +95,5 @@ Muhammad’s marital life divides into pre-*Hijra* (Khadija only) and post-*Hijr
 - **Nature of the Constitution of Medina:** Disputed whether it was a unilateral proclamation or mutual treaty, a single document or composite, drafted before or after the Jewish expulsions, and its precise legal character.
 - **Banu Qurayza massacre scale:** Ibn Ishaq reports 600–900 men executed; Arafat and Ahmad argue this conflates later Jewish massacre memories and that only fighters were killed or enslaved; Watt and Kister defend the general reliability of the tradition.
 - **Satanic Verses incident:** Early biographers (Ibn Ishaq, al-Tabari) record Muhammad temporarily reciting verses honoring pagan goddesses, then retracting them; 20th-century Muslim scholars
+
+Source: adapted from "Muhammad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muhammad

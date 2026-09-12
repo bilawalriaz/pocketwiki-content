@@ -48,3 +48,5 @@ After the Second Italo-Ethiopian War (1935–1936), Italy occupied Ethiopia and 
 - The identity of the last Zagwe king overthrown by Yekuno Amlak is debated; scholars like Taddesse Tamrat argue it was Yetbarak, while Getatchew Mekonnen Hasen states it was Na'akueto La'ab.
 - The precise nature and impact of the Oromo migrations on the empire's southern territories remain subjects of scholarly discussion.
 - The causes of the *Zemene Mesafint* are complex, involving dynastic struggles, religious conflict, and the rise of regional military elites.
+
+Source: adapted from "Ethiopian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ethiopian_Empire

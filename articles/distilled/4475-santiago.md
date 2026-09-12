@@ -45,3 +45,5 @@ Santiago lies in the Santiago Basin, a bowl-shaped valley flanked by the Andes t
 *   The source notes that socioeconomic inequality and geosocial fragmentation remain major problems in Santiago and were key factors leading to the "Estallido Social" protests.
 *   The implementation and effectiveness of mandatory earthquake standards in modern architecture became a topic of heated discussion after the 2010 earthquake caused damage to some newer buildings.
 *   The Transantiago public transportation system faced significant criticism and challenges after its 2007 launch, including complaints about lack of buses, excessive transfers, and high fare evasion.
+
+Source: adapted from "Santiago" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Santiago

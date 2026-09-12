@@ -40,3 +40,5 @@ The **Welsh Language (Wales) Measure 2011** confirmed official status, created t
 ## Global presence
 
 **Patagonian Welsh** (1,500–5,000 speakers) originated with the 1865 *Y Wladfa* settlement in Chubut Province, Argentina; it incorporates Spanish loans and a decimal counting system later adopted in Wales. Communities persist in England (~110,000), the US (2,003), Canada (1,130 mother-tongue), Australia (1,737), and New Zealand (1,083). A Welsh greeting—*Iechyd da i chwi yn awr ac yn oesoedd* (“Good health to you now and forever”)—travels aboard the Voyager Golden Record.
+
+Source: adapted from "Welsh language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Welsh_language

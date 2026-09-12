@@ -42,3 +42,5 @@ Warming continued to research plant life-forms, publishing a classification syst
 - **Priority in ecology:** While ecologist Robert J. Goodland called Warming the founder of ecology, the field's development involved multiple contributors. Warming's 1895 book is a landmark, but the German ecologist A.F.W. Schimper published a similar work in 1898 that leaned heavily on Warming's research without proper acknowledgment.
 - **Evolutionary mechanisms:** Warming's Lamarckian views placed him at odds with the emerging Darwinian synthesis. He questioned the role of natural selection as the primary driver of evolution, emphasizing inheritance of acquired characters and hybridization instead.
 - **Life-form classification:** Warming developed his own complex life-form system, but his student Christen Raunkiær later proposed a simpler, more widely adopted scheme. Warming did not approve of what he saw as Raunkiær's over-simplification.
+
+Source: adapted from "Eugenius Warming" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eugenius_Warming

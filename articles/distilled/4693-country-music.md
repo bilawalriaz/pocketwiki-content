@@ -45,3 +45,5 @@ Country music has often been associated with conservative, patriotic, and workin
 - **Race and Inclusion:** The genre's multicultural origins contrast with its modern association with white Americans, leading to debates about racial bias in the industry and on country radio.
 - **Genre Boundaries:** The increasing fusion of country with pop, rock, and hip-hop sparks ongoing debate about what constitutes "authentic" country music.
 - **Political Messaging:** While often associated with conservatism, the genre has a history of diverse political expression, and recent songs have sparked controversy over their perceived political messages.
+
+Source: adapted from "Country music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Country_music

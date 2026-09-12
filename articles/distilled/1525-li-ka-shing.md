@@ -80,3 +80,5 @@ The Li Ka Shing Foundation (1980) focuses on education, medical services, and re
 - Knight Commander of the Order of the British Empire
 - Commandeur, Légion d'honneur
 - Honorary Doctor of Laws, University of Hong Kong
+
+Source: adapted from "Li Ka-shing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Li_Ka-shing

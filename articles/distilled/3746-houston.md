@@ -55,3 +55,5 @@ Houston is an automobile-dependent city with an extensive freeway system. Public
 - **Impact of No Zoning**: Scholars and residents debate whether Houston's lack of formal zoning has contributed to urban sprawl and flooding, or has instead provided affordable housing and economic flexibility.
 - **Flooding and Development**: There is ongoing debate over the effectiveness of post-Harvey regulations requiring homes in floodplains to be elevated, and the tension between development pressures and flood risk management.
 - **Political Identity**: Houston is described as a politically divided city, with its balance of power often swaying between Republican and Democratic influences in a generally conservative state.
+
+Source: adapted from "Houston" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Houston

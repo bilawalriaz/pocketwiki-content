@@ -49,3 +49,5 @@ Peru declared the area a National Historic Sanctuary in 1981, and UNESCO named i
 *   **Original Name:** The site's original Inca name is not definitively known. A 2021 study suggests it may have been called "Huayna Picchu" or simply "Picchu," with the name "Machu Picchu" becoming associated with the ruins through Hiram Bingham's publications.
 *   **Function of the Intihuatana:** Scholars generally reject the popular idea that it served as a precise solar calendar gnomon. Its purpose may have been for horizontal solar observations or symbolic alignment with sacred mountains.
 *   **Discovery Credit:** The narrative of discovery is contested. While Hiram Bingham brought the site to global fame, Peruvian explorer Agustín Lizárraga reached it in 1902, and local populations were always aware of its existence.
+
+Source: adapted from "Machu Picchu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Machu_Picchu

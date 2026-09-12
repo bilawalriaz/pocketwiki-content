@@ -33,3 +33,5 @@ The lake is paramount to the identity, laws, and culture of the Délı̨nę peop
 
 ## Debates and open questions
 The source does not explicitly state ongoing scholarly debates. However, the cultural prophecy regarding the lake's future role in the world represents a significant open question about its long-term spiritual and ecological significance to the Délı̨nę people.
+
+Source: adapted from "Great Bear Lake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Bear_Lake

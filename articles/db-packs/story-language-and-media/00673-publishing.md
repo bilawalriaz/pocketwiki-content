@@ -21,3 +21,5 @@ Accessible publishing formats a work in XML and outputs it as large print, dysle
 ## The Antitrust Question
 
 In November 2020, ViacomCBS agreed to sell Simon & Schuster, the third-largest U.S. book publisher, to Penguin Random House, which would have created the world's largest publisher. On November 2, 2021, the U.S. Department of Justice sued to block the deal on antitrust grounds, arguing it would harm author compensation by reducing competition for manuscripts. On October 31, 2022, the D.C. District Court ruled for the government and imposed a permanent injunction. The case is the clearest recent example of consolidation pressure meeting legal resistance in publishing.
+
+Source: adapted from "Publishing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Publishing

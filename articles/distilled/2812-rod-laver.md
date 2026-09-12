@@ -47,3 +47,5 @@ Laver is frequently cited by experts and former champions as the greatest tennis
 ## Debates and open questions
 - **World No. 1 in 1970**: There was no clear-cut world No. 1 in 1970. Different journalists and panels ranked Ken Rosewall, John Newcombe, or Laver as the top player, with Laver winning the most titles and head-to-head records against the others.
 - **Greatest of all time**: While many experts rank Laver as the greatest player ever, others, including tennis promoter Jack Kramer, have placed him outside their top six. The debate continues, with modern comparisons often involving players like Roger Federer.
+
+Source: adapted from "Rod Laver" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rod_Laver

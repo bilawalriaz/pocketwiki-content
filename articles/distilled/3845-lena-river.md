@@ -33,3 +33,5 @@ The river's name is believed to derive from the Even-Evenk name *Elyu-Ene* ("the
 
 ## Debates and Open Questions
 The source text does not present explicit scholarly debates, but it notes a point of historical uncertainty: the naming of the island Ostrov Amerika-Kuba-Aryta. It was "perhaps named after the island of Cuba during Soviet times," but it is also "possible that the islands were named after the American Swan" (*Kuba* in Yakut).
+
+Source: adapted from "Lena River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lena_River

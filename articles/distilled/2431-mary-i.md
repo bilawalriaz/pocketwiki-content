@@ -44,3 +44,5 @@ Mary's reign was plagued by poor harvests, economic difficulties, and her own de
 - **Motivations for Persecution**: Was Mary's policy of burning heretics a sincere, if extreme, attempt to save souls and secure religious uniformity, or was it primarily a political tool to crush dissent?
 - **Historical Reputation**: To what extent has Mary's negative legacy been shaped by Protestant propaganda and misogynistic biases in contemporary and later sources?
 - **Effectiveness of Her Reign**: Did Mary's policies fail because they were fundamentally flawed, or because her short reign and external disasters (like poor harvests and the loss of Calais) prevented their success?
+
+Source: adapted from "Mary I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mary_I

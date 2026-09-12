@@ -54,3 +54,5 @@ Several contentious issues surround welfare policy:
 - **Role of private charity**: The US model relies heavily on non-profits and tax incentives, raising questions about equity and accountability compared to state-run systems.
 - **Sustainability under demographic change**: Aging populations strain pension and healthcare systems, particularly in developed nations.
 - **Digital governance and inclusion**: Technologies like India’s Aadhaar aim to improve targeting but raise privacy and access concerns.
+
+Source: adapted from "Welfare spending" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Welfare_spending

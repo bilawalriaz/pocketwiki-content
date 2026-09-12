@@ -44,3 +44,5 @@ Millikan was a devout Christian who argued for harmony between science and relig
 - **Data Selection:** Was Millikan's exclusion of some data points from his oil drop experiment legitimate scientific judgment or "cosmetic surgery" to reduce error and avoid controversy?
 - **Interpretation of Results:** Why did Millikan, despite providing definitive experimental proof for Einstein's photoelectric equation, resist accepting the photon theory of light for over a decade?
 - **Legacy Reckoning:** Should historical scientific figures be judged by the moral standards of their time, and how should institutions balance honoring scientific contributions against advocacy for harmful ideologies like eugenics?
+
+Source: adapted from "Robert Millikan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Millikan

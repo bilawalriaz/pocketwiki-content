@@ -79,3 +79,5 @@ Boccaccio wrote the first biography (*Vita di Dante*, post-1348), supplemented b
 - **Authorship of *Il Fiore* / *Detto d’Amore***: Attributed to Dante in some manuscripts; style suggests early novice work; scholarly consensus divided.
 - **Location of remains**: Bones hidden in false wall (17th–18th c.?); 1865 Ravenna exhumation confirmed skeleton; Florence’s Santa Croce tomb remains empty.
 - **Political sincerity in *Monarchia***: Debate whether Dante genuinely expected Henry VII to fulfill the role or used imperial theory to critique papal overreach.
+
+Source: adapted from "Dante Alighieri" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dante_Alighieri

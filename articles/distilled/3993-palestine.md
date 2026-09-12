@@ -45,3 +45,5 @@ Palestinian culture is an amalgamation of indigenous, Arab, and imperial influen
 *   **Right of Return:** The question of whether Palestinian refugees from the 1948 war and their descendants have a right to return to their former homes in what is now Israel is a major point of contention.
 *   **Settlements:** Israeli settlements in the occupied West Bank and East Jerusalem are considered illegal under international law by most of the international community, but Israel disputes this.
 *   **Governance Division:** The political split between the Fatah-led PA in the West Bank and Hamas in Gaza complicates Palestinian unity and negotiations with Israel.
+
+Source: adapted from "Palestine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Palestine

@@ -44,3 +44,5 @@ Given IID observations X₁, X₂, … from P_θ, the following results are the 
 - **Central limit theorem (CLT).** Under E[|f(X₁)|²] < ∞, the same sample-mean estimator is asymptotically normal: √n (θ̂ₙ − μ)/σ →d N(0, 1), where μ = E[f(X₁)] and σ² = Var(f(X₁)).
 - **Fisher–Tippet–Gnedenko theorem.** For estimators of the form max_{i=1,…,n} f(Xᵢ), after suitable centring and scaling the asymptotic distribution is a generalised extreme value distribution.
 - **Delta method.** If θ = f(τ) with ∇f(τ) ≠ 0 and τ̂ₙ is asymptotically normal for τ with variance V, then f(τ̂ₙ) is asymptotically normal for θ with variance ∇f(τ)ᵀ V ∇f(τ).
+
+Source: adapted from "Asymptotic theory (statistics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Asymptotic_theory_%28statistics%29

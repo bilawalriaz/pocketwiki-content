@@ -40,3 +40,5 @@ The Khanate was initially decentralized, governed through a system of appanages 
 
 ## Debates and Open Questions
 The sources note that the expression "92 Uzbek tribes" is used in 17th-century sources regarding the population, but the exact composition and political significance of these tribes is not detailed. The precise extent of the khan's authority versus that of the appanage holders fluctuated significantly over time, making the balance of power a central dynamic of the state's history.
+
+Source: adapted from "Khanate of Bukhara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khanate_of_Bukhara

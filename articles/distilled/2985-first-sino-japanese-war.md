@@ -39,3 +39,5 @@ The Treaty of Shimonoseki (17 April 1895) required China to recognize Korean ind
 - The extent to which the Qing defeat was caused by systemic corruption versus specific military failures remains a point of scholarly analysis.
 - The role of the Triple Intervention in shaping Japan's subsequent imperial ambitions and its decision to pursue a more aggressive foreign policy is widely debated.
 - Historians continue to examine the long-term impact of the war on the collapse of the Qing dynasty and the rise of Chinese nationalism.
+
+Source: adapted from "First Sino-Japanese War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/First_Sino-Japanese_War

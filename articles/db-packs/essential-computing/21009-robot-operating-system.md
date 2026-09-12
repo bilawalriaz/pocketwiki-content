@@ -46,3 +46,5 @@ ROS 2 ships a new distribution each May, aligned with Ubuntu LTS (Long-Term Supp
 ## Extending ROS
 
 Two notable extensions push ROS into adjacent domains. **ROS-Industrial**, founded in January 2012, ports ROS capabilities to factory robots from ABB, Fanuc, Motoman, and Universal Robots, maintained by regional consortia in the Americas, Europe, and Asia-Pacific. **Space ROS**, announced in November 2020, is a NASA and Blue Origin effort now led by PickNik and the Open Source Robotics Foundation that builds a ROS 2 derivative compliant with aerospace safety standards such as DO-178C.
+
+Source: adapted from "Robot Operating System" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robot_Operating_System

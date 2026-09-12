@@ -50,3 +50,5 @@ The dynasty used Prakrit (a Middle Indo-Aryan language) for inscriptions and cou
 - **Chronology**: The exact dates of rulers like Gautamiputra Satakarni are contested, with scholarly estimates varying by several decades.
 - **Varna Status**: The dynasty's social status is unclear; Puranic texts call them Shudra, while some inscriptions claim Brahmana status, leading to theories of varna mobility or later reinterpretation.
 - **Identity of Defeated Rulers**: It is debated which Satavahana ruler was defeated by the Western Satrap Rudradaman I, with candidates including Gautamiputra, Pulamavi, or a later king.
+
+Source: adapted from "Satavahana dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Satavahana_dynasty

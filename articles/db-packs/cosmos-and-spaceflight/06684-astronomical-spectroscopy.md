@@ -35,3 +35,5 @@ Galaxies' combined stellar spectra show Doppler shifts from their stars' motion.
 ## Planets, asteroids, and comets
 
 Planets and asteroids primarily reflect sunlight, but their thermal emission peaks in the infrared, and any atmosphere adds absorption and emission bands. Spectroscopy of over 3,500 exoplanets has detected alkali metals, water vapour, carbon monoxide, carbon dioxide, and methane. The Tholen classification (1984) sorts asteroids by spectral type: C-types are carbonaceous, S-types are silicate-rich, and X-types are metallic; the later SMASS scheme expanded this to 26 categories. Comets show a reflected solar spectrum from dust, plus emission lines from gases fluorescing in sunlight, notably cyanogen (CN) and the C₂ and C₃ carbon molecules. Nearby comets also emit X-rays when solar-wind ions are neutralised in the coma.
+
+Source: adapted from "Astronomical spectroscopy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomical_spectroscopy

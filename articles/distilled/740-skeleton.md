@@ -65,3 +65,5 @@ Cartilage is avascular connective tissue with chondrocytes in an extracellular m
 - Whether the number of human bones (206) should account for variable fusions (e.g., sacrum, coccyx).
 - The evolutionary transition from exoskeletons to endoskeletons in vertebrates remains debated.
 - The functional significance of sexual dimorphism in human pelvic anatomy beyond obstetric demands.
+
+Source: adapted from "Skeleton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Skeleton

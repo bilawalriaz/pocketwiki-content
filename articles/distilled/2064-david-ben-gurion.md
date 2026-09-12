@@ -49,3 +49,5 @@ Ben-Gurion resigned in 1963, partly due to political isolation and the unresolve
 *   **Intent of Plan Dalet:** Scholars are divided on whether Plan Dalet was a defensive military strategy or a deliberate plan for ethnic cleansing and territorial expansion.
 *   **1937 Letter:** A letter Ben-Gurion wrote to his son contains scribbled-out text that scholars interpret differently as either evidence of an intention to "expel the Arabs" or the opposite.
 *   **Conquest of the West Bank:** There is controversy over whether Ben-Gurion actively sought to conquer the West Bank during the 1948 war or if his proposals were more limited, with the Cabinet rejecting a broader offensive.
+
+Source: adapted from "David Ben-Gurion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/David_Ben-Gurion

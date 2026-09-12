@@ -47,3 +47,5 @@ After World War I, the monarchy collapsed in 1918. Following a brief communist r
 *   The precise nature of the relationship between the Kingdom of Hungary and the Kingdom of Croatia after 1102 is debated, with interpretations ranging from a personal union to a more integrated state.
 *   The historical justification and ethnic composition of the territories assigned by the Treaty of Trianon remain highly contested in Hungarian and neighboring historiographies.
 *   The degree of autonomy and the political character of the Principality of Transylvania during Ottoman suzerainty is a subject of ongoing scholarly analysis.
+
+Source: adapted from "Kingdom of Hungary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Hungary

@@ -42,3 +42,5 @@ The park spans five vegetation zones and supports over 250 vertebrate species. K
 - The proposal to dam the Hetch Hetchy Valley created a lasting conflict between preservationists (like John Muir) and those supporting utilitarian use of public lands for resources.
 - The National Park Service's historical treatment of Indigenous peoples, including evictions and cultural suppression, remains a point of contention and ongoing dialogue regarding sovereignty and recognition.
 - The impact of climate change on Yosemite's glaciers, ecosystems, and fire regimes presents ongoing scientific and management challenges.
+
+Source: adapted from "Yosemite National Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yosemite_National_Park

@@ -57,3 +57,5 @@ Beans have historically been a "food of the poor," providing protein for those u
 - **Toxin awareness:** Medical recognition of bean poisoning (beyond red kidney beans) remains limited; UK National Poisons Information Service did not flag non-red bean dangers as of 2008, suggesting widespread underreporting and misdiagnosis.
 - **Biodiversity loss:** Modern breeding narrows the genetic base; conservation of heirloom germplasm (e.g., Svalbard vault) is a race against cultivar extinction.
 - **Sprout safety:** Balancing the nutritional appeal of raw/lightly cooked beansprouts against persistent, sometimes fatal, bacterial contamination outbreaks.
+
+Source: adapted from "Bean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bean

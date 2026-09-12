@@ -44,3 +44,5 @@ Beyond founding kabuki, Okuni introduced the forerunner of the *hanamichi* ("pat
 - **Relationship with Nagoya Sansaburō:** Uncertain whether they were lovers or if he was solely a theatrical device.
 - **Etymology of "kabuki":** Competing theories derive it from *kabukimono* (eccentric persons) or *katamuki* (slanted/inclined).
 - **Reasons for retirement/disappearance:** No historical record explains why she vanished c. 1610.
+
+Source: adapted from "Izumo no Okuni" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Izumo_no_Okuni

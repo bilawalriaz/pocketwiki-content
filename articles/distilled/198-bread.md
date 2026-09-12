@@ -54,3 +54,5 @@ Bread symbolizes basic sustenance across cultures: "bread-winner," "putting brea
 *   **Gluten-free functional equivalence:** Replicating gluten's viscoelastic foam with hydrocolloids (xanthan, HPMC) and alternative proteins remains a technical challenge for texture and aeration.
 *   **Fraud vulnerability:** Supply chain disruptions (e.g., war in Ukraine) heighten risk of wheat flour adulteration/substitution; detection and standardization are ongoing concerns.
 *   **Sourdough microbial diversity:** Starter ecosystems vary geographically and historically; links between specific strains, flavor profiles, and health effects (e.g., FODMAP degradation, glycemic response) are under study.
+
+Source: adapted from "Bread" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bread

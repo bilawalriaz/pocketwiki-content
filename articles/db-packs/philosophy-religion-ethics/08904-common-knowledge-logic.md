@@ -27,3 +27,5 @@ In multi-modal epistemic logic, the "everyone knows" operator is $E_G \varphi \L
 ## Why it is used
 
 In game theory, Aumann's agreement theorem shows that two agents with a common prior cannot "agree to disagree" once their posterior probabilities are common knowledge; the no-trade theorem extends this to show that speculative trade is impossible under the same conditions. On Lewis's account, a convention is behaviour sustained by common knowledge of expectations. In distributed computing, common knowledge cannot be established over a channel that may drop a message, which is why protocols like the Two Generals' Problem run into impossibility results when they try to guarantee agreement.
+
+Source: adapted from "Common knowledge (logic)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Common_knowledge_%28logic%29

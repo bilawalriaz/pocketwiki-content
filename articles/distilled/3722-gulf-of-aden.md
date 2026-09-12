@@ -35,3 +35,5 @@ The gulf is a geologically young body of water with unique biodiversity, includi
 
 ## Debates and open questions
 The source does not detail specific scholarly debates, but it notes historical ambiguities, such as the unclear identification of ancient Greek island names within the gulf.
+
+Source: adapted from "Gulf of Aden" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_of_Aden

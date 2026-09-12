@@ -49,3 +49,5 @@ Louverture's assertion of autonomy, particularly his 1801 constitution, alarmed 
 - **Role in the Gonaïves attack**: Louverture's involvement in the 1794 attack on the Spanish garrison at Gonaïves, which preceded his official switch to the French side, is suspected but not definitively proven.
 - **Attitude toward slavery**: While he fought for abolition, Louverture's later policies of forced labor and his ownership of slaves before the revolution lead to questions about the consistency of his views on freedom and labor.
 - **Cause of death**: The exact cause of his death in prison is uncertain, with suggested causes including exhaustion, malnutrition, pneumonia, and tuberculosis.
+
+Source: adapted from "Toussaint Louverture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Toussaint_Louverture

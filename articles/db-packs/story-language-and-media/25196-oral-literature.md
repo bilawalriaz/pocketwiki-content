@@ -27,3 +27,5 @@ Verbal transmission of knowledge and culture is as old as language itself, prece
 ## Deaf culture
 
 Although deaf people communicate manually rather than orally, their storytelling, jokes, and poetry, passed from person to person with no written medium, are conventionally grouped with oral literature.
+
+Source: adapted from "Oral literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oral_literature

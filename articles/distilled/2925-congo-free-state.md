@@ -45,3 +45,5 @@ Missionaries and journalists, notably E. D. Morel and Roger Casement, exposed th
 *   **Death Toll:** The most significant debate concerns the population decline. Estimates range from a "wild guess" of 1.2–1.5 million to figures of 10 million or more. Scholars like Jan Vansina critique higher estimates as extrapolations from specific regions, while others argue the demographic catastrophe was widespread.
 *   **Genocide Classification:** There is debate over whether the atrocities constitute genocide. Some, like Robert G. Weisbord, argue the conditions meet the UN definition. Historians like Adam Hochschild state it was "not strictly speaking a genocide" but a deadly forced labor system.
 *   **Leopold's Knowledge and Intent:** While the atrocities occurred under his rule, the extent of Leopold II's direct knowledge and personal culpability versus the actions of his agents is a subject of historical analysis.
+
+Source: adapted from "Congo Free State" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Congo_Free_State

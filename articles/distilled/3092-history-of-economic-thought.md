@@ -55,3 +55,5 @@ Economics became increasingly mathematical and specialized. Fields like game the
 - **Causes of Crises**: Economists debate whether financial crises and recessions stem primarily from internal market dynamics (e.g., debt cycles, asset bubbles), external shocks, or flawed government policies.
 - **Measurement and Goals**: There is ongoing debate over whether economic success should be measured by GDP growth alone or by broader metrics of human development, sustainability, and inequality, as highlighted by thinkers like Amartya Sen.
 - **Globalization's Impact**: The effects of global trade and capital flows on domestic employment, inequality, and sovereignty continue to be contested, with theories ranging from comparative advantage to new trade theory and critiques of neoliberalism.
+
+Source: adapted from "History of economic thought" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_economic_thought

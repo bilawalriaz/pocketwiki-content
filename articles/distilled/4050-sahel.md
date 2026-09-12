@@ -40,3 +40,5 @@ Early agriculture in the region declined around 4000 BC due to drying. Larger ki
 - The exact origins and influences on the blues music tradition are debated, with scholars pointing to the Sahel's musical culture as a key source.
 - The causes of increased rainfall in the Sahel since the 1990s are debated, with possible links to global warming and changes in Atlantic and Mediterranean sea temperatures.
 - The effectiveness of international interventions and the future geopolitical alignment of Sahel states (e.g., toward Russia or China) amid ongoing instability are major open questions.
+
+Source: adapted from "Sahel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sahel

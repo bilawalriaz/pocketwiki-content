@@ -33,3 +33,5 @@ A small fraction of bacterial species cause disease: tuberculosis, cholera, teta
 ## What remains unknown
 
 Bacterial fossils, often stromatolites, lack distinctive shapes, so the family tree is reconstructed from gene sequences. Only about two percent of bacterial species have been studied in any depth; ten species account for half of all research papers, and roughly three-quarters of named species have no research at all. Estimates of total bacterial diversity span seven to nine orders of magnitude, anywhere from 10 million to 1 billion species. The bacteria that built mitochondria, fix our nitrogen, and cycle our nutrients are mostly unknown to science.
+
+Source: adapted from "Bacteria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bacteria

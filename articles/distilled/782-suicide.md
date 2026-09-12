@@ -64,3 +64,5 @@ Suicide remains illegal in some nations. Most Western countries have decriminali
 - Why do rates rise in developing countries? Economic instability and social fragmentation are hypothesized drivers.  
 - What role does religion play in prevention? While protective in many contexts, its influence varies widely.  
 - Are current screening practices beneficial or harmful? High false positives raise concerns about resource allocation and labeling effects.
+
+Source: adapted from "Suicide" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Suicide

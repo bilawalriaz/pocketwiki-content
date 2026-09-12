@@ -42,3 +42,5 @@ Bosnia and Herzegovina is a developing, upper-middle-income economy recovering f
 *   **Census Data:** The results of the 2013 census are contested by Republika Srpska officials, who dispute the methodology for counting non-permanent residents, leading to debates about the country's true population size and ethnic composition.
 *   **Political Structure:** The Dayton Agreement's complex, ethnic-based power-sharing system is often criticized for entrenching ethnic divisions and causing political gridlock, leading to ongoing debates about necessary reforms for EU integration.
 *   **National Identity:** The use of three separate official languages (Bosnian, Serbian, Croatian) that are mutually intelligible is seen by some scholars as a symbolic assertion of national identity over pragmatic unity.
+
+Source: adapted from "Bosnia and Herzegovina" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina

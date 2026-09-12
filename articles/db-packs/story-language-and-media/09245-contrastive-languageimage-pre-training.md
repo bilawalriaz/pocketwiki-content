@@ -29,3 +29,5 @@ In the original report, 5 ResNets and 3 ViTs were each trained for 32 epochs; th
 ## What it enables
 
 Because the two encoders share a vector space, CLIP performs zero-shot image classification by comparing an image to prompts like "A photo of a {class}." and picking the class with the highest dot product, with no task-specific training. The same alignment powers cross-modal retrieval, finding images from text or text from images without explicit annotations, and underpins systems like Stable Diffusion, which feeds CLIP's text embeddings into a diffusion model. Frozen CLIP encoders also act as drop-in feature extractors: DeepMind's Flamingo combined a frozen CLIP image encoder with a frozen Chinchilla language model, training only a thin connector between them, and fine-tuned CLIP variants rank images by aesthetic quality and generate image captions.
+
+Source: adapted from "Contrastive Language–Image Pre-training" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Contrastive_Language%E2%80%93Image_Pre-training

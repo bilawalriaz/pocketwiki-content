@@ -39,3 +39,5 @@ German philosophers Ludwig Feuerbach and Ernst Troeltsch argued that Asian tradi
 ## Contemporary challenges
 
 Globalization and digital technologies have intensified religious diversity. Digital religion, including avatar-based worship like the Church of Fools (launched 2004), decentralizes authority and enables hybrid identities. Migration has expanded pluralism in secular states, while the New Age movement has commodified spiritual practices into lifestyle products. The 21st-century challenge is balancing civic unity with religious freedoms as multiple faiths become increasingly visible in shared public spaces.
+
+Source: adapted from "Religious pluralism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Religious_pluralism

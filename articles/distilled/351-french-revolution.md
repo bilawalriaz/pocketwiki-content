@@ -115,3 +115,5 @@ The Revolution abolished feudal dues, tithes, tax farming, and guilds. Church an
 *   **Women’s Agency:** Historians debate whether the Revolution offered women a genuine political opening subsequently crushed, or whether their exclusion was structural from the start (e.g., *active/passive* citizen distinction).
 *   **Colonial Paradox:** The 1794 abolition of slavery was a radical first, yet the Revolution maintained coercive labor regimes in the colonies and Napoleon reinstated slavery in 1802—how to weigh the universalist decree against the practice?
 *   **End Date:** While 9 November 1799 (Brumaire) is the conventional endpoint, some argue the Revolution continued until 1815 (Waterloo) or 1871 (Paris Commune), or that its institutional legacy persists in the Fifth Republic.
+
+Source: adapted from "French Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_Revolution

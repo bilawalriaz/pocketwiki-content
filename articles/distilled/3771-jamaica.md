@@ -51,3 +51,5 @@ Most Jamaicans are of Sub-Saharan African ancestry, with significant minorities 
 - **Monarchy vs. Republic**: Both major political parties have committed to transitioning Jamaica to a republic, but the process and timeline remain under discussion.
 - **Legacy of Independence**: A 2011 survey indicated that about 60% of Jamaicans believed the country might have been better off remaining a British colony, citing social and fiscal mismanagement as problems.
 - **Judicial Final Appeal**: There is an ongoing proposal to replace the Judicial Committee of the Privy Council in London with the Caribbean Court of Justice as the final court of appeal, as part of a push toward decolonization.
+
+Source: adapted from "Jamaica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jamaica

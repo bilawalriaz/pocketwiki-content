@@ -42,3 +42,5 @@ The migration was shaped by the **Wisconsin glaciation**. During the LGM, lowere
 - **Source population dynamics**: Where exactly did the ancestral Native American population form, and was it a single admixture event or multiple?
 - **Interpretation of contested sites**: Are finds like the Chiquihuite Cave stones or the Cerutti Mastodon site evidence of human activity?
 - **Genetic anomalies**: What explains the small Australasian genetic component in some Amazonian populations?
+
+Source: adapted from "Peopling of the Americas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peopling_of_the_Americas

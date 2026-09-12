@@ -43,3 +43,5 @@ Barbarossa retired to Constantinople in 1545, where he dictated his memoirs. He 
 - His exact birth year is uncertain, with sources giving either 1466 or 1483.
 - The origin of the name "Barbarossa" is debated; it evolved from "Baba Oruç" (Father Oruç) due to a similarity in sound in European languages.
 - The precise number of captives and slaves taken during his various raids is often estimated and varies by source.
+
+Source: adapted from "Hayreddin Barbarossa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hayreddin_Barbarossa

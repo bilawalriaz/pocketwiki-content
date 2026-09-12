@@ -49,3 +49,5 @@ The decline of the studio system in the 1960s-70s allowed a new generation of di
 - The exact "advent of film as an artistic medium" is not clearly defined, with debates over whether it began with the first screenings, the first narrative experiments, or later developments.
 - The impact of new media (TV, internet, streaming) on theatrical film distribution and the traditional "moviegoing experience" remains a subject of ongoing industry and scholarly discussion.
 - The relative importance of technological innovation versus artistic and narrative innovation in driving the medium's evolution is continually reassessed.
+
+Source: adapted from "History of film" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_film

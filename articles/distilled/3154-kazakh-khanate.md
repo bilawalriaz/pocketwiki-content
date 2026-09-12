@@ -45,3 +45,5 @@ Located on the Silk Road, the Khanate's economy was based on nomadic herding and
 - **Date of Establishment:** There is no consensus. Russian historiography often cites 1470–1471 (death of Abu'l-Khair Khan), while Kazakh tradition commonly uses 1465, based on the *Tarikh-i Rashidi*.
 - **Nature of Russian Suzerainty:** Historians debate whether the 1731 allegiance of the Junior Jüz was a meaningful incorporation into Russia or a purely nominal act of vassalage that left the Kazakhs effectively independent for decades.
 - **Role of the Slave Trade:** The scale and impact of the mutual slave trade between Kazakhs and Russians in the 18th century, and its role in shaping border relations, is a point of historical focus.
+
+Source: adapted from "Kazakh Khanate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kazakh_Khanate

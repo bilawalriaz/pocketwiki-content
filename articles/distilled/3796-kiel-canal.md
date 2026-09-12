@@ -38,3 +38,5 @@ The canal is crossed by eleven fixed links, including railway lines, autobahns, 
 
 ## Debates and Open Questions
 The source notes a financial and administrative dispute between the German Federal Government and the state of Schleswig-Holstein, which was blamed for the neglect leading to the 2013 lock gate failure. The ongoing expansion project, particularly the widening of the eastern section, represents a major modern investment to maintain the canal's capacity.
+
+Source: adapted from "Kiel Canal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kiel_Canal

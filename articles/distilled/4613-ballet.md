@@ -45,3 +45,5 @@ Ballet costumes evolved from restrictive Renaissance court wear to lighter, more
 
 ## Debates and Open Questions
 The source notes that the structure of ballet, where choreographers (often male) use dancers' (often female) bodies to express an artistic vision, has been criticized as potentially harmful to women. It also states that most ballet choreography is written for relatively young dancers, raising questions about longevity and inclusivity in the art form.
+
+Source: adapted from "Ballet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ballet

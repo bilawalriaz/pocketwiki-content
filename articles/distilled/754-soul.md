@@ -82,3 +82,5 @@ The soul is a dynamic energy balance, not a static entity. **Hun** (ethereal sou
 *   **Aristotle:** Does *De Anima* III.5 teach the immortality of the *active intellect* (and personal survival) or only its divine, impersonal eternity?
 *   **Mind-Body Problem:** Can interactionism explain *how* non-physical mind moves physical body? Does epiphenomenalism render mental causation illusory? Is physicalism compatible with qualia/subjectivity (the "hard problem")?
 *   **Empirical Verification:** Can the soul's existence or weight be scientifically measured (MacDougall), or is it categorically outside empirical investigation (Kant, modern consensus)?
+
+Source: adapted from "Soul" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Soul

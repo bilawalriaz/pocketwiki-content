@@ -29,3 +29,5 @@ Traditional Hindu society is described by the four *varṇas*: Brahmins (priests
 ## Open Debates
 
 Hinduism resists tidy definition. Scholars continue to argue whether it is one religion, a family of related religions, or partly a colonial construct, since the unifying label postdates most of the traditions it covers. The caste system's religious status, the absolute authority of the Vedas (challenged by Tantric and other traditions), and the nature of Moksha, whether liberation is achievable in life (*Jivanmukti*) or only after death (*Videhamukti*), remain live questions within Hindu thought.
+
+Source: adapted from "Hinduism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hinduism

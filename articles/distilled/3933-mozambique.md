@@ -48,3 +48,5 @@ The population of over 34 million is composed of more than 2,000 ethnic groups, 
 *   **Economic Development vs. Inequality:** Mozambique has experienced periods of high GDP growth, but this has not consistently translated into broad-based development. A key debate is how to manage its vast natural resource wealth (especially gas) to reduce poverty and inequality rather than enriching elites.
 *   **Security and Governance:** The government's response to the Cabo Delgado insurgency, including reliance on foreign military intervention (Rwanda, SADC), raises questions about national sovereignty and long-term security strategy. The conflict's roots in local grievances versus global jihadism are also debated.
 *   **Corruption:** Widespread corruption scandals, including the "tuna bond" scandal, have undermined donor confidence and economic stability, prompting ongoing debate about the effectiveness of anti-corruption measures.
+
+Source: adapted from "Mozambique" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mozambique

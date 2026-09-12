@@ -49,3 +49,5 @@ Bohemia lost most of Silesia to Prussia in the 18th-century Silesian Wars. After
 - The Hussite movement is interpreted by some historians as a precursor to the Protestant Reformation, while others emphasize its role as a Czech national movement against German and imperial domination.
 - The long-term ethnic Czech–German conflict is sometimes seen as having roots in the Hussite Wars and the subsequent re-Catholicization and Germanization policies after 1620.
 - The precise dating and nature of the incorporation of Moravia into the Bohemian state (c. 1019/1029) remains uncertain.
+
+Source: adapted from "Kingdom of Bohemia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Bohemia

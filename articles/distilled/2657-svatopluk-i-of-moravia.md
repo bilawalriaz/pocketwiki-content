@@ -46,3 +46,5 @@ Svatopluk died in 894 under unclear circumstances. His deathbed advice to his so
 - The extent and permanence of his territorial expansions, particularly into Poland and Pannonia, are questioned due to limited archaeological evidence.
 - The circumstances of his death in 894 are unknown, described only as an "unlucky" mishap.
 - The historical accuracy of later legends, such as the Hungarian account of him selling his country, is disputed.
+
+Source: adapted from "Svatopluk I of Moravia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Svatopluk_I_of_Moravia

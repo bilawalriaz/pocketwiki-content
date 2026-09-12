@@ -25,3 +25,5 @@ Traditional instruments rested directly on the board: T-squares for parallel lin
 ## Back to the drawing board
 
 The idiom "back to the drawing board" is used when a plan has failed badly and must be redesigned from scratch. The phrase first appeared in the caption to a Peter Arno cartoon in *The New Yorker* on 1 March 1941.
+
+Source: adapted from "Drawing board" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Drawing_board

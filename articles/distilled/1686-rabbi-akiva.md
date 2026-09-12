@@ -67,3 +67,5 @@ Akiva hailed Simon bar Kokhba as the Messiah ("This is the King Messiah"), the s
 4. **Canonical Stance on Song of Songs:** Grätz’s view that Akiva opposed its canonicity was rebutted by I.H. Weiss; the source affirms Akiva *defended* it.
 5. **Historicity of Biographical Legends:** The well-stone epiphany, Rachel’s 24-year wait, Elijah’s visit, and the wealth miracles are later aggadic embellishments; the historical core (late start, poverty, father-in-law’s reconciliation) is inseparable from legend.
 6. **Date of Death:** Source places execution c. 132 CE (before revolt’s end) based on imprisonment duration; traditional date 28 September 135 CE may be symbolic.
+
+Source: adapted from "Rabbi Akiva" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rabbi_Akiva

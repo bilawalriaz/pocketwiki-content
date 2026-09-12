@@ -33,3 +33,5 @@ Erlang was first implemented in Prolog and influenced by Ericsson's earlier PLEX
 ## Use and influence
 
 Erlang runs inside Ericsson's support nodes and in GPRS, 3G, and LTE networks, and is used by Nortel and Deutsche Telekom. WhatsApp is built on Erlang, and RabbitMQ and Ejabberd (an XMPP server) are written in it. Elixir compiles to BEAM bytecode, and other BEAM languages include Luerl, Lisp Flavored Erlang, and Gleam. Since open-sourcing, Erlang has spread into FinTech, gaming, healthcare, automotive, IoT, and blockchain, with named users including Goldman Sachs, Nintendo, AdRoll, Grindr, and Samsung.
+
+Source: adapted from "Erlang (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Erlang_%28programming_language%29

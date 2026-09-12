@@ -83,3 +83,5 @@ Though life is confirmed only on Earth, many think extraterrestrial life is prob
 - The NASA definition of life as "a self-sustained chemical system capable of undergoing Darwinian evolution" has been criticised because a single sexually reproducing individual is not alive by this definition.
 - The classification of eukaryotes, especially protists, is still controversial; the Protozoa and Chromista do not form clades or natural groupings.
 - The exact timing and mechanism of life's origin is debated, with evidence ranging from 3.5 to 4.28 billion years ago, and hypotheses attempting to explain the formation of a universal last common ancestor from simple organic molecules.
+
+Source: adapted from "Life" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Life

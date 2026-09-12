@@ -44,3 +44,5 @@ Roman armies were composed of citizen-soldiers organized into legions, supported
 *   **Hannibal's Motives:** Scholars debate whether Hannibal's attack on Saguntum was a deliberate provocation of Rome or if Rome used the event primarily as a pretext to curb Carthaginian expansion.
 *   **Polybius's Bias:** While considered the most reliable source, the historian Polybius was a friend of the Roman general Scipio Aemilianus, leading to debate about his objectivity regarding the Scipio family.
 *   **Causes of the Third Punic War:** The war is often viewed as an act of unprovoked Roman aggression driven by figures like Cato the Elder, though it was technically justified by Carthage's treaty violation in attacking Numidia.
+
+Source: adapted from "Punic Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Punic_Wars

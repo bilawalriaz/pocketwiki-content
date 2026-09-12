@@ -43,3 +43,5 @@ Hoover died in 1972 after 48 years as director. His legacy is mixed: he built th
 - **Extent of Blackmail:** The degree to which Hoover used secret files to maintain his power and influence over presidents is contested.
 - **Handling of Organized Crime:** Scholars analyze why Hoover long denied the Mafia's existence, with theories ranging from fear of corruption to possible blackmail.
 - **Assassination of JFK:** Critics argue Hoover prematurely concluded Lee Harvey Oswald acted alone and resisted investigating a possible conspiracy.
+
+Source: adapted from "J. Edgar Hoover" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/J._Edgar_Hoover

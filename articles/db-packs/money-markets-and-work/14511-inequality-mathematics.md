@@ -13,3 +13,5 @@ Generalising, a **partial order** is a relation `≤` that is reflexive (`a ≤ 
 For positive numbers, four common means chain as `H ≤ G ≤ A ≤ Q`, where `H` is the harmonic, `G` the geometric, `A` the arithmetic, and `Q` the quadratic mean. A widely used named result is **Cauchy–Schwarz**: for vectors `u`, `v` in an inner product space, `|⟨u, v⟩|² ≤ ⟨u, u⟩·⟨v, v⟩`, which in Euclidean `ℝⁿ` becomes `(Σ uᵢvᵢ)² ≤ (Σ uᵢ²)(Σ vᵢ²)`. An inequality is **sharp** if it cannot be loosened without becoming false: `a² ≥ 0` for real `a` is sharp, while `a² ≥ −1` is not.
 
 Systems of linear inequalities define the feasible regions of linear programming and can be solved by Fourier–Motzkin elimination. Systems mixing polynomial equalities and inequalities can be analysed by cylindrical algebraic decomposition, whose cost grows doubly exponentially in the number of variables.
+
+Source: adapted from "Inequality (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Inequality_%28mathematics%29

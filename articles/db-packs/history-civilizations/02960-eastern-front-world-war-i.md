@@ -25,3 +25,5 @@ In March 1918, the German Operation Faustschlag forced the new Soviet government
 ## Open questions
 
 Historians continue to debate three points. The condition of the Russian army after 1916: General Brusilov and the historian Sergei Oldenburg argued it remained well-supplied, numerically superior, and capable of fighting defensively, suggesting its collapse stemmed chiefly from political revolution rather than military defeat. The Eastern Front's effect on the West: significant German cavalry and resources remained tied down in the east even after Russia's exit, a factor in the failure of Germany's 1918 spring offensive. Casualty totals: Russian losses are estimated at 7.9 to 9 million, and Central Powers losses on the front at 5.1 to 6 million, with some sources placing Eastern Front casualties above those of the Western Front.
+
+Source: adapted from "Eastern Front (World War I)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eastern_Front_%28World_War_I%29

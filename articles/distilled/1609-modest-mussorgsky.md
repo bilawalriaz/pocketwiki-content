@@ -70,3 +70,5 @@ Early reception was hostile. Stasov and Balakirev initially called him an "idiot
 - **Alcoholism as pathology vs. pose:** Contemporaries debated whether Mussorgsky’s drinking was a genuine addiction or a deliberate "pose" of aesthetic opposition typical of the 1860s intelligentsia.
 - **Original vs. edited versions:** A central scholarly debate concerns the value of Mussorgsky’s original, harmonically unconventional scores versus the "corrected" editions by Rimsky-Korsakov (and later Shostakovich) that dominated performance history for a century.
 - **Stress and spelling of surname:** The "correct" pronunciation (first-syllable stress, single 's') conflicts with the entrenched Western convention (second-syllable stress, doubled 's') adopted partly to avoid the "rubbish" association.
+
+Source: adapted from "Modest Mussorgsky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Modest_Mussorgsky

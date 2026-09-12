@@ -46,3 +46,5 @@ Messi is a left-footed forward known for his low centre of gravity, exceptional 
 - **Rivalry with Cristiano Ronaldo**: A long-standing debate among fans and pundits comparing the merits, achievements, and playing styles of Messi and Ronaldo to determine the superior player.
 - **Comparison with Diego Maradona**: Ongoing discussion about whether Messi, especially after his 2022 World Cup win, has surpassed Maradona's legacy and standing in Argentine society.
 - **Leadership and Temperament**: Early in his international career, questions were raised about Messi's leadership and passion for the national team, a perception that shifted significantly after his later successes.
+
+Source: adapted from "Lionel Messi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lionel_Messi

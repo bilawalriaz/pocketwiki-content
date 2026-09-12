@@ -46,3 +46,5 @@ Culture reflects African and European influences. The national music genre is Be
 - **Barbudan autonomy and land rights:** The central government's post-Hurricane Irma proposal to revoke Barbuda's communal land ownership system and allow private land sales has been criticized as "disaster capitalism" and has fueled a significant Barbudan independence movement.
 - **Human rights and press freedom:** Reports of human rights violations have increased since 2017. Freedom of the press is constitutionally guaranteed but not fully protected, with government officials known to sue opponents and media, leading to widespread self-censorship.
 - **Political polarization:** The country's politics are dominated by two parties, the ABLP and UPP, leading to significant polarization. The government has expressed opposition to local governance structures like parish councils.
+
+Source: adapted from "Antigua and Barbuda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antigua_and_Barbuda

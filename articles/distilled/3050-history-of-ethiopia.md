@@ -48,3 +48,5 @@ Menelik II's successor, Haile Selassie, modernized Ethiopia but was overthrown i
 *   The causes of the Aksumite Kingdom's decline are multiple and debated, including drought, trade shifts, and overgrazing.
 *   The historical accuracy of the Solomonic dynasty's claim of descent from King Solomon is a matter of legend versus verifiable history.
 *   The human cost and precise casualty figures of the Tigray War are still being determined, with estimates varying widely.
+
+Source: adapted from "History of Ethiopia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Ethiopia

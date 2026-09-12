@@ -82,3 +82,5 @@ Loew began publishing at age 66 (1578). Titles echo I Chronicles 29:11 (“great
 - **Relationship to Kabbalah**: Loew was familiar with Kabbalah and discussed it with Rudolf II, yet his writings avoid kabbalistic terminology and he “did not espouse kabbalah or other Jewish mystical traditions.” The extent of his engagement remains debated.  
 - **Historicity of the Golem legend**: Universally rejected by historians as a post-1834 German literary invention; no contemporary or near-contemporary source mentions it.  
 - **Attribution of late-discovered manuscripts**: *Chiddushei Aggadot* (20th-century discovery) and *Chiddushim al Ha-Shas* (recent manuscript publications) are ascribed to Loew, but their authenticity and completeness are subjects of ongoing scholarly verification.
+
+Source: adapted from "Judah Loew ben Bezalel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Judah_Loew_ben_Bezalel

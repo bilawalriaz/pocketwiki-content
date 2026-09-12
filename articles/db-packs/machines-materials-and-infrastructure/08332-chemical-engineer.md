@@ -26,3 +26,5 @@ The AIChE salary survey reported a US median annual salary of about $127,000 in 
 Chemical engineering is male-dominated, but less so than most engineering fields. In the US, women were about 35% of chemical engineering students as of 2024, compared with roughly 20% across engineering overall. The UK started from a lower base: in 2014, 25% of all UK students beginning degrees were women versus 15% in engineering. A 2015 AIChE survey found 18.8% of US graduate respondents were women. Women in Chemical Engineering (WIC), a sub-group of AIChE, works to improve representation, and IUPAC has given an annual Distinguished Women in Chemistry or Chemical Engineering award since 2011.
 
 The US Bureau of Labor Statistics projected 3% growth for chemical engineers between 2024 and 2034.
+
+Source: adapted from "Chemical engineer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemical_engineer

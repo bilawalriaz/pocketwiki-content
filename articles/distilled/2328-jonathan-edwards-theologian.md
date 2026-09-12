@@ -43,3 +43,5 @@ Edwards's followers, known as New Light Calvinists, included Samuel Hopkins and 
 - **Edwards's preaching style**: The characterization of his preaching as "fire and brimstone" is contested; historical accounts suggest he spoke in a quiet, emotive voice.
 - **The Northampton dismissal**: Scholarly research has questioned the traditional narrative that a list of names read by Edwards caused a major congregational uproar.
 - **Slavery**: Edwards's ownership of enslaved people has prompted modern debate about reconciling his theological legacy with his participation in slavery.
+
+Source: adapted from "Jonathan Edwards (theologian)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jonathan_Edwards_%28theologian%29

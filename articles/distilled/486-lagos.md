@@ -99,3 +99,5 @@ Lagos generates 30–35% of Nigeria’s GDP. GaWC rates it "beta minus" (globali
 **Beaches/Water:** Tarkwa Bay, Elegushi, Alpha Beaches; Inagbe Grand Resort; boat/kayak/jet ski at Wole Olateju Crescent (near Lekki Bridge).
 **Nightlife/Dining:** "Africa’s craziest" (Victoria Island, Surulere/Adeniran Ogunsanya St); rooftop lagoon/Atlantic dining. Pre-2023 devaluation, US$10 covered daily food + souvenirs. Markets: Lekki Arts & Crafts (Oba Elegushi Market, largest art market), eco-market/Martin St (bargain brands).
 **Parks:** Freedom Park (ex-Broad St Prison, Theo Lawson design, 2010 Independence memorial); Tinubu Square (ex-Independence Sq, named for Efunroye Tinubu, 1914 Amalgamation site); Tafawa Balewa Square (50k capacity, 196
+
+Source: adapted from "Lagos" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lagos

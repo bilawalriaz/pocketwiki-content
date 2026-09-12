@@ -41,3 +41,5 @@ Geologically, the Danube is older than the Rhine. Its upper course is an underfi
 - **Name etymology**: The origin of the Romanian name "Dunărea" is debated; it may derive from a hypothetical Thracian *Donaris* or be a Turkic loanword.
 - **Future of the upper Danube**: Geologists predict the upper Danube may eventually disappear entirely into underground channels, fully captured by the Rhine.
 - **Ecological management**: The construction of dams like Iron Gates I and II, which lack fish passages, is a major point of contention regarding sturgeon conservation and river ecology.
+
+Source: adapted from "Danube" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Danube

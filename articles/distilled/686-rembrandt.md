@@ -84,3 +84,5 @@ The U.S. holds the most paintings (86), notably at the Met, Frick, National Gall
 - **Workshop production vs. master’s hand**: Blurred boundaries due to student copies, master retouching, authorized copies, and stylistic evolution make definitive attribution impossible for many works.
 - **Meaning of *beweegelijkheid***: In a letter to Huygens, Rembrandt cited "de meeste en de natuurlijkste beweegelijkheid" ("the greatest and most natural movement/emotion/motive") as his artistic aim; whether this refers to narrative momentum, emotional expression, or physical gesture remains unresolved.
 - **Rejection of *Claudius Civilis***: Why the Town Hall mayors rejected it (composition, subject, political subtext?) and why Rembrandt cut it down—only a quarter survives.
+
+Source: adapted from "Rembrandt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rembrandt

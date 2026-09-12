@@ -41,3 +41,5 @@ The Raj's economy was characterized by the deindustrialization of traditional se
 
 ## Debates and Open Questions
 Historians debate the economic impact of the Raj. The "Nationalist school" argues it impoverished India, while others, like P.J. Marshall, suggest the British were part of a continuing Indian elite system and did not cause a sharp break from Mughal-era prosperity. The long-term intention of British rule—whether to develop or exploit India—remains contested. The historiography of education and social reform also continues to be reassessed.
+
+Source: adapted from "British Raj" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/British_Raj

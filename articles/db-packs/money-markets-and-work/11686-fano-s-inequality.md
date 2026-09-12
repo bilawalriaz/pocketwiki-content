@@ -45,3 +45,5 @@ Ibragimov and Khasminskii (1979) and Assouad and Birge (1983) extended the bound
 **sup_{f ∈ F} E ∥f_n − f∥_{L¹} ≥ (α / 2) · (1 − (nβ + log 2) / log r)**
 
 The L¹ norm sums absolute differences between densities. As n grows the right side shrinks, but it stays positive until n exceeds roughly (log r − log 2) / β. This gives a concrete sample-complexity lower bound: distinguishing many close densities requires at least that many samples.
+
+Source: adapted from "Fano's inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fano%27s_inequality

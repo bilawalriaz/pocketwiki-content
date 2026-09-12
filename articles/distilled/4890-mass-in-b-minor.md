@@ -42,3 +42,5 @@ The Sanctus was performed by Bach in 1724. Scholars disagree on whether the 1733
 - **Performance in 1733**: Did Bach ever perform the initial Kyrie-Gloria Missa in Dresden in 1733? Scholars like Christoph Wolff argue yes, while others like Joshua Rifkin are skeptical.
 - **Original scoring**: For some movements like "Quoniam", scholars debate whether the final scoring (e.g., horn) represents the original conception or a later adaptation from a different lost source.
 - **Editorial challenges**: How should editors handle C.P.E. Bach's alterations to the autograph score? Different editions (Wolff, Rifkin, Wolf) prioritize different source materials and methodologies to reconstruct J.S. Bach's final intentions.
+
+Source: adapted from "Mass in B minor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mass_in_B_minor

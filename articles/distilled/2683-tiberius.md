@@ -45,3 +45,5 @@ Tiberius left the imperial treasury with nearly 3 billion sesterces, having stre
 *   **Character and Tyranny:** Historians debate whether Tiberius was a reluctant, competent administrator who became paranoid after personal tragedies, or a hypocritical and cruel tyrant from the start. The ancient sources are overwhelmingly negative, but some modern scholars argue this is exaggerated.
 *   **Responsibility for Sejanus:** The extent of Tiberius's knowledge and complicity in Sejanus's early purges is uncertain. It is debated whether he was manipulated or initially condoned the prefect's actions before turning on him.
 *   **Cause of Death:** Ancient accounts differ on whether Tiberius died naturally or was murdered by Caligula and the prefect Macro. No definitive evidence exists.
+
+Source: adapted from "Tiberius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tiberius

@@ -33,3 +33,5 @@ Rama I consolidated and expanded Siam's influence across mainland Southeast Asia
 
 ## Debates and Open Questions
 The exact circumstances of King Taksin's deposition and death in 1782 are debated. Later sources widely report that Rama I executed Taksin, but earlier sources contradict this, with some stating Taksin was consigned to a monastery. The extent to which Rama I's cultural and legal projects were true revivals versus new creations remains a point of scholarly interest.
+
+Source: adapted from "Rama I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rama_I

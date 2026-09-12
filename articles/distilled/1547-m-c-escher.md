@@ -66,3 +66,5 @@ Escher worked primarily in lithography and woodcut; his few mezzotints are consi
 - **Priority and influence**: The Penrose triangle and endless staircase were devised by the Penroses after seeing *Relativity*; Escher then used them in *Waterfall* and *Ascending and Descending*. The cycle of mutual inspiration raises questions about the boundary between artistic intuition and mathematical discovery.
 - **Completeness of *Circle Limit* series**: Escher produced four *Circle Limit* woodcuts (I–IV); whether he considered the series finished or would have continued "Coxetering" is unrecorded.
 - **Legacy in science**: Schattschneider identified eleven research strands anticipated by Escher (e.g., color symmetry, local vs. global regularity, Escher’s algorithm for pattern generation); the extent to which he directly inspired versus anticipated these remains a scholarly topic.
+
+Source: adapted from "M. C. Escher" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/M._C._Escher

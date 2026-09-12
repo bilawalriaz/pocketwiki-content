@@ -43,3 +43,5 @@ Sargon became a legendary figure in later Mesopotamian literature. The "Sargon B
 - **Name**: Whether his name was Šarru-ukīn ("the king has established") or Šarru-kēn ("the king is legitimate") is debated, as is whether it was a birth name or regnal name.
 - **Later References**: Some chronicles attributing building works at Babylon to Sargon may actually refer to the Neo-Assyrian king Sargon II.
 - **Historical vs. Legendary**: Much of what is known about Sargon comes from later legendary texts, making it difficult to separate historical fact from myth.
+
+Source: adapted from "Sargon of Akkad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sargon_of_Akkad

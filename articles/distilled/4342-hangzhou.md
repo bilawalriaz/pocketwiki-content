@@ -44,3 +44,5 @@ Hangzhou is a major transportation hub. Its metro system, which opened in 2012, 
 ## Debates and Open Questions
 - **Historical population:** Estimates for Hangzhou's population during the Southern Song dynasty vary. The *Encyclopædia Britannica* cites over 2 million, while historian Jacques Gernet estimates well over one million by 1276. Official 1270 census figures listed 186,330 families but likely undercounted non-residents and soldiers.
 - **Marco Polo's account:** The accuracy of Marco Polo's description of Hangzhou is debated. His claims of "12,000 stone bridges" and a city "greater than any in the world" are considered exaggerations, though some scholars argue the measurements could be plausible if different units were used.
+
+Source: adapted from "Hangzhou" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hangzhou

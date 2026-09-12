@@ -44,3 +44,5 @@ Internationally, it supports the World Health Organization's European Bureau, co
 ## Documentary output and prevention tools
 
 The agency's documentary portal gathers its scientific output: the *Bulletin épidémiologique hebdomadaire* (BEH), a free weekly epidemiology journal; Géodes for regional and national health indicators; health barometer surveys tracking vaccination, smoking, alcohol, and cancer screening, running since 1992 under CFES; the registry of validated interventions cataloguing evidence-based prevention programs; and *La santé en action*, a quarterly magazine on health promotion. Thematic prevention websites and remote health assistance programs, including the "Tabac Info Service" helpline launched in 1998, extend the agency's reach, with the 2014 "Health Assistance Quality Label" setting standards for these services.
+
+Source: adapted from "French National Public Health Agency" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_National_Public_Health_Agency

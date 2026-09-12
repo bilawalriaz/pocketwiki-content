@@ -35,3 +35,5 @@ Telescopes (Galileo 1609, Newton's reflector 1668) and microscopes (van Leeuwenh
 Science became a social institution. The Royal Society of London received its charter in 1662, and the French Academy of Sciences was founded in 1666. The Royal Society's *Philosophical Transactions* (1665) introduced peer review and the practice of claiming priority through publication.
 
 Historians still debate how revolutionary the period really was. The continuity thesis (Duhem, Randall, Crombie) treats the transformation as gradual, while others note that much of what was recovered, including Greek mathematics, Arabic optics, Indian numerals, and Chinese technology, came from non-Western sources, a point emphasised by Arun Bala. Recent scholarship has also highlighted the contributions of women working outside formal institutions, challenging the older narrative of a purely male achievement.
+
+Source: adapted from "Scientific Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scientific_Revolution

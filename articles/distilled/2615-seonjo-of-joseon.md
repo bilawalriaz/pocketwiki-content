@@ -44,3 +44,5 @@ The war left Korea devastated and its people starving. Seonjo attempted reconstr
 - The extent to which Seonjo's personal indecisiveness and flight from the capital directly contributed to the kingdom's collapse versus the pre-existing weakness caused by factionalism.
 - The accuracy of the conflicting intelligence reports from Japan (from Hwang Yun-gil and Kim Sŏngil) and whether the court's dismissal of warnings was solely due to factional bias.
 - The long-term impact of the East-West factional system, which lasted 200 years and is cited as a contributing factor to the dynasty's eventual decline.
+
+Source: adapted from "Seonjo of Joseon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seonjo_of_Joseon

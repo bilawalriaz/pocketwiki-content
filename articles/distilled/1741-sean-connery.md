@@ -62,3 +62,5 @@ Died 31 Oct 2020, Nassau; cremated, ashes scattered in Scotland (2022). Tributes
 - **Mr. Universe placement**: Official site claims 1950 third place; most sources cite 1953 (Junior class third or Tall Man unplaced); primary records unavailable.
 - **Gandalf refusal**: Connery cited script incomprehension; reported $450M potential earnings (salary + gross points) makes this a notable “what if” in film history.
 - **Bond portrayal count**: Whether *Never Say Never Again* “counts” for record-tying seven with Roger Moore; AFI and Guinness typically note the distinction (Eon vs. non-Eon).
+
+Source: adapted from "Sean Connery" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sean_Connery

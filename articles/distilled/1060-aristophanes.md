@@ -60,3 +60,5 @@ Though his plays had limited immediate political impact, they shaped the evoluti
 ## Debates and Open Questions
 
 Scholars debate whether Aristophanes led or merely responded to changes in audience expectations, particularly regarding the shift toward Middle Comedy seen in his later works. The reliability of biographical details drawn from his plays is questioned due to the involvement of directors like Callistratus and Philoneides, raising doubts about whether self-references apply to the playwright or his collaborators. The extent of his influence on Socrates’ trial remains uncertain, as does the precise nature of his relationship with Plato, whose portrayal of him in *The Symposium* may reflect literary rather than personal familiarity. Finally, interpretations of his political stance vary—while his plays appear conservative, some argue this reflects patron dependency rather than genuine ideology.
+
+Source: adapted from "Aristophanes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aristophanes

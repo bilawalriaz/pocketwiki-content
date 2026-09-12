@@ -42,3 +42,5 @@ Three other skills contribute:
 ## An Old Debate
 
 A 17th-century art-theoretical dispute called the **Quarrel of Color** set painters who emphasised colour against those who, following Leonardo da Vinci, treated drawing, the contour line, as the true foundation of art. "Drawing" in this debate was an idea rather than a medium: it meant the structural, linear basis of representation, separable from whatever material carried it. The quarrel is the historical source of the still-common Western view that line and colour are fundamentally different expressive resources.
+
+Source: adapted from "Drawing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Drawing

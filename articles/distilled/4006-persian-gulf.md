@@ -46,3 +46,5 @@ The Gulf's ecosystem is unique but endangered. It hosts over 700 fish species, e
 - **Naming Dispute**: The primary debate is over the name "Persian Gulf" versus "Arabian Gulf," reflecting historical claims and modern political rivalries.
 - **Ecological Future**: The long-term impact of climate change, coastal development, and pollution on the Gulf's unique but fragile ecosystems remains a critical concern.
 - **Geopolitical Stability**: The region's role as a global energy supplier makes its stability a constant subject of international strategic analysis.
+
+Source: adapted from "Persian Gulf" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Persian_Gulf

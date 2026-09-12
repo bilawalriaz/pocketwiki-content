@@ -35,3 +35,5 @@ After the Glorious Revolution of 1688, the nations were allies for over a centur
 
 ## Debates and Open Questions
 The source notes that some historians count the conflicts between Britain and the Batavian Republic/Kingdom of Holland during the Napoleonic era as the "Fifth and Sixth Anglo–Dutch wars," indicating a debate on the exact scope and numbering of the wars.
+
+Source: adapted from "Anglo-Dutch wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anglo-Dutch_wars

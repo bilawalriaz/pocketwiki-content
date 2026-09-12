@@ -38,3 +38,5 @@ Corsica's economy relies on agriculture, tourism, and public administration. Key
 
 ## Debates and open questions
 The primary ongoing debate concerns Corsica's political future: the extent of autonomy it should have within France, versus full independence. While polls show a majority of Corsicans oppose independence, there is strong support for greater self-governance. The French government has expressed willingness to discuss "a form of autonomy" but opposes full independence. The 2003 referendum narrowly rejected a plan to merge the departments and increase autonomy, but the issue remains central to Corsican politics. The resumption of violence in 2022 complicates these discussions.
+
+Source: adapted from "Corsica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Corsica

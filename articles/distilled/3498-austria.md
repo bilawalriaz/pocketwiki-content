@@ -44,3 +44,5 @@ A provisional government declared independence from Germany in 1945. After a dec
 - The extent of popular support for the 1938 *Anschluss* remains debated, with evidence of both genuine enthusiasm and coercion.
 - Austria's post-war identity has been shaped by the tension between its German cultural character and its historical role as a multi-ethnic imperial center.
 - The country's policy of neutrality is periodically debated, especially regarding deeper integration with EU security policies or potential NATO membership.
+
+Source: adapted from "Austria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Austria

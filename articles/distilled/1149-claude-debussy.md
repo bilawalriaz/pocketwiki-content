@@ -55,3 +55,5 @@ Debussy’s later output includes the piano *Préludes*, *Études*, *En blanc et
 - **Antisemitism**: During WWI, Debussy made nationalist statements possibly targeting Jewish composers like Schoenberg and Dukas. Scholars debate whether these remarks reflect genuine prejudice or stylistic preference.
 - **Late works’ value**: Critics like Ernest Newman dismissed Debussy’s *Études* as labored, while later scholars such as François Lesure rank them among his greatest achievements.
 - **Opera legacy**: While *Pelléas et Mélisande* is celebrated as a 20th-century milestone, some contemporaries found it emotionally cold or overly intellectual.
+
+Source: adapted from "Claude Debussy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Claude_Debussy

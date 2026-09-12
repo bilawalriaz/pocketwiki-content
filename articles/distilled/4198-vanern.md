@@ -42,3 +42,5 @@ Environmental monitoring shows generally stable water quality, though visibility
 
 ## Debates and Open Questions
 The source does not present major scholarly debates, but notes that the myth of Gefjon in the *Prose Edda* was "probably originally about Vänern, not Mälaren," based on geographical descriptions.
+
+Source: adapted from "Vänern" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/V%C3%A4nern

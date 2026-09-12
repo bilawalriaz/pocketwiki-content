@@ -35,3 +35,5 @@ Local names like Mwitanzige ("locust killer") derive from legends of a locust pl
 
 ## Debates and open questions
 The source does not detail scholarly debates, but it notes the lake's lower endemism compared to other Great Lakes is due to its specific hydrological connections and isolations. The exact fate of the SS *Robert Coryndon* (scuttled or sunk) is presented as an unresolved detail.
+
+Source: adapted from "Lake Albert (Africa)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Albert_%28Africa%29

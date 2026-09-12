@@ -62,3 +62,5 @@ Coleridge moved from Unitarian preaching (1796–97) back to the Church of Engla
 - **Opus Maximum’s Coherence**: Published only in 2002, this late philosophical manuscript aims to synthesize Kantian epistemology with Trinitarian theology. Critics are divided on whether it resolves Coleridge’s lifelong tensions or remains a chaotic testament to his "indolence."
 - **Marriage and Misogyny**: Coleridge blamed his wife Sara for their separation; biographers (e.g., Molly Lefebure) challenge his account, suggesting his addiction and instability were primary causes.
 - **German Sources**: The extent of Coleridge’s originality vs. transmission of Kant, Schelling, Lessing, and Schiller remains contested. He introduced German idealism to England but often without citation.
+
+Source: adapted from "Samuel Taylor Coleridge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge

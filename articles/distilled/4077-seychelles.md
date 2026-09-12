@@ -42,3 +42,5 @@ The economy shifted from plantations (cinnamon, vanilla, copra) to tourism after
 - The source notes that while Arab and Swahili sailors likely knew of the islands earlier, there is no evidence of permanent pre-European settlement, though tombs on Silhouette Island have been conjectured to belong to later Maldivian and Arab traders.
 - The economic impact of piracy is quantified (costing 4% of GDP in 2008-2009), but the long-term effectiveness of international anti-piracy efforts is not detailed.
 - The government's strategy to reduce dependence on tourism by promoting other sectors like fishing and offshore finance is ongoing, with its ultimate success yet to be determined.
+
+Source: adapted from "Seychelles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seychelles

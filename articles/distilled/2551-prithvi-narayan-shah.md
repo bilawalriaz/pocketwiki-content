@@ -45,3 +45,5 @@ Towards the end of his life, Shah compiled his political and social philosophy i
 
 ## Debates and Open questions
 The article presents Shah's actions as foundational to the modern Nepalese state, but his legacy is complex. His campaigns involved significant violence, as noted in the brutal conquest of Kirtipur. His strict Hindu orthodoxy and expulsion of Europeans shaped the nation's early identity but also set a precedent for exclusion. The precise motivations and outcomes of his economic policies, particularly their long-term impact, remain subjects of historical analysis. His comparison to figures like Bismarck or Washington highlights his role as a nation-builder, but the specific context of 18th-century South Asia makes direct parallels complex.
+
+Source: adapted from "Prithvi Narayan Shah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prithvi_Narayan_Shah

@@ -53,3 +53,5 @@ The city is a UNESCO Creative City for Literature. Its architecture ranges from 
 ## Debates and open questions
 - The etymology of "Montevideo" is debated, with several competing theories (e.g., "Monte vide eu," "Montem vídeo," "Monte Vidi") and no conclusive evidence for any single origin.
 - The exact location and identity of the "five mounts" preceding the Cerro de Montevideo in the "Monte-VI-D-E-O" theory remain unconfirmed.
+
+Source: adapted from "Montevideo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Montevideo

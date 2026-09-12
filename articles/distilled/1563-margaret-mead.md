@@ -79,3 +79,5 @@ Annual Margaret Mead Film Festival at AMNH (since 1976, longest-running U.S. doc
 - **Ethics of covert research**: Mead’s Omaha deception (posing as wife) and Manus somatotyping (nude photos without villager consent) raise enduring questions about informed consent, power dynamics, and retrospective judgment of mid-century practices.
 - **Public anthropology trade-offs**: Mead’s media celebrity amplified anthropology’s reach but invited reductionism and political attacks (conservative backlash against cultural relativism/sexual revolution). Debate continues on the scholar’s role as public intellectual.
 - **Nature vs. nurture framing**: Mead’s stark culture-over-biology stance (especially in *Coming of Age*) is now seen as overcorrected; modern biosocial approaches seek integration. Open: how to weigh her historical impact against empirical revisions.
+
+Source: adapted from "Margaret Mead" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Margaret_Mead

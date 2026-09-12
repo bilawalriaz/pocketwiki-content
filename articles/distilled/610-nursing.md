@@ -63,3 +63,5 @@ Nurses face significant occupational risks including high stress levels (40% bur
 ## Debates and Open Questions
 
 Nursing historians debate whether ancient care qualifies as "nursing" in the modern sense, given definitional challenges. The profession continues to grapple with defining nursing science, as evidenced by repeated scholarly attempts to answer "What is nursing science?" The tension between nursing as care-focused versus cure-focused practice remains, with the line between nursing and medicine often blurred. Gender dynamics persist despite official gender neutrality, with male nurses receiving higher pay than female counterparts. The effectiveness of traditional manual patient handling training versus evidence-based alternatives remains contested, as does the optimal balance between individual-focused and organization-focused interventions for occupational stress.
+
+Source: adapted from "Nursing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nursing

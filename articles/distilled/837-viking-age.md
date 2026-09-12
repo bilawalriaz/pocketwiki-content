@@ -50,3 +50,5 @@ Recent DNA studies confirm significant Viking migration and intermarriage. Moder
 
 ## Debates and Open Questions  
 Scholars debate the relative importance of push vs. pull factors in Viking expansion. The "overpopulation" thesis is contested, with some arguing ideological motives (e.g., response to Christianization) played a larger role. The extent of Viking violence versus integration varies by region. The reliability of later sources like the Icelandic sagas as historical records remains disputed. Genetic evidence continues to refine understanding of Viking migration patterns and cultural assimilation.
+
+Source: adapted from "Viking Age" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Viking_Age

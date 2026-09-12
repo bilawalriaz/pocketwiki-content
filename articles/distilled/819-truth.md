@@ -64,3 +64,5 @@ Ancient civilizations explored truth’s nature: Greeks like Parmenides and Plat
 - Does truth require justification, or can a belief be true without being warranted?  
 - Is truth always binary (**bivalent**), or do degrees of truth exist (**truthlikeness**, fuzzy logic)?  
 - Should truth be grounded in reality (**realism**) or in epistemic practices (**anti-realism**)?
+
+Source: adapted from "Truth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Truth

@@ -43,3 +43,5 @@ The population is ethnically diverse, with the Kongo (about half the population)
 
 ## Debates and Open Questions
 The fairness and legitimacy of elections held under President Sassou Nguesso, particularly the 2015 constitutional referendum and the 2016 presidential election, are widely disputed by opposition groups and international observers. The equitable distribution of oil wealth and its impact on poverty and inequality remains a critical economic and social challenge. The long-term political stability of the country is uncertain given its history of civil conflict and the dominance of a single political figure.
+
+Source: adapted from "Republic of the Congo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Republic_of_the_Congo

@@ -37,3 +37,5 @@ As Yayoi society grew more complex, conflicts between settlements increased, evi
 - The exact location of Yamataikoku and the identity of Queen Himiko remain subjects of archaeological and historical research.
 - Scholars debate whether the population increase from the Jōmon to Yayoi periods was primarily due to migration or the demographic shift enabled by agriculture.
 - The linguistic origins of the Japonic language family and its relationship to Koreanic languages are complex, with theories involving migrations from the Korean Peninsula.
+
+Source: adapted from "Yayoi period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yayoi_period

@@ -45,3 +45,5 @@ After World War II, anti-colonial movements intensified. France fought costly wa
 - **Assimilation vs. association**: Scholars analyze whether French colonial policy was primarily aimed at cultural assimilation (making subjects French) or association (ruling through indirect rule and preserving local structures), with evidence for both approaches in different colonies and periods.
 - **Impact of colonial education**: There is debate over whether French education systems were primarily tools of control and cultural domination or whether they inadvertently created the intellectual and political elites who led independence movements.
 - **Neocolonialism**: Critics argue that formal independence did not end French dominance, pointing to ongoing political, military, and economic interventions in former colonies (sometimes termed *Françafrique*) as evidence of a continued imperial relationship.
+
+Source: adapted from "French colonial empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_colonial_empire

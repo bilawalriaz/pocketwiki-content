@@ -53,3 +53,5 @@ By 1972, O'Keeffe had lost much of her eyesight due to macular degeneration, lea
 
 ## Debates and Open Questions
 O'Keeffe’s work has long been interpreted through feminist and psychoanalytic lenses, particularly regarding flower paintings seen as vaginal symbols. Art historian Linda Nochlin argued *Black Iris III* (1926) functions as a "morphological metaphor for a vulva." O'Keeffe consistently denied intentional sexual meaning, stating viewers projected their own associations onto her work. Feminist scholars like Linda Grasso situate her within broader suffrage-era modernist movements, arguing her independence aligned with "New Woman" ideals despite her rejection of feminist labels. Her estate dispute with Juan Hamilton also raised enduring questions about artistic legacy and control over posthumous reputation.
+
+Source: adapted from "Georgia O'Keeffe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georgia_O%27Keeffe

@@ -39,3 +39,5 @@ The king was known for his harsh, violent temper, exacerbated by a porphyritic d
 ## Debates and Open Questions
 - The exact intentions of Frederick William I regarding his son Frederick's fate after the failed escape attempt are unclear. While the historian Voltaire claimed the king intended Frederick's execution, the source notes this is not certain, as the Holy Roman Emperor intervened to halt the trial.
 - The personal dynamics within the royal family are complex; while the marriage to Sophia Dorothea was unhappy and she resented her husband, she also quietly encouraged their son Frederick's defiance against his father's strict rules.
+
+Source: adapted from "Frederick William I of Prussia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia

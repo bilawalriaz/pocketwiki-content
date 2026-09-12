@@ -47,3 +47,5 @@ Domitian was assassinated in a palace conspiracy. The Senate immediately condemn
 - **Persecution of Christians**: Ancient sources mention persecution, but modern historians find little concrete evidence of systematic targeting under Domitian.
 - **Financial legacy**: Whether Domitian left the empire in debt or with a surplus is debated, though evidence suggests a balanced economy for most of his reign.
 - **Historical bias**: The reliability of hostile senatorial sources (Tacitus, Suetonius) versus archaeological and numismatic evidence is a central scholarly debate.
+
+Source: adapted from "Domitian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Domitian

@@ -47,3 +47,5 @@ After King Joseph I's death in 1777, his successor Queen Maria I, who loathed Po
 *   **Effectiveness of Reforms:** Modern economists consider Pombal's economic policies to have largely failed in modernizing the Portuguese or Brazilian economy.
 *   **Motivations for Anti-Jesuit Campaign:** Historians debate whether Pombal's persecution of the Jesuits was driven by Enlightenment ideals, a desire to seize their wealth and power, or a combination of both.
 *   **Legacy:** Pombal's historical reputation is deeply divided, oscillating between that of a visionary reformer and a tyrannical despot.
+
+Source: adapted from "Sebastião José de Carvalho e Melo, 1st Marquis of Pombal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Jos%C3%A9_de_Carvalho_e_Melo%2C_1st_Marquis_of_Pombal

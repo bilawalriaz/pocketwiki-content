@@ -52,3 +52,5 @@ After liberation, many survivors emigrated, as antisemitism and property dispute
 - **Uniqueness**: Scholars dispute whether the Holocaust was a unique event or can be compared to other genocides.
 - **Lessons and memory**: There is ongoing debate about whether Holocaust memory promotes human rights or can be used to justify political actions, and what universal lessons, if any, can be drawn.
 - **International response**: Debate exists on whether Allied military action, such as bombing camps, could have significantly impacted the death toll.
+
+Source: adapted from "The Holocaust" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_Holocaust

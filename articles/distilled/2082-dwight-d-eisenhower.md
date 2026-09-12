@@ -62,3 +62,5 @@ Eisenhower suffered a heart attack (1955), a stroke (1957), and surgery for Croh
 *   **Vietnam Involvement**: Analysts argue over whether Eisenhower's support for South Vietnam after 1954 inevitably drew the U.S. into the Vietnam War.
 *   **Knowledge of U-2 Program**: Questions remain about how much Eisenhower knew about CIA overflights of the USSR before the 1960 U-2 incident, which scuttled a summit with Khrushchev.
 *   **Presidential Effectiveness**: Early criticism labeled him a passive, golf-playing president, but access to his papers has led historians to re-evaluate him as a shrewd, behind-the-scenes manager who achieved his core goals.
+
+Source: adapted from "Dwight D. Eisenhower" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dwight_D._Eisenhower

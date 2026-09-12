@@ -46,3 +46,5 @@ The internet has enabled new distribution models. Web manga, often published on 
 
 ## Debates and Open Questions
 Scholars debate the origins of modern manga. One view stresses continuity with traditional Japanese art and aesthetics. The other emphasizes post-WWII U.S. cultural influences, such as American comics and Disney cartoons. The impact of digital distribution on the traditional print-based manga industry and creative process remains an ongoing area of transformation and discussion.
+
+Source: adapted from "Manga" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Manga

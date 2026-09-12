@@ -54,3 +54,5 @@ The city is highly vulnerable to earthquakes, volcanic eruptions, and tropical s
 - The exact inspiration for the city's name (feast of the Transfiguration vs. other "Divine Savior" references) is presented as likely but not definitive.
 - The identity of the gunmen who fired on mourners at Archbishop Romero's funeral in 1980, causing a deadly stampede, was never confirmed.
 - The long-term effectiveness of security measures and urban redevelopment projects like the "Rescate del Centro Histórico" in addressing crime and urban decay remains an ongoing challenge.
+
+Source: adapted from "San Salvador" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/San_Salvador

@@ -23,3 +23,5 @@ Two tools give these varieties their modern structure: **étale cohomology**, a 
 **Finiteness results.** In 1977–1978, Barry Mazur proved the torsion conjecture, listing every possible torsion subgroup of an elliptic curve over the rationals; Loïc Merel extended the result to all number fields in 1996. Faltings's 1983 theorem that any curve of genus greater than 1 has only finitely many rational points remains the central finiteness result of the subject.
 
 **Twenty-first century.** In 2001, proofs of the local Langlands conjectures for $\mathrm{GL}_n$ relied on the geometry of certain Shimura varieties. In the 2010s, Peter Scholze introduced **perfectoid spaces** and new cohomology theories for working over *p*-adic fields, with applications to Galois representations and to parts of the weight-monodromy conjecture.
+
+Source: adapted from "Arithmetic geometry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arithmetic_geometry

@@ -23,3 +23,5 @@ Climate change reflects changes in variability or average state over decades to 
 ## Climate Models
 
 Climate models use quantitative methods to simulate interactions and radiative energy transfer between the atmosphere, oceans, land surface, and ice through physics equations. All models balance incoming short-wave (visible) radiation with outgoing long-wave (infrared) radiation; any imbalance changes average temperature. Resolution ranges from over 100 km down to 1 km, with high-resolution global models requiring significant computational resources. Global models can be downscaled dynamically or statistically to regional models, such as ICON or CHELSA, to analyze local impacts. Recent applications focus on increasing greenhouse gases, primarily carbon dioxide, and predict an upward trend in global mean surface temperature, with the most rapid increase projected for higher northern latitudes.
+
+Source: adapted from "Climate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate

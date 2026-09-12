@@ -45,3 +45,5 @@ Storms feature in mythology (Noah’s Flood, *Gilgamesh*), literature (*The Temp
 
 ## Debates and Open Questions  
 The definition of a blizzard remains debated, particularly regarding the temperature threshold, which has been dropped in some U.S. contexts. The classification of what constitutes a "storm" varies between strict meteorological criteria and popular usage. Whether planetary storms like Jupiter’s Great Red Spot are truly analogous to terrestrial storms is a topic of ongoing scientific discussion. The long-term behavior and dissipation mechanisms of extraterrestrial storms, such as those on Saturn and Mars, remain under study.
+
+Source: adapted from "Storm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Storm

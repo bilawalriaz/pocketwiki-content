@@ -47,3 +47,5 @@ Osaka is renowned for its food culture, with specialties like okonomiyaki and ta
 - **Osaka Metropolis Plan**: A proposal to reorganize the city's 24 wards into fewer, semi-autonomous special wards similar to Tokyo's. It was rejected in referendums in 2015 and 2020, with the latter failing by a narrow margin (50.6% against).
 - **Nuclear Power Dependency**: In 2012, Osaka, as a major shareholder in Kansai Electric Power, led efforts to demand reforms and reduce nuclear power reliance following the Fukushima disaster, highlighting tensions between energy policy and public safety.
 - **Cultural Stereotypes**: Historical literature from Edo (Tokyo) depicted Osakans as stingy and shrewd, a stereotype that persists in some forms today, contrasting with the city's self-image of culinary generosity and merchant pragmatism.
+
+Source: adapted from "Osaka" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Osaka

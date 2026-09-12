@@ -37,3 +37,5 @@ Genetic studies strongly support a steppe origin. The Yamnaya culture of the Pon
 
 ## Debates and Open Questions
 The primary debate concerns the PIE homeland and timing. While the Steppe hypothesis is mainstream, the Anatolian and Armenian hypotheses persist. A key open question is the exact process of language spread: was it primarily through elite dominance and cultural diffusion (as in some steppe models) or through massive population replacement (as genetics suggests for Europe)? The role of the Caucasus as a corridor or potential homeland is also actively debated. Furthermore, the precise relationship between the spread of genes, languages, and specific archaeological cultures remains a complex, interdisciplinary puzzle.
+
+Source: adapted from "Proto-Indo-Europeans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Proto-Indo-Europeans

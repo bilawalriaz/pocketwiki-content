@@ -31,3 +31,5 @@ Huntington's disease disrupts movement, cognition, and psychiatric function. Mus
 In dementia, higher auditory functions like melodic contour perception decline, yet basic pitch, timbre, and rhythm awareness persist, as do music-evoked emotions and memories. Singing practice enhances verbal working memory, remote episodic memory, and executive function.
 
 These clinical gains depend on the same preserved basic auditory processing that the fetal studies identified, the earliest layer of a temporal system the brain builds on throughout life.
+
+Source: adapted from "Temporal dynamics of music and language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Temporal_dynamics_of_music_and_language

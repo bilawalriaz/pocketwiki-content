@@ -37,3 +37,5 @@ For more complex shapes, the natural setting is a simplicial complex (triangles 
 ## Applications
 
 Discrete calculus underpins difference equations, which model population growth, radioactive decay, reaction rates, heat transfer, wave propagation, and spacecraft trajectories. Kirchhoff's voltage law (1847) was an early application, expressible as a one-dimensional discrete exterior derivative. Maxwell's electromagnetism and Einstein's general relativity have both been rewritten in discrete language, and the planimeter, a device for measuring area on a drawing, implements the discrete analogue of Green's theorem. In machine learning and signal processing, discrete calculus supplies the operators (convolutions, level-set tools) used to analyse data on graphs and meshes.
+
+Source: adapted from "Discrete calculus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Discrete_calculus

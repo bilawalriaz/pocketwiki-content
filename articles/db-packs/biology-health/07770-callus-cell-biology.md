@@ -25,3 +25,5 @@ Callus is also the basis of micropropagation, in which genetically identical cop
 ## History
 
 Henri-Louis Duhamel du Monceau first reported callus forming on live plants while studying wound healing in elm trees. In 1908, E. F. Simon induced callus from poplar stems that also produced roots and buds. The first in vitro callus inductions were reported independently in 1939 by P. White, who grew hormone-independent callus from tumor-derived procambial tissue of hybrid Nicotiana glauca, and by Gautheret and Nobécourt, who maintained carrot callus with added auxin.
+
+Source: adapted from "Callus (cell biology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Callus_%28cell_biology%29

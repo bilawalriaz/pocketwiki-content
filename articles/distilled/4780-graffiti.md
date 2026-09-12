@@ -50,3 +50,5 @@ Graffiti has been commercialized by corporations like IBM and Sony in advertisin
 
 ## Debates and Open Questions
 The central debate is whether graffiti is **art or vandalism**. This is reflected in the conflicting responses from authorities and the public, and in the career of artists like Banksy, whose work is both protected and removed. There is ongoing discussion about the effectiveness of **zero-tolerance policies versus designated legal walls** in reducing illegal graffiti. The **commercialization** of graffiti raises questions about its authenticity and subversive potential. Finally, the use of graffiti for **hate speech and genocide denial** presents a challenge for balancing free expression with community safety.
+
+Source: adapted from "Graffiti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Graffiti

@@ -64,3 +64,5 @@ In Athenian comedy, Sappho was caricatured as promiscuously *heterosexual*. The 
 - **Alexandrian edition structure:** Were there eight or nine books? Page conjectures a ninth; Yatromanolakis doubts it (no ancient source mentions a ninth).
 - **Family relations:** Was Cleïs her daughter or beloved? (Hallett argues *agapata* implies daughter; others note *pais* can mean youthful male beloved).
 - **Cause of loss:** Primarily material (codex transition, dialect difficulty) vs. moral suppression (Renaissance legend).
+
+Source: adapted from "Sappho" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sappho

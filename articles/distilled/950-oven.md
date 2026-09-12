@@ -77,3 +77,5 @@ Modern domestic ovens typically use natural gas or electricity. Heat may come fr
 - **Terminology boundaries**: The source notes that certain food-manufacture drying ovens (e.g., for malting) are "also referred to as kilns," blurring the line between kiln and oven in industrial contexts.  
 - **Adoption lag for electric ovens**: The text states electric ovens were invented in the late 19th century but mass ownership awaited "better and more efficient use of electricity"—the specific technical or infrastructural thresholds are not detailed.  
 - **Microwave discovery narrative**: The account attributes the discovery to Percy Spencer in 1946 "allegedly" while studying the magnetron, suggesting some historical uncertainty about the exact circumstances.
+
+Source: adapted from "Oven" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oven

@@ -17,3 +17,5 @@ Dialectology studies regional language varieties, including how two local dialec
 Morphology (word-formation patterns) and syntax (sentence structure) are compared across related languages and searched for universal grammar rules that hold across languages and time periods.
 
 In evolutionary terms, historical linguistics studies the Lamarckian, cultural evolution of language: traits acquired by speakers in one generation can be passed to the next, unlike biological traits. Languages are described as conservative or innovative based on how rapidly they change relative to comparable varieties.
+
+Source: adapted from "Historical linguistics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Historical_linguistics

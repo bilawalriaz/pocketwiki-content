@@ -49,3 +49,5 @@ Ahmedabad is known for its Indo-Saracenic architecture, the pol housing system, 
 - Census data on slum populations is contested, with local entities suggesting official figures underestimate informal settlements.
 - There is an ongoing challenge to balance inclusive, pro-poor development with initiatives aimed at creating a global, investment-focused city.
 - The capacity of communities to maintain upgraded infrastructure from projects like the SNP remains a concern.
+
+Source: adapted from "Ahmedabad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ahmedabad

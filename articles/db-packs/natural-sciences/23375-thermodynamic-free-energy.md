@@ -37,3 +37,5 @@ $$dA = -p\,dV - S\,dT + \sum_i \mu_i\,dN_i$$
 $$dG = V\,dp - S\,dT + \sum_i \mu_i\,dN_i$$
 
 show that changes in $G$ at fixed $T$ and $p$ come entirely from compositional changes through the chemical potentials $\mu_i$. Work forms beyond $pV$, including electrical, magnetic, elastic, and polarisation work, can be added through extra conjugate pairs. Surface free energy, the cost per unit area of creating new interface, is a direct geometric application of the same framework. The numerical values of $A$ and $G$ for a given state differ by $pV$, so the choice between them is set by which variables a process holds constant.
+
+Source: adapted from "Thermodynamic free energy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thermodynamic_free_energy

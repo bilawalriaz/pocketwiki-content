@@ -46,3 +46,5 @@ Atatürk pursued state-led economic development (statism) to achieve independenc
 *   **Authoritarianism vs. Modernization:** His rule is criticized for instituting a dictatorship and suppressing opposition, but also praised for necessary nation-building in a volatile period. His experiments with multiparty democracy (1924–25, 1930) failed, leading to a prolonged one-party state.
 *   **Assimilationist Policies:** His government's Turkification policies, including the 1934 Resettlement Law and suppression of minority languages, are condemned for targeting minorities like the Kurds and continuing persecution of Christians.
 *   **Personal Beliefs:** His personal religious views are debated; sources suggest he may have been an agnostic or atheist, despite his public statements and political use of Islamic rhetoric early in his career.
+
+Source: adapted from "Mustafa Kemal Atatürk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk

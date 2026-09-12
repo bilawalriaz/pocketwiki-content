@@ -38,3 +38,5 @@ Buddhism was introduced during Songtsen Gampo's reign but became a state-sponsor
 ## Debates and Open questions
 - The exact timing of the conquest of Zhangzhung is debated, with some sources placing it under Songtsen Gampo and others under Trisong Detsen.
 - The causes of the empire's dissolution are multifaceted, involving internal religious strife, administrative challenges from its vast size, and competition between central authority and regional power blocs.
+
+Source: adapted from "Tibetan Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tibetan_Empire

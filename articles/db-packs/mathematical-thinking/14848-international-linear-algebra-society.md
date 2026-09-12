@@ -35,3 +35,5 @@ Presidents of ILAS serve six-year terms. Schneider led the society from 1987 to 
 ## Collaborations
 
 ILAS works with three partner organizations. Its 1999 agreement with SIAM exchanges speakers between ILAS conferences and the triennial SIAM Applied Linear Algebra meeting. The partnership with the American Mathematical Society began in late 2020 and took effect at the 2022 Joint Mathematics Meetings, where ILAS sponsors a named lecture and at least four special sessions. The collaboration with the International Workshop on Operator Theory and its Applications (IWOTA) began in 2017 with the Israel Gohberg ILAS-IWOTA Lecture, a biennial lecture funded by donations, honoring Gohberg as the founding president of IWOTA and an active ILAS member.
+
+Source: adapted from "International Linear Algebra Society" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/International_Linear_Algebra_Society

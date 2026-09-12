@@ -27,3 +27,5 @@ If cooperating processes cannot all be scheduled together, the running ones keep
 ## Swap-token
 
 A practical defence against system-wide thrashing in Linux is swap-token. A single kernel token is handed to a process that is faulting heavily during a thrashing episode. The holder may allocate extra physical pages to build its working set, finish quickly, and release them. The original scheme used a fixed timestamp; the later preempt swap-token tracks each process's swap-out count and gives the token, with a proportionally longer time slice, to the most memory-pressured process.
+
+Source: adapted from "Thrashing (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thrashing_%28computer_science%29

@@ -13,3 +13,5 @@ His students are the clearest measure of his reach. Han Fei and Li Si, two of th
 Two interpretive cautions matter. First, the Chinese term he uses for human nature (*xing*, innate inborn qualities) is usually rendered "evil," but translators have also used "bad," "odious," or "problematic"; the underlying claim is that nature, left alone, produces disorder, not that people are metaphysically wicked. Second, his reputation collapsed from the Tang dynasty onward as Neo-Confucianism favored Mencius, and only a 20th-century reevaluation restored his standing.
 
 Xunzi's lasting contribution is a Confucianism that takes human self-interest seriously, treats ritual as a technology of self-cultivation rather than empty ceremony, and hands the state to cultivated scholars rather than to either innate saints or coercive laws.
+
+Source: adapted from "Xunzi (philosopher)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Xunzi_%28philosopher%29

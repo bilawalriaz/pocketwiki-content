@@ -48,3 +48,5 @@ The population is predominantly Roman Catholic (78%), with a significant Muslim 
 - **Safety and Human Rights:** The city's reputation as one of the "safest" is contested by human rights groups and crime statistics, which have cited high murder and rape rates. The existence and actions of the alleged "Davao Death Squad" remain a subject of investigation and debate.
 - **Political Dynasty:** The Duterte family has held the mayoral office for most of the period since 1988, raising discussions about political dynasties in the city.
 - **Infrastructure Development:** Major projects like the Mindanao Railway and the Davao Public Transport Modernization Project face funding and implementation delays, impacting the city's growth.
+
+Source: adapted from "Davao City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Davao_City

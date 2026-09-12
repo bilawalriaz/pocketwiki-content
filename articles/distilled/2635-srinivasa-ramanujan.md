@@ -44,3 +44,5 @@ Ramanujan's health deteriorated in England, possibly due to hepatic amoebiasis f
 - The exact cause of Ramanujan's death is debated. While tuberculosis was the contemporary diagnosis, a 1994 analysis concluded his symptoms were more consistent with hepatic amoebiasis.
 - The extent to which Ramanujan's results were derived through mystical intuition versus rigorous, unrecorded work on slates is discussed. Mathematician Bruce C. Berndt argues he could prove most results but chose not to record the proofs.
 - Hardy speculated that had Ramanujan been introduced to modern mathematical ideas earlier, he might have become the greatest mathematician of his time.
+
+Source: adapted from "Srinivasa Ramanujan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Srinivasa_Ramanujan

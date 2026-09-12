@@ -41,3 +41,5 @@ The conference's promises were quickly broken. Stalin installed a communist gove
 - **Was Yalta a "betrayal"?** The conference is central to the "Western betrayal" narrative, which argues that the U.S. and UK abandoned Eastern Europe to Soviet domination. Critics claim the vague language on elections allowed Stalin to impose communist regimes.
 - **Could the West have acted differently?** Historians debate whether Roosevelt and Churchill had the leverage to enforce the Declaration of Liberated Europe, given the Soviet military occupation of the East. Some argue the agreements were pragmatic concessions to existing power realities.
 - **Impact on the Cold War:** Yalta is often cited as a foundational event of the Cold War, but scholars disagree on whether it caused the conflict or merely reflected pre-existing tensions and power imbalances that made conflict likely.
+
+Source: adapted from "Yalta Conference" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yalta_Conference

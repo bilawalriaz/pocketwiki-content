@@ -42,3 +42,5 @@ While vocal-centric, Hindustani music has a rich instrumental tradition. Key str
 
 ## Debates and Open Questions
 The origin of the khyal vocal form is controversial; while sometimes attributed to Amir Khusrau, the record of his compositions does not support this, and the modern form is more closely associated with the court musician Sadarang. Bhatkhande's thaat system for classifying ragas, while useful, is described as "very flawed" and contains inconsistencies and ambiguities. The precise point of divergence between Hindustani and Carnatic music is debated, though the 13th-century *Sangita Ratnakara* is often cited as a marker.
+
+Source: adapted from "Hindustani classical music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hindustani_classical_music

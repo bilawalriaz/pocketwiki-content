@@ -36,3 +36,5 @@ The Empire's final decades were shaped by the rise of Prussia and Austria as riv
 | 1806 | Francis II dissolves the Empire after Napoleon's victories. |
 
 Scholars continue to debate the Empire's nature. Some view the emperor as largely powerless after 1648, while others argue the Habsburgs retained significant influence through their dynastic lands and control of imperial institutions. Voltaire's quip that the Empire was "neither holy, nor Roman, nor an empire" remains contested: modern historians point to its legal coherence, its role as a defender of Christendom, and its functional political structure, even as they acknowledge its persistent fragmentation.
+
+Source: adapted from "Holy Roman Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Holy_Roman_Empire

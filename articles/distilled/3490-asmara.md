@@ -43,3 +43,5 @@ Asmara is the economic hub of Eritrea, hosting the headquarters of Eritrean Airl
 
 ## Debates and Open Questions
 The source does not detail specific scholarly debates, but it notes the city's founding is based on local oral tradition. The primary ongoing issue highlighted is the preservation of Asmara's historic center, which was placed on the World Monuments Fund's 2006 Watch List of 100 Most Endangered Sites to prevent decay and redevelopment.
+
+Source: adapted from "Asmara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Asmara

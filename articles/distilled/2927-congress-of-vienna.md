@@ -38,3 +38,5 @@ The Congress established the Concert of Europe, a system of diplomatic cooperati
 
 ## Debates and Open Questions
 Historians debate whether the Congress was a reactionary settlement that stifled progress or a pragmatic achievement that secured a century of peace. Some argue it successfully managed great-power relations through the Concert of Europe, while others contend it merely postponed conflicts by ignoring rising nationalism and liberalism. Its effectiveness in preventing large-scale war until 1914 is contrasted with its failure to address underlying political tensions.
+
+Source: adapted from "Congress of Vienna" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Congress_of_Vienna

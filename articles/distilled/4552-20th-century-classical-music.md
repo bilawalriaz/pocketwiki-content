@@ -42,3 +42,5 @@ Important cultural trends informed musical styles. **Primitivism** influenced ea
 - The dating of **postmodernism** in music is debated; some place its start as early as 1930, while others see it as a later 20th-century reaction to modernism.
 - The boundaries and definitions of terms like **experimental music** and **electronic music** are fluid and contested.
 - The relationship between **modernism and postmodernism** is complex, with figures like John Cage claimed by both camps.
+
+Source: adapted from "20th-century classical music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/20th-century_classical_music

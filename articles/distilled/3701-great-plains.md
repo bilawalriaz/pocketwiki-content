@@ -48,3 +48,5 @@ The Dust Bowl of the 1930s, caused by drought and inappropriate cultivation, for
 - **Ecological Boundaries**: The eastern boundary of the Great Plains is debated; it is primarily climatic (rainfall line) rather than topographic, and definitions vary between physiographic and ecological models.
 - **"Grit, not Grass" Hypothesis**: Paleontological evidence suggests that the open, gritty habitat of the Miocene, not the grass itself, drove dietary changes in mammals, challenging the traditional link between grassland spread and grazer evolution.
 - **Sustainability of Current Land Use**: The long-term viability of irrigated agriculture depleting the Ogallala Aquifer and the ongoing rural population decline prompt questions about future land use, including proposals like the Buffalo Commons.
+
+Source: adapted from "Great Plains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Plains

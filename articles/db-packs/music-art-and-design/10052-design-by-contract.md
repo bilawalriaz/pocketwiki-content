@@ -55,3 +55,5 @@ Native DbC support appears in Ada 2012, SPARK, Ciao, Clojure, Cobra, C++ (since 
 ## Origins
 
 The term was coined by Bertrand Meyer in connection with his design of the Eiffel programming language, first described in articles starting in 1986 and in the two editions (1988, 1997) of his book *Object-Oriented Software Construction*. DbC draws on formal verification, formal specification, and Hoare logic. Its original contributions include a clear client/supplier metaphor, a formalism for redefinition and dynamic binding in inheritance, application to exception handling, and the connection with automatic software documentation.
+
+Source: adapted from "Design by contract" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Design_by_contract

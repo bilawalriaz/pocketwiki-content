@@ -45,3 +45,5 @@ Hồ Chí Minh was a writer, poet, and polyglot, fluent in multiple languages. H
 - **Land Reform Casualties**: The number of executions during the 1953–1956 land reform is disputed, with estimates ranging from 13,500 to 100,000, though declassified documents suggest a lower figure.
 - **Early Life Details**: Many aspects of his life before 1941, including his activities in the U.S. and UK, are based on his own claims and are difficult to verify independently.
 - **Betrayal of Phan Bội Châu**: A controversial hypothesis suggests Hồ betrayed the rival nationalist leader Phan Bội Châu to the French in 1925, though this is rejected by many historians as likely propaganda.
+
+Source: adapted from "Ho Chi Minh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ho_Chi_Minh

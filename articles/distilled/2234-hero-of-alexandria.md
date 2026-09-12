@@ -37,3 +37,5 @@ Hero's original writings are largely lost. His works survive in Byzantine manusc
 - **Hero's dates**: His active period is uncertain, with estimates ranging from 150 BC to 250 AD. The link to the 62 AD eclipse is a hypothesis based on a vague example in his text.
 - **Practicality of inventions**: The aeolipile is often called the first steam engine, but historians debate whether it was used for useful work or was primarily a demonstration or toy.
 - **Authorship**: Several works, such as *Geometrica* and *Stereometrica*, are sometimes attributed to Hero but are now considered likely to be by other authors.
+
+Source: adapted from "Hero of Alexandria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hero_of_Alexandria

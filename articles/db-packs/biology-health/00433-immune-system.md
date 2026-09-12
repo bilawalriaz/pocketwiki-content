@@ -35,3 +35,5 @@ Medicine exploits the immune system in several directions. Immunosuppressive dru
 ## Open questions
 
 The conditions that activate gamma-delta T cells, an unusual subset that straddles innate and adaptive immunity, are not fully understood. The role of vitamin D in immunity is debated, with clinical trials giving conflicting results. Whether highly regenerative animals such as axolotls have a less competent immune system remains an active hypothesis. And claims that everyday habits can "boost" immunity beyond its normal capacity lack strong evidence.
+
+Source: adapted from "Immune system" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Immune_system

@@ -51,3 +51,5 @@ European colonialism began with the Portuguese capture of Malacca in 1511, follo
 - The exact nature, process, and extent of Indian influence on Southeast Asian civilizations is fiercely debated. Scholars question whether Indian merchants, Brahmins, or local initiative drove the process, and how deep the cultural adoption went.
 - The routes and primary agents for the introduction of Islam into Southeast Asia are debated, with hypotheses pointing to direct Arab traders, Indian Muslim merchants, or even Chinese connections via the South China Sea.
 - The true character and extent of control exerted by empires like Majapahit over their claimed territories remain unclear.
+
+Source: adapted from "History of Southeast Asia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Southeast_Asia

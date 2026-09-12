@@ -46,3 +46,5 @@ Addams had romantic relationships with women, including Starr and Mary Rozet Smi
 - **Eugenics Support**: Her advocacy for eugenics is controversial, as it conflicts with her later legacy of social justice, raising questions about her views on race and disability.
 - **Pacifism's Impact**: Historians assess whether her pacifism during World War I weakened the U.S. position or advanced long-term peace ideals.
 - **Legacy in Sociology**: There is ongoing discussion about her marginalization in early sociology and efforts to reclaim her contributions to the field.
+
+Source: adapted from "Jane Addams" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jane_Addams

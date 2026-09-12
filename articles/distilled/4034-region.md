@@ -49,3 +49,5 @@ Human geography examines patterns of human interaction with environments, leadin
 
 ## Debates and Open Questions
 The source text notes that continental regions are "conceptual constructs, usually lacking distinct boundaries" and are "mental constructs" derived from various sources of knowledge. This implies an ongoing scholarly discussion about how these large-scale regions are defined and perceived. The text also mentions a "controversial proposal" in Sweden to replace current counties with large regions, indicating active debate over administrative regionalization.
+
+Source: adapted from "Region" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Region

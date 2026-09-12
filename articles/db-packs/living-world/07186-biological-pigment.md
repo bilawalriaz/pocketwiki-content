@@ -34,3 +34,5 @@ Several disorders illustrate how central these molecules are. **Albinism** is th
 In the ocean, carotenoids are usually bound into **carotenoproteins** (carotenoid–protein complexes) that produce colors ranging from red to blue. Lobster carapace color comes from astaxanthin bound to different proteins: **crustacyanin** (absorbance maximum 632 nm) produces slate-blue, while **crustochrin** (max 409 nm) produces yellow. Tetrapyrroles serve in electron transport, and melanins protect against UV. Roughly 90% of deep-sea animals produce **bioluminescence** through a reaction of luciferin, luciferase, salt, and oxygen, typically emitting blue or green light, the wavelengths that travel farthest through seawater. **Mycosporine-like amino acids** absorb UV at 310–360 nm and act as natural sunscreens.
 
 Humans extract biological pigments as dyes and consume some as dietary supplements, notably astaxanthin and lycopene.
+
+Source: adapted from "Biological pigment" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_pigment

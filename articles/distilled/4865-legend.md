@@ -40,3 +40,5 @@ Urban legends are a modern folklore genre, rooted in popular culture, comprising
 
 ## Debates and Open Questions
 Scholars have long debated the precise categorization of legends, seeking a content-based system similar to the Aarne–Thompson folktale index. The distinction between legend and rumour is considered by some to be effectively obliterated, as both can persist as long-term cultural phenomena. The relationship between legend and other narrative forms like myth, folktale, and fable remains a subject of analysis, particularly regarding the role of historical basis, realism, and supernatural elements.
+
+Source: adapted from "Legend" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Legend

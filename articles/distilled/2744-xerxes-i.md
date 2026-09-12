@@ -38,3 +38,5 @@ After returning from Greece, Xerxes focused on completing major building project
 - **Treatment of Babylon**: Scholars debate whether Xerxes systematically destroyed Babylonian temples and the statue of Marduk, or if these stories stem from later anti-Persian bias.
 - **Role of Carthage**: Ancient sources suggest Xerxes coordinated a Carthaginian invasion of Sicily to distract Greek allies, but modern scholarship is skeptical of this alliance.
 - **Historical Basis of Esther**: Xerxes is often identified with King Ahasuerus in the biblical Book of Esther, but there is no consensus on what historical event, if any, inspired the story.
+
+Source: adapted from "Xerxes I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Xerxes_I

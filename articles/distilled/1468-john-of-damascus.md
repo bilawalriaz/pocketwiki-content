@@ -59,3 +59,5 @@ The primary biography is a 10th-century Arabic hagiography by an unknown author,
 *   **Sources for the 20 added heresies:** The origins of John’s heresies 81–100 are uncertain. Lequien (18th c.) speculated dependence on Sophronius, Leontius, Theodoret, and Timothy, but modern scholarship (e.g., Chase 1958) finds "no foundation" for these specific claims.
 *   **Ethnic identity:** Whether the Mansur family were Arab Christians (Kalb/Taghlib) or Arabized Syrians remains unresolved; sources support both "Arab Syrian" and "Syrian origin" readings.
 *   **Dating of monastic entry:** The traditional date (c. 706) links to al-Walid’s Islamicization, but Muslim sources only mention Sarjun’s departure, not John’s.
+
+Source: adapted from "John of Damascus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_of_Damascus

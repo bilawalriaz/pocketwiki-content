@@ -35,3 +35,5 @@ Art criticism evaluates art within aesthetics or theories of beauty, dividing in
 ## Open debates
 
 Whether contested works such as Duchamp's *Fountain*, conceptual art, and video games qualify as art remains unsettled, as do the exact definitions of music's core elements and whether art criticism can transcend its sociopolitical circumstances. Judgement of art varies by aesthetics, perception, personal preference, and cultural acceptance, raising persistent questions of subjectivity.
+
+Source: adapted from "The arts" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_arts

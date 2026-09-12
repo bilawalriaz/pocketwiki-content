@@ -46,3 +46,5 @@ The annual Sapporo Snow Festival draws over 2 million tourists. The city is the 
 ## Debates and Open Questions
 - The city has considered bids for the 2026 and 2030 Winter Olympics but is now reportedly considering a bid for the 2034 Winter Olympics, with estimated costs up to 456.5 billion yen.
 - The planned extension of the Hokkaido Shinkansen to Sapporo is a major ongoing infrastructure project with a target completion date of March 2039.
+
+Source: adapted from "Sapporo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sapporo

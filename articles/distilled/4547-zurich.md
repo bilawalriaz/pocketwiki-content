@@ -47,3 +47,5 @@ The official language is Standard German, but the spoken language is Zurich Germ
 - The origin of the name "Zurich" is interpreted as deriving from a Gaulish personal name, possibly *Tūros*, but this remains a scholarly interpretation.
 - The exact nature and extent of the first Jewish community in Zurich, which existed in the 13th century before being persecuted in 1349, is a subject of historical study.
 - The effectiveness and implementation of Zurich's "Masterplan Velo" to promote cycling have faced public critique regarding delays and infrastructure goals.
+
+Source: adapted from "Zurich" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zurich

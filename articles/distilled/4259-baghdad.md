@@ -44,3 +44,5 @@ Baghdad's population is predominantly Arab, with significant Kurdish, Turkmen, A
 - The etymology of the name "Baghdad" is disputed, with theories pointing to Middle Persian, Old Babylonian, or even Akkadian origins.
 - Scholars debate the exact population of Baghdad at its peak during the Golden Age, with estimates ranging from over one million to two million.
 - The long-term impact of the 1258 Mongol sack on the decline of Islamic civilization is a subject of historical debate.
+
+Source: adapted from "Baghdad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baghdad

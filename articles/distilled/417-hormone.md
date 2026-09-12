@@ -52,3 +52,5 @@ Hormones and analogs are widely used medically: estrogens/progestogens (contrace
 - The hierarchical model of hormonal signaling (linear steps) is acknowledged as an oversimplification; real systems involve multiple target cell types and tissue-specific responses to the same hormone.
 - Brassinosteroids challenge the lipid-soluble/hydrophilic receptor paradigm: they are lipid-soluble polyhydroxysteroids yet bind cell-surface receptors.
 - The precise mechanisms by which hormone concentration probabilities translate into specific behavioral outcomes, and the relative weighting of hormonal vs. environmental stimuli, are active research areas.
+
+Source: adapted from "Hormone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hormone

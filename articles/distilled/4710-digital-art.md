@@ -44,3 +44,5 @@ Since the 2020-2021 boom, blockchain technology, particularly Non-Fungible Token
 - **Ownership and Copyright**: The rise of NFTs has intensified questions about who owns digital copyrights, especially for 3D scans of historical artifacts.
 - **Authenticity and Value**: The use of AI in art creation raises questions about authorship, originality, and the value of human skill versus algorithmic generation.
 - **Institutional Integration**: The acceptance and integration of digital art, especially NFT-based work, into traditional art institutions like museums and auction houses is a developing and contested process.
+
+Source: adapted from "Digital art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Digital_art

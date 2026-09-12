@@ -52,3 +52,5 @@ Birmingham has major cultural institutions, including the Birmingham Royal Balle
 ## Debates and Open Questions
 - The source notes that the true perpetrators of the 1974 Birmingham pub bombings have never been arrested, and the convictions of the Birmingham Six are considered a major miscarriage of justice.
 - The city council's financial crisis, triggered by equal pay claims and an IT system overrun, presents an ongoing challenge to the city's governance and services.
+
+Source: adapted from "Birmingham" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Birmingham

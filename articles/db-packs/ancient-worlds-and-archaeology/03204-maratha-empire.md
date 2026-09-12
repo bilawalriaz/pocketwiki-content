@@ -27,3 +27,5 @@ The British East India Company exploited these internal divisions directly. The 
 ## A note on terminology
 
 Historians still debate what to call the polity. "Empire" implies a centralised state, which the later Marathas were not. "Confederacy" suggests a stable power-sharing arrangement, which also does not fit, because the balance between the Peshwa and the great houses shifted constantly. The accurate picture is a kingdom that centralised under Shivaji, expanded through semi-autonomous commanders, and then fractured into competing warlords just as a better-organised colonial adversary arrived.
+
+Source: adapted from "Maratha Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maratha_Empire

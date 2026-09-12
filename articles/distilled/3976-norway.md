@@ -48,3 +48,5 @@ The population is approximately 5.6 million, primarily ethnic Norwegians. The SÃ
 - **EU Membership**: The question of whether Norway should join the European Union remains a recurring political debate, with referendums held in 1972 and 1994 rejecting membership.
 - **Oil Dependency**: There is ongoing debate about the pace of transitioning away from the petroleum industry to meet climate goals, balancing economic interests with environmental commitments.
 - **Immigration and Integration**: As immigration has become the main driver of population growth, policies for integration and the balance between multiculturalism and national identity are subjects of political discussion.
+
+Source: adapted from "Norway" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Norway

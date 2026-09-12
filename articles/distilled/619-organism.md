@@ -50,3 +50,5 @@ Queller and Strassmann argue that **organismality**—the attributes making an e
 - **Are viruses organisms?** They evolve and carry genes but lack metabolism and autonomous replication; discovery of viral metabolic genes (cellular origin) fuels ongoing debate.  
 - **Context-dependence of individuality:** Díaz‐Muñoz et al. posit organismality as context-dependent; it remains unclear how to measure cooperation/conflict quantitatively across diverse systems.  
 - **Synthetic biology boundaries:** As chimaeras, cyborgs, and hybrots proliferate, the distinction between evolved teleonomy and designed goal-seeking behavior becomes a central philosophical and regulatory problem.
+
+Source: adapted from "Organism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Organism

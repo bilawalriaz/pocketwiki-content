@@ -38,3 +38,5 @@ The painting was acquired by the Art Institute of Chicago in 1924 on the advice 
 - **Social Meaning:** Historian Ernst Bloch interpreted the painting's static, mechanical figures as a commentary on the rigid social structure of French society.
 - **Symbolism:** The exact meaning of certain elements, like the woman with the fishing rod or the staring girl, is debated, with interpretations ranging from social critique to personal symbolism.
 - **Seurat's Intent:** While Seurat stated his model was the Parthenon frieze, the precise balance of his democratic, "harmony of opposites" vision versus a more critical view of modernity remains a subject of analysis.
+
+Source: adapted from "A Sunday Afternoon on the Island of La Grande Jatte" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte

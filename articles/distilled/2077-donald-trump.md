@@ -51,3 +51,5 @@ Trump's political style, Trumpism, is described as right-wing populist. His rhet
 - **Economic Policies**: Economists debate the long-term effects of his protectionist trade policies, large tax cuts, and high tariffs on the U.S. and global economies.
 - **Legal Legacy**: The implications of his multiple impeachments, criminal conviction, and indictment dismissals due to presidential immunity set new precedents for presidential accountability.
 - **Foreign Policy Shifts**: Analysts question the sustainability and consequences of his transactional "America First" foreign policy, including its impact on alliances and global stability.
+
+Source: adapted from "Donald Trump" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Donald_Trump

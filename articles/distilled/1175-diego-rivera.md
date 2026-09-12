@@ -70,3 +70,5 @@ Rivera’s full name—Diego María de la Concepción Juan Nepomuceno Estanislao
 - **Vidali/Mella foreknowledge**: Rivera’s inclusion of assassin Vittorio Vidali and victim Julio Antonio Mella in *En el Arsenal* (1928) before Mella’s 1929 murder fuels speculation about Rivera’s complicity or prescience; no evidence resolves it.
 - **AMORC vs. Communism**: Rivera’s simultaneous Rosicrucian membership and Marxist militancy—defended as infiltration, described as “materialist” occultism—exposes tensions between esoteric spirituality and dialectical materialism that historians interpret variously as syncretism, opportunism, or genuine philosophical hybridity.
 - **Auction record provenance**: *The Rivals* (1931) sold for $9.76M (Christie’s, 2018) from the Rockefeller collection; its status as record-holder for Latin American art (until 2021) raises questions about market canonization versus art-historical centrality.
+
+Source: adapted from "Diego Rivera" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diego_Rivera

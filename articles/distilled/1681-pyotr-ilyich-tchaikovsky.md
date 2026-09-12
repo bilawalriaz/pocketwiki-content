@@ -95,3 +95,5 @@ Tchaikovsky was the first full-time professional Russian composer, enabled by vo
 *   **Structural Competence vs. Originality:** Critics historically faulted his non-Germanic sonata forms as weakness; modern scholars view his block-juxtaposition method as an original structural solution for Russian melodic material.
 *   **Emotionalism: Depth or Shallowness?** 20th-century critics dismissed his direct emotional appeal as manipulative or trivial; 21st-century critics increasingly view it as psychological depth and innovation.
 *   **Nationalist vs. Cosmopolitan Identity:** The tension between Russian critics (too Western) and Western critics (exotic but indeterminate) reflects the unresolved question of Russia’s place in European musical culture, which Tchaikovsky first articulated.
+
+Source: adapted from "Pyotr Ilyich Tchaikovsky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky

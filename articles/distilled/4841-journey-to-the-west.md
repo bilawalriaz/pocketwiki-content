@@ -37,3 +37,5 @@ The novel is deeply rooted in Chinese folk religion, Buddhism, Taoism, and Confu
 
 ## Debates and Open Questions
 The authorship of the novel is a major scholarly debate. While traditionally credited to Wu Cheng'en, this attribution is contested. Evidence includes a 1625 local gazetteer mentioning Wu wrote a work called *Journey to the West*, but scholars note this could refer to an earlier version. The novel's synthesis of folk material makes definitive authorship difficult to establish. Another debate concerns the novel's interpretation: whether it is primarily a secular folk comedy, as argued by scholar Hu Shi, or a work with deeper spiritual and allegorical meaning, a view supported by more recent scholarship.
+
+Source: adapted from "Journey to the West" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Journey_to_the_West

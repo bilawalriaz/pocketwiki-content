@@ -53,3 +53,5 @@ All muscle types use **actin-myosin sliding** for contraction, regulated by **tr
 *   **Fiber type nomenclature:** Historical confusion exists between Type IIx and Type IIb designations in humans; some older literature refers to the fastest human glycolytic fiber as Type IIB.
 *   **Fatigue mechanism:** The attribution of muscle pain during intense anaerobic bursts to lactic acid build-up is noted as incorrect in the source, though the actual mechanism is not specified.
 *   **Aging and DNA damage:** Oxidative DNA damage (8-OHdG) and double-strand breaks accumulate with age in rodent skeletal muscle; the causal role in human sarcopenia or functional decline is implied but not detailed.
+
+Source: adapted from "Muscle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muscle

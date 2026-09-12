@@ -30,3 +30,5 @@ Reactions are usually coupled to mechanical or electrical constraints. A gas-pro
 
 Conventional chemical thermodynamics treats systems at or very near equilibrium. Far from equilibrium, the subject opens into non-equilibrium thermodynamics, developed largely by Ilya Prigogine. He showed that open systems driven by sustained energy exchange can self-organise into ordered, stable patterns he called **dissipative structures**, which exist only as long as the exchange continues. The same mathematics has been applied to city traffic, insect communities, the development of biological form, and the growth of tumours, settings where classical near-equilibrium theory predicts only disorder.
 ```
+
+Source: adapted from "Chemical thermodynamics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemical_thermodynamics

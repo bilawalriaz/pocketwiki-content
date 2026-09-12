@@ -41,3 +41,5 @@ Approximately 300,000 people climbed Mount Fuji in 2009, primarily between July 
 - The etymology of the name "Fuji" remains unresolved, with multiple competing linguistic hypotheses.
 - The current eruptive risk is debated; while classified as low, post-2011 earthquake models suggesting increased magma pressure are considered speculative and unverifiable.
 - The impact of overtourism and the effectiveness of new management measures like hiker limits and fees are ongoing concerns.
+
+Source: adapted from "Mount Fuji" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Fuji

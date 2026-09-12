@@ -33,3 +33,5 @@ Cần Thơ is an educational center for the Mekong Delta, hosting institutions s
 
 ## Debates and open questions
 The source text does not present any scholarly debates or open questions regarding Cần Thơ.
+
+Source: adapted from "Cần Thơ" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/C%E1%BA%A7n_Th%C6%A1

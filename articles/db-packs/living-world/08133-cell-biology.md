@@ -25,3 +25,5 @@ Modern cell biology rests on a small toolkit of methods that make the invisible 
 ## Cytopathology
 
 A direct medical offshoot is cytopathology, which diagnoses disease at the cellular level by examining free cells or small tissue fragments rather than whole tissue. It is widely used to detect cancer and certain infections. The Pap smear, which screens for cervical cancer and precancerous lesions, is its most familiar application.
+
+Source: adapted from "Cell biology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cell_biology

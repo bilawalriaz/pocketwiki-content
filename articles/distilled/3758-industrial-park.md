@@ -35,3 +35,5 @@ Specialized parks exist, such as biotechnology industrial parks (or eco-industri
 
 ## Debates and Open Questions
 The source material highlights ongoing scholarly debate about the optimal balance between organic cluster emergence and planned growth in industrial park design. It also notes that the effectiveness of parks as policy instruments depends critically on complementary secondary policies regarding sustainability, governance, and design, suggesting an open question about the specific conditions that make them successful.
+
+Source: adapted from "Industrial park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Industrial_park

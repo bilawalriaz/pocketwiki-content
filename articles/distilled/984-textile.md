@@ -51,3 +51,5 @@ The textile industry is a major polluter, using vast amounts of water and releas
 - The exact timeline of early human clothing remains uncertain, though evidence suggests use of animal skins at least 70,000 years ago.  
 - The sustainability of synthetic fibres versus natural alternatives is an ongoing concern, particularly regarding microplastic emissions and recyclability.  
 - The health impacts of formaldehyde and flame retardants in finished textiles require further study and regulation.
+
+Source: adapted from "Textile" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Textile

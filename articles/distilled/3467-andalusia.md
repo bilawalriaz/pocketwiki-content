@@ -46,3 +46,5 @@ Andalusian culture is a fusion of its diverse history. Flamenco music and dance,
 - The etymology of "Al-Andalus" is disputed, with theories involving the Vandals, Goths, or pre-Roman substrate.
 - The precise historical meaning and territorial extent of the terms "Andalusia" and "Al-Andalus" have varied over centuries.
 - The 2007 Statute of Autonomy cites the 1919 Andalusianist Manifesto describing Andalusia as a "national reality" but does not formally endorse that specific formulation.
+
+Source: adapted from "Andalusia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andalusia

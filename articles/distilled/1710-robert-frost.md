@@ -59,3 +59,5 @@ Frost was influenced by Robert Graves, Rupert Brooke, Thomas Hardy, W.B. Yeats, 
 - **Classical influence extent**: Helen H. Bacon argues for deep, specific Greek/Latin influence (e.g., *Bacchae* in "Birches," Virgil in "One More Brevity"). The degree to which Frost consciously deployed classical allusion versus absorbed it through education remains discussed.
 - **Political conservatism**: Frost’s public positions (e.g., skepticism of New Deal, "Balfour Israelite" declaration) and his 1962 Soviet trip to lobby Khrushchev for peace complicate simple labels. Scholars assess how politics inform poems like "Build Soil" or "The Gift Outright."
 - **Textual authority of late poems**: Frost revised poems across editions (e.g., "The Gift Outright" line changes for JFK inauguration). The multi-volume *Letters* edition (2014–2026) and *Notebooks* (2007) fuel ongoing editorial and interpretive debates.
+
+Source: adapted from "Robert Frost" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Frost

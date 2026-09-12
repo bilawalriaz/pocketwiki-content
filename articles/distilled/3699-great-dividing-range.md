@@ -39,3 +39,5 @@ The range comprises hundreds of peaks and smaller named ranges (e.g., Blue Mount
 
 ## Debates and Open Questions
 The source does not explicitly outline major scholarly debates. However, it notes that the term "Great Dividing Range" can refer specifically to the watershed crest or to the entire upland complex, implying some ambiguity in its precise geographical definition. The proposed Bradfield Scheme to divert water inland remains a conceptual proposal, not an established fact.
+
+Source: adapted from "Great Dividing Range" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Dividing_Range

@@ -50,3 +50,5 @@ The post-war Fourth Republic faced crises in its colonies, notably in Indochina 
 *   The extent to which the Hundred Years' War awakened a modern sense of French nationalism versus being a series of feudal struggles is debated.
 *   The causes and legacy of the French Revolution remain subjects of intense scholarly debate, particularly regarding its radical phase and long-term impact on democracy.
 *   The success and failure of France's colonial "civilizing mission" and the long-term effects of decolonization on French society and identity are ongoing topics of discussion.
+
+Source: adapted from "History of France" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_France

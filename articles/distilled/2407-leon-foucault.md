@@ -44,3 +44,5 @@ In his later years, Foucault worked on regulating electric lights and modifying 
 
 ## Debates and open questions
 The source text does not detail ongoing scholarly debates about Foucault's work, focusing instead on the historical record of his experiments and their immediate impact.
+
+Source: adapted from "Léon Foucault" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/L%C3%A9on_Foucault

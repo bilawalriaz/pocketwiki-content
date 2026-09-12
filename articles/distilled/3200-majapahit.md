@@ -46,3 +46,5 @@ Majapahit employed a bureaucratic structure with the king at the apex, assisted 
 
 ## Debates and open questions
 The true nature and extent of Majapahit's power are heavily debated. The Nagarakretagama's list of 98 tributaries may represent a sphere of influence or geographical knowledge rather than direct political control. Scholars question whether Majapahit was a centralized empire or a network of trade connections and ceremonial overlordship. The exact date of its fall is also contested, with traditional chronograms pointing to 1478, while final conquest by Demak occurred in 1527.
+
+Source: adapted from "Majapahit" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Majapahit

@@ -21,3 +21,5 @@ Persian literature acted as a shared cultural infrastructure. In the Caucasus, t
 ## Modernisation and its debates
 
 The 19th century introduced a rupture. Reformers such as Amir Kabir attacked classical poetry as a barrier to progress, and the Constitutional Revolution (1906–1911) pushed literature toward social criticism. Nima Yushij is treated as the father of modern Persian poetry because he freed verse from inherited metres, and Ahmad Shamlou extended that break with *sepid* ("white") free-verse poetry, which uses prose-like rhythms. Novel, play, and satire became central genres, with Hedayat and Daneshvar as major figures. Today the tradition continues in three national branches: Iranian, Afghan (where *Dari*, an early form of New Persian from Khorasan, is the basis of the local dialect), and Tajik. Scholars still debate whether 20th-century Persian literature genuinely adapted Western models or largely imported them.
+
+Source: adapted from "Persian literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Persian_literature

@@ -45,3 +45,5 @@ Women and girls often face specific exposure pathways: collecting water from con
 ## Research and policy
 
 Only about 10% of global health research addresses the diseases that make up 90% of the global disease burden, a gap known as the 10/90 gap. The Millennium Development Goal of halving unsafe-water access was met five years early, in 2010, and the UN declared water access a human right the same year. The WHO Commission on Social Determinants of Health recommends three actions: improve daily living conditions, especially for women, girls, and young children; redistribute money, power, and resources; and measure outcomes to guide policy. Low-cost interventions show measurable impact: vitamin A capsules cost about $0.02 each when given twice yearly, iron supplements $0.02–$0.08 per child per week, and deworming treatments $0.02–$0.25 twice a year, with mosquito nets offering cheap malaria prevention.
+
+Source: adapted from "Diseases of poverty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diseases_of_poverty

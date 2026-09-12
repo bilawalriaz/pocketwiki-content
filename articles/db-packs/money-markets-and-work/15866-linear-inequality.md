@@ -25,3 +25,5 @@ The solution set of one real linear inequality in ℝⁿ is a half-space, one of
 ## Linear programming
 
 A linear programming problem asks for the maximum or minimum of an objective function subject to a list of linear inequality constraints. The constraints themselves form a system of linear inequalities, so the feasible region is the convex polyhedron (or empty set) defined by that system, and the optimum is sought there.
+
+Source: adapted from "Linear inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Linear_inequality

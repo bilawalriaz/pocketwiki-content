@@ -33,3 +33,5 @@ the same equation again, an instance of Bohr's correspondence principle. The coh
 ## Applications
 
 Because many nuclei behave as magnetic dipoles, resonance with nuclear spin underlies nuclear magnetic resonance (NMR), NMR spectroscopy, and magnetic resonance imaging (MRI). In MRI, protons in body water split into two spin levels $\pm\gamma\hbar B/2$ in a strong field, with a small excess in the lower level by the Boltzmann distribution $N_0 e^{-E/kT}$. A resonant rotating field flips the excess, absorbing radio-wave energy; once the field is removed the protons re-equilibrate and re-emit at the resonance frequency. Electron paramagnetic resonance (EPR) uses unpaired electron spins instead, to detect free radicals.
+
+Source: adapted from "Magnetic resonance (quantum mechanics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Magnetic_resonance_%28quantum_mechanics%29

@@ -13,3 +13,5 @@ Legal systems adopt proportionality as a structural principle. In constitutional
 Architecture and art treat proportion as a compositional logic. Classical orders define column heights, intercolumniation, and entablature depths through fixed ratios. Renaissance theorists such as Alberti and Palladio derived spatial harmonies from musical intervals and human dimensions. Body proportions in figure drawing relate part to whole—head height as a module for total stature, limb lengths relative to torso—enabling coherent representation at any scale.
 
 Across these domains, proportionality operates as a scaling logic: a constant relational measure linking part to whole, input to output, claim to allocation, or means to ends. The mathematical core—*ratio as invariant*—reappears in feedback gains, scheduling weights, type metrics, legal tests, and compositional canons, each domain adapting the same structural idea to its own constraints.
+
+Source: adapted from "Proportionality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Proportionality

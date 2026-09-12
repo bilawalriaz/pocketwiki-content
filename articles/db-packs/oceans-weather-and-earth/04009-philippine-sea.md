@@ -17,3 +17,5 @@ Fisheries are a major economic resource for the Philippines, with the Benham Ris
 ## Human History
 
 The sea's recorded history begins in 1521, when Ferdinand Magellan became the first European to navigate it and named it *Mar Filipinas*. Its most consequential event came in June 1944, when the Battle of the Philippine Sea—the largest carrier-to-carrier battle in history—was fought near the Mariana Islands, and the United States crippled the Japanese navy and air force. In December 1944, Typhoon Cobra struck the U.S. Pacific Third Fleet operating in the sea. In 1965, a U.S. A-4 Skyhawk carrying a nuclear weapon was lost over the Philippine Sea.
+
+Source: adapted from "Philippine Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philippine_Sea

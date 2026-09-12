@@ -46,3 +46,5 @@ Art returned to Old Kingdom models but achieved new heights of quality and elega
 - The cause of the transition from the Twelfth to the Thirteenth Dynasty is unclear; it may have involved usurpation, civil war, or gradual decline.
 - Scholars debate whether the powerful nomarch families were violently suppressed by Senusret III or gradually absorbed into the central administration.
 - The extent of Egyptian control in Canaan during this period is uncertain, though administrative seals and military references suggest increased activity.
+
+Source: adapted from "Middle Kingdom of Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Middle_Kingdom_of_Egypt

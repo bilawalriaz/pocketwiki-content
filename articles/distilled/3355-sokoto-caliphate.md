@@ -45,3 +45,5 @@ The Sokoto era was a period of intense Islamic scholarship. Founding leaders Usm
 - **Scale of Slavery**: Estimates of the slave population vary widely, from 1 million to 2.5 million, with some scholars suggesting slaves constituted between a quarter and a half of the total population.
 - **Colonial Impact**: The British colonial policy of retaining the Sultan as a symbolic figurehead while abolishing political authority created a complex legacy, blending traditional Islamic authority with colonial administration.
 - **Modern Ideological Use**: The caliphate's legacy is invoked by contemporary groups like Boko Haram, though historians note fundamental differences between the original jihad's conservative Maliki-Sufi ideology and modern Salafi-jihadist thought.
+
+Source: adapted from "Sokoto Caliphate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sokoto_Caliphate

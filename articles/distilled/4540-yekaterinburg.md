@@ -51,3 +51,5 @@ The city is famous for its constructivist architecture, with over 140 structures
 ## Debates and Open questions
 - The founding of the first Old Believers village in the area (1672) is disputed by historians due to a lack of contemporary source evidence.
 - The exact cause and circumstances of the 1979 Sverdlovsk anthrax outbreak were initially concealed by Soviet authorities and are still a subject of study regarding biological weapons safety.
+
+Source: adapted from "Yekaterinburg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yekaterinburg

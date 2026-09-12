@@ -61,3 +61,5 @@ Guangdong hosts 160 institutions of higher education, ranking second among Chine
 *   The precise origins and migration patterns of the Hakka, Cantonese, and Teochew peoples are subjects of ongoing historical and linguistic research.
 *   The economic disparity between the highly developed Pearl River Delta and the less-developed eastern, western, and northern parts of the province remains a significant challenge.
 *   The balance between promoting Mandarin for national unity and preserving the dominant status of Cantonese and other local languages in daily life and media is a recurring cultural issue.
+
+Source: adapted from "Guangdong" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guangdong

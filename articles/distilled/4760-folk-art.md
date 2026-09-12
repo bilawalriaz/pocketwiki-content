@@ -41,3 +41,5 @@ Organizations like UNESCO and the International Organization of Folk Art (IOV) s
 - Definitions of folk art vary, with contested overlap with "naive art" and debates about its use in non-European contexts.
 - The term originated in Europe and developed differently in the United States, leading to divergent cultural interpretations.
 - The balance between individual creativity and community norms in folk art production is a subject of scholarly discussion, as noted by Alois Riegl.
+
+Source: adapted from "Folk art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Folk_art

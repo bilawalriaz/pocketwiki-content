@@ -47,3 +47,5 @@ The park is the most visited in the U.S., with over 14.1 million recreational vi
 - The cause of "Appalachian balds"—treeless mountaintop meadows—is not fully understood.
 - The reason why beech trees monopolize certain high mountain gaps (beech gaps) while other species like red spruce fail to encroach is unknown.
 - The successful regeneration of Fraser fir on some peaks following the devastating balsam woolly adelgid infestation of the 1960s is a subject of ongoing ecological monitoring.
+
+Source: adapted from "Great Smoky Mountains National Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Smoky_Mountains_National_Park

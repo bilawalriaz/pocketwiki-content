@@ -46,3 +46,5 @@ The Sphinx contains several man-made openings. A hole in the head, possibly for 
 - **Age and Erosion**: Mainstream archaeology dates it to the 4th Dynasty (c. 2600–2500 BC). Dissenting hypotheses, such as the water erosion hypothesis, argue for a much earlier origin (e.g., late Predynastic), but these are considered pseudoarchaeology by mainstream scholarship due to contradictory evidence.
 - **Cause of Damage**: The exact cause and perpetrator of the nose's destruction are unknown, though medieval accounts attribute it to a Sufi Muslim in 1378.
 - **Purpose of Tunnels**: The origin and purpose of various shafts and passages within the Sphinx (e.g., the rump passage) are debated, with theories ranging from ancient tomb exploration to 19th-century excavation attempts.
+
+Source: adapted from "Great Sphinx of Giza" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza

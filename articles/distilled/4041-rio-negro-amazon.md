@@ -35,3 +35,5 @@ The river was named by Francisco de Orellana in 1541. Jesuit missions were estab
 
 ## Debates and open questions
 The older view of blackwater rivers as "hunger rivers" with low productivity is debated and largely overturned by new research showing significant fish and turtle populations. The extent to which the Casiquiare canal facilitates species exchange between the Amazon and Orinoco basins, and the adaptability required for such migration, remains a subject of ecological study.
+
+Source: adapted from "Rio Negro (Amazon)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rio_Negro_%28Amazon%29

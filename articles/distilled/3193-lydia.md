@@ -48,3 +48,5 @@ Early Lydian religion was polytheistic and centered on nature fertility. Its pan
 - The exact date of the fall of the Lydian kingdom to Persia is debated; traditional dates of 547 BC are questioned, with some scholars suggesting it may have occurred after 539 BC.
 - The origin of the Etruscan civilization is a long-standing debate. Herodotus claimed they migrated from Lydia, but Dionysius of Halicarnassus and modern scholarship, including linguistic and genetic studies, overwhelmingly support an indigenous Italian origin, finding no evidence of a Lydian migration.
 - The precise dating of the first Lydian electrum coins is highly debated, with estimates ranging from 700 BC to 550 BC.
+
+Source: adapted from "Lydia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lydia

@@ -25,3 +25,5 @@ The 20th century turned North American states into global heavyweights. The Unit
 Economic integration deepened with the 1994 North American Free Trade Agreement (NAFTA), binding Canada, the United States, and Mexico into a free trade bloc. In 1995 Quebec held a sovereignty referendum; 51% voted no, keeping the province within Canada. Recent decades have been shaped by shocks such as the September 11, 2001 attacks, the 2008 Great Recession, and the COVID-19 pandemic, each testing the political and economic systems built over the previous centuries.
 
 Migration routes, population figures, and the demographic consequences of colonisation continue to be revised by archaeologists and geneticists, and the legacy of displacement remains an active political and scholarly question across all three nations.
+
+Source: adapted from "History of North America" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_North_America

@@ -83,3 +83,5 @@ Co-research standards (Dementia Enquirers Gold Standards) for involving people w
 *   **Kynurenine Pathway**: Lower kynurenine metabolites correlate with Alzheimer's neuropsychiatric symptoms; causal mechanism and therapeutic target validation required.
 *   **Health Equity**: Persistent disparities in diagnosis, care access, research inclusion, and outcomes for racial/ethnic minorities, low-SES, rural populations, and women (who bear disproportionate burden as patients and caregivers).
 *   **Prevention Translation**: While ~45% of cases theoretically preventable via 14 modifiable factors, population-level implementation (e.g., hearing aid provision, air pollution control, education equity) remains inconsistent globally.
+
+Source: adapted from "Dementia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dementia

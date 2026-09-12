@@ -40,3 +40,5 @@ The Revolution was also a civil war between Patriots (pro-independence) and Loya
 - Historians debate whether Patriot victory was inevitable or a "miracle," given Britain's military advantages. Some argue British strategic errors, like Howe's failure to pursue Washington decisively in 1776, were decisive.
 - The extent of popular support for the Revolution is contested; estimates of the population split between Patriots, Loyalists, and neutrals vary (e.g., 40% Patriot, 40% neutral, 20% Loyalist).
 - The war's legacy regarding liberty is debated: while it established a republic, it failed to end slavery or significantly improve the status of women and Native Americans, whose lands were ceded without their consent in the Treaty of Paris.
+
+Source: adapted from "American Revolutionary War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/American_Revolutionary_War

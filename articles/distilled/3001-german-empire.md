@@ -46,3 +46,5 @@ Germany entered World War I in 1914, offering Austria-Hungary a "blank check" of
 - **Responsibility for WWI**: The extent of Germany's (and specifically the "blank check") responsibility for causing World War I remains a major scholarly debate, with some historians like Fritz Fischer arguing for primary German culpability.
 - **Bismarck's Legacy**: Scholars assess whether Bismarck's alliance system was a coherent peace-preserving strategy or an inherently unstable structure that collapsed after his departure.
 - **Military Dictatorship in 1918**: Historians disagree on whether the wartime military leadership under Hindenburg and Ludendorff constituted a full "military dictatorship," noting the Reichstag retained some influence.
+
+Source: adapted from "German Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/German_Empire

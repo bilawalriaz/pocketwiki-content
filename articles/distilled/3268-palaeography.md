@@ -51,3 +51,5 @@ The Renaissance humanist script, based on Carolingian minuscule, was developed b
 - The precise origins of the Carolingian minuscule are disputed, with proposed locations including Rome, Tours, and Corbie.
 - The reliability of palaeography for precise dating is debated, with scholars noting its reliance on circular reasoning and insufficient data.
 - The development of Indian scripts like Brahmi is contested, with some scholars arguing for a discontinuous invention rather than gradual evolution from earlier glyphs.
+
+Source: adapted from "Palaeography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Palaeography

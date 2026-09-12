@@ -52,3 +52,5 @@ Sometime after 1795, Karamzin introduced the letter **ë** (yo) to distinguish s
 - **Historical methodology**: Critics charge Karamzin with casting a "false gloss and romantic air" over early annals, akin to Sir Walter Scott’s romantic historiography, sacrificing critical rigor for narrative elegance.
 - **Political legacy**: Whether Karamzin’s *Memoir* merely reflected Alexander I’s turn toward conservatism or actively entrenched reactionary ideology for decades remains debated.
 - **Literary paternity**: While hailed as "a Russian Sterne," the extent of direct borrowing versus independent adaptation of sentimentalist tropes is discussed.
+
+Source: adapted from "Nikolay Karamzin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nikolay_Karamzin

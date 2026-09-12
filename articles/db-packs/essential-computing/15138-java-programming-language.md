@@ -31,3 +31,5 @@ Releases follow a six-month cadence, every March and September. Long-term suppor
 Android complicates the picture. Android applications are written in the Java language but run on a different virtual machine: bytecode compiled for Android is not JVM bytecode, and the standard library is a large subset of Java SE provided through Apache Harmony. The use of Java-derived APIs in Android produced the *Google LLC v. Oracle America* copyright dispute. On April 5, 2021, the United States Supreme Court ruled 6–2 that Google's use of Java APIs in Android was fair use, while deliberately avoiding a ruling on whether APIs themselves can be copyrighted.
 
 Common criticisms target the verbosity of certain APIs, slow startup compared with natively compiled languages, the lack of unsigned integer types, quirks in floating-point arithmetic, and a history of security vulnerabilities in HotSpot.
+
+Source: adapted from "Java (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Java_%28programming_language%29

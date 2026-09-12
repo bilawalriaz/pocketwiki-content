@@ -61,3 +61,5 @@ Perception distinguishes the physiological/psychological experience from the phy
 - **Effective gravitational mass of sound**: Theoretical prediction that sound waves carry a tiny, typically negative effective gravitational mass due to nonlinear stress–energy corrections. The effect is extremely small (nonlinear order) and has not been experimentally confirmed.
 - **Non‑linear propagation effects**: Amplitude‑dependent speed of sound leads to harmonic generation and mixed tones (parametric arrays); the full implications for high‑amplitude wave propagation in various media remain an area of active research.
 - **Perceptual attribute taxonomy**: The classical six attributes (pitch, duration, loudness, timbre, texture, spatial location) are historically established, but newer research proposes **temporal envelope** and **temporal fine structure** as additional or alternative perceptually relevant dimensions.
+
+Source: adapted from "Sound" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sound

@@ -47,3 +47,5 @@ The river's future is uncertain due to chronic drought, climate change, and over
 - **Treaty Reexamination:** Drought conditions have led to calls from locals in New Mexico, Texas, and Mexico to reexamine the 1944 U.S.–Mexico water treaty.
 - **Future Flow:** The river's flow through areas like Las Cruces is projected to shorten dramatically (e.g., only June-July in 2021) due to climate change and overuse, with severe ecological consequences.
 - **Management of Drought:** Strategies like subsidizing farmers to fallow fields and shifting to groundwater pumping are being implemented but face challenges in the face of increasing drought.
+
+Source: adapted from "Rio Grande" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rio_Grande

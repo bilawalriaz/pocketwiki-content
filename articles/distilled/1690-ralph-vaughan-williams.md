@@ -66,3 +66,5 @@ Vaughan Williams recorded a few of his own works (Fourth Symphony, *Old King Col
 - **Operatic failure**: Commentators attribute the limited success of the operas to weak libretti, amateur premieres, and the composer’s preference for static tableaux over dramatic pacing.
 - **Late symphonies’ status**: The Eighth’s popularity contrasts with the Ninth’s initial critical puzzlement; the *Sinfonia antartica*’s symphonic credentials are still contested.
 - **Adeline’s knowledge of the affair**: Whether Vaughan Williams’s first wife knew of his relationship with Ursula Wood is uncertain; Ursula believed Adeline accepted her as successor.
+
+Source: adapted from "Ralph Vaughan Williams" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams

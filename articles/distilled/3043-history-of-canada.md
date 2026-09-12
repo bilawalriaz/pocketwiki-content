@@ -46,3 +46,5 @@ Recent decades have been defined by debates over national unity, particularly Qu
 *   **The Conquest (1763):** Historians debate whether it was a disaster that destroyed French-Canadian society or a providential event that allowed for the preservation of its language and religion under British rule.
 *   **The American Revolution's Impact:** Some historians argue it created a counter-revolutionary, loyalist English Canada, while others see it as setting Canada on a different path toward "modern liberty" focused on protecting rights from state infringement.
 *   **National Unity:** The failure of constitutional accords like Meech Lake (1990) and Charlottetown (1992) to gain Quebec's acceptance of the 1982 Constitution remains a central, unresolved issue in Canadian federalism.
+
+Source: adapted from "History of Canada" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Canada

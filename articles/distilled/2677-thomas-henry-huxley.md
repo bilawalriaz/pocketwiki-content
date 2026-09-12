@@ -55,3 +55,5 @@ Huxley coined "agnosticism" in 1869, defining it as a method based on reason and
 - **The 1860 Oxford Debate**: While its outcome is seen as a victory for evolution, some historians question whether aspects of the surviving story are later fabrications, as no verbatim transcript exists.
 - **Huxley's View on Natural Selection**: Huxley remained empirically cautious, arguing that natural selection could not be proven until it was observed to produce infertile varieties, a reservation that influenced later doubters of Darwinism.
 - **Racial Hierarchies**: Huxley's classification of human races into categories based on physical traits has been criticized as supporting a racial hierarchy, though he was a staunch abolitionist and opponent of polygenism (the theory of separate human origins).
+
+Source: adapted from "Thomas Henry Huxley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Henry_Huxley

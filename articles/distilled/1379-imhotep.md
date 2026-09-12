@@ -75,3 +75,5 @@ Imhotep's name is shared by the antagonist of the 1932 film *The Mummy*, along w
 ## Debates and open questions
 
 The location of Imhotep's tomb remains unknown, despite efforts to find it. His exact relationship to Djoser—whether twin brother, confidant, or childhood friend—remains speculative due to the uniqueness of his title. Whether he was truly a physician is debated: no extant text from his lifetime mentions healing abilities, and none mention his name in the first 1,200 years following his death; the first references to healing abilities appear some 2,200 years after his death. Similarly, while later legends credit him with designing the step pyramid and inventing stone architecture, pharaonic Egyptians themselves never made these attributions.
+
+Source: adapted from "Imhotep" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Imhotep

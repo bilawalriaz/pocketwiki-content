@@ -96,3 +96,5 @@ Specialized vocabulary; color often primary classification. Base colors: chestnu
 - **Pony vs. horse classification:** Height cutoffs vary by region/registry (14.0–14.2 hands); phenotype and breed registry rules create exceptions (miniature horses = horses; some pony breeds exceed height cutoff).  
 - **Cognitive limits:** Quantity discrimination demonstrated only for <4; full extent of concept learning and problem-solving under investigation.  
 - **Music/environmental stress:** Conflicting studies on auditory stimuli (music genre, talk radio) effects on stress/ulcers; optimal acoustic environment not settled.
+
+Source: adapted from "Horse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Horse

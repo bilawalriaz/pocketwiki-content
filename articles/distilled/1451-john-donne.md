@@ -57,3 +57,5 @@ Donne’s posthumous reputation was shaped by editors and biographers who impose
 - **Authorship and canon**: Manuscript discoveries (e.g., the 2018 Melford Hall find) continue to alter the canon. Variants between manuscript circulation and print editions complicate establishing authoritative texts.
 - **Gender and eroticism**: Feminist and queer readings interrogate the power dynamics in the erotic elegies (e.g., "The Flea," "To His Mistress Going to Bed"), asking whether the speaker’s intellectual dominance enacts or subverts patriarchal norms.
 - **Sermons vs. poems**: The 160 surviving sermons reveal a public, oral, doctrinal voice distinct from the private, manuscript lyric. The relationship between these modes—whether they represent separate faculties or a single rhetorical project—remains a critical frontier.
+
+Source: adapted from "John Donne" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Donne

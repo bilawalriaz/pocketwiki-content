@@ -33,3 +33,5 @@ The script underwent numerous rewrites and titles. Filming was done without a cl
 *   The film's narrative structure is intentionally enigmatic, with scholars comparing its organizational principle to music rather than conventional plot logic.
 *   The extent to which the film is a direct autobiography versus a more universal exploration of memory and guilt remains a point of discussion.
 *   The initial rejection by Soviet authorities and accusations of "cinephilic elitism" highlight the tension between Tarkovsky's artistic vision and state-sanctioned cinematic norms.
+
+Source: adapted from "Mirror (1975 film)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mirror_%281975_film%29

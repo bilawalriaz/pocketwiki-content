@@ -53,3 +53,5 @@ Villages embody cultural identity. The **Ashkenazi shtetl** symbolizes Eastern E
 - Whether villages should be defined by population, function, or administrative status remains contested across countries.  
 - The future of European villages amid ongoing rural depopulation and urbanization is uncertain.  
 - The role of traditional village governance (*adat*, *penghulu*) in modern nation-states is increasingly marginalized.
+
+Source: adapted from "Village" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Village

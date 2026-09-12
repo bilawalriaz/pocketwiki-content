@@ -33,3 +33,5 @@ Spanish explorer Ferdinand Magellan first navigated the sea in 1521. Its most fa
 ## Debates and open questions
 - The exact causal explanation for the exceptionally high biodiversity of the Coral Triangle is debated, though geological factors like plate tectonics are a leading theory.
 - The naming of adjacent waters is politically sensitive; while the Philippine government uses "West Philippine Sea" for parts of the South China Sea, the Philippine Sea proper remains distinct.
+
+Source: adapted from "Philippine Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philippine_Sea

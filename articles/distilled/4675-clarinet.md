@@ -47,3 +47,5 @@ The clarinet entered the orchestra in the mid-18th century and was championed by
 - The exact origin of the word "clarinet" is debated, with possible roots in French, Provençal, or Latin.
 - The specific contributions of Johann Christoph Denner versus his son Jacob Denner to the instrument's invention are uncertain.
 - The tonal differences between the French (Boehm) and German (Oehler) clarinet systems are noted by composers like Richard Strauss, though the practical significance of these differences in modern instruments is debated.
+
+Source: adapted from "Clarinet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clarinet

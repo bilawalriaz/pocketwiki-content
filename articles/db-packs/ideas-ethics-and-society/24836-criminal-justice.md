@@ -37,3 +37,5 @@ Criminal justice emerged as a university discipline in the 1920s. Berkeley polic
 France illustrates how the three-pillar model is arranged differently elsewhere. Investigation is split between the judicial police, which identifies perpetrators of criminal offences under Article 14 of the Code of Criminal Procedure, and the administrative police, which maintains public order. Criminal courts are tiered: the police tribunal handles minor *contraventions*, the correctional court hears *délits* (misdemeanours), and the Court of Assizes, three judges and six jurors sitting in each department, tries the most serious crimes. Appeals run through regional appeal courts to the criminal chamber of the Court of Cassation in Paris.
 
 A 2023 Gallup poll found 58% of Americans thought the criminal justice system was not tough enough, while 14% considered it too strict, a gap that keeps punishment philosophy at the centre of political debate.
+
+Source: adapted from "Criminal justice" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Criminal_justice

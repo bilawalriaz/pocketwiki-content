@@ -38,3 +38,5 @@ Techniques include stream of consciousness, which attempts to replicate a charac
 
 ## Debates and Open Questions
 An ongoing debate concerns the precise definition of narrative point of view, with various theoretical approaches defining it through person, perspective, voice, consciousness, and focus. The ideological point of view is noted as particularly difficult to formalize, relying partly on intuitive analysis. The function and effect of multiple narrative perspectives are also subjects of scholarly interpretation, as they can shape the understanding of social identity and overarching narrative.
+
+Source: adapted from "Narration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Narration

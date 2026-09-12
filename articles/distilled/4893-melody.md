@@ -39,3 +39,5 @@ In contemporary music of the 20th and 21st centuries, the primary importance of 
 
 ## Debates and Open Questions
 The relative significance of melody versus harmony has been a historical point of debate, with figures like Kirnberger asserting melody's primacy. Scholar Paul Narveson noted in 1984 that the majority of melodic topics had not been thoroughly explored, suggesting ongoing areas for study. The evolving role of melody in contemporary music, where traditional pitch and duration may be secondary to timbre and dynamics, continues to challenge and expand its definition.
+
+Source: adapted from "Melody" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Melody

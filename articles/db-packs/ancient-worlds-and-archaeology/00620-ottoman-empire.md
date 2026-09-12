@@ -39,3 +39,5 @@ Population grew from roughly 12 million in the 1520s to 25–32 million by 1800,
 ## Debates
 
 Modern academic consensus rejects the mid-20th-century "decline paradigm" of post-Suleiman stagnation, emphasising institutional adaptation and 18th-century resilience. The early state's nature remains contested: jihad state (Paul Wittek), nomadic Turkic tribal continuation (Mehmet Fuat Köprülü), booty-seeking confederacy open to Christians and Muslims (Heath Lowry, Dimitri Kitsikis), or Byzantine state under a Turkish Muslim veneer (Edward Gibbon, Speros Vryonis, Norman Stone). Twenty-first-century scholars re-periodise the Balkan conquest into an akıncı phase of slave-hunting and destruction followed by administrative integration. The devshirme system's classification as genocide and the economic effects of capitulations continue to generate scholarly disagreement.
+
+Source: adapted from "Ottoman Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ottoman_Empire

@@ -53,3 +53,5 @@ Chennai is a major transportation hub with an international airport, two major p
 - The exact origin of the name "Madras" is debated, with theories linking it to "Madraspattinam" or other local terms.
 - The first official use of the name "Chennai" is contested, with a 1639 sale deed and a 1646 land grant being cited by different scholars.
 - The city's vulnerability to flooding and water scarcity, exacerbated by urbanization and the shrinkage of water bodies, remains a critical environmental and planning challenge.
+
+Source: adapted from "Chennai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chennai

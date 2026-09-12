@@ -43,3 +43,5 @@ The city developed from its fortress core. Major urban plans were created in 193
 ## Debates and Open Questions
 - The identification of the Sintashta culture as proto-Indo-Iranian is based on linguistic and archaeological similarities to the Rigveda and funerary rituals, but this remains a subject of scholarly interpretation.
 - The exact size and mass of the 2013 Chelyabinsk meteor are estimates based on analysis of its trajectory and energy release.
+
+Source: adapted from "Chelyabinsk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chelyabinsk

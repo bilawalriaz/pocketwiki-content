@@ -37,3 +37,5 @@ The signature is valid if and only if `v = r`. The check works because `g` has o
 ## The critical role of the random `k`
 
 DSA's security collapses if the per-message value `k` is reused, predictable, or leaks even a few bits across signatures: any of these can be inverted to recover the private key `x`. The same flaw exists in ECDSA, and in December 2010 the group fail0verflow extracted Sony's ECDSA key for the PlayStation 3 because Sony reused `k` across signatures. The standard fix, RFC 6979, derives `k` deterministically from the private key and the message hash, guaranteeing uniqueness without a trusted random source. The same machinery can also be turned against the user: a malicious implementation can craft `k` values that subliminally leak the private key through signatures that all verify correctly.
+
+Source: adapted from "Digital Signature Algorithm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Digital_Signature_Algorithm

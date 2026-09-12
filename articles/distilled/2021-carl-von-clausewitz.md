@@ -44,3 +44,5 @@ Clausewitz’s dialectical method has led to frequent misinterpretation. His ide
 *   **Relevance in Modern Warfare:** Critics like Martin van Creveld argue Clausewitz's state-centric model is obsolete in an era of non-state actors and asymmetric warfare. Defenders counter that he wrote extensively on "people's war" and that his core ideas on politics and conflict remain applicable.
 *   **Interpretation of "War as Politics":** Some theorists claim the famous dictum that war is a continuation of politics is irrelevant today or was historically misapplied, particularly in the context of total war in the 20th century.
 *   **Influence vs. Misinterpretation:** There is ongoing debate about whether the destructive "total war" doctrines of the World Wars were a faithful application or a dangerous misinterpretation of Clausewitz's ideas.
+
+Source: adapted from "Carl von Clausewitz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_von_Clausewitz

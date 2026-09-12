@@ -53,3 +53,5 @@ The district has a mayor-council government but is subject to congressional over
 - **Statehood vs. Status Quo**: Proponents argue district residents deserve full voting rights and self-governance. Opponents contend statehood would unfairly grant Senate representation to a single city and undermine the concept of a separate federal district.
 - **Federal Control**: The use of presidential authority to take over local police, as in 2025, raises questions about the balance of power between local and federal authorities in the district.
 - **Budgetary Autonomy**: The district's structural budget deficit and congressional control over its finances remain contentious issues.
+
+Source: adapted from "Washington, D.C." on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Washington%2C_D.C.

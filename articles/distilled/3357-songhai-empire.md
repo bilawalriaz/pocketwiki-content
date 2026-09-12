@@ -43,3 +43,5 @@ Following Askia the Great's overthrow in 1528, the empire suffered from successi
 *   The characterization of Sonni Ali as a "tyrant" is largely based on accounts from Islamic scholars he antagonized; his legacy is debated between this view and that of a brilliant military and political founder.
 *   The precise causes and timeline of the Songhai's reassertion of independence from Mali are not fully clear, with sources noting dynastic instability in Mali as a key factor.
 *   The extent to which the empire's internal decay, rather than the technological superiority of Moroccan firearms, was the primary cause of its defeat at Tondibi is a point of historical analysis.
+
+Source: adapted from "Songhai Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Songhai_Empire

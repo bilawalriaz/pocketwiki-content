@@ -63,3 +63,5 @@ Public support for wind power remains strong in Europe and the US, though it dec
 - **Impact of Fossil Fuel Subsidies**: Extent to which subsidies slow renewable adoption globally.  
 - **Community Acceptance**: Balancing local opposition with climate goals, particularly regarding landscape and noise impacts.  
 - **Future of Floating Wind**: Potential for deeper-water installations versus high development costs.
+
+Source: adapted from "Wind power" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wind_power

@@ -75,3 +75,5 @@ In his fourth homily on Romans 1:26, John condemns same-sex acts as “mad lust,
 - **Consistency of sexual ethics**: Stephen Morris argues Chrysostom’s situational preaching resists systematization; his homily on Romans 1:26 may not represent a fixed “attitude.”
 - **Relic authenticity**: Multiple sites claim the skull (Vatopedi, Moscow, Florence, Pisa); scientific verification is absent.
 - **Mother’s religion**: Sources differ on whether Anthusa was pagan or Christian; the text preserves both traditions without resolution.
+
+Source: adapted from "John Chrysostom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Chrysostom

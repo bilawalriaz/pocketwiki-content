@@ -37,3 +37,5 @@ The first proof of the four color theorem relied on a computer to check its 1,93
 Gödel's first incompleteness theorem shows that any sufficiently expressive axiom system contains statements that can be neither proved nor disproved within it. The parallel postulate is neither provable nor refutable from the remaining Euclidean axioms, and many statements are undecidable in Zermelo–Fraenkel set theory with the axiom of choice.
 
 Proofs are routinely marked with the abbreviation Q.E.D. (Latin for "that which was to be demonstrated"), a tombstone symbol □, or the Unicode end-of-proof character ∎ (U+220E), named the Halmos after Paul Halmos, who popularised it.
+
+Source: adapted from "Proof (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Proof_%28mathematics%29

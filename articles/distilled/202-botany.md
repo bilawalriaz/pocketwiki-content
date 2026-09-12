@@ -77,3 +77,5 @@ Systematic botany classifies organisms by evolutionary history (phylogeny). Linn
 - **Plant stewardship and global change:** How plant management can mitigate climate change, biodiversity loss, food insecurity, and invasive species is an urgent applied research frontier.
 - **Origin of angiosperms:** While APG resolved family relationships, the identity and characteristics of the earliest angiosperm lineages remain active research areas.
 - **Non-Mendelian organelle inheritance:** The mechanisms and evolutionary reasons for differential paternal/maternal chloroplast inheritance in gymnosperms vs. angiosperms are not fully understood.
+
+Source: adapted from "Botany" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Botany

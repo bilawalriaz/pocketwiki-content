@@ -77,3 +77,5 @@ The Nazi regime banned Mendelssohn’s works due to his Jewish heritage, removin
 - **Relationship with Wagner**: Tensions between Mendelssohn and Wagner reflect broader ideological conflicts within 19th-century German music, particularly regarding nationalism and artistic radicalism.
 - **Role of Women in His Music**: The misattribution of Fanny Mendelssohn’s works to Felix raises questions about gender dynamics in 19th-century musical publishing and recognition.
 - **Nazi Suppression**: The systematic exclusion of Mendelssohn from German cultural life under National Socialism highlights how political ideologies can distort artistic legacies.
+
+Source: adapted from "Felix Mendelssohn" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Felix_Mendelssohn

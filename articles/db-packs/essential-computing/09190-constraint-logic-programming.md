@@ -68,3 +68,5 @@ Concurrent constraint logic programming models processes as goal evaluations tha
 ## History and implementations
 
 CLP was introduced by Jaffar and Lassez in 1987, generalising the observation that Prolog II's term equations were a specific constraint language. The first implementations were Prolog III, CLP(R), and CHIP. Subsequent systems include B-Prolog, BNR Prolog, Ciao, ECLiPSe, GNU Prolog, and SWI-Prolog. CLP has been applied to automated scheduling, type inference, civil and mechanical engineering, digital circuit verification, air traffic control, and finance.
+
+Source: adapted from "Constraint logic programming" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Constraint_logic_programming

@@ -34,3 +34,5 @@ Structural colour in biology, the bright, pigment-free hues of beetle cuticle, s
 ## Composites
 
 Biomimetic composites copy structural strategies from load-bearing natural materials, such as the layered architecture of bone or shell. 3D printing now lets designers reproduce these geometries directly, combining optimised shapes with engineered polymers and ceramics in a single part.
+
+Source: adapted from "Biomimetic material" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biomimetic_material

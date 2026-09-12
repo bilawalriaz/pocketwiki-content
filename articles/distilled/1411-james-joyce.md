@@ -60,3 +60,5 @@ Joyce described his politics as those of a "socialist artist," influenced by ind
 *   **Political commitment:** Scholars dispute whether Joyce’s refusal of an Irish passport indicates political quietism or a consistent individualist anarchism opposed to all nationalist coercion.
 *   **Finnegans Wake’s readability:** The novel’s "night-language" sparks debate: is it a solvable puzzle with a recoverable plot, or a deliberate dissolution of meaning requiring non-linear, associative reading?
 *   **Repatriation:** The Irish government’s 1941 refusal to repatriate Joyce’s remains, and the 2019 Dublin City Council motion to exhume him, raise ethical questions about the state’s relationship to its expatriate artists—celebration vs. monetisation.
+
+Source: adapted from "James Joyce" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_Joyce

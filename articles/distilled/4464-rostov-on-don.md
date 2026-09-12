@@ -40,3 +40,5 @@ Rostov is a diverse cultural center. The 2021 census recorded a population of 1,
 
 ## Debates and Open Questions
 The source does not explicitly outline major scholarly debates. However, it notes that the accuracy and authenticity of the one lasting oil painting of the city's first coat of arms (from 1811) are uncertain. The city's future transportation development was a point of decision, with plans for a metro being abandoned in 2021 in favor of a high-speed tramway.
+
+Source: adapted from "Rostov-on-Don" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rostov-on-Don

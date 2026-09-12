@@ -42,3 +42,5 @@ Bizet, who never visited Spain, used Spanish musical idioms like the habanera an
 *   **Definitive Edition**: There is no universally accepted full score. Scholars debate which version—Bizet's published vocal score, the manuscript, or the premiere conducting score—best represents his final intentions.
 *   **Dialogue vs. Recitative**: The use of Guiraud's recitatives (common internationally) versus Bizet's original spoken dialogue (standard in France until the late 20th century) remains a production choice that affects the opera's dramatic pacing and character development.
 *   **Character Interpretation**: The relative sympathy and motivation of Carmen and Don José, compared to their harsher portrayals in Mérimée's novella, are ongoing subjects of analysis.
+
+Source: adapted from "Carmen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carmen

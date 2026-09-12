@@ -50,3 +50,5 @@ Ne Win remained a shadowy influence on the junta for about a decade. After 1998,
 - **Exact birth date**: Sources conflict, with dates given as 10 July 1910, 14 May 1911, and the widely cited 24 May 1911. Evidence from a 1998 book and his family's obituary suggests 1910 may be correct.
 - **Responsibility for the 1962 Student Union bombing**: Ne Win denied ordering the dynamiting of the student union building, blaming his deputy Brigadier Aung Gyi, though he took responsibility for the subsequent "sword with sword" speech.
 - **Role in the 1988 coup**: While publicly retired, Ne Win is widely believed to have orchestrated the SLORC's September 1988 coup from behind the scenes.
+
+Source: adapted from "Ne Win" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ne_Win

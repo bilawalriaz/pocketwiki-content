@@ -49,3 +49,5 @@ Physical theories are almost always expressed mathematically. Newton's laws work
 ## A representative example
 
 A simple illustration is dead reckoning: predicting a vehicle's position from its initial location, direction, and speed, using distance = speed × time. The same idea scales to planetary motion modelled as a point mass in a potential field, where the trajectory r(t) satisfies m d²r/dt² = −∇V[r(t)]. The point-mass assumption is known to be false, but the model remains useful within its scope.
+
+Source: adapted from "Mathematical modelling" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematical_modelling

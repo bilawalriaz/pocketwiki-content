@@ -37,3 +37,5 @@ Scholars debate the causes of Black ghettos. Race-based theories argue they are 
 
 ## Debates and Open Questions
 The etymology of the word "ghetto" remains debated among linguists, with no single theory universally accepted. Scholars also debate the primary cause of Black ghettos in the U.S., with race-based and class-based theories offering competing explanations. The use of the term "ghetto" itself is controversial; its official use in Denmark was criticized as stigmatizing and inaccurate for multi-ethnic areas. Furthermore, the concept of the "ghetto" and "underclass" has been critiqued for over-reliance on case studies from cities like Chicago, which may limit understanding of socially disadvantaged neighborhoods elsewhere.
+
+Source: adapted from "Ghetto" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ghetto

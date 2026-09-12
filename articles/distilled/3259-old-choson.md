@@ -40,3 +40,5 @@ Old Chosŏn's culture is marked by the Mumun pottery period (1500–300 BCE) and
 
 ## Debates and Open Questions
 Scholars fiercely debate the historical existence and location of Kija Chosŏn, with many modern experts dismissing it as a fabrication or symbolic narrative. The geographical center of Old Chosŏn is contested, with traditional views placing it in the northern Korean Peninsula versus newer theories situating its early core in Manchuria. The nature of Old Chosŏn's political structure—whether it was a unified state or a loose confederation—remains unclear. Furthermore, the Tan'gun myth is interpreted variously as a native Korean product, a synthesis of tribal integration, or a later nationalist construct.
+
+Source: adapted from "Old Chosŏn" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Old_Chos%C5%8Fn

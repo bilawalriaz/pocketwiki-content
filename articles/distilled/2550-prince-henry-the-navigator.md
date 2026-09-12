@@ -42,3 +42,5 @@ A popular legend holds that Henry founded a "school" of navigation at his villa 
 - **The "School of Sagres":** The existence of a formal, organized center for navigation science at Sagres during Henry's lifetime is widely discredited by modern historians, though the myth was popularized in the 18th and 19th centuries.
 - **Origin of the "Navigator" Nickname:** The epithet "the Navigator" was not used in Henry's lifetime or for centuries after. It was coined by 19th-century German historians and popularized by British biographers.
 - **Motivations for Exploration:** While seeking gold and Prester John are cited, the exact balance of religious, commercial, and strategic motives (like countering piracy) remains a subject of scholarly analysis.
+
+Source: adapted from "Prince Henry the Navigator" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator

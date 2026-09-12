@@ -45,3 +45,5 @@ The Strait of Hormuz, leading into the Arabian Sea, handles about 25% of global 
 *   **Eastern Boundary Dispute:** The exact eastern border of the Arabian Sea with India is disputed between the NOAA (which uses Devgad Island) and the IHO (which uses Sadashivgad Village).
 *   **Role of Roman Traders:** Recent scholarship expresses skepticism about the presence and significance of Mediterranean traders in the Arabian Sea during the 1st millennium CE, as described in the *Periplus of the Erythraean Sea*, suggesting the work may reflect limited Egyptian-Mediterranean knowledge.
 *   **Future of Ocean De-oxygenation:** While some research projects a long-term reversal of global ocean de-oxygenation, the Arabian Sea's OMZ is currently expanding due to human activity, and its recovery timeline remains uncertain.
+
+Source: adapted from "Arabian Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabian_Sea

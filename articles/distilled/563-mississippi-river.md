@@ -96,3 +96,5 @@ Water skiing invented at Lake Pepin (MN/WI) by Ralph Samuelson (1922; jump 1925;
 *   **Nutrient pollution and Gulf dead zone**: Agricultural runoff (nitrogen/phosphorus) drives seasonal hypoxia. Basin-wide mitigation (voluntary state strategies, EPA task force) has not met reduction targets; the 2015 "D+" grade highlights aging infrastructure and unresolved environmental problems.
 *   **Invasive species containment**: Asian carp (silver, bighead) threaten Great Lakes via Chicago Area Waterway System; Upper St. Anthony Falls Lock closed in 2015 as a barrier, but spread continues elsewhere. Zebra mussels and Eurasian watermilfoil already established in upper reaches.
 *   **Climate change and flood frequency**: Urban sprawl and changing precipitation patterns may increase flood risk and frequency, challenging 20th-century infrastructure designed for historical hydrology.
+
+Source: adapted from "Mississippi River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mississippi_River

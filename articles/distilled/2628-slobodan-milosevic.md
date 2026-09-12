@@ -45,3 +45,5 @@ Milošević was forced from power in October 2000 after losing a presidential el
 *   **Milošević's Nationalism:** Was he a genuine Serbian nationalist or a political opportunist who exploited nationalism as a tool for power? Observers like U.S. Ambassador Warren Zimmermann described him as the latter.
 *   **Direct Responsibility for War Crimes:** While the ICTY's posthumous verdicts found him part of a joint criminal enterprise, the court in the Radovan Karadžić case noted a lack of evidence that he agreed to the specific plan for ethnic cleansing in Bosnia, though it acknowledged he provided assistance to Bosnian Serbs.
 *   **Genocide in Bosnia:** The International Court of Justice (ICJ) concluded in 2007 that there was no evidence linking Milošević directly to genocide committed by Bosnian Serb forces, but found he had violated the Genocide Convention by failing to prevent it.
+
+Source: adapted from "Slobodan Milošević" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87

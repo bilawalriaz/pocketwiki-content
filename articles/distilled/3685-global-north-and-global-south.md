@@ -42,3 +42,5 @@ The accuracy of the North-South binary is challenged by globalization and the ri
 - **Is the term "Global South" useful or problematic?** Critics say it is a vague, monolithic label that obscures internal inequalities and may benefit elites. Proponents see it as a valuable tool for political solidarity and resisting Northern hegemony.
 - **How should the boundaries be defined?** The classification is debated, with some arguing Australia and New Zealand are marginalized like Southern nations, and others proposing a fluid definition based on impact from global capitalism rather than nationality.
 - **What is the future of the divide?** Debates continue on whether free trade will reduce the gap, whether middle-income countries are trapped, and how institutions like the UN should be reformed to better represent the Global South.
+
+Source: adapted from "Global North and Global South" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Global_North_and_Global_South

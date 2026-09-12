@@ -42,3 +42,5 @@ Chimor was the last Andean kingdom capable of stopping the Inca Empire. The Inca
 - The exact southern limit of Chimú expansion is contested by historians and archaeologists.
 - Scholars debate the causes for Chimú territorial expansion, with theories ranging from deviations in inheritance patterns to state responses to El Niño events that destroyed irrigation canals.
 - The means by which Spondylus was transported from Ecuador to Chimor—whether via independent merchants, state-administered trade, sea, or land routes—remains unclear.
+
+Source: adapted from "Chimor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chimor

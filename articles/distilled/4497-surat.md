@@ -38,3 +38,5 @@ Post-independence, Surat grew as a commercial center. A pivotal moment was the 1
 ## Debates and Open Questions
 - The exact origin and meaning of the name "Surat" is debated. While a traditional story links it to a Muslim king altering "Suryapur" (city of the sun), historical sources mention both names before the traditional founding date of c. 1500.
 - The city's cleanliness ranking has fluctuated significantly in recent years (2nd in 2020, 12th in 2021, 25th in 2023), raising questions about the sustainability of its sanitation initiatives.
+
+Source: adapted from "Surat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Surat

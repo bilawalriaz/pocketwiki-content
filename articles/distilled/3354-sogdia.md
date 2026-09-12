@@ -51,3 +51,5 @@ Sogdian was an Eastern Iranian language, now extinct except for its descendant, 
 - The precise location and meaning of the Avestan toponym "Gava" (associated with Sogdians) is debated; it may refer to Bukhara rather than Samarkand.
 - The extent of Hephthalite urban planning and their direct role in Sogdian city-building is inferred from archaeological parallels and not definitively proven.
 - The degree to which the Sogdian language and culture were already declining before the Islamic conquest, versus being actively supplanted by it, is a subject of scholarly discussion.
+
+Source: adapted from "Sogdia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sogdia

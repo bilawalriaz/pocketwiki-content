@@ -50,3 +50,5 @@ In the late 19th century, the term "ballad" began to mean a slow, sentimental lo
 - **Communal vs. Individual Origin:** The central scholarly debate is whether traditional ballads originated from communal folk composition or from individual authors, with variants seen as either natural evolution or corruption.
 - **Classification:** There have been "many different and contradictory attempts to classify traditional ballads by theme," indicating no universally accepted system exists.
 - **Transmission and Purity:** The process of oral transmission is debated—whether it represents a "degeneration" from an original pure form (as argued by Walter Scott) or a dynamic process of re-composition and interchange with written forms.
+
+Source: adapted from "Ballad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ballad

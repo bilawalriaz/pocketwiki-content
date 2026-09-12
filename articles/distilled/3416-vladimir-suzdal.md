@@ -42,3 +42,5 @@ Vladimir-Suzdal developed a distinctive architectural style, the "Vladimir-Suzda
 ## Debates and Open Questions
 - The exact timing and circumstances of when the title "Grand Prince" was first officially adopted by the rulers of Vladimir are debated among sources, with some attributing it to Andrey Bogolyubsky and others to his brother Vsevolod III.
 - The nature of the political entity of Kievan Rus' itself is debated; some historians question whether it can be considered a state in the modern sense, which affects interpretations of Vladimir-Suzdal's emergence from it.
+
+Source: adapted from "Vladimir-Suzdal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vladimir-Suzdal

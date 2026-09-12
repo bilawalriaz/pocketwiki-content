@@ -58,3 +58,5 @@ Ayn Rand’s 1943 novel *The Fountainhead* features Henry Cameron, a fictionaliz
 - **Adler vs. Sullivan authorship:** The partnership’s dissolution obscures credit for specific design decisions. Adler’s engineering and business role was essential, but Sullivan is typically credited with the firm’s design language.
 - **Wright–Sullivan relationship:** The source outlines a complex arc: seven-year apprenticeship (1887–94), rupture over Wright’s moonlighting, decades of estrangement, and late reconciliation when both faced professional struggles. The influence is mutual but asymmetrical.
 - **Preservation ethics:** Richard Nickel’s death during salvage operations raises questions about the risks of architectural activism versus the loss of cultural heritage during urban renewal.
+
+Source: adapted from "Louis Sullivan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_Sullivan

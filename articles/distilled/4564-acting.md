@@ -41,3 +41,5 @@ Acting in front of an audience commonly induces "stage fright," a form of stress
 
 ## Debates and Open Questions
 A central debate concerns the actor's psychological state: should they sincerely believe in and be moved by their role (sincerity), or maintain a detached, demonstrative distance (hypocrisy)? This question, framed by Denis Diderot, relates to the desired effect on the audience and the social function of theatre. Furthermore, the extent to which acting conventions are "natural" versus ideologically coded is contested. While some approaches like Stanislavski's aim for self-evident realism, semioticians like Pavis argue all acting is governed by historical codes of what is considered believable.
+
+Source: adapted from "Acting" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Acting

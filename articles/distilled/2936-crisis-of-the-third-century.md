@@ -43,3 +43,5 @@ The turning point came with Claudius II Gothicus's victory over the Goths at Nai
 - The precise nature and origin of the Plague of Cyprian (possibly smallpox) is debated.
 - The extent of economic collapse is contested; recent research suggests regional variation, with some provinces like Egypt and Africa remaining prosperous.
 - The degree to which climate change directly caused barbarian migrations is a subject of ongoing scholarly discussion.
+
+Source: adapted from "Crisis of the Third Century" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century

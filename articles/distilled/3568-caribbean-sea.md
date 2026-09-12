@@ -42,3 +42,5 @@ Human activity has increased significantly since colonization. The sea is a majo
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates, but it presents ongoing environmental challenges as critical open questions: the future of coral reef ecosystems under climate change, the long-term impact of pollution and heavy metal contamination on marine life and human health, and the sustainability of economic activities like tourism and fishing in the face of ecological degradation.
+
+Source: adapted from "Caribbean Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caribbean_Sea

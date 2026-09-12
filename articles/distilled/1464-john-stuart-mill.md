@@ -71,3 +71,5 @@ Mill married Harriet Taylor in 1851 after a 21-year intimate (likely chaste) fri
 - **Socialism Classification**: Mill called himself a "Socialist" in his *Autobiography* and advocated worker cooperatives, yet retained support for flat taxation on earned income and market competition. Is he a "market socialist," "liberal socialist," or a liberal with socialist sympathies?
 - **Harriet Taylor's Authorship**: Stylometric and textual analysis debates the extent of Taylor's co-authorship of *On Liberty* and *The Subjection of Women*; Mill credited her as the primary mind behind their joint works, but the precise division of intellectual labor remains contested.
 - **Harm Principle Boundaries**: The definition of "harm" (including omissions, excluding offense, the consent exception, the slavery prohibition) generates endless interpretive disputes: e.g., does pornography harm? Does hate speech? Where does persuasion end and incitement begin?
+
+Source: adapted from "John Stuart Mill" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Stuart_Mill

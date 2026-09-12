@@ -50,3 +50,5 @@ Ludendorff retired from active politics after his failed presidential run in 192
 - **Political Responsibility**: Scholars assess the extent to which his political meddling, such as ousting chancellors and promoting annexationist aims, undermined Germany's ability to seek a negotiated peace.
 - **The "Dictator" Label**: While often called a dictator from 1916–1918, his power was technically shared with Hindenburg and dependent on the Kaiser, leading to debate about the precise nature of his authority.
 - **Authenticity of the 1933 Telegram**: The famous telegram he allegedly sent to Hindenburg protesting Hitler's appointment as Chancellor is considered by some historians to be a forgery.
+
+Source: adapted from "Erich Ludendorff" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Erich_Ludendorff

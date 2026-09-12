@@ -41,3 +41,5 @@ Mehmed's primary consort was the Greek-born Gülnuş Sultan, who bore his two su
 
 ## Debates and Open Questions
 The historical record regarding Mehmed IV's consorts is uncertain. The existence of several, such as Gülnar Hatun and Güneş Hatun, is controversial, with some historians speculating they may be misspellings of Gülnuş Sultan's name. Similarly, the existence of Gülbeyaz Hatun and Hatice Hatun is disputed, with violent legends about their deaths attributed to Gülnuş.
+
+Source: adapted from "Mehmed IV" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mehmed_IV

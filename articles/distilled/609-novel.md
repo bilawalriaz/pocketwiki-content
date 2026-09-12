@@ -55,3 +55,5 @@ Digital media transformed novel publication: ebooks, web serials, and audiobooks
 
 ## Debates and Open Questions  
 Scholars debate whether the novel originated in classical antiquity, medieval romance, or the 18th-century realist tradition. Ian Watt’s emphasis on realism as the novel’s defining trait is contested by those who highlight earlier non-realist works. The distinction between novel and romance remains fluid, with some authors (e.g., Hawthorne, Melville) preferring the latter. The role of digital media in reshaping publication and readership continues to evolve, raising questions about the future of print and the definition of the novel itself.
+
+Source: adapted from "Novel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Novel

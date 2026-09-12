@@ -40,3 +40,5 @@ The bay is a critical habitat for cetaceans (whales and dolphins). Ferry routes 
 
 ## Debates and Open Questions
 The source text does not present explicit scholarly debates or open questions about the Bay of Biscay.
+
+Source: adapted from "Bay of Biscay" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bay_of_Biscay

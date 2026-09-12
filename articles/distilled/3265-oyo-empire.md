@@ -48,3 +48,5 @@ Decline began with internal political strife, notably the intrigues of Prime Min
 - The exact origins and historical development of Oyo's cavalry are unclear, though it may have been influenced by neighboring Nupe, Borgu, or Hausa states.
 - Scholars debate how much of Oyo's sophisticated political structure existed before the Nupe invasion and exile, or was developed afterward.
 - The precise causes and timeline of the empire's decline are complex, involving internal political instability, economic shifts from the slave trade, and external pressures like the Fulani Jihad.
+
+Source: adapted from "Oyo Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oyo_Empire

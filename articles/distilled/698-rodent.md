@@ -57,3 +57,5 @@ Rodents serve as food (guinea pigs, squirrels), pets (hamsters, gerbils), and re
 - **Classification**: Morphological vs. molecular approaches yield differing suborder arrangements.  
 - **Monogamy evolution**: Facultative vs. obligate monogamy in prairie voles lacks consensus on evolutionary drivers.  
 - **Climate extinction**: Long-term impacts of warming on montane and island rodent populations are uncertain.
+
+Source: adapted from "Rodent" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rodent

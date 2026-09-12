@@ -49,3 +49,5 @@ Gandhi's economic policies shifted from liberalization to state socialism. She n
 *   **The Emergency:** Her declaration of the Emergency in 1975 remains highly controversial. Supporters argue it was necessary to restore order, while critics view it as a move to suppress dissent and consolidate authoritarian power.
 *   **Operation Blue Star:** The decision to storm the Golden Temple is debated. Some see it as a necessary action against militancy, while others criticize it as a disproportionate military assault on a sacred site that inflamed communal tensions.
 *   **Legacy of Authoritarianism:** Critics accuse her of damaging internal party democracy, weakening state chief ministers, and fostering a culture of nepotism in Indian politics.
+
+Source: adapted from "Indira Gandhi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indira_Gandhi

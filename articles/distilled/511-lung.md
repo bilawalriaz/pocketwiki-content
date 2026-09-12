@@ -75,3 +75,5 @@ Lungs and fish gas bladders are homologous, originating as esophageal outpocketi
 - **COPD pathogenesis:** The precise sequence from smoking-induced basal cell disarray to emphysema and malignant transformation is being elucidated.
 - **Fetal lung fluid clearance:** The exact mechanisms and timing of fluid absorption at birth involve multiple interacting pathways.
 - **Vitamin A threshold:** The precise levels and timing of vitamin A sufficiency required for normal alveolar development are not fully defined.
+
+Source: adapted from "Lung" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lung

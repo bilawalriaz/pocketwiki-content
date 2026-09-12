@@ -50,3 +50,5 @@ The Neo-Assyrian Empire (911–612 BC) was the largest and most powerful empire 
 - **Sumerian Origins**: The origins of the Sumerians are unknown, as their language is a language isolate with no clear external relatives.
 - **Ubaid Expansion**: The spread of the Ubaid culture from south to north Mesopotamia is debated; it may have been through cultural adoption rather than invasion, as there is no archaeological hiatus between the preceding Halaf culture and the Northern Ubaid.
 - **Early Dynastic History**: The Sumerian King List, once a key source, is now considered unreliable for reconstructing Early Dynastic political history.
+
+Source: adapted from "History of Mesopotamia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Mesopotamia

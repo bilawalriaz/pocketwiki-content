@@ -51,3 +51,5 @@ The war left over 100,000 dead, 300,000 internally displaced, and vast areas con
 - **War crimes accountability:** Allegations exist against both the Sri Lankan military (bombing civilians, shelling hospitals) and the LTTE (using civilians as shields, recruiting child soldiers). The government has resisted independent international investigations, while human rights groups and some UN bodies demand them.
 - **Genocide allegations:** Some groups and tribunals have accused the Sri Lankan state of genocide against Tamils, a charge the government denies. This remains a highly contested and unresolved issue.
 - **Role of international actors:** Debates continue about the responsibility of India, the US, UK, and others in the conflict's escalation and the failure of the peace process.
+
+Source: adapted from "Sri Lankan civil war" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sri_Lankan_civil_war

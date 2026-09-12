@@ -65,3 +65,5 @@ Gaston Bachelard and Martin Heidegger consider the home-dwelling connection an "
 ## Debates and open questions
 
 Scholars debate whether the strong home-house connection is universal or rooted in Enlightenment thinking, as Gram-Hanssen argues. The concept of home is considered an "essentially contested concept," with varied definitions across cultures—some ascribing less value to residential privacy. Debate exists over whether a rooming house can provide a home, and whether the house-home conflation results from popular media and capitalist interests. The home-homelessness dichotomy is debated: some scholars claim home's concept depends on homelessness for its meaning. Gender differences in home experience—men conditioned to experience control and little labour, women the reverse—remain a subject of scholarly analysis.
+
+Source: adapted from "Home" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Home

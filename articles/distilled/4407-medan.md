@@ -48,3 +48,5 @@ As a National Strategic Region, Medan's economy is based on trade, agriculture (
 
 ## Debates and Open Questions
 The etymology of "Medan" is debated, with competing theories linking it to the Batak Karo word for "healed" or the Malay word for "field." The city's history also involves complex political transitions, such as the brief establishment of the State of East Sumatra by the Dutch, which is a point of historical study regarding post-colonial nation-building.
+
+Source: adapted from "Medan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Medan

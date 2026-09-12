@@ -43,3 +43,5 @@ Nuclear waste. Durable polycrystalline ceramics and large single crystals immobi
 ## A short history
 
 1759: Josiah Wedgwood opens the first modern ceramics factory in Stoke-on-Trent. 1880s: Pierre and Jacques Curie discover piezoelectricity in Rochelle salt, the foundation of electroceramics. 1888: Carl Josef Bayer develops a process to purify alumina from bauxite ore, still used today. 1893: E. G. Acheson and Henri Moissan independently synthesise silicon carbide. 1923: Karl Schröter cements tungsten carbide particles with cobalt, producing the durable cutting-tool edges cemented carbides are still known for. 1920s: W. H. Nernst develops cubic-stabilised zirconia, now standard in exhaust oxygen sensors. World War II and the space race of the 1960s and 1970s drove rapid advances, and the 1986 discovery of ceramic superconductors opened an active line of research.
+
+Source: adapted from "Ceramic engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ceramic_engineering

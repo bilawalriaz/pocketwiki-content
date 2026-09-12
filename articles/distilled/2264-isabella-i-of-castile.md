@@ -45,3 +45,5 @@ Isabella and Ferdinand pursued religious unification, institutionalizing the Spa
 - The true number of Jews expelled in 1492 is debated; traditional estimates of 200,000 are considered exaggerated by modern historians like Henry Kamen, who suggests a maximum of 40,000.
 - Isabella's personal role in the Spanish Inquisition and the expulsion of Jews is complex; sources note she initially opposed harsh measures on economic grounds but was ultimately convinced by figures like Tomás de Torquemada.
 - Her sainthood cause, opened in 1958 and granted the title "Servant of God" in 1974, was suspended in 1991, partly due to her role in the expulsion of the Jews.
+
+Source: adapted from "Isabella I of Castile" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Isabella_I_of_Castile

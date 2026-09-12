@@ -25,3 +25,5 @@ The programme targets three linked goals: to form and characterise the QGP that 
 ## Origins of the field
 
 Theoretical foundations came from Enrico Fermi in the US and Lev Landau in the USSR, whose work on multiparticle production led in the early 1960s to a thermal description and Rolf Hagedorn's statistical bootstrap model. The first modestly relativistic heavy-ion collisions were performed at LBNL's Bevalac (using ions from the HILAC accelerator) and at JINR in Dubna, at about 1–2 GeV per nucleon, enough to compress nuclear matter to a few times its normal density. That demonstration motivated successive generations of higher-energy fixed-target and collider experiments.
+
+Source: adapted from "High-energy nuclear physics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/High-energy_nuclear_physics

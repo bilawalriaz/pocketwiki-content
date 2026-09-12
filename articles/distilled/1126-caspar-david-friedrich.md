@@ -78,3 +78,5 @@ The extent of Nazi instrumentalization versus genuine artistic merit remains deb
 Questions persist regarding attribution and dating. Friedrich rarely titled or dated canvases, relying on a personal notebook now used by scholars. Some modern titles may reflect later interpretations rather than the artist’s own choices.
 
 Finally, the precise influence of his early losses on his artistic development invites ongoing analysis. While trauma clearly shaped his themes, the degree to which biographical events directly correlate with specific symbolic choices remains open to interpretation.
+
+Source: adapted from "Caspar David Friedrich" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caspar_David_Friedrich

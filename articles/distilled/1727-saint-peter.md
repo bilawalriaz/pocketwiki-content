@@ -106,3 +106,5 @@ Earliest portrait: 4th century (discovered 2010). Standard type: old, thick-set,
 - ****Primacy of Honor**** — Eastern Orthodox view: Peter’s successors hold first place in dignity (*protos*) but not universal jurisdiction.
 - ****Quo Vadis**** — Latin "Where are you going?"; from *Acts of Peter*: fleeing Peter meets Jesus returning to Rome to be crucified again.
 - ****** —
+
+Source: adapted from "Saint Peter" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saint_Peter

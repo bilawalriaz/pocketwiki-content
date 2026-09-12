@@ -31,3 +31,5 @@ Chinese philosophy flourished from the 6th century to 221 BCE, during the Spring
 The Qin dynasty imposed Legalism and suppressed rivals. The Han dynasty adopted Confucianism as state doctrine, integrated by Dong Zhongshu with Yin-Yang theory, and tolerated Daoism. In the 3rd–4th centuries CE, Xuanxue (Neo-Daoism) debated whether Being or Not-Being came first. Buddhism, entering around the 1st century CE, became dominant by the Sui and Tang periods, and its Chan (Zen) school proved especially influential across East Asia.
 
 The Axial Age set the conceptual vocabulary that later religious and political institutions inherited, so that questions first posed about nature, knowledge, and moral order kept recurring under new vocabularies in medieval and modern thought.
+
+Source: adapted from "Ancient philosophy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_philosophy

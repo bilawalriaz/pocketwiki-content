@@ -47,3 +47,5 @@ Garibaldi continued to fight for Italian unification, leading volunteers in the 
 - **Pragmatism vs. Idealism**: Scholars debate whether Garibaldi's alliance with the monarchist Cavour and his sacrifice of republican principles was a necessary pragmatic compromise for unification or a betrayal of his core ideals.
 - **Social Revolution**: While Garibaldi's conquest of Sicily was aided by peasant revolts against landlords, he ultimately sided with the Sicilian elite, raising questions about his commitment to social reform versus national liberation.
 - **Religious Views**: Garibaldi's personal religious convictions are unclear. He was anti-clerical and opposed the Papacy's temporal power, but his statements ranged from deistic to nominally Christian, and he abjured Christianity later in life.
+
+Source: adapted from "Giuseppe Garibaldi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Giuseppe_Garibaldi

@@ -56,3 +56,5 @@ Television programming spans genres from expensive dramas to low-cost reality sh
 
 ## Debates and Open Questions
 The transition from analog to digital television raised questions about scanning methods—interlaced versus progressive—with consumer electronics favoring interlaced for higher resolution while computer industries preferred progressive for better compatibility with digital systems. The future of OLED versus LED display dominance remains uncertain as manufacturing scales. Environmental concerns about electronic waste from discarded televisions containing hazardous materials continue to challenge the industry. The long-term viability of traditional broadcast television versus internet streaming platforms represents an ongoing structural shift in how content reaches audiences.
+
+Source: adapted from "Television" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Television

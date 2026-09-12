@@ -49,3 +49,5 @@ Distinct regional styles exist, such as Hui, Shanxi, Lingnan, and Hakka architec
 - The debate from the 1930s-1940s over whether to adapt Western modernism or use traditional forms with modern materials remains a central tension in Chinese architectural practice.
 - The "Daqing Spirit" of the 1960s, which promoted rammed earth construction as an ideological ideal of communist society, represents a unique intersection of politics and building practice.
 - The 2014 reconstruction of Datong's ancient city has sparked debate between preserving traditional aesthetics and concerns over authenticity and cost.
+
+Source: adapted from "Chinese architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinese_architecture

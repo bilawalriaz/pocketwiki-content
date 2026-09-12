@@ -39,3 +39,5 @@ Leonidas entered myth as a hero. A cult honoring him, the Leonideia, was celebra
 - **Reason for the small Spartan force:** Herodotus stated the 300 Spartans were an advance guard, with the main army delayed by the religious festival of the Carneia and the Olympic Games. Many modern commentators are dissatisfied with this explanation and suggest internal dissent or other political reasons.
 - **Size of the Persian army:** Herodotus's figure of over two million men is considered a gross exaggeration by modern scholars, who propose estimates ranging from 70,000 to 300,000.
 - **Leonidas's motivation for the last stand:** Herodotus offered theories that Leonidas dismissed the allies to save them for future battles or to secure glory for the Spartans, but the precise reasoning remains a subject of interpretation.
+
+Source: adapted from "Leonidas I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leonidas_I

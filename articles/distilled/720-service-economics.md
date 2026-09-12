@@ -42,3 +42,5 @@ Service industries span numerous sectors: business functions (consulting, HR, ma
 
 ## Debates and Open Questions
 The boundary between goods and services remains disputed. Classical economists like Adam Smith categorized services as "unproductive" labor because they perish at production and do not contribute to stored wealth, while Jean-Baptiste Say emphasized their immaterial nature. Modern perspectives reject this binary, favoring a continuum where most offerings blend tangible and intangible elements. Whether utilities that deliver physical goods (e.g., water) should be classified as services or goods also remains debated.
+
+Source: adapted from "Service (economics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Service_%28economics%29

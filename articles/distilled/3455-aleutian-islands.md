@@ -37,3 +37,5 @@ The indigenous Unangan (Aleut) people settled the islands in a migration from ea
 ## Debates and Open Questions
 - The exact timing of the first human settlement is debated, with evidence for occupation as early as 14,000 years ago, though the earliest confirmed sites date to approximately 9,000 years before present.
 - The biogeographical and cultural classification of the islands is ambiguous; while they have affinities to North America, some sources associate them with Oceania due to their remote Pacific location.
+
+Source: adapted from "Aleutian Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aleutian_Islands

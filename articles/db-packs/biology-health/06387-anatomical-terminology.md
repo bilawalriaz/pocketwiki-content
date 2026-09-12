@@ -49,3 +49,5 @@ Some terms describe whether a structure is open or connected. *Patent* means a v
 ## Body cavities and membranes
 
 The body is partitioned into cavities. The *ventral cavity* holds the thoracic and abdominopelvic cavities; the *dorsal cavity* holds the cranial and spinal cavities. A *serous membrane* lines these cavities in two layers: the *parietal* layer on the cavity wall and the *visceral* layer covering the organ, separated by a thin fluid-filled space. The *pericardium* is the serous cavity that surrounds the heart.
+
+Source: adapted from "Anatomical terminology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anatomical_terminology

@@ -45,3 +45,5 @@ Metternich fled to exile in London, Brighton, and Brussels until 1851. He return
 
 ## Debates and Open Questions
 Historians debate Metternich's legacy. Critics, especially in the 19th century, saw him as a reactionary who stifled progress and prevented necessary reforms in Austria, potentially contributing to later crises. Sympathetic historians, particularly in the 20th century, praise his diplomatic skill in maintaining a fragile peace for thirty years and correctly identifying the threat of Russian expansion. A key debate concerns his actual power: some, like A.J.P. Taylor, argue he was a "boring" figure with limited influence, while others view him as a master diplomat who shaped his era.
+
+Source: adapted from "Klemens von Metternich" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Klemens_von_Metternich

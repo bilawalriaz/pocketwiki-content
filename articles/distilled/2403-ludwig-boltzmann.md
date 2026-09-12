@@ -44,3 +44,5 @@ Boltzmann's work laid the groundwork for quantum mechanics. His 1877 suggestion 
 - **Loschmidt's Paradox**: A challenge to Boltzmann's H-theorem, pointing out that the underlying laws of mechanics are time-reversible, so a system should be able to return to a lower-entropy state. Boltzmann's resolution relied on the statistical improbability of such a reversal.
 - **Ergodic Hypothesis**: Boltzmann used this hypothesis (that a system will eventually visit all accessible microstates) in attempts to prove the second law, but its validity and implications remain a topic of discussion in the foundations of statistical mechanics.
 - **Acceptance of Atomism**: During Boltzmann's lifetime, the physical reality of atoms was hotly debated. His work was a major argument for atomism, but widespread acceptance only came after experimental confirmations in the early 20th century.
+
+Source: adapted from "Ludwig Boltzmann" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ludwig_Boltzmann

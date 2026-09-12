@@ -27,3 +27,5 @@ Light pollution traps nocturnal insects that navigate by keeping a fixed angle t
 ## The field and its institutional form
 
 The label "Ecology and Evolutionary Biology" became common in North American universities as an alternative to the older "Cell and Molecular Biology" pairing and a broader frame than "Botany" or "Zoology." It signals integrated study across levels of biological organisation, from genes and genomes to species and ecosystems, with a focus on how biodiversity has arisen and is maintained. Recent advances in genetics and molecular biology have been folded into the discipline, so the field now routinely uses molecular tools to answer ecological and evolutionary questions. PhD-granting departments using this name include those at Columbia, Cornell, Princeton, Rice, the University of Arizona, UCLA, the University of Colorado, the University of Michigan, the University of Toronto, and Yale.
+
+Source: adapted from "Ecology and evolutionary biology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ecology_and_evolutionary_biology

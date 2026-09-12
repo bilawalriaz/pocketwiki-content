@@ -36,3 +36,5 @@ The lake's vast size and heavy use lead to safety incidents. A major disaster oc
 ## Debates and open questions
 - **Child labor vs. apprenticeship**: There is debate over whether child labor in Lake Volta's fishing industry constitutes slavery or is a form of exploitative but traditional apprenticeship.
 - **Project legacy**: The long-term success of the dam's modernization goals is questioned, as government-led development failed and communities had to adapt on their own.
+
+Source: adapted from "Lake Volta" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Volta

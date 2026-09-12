@@ -71,3 +71,5 @@ Berlin’s pluralism informed a staunch anti-communism. He opposed Marxism for i
 - **The Hedgehog/Fox typology**: Berlin called it a game; scholars debate whether it illuminates or obscures intellectual history (e.g., Tolstoy’s self-division).
 - **Cold War liberalism and Deutscher**: Berlin’s intervention against Isaac Deutscher’s promotion raises questions about the consistency of pluralist tolerance with political exclusion of Marxists.
 - **Method and authority**: Since most "Berlin" texts are transcribed improvisations edited by Henry Hardy, the fidelity of the published corpus to Berlin’s spoken thought—and Hardy’s editorial role—remains a philological concern.
+
+Source: adapted from "Isaiah Berlin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Isaiah_Berlin

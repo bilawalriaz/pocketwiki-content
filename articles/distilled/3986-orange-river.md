@@ -39,3 +39,5 @@ The Orange River has relatively low species diversity and no large animals; hipp
 
 ## Debates and Open Questions
 The article notes a popular but incorrect belief that the river was named for its orange-colored water, contrasting with the Vaal River's name meaning "pale." There is also an ongoing discussion about renaming the colonial-era "Orange River" to indigenous names like Senqu or iGqili, as the current name is perceived by some to be associated with colonial subjugation.
+
+Source: adapted from "Orange River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Orange_River

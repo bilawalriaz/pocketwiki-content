@@ -16,3 +16,5 @@ Even insured depositors can flee if they fear losing access during a reorganizat
 
 A newer variant is the cyber run: rapid wholesale withdrawals triggered by a cyber-attack that threatens depositors' access to funds rather than the bank's solvency. In March 2023, customers withdrew $42 billion, nearly a quarter of Silicon Valley Bank's deposits, within a day after a digital operational shock. Research on systemically important U.S. banks found they hold enough high-quality liquid assets for a 75% 30-day outflow, but cyber-run outflows can arrive far faster than the Liquidity Coverage Ratio assumes, and a major cyber incident disabling payment nodes could spill liquidity shortfalls into the real economy even when individual banks stay liquid.
 ```
+
+Source: adapted from "Bank run" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bank_run

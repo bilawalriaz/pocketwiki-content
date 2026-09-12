@@ -52,3 +52,5 @@ Bird bones are lightweight, hollow, and thin for flight; bats show convergent de
 - **Osteocalcin’s systemic role**: The extent and physiological relevance of osteocalcin’s endocrine effects on glucose metabolism and male fertility in humans (vs. mice) require further validation.
 - **Diabetes-bone fragility link**: The precise molecular pathways by which T1/T2 diabetes suppress osteoblast activity and degrade bone quality (AGEs, sclerostin, Wnt signaling) are incompletely defined.
 - **Evolution of bone density in aquatic taxa**: The selective pressures driving rapid shifts between pachyostosis (ballast) and osteoporotic-like spongy bone (buoyancy) in secondarily aquatic vertebrates are not fully mapped.
+
+Source: adapted from "Bone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bone

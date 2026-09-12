@@ -48,3 +48,5 @@ Facing economic crisis, the Communist Party launched Đổi Mới (renovation) r
 - The nature of Zhao Tuo's Nanyue kingdom (179–111 BC) is debated: some Vietnamese historians see it as a period of Chinese domination, while others view it as an era of independent Vietnamese rule due to the Zhao family's assimilation.
 - The death toll of the Vietnam War is contested, with estimates ranging from 966,000 to 3.8 million. The long-term health impact of Agent Orange is also disputed, with the US government questioning Vietnamese casualty figures.
 - The causes and scale of executions during North Vietnam's 1953–1956 land reform remain a subject of scholarly debate, with estimates of deaths varying significantly.
+
+Source: adapted from "History of Vietnam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Vietnam

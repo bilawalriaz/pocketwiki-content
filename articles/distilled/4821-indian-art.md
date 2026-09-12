@@ -44,3 +44,5 @@ Post-independence, the Bombay Progressive Artists' Group (founded 1952) aimed to
 *   The exact cultural and periodization of artifacts from the Copper Hoard culture (2nd millennium BCE) is subject to varying interpretations.
 *   The origins of anthropomorphic deity depictions in the mid-1st millennium BCE are debated, with possible influences from the Achaemenid conquest and the rise of new faiths like Buddhism.
 *   The classification of Santiniketan artists under the "Bengal School" is considered misleading by some scholars, who argue their style and worldview were distinct.
+
+Source: adapted from "Indian art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indian_art

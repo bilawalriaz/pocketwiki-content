@@ -71,3 +71,5 @@ Though typically avoiding private commissions, Richter accepted projects like th
 ## Debates and Open Questions
 
 Richter’s relationship with his East German past remains debated. While he escaped in 1957, his early murals and portraits reflect a complex negotiation with Socialist Realism and state ideology. Scholars question whether his later abstract works fully resolve or merely aestheticize historical trauma. The *18 October 1977* series sparked controversy for its detached treatment of RAF deaths, raising questions about the ethics of representing political violence. Additionally, Richter’s market success—with paintings selling for tens of millions—contrasts with his stated indifference to price, prompting discussion about the commodification of dissent in contemporary art.
+
+Source: adapted from "Gerhard Richter" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gerhard_Richter

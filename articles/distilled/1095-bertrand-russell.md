@@ -77,3 +77,5 @@ Four marriages: Alys Pearsall Smith (1894–1921, divorced); Dora Black (1921–
 - **World government vs. liberty**: His call for a "single supreme world government" to enforce peace raises unresolved tension between global coercion and the individual freedom he championed.
 - **Ordinary language philosophy**: Russell’s later hostility to Wittgenstein’s and Ryle’s linguistic turn (e.g., *Words and Things* foreword) split the analytic tradition; the debate shaped mid-century philosophy.
 - **Vietnam Tribunal legitimacy**: Critics called the Russell Tribunal a "show trial" lacking legal authority; defenders argue it filled a moral vacuum when official bodies failed to investigate.
+
+Source: adapted from "Bertrand Russell" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bertrand_Russell

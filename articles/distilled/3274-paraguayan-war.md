@@ -48,3 +48,5 @@ The war devastated Paraguay. It lost about 30% of its territory to Brazil and Ar
 - **Casualty Figures**: The exact death toll is fiercely disputed. Estimates for Paraguay's pre-war population range from 300,000 to 1.3 million, leading to widely varying casualty estimates from 7% to over 60% of the population.
 - **Genocide Claim**: Some revisionist historians and a 2022 Mercosur Parliament sub-commission argue the mass death constitutes genocide, a characterization contested by other scholars.
 - **British Influence**: A popular theory claims British economic interests instigated the war. Most historians find little evidence, noting the British government opposed the conflict.
+
+Source: adapted from "Paraguayan War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paraguayan_War

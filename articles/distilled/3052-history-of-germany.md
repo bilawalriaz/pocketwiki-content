@@ -50,3 +50,5 @@ The Berlin Wall, a symbol of the Cold War division, was opened in 1989 amid popu
 - Historians discuss the links between the Herero and Nama genocide in German South West Africa (1906–07) and the later Holocaust.
 - The causes and human cost of the flight and expulsion of Germans after World War II remain contested, with death toll estimates ranging from 600,000 to 2 million.
 - Scholars debate the nature of East Germany's communist regime, with some emphasizing its commitment to social progress and others highlighting its repressive control.
+
+Source: adapted from "History of Germany" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Germany

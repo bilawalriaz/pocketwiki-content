@@ -45,3 +45,5 @@ Fukuoka is bordered by mountains, surrounds Hakata Bay, and opens to the Genkai 
 ## Debates and Open Questions
 *   The exact role of the Fukuoka/Dazaifu area in the founding of Japan is debated among scholars, with some claiming it was the first point of entry for outsiders and the Imperial Family.
 *   The probability of a major earthquake along the Kego fault, which runs under the city, has been revised upward following the discovery of its extension into the Genkai Sea after the 2005 quake.
+
+Source: adapted from "Fukuoka" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fukuoka

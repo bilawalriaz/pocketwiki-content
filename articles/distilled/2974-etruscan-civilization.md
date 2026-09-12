@@ -43,3 +43,5 @@ Etruscan culture was heavily influenced by Greek art and religion but maintained
 - **Origins**: While the indigenous theory is now dominant, the exact process of ethnogenesis from the Villanovan culture and the nature of the Tyrsenian linguistic connection remain areas of study.
 - **Language and Literature**: The Etruscan language is only partially deciphered. The extent and nature of their lost literary tradition, referenced by Roman authors, is unknown.
 - **Political Structure**: The precise organization and function of the Etruscan League, and the balance of power between its member cities, are not fully understood due to limited native sources.
+
+Source: adapted from "Etruscan civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Etruscan_civilization

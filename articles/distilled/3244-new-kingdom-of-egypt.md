@@ -46,3 +46,5 @@ The Twentieth Dynasty saw the last great pharaoh, Ramesses III, who defeated inv
 - The nature of Akhenaten's religion is debated: was it true monotheism, henotheism (worship of one god while acknowledging others), or monolatry (worship of one god without denying others' existence)?
 - The identity and fate of Ramesses III's assassins, and whether he died immediately from the plot, remained uncertain until a 2012 CT scan revealed a fatal throat wound.
 - The cause of the climate event that limited sunlight and agricultural production around 1159 BC is disputed, with the Hekla 3 eruption being one proposed but unconfirmed explanation.
+
+Source: adapted from "New Kingdom of Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt

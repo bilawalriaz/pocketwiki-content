@@ -42,3 +42,5 @@ By 1989, Romania was the last hard-line communist state in the Eastern Bloc. Pro
 - The exact death toll of the 1989 revolution remains debated, with early Western reports of tens of thousands killed later revised to under 1,000.
 - The legacy of Ceaușescu is contested in modern Romania, with polls showing a significant portion of the population holds a positive view of his rule, often citing stability and national pride.
 - The hasty trial and execution of the Ceaușescus is criticized as a show trial, though some participants argue it was necessary to prevent lynching and anarchy.
+
+Source: adapted from "Nicolae Ceaușescu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu

@@ -39,3 +39,5 @@ Northern Cyprus covers 3,355 km², featuring the Kyrenia mountain range and the 
 - **Population Demographics**: The disputed ratio of indigenous Turkish Cypriots to settlers from Turkey, which has significant political implications.
 - **Reunification Prospects**: The ongoing failure to resolve the Cyprus problem and the future of the island's division, especially given the election of leaders in the north who favor independence over reunification.
 - **International Embargo**: The impact of the international embargo on Northern Cyprus's development and whether pledges by the EU to ease isolation will be fulfilled.
+
+Source: adapted from "Northern Cyprus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Northern_Cyprus

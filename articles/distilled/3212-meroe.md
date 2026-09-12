@@ -51,3 +51,5 @@ The site was first described for Europeans by Frédéric Cailliaud in 1821. Majo
 - The scale and importance of Meroë's iron industry, and whether it was a major export center, is a matter of scholarly debate.
 - The linguistic classification of the Meroitic language remains unresolved, with competing theories placing it in the Afro-Asiatic or Nilo-Saharan families.
 - The primary cause of the kingdom's final collapse is debated: some emphasize the destructive campaign by Aksum around 350 AD, while others point to earlier economic and political decline around 300 AD.
+
+Source: adapted from "Meroë" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mero%C3%AB

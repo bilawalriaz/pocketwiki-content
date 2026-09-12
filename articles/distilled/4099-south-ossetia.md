@@ -51,3 +51,5 @@ Before the 1990s conflict, the population was roughly two-thirds Ossetian and 25
 - **Origin of the 2008 war**: An EU fact-finding mission concluded "open hostilities began with a large-scale Georgian military operation," but noted it followed months of mutual provocations. Russia and Georgia blame each other.
 - **Population figures**: The accuracy of the 2015 South Ossetian census is questioned by Georgian authorities, with independent estimates suggesting a lower population.
 - **Annexation by Russia**: South Ossetian authorities have repeatedly expressed a desire to join Russia, but the process has been postponed multiple times, and political will remains debated.
+
+Source: adapted from "South Ossetia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/South_Ossetia

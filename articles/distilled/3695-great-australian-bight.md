@@ -35,3 +35,5 @@ The bight has been exploited for fishing, notably for southern bluefin tuna. Sin
 
 ## Debates and Open questions
 The primary debate concerns the balance between economic development and environmental protection. While exploration for oil and gas has been repeatedly proposed and withdrawn, the potential for future projects persists. Significant scientific uncertainty remains regarding the full scope of biodiversity in the bight and the precise impacts that resource extraction or other human activities would have on its complex ecosystems.
+
+Source: adapted from "Great Australian Bight" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Australian_Bight

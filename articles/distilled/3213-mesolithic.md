@@ -49,3 +49,5 @@ The Mesolithic concept is less consistently applied elsewhere. In China, sites o
 - The degree of social complexity in Mesolithic societies is unclear, as evidenced by simple burials alongside sophisticated constructions like Warren Field.
 - The processes by which Mesolithic communities adopted or rejected the "Neolithic package" are not fully understood, with evidence for both long-term coexistence and rapid transition.
 - The origins and spread of the "ceramic Mesolithic" pottery tradition, and its relationship to Neolithic pottery, require further investigation.
+
+Source: adapted from "Mesolithic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mesolithic

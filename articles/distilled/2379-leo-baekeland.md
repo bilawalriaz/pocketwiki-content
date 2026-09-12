@@ -46,3 +46,5 @@ Baekeland became a professor at Columbia in 1917 and a U.S. citizen in 1919. In 
 
 ## Debates and Open questions
 The source notes that Baekeland's entry into synthetic resins was explicitly motivated by a desire to make money, framing his scientific work within a clear business strategy.
+
+Source: adapted from "Leo Baekeland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leo_Baekeland

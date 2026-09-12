@@ -46,3 +46,5 @@ The meeting of temperate and Arctic waters creates a diverse ecosystem. Species 
 - The ecological and climatic consequences of the ongoing "Atlantification" and loss of permanent sea ice are not fully understood.
 - The true impact of fishing on the Barents Sea ecosystem is obscured by inaccurate catch data and underreporting.
 - The long-term environmental risks from accumulated pollution and increased future shipping and oil activity remain a major concern.
+
+Source: adapted from "Barents Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Barents_Sea

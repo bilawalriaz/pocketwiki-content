@@ -51,3 +51,5 @@ After the war, Hahn became a leading figure in rebuilding German science. He was
 - **Nobel Prize Attribution:** Hahn was awarded the 1944 Nobel Prize in Chemistry alone for the discovery of fission. The exclusion of Lise Meitner and Fritz Strassmann is widely debated, with arguments citing sexism, antisemitism, and the Nobel Committee's traditional separation of chemistry and physics.
 - **Hahn's Role During Nazism:** While Hahn opposed Nazi policies and helped Jewish colleagues, his political passivity and post-war efforts to rehabilitate the reputations of scientists with Nazi ties (issuing "whitewash certificates") have been criticized as morally compromised.
 - **Scientific Credit:** The discovery of fission involved a complex interplay between Hahn's chemical experiments and Meitner's physical interpretation. Determining the precise division of credit remains a topic of historical analysis.
+
+Source: adapted from "Otto Hahn" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Otto_Hahn

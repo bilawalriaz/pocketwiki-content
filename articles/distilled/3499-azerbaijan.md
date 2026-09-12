@@ -47,3 +47,5 @@ The population is 94.8% Azerbaijani, with minorities including Lezgins, Talysh, 
 *   **Historical Identity:** The use of the name "Azerbaijan" for the post-Soviet republic is contested by Iran, which argues the name historically refers only to its own northwestern region.
 *   **Governance and Human Rights:** The Aliyev government is consistently criticized by international observers for authoritarianism, election fraud, corruption, and severe repression of civil liberties and political opposition.
 *   **Nagorno-Karabakh Conflict:** The resolution of the conflict, including the status of the region and the fate of displaced populations, remains a central and sensitive issue in regional politics.
+
+Source: adapted from "Azerbaijan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Azerbaijan

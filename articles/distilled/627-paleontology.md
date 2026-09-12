@@ -80,3 +80,5 @@ Paleontology rivals astrophysics/global health in media profile. Icons (*Tyranno
 *   **Fossil Record Bias**: Disentangling true diversity signals from preservation/sampling artifacts (e.g., Pull of the Recent, rock volume bias) remains a core methodological challenge.
 *   **Paleophysiology of Extinct Giants**: Biomechanical and metabolic limits of sauropods, pterosaurs, and giant arthropods; how calcifiers built skeletons during high-CO2 intervals.
 *   **Cultural vs. Scientific Priorities**: Tension between public/dinosaur-centric funding drivers and the breadth of paleontological inquiry (microfossils, plants, invertebrates, non-Laurasian regions).
+
+Source: adapted from "Paleontology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paleontology

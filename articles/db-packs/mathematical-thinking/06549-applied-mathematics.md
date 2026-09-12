@@ -33,3 +33,5 @@ Institutions vary widely. Some have a single mathematics department; others spli
 ## Professional societies
 
 The Society for Industrial and Applied Mathematics (SIAM) is the main international organization, with about 14,000 individual members as of 2024. The American Mathematical Society maintains a separate Applied Mathematics Group.
+
+Source: adapted from "Applied mathematics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Applied_mathematics

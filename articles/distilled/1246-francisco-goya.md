@@ -52,3 +52,5 @@ After fleeing Spain in 1824, Goya settled in Bordeaux with his loyal servant Leo
 
 ## Debates and Open Questions
 Several aspects of Goya’s life remain debated. The cause of his deafness and subsequent mental decline is uncertain, with theories ranging from viral encephalitis and Ménière’s disease to lead poisoning from his paints. The identity of the model for *La Maja Desnuda* is unconfirmed, though candidates include the Duchess of Alba and Pepita Tudó. Whether Goya had a romantic relationship with Leocadia Weiss lacks definitive proof. Additionally, scholarly debate surrounds the extent of his political engagement during the French occupation and the precise meaning behind many of his symbolic works. The damage incurred during the transfer of the Black Paintings from wall to canvas also raises questions about how much of Goya’s original vision survives today.
+
+Source: adapted from "Francisco Goya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Francisco_Goya

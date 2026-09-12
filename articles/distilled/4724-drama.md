@@ -44,3 +44,5 @@ Indian drama's earliest form is Sanskrit theatre, for which the *Nātyaśāstra*
 - The origins of Greek drama remain obscure, though it was institutionalized by the 5th century BC.
 - The exact date of composition for the Indian *Nātyaśāstra* is uncertain, with estimates ranging from 200 BC to 200 AD.
 - The authorship of the Roman tragedy *Octavia* is unknown; it was once mistakenly attributed to Seneca.
+
+Source: adapted from "Drama" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Drama

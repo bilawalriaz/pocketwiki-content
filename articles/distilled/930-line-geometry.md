@@ -45,3 +45,5 @@ In modern mathematics, the concept of a line varies with the geometry. In differ
 
 ## Debates and open questions
 The definition of a line remains debated across geometries. Euclid's intuitive definition is not used in formal proofs, leading to reliance on axiomatic or analytic approaches. Whether a line should be treated as a primitive notion or defined via coordinates depends on the mathematical framework. In non-Euclidean and projective geometries, the visual representation of lines diverges significantly from the Euclidean ideal, raising questions about the universality of geometric intuition. The applicability of rays and betweenness concepts is limited to ordered geometries, excluding projective and complex geometries.
+
+Source: adapted from "Line (geometry)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Line_%28geometry%29

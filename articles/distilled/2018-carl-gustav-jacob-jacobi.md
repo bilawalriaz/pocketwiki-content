@@ -44,3 +44,5 @@ In mechanics, he contributed to the Hamilton–Jacobi theory and introduced the 
 
 ## Debates and open questions
 The source does not detail specific scholarly debates about Jacobi's work, but it notes that his method of inversion was later extended by Weierstrass and Riemann to arbitrary algebraic curves, leading to the development of the Jacobian variety and Riemann theta functions. This represents a significant evolution of his foundational ideas.
+
+Source: adapted from "Carl Gustav Jacob Jacobi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi

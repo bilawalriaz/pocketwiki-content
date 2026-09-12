@@ -62,3 +62,5 @@ Digital prints use inkjet printers instead of a press, on paper, cloth, or plast
 ## Safety and Preservation
 
 Etchers and lithographers handle acids with rubber gloves, ventilation hoods, and respirators; aquatint adds rosin dust as a respiratory hazard. Alkaline acid-free paper can last over 1,000 years, while older acidic stock yellows and *foxes* (brown blotches from mold or chemical reaction). Color prints fade in light, so sensitive works are lit below 50 lux with UV-filtering sleeves, and archival matting is required because acidic boards attack even acid-free prints.
+
+Source: adapted from "Printmaking" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Printmaking

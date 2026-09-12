@@ -43,3 +43,5 @@ Edward's later years were marked by declining health, military failure, and dome
 *   **Nature of the French Claim:** Historians debate whether Edward III's claim to the French throne was a genuine dynastic ambition or primarily a political and military tool to pressure the French government.
 *   **Responsibility for the Wars of the Roses:** While 19th-century historians blamed Edward for creating the ducal families (Lancaster and York) whose rivalry led to the 15th-century civil wars, modern scholarship largely rejects this, viewing it as a common policy of the age.
 *   **Historical Reputation:** Edward's legacy has shifted. He was revered for centuries as a model warrior-king, but 19th-century Whig historians like William Stubbs criticized him as an irresponsible adventurer. Modern historians generally credit him with significant administrative and military achievements.
+
+Source: adapted from "Edward III" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edward_III

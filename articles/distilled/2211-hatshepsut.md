@@ -37,3 +37,5 @@ Hatshepsut presumably died in Year 22 of Thutmose III's reign. She was likely bu
 *   **Motivation for Erasure:** Scholars debate whether the erasure of Hatshepsut was due to personal resentment by Thutmose III, a political necessity to reassert traditional male succession, or a routine ritual deactivation of her monuments.
 *   **Identification of Her Mummy:** A mummy (KV60A) was proposed to be Hatshepsut based on a matching tooth, but later analysis cast doubt on this identification, and DNA testing has been refused.
 *   **The "Hatshepsut Problem":** Her successful reign and subsequent erasure created confusion in early Egyptology about the order of succession in the Eighteenth Dynasty, highlighting conflicts between power and traditional gender roles.
+
+Source: adapted from "Hatshepsut" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hatshepsut

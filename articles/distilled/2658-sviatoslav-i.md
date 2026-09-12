@@ -41,3 +41,5 @@ In 972, while returning to Kiev, Sviatoslav was ambushed and killed by Pechenegs
 *   The exact chronology of Sviatoslav's Khazar campaigns, particularly whether Sarkel fell before or after Atil, is uncertain and disputed by historians.
 *   The origins of Sviatoslav's wives and the precise status of his sons (e.g., whether Oleg or Yaropolk was the eldest) are unclear in the sources.
 *   The degree of Byzantine influence in inciting Sviatoslav's campaigns against the Khazars and later Bulgaria is a matter of scholarly speculation.
+
+Source: adapted from "Sviatoslav I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sviatoslav_I

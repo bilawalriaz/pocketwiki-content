@@ -27,3 +27,5 @@ Chomsky's theories shaped the field, especially in explaining how infants learn 
 ## Software
 
 Common tools include spaCy, WordNet, a large lexical database of English, NooJ, Foma, Grammatical Framework, and GloVe. Adjacent fields include natural language processing, grammar induction, corpus linguistics, lexicography, machine translation, translation memory, and computational lexicology. The journal *Computational Linguistics* is a primary publication venue.
+
+Source: adapted from "Computational linguistics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computational_linguistics

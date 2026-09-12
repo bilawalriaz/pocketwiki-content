@@ -54,3 +54,5 @@ Copland’s leftist affiliations led to FBI surveillance and blacklisting during
 
 ## Debates and Open Questions  
 Copland’s embrace of accessibility sparked debate: while some saw it as democratic and patriotic, others—including composer David Diamond—accused him of "selling out" to commercialism. His use of serial techniques in later works divided critics, with some praising innovation and others viewing it as inconsistent with his earlier voice. His political associations during the Red Scare raised questions about artistic integrity versus social responsibility. Additionally, interpretations of his sexuality and its influence on his work remain underexplored due to his guarded personal life.
+
+Source: adapted from "Aaron Copland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aaron_Copland

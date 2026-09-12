@@ -45,3 +45,5 @@ Honduras has a low middle-income economy heavily reliant on agriculture, making 
 - The effectiveness of international aid and Poverty Reduction Strategies is debated, with critics arguing they have failed to produce lasting economic growth or significantly reduce poverty.
 - The impact of U.S. foreign policy and military presence in Honduras, particularly during the 1980s Contra war and in contemporary counter-narcotics efforts, is a subject of ongoing analysis.
 - The causes and solutions for Honduras's extremely high levels of crime and violence, linked to drug trafficking and gang activity, are complex and unresolved.
+
+Source: adapted from "Honduras" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Honduras

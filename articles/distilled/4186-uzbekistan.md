@@ -48,3 +48,5 @@ Uzbeks form over 89% of the population. The official language is Uzbek, written 
 - The percentage of the ethnic Tajik population in Uzbekistan is controversial, with official figures around 5% and some Western academics estimating 25–30%.
 - The extent of political reform under President Mirziyoyev is debated, with some viewing it as a potential "Uzbek Spring" while international indices still classify the country as a closed autocracy.
 - The long-term environmental and socioeconomic impacts of the Aral Sea's desiccation and ongoing climate change remain critical challenges.
+
+Source: adapted from "Uzbekistan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Uzbekistan

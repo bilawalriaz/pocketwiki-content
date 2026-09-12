@@ -33,3 +33,5 @@ The main hazards are **pyroclastic flows** (fast avalanches of hot gas, ash, and
 ## Beyond Earth
 
 Volcanism is not unique to Earth. Venus shows vast lava plains and possible recent activity. Mars hosts enormous shield volcanoes, including Olympus Mons, the largest known. Jupiter's moon Io is the most volcanically active body in the Solar System, erupting sulfur and silicates. Icy moons such as Europa, Enceladus, and Triton instead display **cryovolcanism**, erupting water, ammonia, or methane at temperatures far below rock melting. Whether Venus and Mars remain volcanically active today is still debated, with conflicting satellite and atmospheric evidence.
+
+Source: adapted from "Volcano" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Volcano

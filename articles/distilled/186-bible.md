@@ -95,3 +95,5 @@ Analytical investigation of the Bible as text (history, authorship, dates, inten
 *   **Inspiration and inerrancy:** Extent of divine influence (words vs. concepts); scope of inerrancy (faith/practice only vs. all history/science); authority of autographs vs. translations (King-James-Only).
 *   **Ethical evaluation:** Bible used to justify slavery, patriarchy, violence, genocide (Canaanites) vs. abolition, civil rights, liberation theology; feminist critique of "Texts of Terror."
 *   **Biblical criticism’s legitimacy:** Secularized scholarship vs. faith community; "desacralization" as condition for modernity vs. threat to belief.
+
+Source: adapted from "Bible" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bible

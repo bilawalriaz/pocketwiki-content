@@ -43,3 +43,5 @@ The strait is regularly crossed by sailing vessels, including in the Melbourne t
 
 ## Debates and Open questions
 There is debate over which ocean Bass Strait belongs to. The International Hydrographic Organization (IHO) has different drafts: a 1953 version associates it with the Great Australian Bight, while an unapproved 2002 draft places it in the Pacific Ocean. The Australian Hydrographic Service places it in the Tasman Sea, not the Southern Ocean.
+
+Source: adapted from "Bass Strait" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bass_Strait

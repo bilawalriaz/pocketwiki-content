@@ -33,3 +33,5 @@ Beam diagnostics are the instruments that measure the real beam and decide wheth
 ## Tolerances and tuning
 
 No large accelerator is built perfectly. Component misalignment, small field-strength errors, and similar imperfections are inevitable, so physicists must know the tolerances within which a machine will still meet its design performance. Engineers supply expected tolerances for each component, and full physics simulations then predict behaviour under realistic errors. In many cases the simulated performance is unacceptable, and the fix is either to re-engineer the offending component or to add a tuning algorithm that steers the machine back to design. Because several error sources act at once, the chosen algorithms are typically validated in simulation across many error conditions before they are trusted on the real machine.
+
+Source: adapted from "Accelerator physics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Accelerator_physics

@@ -45,3 +45,5 @@ Ibn Khaldun applies his framework to various societies. He attributes the histor
 - **Climatic Determinism**: His theories on the influence of climate on human traits, especially regarding Sub-Saharan Africans, are criticized as reflecting ancient Greek models and containing racist elements.
 - **Historical Accuracy**: Modern historians challenge his demographic claims, such as the "Ajam" monopoly on early Islamic scholarship, arguing he overlooked the Arab diaspora in eastern cities.
 - **Almoravid Conquest**: His account of the Almoravid conquest causing the fall of the Ghana Empire is contested by archaeologists, who find little evidence for a military invasion in 1076.
+
+Source: adapted from "Muqaddimah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muqaddimah

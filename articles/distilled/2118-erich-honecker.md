@@ -47,3 +47,5 @@ After German reunification, Honecker sought asylum in the Chilean embassy in Mos
 - **Responsibility for the Wall:** Honecker claimed political but not legal or moral guilt for the Berlin Wall and border deaths, arguing the decision was a collective Warsaw Pact action to prevent a third world war. Courts and historians largely reject this, holding him directly responsible.
 - **Role of Illness:** Honecker's serious illness in 1989 (a missed cancer diagnosis) coincided with the regime's crisis, raising questions about how his incapacity affected the Politburo's ability to respond to protests.
 - **Trial Legality:** The abandonment of his trial on human dignity grounds remains controversial, with victims' groups and some politicians protesting the decision to release a dying man accused of serious crimes.
+
+Source: adapted from "Erich Honecker" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Erich_Honecker

@@ -40,3 +40,5 @@ The trench is a U.S. national monument, though the deepest part lies in the Fede
 - The exact maximum depth is subject to measurement uncertainty and debate, with different surveys reporting slightly different figures.
 - The identity of the "flatfish" reportedly seen during the 1960 *Trieste* dive is disputed; it may have been a sea cucumber.
 - The safety and ethics of using the trench for nuclear waste disposal remain contentious, with concerns about tectonic activity and long-term containment.
+
+Source: adapted from "Mariana Trench" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mariana_Trench

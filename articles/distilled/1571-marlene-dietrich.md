@@ -63,3 +63,5 @@ Dietrich’s androgynous style—"I dress for the image... If I dressed for myse
 - **Abortion claim**: Peter Bogdanovich reported Dietrich told him she became pregnant by James Stewart during *Destry Rides Again* and had a secret abortion; this is uncorroborated in the source.
 - **Extent of OSS involvement**: Dietrich was the only performer told her recordings were for OSS use; the full scope of her intelligence work beyond "Musak" is not detailed.
 - **Legacy in Germany**: The 1996 rejection vs. 1997 acceptance of public commemoration in Berlin-Schöneberg reflects ongoing national ambivalence toward her wartime allegiance.
+
+Source: adapted from "Marlene Dietrich" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marlene_Dietrich

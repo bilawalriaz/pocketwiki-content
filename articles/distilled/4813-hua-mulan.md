@@ -49,3 +49,5 @@ The story has inspired numerous stage, film, and television adaptations worldwid
 - **Historicity**: It is unclear whether Mulan was a real historical figure or a purely legendary character, as her name is absent from official historical records of the Northern Wei.
 - **Ethnicity**: Given the Northern Wei's Xianbei rulers and the ballad's context, scholars debate whether Mulan was of Xianbei or Han Chinese origin.
 - **Tragic Ending**: The suicide of Mulan in the *Romance of Sui and Tang* is considered a later interpolation by author Chu Renhuo, with some commentators suggesting it may carry an anti-Qing political message.
+
+Source: adapted from "Hua Mulan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hua_Mulan

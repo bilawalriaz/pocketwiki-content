@@ -90,3 +90,5 @@ Beyond e-commerce, **big data, AI, computer vision, and IoT** transform the enti
 *   **Online Loyalty Dynamics:** Research indicates online shoppers start loyal to known retailers but switch more readily as they gain experience; the long-term equilibrium for digital loyalty remains unresolved.
 *   **Technology Integration:** The extent to which AI, computer vision, and IoT will automate core functions (checkout, inventory, personalization) versus augment human labor is an open strategic question.
 *   **Legal Thresholds:** Jurisdictions vary on the % of consumer sales required to legally define "retail" (commonly 80%), creating classification ambiguity for hybrid B2B/B2C models.
+
+Source: adapted from "Retail" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Retail

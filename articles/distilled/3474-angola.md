@@ -38,3 +38,5 @@ Since 2002, Angola has been a dominant-party republic under the MPLA. The econom
 
 ## Debates and Open Questions
 The source highlights ongoing debates about Angola's governance and development. Key questions include the sustainability of its oil-dependent economy, the effectiveness of anti-corruption efforts, and the depth of democratic reforms. The future of the separatist conflict in the Cabinda exclave remains unresolved. Scholars also debate the legacy of the civil war and whether the post-2002 political system truly represents a break from authoritarian rule.
+
+Source: adapted from "Angola" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Angola

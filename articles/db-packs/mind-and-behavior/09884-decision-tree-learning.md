@@ -32,3 +32,5 @@ A decision list is a degenerate, one-sided tree with at most one internal node p
 Decision trees handle both numerical and categorical features without normalisation, perform built-in feature selection since split features matter and the rest are ignored, and can approximate any Boolean function including XOR. They are non-parametric, so they make no distributional assumption about the residuals. The flip side is instability, greediness with no global optimality guarantee, and vulnerability to overfitting when grown without pruning. NP-completeness of the optimal-tree problem, established by Hyafil and Rivest in 1976, is the formal reason every practical learner relies on heuristics.
 
 Free and open-source implementations of these algorithms are available in scikit-learn, Weka, KNIME, Orange, R packages such as rpart and party, and ALGLIB, with commercial equivalents in MATLAB, SAS Enterprise Miner, and IBM SPSS Modeler.
+
+Source: adapted from "Decision tree learning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Decision_tree_learning

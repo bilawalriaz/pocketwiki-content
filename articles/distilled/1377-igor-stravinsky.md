@@ -56,3 +56,5 @@ In the United States, Stravinsky delivered the Charles Eliot Norton Lectures at 
 ## Debates and open questions
 
 Scholars debate the exact boundaries of Stravinsky's stylistic periods: musicologist Jeremy Noble dated the neoclassical period from 1920 with Symphonies of Wind Instruments, while Béla Bartók argued it "really starts with his Octet for Wind Instruments." Bartók also considered the Russian period to have begun in 1913 with The Rite of Spring. Stravinsky's constant stylistic changes confused many supporters, and academics saw his turn to serialism as not innovative enough, believing Schoenberg's death marked the end of twelve-tone music. However, later analysis judged his neoclassical style as "the harbinger of musical postmodernism," and his music stood out as a body of unique ingenuity after many modern styles fell out of fashion.
+
+Source: adapted from "Igor Stravinsky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Igor_Stravinsky

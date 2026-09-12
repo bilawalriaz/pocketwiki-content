@@ -44,3 +44,5 @@ Since the 2010s, Court has been a vocal critic of same-sex marriage and LGBTQ+ r
 
 ## Debates and Open Questions
 The primary debate concerns the reconciliation of Court's historic sporting achievements with her public opposition to LGBTQ+ rights. This has led to ongoing controversy over whether facilities named in her honor, like Margaret Court Arena, should be renamed. There is also discussion about how tennis governing bodies, like Tennis Australia, should acknowledge her records while distancing themselves from her personal views.
+
+Source: adapted from "Margaret Court" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Margaret_Court

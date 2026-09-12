@@ -42,3 +42,5 @@ In recent decades, Timbuktu has faced severe threats. Islamist groups, including
 - The exact etymology of the name "Timbuktu" is unclear, with multiple theories proposing Songhay, Berber, or other linguistic origins.
 - Archaeological research has not yet found remains from the 11th or 12th century within the modern city limits, complicating the understanding of its early foundation.
 - The current status and location of many of Timbuktu's ancient manuscripts remain uncertain following the 2012–2013 attacks and ongoing instability.
+
+Source: adapted from "Timbuktu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Timbuktu

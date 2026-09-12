@@ -50,3 +50,5 @@ In his final years, Subutai helped elect Güyük as Great Khan and, at age 71, w
 - **Subutai's ethnic background**: Some historical accounts claim he belonged to the Uriankhai clan (reindeer people), making him an outsider. Recent scholarship discounts this as a literary trope, noting his family's long association with Genghis Khan's lineage.
 - **Reason for the Mongol withdrawal from Europe (1242)**: The papal envoy Carpini alleged the army withdrew to elect a new Great Khan after Ögedei's death, over Subutai's objections. The historian Rashid al-Din noted Batu and Subutai only heard of the death after beginning withdrawal, and a Cuman revolt in Russia may have also been a factor.
 - **The fate of the "Great Raid" rearguard**: It is likely that Jebe, Subutai's partner, was killed by Kipchaks during the sacrifice of the 1,000-man rearguard at the Kalka River, though this is not explicitly confirmed.
+
+Source: adapted from "Subutai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Subutai

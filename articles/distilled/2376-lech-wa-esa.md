@@ -47,3 +47,5 @@ A major controversy concerns allegations that Wałęsa was an informant for the 
 *   **Nature of Collaboration:** The central debate is whether Wałęsa was a willing, paid informant for the Security Service from 1970-1976, as alleged by historians and some documents, or if any signatures were forged or signed under duress without subsequent action.
 *   **Destruction of Evidence:** Allegations persist that during his presidency, Wałęsa used his office to remove incriminating documents from archives, a claim he denies.
 *   **Impact on Legacy:** Scholars and the public continue to debate how the collaboration allegations, if proven true, should affect the historical assessment of his role in Poland's liberation from Communism.
+
+Source: adapted from "Lech Wałęsa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa

@@ -53,3 +53,5 @@ A capacitor stores this kind of field energy. For a capacitor of capacitance *C*
 U_E = ½ QV = ½ CV² = Q²/(2C)
 
 This follows by summing the infinitesimal work dW = V dq required to add each charge increment. The same form generalises to dielectrics via the displacement field **D**: U_E = ½ ∫ **E** · **D** dV, with the integral over the dielectric volume.
+
+Source: adapted from "Electric potential energy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electric_potential_energy

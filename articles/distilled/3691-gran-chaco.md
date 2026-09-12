@@ -46,3 +46,5 @@ The Gran Chaco is a major agricultural frontier, facing the world's highest defo
 - The discovery of oil in 2012 was announced, but its extent and impact remain subjects of interest.
 - The effectiveness of conservation laws, such as Paraguay's proposed "Deforestacion Zero," is contested due to ongoing illegal logging and weak enforcement.
 - The long-term socioeconomic impact of agricultural expansion versus habitat loss and Indigenous displacement is a critical ongoing issue.
+
+Source: adapted from "Gran Chaco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gran_Chaco

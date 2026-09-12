@@ -84,3 +84,5 @@ The Iron Age is not part of prehistory for civilizations that had writing in the
 - Historians debate how much weight to give to biased Greek and Roman accounts of protohistoric cultures like the Celts and Etruscans.
 - The Vinča culture "may have created the earliest system of writing"—this is uncertain.
 - All timeline dates are approximate and conjectural, subject to revision from new discoveries or improved calculations.
+
+Source: adapted from "Prehistory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prehistory

@@ -48,3 +48,5 @@ Nagpur is a major transportation hub. It is served by Dr. Babasaheb Ambedkar Int
 ## Debates and open questions
 - The precise founding date of Nagpur is cited as 1702 "according to different sources," indicating some historical debate.
 - The city's economic importance relative to Mumbai and Pune is noted to have "gradually declined" after the merging of Vidarbha into Maharashtra due to a period of state government neglect, though it has since recovered.
+
+Source: adapted from "Nagpur" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nagpur

@@ -45,3 +45,5 @@ Gaza is one of the world's most densely populated areas, with a population of ab
 - **Occupation Status**: The core legal debate is whether Gaza remains occupied by Israel after its 2005 withdrawal. The UN, EU, and most legal scholars say yes, citing Israeli control over key aspects of life. Israel and some legal commentators argue it does not.
 - **Genocide Allegations**: There is significant scholarly and international debate over whether Israel's actions in the 2023 Gaza war constitute genocide. Multiple human rights organizations and UN bodies have concluded there are reasonable grounds to believe genocidal acts have occurred, while Israel and others dispute this.
 - **Governance Future**: The long-term political future of Gaza is unresolved. The 2025 peace plan envisions a transitional international administration before a reformed Palestinian Authority takes over, but its acceptance and implementation are contested.
+
+Source: adapted from "Gaza Strip" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gaza_Strip

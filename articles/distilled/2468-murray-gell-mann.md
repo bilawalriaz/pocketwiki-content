@@ -42,3 +42,5 @@ Gell-Mann introduced current algebra in the 1960s to extract predictions from qu
 
 ## Debates and Open Questions
 The source text does not detail specific scholarly debates about Gell-Mann's work, but it notes his association with the JASON advisory group during the Vietnam War was a source of controversy and protest. His biography by George Johnson, *Strange Beauty*, was criticized by Gell-Mann himself for inaccuracies.
+
+Source: adapted from "Murray Gell-Mann" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Murray_Gell-Mann

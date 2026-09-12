@@ -67,3 +67,5 @@ Geometry's applications are extensive. In art, perspective gave rise to projecti
 ## Debates and open questions
 
 The source notes that the golden ratio's role in art is controversial—often claimed to be the most aesthetically pleasing ratio and incorporated into famous works, though the most reliable examples were made deliberately by artists aware of the legend. The Hodge conjecture, one of the seven Millennium Prize problems, remains an open question in algebraic geometry. The source also preserves scholarly hedges on dating (e.g., "c. 1890 BC," "3rd century BC") and attributions (e.g., Thales "is credited with" the first use of deductive reasoning; the Pythagorean theorem's statement "has a long history" before its first proof).
+
+Source: adapted from "Geometry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geometry

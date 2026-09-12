@@ -40,3 +40,5 @@ The state promoted Taoism, with different schools favoured by different emperors
 ## Legacy
 
 Most of the political and administrative scaffolding the Sui erected was inherited and refined by the Tang. The Sui's roughly thirty years of state-building produced durable institutions, a canal network, a population peak, and a unified territory, undone by a single decade of overambitious construction and foreign war, a lesson visible in the caution with which the Tang later handled mobilisation.
+
+Source: adapted from "Sui dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sui_dynasty

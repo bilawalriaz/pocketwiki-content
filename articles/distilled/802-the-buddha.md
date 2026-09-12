@@ -47,3 +47,5 @@ Buddhism evolved into Theravāda, Mahāyāna, and Vajrayāna traditions. Mahāy�
 - **Omniscience**: Early texts do not attribute omniscience to the Buddha; later traditions deified him.  
 - **Women’s Ordination**: The historicity of the eight gurudharmas (conditions for nun ordination) is questioned due to inconsistencies.  
 - **Last Meal**: Theravāda tradition holds it was pork; Mahāyāna, a plant or mushroom. Scholars debate the cause of his illness (food poisoning vs. mesenteric infarction).
+
+Source: adapted from "The Buddha" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_Buddha

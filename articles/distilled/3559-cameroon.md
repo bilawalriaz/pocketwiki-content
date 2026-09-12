@@ -48,3 +48,5 @@ Cameroon's geography is exceptionally varied, ranging from coastal plains and eq
 - The **legitimacy of elections** under President Biya's long rule is contested by opposition groups and human rights organizations.
 - The **effectiveness of anti-corruption measures** is questioned, as Cameroon consistently ranks poorly on transparency indices despite government initiatives.
 - The **impact of climate change and environmental degradation** on Cameroon's diverse ecosystems and agricultural livelihoods is a growing concern.
+
+Source: adapted from "Cameroon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cameroon

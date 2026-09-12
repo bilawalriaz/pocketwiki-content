@@ -25,3 +25,5 @@ Qin Shi Huang died in 210 BC. Chief eunuch Zhao Gao and Prime Minister Li Si pla
 ## Disputed Claims
 
 The "burning of books and burying of scholars" under Qin Shi Huang in 213–212 BC is recorded mainly in the Shiji (c. 91 BC), compiled more than a century later, and some modern scholars doubt the events. The claim that the English name "China" derives from "Qin" is also questioned, since the Sanskrit term "Sina" predates the dynasty. Qin rulers notably did not claim the Zhou-era Mandate of Heaven, a doctrine holding that a ruler's authority depended on divine approval.
+
+Source: adapted from "Qin dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Qin_dynasty

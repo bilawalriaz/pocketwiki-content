@@ -45,3 +45,5 @@ The Channel has been a testing ground for crossing technologies. The first steam
 - The precise timing and number of catastrophic floods that formed the Channel remain subjects of geological study.
 - The extent to which lowered sea levels during glacial periods allowed intermittent land connections between Britain and Europe is debated.
 - The impact of the Channel's formation on the migration and isolation of Neanderthals and early modern humans in Britain is an area of ongoing research.
+
+Source: adapted from "English Channel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/English_Channel

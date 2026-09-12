@@ -44,3 +44,5 @@ An urban planner is a professional who optimizes land use and infrastructure, an
 - **Power and consensus**: The consensus-building model is criticized for being based on, rather than challenging, existing community power structures. Agonism has been proposed as an alternative framework.
 - **Inclusivity**: A major debate concerns who is included or excluded in decision-making, with top-down approaches often failing to include residents. The "ladder of citizen participation" is used to assess inclusivity.
 - **Housing crisis**: Participatory urban planning has been criticized for contributing to housing crises in parts of the world.
+
+Source: adapted from "Urban planning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Urban_planning

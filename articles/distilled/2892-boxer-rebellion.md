@@ -36,3 +36,5 @@ The Alliance, led by British Lieutenant-General Alfred Gaselee, brought a relief
 
 ## Debates and Open Questions
 The historical interpretation of the Boxers is contested. Scholars debate whether they were anti-imperialist patriots or irrational, violent reactionaries. The term "Boxer Rebellion" is itself a misnomer, as the Boxers did not rebel against the Qing dynasty but sought to "Support the Qing, destroy the foreigners." The extent of Qing court support, the role of individual officials like Ronglu who may have secretly protected foreigners, and the long-term impact on Chinese nationalism and revolution remain active areas of study.
+
+Source: adapted from "Boxer Rebellion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Boxer_Rebellion

@@ -74,3 +74,5 @@ Public monuments (stelae, sculpture, architectural reliefs, roofcombs) served to
 *   **Toltec–Chichén Itzá connection:** Whether architectural "Mexicanization" at Chichén Itzá reflects Toltec political control, elite emulation, or a shared international prestige culture; chronological data now shows Chichén Itzá's rise *predates* the Toltec florescence at Tula.
 *   **Aztec sacrifice scale:** Whether historical accounts of mass sacrifices (e.g., 80,400 at the 1487 Templo Mayor dedication) reflect reality or political propaganda/spanish exaggeration; archaeological evidence (taphonomy of skull racks / *tzompantli*) is still being assessed.
 *   **Postclassic migration narratives:** The historicity of Nahua/Chichimeca migration accounts from a northern "Aztlan" homeland vs. in-situ development of Postclassic central Mexican cultures.
+
+Source: adapted from "Mesoamerica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mesoamerica

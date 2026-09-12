@@ -46,3 +46,5 @@ Ahvaz has a diverse population of over 1.3 million, including Persians, Arabs, Q
 ## Debates and Open Questions
 - The exact timing of the city's name change from Hormazd-Ardeshir to Darawashir is debated, with sources attributing it to either Ardashir I or his grandson Hormizd I.
 - The political integration of Ahvaz's diverse ethnic groups, particularly its Arab population, remains a sensitive issue, with some groups advocating for greater cultural and provincial autonomy.
+
+Source: adapted from "Ahvaz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ahvaz

@@ -25,3 +25,5 @@ The German Abhorchdienst, staffed mainly by mathematicians, was set up in 1916. 
 ## United States
 
 Herbert Yardley began as a State Department code clerk, then headed Military Intelligence Section MI-8 during the war and later led the Cipher Bureau, founded in 1919. Private work was done at Riverbank Laboratories in Chicago, owned by Colonel George Fabyan, where Elizebeth Friedman, William F. Friedman, and Agnes Meyer Driscoll were employed. The Navy used code A-1 and later created OP-20-G in 1922. The United States also used Choctaw and Cherokee speakers as code talkers, the first large-scale use of Indigenous languages for this purpose.
+
+Source: adapted from "World War I cryptography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/World_War_I_cryptography

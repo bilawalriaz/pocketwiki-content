@@ -64,3 +64,5 @@ The Beach Boys combined 1950s rock and roll, black R&B, and pre-rock pop vocal g
 ## Debates and open questions
 
 The use of studio musicians was a longstanding controversy, stemming from a misinterpreted statement in David Leaf's 1978 biography. Unedited session tapes and AFM sheets leaked in the 1990s revealed the Beach Boys played most instruments on their recordings until *The Beach Boys Today!* (1965), with 1966–1967 as the only years Wilson used the Wrecking Crew almost exclusively. The extent of Brian's sole creative control was also disputed; bandmates resented the "Brian as genius" narrative, though Dennis stated flatly: "Brian Wilson is the Beach Boys." Love's 1992 lawsuit over songwriting credits resulted in 35 songs being amended to credit him, and the parties disputed what Love was properly owed in royalties.
+
+Source: adapted from "The Beach Boys" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_Beach_Boys

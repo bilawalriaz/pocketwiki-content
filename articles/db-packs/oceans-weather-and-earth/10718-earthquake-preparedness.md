@@ -21,3 +21,5 @@ Natural gas leaks pose an explosion risk after a quake. Ready.gov advises that e
 ## Achieving preparedness
 
 Levels of preparedness generally remain low, despite attempts to increase public awareness. Many promotion methods exist but are poorly documented and rarely tested for effectiveness. Hands-on training, drills, and face-to-face interaction have proved more successful at changing behaviour than passive campaigns, and digital methods, including educational videogames, have also been used.
+
+Source: adapted from "Earthquake preparedness" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Earthquake_preparedness

@@ -70,3 +70,5 @@ The population (over 428 million) forms a "hollow continent" concentrated on the
 ## Debates and open questions
 
 The Treaty of Tordesillas line was not strictly enforced due to inaccurate longitude measurements, enabling Portuguese expansion of Brazil. The dating of Chavín civilization (900 BC) is given "according to some estimates and archaeological finds," suggesting scholarly debate. Whether Panama belongs to North or South America is contested—the Darién watershed or Panama Canal are both cited as possible borders. The sovereignty of the Falkland Islands is disputed by Argentina.
+
+Source: adapted from "South America" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/South_America

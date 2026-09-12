@@ -49,3 +49,5 @@ Luzon's population was 59.87 million in 2024. Major ethnolinguistic groups inclu
 - The exact location of the 10th-century Buddhist polity of Ma-i (or Maidh) is debated, with scholars divided between Bay, Laguna and Bulalacao, Mindoro.
 - The extent and precise nature of Chinese and Bruneian influence over pre-colonial Luzon kingdoms remain subjects of scholarly discussion.
 - The demographic impact and integration of centuries-old migrations (e.g., Chinese, Spanish, Mexican) into Luzon's population are ongoing areas of historical and anthropological study.
+
+Source: adapted from "Luzon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Luzon

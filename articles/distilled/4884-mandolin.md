@@ -43,3 +43,5 @@ The mandolin spread from Italy throughout Europe, often used in mandolin orchest
 - The interchangeability of terms like "octave mandolin" and "Irish bouzouki" in modern usage is noted, despite theoretical distinctions based on scale length.
 - The relative merits and sound qualities of carved-top versus pressed-top (laminated) archtop mandolins are a point of discussion among players and luthiers.
 - The historical perception of the mandolin as a "folk instrument" limited its inclusion in standard orchestras, a gap filled by dedicated mandolin orchestras.
+
+Source: adapted from "Mandolin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mandolin

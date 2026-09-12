@@ -45,3 +45,5 @@ Antonescu's legacy has been deeply contested. During the communist era, his role
 *   **Motivations for War:** Antonescu's primary geopolitical goal was recovering Northern Transylvania from Hungary. His decision to wage a war of aggression beyond pre-war borders into Transnistria is a key point of criticism and historical analysis.
 *   **Post-Communist Rehabilitation:** The reasons for Antonescu's popularity in post-1989 Romania are debated, often linked to nationalist sentiment, "fantasies of persecution," and the legacy of communist-era historical revisionism.
 *   **Legal Legacy:** The 2006 Bucharest Court of Appeal's decision to overturn Antonescu's conviction for crimes against peace (later reversed by the Supreme Court) sparked international debate about the legal justification of his actions in 1940.
+
+Source: adapted from "Ion Antonescu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ion_Antonescu

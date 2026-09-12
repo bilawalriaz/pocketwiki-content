@@ -39,3 +39,5 @@ Attackers sort their tools by what they can observe. A *ciphertext-only* attack 
 ## Legal and political context
 
 Governments have long treated strong encryption as a weapon. France restricted domestic use until 1999; China and Iran require licenses; several other countries remain restrictive. In Bernstein v. United States (1999), a US court held that cryptographic source code is protected speech. The 1998 Digital Millennium Copyright Act criminalised circumvention of digital locks, chilling some research; the 1996 Wassenaar Arrangement once capped exported key lengths, a limit largely lifted in 2000. The United Kingdom, Australia, and France can compel suspects to hand over decryption keys; whether the Fifth Amendment shields passphrases in the United States remains contested after *United States v. Fricosu* (2012) and the 2016 FBI–Apple dispute.
+
+Source: adapted from "Cryptography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cryptography

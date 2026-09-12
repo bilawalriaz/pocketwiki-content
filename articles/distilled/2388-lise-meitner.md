@@ -46,3 +46,5 @@ Meitner continued her research in Sweden, working on nuclear reactor design. She
 ## Debates and Open Questions
 - **Nobel Prize Exclusion:** The primary debate concerns why Meitner was omitted from the 1944 Nobel Prize in Chemistry awarded to Hahn. Sealed Nobel Committee records suggest a combination of disciplinary bias (chemistry vs. physics), political obtuseness, and the poor relationship between Meitner and the influential Swedish physicist Manne Siegbahn, who was on the physics committee.
 - **Relative Contributions:** While Hahn performed the crucial chemical experiments identifying barium, Meitner and Frisch provided the essential physical interpretation that explained the phenomenon as nuclear fission and calculated the energy release. The Nobel Committee's failure to adequately assess this interdisciplinary contribution is seen as a key reason for the oversight.
+
+Source: adapted from "Lise Meitner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lise_Meitner

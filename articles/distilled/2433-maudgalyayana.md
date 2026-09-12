@@ -47,3 +47,5 @@ In the 19th century, bone fragments inscribed with his and Śāriputra's names w
 - **Authorship of Abhidharma texts:** While traditions attribute works like the *Dharmaskandha* to Maudgalyāyana, scholars doubt this, though he likely compiled early mnemonic lists (*mātṛkā*) that formed their basis.
 - **The "Ye Dharma Hetu" verse:** Its exact origin and impact are not fully understood; it is not directly attributed to the Buddha in canonical form, suggesting it may be Aśvajit's summary.
 - **Nature of Maudgalyāyana's skin color:** The Pali Canon describes it as blue like a lotus, but some scholars interpret this as originally meaning dark skin.
+
+Source: adapted from "Maudgalyayana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maudgalyayana

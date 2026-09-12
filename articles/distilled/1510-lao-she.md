@@ -55,3 +55,5 @@ Lao She’s former courtyard home in Beijing (19 Fengfu Lane, originally 10 Feng
 - **Politics of *Teahouse***: Scholars debate whether the play’s panoramic pessimism implicitly critiques the Communist revolution it culminates in, or whether it serves the state’s narrative of "liberation" from feudal chaos.
 - **Unauthorized *Rickshaw Boy* translation**: The 1945 US edition (translated by Evan King) appended a bowdlerized happy ending; the 1979 Jean James and 1981 Shi Xiaoqing translations restored the original tragic conclusion, raising questions about reception history in the West.
 - **Three-Self Movement role**: Lao She’s endorsement of sinicized Christianity aligns with state policy, but critics argue the Three-Self Patriotic Movement primarily served government control over religion rather than genuine ecclesiastical independence.
+
+Source: adapted from "Lao She" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lao_She

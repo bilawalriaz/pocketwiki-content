@@ -40,3 +40,5 @@ The 19th and 20th centuries saw the Great Highland bagpipe become globally known
 ## Debates and Open Questions
 - The interpretation of ancient artifacts and texts (e.g., the Hittite slab, the Greek *askaulos*, descriptions of Nero's *tibia utricularis*) as evidence for true bagpipes is debated. Modern scholarship suggests these were likely mouth-blown instruments using a bag as an aid, not a distinct class until drones were added in the Medieval era.
 - The precise origins and early development of bagpipes in the British Isles prior to the 14th century are contested.
+
+Source: adapted from "Bagpipes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bagpipes

@@ -48,3 +48,5 @@ The population is about 12,500. The official languages are Nauruan and English. 
 - The long-term viability of Nauru's economy post-phosphate is uncertain, with deep-sea mining proposed as a potential but controversial alternative.
 - The environmental and human impact of the Australian immigration detention centre remains a point of international criticism and domestic economic dependence.
 - The effectiveness of the "golden passport" scheme for funding climate adaptation and population relocation is untested.
+
+Source: adapted from "Nauru" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nauru

@@ -91,3 +91,5 @@ Soil salinity from irrigation degraded agricultural productivity, contributing t
 - **Sacred Prostitution**: Whether temple-based ritual sex existed remains contested among historians.
 - **Population Genetics**: While modern Marsh Arabs show genetic affinity, the exact demographic continuity between ancient and contemporary populations is unclear.
 - **Chronology**: Disputes persist between short, middle, and long chronologies for dating events like the Akkadian Empire and Ur III period.
+
+Source: adapted from "Sumer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sumer

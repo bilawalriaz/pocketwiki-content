@@ -51,3 +51,5 @@ Ranavalona designated her son, Radama II, as successor, though conservative fact
 - **Population Decline**: Estimates of population loss vary, with some suggesting a decline of up to half, attributed to warfare, forced labor, disease, and the *tangena* ordeal.
 - **Radama II's Role**: Accounts differ on whether Radama II was a willing participant or an unwitting pawn in the 1857 coup plot.
 - **Legacy in Madagascar**: Views remain complex; she is condemned by many for her brutality, but admired by others for her defense of Malagasy independence and traditions.
+
+Source: adapted from "Ranavalona I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ranavalona_I

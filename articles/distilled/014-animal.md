@@ -79,3 +79,5 @@ Humans exploit many animal species for food (meat, eggs, dairy), materials (leat
 - Whether the Cambrian explosion's apparent suddenness is real or an artefact of the fossil record
 - Whether sediment-filled tubes in 1.2–1.7 gya rocks have animal origins or are water-escape structures
 - The collective geomorphic influence of animals on Earth's surface remains largely understudied
+
+Source: adapted from "Animal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Animal

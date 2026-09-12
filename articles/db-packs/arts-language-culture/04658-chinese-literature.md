@@ -27,3 +27,5 @@ After 1949 the state imposed **socialist realism** as the official doctrine, req
 ## Living debates
 
 Scholars dispute whether modern Chinese literature begins in the seventeenth century or the late Qing. The relative quality of Song and Tang poetry has been contested since the Song, and the authenticity of early historical texts such as the *Bamboo Annals* remains uncertain. The ethical and artistic value of AI-assisted translation for online fiction is a current dispute.
+
+Source: adapted from "Chinese literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinese_literature

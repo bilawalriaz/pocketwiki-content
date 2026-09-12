@@ -41,3 +41,5 @@ The economy is overwhelmingly dependent on oil, which accounts for 97% of export
 
 ## Debates and Open questions
 The primary debate concerns the sustainability of the current political system and the potential for a post-Obiang transition, especially given the role of his son, Teodorín, in government. Scholars also debate the effectiveness of international pressure and oil revenue management in promoting development and human rights. The extreme disparity between national wealth and public welfare remains a central issue for analysis.
+
+Source: adapted from "Equatorial Guinea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Equatorial_Guinea

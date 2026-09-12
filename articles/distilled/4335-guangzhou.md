@@ -44,3 +44,5 @@ Guangzhou is a major transportation hub. Its Baiyun International Airport briefl
 ## Debates and Open Questions
 *   **Language Shift:** There is ongoing concern and debate about the declining use of Cantonese among younger generations in favor of Mandarin, attributed to educational policies and the prestige of Mandarin-speaking cities like Shenzhen. Studies show varying levels of fluency and daily use.
 *   **Population Capacity:** Officials and researchers have noted that Guangzhou's actual population, including migrants, far exceeds the official registered figure, placing severe strain on infrastructure and public services, raising questions about sustainable urban planning and capacity.
+
+Source: adapted from "Guangzhou" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guangzhou

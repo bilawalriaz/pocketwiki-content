@@ -46,3 +46,5 @@ At the height of his power in 1582, Nobunaga was betrayed by his general Akechi 
 *   **Attitude toward the Imperial Court:** While conventionally seen as pressuring the court, newer research indicates Nobunaga may have consistently valued and financially supported the Emperor and court nobles to enhance his own legitimacy.
 *   **Motives for Self-Deification:** According to the Jesuit Luís Fróis, Nobunaga attempted to deify himself during his lifetime. The authenticity of this claim is doubted by many researchers due to a lack of Japanese sources, though the existence of a related stone deity is mentioned in some chronicles.
 *   **Nature of His Reforms:** Historiographical views have shifted. Post-WWII scholarship often portrayed Nobunaga as a revolutionary who destroyed the old order. However, more recent research suggests he may have been a conservative who worked within existing systems and promoted gradual reform.
+
+Source: adapted from "Oda Nobunaga" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oda_Nobunaga

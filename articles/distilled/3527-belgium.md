@@ -45,3 +45,5 @@ Belgium has a highly globalized, service-oriented economy integrated with the re
 - The source highlights persistent tensions and separatist sentiment in Flanders, driven by economic disparities and linguistic-political conflicts, which continue to challenge national unity.
 - The record-breaking 589-day government formation crisis after the 2010 election underscores the deep-seated political fragmentation and the difficulty of forming stable coalitions across the linguistic divide.
 - The complex federal structure, while a compromise, creates ongoing jurisdictional conflicts between communities and regions, resolved by the Constitutional Court.
+
+Source: adapted from "Belgium" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Belgium

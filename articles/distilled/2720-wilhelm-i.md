@@ -48,3 +48,5 @@ Wilhelm remained popular in his later years as a symbol of "old Prussia." He die
 - The extent of Wilhelm's personal power versus his reliance on Bismarck is debated; while he had constitutional authority, he often acquiesced to his chancellor, who sometimes threatened resignation to get his way.
 - The personal relationship between Wilhelm and Bismarck is characterized as that of a "vassal to his feudal superior" by Bismarck, but it was Bismarck who effectively directed state affairs.
 - The significance of Wilhelm's coronation date (18 January) is noted as symbolically linking the new empire to the first Prussian coronation in 1701, though it had no constitutional importance.
+
+Source: adapted from "Wilhelm I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wilhelm_I

@@ -69,3 +69,5 @@ Numbers can be classified into sets, called number systems, such as the natural 
 ## Debates and open questions
 
 The interpretation of tally marks on bones as arithmetic artifacts is disputed. The status of zero as a number raised philosophical and religious arguments in Ancient Greece and the Medieval period, with the Greeks questioning whether even 1 was a number. The Goldbach conjecture (whether every even number is the sum of two primes) and the Riemann hypothesis remain unproven and unrefuted. Whether certain algebraic structures are "numbers" is more a matter of convention than mathematical distinction.
+
+Source: adapted from "Number" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Number

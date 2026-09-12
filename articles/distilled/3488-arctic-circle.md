@@ -35,3 +35,5 @@ The climate is generally cold, but coastal areas of Norway are milder due to the
 
 ## Debates and Open Questions
 The source does not detail specific scholarly debates, but it notes that the precise limits of the midnight sun and polar night phenomena are affected by atmospheric refraction and elevation, creating a zone of transition rather than a sharp line. The geopolitical management of the Arctic region, particularly regarding continental shelf claims and resource rights under international law, is an ongoing area of international negotiation.
+
+Source: adapted from "Arctic Circle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arctic_Circle

@@ -45,3 +45,5 @@ New concepts demanded new personifications. The 16th century added the *personif
 Technological change generated its own figures. Movable type printing introduced *Dame Imprimerie* ("Lady Printing Press") and *Typosine*, a muse of printing, in Lyon pageants. AT&T commissioned Evelyn Beatrice Longman’s gilt-bronze statue for their New York headquarters (1916), retitled over decades: *Genius of Telegraphy*, *Genius of Electricity*, *Spirit of Communication*. Eric Gill adopted Shakespeare’s *Ariel* as the personification of broadcasting for sculptures on Broadcasting House, London (1932).
 
 By the late 20th century, personification seemed obsolete in serious art. Yet the 21st century saw semi-personificatory *superhero* figures—embodiments of ideals like Justice, Patriotism, Vengeance—dominate global cinema through franchise films. The device that once crowded cathedral porches and medieval dream visions now anchors blockbuster mythologies.
+
+Source: adapted from "Personification" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Personification

@@ -33,3 +33,5 @@ From the 19th century, European powers dismantled these empires. The Ottoman Emp
 ## Open Debates
 
 Several questions in early Islamic history remain unsettled. Scholars debate the reliability of the earliest Muslim sources, many of which were written down decades after the events they describe. The motives behind the early conquests are also disputed: religious conviction, economic pressure, and the political vacuum left by the Byzantine and Sasanian empires all played a role, and their relative weight is still argued. The Sunni-Shi'a split is similarly understood either as an immediate political rupture after Muhammad's death or as a slower process of theological divergence over the first few centuries.
+
+Source: adapted from "History of Islam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Islam

@@ -45,3 +45,5 @@ Durban's cultural attractions include the Phansi Museum, Playhouse Theatre, and 
 - **Street Renaming**: The late 2000s renaming of 107 streets to honor anti-apartheid figures, mostly affiliated with the ANC, sparked controversy. Opposition parties and some residents criticized the process as partisan and lacking local connection.
 - **Climate Change Vulnerability**: Durban is identified as one of 12 major African cities most severely threatened by future sea-level rise, with projected damages running into tens of billions of dollars. The long-term costs and necessary adaptation measures are significant open questions.
 - **Crime and Safety**: While murder rates dropped from a peak in the 1990s, they have risen again in the 2010s. The effectiveness of policing and social interventions in addressing this trend remains a critical issue.
+
+Source: adapted from "Durban" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Durban

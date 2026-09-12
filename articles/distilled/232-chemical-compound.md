@@ -39,3 +39,5 @@ Compounds transform into new substances via chemical reactions involving bond br
 ## Debates and open questions
 *   **Classification of non-stoichiometric substances:** Whether variable-composition solids (e.g., silicate minerals, palladium hydride) are true "chemical compounds" or merely "chemical substances" related to compounds via structural defects or trapped impurities.
 *   **Nomenclature consistency:** Inconsistent usage differentiates "substances" (including non-stoichiometric examples) from "compounds" (requiring fixed ratios), leading to ambiguity in classifying crystalline materials that lack simple formulae.
+
+Source: adapted from "Chemical compound" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemical_compound

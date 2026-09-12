@@ -67,3 +67,5 @@ Plants lack brains but exhibit memory-like functions. **Venus flytrap**: two tri
 - **Reconsolidation validity**: Whether reconsolidation is a distinct, scientifically robust process or a retrieval/extinction phenomenon remains debated; strongly trained memories may resist reconsolidation initially but become susceptible later.
 - **Memory storage locus**: While engrams are distributed, the precise neocortical circuits and the role of specific molecular tags (e.g., PKMζ persistence, DNA methylation patterns) in maintaining specific memories over a lifetime are unresolved.
 - **Plant memory homology**: Whether plant calcium-based signaling and habituation constitute true memory analogous to animal neural memory, or merely physiological adaptation, remains controversial.
+
+Source: adapted from "Memory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Memory

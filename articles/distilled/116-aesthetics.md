@@ -74,3 +74,5 @@ In the 20th century, aestheticism (Pater, Wilde) held art is an end in itself; p
 ## Debates and open questions
 
 Central debates include whether aesthetic properties have objective existence or depend on subjective experience; whether aesthetic judgments can be as objective and universal as empirical judgments; whether there is an essence shared by all artworks or only family resemblances; whether aesthetic pleasure is the defining characteristic of the entire aesthetic domain (challenged by the sublime, tragedy, and modern art); whether interpretation can be objectively true or false (critical monism versus pluralism); and whether the philosophy of art is a subfield of aesthetics or the broader discipline. The status of films and video games as serious art is disputed, with critics citing mass production and competition as counterarguments.
+
+Source: adapted from "Aesthetics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aesthetics

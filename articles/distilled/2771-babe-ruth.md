@@ -48,3 +48,5 @@ Ruth's last full season with the Yankees was 1934. He finished his career with t
 - The exact cause of Ruth's severe 1925 illness, dubbed "the bellyache heard 'round the world," remains a mystery, with theories ranging from alcohol abuse to other ailments.
 - The authenticity of Ruth's "called shot" in the 1932 World Series is perpetually debated, with no definitive proof of his intent.
 - The primary reason Ruth was never offered a major league managerial job is attributed by historians to his flamboyant personal life and perceived inability to manage himself, though this prevented him from being fairly evaluated.
+
+Source: adapted from "Babe Ruth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Babe_Ruth

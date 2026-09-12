@@ -55,3 +55,5 @@ Following Lee's surrender, other Confederate forces surrendered through May and 
 - **Could the Confederacy have won?** Most historians argue Confederate victory was possible but unlikely due to the Union's advantages in population and industry. The South's best strategy was to fight a defensive war to exhaust Northern will, but political and military setbacks, particularly after 1863, made this untenable.
 - **The "Lost Cause" Myth:** This ideology, which denies slavery was the principal cause of secession, is disproven by historical evidence, including the seceding states' own declarations. Historians note it was a rationalization created to vindicate the Confederate cause and excuse postwar racism.
 - **Impact of Emancipation:** Scholars debate the timing and motivations behind Lincoln's decision to make emancipation a war goal, weighing military necessity against moral conviction and political strategy.
+
+Source: adapted from "American Civil War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/American_Civil_War

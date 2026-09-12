@@ -75,3 +75,5 @@ A magnetic compass aligns a magnetized needle or card with the horizontal compon
 - **Han Dynasty Spoon:** Literary references describe a "south-pointing spoon" for divination, but no physical magnetite spoon has been excavated from Han tombs.
 - **Transmission Route:** Exact pathway of compass knowledge from China to the Islamic world and Europe (c. 1190–13th century) remains inferred rather than documented.
 - **Polar Navigation Limits:** No magnetic compass works reliably near the magnetic poles; operational boundaries depend on instrument design and local field geometry.
+
+Source: adapted from "Compass" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Compass

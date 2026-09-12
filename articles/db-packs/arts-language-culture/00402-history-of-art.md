@@ -31,3 +31,5 @@ Post-Impressionism (c. 1885–1910) extended these concerns while exploring stru
 ## The Global Twentieth Century
 
 Abstract Expressionism (1940s–1950s) was the first major American movement, emphasizing spontaneous, non-representational expression through gestural brushwork and thickly applied paint. Pop Art (1950s–1960s) drew from mass culture and consumerism, and artists began incorporating found objects, everyday items that challenged traditional definitions of art. Minimalism (1960s) reduced art to essential forms, while Conceptual art prioritized ideas over visual aesthetics, dissolving the old hierarchy between "fine arts" and crafts. The classification of fine art versus craft, the role of art in society, and the influence of non-Western traditions on early 20th-century modernism remain active areas of scholarly debate.
+
+Source: adapted from "History of art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_art

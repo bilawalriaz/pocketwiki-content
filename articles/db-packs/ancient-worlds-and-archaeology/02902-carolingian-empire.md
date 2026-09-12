@@ -29,3 +29,5 @@ After 843, the imperial title passed between Carolingian branches, but real powe
 ## What the Empire Left Behind
 
 Three legacies outlasted the polity. Politically, the Treaty of Verdun fixed a central, eastern, and western division on the map that hardened into modern Europe's core states. Religiously, the model of a Christian emperor ruling with bishops as administrators shaped medieval kingship for centuries. Culturally, the Carolingian Renaissance preserved a critical mass of classical learning, including much of what survived of Latin literature, that fed directly into the twelfth-century intellectual revival. The collapse was a fragmentation into the regional, Christian, militarised kingdoms that defined the rest of the Middle Ages.
+
+Source: adapted from "Carolingian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carolingian_Empire

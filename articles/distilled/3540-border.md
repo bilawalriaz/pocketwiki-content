@@ -45,3 +45,5 @@ Modern initiatives like the European Union foster **cross-border regions** to ad
 
 ## Debates and Open questions
 The source notes that the significance of natural borders has decreased over time due to technology. It also highlights that the study of borders has experienced a renaissance since the 1990s as a counter-narrative to globalization theories of a "borderless world." Furthermore, the effectiveness and structure of separation barriers, as discussed in the context of border art and politics, remain subjects of analysis.
+
+Source: adapted from "Border" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Border

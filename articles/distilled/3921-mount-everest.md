@@ -50,3 +50,5 @@ The 1996 disaster, where eight climbers died in a blizzard, brought global atten
 - **Commercialization Ethics**: There is significant debate about the morality of guiding inexperienced climbers up Everest, with critics arguing it endangers lives and degrades the mountain's spirit, while proponents note economic benefits for Nepal.
 - **Bottled Oxygen**: The use of supplemental oxygen is controversial; purists argue it allows unqualified climbers to attempt the summit, while others see it as a necessary safety tool.
 - **Height Measurement**: While the 2020 joint survey established a new official height, the mountain's elevation is dynamic due to tectonic activity, and the exact measurement from rock versus snow cap has been a point of past disagreement between Nepal and China.
+
+Source: adapted from "Mount Everest" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Everest

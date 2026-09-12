@@ -48,3 +48,5 @@ Traditional shamanism has declined due to colonialism, urbanization, and cultura
 
 ## Debates and Open Questions  
 Scholars debate whether shamanism constitutes a unified global phenomenon or a collection of unrelated practices mislabeled by outsiders. Critics like Alice Kehoe argue the term reinforces colonial and racist stereotypes. The etymology of “shaman” remains disputed, with competing links to Tungusic and Sanskrit roots. The antiquity of shamanism is debated—some claim Paleolithic origins, others caution against projecting modern categories onto ancient remains. The validity of cognitive theories (neurotheological vs. by-product) remains contested. Additionally, the authenticity of modern revivals and the ethics of Western appropriation continue to generate scholarly and ethical debate.
+
+Source: adapted from "Shamanism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shamanism

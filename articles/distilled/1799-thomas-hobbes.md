@@ -44,3 +44,5 @@ After returning to London in 1651, Hobbes lived under the protection of the new 
 - **Religious Views**: Hobbes's exact religious beliefs are debated. He was accused of atheism, but he defended himself and argued for a corporeal God. Scholars disagree on whether he was a secret atheist, a deist, or an unorthodox Christian.
 - **Influence of the Civil War**: While the war provided the immediate context for *Leviathan*, scholars note that many core elements of his political thought were already present in *The Elements of Law* (1640), suggesting his methodology was largely pre-formed.
 - **The Nature of the Sovereign**: There is debate over whether Hobbes's absolute sovereign is a single person, an assembly, or a democratic body, and whether his theory ultimately supports monarchy or is compatible with other forms of government.
+
+Source: adapted from "Thomas Hobbes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Hobbes

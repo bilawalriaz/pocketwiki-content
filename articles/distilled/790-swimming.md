@@ -71,3 +71,5 @@ Swimwear ranges from casual boardshorts to competitive jammers and diveskins. We
 - The effectiveness of infant swimming lessons in preventing drownings is questioned, given that drowning remains a leading cause of child death despite high swimming literacy rates in some countries.  
 - The impact of swimming on bone density continues to be studied, particularly regarding adolescent athletes.  
 - The classification of the butterfly as a distinct stroke versus a variant of breaststroke was historically contested before its official recognition in 1953.
+
+Source: adapted from "Swimming" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Swimming

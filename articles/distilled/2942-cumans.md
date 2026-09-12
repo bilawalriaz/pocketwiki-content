@@ -49,3 +49,5 @@ Cuman society was nomadic, centered on animal husbandry, especially horses. They
 - It is unclear whether the name "Kipchak" originally referred only to the eastern tribe or to the entire confederation, including the Cumans.
 - The precise ethnic origins of the Cumans are uncertain; genetic studies of remains in Hungary show a heterogeneous population with both East Asian and West Eurasian mitochondrial DNA lineages, suggesting admixture during migrations.
 - The relationship between the earlier Qun people mentioned in Chinese sources and the later Cumans is not definitively established.
+
+Source: adapted from "Cumans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cumans

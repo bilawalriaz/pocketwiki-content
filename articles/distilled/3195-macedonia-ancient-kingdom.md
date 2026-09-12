@@ -48,3 +48,5 @@ Macedonian culture blended Greek traditions with influences from its northern ne
 *   **Ethnic Identity:** Scholars debate whether ancient Macedonians were "truly Greeks" or a distinct people. The predominant view is that they were Greeks with a more archaic lifestyle, but ancient sources present conflicting views, sometimes labeling them as barbarians.
 *   **Military Reforms:** The extent to which Philip II's military innovations were original versus influenced by his time as a hostage in Thebes (and exposure to the general Epaminondas) is debated.
 *   **Royal Tombs at Vergina:** The identity of the occupants of the main tombs discovered in 1977–78, particularly whether one is Philip II, has been subject to scholarly debate, though recent forensic research supports this identification.
+
+Source: adapted from "Macedonia (ancient kingdom)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Macedonia_%28ancient_kingdom%29

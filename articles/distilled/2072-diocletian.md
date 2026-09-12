@@ -48,3 +48,5 @@ Weakened by illness, Diocletian abdicated on 1 May 305, the first emperor to do 
 - Scholars debate whether Maximian's assumption of the Augustus title in 286 was authorized by Diocletian or a usurpation later legitimized.
 - The effectiveness and enforcement of the Edict on Maximum Prices are disputed; ancient sources like Lactantius may exaggerate its negative impacts.
 - The degree to which Diocletian, rather than his more zealous colleague Galerius, drove the Great Persecution of Christians is debated, with some sources placing primary responsibility on Galerius.
+
+Source: adapted from "Diocletian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diocletian

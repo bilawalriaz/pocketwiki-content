@@ -46,3 +46,5 @@ Mir was a contemporary of the noted poet Mirza Rafi Sauda. Later critics and poe
 - **Tone of early verse**: Critics contrast the spiritual austerity of *Mu'amlat-e-ishq* with evidence of erotic frankness in other poems, raising questions about Mir’s poetic persona.
 - **Comparative supremacy**: The literary debate over whether Mir or the later Mirza Ghalib is the "greater" Urdu poet remains active, though Ghalib and his rival Zauq both deferred to Mir’s genius.
 - **Grave location**: The exact burial site was lost when railway tracks were built over it; the 1970s cenotaph marks only the vicinity.
+
+Source: adapted from "Mir Taqi Mir" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mir_Taqi_Mir

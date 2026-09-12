@@ -55,3 +55,5 @@ Scholars view Mirabai as both a historical poet-saint and a “canonical project
 - **Cause of persecution**: Was it religious nonconformity (music, caste mixing) or political instability during Mughal-Rajput wars (Martin-Kershaw)?
 - **Regional narratives**: Why do Mewari and Punjabi traditions differ so radically (flight vs. sedentary; in-laws vs. father as persecutor)? What does this reveal about community self-fashioning?
 - **Sikh scripture exclusion**: Why were her compositions in Bhai Banno’s Adi Granth copy rejected by the Gurus, yet she appears in *Prem Ambodh Pothi*?
+
+Source: adapted from "Mirabai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mirabai

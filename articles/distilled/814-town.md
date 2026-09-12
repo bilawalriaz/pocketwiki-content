@@ -43,3 +43,5 @@ India classifies towns as statutory (municipal corporations) or census towns (me
 
 ## Debates and Open Questions
 The lack of universal definition remains contentious. Population thresholds vary dramatically—from under 1,000 in some jurisdictions to over 100,000 in others. The UN's 2021 initiative seeks common statistical definitions, but national sovereignty over local governance complicates standardization. Debates persist over whether economic character or administrative status better defines towns. Some argue suburban communities with urban characteristics but lacking traditional governance should qualify as towns. Others question the relevance of historical charters in modern contexts. The distinction between towns and cities is increasingly blurred in countries where legal frameworks have been simplified or eliminated, raising questions about whether the term retains meaningful administrative value.
+
+Source: adapted from "Town" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Town

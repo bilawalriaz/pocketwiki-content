@@ -40,3 +40,5 @@ In the 1820s, Fourier calculated that Earth should be much colder based solely o
 ## Debates and Open Questions
 - The initial mathematical validity of Fourier's claim that any function could be expanded in a Fourier series was debated. The question of convergence conditions remained fundamental for centuries, with later mathematicians like Dirichlet providing rigorous proofs under specific restrictions.
 - Fourier's explanation for Earth's excess warmth included a mistaken contribution from interstellar radiation; the significant role of internal radiogenic heat was not yet understood.
+
+Source: adapted from "Joseph Fourier" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Fourier

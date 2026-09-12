@@ -56,3 +56,5 @@ The modern calligraphy revival began in the late 19th century, influenced by Wil
 - The source notes that the shape of Chinese characters has evolved over time (e.g., the character 广), with small differences between historical dictionaries like the Kangxi Dictionary (1716) and modern forms, though stroke order remains consistent.
 - The revival of extinct *suyat* scripts in the Philippines is an ongoing cultural effort in protest of colonial history.
 - The distinction between "calligraphy" and "hand-lettering" or "type design" is noted, though some practitioners practice both.
+
+Source: adapted from "Calligraphy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Calligraphy

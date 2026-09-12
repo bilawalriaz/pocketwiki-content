@@ -48,3 +48,5 @@ Tabriz is the largest economic hub in northwest Iran, with a diversified economy
 - The etymology of "Tabriz" is debated, with theories linking it to thermal springs, Armenian history, or an ancient Assyrian stronghold.
 - The exact date of the city's founding is uncertain, with earliest elements claimed to be from the 3rd-4th century AD or the 7th century.
 - The claim that the legendary Garden of Eden was near Tabriz, suggested by Egyptologist David Rohl, has not been accepted by the scholarly establishment.
+
+Source: adapted from "Tabriz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tabriz

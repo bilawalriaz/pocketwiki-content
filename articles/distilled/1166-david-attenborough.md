@@ -50,3 +50,5 @@ A staunch supporter of the BBC and public service broadcasting, Attenborough cri
 - **Role of public service broadcasting**: Ongoing debates about BBC funding, independence, and relevance in the digital age.
 - **Evolution vs. creationism**: Attenborough’s strong opposition to teaching creationism in schools remains contentious in some educational contexts.
 - **Use of AI voice cloning**: Attenborough has expressed concern over unauthorized use of his voice in AI-generated content.
+
+Source: adapted from "David Attenborough" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/David_Attenborough

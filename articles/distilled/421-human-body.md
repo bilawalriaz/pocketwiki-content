@@ -116,3 +116,5 @@ Hippocrates (~420 BCE) and Aristotle (384–322 BCE), who applied critical think
 - **Coronary artery disease primacy**: While identified as the leading global cause of death (16%), the relative contribution of risk factors (obesity, smoking, lipids, hypertension, inactivity, diabetes) varies by population.
 - **Gallbladder cancer rarity vs. lethality**: The disease is uncommon but rapidly fatal if not diagnosed early; screening strategies for high-risk (gallstone) populations are not established in the source.
 - **Evolutionary physiology scope**: The emergence of evolutionary physiology as a distinct subdiscipline is noted, but specific open questions within it are not detailed in the source.
+
+Source: adapted from "Human body" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_body

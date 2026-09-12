@@ -41,3 +41,5 @@ The economy was based on agriculture, crafts, and trade with Russia, Central Asi
 ## Debates and Open Questions
 - The exact status and degree of independence of the Kazan region within the disintegrating Golden Horde before Ulugh Muhammad's usurpation is unclear.
 - The scarcity of surviving documents from the Khanate itself, due to their destruction during the Russian conquest and the Time of Troubles, limits historical understanding.
+
+Source: adapted from "Khanate of Kazan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khanate_of_Kazan

@@ -45,3 +45,5 @@ Lister's ideas faced significant opposition, notably from surgeons like James Yo
 - **Germ Theory Skepticism**: Prominent surgeons like John Hughes Bennett rejected Pasteur's germ theory, arguing that putrefaction was caused by non-living "molecular degeneration" or spontaneous generation.
 - **Adoption Resistance**: Many British surgeons, especially in London, initially dismissed or poorly implemented Lister's techniques, citing complexity, irritation from carbolic acid, or disbelief in airborne infection.
 - **Efficacy of Antisepsis**: Critics like Thomas Nunneley argued that wounds healed well without carbolic acid, attributing success to natural healing rather than Lister's methods.
+
+Source: adapted from "Joseph Lister" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Lister

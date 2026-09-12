@@ -41,3 +41,5 @@ Kilby's work is commemorated through numerous awards, named institutions (like T
 
 ## Debates and Open Questions
 The source text notes that Kilby and Robert Noyce are "generally credited as co-inventors" of the integrated circuit, acknowledging the parallel and independent work that led to the invention. This reflects the historical debate over sole credit, which was resolved by recognizing both contributions.
+
+Source: adapted from "Jack Kilby" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jack_Kilby

@@ -23,3 +23,5 @@ An *interpretation* of a theory is a many-to-one correspondence between its elem
 ## Specifying a theory
 
 The direct route is to write down a set of axioms; the theory is then those axioms together with their provable consequences. The second route starts from a structure and lets the theory be the set of sentences it satisfies, yielding complete theories semantically. The set of true sentences of $(\mathbb{N}, +, \times, 0, 1, =)$, called *true arithmetic*, is one such theory and cannot be captured as the logical consequences of any enumerable set of axioms. Tarski showed the analogous theory of $(\mathbb{R}, +, \times, 0, 1, =)$, the theory of real closed fields, to be decidable.
+
+Source: adapted from "Theory (mathematical logic)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theory_%28mathematical_logic%29

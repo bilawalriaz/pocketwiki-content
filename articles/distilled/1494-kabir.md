@@ -59,3 +59,5 @@ Kabir’s depiction of women draws criticism. Nikky-Guninder Kaur Singh and Wend
 5.  **Persecution Legends**: Historicity doubted due to lack of evidence and narrative implausibilities; viewed as hagiographic protest literature vs. historical record.
 6.  **Influence on Guru Nanak**: McLeod (Sant tradition continuity, doctrinal similarity) vs. Gandhi/Grewal (fundamental theological/practical differences, flawed methodology).
 7.  **Gender Views**: Literal misogyny (Singh, Doniger, Schomer) vs. allegorical soul-symbolism (Dass) vs. social critique of veiling/customs.
+
+Source: adapted from "Kabir" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kabir

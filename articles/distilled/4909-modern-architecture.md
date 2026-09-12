@@ -44,3 +44,5 @@ World War II accelerated innovation through material shortages and prefabricatio
 - Social goals vs. aesthetics: Modernism aimed to solve housing crises through standardization, but projects like Pruitt-Igoe (1974) faced failure and demolition.
 - Cultural adaptation: Tropical Modernism adapted principles to local climates, but critics argue it sometimes served colonial agendas.
 - Preservation: Many modernist buildings are now threatened, sparking debates over their historical value versus functional obsolescence.
+
+Source: adapted from "Modern architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Modern_architecture

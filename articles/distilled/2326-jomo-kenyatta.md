@@ -54,3 +54,5 @@ Kenya pursued a pro-Western, anti-communist foreign policy during the Cold War, 
 *   **Ideological Consistency:** Scholars debate whether Kenyatta was a committed Pan-Africanist and socialist who became a conservative pragmatist, or always fundamentally a capitalist and nationalist.
 *   **Legacy of Governance:** Assessments are sharply divided. He is praised as the "Father of the Nation" who achieved independence and economic growth, but criticized for establishing an authoritarian, corrupt, and ethnically biased regime that laid groundwork for future dictatorial rule.
 *   **Land Redistribution:** The process under Kenyatta is criticized for favoring political loyalists and his own family, creating long-term ethnic tensions and land grievances that erupted in violence in the 1990s.
+
+Source: adapted from "Jomo Kenyatta" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jomo_Kenyatta

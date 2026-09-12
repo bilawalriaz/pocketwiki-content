@@ -46,3 +46,5 @@ Highly revered by contemporaries like Origen and later fathers including Jerome 
 
 ## Debates and Open Questions
 The authenticity and interpretation of Clement's *Hypotyposes* remain contested, particularly regarding Photius's 9th-century criticisms that accused him of believing in eternal matter, cosmic cycles, and reincarnation—charges modern scholars argue may reflect misunderstandings of Clement's quotations from heterodox sources. The *Mar Saba letter*, attributed to Clement by Morton Smith, remains debated as either authentic, ancient pseudepigraph, or modern forgery, with significant implications for early Markan traditions in Alexandria. Scholars continue to debate whether Clement's universalist tendencies represent genuine theological conviction or rhetorical strategy, and the extent to which his engagement with Gnostic texts reflects appropriation versus opposition.
+
+Source: adapted from "Clement of Alexandria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clement_of_Alexandria

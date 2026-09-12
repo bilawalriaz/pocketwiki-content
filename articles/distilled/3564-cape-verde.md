@@ -49,3 +49,5 @@ Cape Verdean culture is a blend of African and European influences. The national
 - **Language Standardization:** There is an ongoing debate about standardizing Cape Verdean Creole, with proposals for two standards: a northern (Barlavento) standard based on São Vicente Creole and a southern (Sotavento) standard based on Santiago Creole.
 - **Renewable Energy Goals:** Cape Verde initially aimed to be 100% reliant on renewable energy by 2025 but has pushed this target back to 2050, with an interim goal of 50% by 2030.
 - **Diaspora Size:** The exact size of the Cape Verdean diaspora is debated, as historical immigration under Portuguese passports makes official statistics potentially inaccurate.
+
+Source: adapted from "Cape Verde" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cape_Verde

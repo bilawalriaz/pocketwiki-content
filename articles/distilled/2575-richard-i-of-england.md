@@ -47,3 +47,5 @@ Contemporaries saw Richard as the epitome of chivalry—a valiant, generous, and
 - **The "Little England" View**: Was Richard a negligent king who exploited England, or a competent ruler managing a vast continental empire? Modern scholars increasingly argue the latter, calling the earlier view anachronistic.
 - **Role in Conrad's Murder**: Was Richard involved in the assassination of Conrad of Montferrat in 1192? Contemporaries suspected him, but it was never proven.
 - **His Deathbed Mercy**: Did Richard truly forgive the crossbowman who killed him, or was the story a later romantic embellishment?
+
+Source: adapted from "Richard I of England" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Richard_I_of_England

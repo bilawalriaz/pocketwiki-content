@@ -48,3 +48,5 @@ While George III never personally owned slaves, his government delayed abolition
 - **Responsibility for the American Revolution**: Was George III a tyrant who stubbornly prolonged war, or a constitutional monarch acting on ministerial advice? Modern scholars increasingly see him as a victim of circumstance.
 - **Nature of his illness**: Was his condition physiological (porphyria) or psychiatric (bipolar disorder)? Recent research discounts porphyria and favors a mental health diagnosis.
 - **Historical reputation**: His legacy has shifted from a 19th-century view of a tyrant to a 20th-century reassessment as a much-maligned figure who embodied national resistance during the Napoleonic Wars.
+
+Source: adapted from "George III" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_III

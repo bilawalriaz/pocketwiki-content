@@ -63,3 +63,5 @@ Sequoyah's achievement inspired a missionary in Alaska to create Cree syllabics,
 - **Date of move to Alabama**: Estimates range from c. 1809 to 1818; the later date conflicts with his known military service.
 - **Grave location**: An 1845 letter confirms death in August 1843 at San Fernando, but a 1939 expedition could not conclusively identify his grave; a 1903 discovery in the Wichita Mountains was far north of Mexico and unverified.
 - **Traveller Bird's account**: Claims Sequoyah was full-blood Cherokee opposing assimilation, but presents no documentary evidence; still gained some academic credibility.
+
+Source: adapted from "Sequoyah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sequoyah

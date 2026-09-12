@@ -49,3 +49,5 @@ In 2024, Brady became the lead color commentator for the NFL on Fox. He also bec
 - **Greatest of All Time (GOAT):** While Brady is widely considered the greatest quarterback, debates persist comparing his achievements to other legends like Joe Montana and Peyton Manning, often centering on era differences and team success.
 - **Deflategate Veracity:** Significant debate continues over the NFL's handling of the investigation, with later reports suggesting the league may have used flawed data and that the footballs' air pressure could be explained by the Ideal Gas Law.
 - **Brady-Belichick Dynasty Credit:** A central debate is the relative contribution of Brady versus coach Bill Belichick to the Patriots' dynasty, a discussion that intensified after Brady won a Super Bowl with a different team.
+
+Source: adapted from "Tom Brady" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tom_Brady

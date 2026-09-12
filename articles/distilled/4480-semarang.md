@@ -49,3 +49,5 @@ Semarang is a transportation hub on National Route 1, with toll roads, a bus rap
 
 ## Debates and Open Questions
 The source does not explicitly outline major scholarly debates. However, it notes historical tensions in urban planning, such as the failed early 20th-century proposal to develop hill areas for the poor versus the later, class-based Candi Baru development. The distinct, non-amalgamated urban-rural cores of the Greater Semarang area also present an ongoing pattern of development different from other Indonesian megaregions like Greater Jakarta.
+
+Source: adapted from "Semarang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Semarang

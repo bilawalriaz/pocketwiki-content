@@ -35,3 +35,5 @@ Compasses and other manual drafting tools were once sold in sets with interchang
 ## Symbol
 
 Because the compass draws a true circle from a fixed centre, it is a long-standing emblem of precision. It appears in the Freemasons' Square and Compasses, in software icons for design tools, on the former national emblem of East Germany, and in literary imagery: the English poet John Donne used the compass as a conceit in *A Valediction: Forbidding Mourning* (1611) to picture two souls fixed at a common centre while the outer end traces a wider arc.
+
+Source: adapted from "Compass (drawing tool)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Compass_%28drawing_tool%29

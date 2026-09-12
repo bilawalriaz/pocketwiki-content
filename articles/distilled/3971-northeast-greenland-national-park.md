@@ -30,3 +30,5 @@ The park's coastal regions host an estimated 5,000 to 15,000 musk oxen, represen
 
 ## Debates and open questions
 The source text does not contain scholarly debates or open questions.
+
+Source: adapted from "Northeast Greenland National Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Northeast_Greenland_National_Park

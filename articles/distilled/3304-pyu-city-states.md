@@ -54,3 +54,5 @@ The Pyu civilization was weakened by repeated raids from the Nanzhao Kingdom in 
 - The pace and scale of Burman migration into the Pyu realm are debated; radiocarbon dating suggests a gradual process extending into the 10th century.
 - The existence and location of the legendary "Pinle Pyu" (Sea Pyu) city remains speculative, with possible sites under investigation.
 - The full extent of Pyu administrative control over distant coastal trading towns is not confirmed.
+
+Source: adapted from "Pyu city-states" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pyu_city-states

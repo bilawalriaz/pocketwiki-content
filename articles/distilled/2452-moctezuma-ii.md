@@ -49,3 +49,5 @@ In 1519, Moctezuma met Hernán Cortés and his forces, exchanging gifts. He was 
 *   **Role in the Conquest**: Scholars debate whether Moctezuma was a weak-willed leader who facilitated the Spanish conquest or a capable ruler facing an unprecedented crisis. Some sources portray him as a tyrant seeking absolute control.
 *   **Interpretation of Speeches**: The meaning of Moctezuma's reported speech to Cortés—whether a genuine submission or a polite assertion of dominance—is contested, as it may reflect post-conquest mythmaking or cultural misinterpretation.
 *   **Omens and Prophecy**: The significance of pre-conquest omens and the belief that the Aztecs saw the Spanish as gods (possibly linked to the Quetzalcoatl legend) is debated, with some historians viewing it as a post-conquest rationalization for defeat.
+
+Source: adapted from "Moctezuma II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moctezuma_II

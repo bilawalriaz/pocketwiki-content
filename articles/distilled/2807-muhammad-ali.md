@@ -46,3 +46,5 @@ Ali's later career included a loss to Leon Spinks and a comeback to win the titl
 - The cause of Ali's Parkinson's syndrome is debated; while some attribute it to boxing-related head trauma, he and his physicians disputed this link.
 - The story of Ali throwing his 1960 Olympic gold medal into the Ohio River after being refused service at a segregated restaurant is disputed by friends and biographers.
 - The "phantom punch" that knocked out Sonny Liston in their 1965 rematch remains controversial, with speculation that Liston took a dive.
+
+Source: adapted from "Muhammad Ali" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muhammad_Ali

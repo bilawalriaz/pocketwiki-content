@@ -53,3 +53,5 @@ Price volatility stems from supply shocks, geopolitical events, and competition 
 - How will climate change impact global rubber cultivation zones?  
 - Is the EU deforestation regulation sufficient to curb environmental harm?  
 - Will smallholder farmers adopt sustainable practices amid price volatility?
+
+Source: adapted from "Natural rubber" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Natural_rubber

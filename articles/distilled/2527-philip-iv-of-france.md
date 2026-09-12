@@ -49,3 +49,5 @@ In 1314, Philip's three daughters-in-law were accused of adultery in the Tour de
 - The primary motive for Philip's destruction of the Knights Templar is debated: was it primarily to erase his debts, assert royal theocracy over the papacy, or address genuine concerns about heresy?
 - The extent to which Philip's financial policies (like debasement) were a pragmatic response to war versus a cause of long-term economic damage is a point of scholarly discussion.
 - The role of the Tour de Nesle affair in shaping the succession crisis and the later Hundred Years' War is analyzed for its political versus personal impact.
+
+Source: adapted from "Philip IV of France" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philip_IV_of_France

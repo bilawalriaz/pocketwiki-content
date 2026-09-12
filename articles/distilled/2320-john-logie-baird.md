@@ -41,3 +41,5 @@ Baird's other inventions included a glass razor, pneumatic shoes, and the "Phono
 ## Debates and Open Questions
 - **Radar contribution**: Baird filed a 1926 patent for a device using reflected radio waves, but his contribution to radar development is disputed. Experts note his "Noctovision" system lacked key radar capabilities like determining distance and 3D coordinates.
 - **Reasons for system failure**: The Baird mechanical system was ultimately replaced by EMI's electronic system. Key factors included the immobility of Baird's cameras, a devastating fire at his facilities, and the superior technical performance of the electronic system.
+
+Source: adapted from "John Logie Baird" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Logie_Baird

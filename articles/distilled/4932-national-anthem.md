@@ -39,3 +39,5 @@ Most famous anthems were composed by relatively unknown figures. Exceptions incl
 - Some nations, like the UK and Sweden, maintain de facto anthems without official legal status, raising questions about formal recognition.
 - The choice of language for an anthem can be contentious in multilingual societies, as seen with debates over the use of Irish in Ireland's anthem or the exclusive Malay lyrics of Singapore's anthem.
 - The use of national anthems in international sports can be politically sensitive, as illustrated by the compromise "Arirang" used by the unified Korean team in 2018.
+
+Source: adapted from "National anthem" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/National_anthem

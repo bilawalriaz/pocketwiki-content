@@ -46,3 +46,5 @@ Biles returned to competition in 2023, winning a record eighth U.S. all-around t
 *   **Mental Health in Elite Sports:** Biles's withdrawal in Tokyo ignited a debate about the pressure on elite athletes and the legitimacy of prioritizing mental health over competition. While widely praised for starting a conversation, she also faced criticism from some who viewed it as quitting.
 *   **Systemic Abuse in Gymnastics:** Biles's testimony against Larry Nassar and USA Gymnastics highlighted systemic failures that enabled abuse. The long-term impact on the sport's governance and athlete safety remains an ongoing issue.
 *   **Legacy and "GOAT" Status:** While her medal count and skill difficulty are objectively the highest, debates continue about comparing athletes across different eras and scoring systems. Her decision to compete in 2024 after the Tokyo withdrawals added a new layer to discussions about her career narrative.
+
+Source: adapted from "Simone Biles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Simone_Biles

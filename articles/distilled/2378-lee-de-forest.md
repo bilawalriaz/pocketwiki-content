@@ -44,3 +44,5 @@ De Forest later developed Phonofilm, an optical sound-on-film process. Despite e
 - **Priority of Invention:** The most contentious debate concerns the regeneration circuit. U.S. courts legally recognized de Forest's priority based on a 1912 notebook entry, but the engineering community largely credited Edwin Howard Armstrong's more comprehensive development and understanding.
 - **Credit for Sound Film:** De Forest's Phonofilm was a pioneering sound-on-film system, but its commercial failure and his contentious relationships with collaborators like Theodore Case complicate his legacy as the "father of sound movies."
 - **Understanding of His Own Invention:** Scholars note de Forest initially did not fully grasp the physics of his Audion or the significance of the feedback principle he observed, which fueled the regeneration controversy.
+
+Source: adapted from "Lee de Forest" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lee_de_Forest

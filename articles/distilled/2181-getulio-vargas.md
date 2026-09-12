@@ -42,3 +42,5 @@ After serving as a senator, Vargas was re-elected president in 1950. He pursued 
 *   Historians debate the extent to which Vargas's Estado Novo was influenced by European fascism, particularly Italian Fascism's *Carta del Lavoro*, versus being a uniquely Brazilian form of authoritarianism.
 *   The interpretation of Vargas's suicide remains contested, with views ranging from a selfless act of a "valiant warrior" for national interests to a final, calculated move by a "crafty and calculating statesman."
 *   The effectiveness and enforcement of his social reforms are debated, as many labor laws and minimum wage policies were poorly enforced in rural areas and did not extend to agricultural workers.
+
+Source: adapted from "Getúlio Vargas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas

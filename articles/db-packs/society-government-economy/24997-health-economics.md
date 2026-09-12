@@ -31,3 +31,5 @@ Cost-utility analysis compares an intervention's incremental cost against the Qu
 ## When markets fail
 
 Health insurance markets can fail because of adverse selection, or because catastrophic conditions (cancer, HIV/AIDS, COVID-19) are too expensive or unpredictable to insure privately. Underinsurance leaves gaps that governments typically fill; India's Ayushman Bharat scheme (launched 2018) is the world's largest such program. Monopoly power is common in markets with few hospitals or patented drugs, and physician-owned-hospital restrictions are debated as a brake on competition. The Baumol effect adds a slower pressure: wages in low-productivity-growth sectors like healthcare rise to match the rest of the economy, pushing costs up even when productivity is flat.
+
+Source: adapted from "Health economics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Health_economics

@@ -46,3 +46,5 @@ The Tarim oasis states were perpetually caught between nomadic empires to the no
 - **The "Tocharian" Name**: The modern name is a misnomer. It derives from ancient Greek references to the Tókharoi people of Bactria, who likely spoke an Iranian language. The name was incorrectly applied to the Tarim Basin languages in the early 20th century but persists by convention.
 - **Tocharian C (Kroränian)**: The existence of a third Tocharian language is inferred from loanwords in Prakrit documents from southeastern Tarim sites, but evidence is meager and the theory is not universally accepted.
 - **Yuezhi Connection**: A minority view suggests the Yuezhi (founders of the Kushan Empire) were originally Tocharian speakers who later adopted Bactrian, an Iranian language.
+
+Source: adapted from "Tocharians" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tocharians

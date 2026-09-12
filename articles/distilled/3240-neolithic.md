@@ -41,3 +41,5 @@ Neolithic societies were generally organized into small, relatively egalitarian 
 - The causes of the "Neolithic decline," a population collapse across Europe after 5000 BC, are uncertain, with possible explanations including climate change, plague, or mass migration.
 - The social structure of Neolithic societies is debated; while some evidence suggests egalitarianism, other findings indicate the existence of influential individuals who could organize labor and the presence of warfare.
 - The extreme drop in Y-chromosomal diversity during the Neolithic is poorly understood, with possible causes ranging from increased male mortality to the rise of patrilineal social structures.
+
+Source: adapted from "Neolithic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neolithic

@@ -44,3 +44,5 @@ Culturally, the period was a transition from the Tang's internationalism to the 
 *   The historian Hugh Clark's three-stage model provides a framework for understanding the period's political evolution from chaos to reunification.
 *   The extent to which the northern dynasties' rulers, despite claiming imperial status, dealt with each other as "sibling states" in diplomatic equality is a noted historical concept.
 *   The period's legacy is viewed through contrasting northern and southern lenses, with Song-era histories written from a northern viewpoint often portraying the southern kingdoms as illegitimate.
+
+Source: adapted from "Five Dynasties and Ten Kingdoms period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Five_Dynasties_and_Ten_Kingdoms_period

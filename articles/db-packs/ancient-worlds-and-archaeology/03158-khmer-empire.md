@@ -25,3 +25,5 @@ Khmer society was hierarchical, structured around a Hindu-derived caste model. R
 ## Decline and Fall
 
 The empire's decline from the 14th century came from a combination of factors rather than any single event. Internal power struggles weakened central authority. The hydraulic network suffered ecological strain: deforestation in the upland catchments led to sedimentation of canals and barays, and extreme floods and droughts damaged the system, reducing rice yields. The shift to Theravada Buddhism may have eroded the devaraja framework that justified mass labor mobilisation, though the causal weight of religious change is disputed. External pressure grew from the rising Siamese Ayutthaya Kingdom, which besieged Angkor in 1352–1353. In 1431, under King Ponhea Yat, Angkor was abandoned and the capital moved southwest to the Phnom Penh region.
+
+Source: adapted from "Khmer Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khmer_Empire

@@ -49,3 +49,5 @@ The novel was first published in Britain as *The Whale* in October 1851, and in 
 - **Interpretive Multiplicity**: The novel's meaning is elusive. E. M. Forster noted it is "full of meanings," with interpretations ranging from metaphysical parable to critique of American expansionism.
 - **The Missing Epilogue**: The omission from the British edition, making Ishmael's survival impossible, is a point of scholarly interest regarding its impact on early reception.
 - **Ahab's Heroism**: Critics debate whether Ahab is a tragic hero, a villainous monomaniac, or a symbol of destructive human will.
+
+Source: adapted from "Moby-Dick" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moby-Dick

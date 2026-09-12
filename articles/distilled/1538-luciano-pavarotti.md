@@ -56,3 +56,5 @@ Pavarotti married Adua Veroni in 1961; they had three daughters and divorced in 
 - **Lip-syncing at Turin 2006**: His final public "performance" was mimed to a prerecorded track with IOC approval. Critics questioned the transparency; defenders cited his terminal condition.
 - **Estate litigation**: Conflicting wills (Italian, US, handwritten) led to a protracted dispute between his second wife and four daughters, settled only by judicial compromise in 2008.
 - **Crossover legacy**: Purists argued his pop collaborations and *Pavarotti & Friends* diluted artistic standards; others credit him with democratizing opera and funding humanitarian work.
+
+Source: adapted from "Luciano Pavarotti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Luciano_Pavarotti

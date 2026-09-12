@@ -47,3 +47,5 @@ The post-war treaties (Saint-Germain-en-Laye 1919, Rapallo 1920) granted Italy T
 - The strategic wisdom of Italy's repeated, costly frontal assaults on the Isonzo is debated, given the defensive advantages of the terrain.
 - Historians assess the extent to which the "mutilated victory" narrative was a legitimate grievance versus a political myth used to fuel fascism.
 - The impact of the harsh Italian military discipline on troop morale and performance is a subject of analysis.
+
+Source: adapted from "Italian front (World War I)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Italian_front_%28World_War_I%29

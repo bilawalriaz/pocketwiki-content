@@ -50,3 +50,5 @@ The Nazi rise to power (1933) led to the Holocaust, the systematic murder of six
 - The historicity of the United Monarchy of David and Solomon is debated among scholars.
 - The causes and scale of the transition from Canaanite to Israelite culture in the Iron Age are subjects of ongoing archaeological and historical research.
 - The precise nature and extent of Jewish autonomy under various rulers (e.g., in the Ottoman Empire) is analyzed through different historical lenses.
+
+Source: adapted from "Jewish history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jewish_history

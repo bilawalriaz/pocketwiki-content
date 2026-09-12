@@ -29,3 +29,5 @@ In alphabetic systems, graphemes stand in principle for phonemes. In practice, o
 Correspondence rules become complex or irregular when historical sound changes are not reflected in spelling. "Shallow" orthographies such as Spanish and Finnish have relatively regular grapheme–phoneme correspondence. French and English have much less regular correspondence and are **deep orthographies**.
 
 Multigraphs representing a single phoneme are normally treated as separate letters, not distinct graphemes. However, some languages treat a multigraph as a single unit for collation — in a Czech dictionary, words starting with ⟨ch⟩ follow those starting with ⟨h⟩.
+
+Source: adapted from "Grapheme" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Grapheme

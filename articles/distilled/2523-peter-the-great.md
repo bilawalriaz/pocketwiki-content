@@ -46,3 +46,5 @@ Peter's "cultural revolution" forcibly westernized Russian elite society. He fou
 - **Legacy of Autocracy**: Scholars question whether Peter's centralization of power strengthened the state or entrenched a liability by making the autocracy overly dependent on coercion.
 - **Cultural Impact**: There is debate over whether his westernization was a profound cultural revolution or a superficial imposition that created a lasting divide between the elite and the common people.
 - **Economic Effect**: Some historians argue his reforms accelerated development, while others contend they stifled progress and set Russia back for over a century.
+
+Source: adapted from "Peter the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peter_the_Great

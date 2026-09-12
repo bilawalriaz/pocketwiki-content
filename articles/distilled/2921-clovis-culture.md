@@ -46,3 +46,5 @@ The only known Clovis burial is Anzick-1, an infant from Montana. Genetic analys
 - **Migration route**: Did the ancestors of Clovis peoples enter the Americas via the ice-free corridor or along the Pacific coast?
 - **Function of fluting**: Was the flute on Clovis points primarily for hafting, durability, or stylistic reasons?
 - **Nature of Clovis diet**: To what extent were Clovis peoples specialized megafauna hunters versus generalist foragers?
+
+Source: adapted from "Clovis culture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clovis_culture

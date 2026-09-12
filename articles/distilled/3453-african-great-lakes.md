@@ -45,3 +45,5 @@ The Lake Turkana basin was a crucial center for early hominin evolution due to i
 - The exact number of lakes considered part of the "African Great Lakes" varies by list.
 - The taxonomic classification of Skull 1470 is debated; it was originally thought to be *Homo habilis* but some anthropologists assign it to *Homo rudolfensis*.
 - The region's post-independence potential has been undermined by decades of conflict, presenting ongoing challenges for stability and development.
+
+Source: adapted from "African Great Lakes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/African_Great_Lakes

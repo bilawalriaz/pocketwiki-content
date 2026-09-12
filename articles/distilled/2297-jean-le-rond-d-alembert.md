@@ -49,3 +49,5 @@ D'Alembert was a prominent figure in Parisian salons and lived with Julie de Les
 - The source notes that d'Alembert's proof of the fundamental theorem of algebra contained an error later corrected by Carl Friedrich Gauss.
 - His interpretation and simplification of Rameau's music theory was contested by Rameau himself, leading to a public dispute.
 - His argument in *Croix ou Pile* about coin-toss probability is famously incorrect.
+
+Source: adapted from "Jean Le Rond d'Alembert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean_Le_Rond_d%27Alembert

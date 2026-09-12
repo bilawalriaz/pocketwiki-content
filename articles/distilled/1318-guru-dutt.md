@@ -63,3 +63,5 @@ Contrary to the "flop director" myth, Dutt produced mostly commercial successes;
 - **Commercial vs. artistic legacy**: The narrative of Dutt as a "failed commercial director" contradicted by data showing only one box-office disaster (*Kaagaz Ke Phool*); scholars debate why this myth persisted.
 - **Waheeda Rehman’s role in marital breakdown**: The extent to which Dutt’s relationship with his muse/actress Waheeda Rehman caused his separation from Geeta Dutt is documented but interpreted variously across biographies.
 - **Unfinished films’ potential**: *Picnic* and the original *Love and God* (with Dutt) were shelved; critics debate what these lost works might have added to his oeuvre.
+
+Source: adapted from "Guru Dutt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guru_Dutt

@@ -64,3 +64,5 @@ French is an official language of the UN (1 of 2 Secretariat working languages),
 - **EU institutional role:** Post-Brexit, French advocates push for restored parity with English in EU bodies. However, English remains entrenched as the default vehicular language among officials; French retains sole working language status only in the Court of Justice.
 - **Creole recognition:** Haitian Creole and other French-based creoles have millions of native speakers but limited official status. Debates continue on standardization, education in creole vs. French, and linguistic discrimination.
 - **Digital divide:** Only ~65.5% of Francophones have internet access (2025). As French ranks 4th online, unequal access may skew the digital corpus toward Northern/urban varieties, marginalizing rural African speakers.
+
+Source: adapted from "French language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_language

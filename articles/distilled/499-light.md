@@ -89,3 +89,5 @@ Sunlight powers photosynthesis (green plants → sugars/starches → virtually a
 - **Quantum measurement**: Quantum optics reveals light cannot be fully described by classical fields; photon detection involves irreducible probabilistic collapse (degree of coherence, photon statistics).
 - **Gravity and light**: Laplace (1796) used particle theory to predict light-trapping bodies (black holes); general relativity (1915) re-derived this via spacetime curvature, confirmed by Eddington (1919).
 - **Ultrafast/quantum control**: Current frontiers—attosecond pulses, quantum entanglement distribution, optical tweezers for macroscopic superpositions—test quantum-classical boundary and enable quantum technologies.
+
+Source: adapted from "Light" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Light

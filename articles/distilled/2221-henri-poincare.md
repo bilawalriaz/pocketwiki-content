@@ -48,3 +48,5 @@ He was known for his powerful memory, intuitive thinking, and regular work habit
 - **Poincaré vs. Einstein on relativity**: There is debate over the extent of Poincaré's contribution to special relativity. Some historians argue he was a co-discoverer, while most stress that his and Einstein's research agendas and interpretations differed significantly.
 - **Poincaré's mass-energy relation**: The relationship between Poincaré's 1900 work on the inertia of electromagnetic energy and Einstein's 1905 mass-energy equivalence is debated, with Einstein noting their formulations were mathematically equivalent.
 - **Philosophy of mathematics**: Poincaré's view that arithmetic is synthetic and a priori, opposing logicism, remains a point of discussion in the philosophy of mathematics.
+
+Source: adapted from "Henri Poincaré" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9

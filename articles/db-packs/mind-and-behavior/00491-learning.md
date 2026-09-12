@@ -41,3 +41,5 @@ Learning evolves when environments change within an animal's lifetime but not co
 ## Machine learning
 
 Machine learning, a branch of artificial intelligence, builds systems that learn from data—for example, spam filters that classify messages. Most methods rely on probabilistic models associating inputs with output probabilities.
+
+Source: adapted from "Learning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Learning

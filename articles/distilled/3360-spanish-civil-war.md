@@ -47,3 +47,5 @@ Both sides committed widespread atrocities. The Nationalist "White Terror" invol
 *   **Nature of Republican Violence:** Scholars disagree on whether killings in the Republican zone were spontaneous outbursts of anarchy or semi-organized campaigns by leftist groups.
 *   **Role of Foreign Intervention:** The extent to which Nationalist victory was due to superior foreign aid versus internal Republican disunity remains a key question.
 *   **Death Toll:** Figures vary widely depending on whether they include combat deaths, executions, postwar repression, and indirect deaths from famine and disease.
+
+Source: adapted from "Spanish Civil War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_Civil_War

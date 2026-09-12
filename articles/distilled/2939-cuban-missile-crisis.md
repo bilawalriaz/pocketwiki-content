@@ -43,3 +43,5 @@ The crisis ended with a perception of Soviet retreat, embarrassing Khrushchev an
 - **Khrushchev's Motives**: Historians debate whether Khrushchev's primary goal was to defend Cuba, gain leverage on Berlin, or correct the strategic nuclear imbalance.
 - **Castro's Role**: The extent to which Castro was a willing partner versus a pressured junior ally in accepting the missiles remains a point of analysis.
 - **Near-Misses**: Revelations about the submarine B-59 close call and the presence of 100+ tactical nuclear warheads in Cuba (unknown to the US at the time) have led to reassessments that the risk of nuclear war was even higher than participants realized.
+
+Source: adapted from "Cuban Missile Crisis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cuban_Missile_Crisis

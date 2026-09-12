@@ -49,3 +49,5 @@ Machaut’s death prompted elegies from composers like F. Andrieu. His poetry di
 - **Autobiographical truth of *Le voir dit***: The poem presents itself as a true story (*voir dit*) of a love affair with Péronne d'Armentières, but includes satirical inconsistencies (e.g., the narrator is old, ill, and impotent) that undermine its factual reliability.
 - **Occasion for the Mass**: The traditional claim that the Mass was composed for the coronation of Charles V (1364) is now thought unlikely; the specific liturgical occasion, if any, remains unknown.
 - **Chaucer–Machaut contact**: While both were in the retinue of Jean de Berry during the 1360 Treaty of Brétigny negotiations at Calais, and Chaucer was captured near Reims in 1359, no direct evidence confirms they met.
+
+Source: adapted from "Guillaume de Machaut" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guillaume_de_Machaut

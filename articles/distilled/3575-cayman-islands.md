@@ -43,3 +43,5 @@ The three islands are the peaks of the submerged Cayman Ridge, mostly flat limes
 - The "Wreck of the Ten Sail" legend, which claims King George III promised the islands would never be taxed as a reward for rescuing shipwrecked crews, is not supported by documented evidence.
 - The "rollover" immigration policy is controversial, with concerns that it may damage the financial sector's ability to recruit experienced staff, balanced against arguments it protects Caymanian identity and jobs.
 - The territory's status as a tax haven has drawn international criticism, including from former U.S. President Barack Obama, who described a specific building as a "tax scam."
+
+Source: adapted from "Cayman Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cayman_Islands

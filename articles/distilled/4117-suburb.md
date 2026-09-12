@@ -42,3 +42,5 @@ Suburban forms differ globally. In Australia and South Africa, "suburb" is a for
 - The precise definition of a suburb is disputed, especially in the U.S., where the federal government has no formal definition.
 - Scholars debate the extent to which early suburbs were exclusively middle-class white enclaves versus including working-class and minority residents.
 - The impact of suburbs on social equity is debated, with criticism focusing on their role in fostering racial segregation, car dependency, and homogeneity, while others highlight their role in providing homeownership and a desired lifestyle.
+
+Source: adapted from "Suburb" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Suburb

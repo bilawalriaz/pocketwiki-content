@@ -44,3 +44,5 @@ The 1947 Partition of British India was traumatic for Lahore. Despite a Muslim m
 - The city's early history is debated due to a lack of definitive records before the 10th century.
 - The population demographics of Lahore during the 1947 Partition are disputed, with figures affecting the city's award to Pakistan.
 - Contemporary debates include the status of the Punjabi language in education and administration, and the accurate census of the city's Pashtun population.
+
+Source: adapted from "Lahore" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lahore

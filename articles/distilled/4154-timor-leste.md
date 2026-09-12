@@ -50,3 +50,5 @@ Timorese culture blends Austronesian and Melanesian traditions with Portuguese a
 - The sustainability of the Petroleum Fund is a major concern, as withdrawals have exceeded sustainable levels almost every year since 2009, and the undeveloped Greater Sunrise field presents technical and political challenges.
 - The implementation of decentralization remains debated, with administrative powers still largely centralized in Dili despite constitutional mentions of it.
 - The long-term viability of the economy beyond oil revenues is uncertain, as non-oil sectors have failed to develop significantly.
+
+Source: adapted from "Timor-Leste" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Timor-Leste

@@ -55,3 +55,5 @@ The Internet fundamentally altered postal economics. Email reduced letter volume
 ## Debates and Open Questions
 
 The transition from government monopoly to competitive markets remains contested. Countries including Sweden (1 January 1993), New Zealand (1998 and 2003), Germany (2005 and 2007), Argentina and Chile opened up the postal services market to new entrants. Critics argue privatization undermines universal service obligations, while proponents claim competition improves efficiency. The sustainability of postal systems amid declining letter volumes and rising parcel demands continues to challenge operators globally, exemplified by PostNord’s 2025 decision to cease letter delivery in Denmark.
+
+Source: adapted from "Mail" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mail

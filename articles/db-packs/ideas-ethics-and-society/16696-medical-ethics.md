@@ -33,3 +33,5 @@ Different cultures implement the four principles differently. **Chinese** medici
 The 2019 **COVID-19** pandemic forced rationing of ventilators, PPE, and ICU beds, raised questions about the speed of open science versus safety, and intensified health disparities.
 
 Enforcement varies: in the UK, breach of ethics can bar a physician from practice. Ethics committees, typically including clinicians, philosophers, lawyers, and lay community members, resolve complex cases. Medical ethics tends to demand a higher standard than law requires.
+
+Source: adapted from "Medical ethics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Medical_ethics

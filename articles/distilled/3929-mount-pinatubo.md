@@ -39,3 +39,5 @@ The eruption released 20 million tonnes of sulfur dioxide into the stratosphere,
 - The exact total volume of material ejected during the c. 79,000 BC eruption that created the modern volcano is unknown.
 - The decreasing maximum size of eruptions over Pinatubo's 35,000-year history may be an artifact of erosion and burial of older deposits, rather than a true trend.
 - The precise trigger for the 1991 eruption is understood in broad terms (magma ascent), but the specific timing and interaction with the typhoon's effects are subjects of ongoing study.
+
+Source: adapted from "Mount Pinatubo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Pinatubo

@@ -51,3 +51,5 @@ Comparative religion developed inside Christian theology faculties, and Nicholas
 ## A historical note
 
 Al-Biruni (973 – c. 1050) and Ibn Hazm (994–1064), both scholars of the Islamic Golden Age, are called the fathers of comparative religion. In 1655, the Sufi prince Dara Shikoh authored *Majma-ul-Bahrain*, a comparative study of Islam and Hinduism. From the 19th century, scholars such as Max Müller, Edward Tylor, William Robertson Smith, James Frazer, Émile Durkheim, Max Weber, and Rudolf Otto turned the study of religion, including "primitive" religion, into a social-science enterprise. Religions that aligned early with empires, including Christianity, Islam, Hinduism, and Buddhism, became the largest traditions, and this political alignment is itself a fact the comparative method must explain.
+
+Source: adapted from "Comparative religion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Comparative_religion

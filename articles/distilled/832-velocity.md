@@ -55,3 +55,5 @@ Velocity of object A relative to B: $\mathbf{v}_{A/B} = \mathbf{v}_A - \mathbf{v
 *   **Newtonian vs. Relativistic Velocity Addition**: The source highlights a fundamental divergence: Newtonian mechanics assumes absolute time and Galilean velocity addition (frame-invariant acceleration), while special relativity requires Lorentz transformations (frame-dependent velocities, invariant $c$). The transition between these frameworks at high velocities remains a conceptual boundary.
 *   **Terminology: "Escape Velocity"**: The source notes this is a misnomer; the quantity is a scalar speed, independent of direction. The correct term is "escape speed."
 *   **Instantaneous Velocity Intuition**: The source acknowledges the concept is "counter-intuitive" (defining motion at a frozen instant via limits/calculus), resolved by interpreting it as the velocity the object would maintain if acceleration ceased at that instant.
+
+Source: adapted from "Velocity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Velocity

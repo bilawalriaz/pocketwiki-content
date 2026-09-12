@@ -29,3 +29,5 @@ A capital's status may be defined by law or constitution, or simply recognised b
 ## Capitals as military targets
 
 Militarily, capturing a capital was historically decisive in highly centralised states such as ancient China, where the fall of the capital signalled the fall of the regime. In decentralised states, resistance could continue from the provinces after a capital fell, so its capture was less conclusive. Capitals also attract skilled administrators and may coincide with religious centres, as with Rome and Jerusalem.
+
+Source: adapted from "Capital city" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Capital_city

@@ -56,3 +56,5 @@ Hildegard invented the Lingua Ignota, a constructed language with roughly 1,000 
 ## Debates and Open Questions
 
 Several aspects of Hildegard’s life and work remain contested. The timing of her enclosure at Disibodenberg is uncertain, with discrepancies between her Vita and historical records. Scholars debate whether her Lingua Ignota was meant as a private code or a broader intellectual exercise. The nature of her relationship with Richardis von Stade has sparked queer readings, though evidence remains interpretive. Additionally, some modern commentators question the extent to which her medical theories were grounded in empirical practice versus theological symbolism. Finally, while her visions were officially endorsed, ongoing scholarly discussion centers on their psychological origins, including theories linking them to migraines or other neurological conditions.
+
+Source: adapted from "Hildegard of Bingen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hildegard_of_Bingen

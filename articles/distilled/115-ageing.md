@@ -66,3 +66,5 @@ The World Health Organization's healthy ageing framework defines health as funct
 ## Debates and open questions
 
 Whether longevity pursuit and postponement of senescence are cost-effective health care goals remains debated: Ezekiel Emanuel argues human life is not worth living after 75 and longevity should not be a policy goal, while Miguel Faria contends life can be worthwhile in old age with healthy lifestyles and intellectual activity. The classic idea that sexual organisms become disposable after passing on genetic material has been perturbed by evidence that E. coli may split into distinguishable daughter cells, opening theoretical "age classes" among bacteria. Whether mitochondrial mutations increase reactive oxygen species is questioned by mtDNA mutator mouse studies. The relative contributions of programmed versus damage-related ageing mechanisms remain unresolved.
+
+Source: adapted from "Ageing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ageing

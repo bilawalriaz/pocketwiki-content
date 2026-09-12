@@ -49,3 +49,5 @@ Deng's tenure saw significant social controls, including the one-child policy an
 - **Tiananmen Square protests**: The decision to use military force remains internationally condemned. Analysts debate the exact chain of command, though Deng is widely seen as the ultimate authority.
 - **Economic legacy**: While credited with lifting hundreds of millions out of poverty, his reforms also initiated the path toward later state-owned enterprise restructuring, which led to massive layoffs and rising inequality.
 - **Political reforms**: Deng initiated constitutional term limits in 1982 but halted further political liberalization after 1989. The balance between economic reform and political control remains a central question of his legacy.
+
+Source: adapted from "Deng Xiaoping" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Deng_Xiaoping

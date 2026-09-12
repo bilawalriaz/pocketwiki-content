@@ -44,3 +44,5 @@ Multiple nations asserted territorial claims based on discovery, proximity, or h
 - **Priority of Discovery**: The first sighting of the Antarctic continent is disputed. Russia credits Bellingshausen and Lazarev (27/28 January 1820), while Britain promotes Edward Bransfield's sighting of the Trinity Peninsula on 30 January 1820. The United States has historically claimed priority for Charles Wilkes in 1840, though this is contested.
 - **Territorial Sovereignty**: Seven nations maintain active territorial claims, with significant overlaps. These claims are legally "frozen" under the Antarctic Treaty but not renounced, leaving the continent's ultimate political status unresolved.
 - **Early Human Contact**: A 2021 research paper suggested early Polynesians may have been the first people to see Antarctica, but this theory has been widely dismissed by scholars as improbable and lacking credible evidence.
+
+Source: adapted from "History of Antarctica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Antarctica

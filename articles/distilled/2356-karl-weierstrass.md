@@ -35,3 +35,5 @@ Weierstrass also revolutionized the calculus of variations, the field concerned 
 
 ## Debates and Open Questions
 The source text does not detail ongoing scholarly debates about Weierstrass's work or legacy.
+
+Source: adapted from "Karl Weierstrass" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Karl_Weierstrass

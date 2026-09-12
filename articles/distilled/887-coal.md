@@ -68,3 +68,5 @@ Coal is the **largest long-term driver of climate change**. Coal plants were the
 *   **"Abated" definition:** Lack of a standardized threshold for "abated coal" in the 2023 UN agreement risks loopholes (e.g., minimal capture rates labeled as abatement).
 *   **Peak coal timing:** IEA expects peak demand before 2030, but Chinese policy shifts, Indian growth, and Global South energy security needs create uncertainty.
 *   **Stranded asset cascade:** Whether continued state-backed plant construction in the Global South will trigger a systemic financial "carbon bubble" burst.
+
+Source: adapted from "Coal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Coal

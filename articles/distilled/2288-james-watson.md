@@ -44,3 +44,5 @@ Watson's 1968 memoir, *The Double Helix*, was controversial for its personal and
 - **Attribution to Rosalind Franklin**: A major scholarly debate centers on whether Watson and Crick adequately acknowledged Franklin's critical contributions to the DNA discovery, with critics arguing they used her data without proper consent or credit.
 - **Legacy vs. Controversy**: Watson's legacy is contested, with discussions ongoing about whether his foundational scientific achievements can be separated from his later racist and sexist remarks, which many in the scientific community have condemned.
 - **Genetic Determinism**: Watson's public assertions about the genetic basis of intelligence and behavior between racial groups are rejected by mainstream genetics and are cited as examples of scientific racism.
+
+Source: adapted from "James Watson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_Watson

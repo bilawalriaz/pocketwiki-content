@@ -55,3 +55,5 @@ Abnormal patterns: **Kussmaul breathing** (deep, rapid; metabolic acidosis), **B
 - **High-altitude acclimatization**: The precise mechanisms and individual variability in the switch from CO₂- to O₂-driven ventilatory control at ~2,500 m, and its role in acute mountain sickness vs. high-altitude cerebral/pulmonary edema, are active research areas.
 - **Breath biomarker validity**: Hundreds of volatile organic compounds appear in exhaled breath; establishing specific, clinically reliable disease signatures (beyond research settings) is ongoing.
 - **Optimal breathing techniques for exercise**: While deep breathing is recommended for core stabilization and O₂ uptake during heavy lifting, the ideal pattern across exercise modalities and populations is not definitively settled.
+
+Source: adapted from "Breathing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Breathing

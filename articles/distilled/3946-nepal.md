@@ -53,3 +53,5 @@ Nepal is a multi-ethnic state with 125 ethnic groups and 123 mother tongues. Nep
 - The origins of the earliest inhabitants of the Kathmandu Valley are debated.
 - The effectiveness of Nepal's federal structure and power balance are ongoing challenges.
 - Economic development debates focus on hydropower, tourism, and managing relations with India and China.
+
+Source: adapted from "Nepal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nepal

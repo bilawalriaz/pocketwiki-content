@@ -32,3 +32,5 @@ The 18 nocturnes published during Chopin's lifetime (Nos. 1–18) were issued in
 
 ## Debates and open questions
 The primary scholarly debate mentioned concerns the authenticity of the Nocturne in C-sharp minor, which is considered a spurious work. The source also notes that the influence of Vincenzo Bellini's arias on Chopin's nocturnes is a statement affirmed by many, implying it is a point of established consensus rather than active debate.
+
+Source: adapted from "Nocturnes (Chopin)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nocturnes_%28Chopin%29

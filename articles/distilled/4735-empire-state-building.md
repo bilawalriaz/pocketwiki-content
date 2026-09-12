@@ -44,3 +44,5 @@ The building struggled financially during the Great Depression, earning the nick
 - **Airship Mast Feasibility**: The original plan to use the spire as an airship terminal was abandoned after a failed 1931 docking attempt proved it too dangerous due to high winds and turbulence.
 - **"Tallest" Title Rivalry**: The building's status as "world's tallest" was the result of a fierce 1920s competition with the Chrysler Building and 40 Wall Street, involving last-minute design changes.
 - **Broadcast Signal Quality**: A congressional report noted that signal transmissions from the Empire State Building are "problematic" due to interference from nearby buildings, unlike the former Twin Towers' superior location.
+
+Source: adapted from "Empire State Building" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Empire_State_Building

@@ -64,3 +64,5 @@ Post-independence (1951-1975), most Saharan states gained sovereignty, though We
 ## Debates and Open Questions
 
 The role of human activity in accelerating desertification remains debated, with some researchers proposing that pastoralist overgrazing between 6000-2500 BCE contributed to the drying period. Genetic studies of ancient remains continue to refine understanding of population movements, with recent 2025 research on Takarkori individuals suggesting the Green Sahara was not a corridor connecting Northern and sub-Saharan Africa as previously thought. The classification of genetic haplogroups as "African" versus "Eurasian" in North African populations remains contentious among scholars, with debates over racial categorization in genomic studies. The exact timing and mechanisms of the transition from wet to dry phases, particularly the role of Dansgaard-Oeschger and Heinrich events, continue to be refined through paleoclimatic research.
+
+Source: adapted from "Sahara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sahara

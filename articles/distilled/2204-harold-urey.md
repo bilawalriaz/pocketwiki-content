@@ -44,3 +44,5 @@ After the war, Urey moved to the University of Chicago. He applied his isotope e
 - The composition of Earth's early atmosphere is debated; while Urey proposed a reducing atmosphere of ammonia, methane, and hydrogen, modern research suggests it was likely dominated by carbon dioxide and nitrogen.
 - The exact mechanism and location for the origin of life on Earth remains a fundamental open question in science.
 - The precise origin and differentiation history of the Moon, which Urey studied, continues to be an active area of planetary science research.
+
+Source: adapted from "Harold Urey" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harold_Urey

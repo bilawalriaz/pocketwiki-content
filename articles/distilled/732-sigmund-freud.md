@@ -72,3 +72,5 @@ Feminist critiques focus on Freud’s views on female sexuality, particularly pe
 Therapeutic efficacy debates persist. While psychodynamic therapies show measurable benefits, psychoanalysis itself has declined in clinical use, especially in the U.S. and UK. However, renewed interest in trauma, attachment, and embodied experience has sparked re-evaluation.
 
 Freud’s influence spans literature, philosophy, and culture. Critics like Paul Ricœur and Jürgen Habermas reinterpret him hermeneutically, while others like Gilles Deleuze and Félix Guattari critique his idealism. His legacy endures as both foundational and problematic—a towering figure whose ideas continue to provoke scholarly engagement.
+
+Source: adapted from "Sigmund Freud" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sigmund_Freud

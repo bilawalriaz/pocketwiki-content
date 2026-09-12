@@ -21,3 +21,5 @@ The IEEE Foundation, established in 1973 and incorporated separately, supports e
 In May 2019 IEEE restricted Huawei employees from peer reviewing papers or serving as editors, citing "severe legal implications" of U.S. sanctions. Chinese researchers protested, with some canceling memberships. After U.S. government clearance, IEEE lifted the restrictions on June 3, 2019. Huawei employees had remained free to vote in standards work and attend standards meetings throughout.
 
 In 2022 IEEE Spectrum published a Q&A titled "A Russian Perspective on the War in Ukraine." An open letter argued the piece echoed Russian propaganda, and on April 6, 2022 the editors appended an apology for "not providing adequate context at the time of publication" without revising the article itself.
+
+Source: adapted from "Institute of Electrical and Electronics Engineers" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers

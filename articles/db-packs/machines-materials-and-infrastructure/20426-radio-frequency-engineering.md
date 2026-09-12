@@ -23,3 +23,5 @@ RF engineers take on different responsibilities depending on where they work. At
 ## Mathematics and history
 
 RF engineering applies electromagnetic theory using conceptual tools such as vector calculus and complex analysis. Topics studied include waveguides and transmission lines, the behaviour of radio antennas, and the propagation of radio waves through the Earth's atmosphere. Historically, the mathematical tools used to study RF circuits, particularly nonlinear differential equations, played a significant role in the birth of nonlinear dynamics: oscillators such as the van der Pol circuit were first analysed in the radio engineering context, and that work seeded later developments in chaos and dynamical systems theory. Above 300 GHz the work is generally called microwave engineering, though the underlying physics and design instincts continue across the boundary.
+
+Source: adapted from "Radio-frequency engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Radio-frequency_engineering

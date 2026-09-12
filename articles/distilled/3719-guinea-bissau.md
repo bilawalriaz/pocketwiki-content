@@ -44,3 +44,5 @@ Guinea-Bissau has one of the world's lowest GDP per capita figures, with an econ
 
 ## Debates and Open Questions
 The source highlights ongoing scholarly and practical debates about Guinea-Bissau's future. A key question is whether its political system can achieve stability, given the military's repeated interventions and the pattern of coups. The country's economic vulnerability is compounded by its status as a suspected transshipment point for narcotics, raising concerns about it becoming a "narco-state." The long-term impact of the 2025 coup and the suspension of constitutional order on international relations and internal governance remains an open issue.
+
+Source: adapted from "Guinea-Bissau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guinea-Bissau

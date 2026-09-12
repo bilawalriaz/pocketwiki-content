@@ -47,3 +47,5 @@ Modern criticism began with Tolkien's 1936 lecture, which refocused attention on
 - **Oral vs. Literate Composition**: Was the poem created through oral-formulaic performance or by a literate, Christian author?
 - **Paganism vs. Christianity**: Is the poem a pagan work with Christian elements added, or a Christian composition set in a pagan past? How should its religious perspective be interpreted?
 - **Sources**: Are there direct literary sources (Scandinavian, classical, or biblical), or is the poem a unique synthesis of traditional material?
+
+Source: adapted from "Beowulf" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Beowulf

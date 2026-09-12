@@ -37,3 +37,5 @@ The Altai is a key site for human prehistory. The Denisova Cave yielded remains 
 - **Origin of skiing**: Some historians believe the Altai may be where skiing was born, based on ancient petroglyphs and a Western Han Dynasty text. This claim remains disputed due to the difficulty of accurately dating rock art.
 - **Denisovan legacy**: Knowledge of Denisovans comes mainly from DNA and artifacts, as no complete skeletons have been found. Their exact relationship to other hominids and their full range are still being researched.
 - **Altaigate Scandal**: The 2009 helicopter crash that killed Russian VIPs led to allegations of poaching and corruption, raising questions about the enforcement of protected area status in the region.
+
+Source: adapted from "Altai Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Altai_Mountains

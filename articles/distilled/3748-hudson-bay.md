@@ -41,3 +41,5 @@ The coast is sparsely populated, with about a dozen communities, many founded as
 - **Origin of the Nastapoka arc**: Scientists disagree on whether this semicircular shoreline is a tectonic feature from ancient continental collisions or a rare Precambrian impact structure. No definitive evidence for an impact has been found.
 - **Cause of the gravity anomaly**: While glacial isostatic adjustment explains 25–45% of the free-air gravity anomaly over Hudson Bay, the remainder is attributed to deeper mantle convection processes, the details of which are still studied.
 - **Classification**: Authorities debate whether Hudson Bay is part of the Arctic Ocean or the Atlantic Ocean, based on its water budget and hydrographic connections.
+
+Source: adapted from "Hudson Bay" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hudson_Bay

@@ -48,3 +48,5 @@ Madurai is famed for its temples, most notably the Meenakshi Amman Temple, a maj
 - The identification of "Methora" in Megasthenes' accounts is contested; some scholars believe it refers to Mathura in North India, not Madurai.
 - The exact dates and historicity of the three Tamil Sangams are debated, with the third Sangam's traditional dating (3rd century BCE – 3rd century CE) being a matter of scholarly discussion.
 - The city's ranking as the "dirtiest city" in the 2025 Swachh Survekshan report highlights an ongoing challenge in balancing its cultural heritage with modern urban sanitation and waste management.
+
+Source: adapted from "Madurai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Madurai

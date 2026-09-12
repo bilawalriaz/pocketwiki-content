@@ -39,3 +39,5 @@ Society was stratified, with Arabs at the top, followed by Berbers, Muladies (Ib
 - The etymology of "al-Andalus" is debated. Traditional derivation from the "Vandals" is challenged by alternative theories linking it to "Atlantis," a Gothic term, or a pre-Roman substrate.
 - The nature and degree of tolerance between religious communities in al-Andalus is a subject of scholarly debate, with varying interpretations of the treatment of *dhimmis* (protected non-Muslims).
 - The extent to which irrigation systems in al-Andalus built upon or were independent of older Roman infrastructure is debated among historians.
+
+Source: adapted from "Al-Andalus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Al-Andalus

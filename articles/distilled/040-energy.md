@@ -75,3 +75,5 @@ The first law of thermodynamics states a closed system's energy is constant unle
 - During wave function collapse, conservation of energy does not hold locally, though statistically it holds on average; it does apply in Everett's many-worlds interpretation.
 - For non-equilibrium systems, the governing laws are still debatable; the principle of maximum entropy production is one guiding principle.
 - The hypothesis of the thermodynamic heat death of the universe remains a theoretical projection of irreversible energy dissipation.
+
+Source: adapted from "Energy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Energy

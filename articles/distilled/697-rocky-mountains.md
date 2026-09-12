@@ -46,3 +46,5 @@ The Rockies pose risks including encounters with bears and mountain lions, extre
 
 ## Debates and Open Questions
 The exact northern terminus of the Rockies remains debated, with Canadian definitions excluding ranges like the Brooks Range, while the Geological Society of America includes them as the "Arctic Rockies." The mechanism behind Laramide uplift is also contested; while shallow-angle subduction is the traditional explanation, some researchers advocate for a "hit-and-run" tectonic collision model involving oblique plate interactions. Additionally, the full extent of prehistoric Indigenous impact on mammal populations and fire regimes is still under investigation.
+
+Source: adapted from "Rocky Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rocky_Mountains

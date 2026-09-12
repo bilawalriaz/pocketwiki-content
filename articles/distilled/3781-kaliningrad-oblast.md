@@ -46,3 +46,5 @@ The oblast's economy benefits from its ice-free port and special economic status
 - **Post-WWII Assignment**: Historians debate whether the territory was originally intended for the Lithuanian SSR. Some argue Stalin kept it under the Russian SFSR to strategically separate the Baltic states from the West.
 - **1990 Offer to Germany**: A 2010 report claimed the USSR offered Kaliningrad to Germany for payment during reunification talks, a story later denied by Mikhail Gorbachev.
 - **Future Status**: The region's geographic and political isolation within the EU continues to raise questions about its long-term economic viability and geopolitical role.
+
+Source: adapted from "Kaliningrad Oblast" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kaliningrad_Oblast

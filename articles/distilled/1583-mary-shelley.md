@@ -73,3 +73,5 @@ In her lifetime, reviewers missed her political edge. Posthumously, she was redu
 - **Autobiographical vs. typological reading**: Critics (e.g., Clemit, Blumberg) resist reading characters as thinly veiled portraits (e.g., *Matilda* as Mary/Godwin/Percy), arguing Shelley created "types rather than portraits" to explore philosophical ideas.
 - **Suppression of *Matilda***: Godwin refused to publish the novella (written 1819–20) due to its incest theme; it remained unpublished until 1959. The extent to which this censorship shaped Shelley’s subsequent authorial self-effacement is debated.
 - **Nature of Shelley’s radicalism**: Whether her advocacy for "feminine affections" as the basis of social reform constitutes a distinct feminist political theory or an essentialist reinforcement of gender roles remains a central question in recent scholarship.
+
+Source: adapted from "Mary Shelley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mary_Shelley

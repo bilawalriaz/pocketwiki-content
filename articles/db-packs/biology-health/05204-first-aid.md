@@ -58,3 +58,5 @@ Effective CPR, defibrillation, and trauma care require instruction and practice,
 ## A short history
 
 Bandaging appears on Greek pottery from about 500 BC, and the Good Samaritan parable describes wound dressing. Roman legions had capsarii, soldiers dedicated to first aid and forerunners of modern combat medics. In 1774 the Society for the Recovery of Persons Apparently Drowned (later the Royal Humane Society) popularised artificial respiration. Napoleon's surgeon Dominique-Jean Larrey created flying ambulance units for the battlefield. After the Battle of Solferino in 1859, Jean-Henri Dunant founded the Red Cross. In 1870 Friedrich von Esmarch coined the German term *erste Hilfe* and trained Prussian soldiers in bandaging and splinting with his Esmarch bandage. The Order of St John began civilian teaching in 1878, and the first recorded training in the United States took place in Jermyn, Pennsylvania, in 1899.
+
+Source: adapted from "First aid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/First_aid

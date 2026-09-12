@@ -60,3 +60,5 @@ Wycliffe died in 1384, unexcommunicated but marginalized. The Council of Constan
 *   **Nature of Eucharistic presence:** Is Wycliffe’s view accurately labeled "consubstantiation," or a unique "sacramental realism" where the bread remains substance but becomes Christ’s body "sacramentally"?
 *   **Lollard continuity:** To what extent did the 15th-century Lollard movement reflect Wycliffe’s actual teachings vs. evolving popular anticlericalism? The Twelve/Thirty-Seven Conclusions (c. 1396) omit vernacular Scripture, a supposed Wycliffite hallmark.
 *   **Philosophical nominalism vs. realism:** Wycliffe defended propositional realism (universals exist in God’s mind) against Ockhamist nominalism; scholars debate how this metaphysics underpins his ecclesiology and politics.
+
+Source: adapted from "John Wycliffe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Wycliffe

@@ -50,3 +50,5 @@ Cultural institutions include the National Museum and Art Gallery (opened 1968) 
 - The original city planners are cited as a cause for Gaborone's development problems, particularly regarding housing and infrastructure not keeping pace with growth.
 - There has been controversy over the high cost (P12,000,000) and an incorrect inscription date on the Three Dikgosi Monument, which was built by a North Korean company.
 - The Gaborone City Council has been criticized for its limited authority and closed elections, with mayors advocating for greater local autonomy.
+
+Source: adapted from "Gaborone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gaborone

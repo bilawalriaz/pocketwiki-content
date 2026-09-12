@@ -50,3 +50,5 @@ The economy is one of the largest in the Pacific, heavily dependent on nickel mi
 - **Future status**: The 2025 agreement to create a "State of New Caledonia" is a major concession by France but has been rejected by the pro-independence FLNKS coalition, which demands a prior independence referendum. The outcome of the proposed 2026 referendum is uncertain.
 - **Electoral reform**: The 2024 riots were triggered by a French government bill to expand the electorate, which pro-independence groups saw as a threat to their political influence. The bill was scrapped, but the underlying issue of voter eligibility remains contentious.
 - **Economic dependency**: The territory's heavy reliance on nickel and French subsidies poses long-term challenges, especially amid global market volatility and the need for sustainable development.
+
+Source: adapted from "New Caledonia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_Caledonia

@@ -109,3 +109,5 @@ Neolithic diets were higher in carbohydrates but lower in fiber, protein, and mi
 ## Debates and Open Questions
 
 Scholars debate whether the Neolithic Revolution was driven primarily by environmental change, demographic pressure, or cultural innovation. The sequence and relationship between key developments—agriculture, sedentism, pottery, and animal domestication—vary by region, challenging universal models. Some argue for independent invention in multiple centers, while others emphasize diffusion. The health impacts remain contested: while some regions show severe nutritional decline, others (like Southeast Asia) experienced less detrimental effects. The role of climate stability versus human agency in triggering agriculture is still debated, as is the extent to which population movements versus cultural exchange drove its spread.
+
+Source: adapted from "Neolithic Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neolithic_Revolution

@@ -84,3 +84,5 @@ Telecom/financial tech (e.g., Bloomberg) reduced barriers, enabling cross-border
 *   **Fossil Fuel Financing:** Tension between profitability/continuing to finance fossil fuels and alignment with Paris Agreement climate goals; pressure for mandatory transition plans.
 *   **Definition of Banking:** Legal definitions remain check-centric; theorists argue statutes must broaden to cover institutions conducting current accounts and enabling third-party payments without checks (EFTPOS, internet banking).
 *   **Shadow Banking/Disintermediation:** Ongoing migration of funds to non-bank financial intermediaries (money market funds, capital markets) challenges traditional deposit-funded models and regulatory perimeters.
+
+Source: adapted from "Bank" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bank

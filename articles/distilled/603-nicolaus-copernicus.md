@@ -52,3 +52,5 @@ Copernicus died at age 70 on 24 May 1543 in Frombork. He was buried in Frombork 
 - **Religious Opposition**: Early critics included Protestant theologians like Melanchthon and Catholic figures like Bellarmine. The Church banned *De revolutionibus* in 1616, lifting restrictions only in 1835.
 - **Publication Delay**: Copernicus delayed publishing for decades, possibly fearing backlash. His motivation remains debated—was it purely scientific caution or deeper theological concern?
 - **Osiander’s Preface**: The unauthorized preface by Andreas Osiander, framing the model as purely mathematical, sparked long-standing debate about Copernicus’s intent—did he believe in physical heliocentrism or merely mathematical utility?
+
+Source: adapted from "Nicolaus Copernicus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nicolaus_Copernicus

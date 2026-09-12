@@ -47,3 +47,5 @@ Major sub-branches include quantitative geography (focusing on statistical metho
 *   **Status as a Branch:** Some scholars argue that geography is inherently applied and cannot have a separate "technical" branch focused solely on methods, contending there is insufficient peer-reviewed literature to support it.
 *   **Gender Bias:** The field faces criticism for a culture that may introduce gender bias, as it is disproportionately practiced by men, which some link to broader perceptions of science and technology.
 *   **Relationship with Critical Geography:** A historical tension exists between the positivist, quantitative methods of technical geography and the ideological critiques of critical geography.
+
+Source: adapted from "Technical geography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Technical_geography

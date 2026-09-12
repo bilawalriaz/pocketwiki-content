@@ -27,3 +27,5 @@ Schemes manipulate word order and repetition for rhythm, emphasis, or structural
 
 ## Linguistic choices
 **Diction** selects words for both denotation and connotation (stubborn versus tenacious, thrifty versus stingy), revealing tone. **Syntax** arranges sentences: length, voice (active/passive), structure (simple, compound, complex), and embedding (appositives, subordinate clauses). Wiesel’s “The ghetto was ruled by neither German nor Jew; it was ruled by delusion” uses parallel passive clauses to subvert expectation. **Verb choices** (tense: past, present, future; aspect: simple, perfect, progressive; mood: indicative, imperative, interrogative, subjunctive, conditional) encode temporal perspective and modal force, shaping how actions and states are presented.
+
+Source: adapted from "Literary device" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Literary_device

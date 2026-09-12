@@ -41,3 +41,5 @@ On multi-engine aircraft, engine positions are numbered from left to right as th
 Avgas is blended with tetraethyllead to reach high octane ratings, a practice no longer permitted for road fuel, and the shrinking supply of TEL has made finding replacements a priority for general aviation. Model aircraft use nitro engines, which burn a mixture of methanol, nitromethane, and lubricant.
 
 A composite cycle engine concept presented at the 2018 ILA Berlin Air Show by Bauhaus Luftfahrt combined a 16-blade geared turbofan with a piston engine core: the fan was driven by a low-pressure turbine while a two-bank piston engine drove the high-pressure compressor, raising peak pressure to 30 MPa and overall efficiency to 48.2 percent. The 11,200 lbf design could power a 50-seat regional jet, with a 15 percent fuel burn reduction over comparable engines at the cost of 30 percent more engine weight.
+
+Source: adapted from "Aircraft engine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aircraft_engine

@@ -88,3 +88,5 @@ No single canon. Heritage includes Confucian classics (Four Books/Five Classics)
 *   **Sinicization vs. Autonomy:** The "Taoisation" of minority religions (Tujia, Yi, Yao, Zhuang) is debated as cultural re-orientation vs. elimination. Recent state support for non-Taoist indigenous priesthoods (e.g., Yi *bimo*) suggests a shift from assimilation to preservation.
 *   **Demographic Accuracy:** Surveys vary wildly (55% to 81% participation) due to definitions of "belief" vs. "practice," overlap with Buddhism/Taoism, and the "diffused" nature of the religion (no membership rolls).
 *   **Sect Legalization:** "Salvationist" sects (Yiguandao, Tiandi, Weixinism) remain largely illegal/underground in mainland China despite some academic cooperation. The criteria for state recognition vs. suppression (*xiejiao* designation) are opaque and politically contingent.
+
+Source: adapted from "Chinese folk religion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinese_folk_religion

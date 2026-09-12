@@ -65,3 +65,5 @@ Charlemagne died of pleurisy (28 Jan 814) after a year of omens (eclipse, palace
 - **Massacre of Verden Scale**: Annals cite 4,500; Fried accepts "basic truth" but notes possible exaggeration; Barbero calls it "greatest stain."
 - **Pepin the Hunchback’s Legitimacy**: Born to Himiltrude; Paul the Deacon says "before legal marriage"; Pope Stephen called it legitimate; later court treated him as illegitimate.
 - **Nationality/legacy**: 19th-century German vs. French historiography (butcher of Saxons vs. Father of Europe); Nazi appropriation vs. post-WWII European integration symbol.
+
+Source: adapted from "Charlemagne" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charlemagne

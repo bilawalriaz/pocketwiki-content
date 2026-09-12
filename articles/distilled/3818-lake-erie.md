@@ -43,3 +43,5 @@ The lake supports one of the world's largest freshwater commercial fisheries, hi
 - The long-term impact of climate change on Lake Erie's water levels, temperature, and ice cover is uncertain, with reports conflicting on whether it is causing the lake to shrink.
 - There is ongoing conflict between commercial and recreational fishing interests over management priorities and quota allocations.
 - The effectiveness and monitoring of voluntary conservation practices by farmers to reduce phosphorus runoff are questioned, as blooms have returned despite past improvements.
+
+Source: adapted from "Lake Erie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Erie

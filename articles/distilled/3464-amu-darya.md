@@ -51,3 +51,5 @@ In 2023, a Chinese company signed a deal with the Taliban government for gas ext
 - **True Source**: The exact source of the Amu Darya was debated for centuries, with multiple claimants. The 2025 expedition's identification of Lake Malang is a recent determination.
 - **Historical Course**: The river's historical course across the Karakum Desert is debated, with evidence suggesting it has shifted between flowing into the Aral Sea, the Caspian Sea, or both.
 - **Future of the Aral Sea**: The impact of new diversions like the Qosh Tepa Canal on the already diminished Aral Sea is a major ongoing concern.
+
+Source: adapted from "Amu Darya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amu_Darya

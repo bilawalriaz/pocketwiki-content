@@ -48,3 +48,5 @@ Diagnosed with stomach cancer in 1962, John XXIII died on 3 June 1963. His cause
 *   **The "Roncalli Dossier":** The International Raoul Wallenberg Foundation has submitted extensive research to Yad Vashem advocating for John XXIII to be recognized as "Righteous Among the Nations" for his efforts to save Jews during the Holocaust, a title he has not yet received.
 *   **Relationship with Padre Pio:** Historical accounts differ on John XXIII's attitude toward Padre Pio. Some sources indicate skepticism and criticism, while others suggest his views were generally positive but influenced by negative information, and that he later recognized Padre Pio's holiness.
 *   **Crimen sollicitationis:** A 1962 document bearing John XXIII's seal instructed bishops to handle cases of clerical sexual abuse in strict secrecy, a practice that has been heavily criticized in the context of the Church's later abuse scandals.
+
+Source: adapted from "Pope John XXIII" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_John_XXIII

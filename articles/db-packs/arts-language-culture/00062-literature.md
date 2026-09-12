@@ -39,3 +39,5 @@ The Nobel Prize in Literature, established by Alfred Nobel's 1895 will, is award
 - **Novella**: a prose narrative of 17,000–40,000 words
 - **Electronic literature**: works created for digital media
 - **Copyright**: exclusive right to copy a creative work, usually for a limited time
+
+Source: adapted from "Literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Literature

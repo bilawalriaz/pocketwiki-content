@@ -43,3 +43,5 @@ In 1988, Karabakh Armenians petitioned for unification with Armenia, sparking pr
 - **Historical Demographics**: Scholars debate the exact historical population ratios, with some sources indicating an overwhelming Armenian majority in the mountainous area by the early 19th century, while others note periods of demographic fluctuation.
 - **Soviet Border Decision**: The rationale behind the 1921 Soviet decision to place the Armenian-majority NKAO within the Azerbaijan SSR, rather than Armenia, remains a point of historical contention.
 - **Ethnic Cleansing Accusations**: Following the 2023 offensive, political analysts and residents accused Azerbaijan of committing ethnic cleansing, a charge Azerbaijan denies, framing the exodus as voluntary.
+
+Source: adapted from "Nagorno-Karabakh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nagorno-Karabakh

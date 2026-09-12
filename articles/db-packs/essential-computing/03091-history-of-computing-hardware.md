@@ -23,3 +23,5 @@ The endpoint of that scaling was the microprocessor: a complete central processi
 ## Open attribution
 
 The narrative contains genuine ambiguity at the edges. Mechanical calculation is sometimes credited to Wilhelm Schickard (1623) rather than Pascal. The label "first microprocessor" is contested among the Four-Phase Systems AL-1 (1969), the Garrett AiResearch MP944 (1970), and the Intel 4004 (1971). The "first microcomputer" is similarly disputed between the R2E Micral N (1973) and the Altair 8800 (1975). These disputes usually hinge on definitions rather than facts: what counts as programmable, electronic, or "on a single chip" decides which machine wins.
+
+Source: adapted from "History of computing hardware" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_computing_hardware

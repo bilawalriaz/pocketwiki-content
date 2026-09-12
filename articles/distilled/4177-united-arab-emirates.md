@@ -44,3 +44,5 @@ The population is overwhelmingly composed of expatriates and migrant workers, wi
 - The UAE's border disputes with Iran over the islands of Abu Musa and the Greater and Lesser Tunbs remain unresolved.
 - The UAE's role in the ongoing Sudanese Civil War, particularly its alleged support for the Rapid Support Forces (RSF), is a subject of major international scrutiny and legal action.
 - The long-term success and social impact of the UAE's economic diversification away from oil dependence is an ongoing development.
+
+Source: adapted from "United Arab Emirates" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/United_Arab_Emirates

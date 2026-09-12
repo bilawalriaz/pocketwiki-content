@@ -48,3 +48,5 @@ After the war, Heisenberg rebuilt German physics, directing the Max Planck Insti
 - **Heisenberg's Role in the Uranverein:** Historians debate whether Heisenberg deliberately sabotaged the German bomb effort, was incompetent, or was genuinely unable to overcome the technical challenges. The Farm Hall transcripts are a key but contested source.
 - **Philosophical Interpretation:** Heisenberg's anti-realist view that quantum mechanics describes knowledge rather than objective reality remains a central point of debate in the philosophy of science, contrasting with realist interpretations favored by others like Einstein.
 - **Moral Responsibility:** His decision to remain in Germany and work for the Nazi regime, while not participating in propaganda, raises questions about the moral responsibilities of scientists under totalitarian regimes.
+
+Source: adapted from "Werner Heisenberg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Werner_Heisenberg

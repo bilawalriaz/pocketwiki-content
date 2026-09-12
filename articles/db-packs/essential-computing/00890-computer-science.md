@@ -65,3 +65,5 @@ Philosopher Bill Rapaport identifies three insights that underpin all computatio
 ## Disciplinary debates
 
 Whether computer science is a science, mathematics, or engineering discipline is unresolved. Allen Newell and Herbert Simon (1975) called it empirical, since each new machine is an experiment posing a question to nature. Dijkstra and Hoare treated programs as mathematical entities amenable to deductive reasoning. Engineering-oriented proponents note that reliability is tested like bridges or aircraft, though critics argue engineering creates phenomena rather than discovering laws. Three competing paradigm classifications, Wegner's science/technology/mathematics, Denning's theory/abstraction/design, and Eden's rationalist/technocratic/scientific, reflect this lack of consensus. Conferences, not journals, remain the primary prestige venue for research because the field's rapid pace demands fast review and distribution.
+
+Source: adapted from "Computer science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer_science

@@ -50,3 +50,5 @@ Dōgen's magnum opus is the *Shōbōgenzō* ("Treasury of the True Dharma Eye"),
 - The interpretation of Dōgen's concept of *uji* (Being-Time) is debated, with some scholars comparing it to Western philosophy and others arguing it emphasizes momentary existence.
 - The exact date and circumstances of the compilation of his koan collection, the *Shinji Shōbōgenzō*, are disputed.
 - His lineage faced immediate conflict after his death over the introduction of esoteric practices, leading to schisms within the early Sōtō school.
+
+Source: adapted from "Dōgen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/D%C5%8Dgen

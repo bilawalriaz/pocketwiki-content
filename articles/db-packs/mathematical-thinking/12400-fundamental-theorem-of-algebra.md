@@ -11,3 +11,5 @@ The theorem is misnamed: it cannot be proved by algebra alone. Every known proof
 A simple bound on where the roots can sit also follows: every root of a monic polynomial $z^n + a_{n-1}z^{n-1} + \cdots + a_0$ satisfies $|z| \le 1 + \max(|a_0|, \ldots, |a_{n-1}|)$. Combined with the theorem itself, that closed disk is guaranteed to contain at least one root, turning an abstract existence claim into a usable search region.
 
 Since $\mathbb{C}$ is algebraically closed, it admits no proper finite field extension: any algebraic extension of the real field is isomorphic either to $\mathbb{R}$ itself or to $\mathbb{C}$, and every rational function with real coefficients has an elementary antiderivative expressed as a polynomial plus simple fractions over linear and irreducible quadratic denominators, because partial fractions can always be carried out over this complete factorisation.
+
+Source: adapted from "Fundamental theorem of algebra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra

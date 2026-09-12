@@ -47,3 +47,5 @@ Lisbon's architecture spans Romanesque, Gothic, Manueline, and modern styles. Ke
 - The precise etymology of "Lisbon" is unknown, with theories linking it to Celtic, Phoenician, or legendary Greek origins.
 - The exact population of the city at various historical points is often an estimate.
 - The need for and location of a new international airport to replace Humberto Delgado Airport has been a subject of long-standing debate and planning.
+
+Source: adapted from "Lisbon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lisbon

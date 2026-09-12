@@ -49,3 +49,5 @@ The World Geodetic System 1984 (WGS 84) is the global datum used by GPS. It has 
 - **Local vs. Global Accuracy:** Local datums can provide a more accurate fit for a specific region than a global datum like WGS 84, but the benefits of a global system often outweigh this local precision.
 - **Datum Conversion Complexity:** Converting coordinates between datums is not a simple mathematical process due to the irregular nature of historical survey networks and uneven error distribution.
 - **Impact of Plate Tectonics:** Using a global datum means coordinates for a location change over time due to tectonic plate movement, necessitating the use of plate-fixed frames for stable regional mapping.
+
+Source: adapted from "Geodetic datum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geodetic_datum

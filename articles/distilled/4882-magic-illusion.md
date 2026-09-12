@@ -46,3 +46,5 @@ Learning magic was historically secretive, with professionals guarding methods. 
 - **Categorization**: Magicians disagree on the exact number and definitions of core effect categories (e.g., whether "penetration" is a separate category).
 - **Secrecy vs. Exposure**: The tradition of guarding methods clashes with modern pressures, as seen in the criticism of magicians like Justin Flom who reveal secrets publicly.
 - **Misuse of Techniques**: The application of magic methods for fraud (e.g., by mediums or con artists) remains a persistent ethical and legal issue.
+
+Source: adapted from "Magic (illusion)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Magic_%28illusion%29

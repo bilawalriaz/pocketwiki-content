@@ -43,3 +43,5 @@ Within the *Ramayana*, Valmiki is central to the *Uttarakāṇḍa* (last canto)
 - The historicity of Valmiki is uncertain; he is a legendary figure, and the *Ramayana* is a product of centuries of oral and written tradition.
 - Scholars debate the originality of the *Uttarakāṇḍa*, with some like Robert and Sally Goldman suggesting it may be a later addition not composed by Valmiki.
 - The precise dating of the *Ramayana*'s composition remains unknown due to its long process of redaction and interpolation.
+
+Source: adapted from "Valmiki" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Valmiki

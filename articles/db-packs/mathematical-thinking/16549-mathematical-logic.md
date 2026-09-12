@@ -29,3 +29,5 @@ Beyond first-order logic, mathematicians study stronger classical systems such a
 ## Applications and connections
 
 Mathematical logic has reached into physics, biology, linguistics, economics, law, and computer science. The Curry–Howard correspondence links proofs and programs through proof theory and intuitionistic logic; Fagin's theorem of 1974 characterizes the complexity class NP by existential second-order logic; and modern proof assistants draw on the formal calculi studied in the field.
+
+Source: adapted from "Mathematical logic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematical_logic

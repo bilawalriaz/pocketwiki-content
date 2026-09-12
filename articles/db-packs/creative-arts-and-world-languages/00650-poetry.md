@@ -29,3 +29,5 @@ Sonnets come in Italian (Petrarchan) and English (Shakespearean) varieties, both
 ## Defining Disputes
 
 Debates center on what counts as poetry. Some theorists hold that any linguistic act can be poetic; others insist on formal distinctions from prose. The role of meter and rhyme in modern poetry remains contested, as does the fidelity of translating poetic form across languages, since meter, sound patterns, and formal conventions rarely transfer directly between linguistic systems.
+
+Source: adapted from "Poetry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Poetry

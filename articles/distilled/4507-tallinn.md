@@ -52,3 +52,5 @@ Tallinn operates an extensive public transport system of buses, trams, and troll
 - The etymology of the name "Tallinn" is debated; while "Taani-linna" ("Danish-castle") is a common theory, other hypotheses exist.
 - The connection between the 1154 Arab cartographer al-Idrisi's recorded place "Qlwn" and modern Tallinn is considered by some historians to be erroneous or speculative.
 - The city's 2023 European Green Capital Award has been criticized, with detractors claiming the winning "15-minute city" concept was not implemented in the final program.
+
+Source: adapted from "Tallinn" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tallinn

@@ -71,3 +71,5 @@ Titan (Saturn's moon): lakes of liquid methane/ethane/propane estimated at 300×
 4. **Petrochemical demand floor:** Even with transport electrification, petrochemicals (plastics, fertilizers) may sustain significant oil demand; circular economy/bioplastics penetration uncertain.
 5. **Reserve transparency:** OPEC reserve revisions (1980s jumps without discoveries) and lack of independent audit create uncertainty in global reserve estimates and peak models.
 6. **Geopolitical realignment:** Speed and stability of power shift from petrostates to renewable-energy leaders (GeGaLo index) depends on critical mineral supply chains (lithium, cobalt, rare earths) for transition technologies.
+
+Source: adapted from "Petroleum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Petroleum

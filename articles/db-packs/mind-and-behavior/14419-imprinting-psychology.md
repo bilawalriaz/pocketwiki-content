@@ -23,3 +23,5 @@ The Westermarck effect is a reverse form: two people who live in close domestic 
 ## Baby duck syndrome
 
 In human–computer interaction, baby duck syndrome applies the same metaphor: users tend to imprint on the first system they learn and then judge every later system by how closely it resembles that original, which can make it harder to switch tools or train students on new interfaces.
+
+Source: adapted from "Imprinting (psychology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Imprinting_%28psychology%29

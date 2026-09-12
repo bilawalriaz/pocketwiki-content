@@ -64,3 +64,5 @@ A PMF can be defined rigorously as the Radon–Nikodym derivative of the distrib
 $$P(X = b) = \int_{\{b\}} f\, d\mu = f(b).$$
 
 This guarantees that the PMF recovers each single-point probability and that the unit-total rule holds across all singletons in the support of $X$.
+
+Source: adapted from "Probability mass function" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Probability_mass_function

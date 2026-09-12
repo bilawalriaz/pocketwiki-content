@@ -51,3 +51,5 @@ The bay is a biodiversity hotspot with coral reefs, mangroves (including the Sun
 - The exact historical names and extents of the bay in ancient texts are subject to scholarly interpretation.
 - The long-term impacts of ocean acidification and climate change on the bay's unique ecosystems and fisheries are ongoing areas of research.
 - The effectiveness of regional cooperation (e.g., BOBLME) in managing transboundary pollution and overfishing remains a challenge.
+
+Source: adapted from "Bay of Bengal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bay_of_Bengal

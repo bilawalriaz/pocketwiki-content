@@ -42,3 +42,5 @@ Two structural questions drive most debate. The *source* question asks what kind
 **Seyyed Jaaber Mousavirad** argues that justification is not necessary for knowledge itself, only for its verification. People routinely hold true scientific, religious, or social beliefs by imitation, without supporting reasons, and those beliefs still count as knowledge. Justification demonstrates or confirms a belief rather than constituting it.
 
 **Jonathan Kvanvig** treats justification as inessential to the value of knowledge, claiming knowledge is no more valuable than true belief once justification is set aside.
+
+Source: adapted from "Justification (epistemology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Justification_%28epistemology%29

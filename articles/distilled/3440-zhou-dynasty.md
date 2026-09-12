@@ -38,3 +38,5 @@ The Zhou period is renowned for its bronze craftsmanship and the flourishing of 
 - The exact date of the Zhou dynasty's establishment is debated. The Xia–Shang–Zhou Chronology Project supports c. 1046 BC, while scholars David Nivison and Edward L. Shaughnessy date it to 1045 BC.
 - The nature of the *fengjian* system is debated; while often compared to European feudalism, key differences exist, such as the Zhou ruling from walled cities rather than castles and a distinct class system.
 - The well-field system, an idealized model of agricultural land division described in classical texts, is generally viewed by modern historians as a later conceptual model rather than a documented administrative system of the Zhou period.
+
+Source: adapted from "Zhou dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zhou_dynasty

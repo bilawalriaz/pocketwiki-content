@@ -47,3 +47,5 @@ The program has faced criticism for perceived under-representation of sites outs
 - **Tourism Impact**: The economic benefits of listing can lead to mass tourism that threatens the very integrity of a site, creating a conflict between conservation and revenue.
 - **Local Community Relations**: Recognition can sometimes ignore contemporary local usage of sites, leading to conflicts and even intentional destruction, as seen in cases like the Tadrart Acacus rock art in Libya.
 - **Political Lobbying**: Governments may lobby to protect a site's economic interests, as seen with Australia's campaigns regarding the Great Barrier Reef, potentially overriding scientific assessments of danger.
+
+Source: adapted from "World Heritage Site" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/World_Heritage_Site

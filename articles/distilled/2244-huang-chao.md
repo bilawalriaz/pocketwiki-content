@@ -37,3 +37,5 @@ Huang Chao's rebellion permanently destroyed Tang central authority, acceleratin
 - **Cause of death**: Historical accounts conflict on whether Huang Chao was killed by his nephew Lin Yan or committed suicide to enable his army's surrender.
 - **Escape theory**: Some speculate that the heads presented were decoys, allowing Huang Chao to escape and live as a monk, based on the distance to Shi Pu's camp and the resemblance of his brothers.
 - **Impact on Tang collapse**: Scholars debate the precise degree to which Huang Chao's rebellion, versus the prior rise of *jiedushi*, was the primary cause of the Tang dynasty's fall.
+
+Source: adapted from "Huang Chao" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Huang_Chao

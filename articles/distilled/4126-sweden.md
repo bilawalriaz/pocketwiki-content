@@ -45,3 +45,5 @@ In the 1990s, Sweden faced a fiscal crisis and implemented reforms, including re
 - The exact age of the Swedish kingdom is debated, depending on whether it is defined by the rule of the Svear over Svealand or the later unification with the Geats.
 - The extent of Sweden's neutrality during World War II is disputed, with arguments that it could have done more to oppose Nazi Germany.
 - The causes and consequences of Sweden's significant increase in income inequality since the mid-1980s are subjects of ongoing analysis.
+
+Source: adapted from "Sweden" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sweden

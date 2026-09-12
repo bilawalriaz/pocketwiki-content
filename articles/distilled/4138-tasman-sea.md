@@ -40,3 +40,5 @@ The sea is named after Abel Tasman, who crossed it in 1642. It was later navigat
 
 ## Debates and open questions
 The exact etymology of the colloquial term "The Ditch" for the Tasman Sea is uncertain.
+
+Source: adapted from "Tasman Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tasman_Sea

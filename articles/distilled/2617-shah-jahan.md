@@ -49,3 +49,5 @@ In 1658, Shah Jahan's illness sparked a war of succession among his sons. His el
 - The cause of the Deccan famine of 1630–32 is attributed to crop failures, but the effectiveness and scale of Shah Jahan's relief efforts are debated.
 - The motivations behind Shah Jahan's costly and ultimately abandoned campaigns in Central Asia are interpreted differently by scholars, with some seeing them as attempts to reclaim Timurid heritage.
 - The accusations of an incestuous relationship between Shah Jahan and his daughter Jahanara, propagated by some contemporary travelers, are dismissed by modern historians as court gossip and rumor.
+
+Source: adapted from "Shah Jahan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shah_Jahan

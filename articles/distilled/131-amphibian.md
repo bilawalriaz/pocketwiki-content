@@ -57,3 +57,5 @@ Dramatic declines have been noted since the late 1980s worldwide. In 2004, the I
 ## Debates and open questions
 
 The origin of modern lissamphibians remains contentious: the dominant hypothesis places them within dissorophoid temnospondyls, but alternative hypotheses suggest lepospondyl ancestry or even amniote relationships. Molecular studies suggest the frog–salamander divergence occurred considerably earlier than palaeontological evidence indicates, with one study proposing the last common ancestor of all modern amphibians lived ~315 million years ago. Many causes of amphibian declines remain poorly understood and are topics of ongoing discussion.
+
+Source: adapted from "Amphibian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amphibian

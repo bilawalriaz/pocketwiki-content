@@ -41,3 +41,5 @@ The historicity of the Trojan War is an open question. While ancient Greeks gene
 *   **Location of Troy:** While Hisarlık is the accepted site, debates continue about which specific archaeological layer (e.g., Troy VI or VIIa) corresponds to the legendary city.
 *   **Scale of the Conflict:** Was the war a massive pan-Hellenic expedition as described in the *Iliad*'s Catalogue of Ships, or a smaller-scale regional conflict?
 *   **Nature of the Sources:** To what extent do the later Epic Cycle and other sources preserve early oral traditions versus later inventions?
+
+Source: adapted from "Trojan War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Trojan_War

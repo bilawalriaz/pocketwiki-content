@@ -63,3 +63,5 @@ Aristotle's immediate influence came through the Peripatetic school; Theophrastu
 ## Debates and open questions
 
 Scholars debate whether Aristotle intended his physics to state quantitative laws; Henri Carteron held the "extreme view" that Aristotle's concept of force was basically qualitative, while others reject this. Carlo Rovelli argues Aristotle's physics of motion is correct within its domain—objects in Earth's gravitational field immersed in a fluid—while Galileo and Philoponus are said to have shown by experiment that heavier objects do not fall faster. Philosophers of science have concluded Aristotle was not interested in taxonomy, but zoologists think otherwise. A widespread ancient speculation that Aristotle played a role in Alexander's death rests only on an unlikely claim made six years after the death.
+
+Source: adapted from "Aristotle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aristotle

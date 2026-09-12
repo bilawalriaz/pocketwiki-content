@@ -69,3 +69,5 @@ Scotus’s most influential theological stance: Mary was conceived without origi
 - **Textual authenticity**: The editorial work of Scotus’s disciples produced multiple versions (*Lectura*, *Ordinatio*, *Reportatio*) and spurious attributions (*De modis significandi*, *Theoremata*). The Vatican critical edition (1950–) is still completing the *Ordinatio*; the *Lectura* Book 4 and parts of the *Reportatio* remain lost or disputed.
 - **Relation to Ockham**: Whether Ockham’s nominalism develops directly from Scotus’s formal distinction and univocity, or constitutes a rupture, remains a central historiographical question.
 - **Beatification and influence**: The 1993 beatification revived institutional interest, but the philosophical reception remains divided between Thomistic neo-Scholasticism and contemporary analytic/phenomenological engagements.
+
+Source: adapted from "Duns Scotus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Duns_Scotus

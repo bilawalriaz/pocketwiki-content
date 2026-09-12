@@ -46,3 +46,5 @@ Indigenous peoples, including the Inuvialuit and Gwich'in, have lived along the 
 - The exact path and timing of the initial human migration through the Mackenzie valley over 10,000 years ago remain debated due to sparse archaeological evidence.
 - The proposed Mackenzie Valley Pipeline has not been built due to environmental concerns and economic factors, leaving the future of regional oil and gas development uncertain.
 - The ecological impacts of hydroelectric dams on the Peace River, particularly on downstream nutrient flow and wildlife, are a subject of ongoing concern.
+
+Source: adapted from "Mackenzie River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mackenzie_River

@@ -29,3 +29,5 @@ Using ddRADseq on known-sex individuals (sex previously established by ultrasoun
 ## Limits and open problems
 
 Two bottlenecks remain. Sampling: collecting DNA can stress fragile animals or damage rare plants. Workarounds include radio-collar monitoring to gather opportunistic samples and growing primary cell cultures from biopsies, lab-grown cells that can be resampled without re-handling wild animals. Analysis: sequencing has become cheaper and faster than the bioinformatics and population-genetics methods that interpret it, and turning genomic findings into on-the-ground conservation strategy remains difficult.
+
+Source: adapted from "Genome sequencing of endangered species" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Genome_sequencing_of_endangered_species

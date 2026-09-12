@@ -43,3 +43,5 @@ The strait is a major route for illicit trade, with goods smuggled from the UAE 
 *   **Legal Authority:** A central debate is whether Iran or Oman can legally restrict passage through the strait, given their territorial claims and declarations that conflict with customary international law and UNCLOS provisions on transit passage.
 *   **Iran's Capability and Will:** Scholars debate the feasibility and duration of a full Iranian blockade. Some analyses suggest Iran could impede traffic for a month, while others argue its own economic dependence on the strait for imports and exports makes a prolonged closure logistically and economically self-defeating.
 *   **Strategic Calculus:** Analysis describes Iran's policy as "double-faced": it acts as a security provider in normal times but uses the strait as a tool for brinkmanship and deterrence when facing existential threats, a strategy constrained by its own reliance on the waterway.
+
+Source: adapted from "Strait of Hormuz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Strait_of_Hormuz

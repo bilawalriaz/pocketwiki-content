@@ -48,3 +48,5 @@ As of 2013, about 19,400 people lived on the islands, mostly on the four dispute
 
 ## Debates and Open Questions
 The primary ongoing debate is the Kuril Islands dispute between Russia and Japan. Japan claims the four southern islands, while Russia maintains sovereignty over the entire chain. The dispute has prevented the two countries from signing a formal peace treaty to end World War II hostilities.
+
+Source: adapted from "Kuril Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kuril_Islands

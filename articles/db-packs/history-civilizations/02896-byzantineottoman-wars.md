@@ -44,3 +44,5 @@ The Ottomans also outpaced the Byzantines in siege warfare, the decisive militar
 ## What remains uncertain
 
 Historians still debate how much weight to give the Byzantine civil wars of 1341–1371 relative to Ottoman military superiority and Latin interference, and how much weight to give the Anatolian peasantry's apparent preference for Ottoman rule in explaining the rapid early expansion. The absence of substantial Western aid in 1453 is variably attributed to political disunity, the religious schism between Rome and Constantinople, and competing priorities such as the Hundred Years' War.
+
+Source: adapted from "Byzantine–Ottoman wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Byzantine%E2%80%93Ottoman_wars

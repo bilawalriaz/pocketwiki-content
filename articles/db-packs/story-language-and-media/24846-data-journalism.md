@@ -38,3 +38,5 @@ Several taxonomies classify the outputs. Simon Rogers groups projects into five 
 The 2010 WikiLeaks Afghan War Diary release, roughly 91,000 secret military reports covering 2004 to 2010, is a defining case. The Guardian produced an interactive map of about 16,000 IED (improvised explosive device) attacks; The New York Times let readers roll over underlined text to reveal military terms; Der Spiegel built hybrid graph-and-map visuals of insurgent bombing deaths. For the 2010 Iraq War Logs, The Guardian used Google Fusion Tables to map every recorded death, a method it repeated for the 2011 England riots.
 
 Sources: [Title](URL)
+
+Source: adapted from "Data journalism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Data_journalism

@@ -34,3 +34,5 @@ Financial support for KAZA comes from international development partners, includ
 
 ## Debates and open questions
 The source text does not detail specific scholarly debates or open questions about the KAZA TFCA.
+
+Source: adapted from "Kavango–Zambezi Transfrontier Conservation Area" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kavango%E2%80%93Zambezi_Transfrontier_Conservation_Area

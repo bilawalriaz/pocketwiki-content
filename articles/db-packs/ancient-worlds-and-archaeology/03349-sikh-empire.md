@@ -29,3 +29,5 @@ The First Anglo-Sikh War (1845–1846) ended in defeat and costly territorial co
 ## Why the Empire Fell So Fast
 
 Two explanations dominate the debate. The first emphasises British manipulation and the betrayal of Sikh commanders such as Lal Singh and Tej Singh during the wars. The second, advanced by the historian Patwant Singh, locates the cause internally: Ranjit Singh built a personal autocracy on top of the Khalsa's older, quasi-republican traditions of collective leadership, and because he never institutionalised a stable succession, the empire had no constitutional mechanism to survive him. The army was strong enough to threaten the British but politically divided enough to be defeated.
+
+Source: adapted from "Sikh Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sikh_Empire

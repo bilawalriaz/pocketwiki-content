@@ -47,3 +47,5 @@ Solon wrote poetry to explain and defend his reforms, portraying himself as a ch
 - **Intent of Reforms**: Were Solon's reforms a radical move toward democracy, or did they merely give a plutocratic (wealth-based) flavor to an aristocratic system?
 - **Interpretation of the *Seisachtheia***: Was it a simple cancellation of debts, the abolition of a feudal-like relationship, or something else?
 - **Reliability of Sources**: How much of the account of Solon's life and laws, especially regarding his travels, personal life, and sexual legislation, is historical fact versus later myth or fabrication?
+
+Source: adapted from "Solon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Solon

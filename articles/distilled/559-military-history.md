@@ -82,3 +82,5 @@ WWI introduced flamethrowers, armored cars (French, 1902), armored troop carrier
 - **Political Influence on Interpretation:** The demonstrated correlation (Kimball) between historians' contemporary political ideologies and their causal explanations for 20th-century wars.
 - **Gunpowder Transmission:** The exact time and route of gunpowder/firearm technology migration from China to the Islamic world and Europe remains a mystery.
 - **Periodization Boundaries:** Debates over dating (e.g., whether Japanese "medieval" warfare extends to the 19th century) and the applicability of Western periodization globally.
+
+Source: adapted from "Military history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Military_history

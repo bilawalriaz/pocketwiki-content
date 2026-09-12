@@ -58,3 +58,5 @@ After retiring in 1871, Ranke continued writing on German history (Wallenstein, 
 - **Theology vs. empiricism**: Can Ranke’s Lutheran providentialism (history as manifestation of God’s will) be separated from his source-critical method, or does it predetermine his narrative choices (e.g., Prussia’s divine mission, Christianity’s moral superiority)?
 - **Political conservatism**: Did his state-centric, anti-liberal framework (each state has a God-given "idea") compromise his claimed objectivity, particularly in *Memoirs of the House of Brandenburg*?
 - **Legacy of "rankian" empiricism**: 20th-century critics (Carr, Braudel, Benjamin) argue his focus on political/diplomatic events and "facts" ignores structural forces, economic geography, and the historian’s inevitable subjectivity in selecting evidence. Is his method salvageable as a component of modern practice, or is it fundamentally outdated?
+
+Source: adapted from "Leopold von Ranke" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leopold_von_Ranke

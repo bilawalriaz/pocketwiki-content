@@ -54,3 +54,5 @@ Gothic spread via Cistercian monks, trade, and the Crusades, with possible influ
 *   **Origins:** The extent of influence from Islamic architecture (via the pointed arch) versus independent Romanesque evolution is debated. Christopher Wren argued for a "Saracen style," but early European pointed arches predate the Crusades.
 *   **Terminology:** The pejorative use of "Gothic" by Renaissance writers like Vasari is well-documented, but its accuracy is contested by scholars who note the style's sophistication.
 *   **Structural Limits:** The collapse of Beauvais Cathedral's choir in 1284 raised questions about the engineering limits of Gothic height, leading to more conservative designs thereafter.
+
+Source: adapted from "Gothic architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gothic_architecture

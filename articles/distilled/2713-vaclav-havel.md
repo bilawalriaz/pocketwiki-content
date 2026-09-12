@@ -46,3 +46,5 @@ After leaving office in 2003, Havel remained a public intellectual, launching in
 - **Sudeten German Expulsion**: His public condemnation of the post-WWII expulsion of Sudeten Germans was highly controversial domestically, challenging a long-held national narrative.
 - **Presidential Power**: While the Czech constitution vested most power in the prime minister, Havel's personal prestige expanded the moral authority and practical role of the presidency beyond its intended limits.
 - **Political Legacy**: Some, like Communist Party leader Vojtěch Filip, viewed Havel as a controversial figure whose words sometimes conflicted with his deeds, particularly regarding foreign policy like the NATO bombing of Yugoslavia.
+
+Source: adapted from "Václav Havel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/V%C3%A1clav_Havel

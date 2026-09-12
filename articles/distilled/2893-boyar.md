@@ -39,3 +39,5 @@ In the Carpathian regions, the boyar class emerged from local community leaders 
 
 ## Debates and Open Questions
 The exact etymology of "boyar" is debated, with theories linking it to Turkic, Slavic, or Romanian roots. The origin of the Romanian nobility is also contested, with one theory suggesting a significant Cuman origin for the medieval nobility.
+
+Source: adapted from "Boyar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Boyar

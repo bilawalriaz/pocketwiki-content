@@ -46,3 +46,5 @@ Lamarck presented an early evolutionary theory, but Darwin, synthesizing Humbold
 ## Open questions
 
 Evolutionary research continues addressing phenomena poorly accounted for by the modern synthesis, including speciation, the evolution of sexual reproduction, cooperation, ageing, and evolvability. Conservation biologists debate biodiversity-loss trends and their effects on human well-being, given estimates that up to 50% of species may vanish within 50 years.
+
+Source: adapted from "Biology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biology

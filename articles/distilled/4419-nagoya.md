@@ -41,3 +41,5 @@ Nagoya's culture was fostered by the patronage of the Owari Tokugawa lords. Key 
 
 ## Debates and open questions
 The sister city relationship with Nanjing, China, was suspended in 2012 following public comments by Nagoya's mayor denying the Nanjing Massacre. The city's bid to host the 1988 Summer Olympics was unsuccessful, losing to Seoul.
+
+Source: adapted from "Nagoya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nagoya

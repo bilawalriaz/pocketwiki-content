@@ -44,3 +44,5 @@ Throughout his reign, Louis managed threats on multiple frontiers: Slavic tribes
 - The exact location of Louis's birthplace, Cassinogilum, is debated, with Chasseneuil-du-Poitou being the most likely identification.
 - Historians debate the degree to which Louis's public penances were sincere religious acts versus political tools, and how they impacted his secular authority.
 - The *Ordinatio Imperii* is a modern term; the original document is called *divisio imperii*. Its failure is central to understanding the empire's fragmentation.
+
+Source: adapted from "Louis the Pious" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_the_Pious

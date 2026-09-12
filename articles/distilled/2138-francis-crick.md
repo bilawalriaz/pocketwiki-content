@@ -42,3 +42,5 @@ Crick was a vocal humanist and atheist, critical of organized religion. He advoc
 - **Use of Rosalind Franklin's data**: A major controversy concerns whether Watson and Crick appropriately used Franklin's unpublished X-ray diffraction data and "Photo 51" without her knowledge or consent. Franklin's contributions were not fully recognized during her lifetime.
 - **The "central dogma" terminology**: Crick later acknowledged that his use of the word "dogma" was a misnomer, as he intended it as a hypothesis, not an unchallengeable belief.
 - **Consciousness**: Crick's later work on the neural correlates of consciousness remains an active and complex field of study, with his "astonishing hypothesis" that the mind is a product of brain activity still being explored.
+
+Source: adapted from "Francis Crick" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Francis_Crick

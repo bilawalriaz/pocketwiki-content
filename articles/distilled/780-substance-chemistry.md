@@ -55,3 +55,5 @@ Substances have systematic IUPAC and CAS names, plus common names (e.g. glucose 
 
 ## Debates and open questions
 Debates persist over defining chemical substances due to indexing challenges from millions of reported compounds. Boundaries blur in non-stoichiometric materials, alloys, and polymers. Legal definitions expand “substance” to include variable-composition mixtures, raising questions about precision versus practicality in regulation and commerce.
+
+Source: adapted from "Substance (chemistry)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Substance_%28chemistry%29

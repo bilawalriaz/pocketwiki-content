@@ -35,3 +35,5 @@ Data modeling produces a *data model*, an abstract description of the data and t
 ## The data engineer
 
 A data engineer is a software engineer who builds the big-data ETL pipelines that move data through an organisation and turn raw volume into something analysts and models can use. They care about production concerns: formats, resilience, scaling, and security. They usually come from a software engineering background and write Java, Python, Scala, or Rust, and are more familiar with databases, architecture, cloud computing, and Agile development than typical developers. A *data scientist*, by contrast, works on analysis, algorithms, statistics, and machine learning, drawing on the prepared data and infrastructure that the data engineer provides.
+
+Source: adapted from "Data engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Data_engineering

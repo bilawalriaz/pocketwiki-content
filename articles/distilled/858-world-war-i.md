@@ -56,3 +56,5 @@ The Paris Peace Conference imposed harsh terms on the defeated Central Powers, p
 ## Debates and Open Questions
 
 Historians continue to debate the primary causes of World War I, with some emphasizing long-term structural factors like alliance systems and arms races, while others focus on the July Crisis and the role of key individuals. The "war guilt" question remains contentious, with debates over whether Germany bore sole responsibility or if it was a collective failure of all European powers. The effectiveness of military leadership, particularly the high casualty rates and the failure to adapt tactics to new technologies, is another area of ongoing scholarly discussion. The war's legacy, including its impact on the rise of totalitarian ideologies and the interwar peace settlement, continues to be analyzed and reassessed.
+
+Source: adapted from "World War I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/World_War_I

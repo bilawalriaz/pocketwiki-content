@@ -60,3 +60,5 @@ Academics have described Swift as "the last pop superstar." Her success populari
 - Her transition to pop led rockist critics to view it as an erosion of authenticity, while others defended it as necessary for artistic evolution.
 - Some critics have dismissed her "confessional" songwriting as tabloid material; scholars attribute this criticism to sexism, noting male artists with similar themes receive more serious merit.
 - Her political engagements have been questioned as potentially strategic career moves, with some viewing her influence as sizable but overstated.
+
+Source: adapted from "Taylor Swift" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taylor_Swift

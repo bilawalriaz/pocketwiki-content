@@ -46,3 +46,5 @@ The city's culture reflects its colonial history and modern urban life. Notable 
 ## Debates and Open Questions
 - The proposal for a Brazzaville–Kinshasa Bridge, signed in 2018, faces significant political and infrastructure challenges, leaving the future of meaningful connection between the two capitals uncertain.
 - The city's role in regional conflicts is ongoing, with recent accusations from the UN and DRC government regarding the deportation of refugees from the DRC.
+
+Source: adapted from "Brazzaville" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brazzaville

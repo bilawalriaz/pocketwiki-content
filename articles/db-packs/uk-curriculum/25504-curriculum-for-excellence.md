@@ -25,3 +25,5 @@ The Scottish Qualifications Authority introduced new qualifications in 2014 alig
 Many Scottish teachers raised concerns about vagueness, particularly around the Experiences and Outcomes framework. The Educational Institute of Scotland, the main teachers' union, feared this imprecision would create confusion about classroom expectations and assessment.
 
 These concerns had practical consequences. East Renfrewshire, one of Scotland's highest-performing education authorities, delayed secondary implementation by a year. Several independent schools, including St Aloysius' College in Glasgow, did the same.
+
+Source: adapted from "Curriculum for Excellence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Curriculum_for_Excellence

@@ -89,3 +89,5 @@ Neutering/spaying (castration in large animals) standard for pets; often shelter
 *   **Contraceptive Access as Human Right**: International treaties mandate access, yet 222M women in developing world have unmet need; enforcement mechanisms are weak against sovereign restrictions (religious, political).
 *   **Hormonal Contraception and Mental Health**: Observational data suggest association with depression/anxiety; causality and magnitude remain debated, complicating informed consent counseling.
 *   **Emergency Contraception Mechanism**: While primary action is ovulation inhibition, possibility of post-fertilization effect (implantation prevention) is not fully excluded, fueling ethical/legal disputes over classification (contraceptive vs. abortifacient).
+
+Source: adapted from "Birth control" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Birth_control

@@ -19,3 +19,5 @@ The defining property of a biomembrane is **selective permeability**. Small, non
 ## Fluidity
 
 The lipid core is not a static sheet. C–C bonds in the tails rotate constantly, so the interior is fluid, allowing membrane proteins to drift laterally and meet one another, a requirement for signalling. At low temperature, lipids with long, saturated tails can pack so tightly that the bilayer sets into a gel-like solid; the temperature at which this happens depends on tail length and saturation. Cold-blooded organisms and bacteria adjust the fatty-acid makeup of their membranes to keep fluidity roughly constant as temperature changes. Without membrane fluidity, proteins could not diffuse, membranes could not fuse, and dividing cells could not distribute their components evenly between daughters.
+
+Source: adapted from "Biological membrane" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_membrane

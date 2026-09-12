@@ -45,3 +45,5 @@ Sukarno pursued an assertive, anti-imperialist foreign policy. He was a founding
 *   **The 30 September Movement:** The full extent of the PKI's involvement and whether Sukarno had any prior knowledge remain subjects of historical debate.
 *   **Supersemar's Signing:** Whether Sukarno signed the Supersemar order voluntarily or was coerced, possibly at gunpoint, is disputed.
 *   **Sukarno's Legacy:** His reputation has fluctuated; minimized under Suharto's New Order, he has been politically rehabilitated and is widely revered as the founding father of modern Indonesia.
+
+Source: adapted from "Sukarno" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sukarno

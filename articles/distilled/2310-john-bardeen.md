@@ -44,3 +44,5 @@ In the 1960s, Bardeen initially challenged Brian Josephson's prediction of a sup
 - **Credit for the Transistor:** William Shockley publicly took the lion's share of credit for the transistor invention, leading to a deterioration of his relationship with Bardeen and Brattain. Bell Labs management, however, presented all three as a team.
 - **Josephson Effect Controversy:** Bardeen initially challenged Brian Josephson's theoretical prediction of supercurrent tunneling, but publicly withdrew his opposition in 1963 after experimental evidence confirmed the effect.
 - **Nobel Prize Strategy:** Bardeen was concerned the Nobel Committee might not award the BCS theory due to his already having a Nobel Prize. He strategically nominated researchers in superconducting tunneling to increase the BCS theory's chances of recognition.
+
+Source: adapted from "John Bardeen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Bardeen

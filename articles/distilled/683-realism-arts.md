@@ -66,3 +66,5 @@ Italian Neorealism (post-WWII: De Sica, Visconti, Rossellini) created politicall
 - **Illusionism's Trajectory**: The source traces illusionism from Paleolithic to Dutch Golden Age, noting its rejection in Late Antiquity and revival in the Renaissance, but the causal links between technical progress and artistic intent remain interpretive.
 - **Theatrical Realism's Origins**: Some cite photography as the basis; others argue dramatic realism is far older, demonstrated by principles of dramatic form matching physical reality.
 - **Film Realism Typology**: The distinction between "seamless" (manipulative authenticity) and "aesthetic" (viewer freedom) realism remains a live theoretical framework.
+
+Source: adapted from "Realism (arts)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Realism_%28arts%29

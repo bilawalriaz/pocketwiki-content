@@ -66,3 +66,5 @@ Several key debates persist within Sunni Islam:
 4. **Political Authority**: The extent to which temporal rulers should adhere to religious scholarship versus asserting independent authority.
 5. **Contemporary Movements**: The legitimacy of Salafism, political Islamism, and reformist movements within Sunni framework.
 6. **Historical Interpretation**: Disputes over early Islamic history, particularly the legitimacy of the first three caliphs versus Ali’s succession.
+
+Source: adapted from "Sunni Islam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sunni_Islam

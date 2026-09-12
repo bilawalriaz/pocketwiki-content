@@ -30,3 +30,5 @@ Acrobatics encompasses several distinct forms. **Acrobalance** is a floor-based 
 
 ## Debates and Open Questions
 The source text does not present specific scholarly debates or open questions regarding acrobatics.
+
+Source: adapted from "Acrobatics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Acrobatics

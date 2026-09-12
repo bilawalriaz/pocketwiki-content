@@ -85,3 +85,5 @@ Le Corbusier treated furniture as "equipment for living." With **Charlotte Perri
 - **Standardization vs. humanity**: The Modulor and Unité's "bottle rack" logic are read either as humanist universalism (Vitruvian continuity) or as the "mathematization of the body" imposing abstract norms on diverse cultures (e.g., Chandigarh's climate/caste realities).
 - **Authorship of furniture**: The iconic LC series emerged from the studio of Le Corbusier, Pierre Jeanneret, and **Charlotte Perriand**; Perriand's role was long minimized, raising questions about collaborative credit in modernist mythmaking.
 - **Preservation vs. adaptation**: Many works (Villa Savoye, Unités, Chandigarh) suffer from concrete degradation, leaking roofs, and obsolescence. UNESCO listing (2016) intensifies debate on how to conserve "machines for living" that were designed for industrial replacement, not permanence.
+
+Source: adapted from "Le Corbusier" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Le_Corbusier

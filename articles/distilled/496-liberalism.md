@@ -81,3 +81,5 @@ Liberalism has drawn criticism from diverse ideological groups. **Anarchists** c
 *   **Universalism vs. Cultural Relativism:** Liberalism’s universalist claim (human rights apply everywhere) clashes with charges of Western imperialism, particularly in the Middle East and China, where liberal reforms are often viewed as foreign impositions.
 *   **Democracy's Future:** With democratic backsliding, the rise of illiberal democracies (elections without rights), and the competitive model of authoritarian capitalism (China), the 20th-century assumption that liberal democracy is the inevitable endpoint of history is contested.
 *   **Scope of Rights:** Ongoing expansion of rights claims (reproductive, transgender, environmental, digital privacy) tests the limits of liberal individualism and the state's capacity to adjudicate conflicting liberties.
+
+Source: adapted from "Liberalism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liberalism

@@ -49,3 +49,5 @@ The canal dramatically reduced shipping times between Europe and Asia, boosting 
 - **Historical death toll**: Estimates of worker deaths during construction vary widely, from under 1,000 to 120,000, with modern analysis suggesting the lower end of the range.
 - **Environmental impact**: The long-term ecological consequences of the ongoing Lessepsian migration and the impact of the 2015 expansion on species transfer are subjects of ongoing scientific concern and study.
 - **Strategic alternatives**: The viability of alternative trade routes, such as the Northern Sea Route through the Arctic or land-based "dry canals," as competitors to the Suez Canal is a recurring topic in geopolitical and economic analysis.
+
+Source: adapted from "Suez Canal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Suez_Canal

@@ -44,3 +44,5 @@ Theatre encompasses drama, musical theatre, comedy, tragedy, and improvisation. 
 
 ## Debates and Open Questions
 Several key debates persist: the precise origins of Greek tragedy remain obscure despite Aristotle's attribution to Dionysian festivals; the authorship and dating of the *Nātyaśāstra* vary widely among scholars; the extent to which Roman adaptations departed from Greek originals is contested; and the relationship between historical theatrical practices and modern theoretical frameworks continues to evolve, particularly regarding cross-cultural influences and the role of theatre in social change.
+
+Source: adapted from "Theatre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theatre

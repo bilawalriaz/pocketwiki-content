@@ -52,3 +52,5 @@ Transmission formats specify connectors, protocols, refresh rates, resolutions, 
 
 ## Debates and Open Questions
 The transition from analog to digital video continues globally, with analog becoming legacy technology. The choice between digital and film in Hollywood was resolved by 2013 when digital cameras surpassed film usage. Vertical video adoption reflects changing mobile consumption patterns. Deinterlacing remains imperfect for displaying interlaced content on progressive devices. Chroma subsampling balances data reduction against color detail fidelity. The superiority of digital over film for high-resolution, dynamic range, and color gamut applications is now established in professional production.
+
+Source: adapted from "Video" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Video

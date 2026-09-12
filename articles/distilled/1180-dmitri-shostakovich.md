@@ -85,3 +85,5 @@ The central scholarly dispute concerns **dissidence vs. compliance**. The **revi
 5. **The Thirteenth Symphony’s risk**: Since Yevtushenko’s *Babi Yar* poem was legally published, was setting it an act of courage or a calculatedly safe gesture? The forced addition of a stanza on Russian/Ukrainian victims suggests official unease.
 6. **Late style and tone rows**: In the final quartets and Fourteenth Symphony, Shostakovich uses 12-tone rows thematically, not serially. Does this reflect a late modernist resurgence, a private language for "desk drawer" expression, or a continuation of Bergian quotation technique?
 7. **Role in Sakharov denunciation (1973)**: Did Shostakovich willingly sign, was his name added without consent (per his widow), or did he sign under duress to retain ability to help others?
+
+Source: adapted from "Dmitri Shostakovich" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dmitri_Shostakovich

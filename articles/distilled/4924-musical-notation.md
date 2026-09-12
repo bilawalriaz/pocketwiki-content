@@ -47,3 +47,5 @@ Beyond the standard staff, numerous systems exist. Tablature (for instruments li
 - The exact formation and use of the medieval rhythmic modes described in *De Mensurabili Musica* are not fully clear.
 - Scholars debate the precise meanings of "great signs" in Byzantine and Znamenny notation, which likely indicated embellishments and microtonal inflections.
 - The "notational centricity" of Western musicology is critiqued for potentially biasing analysis towards notated traditions and overlooking oral practices.
+
+Source: adapted from "Musical notation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Musical_notation

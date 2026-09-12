@@ -47,3 +47,5 @@ Heraldic traditions diverged into broad styles: German-Nordic (simple, with cres
 - The precise origin of heraldry is debated; while the Crusades disseminated it, the art likely developed independently in Western Europe.
 - The extent to which ancient and medieval symbols (e.g., Roman shield markings) constitute true heraldry is disputed, as they lacked hereditary consistency.
 - The legal status and regulation of heraldry vary widely globally, with some countries having strict authorities and others treating arms as unprotected intellectual property.
+
+Source: adapted from "Heraldry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Heraldry

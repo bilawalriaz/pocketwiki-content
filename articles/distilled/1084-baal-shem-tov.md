@@ -42,3 +42,5 @@ The Baal Shem Tov took sides with Talmudists against Frankism, a Sabbataeanist m
 
 ## Debates and Open Questions  
 Scholars debate the authenticity of posthumously published letters attributed to the Baal Shem Tov, particularly those claiming prophetic abilities or heavenly ascents. The precise location of his birth remains contested—some sources cite Okopy in Ukraine, while historian Moshe Idel argues for Bukovina based on linguistic and geographical analysis. The reliability of *Shivḥei haBesht* as a historical source is questioned due to its legendary content, though it likely preserves a small kernel of factual memory. Additionally, the extent to which his teachings were systematized by later followers versus accurately transmitted remains unclear, given the absence of original texts.
+
+Source: adapted from "Baal Shem Tov" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baal_Shem_Tov

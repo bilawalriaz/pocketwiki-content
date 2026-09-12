@@ -44,3 +44,5 @@ The Andorran people are a Romance group of Catalan descent. Catalan is the sole 
 - The etymology of the name "Andorra" is uncertain and debated, with hypotheses linking it to the ancient Iberian tribe Andosini or to pre-Roman water sources.
 - The country's relationship with the European Union is evolving. An association agreement was authorized for signature in 2026, which would allow participation in the internal market but requires ratification and a potential consultative referendum in Andorra.
 - The impact of climate change on Andorra's crucial ski tourism industry, due to reduced snowfall and shorter seasons, is a significant ongoing concern.
+
+Source: adapted from "Andorra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andorra

@@ -53,3 +53,5 @@ The Ottoman Army, though reformed, was hampered by limited industrial capacity, 
 *   The extent of pre-war Armenian revolutionary activity and its role as a pretext for the Ottoman government's actions remains a point of scholarly contention.
 *   The precise Ottoman military casualty figures are uncertain due to the collapse of bureaucratic records, with estimates varying widely.
 *   The motivations and degree of agency of local groups (Kurds, Arabs, Assyrians) are complex, ranging from nationalist aspirations to opportunism or coercion.
+
+Source: adapted from "Middle Eastern theatre of World War I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Middle_Eastern_theatre_of_World_War_I

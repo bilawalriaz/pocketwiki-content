@@ -49,3 +49,5 @@ Ecuador is a presidential republic with five branches of government. Its economy
 - The long-term social and economic impacts of adopting the U.S. dollar remain a subject of debate.
 - The effectiveness of the 2008 constitution's "rights of nature" in balancing environmental protection with economic development is continually tested.
 - The government's strategy for combating powerful organized crime groups and reducing prison violence is a critical ongoing challenge.
+
+Source: adapted from "Ecuador" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ecuador

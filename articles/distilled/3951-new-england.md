@@ -49,3 +49,5 @@ The modern economy is driven by services, including higher education, medicine, 
 
 ## Debates and Open Questions
 The effectiveness and applicability of the New England town meeting model of direct democracy is still discussed by scholars. The region's political transformation from a Republican to a Democratic stronghold is attributed to demographic shifts and the Republican Party's adoption of socially conservative platforms in the late 20th century. The economic future of former industrial cities that were slow to adapt to the service economy remains a point of analysis.
+
+Source: adapted from "New England" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_England

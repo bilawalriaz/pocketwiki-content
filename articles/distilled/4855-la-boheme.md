@@ -49,3 +49,5 @@ The opera has inspired numerous adaptations. Jonathan Larson's musical *Rent* (1
 *   The initial critical reception was polarized, with some finding the music insufficiently sophisticated, a view echoed by later critics like Benjamin Britten.
 *   The "missing act" discovered in 1957 explains Rodolfo's jealousy in Act 3 but was not used by Puccini, raising questions about the intended narrative flow.
 *   The dispute with Ruggero Leoncavallo over the source material and libretto led to a rival, now obscure, version of the story.
+
+Source: adapted from "La bohème" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/La_boh%C3%A8me

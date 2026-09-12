@@ -29,3 +29,5 @@ Christianity, adopted through contact with Gallo-Roman society, was used pragmat
 ## Sources and debates
 
 The main contemporary accounts are Gregory of Tours' *Decem Libri Historiarum* (to 594) and the *Chronicle of Fredegar* (584–641, later extended to 768), with the *Liber Historiae Francorum* as a third narrative. Childeric I's tomb, opened in 1653, provides key archaeological evidence of Merovingian material culture. A legendary origin linking Merovech to a sea-beast (quinotaur) survives, but is now usually read as a folk etymology for the name ("sea-bull") rather than a real claim of supernatural descent. Calling the late kings *rois fainéants* is also an oversimplification: only Childeric II and the last two kings were truly inactive.
+
+Source: adapted from "Merovingian dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Merovingian_dynasty

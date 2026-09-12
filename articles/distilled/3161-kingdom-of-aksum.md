@@ -40,3 +40,5 @@ Aksum's decline began in the 7th century due to multiple factors. The rise of Is
 - The extent of Jewish influence on Aksumite culture before its conversion to Christianity is debated, with some scholars suggesting a significant impact and others arguing it was minor.
 - The precise location of the post-Aksumite capital, Kubar, remains unknown.
 - The relative importance of different factors in Aksum's decline—such as Islamic trade shifts, environmental degradation, nomadic invasions, and internal strife—is a subject of ongoing scholarly discussion.
+
+Source: adapted from "Kingdom of Aksum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Aksum

@@ -48,3 +48,5 @@ Gujarati is the official language, spoken by 86% of the population. The state is
 - The **Sardar Sarovar Project** on the Narmada River is a major dam that has increased irrigation but is a contested issue due to the displacement of communities.
 - The impact of **agricultural cooperatives** is debated; while they increased productivity, their effect on equity is questioned as membership has tended to favour landowners.
 - **Groundwater depletion** is a significant issue, with abstraction rates exceeding recharge rates in many districts, posing a long-term sustainability challenge.
+
+Source: adapted from "Gujarat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gujarat

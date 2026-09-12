@@ -50,3 +50,5 @@ The city features numerous parks and cultural sites, including the Expo Science 
 - The exact location of the Proto-Three Kingdoms state of Sinheunguk is debated, with theories placing it in Daejeon, Seosan, or Yesan County.
 - The historical administrative affiliation of the Daejeon area during the Three Kingdoms period (e.g., whether Jinhyeon-hyeon belonged to Baekje's Northern or Eastern Division) is subject to scholarly interpretation.
 - The long-term demographic and economic impact of the establishment of Sejong City on Daejeon remains a significant open question.
+
+Source: adapted from "Daejeon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Daejeon

@@ -31,3 +31,5 @@ David Hume argued that consent of the governed is the best basis for government 
 John Rawls revived the tradition by placing choosers behind a "veil of ignorance," where they do not know their own class, talents, or beliefs, and would then choose fair principles of justice. David Gauthier modeled the contract using the prisoner's dilemma: two self-interested parties do best when each sticks to the agreed arrangement. Philip Pettit shifted the basis of legitimacy from explicit consent to the absence of effective rebellion.
 
 The social contract's most visible political descendant is the United States Declaration of Independence (1776), which translated Locke's natural rights into "Life, Liberty, and the pursuit of Happiness" and asserted a right to "alter or to abolish" any government that violates them.
+
+Source: adapted from "Social contract" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Social_contract

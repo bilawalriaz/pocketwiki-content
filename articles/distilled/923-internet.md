@@ -58,3 +58,5 @@ Malware—including viruses, worms, ransomware, botnets, and spyware—poses maj
 - **Privacy vs. Security**: Can surveillance coexist with civil liberties?  
 - **Digital Divide**: Will mobile access close gaps in developing regions?  
 - **Interoperability**: How to manage IPv6 adoption amid IPv4 legacy systems?
+
+Source: adapted from "Internet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Internet

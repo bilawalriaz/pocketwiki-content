@@ -47,3 +47,5 @@ Sofia is a major transport hub for international railway and road networks. Publ
 *   **Name Dispute:** After liberation in 1878, there was a debate over whether the new capital should be named Sofia or the Slavic Sredets. A compromise was reached, but Sofia eventually became the sole official name.
 *   **Air Pollution Management:** The effectiveness of measures to combat Sofia's severe air pollution is a subject of ongoing concern and criticism, as noted by the European Court of Auditors and the European Commission.
 *   **Urban Development:** The end of communist-era planning has led to debates about "chaotic and unrestrained construction" in the city, contrasting with the organized development of previous eras.
+
+Source: adapted from "Sofia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sofia

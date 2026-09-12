@@ -44,3 +44,5 @@ The mosque is the setting for the Hajj, one of Islam's Five Pillars, and the ʿU
 
 ## Debates and Open Questions
 Scholarly debate exists regarding the mosque's early history. Some archaeological evidence, such as a stone inscription from the Taif region, suggests the construction of the Masjid al-Haram dates to 78 AH, which challenges traditional Islamic historiography. Additionally, interpretations of Quranic verses, such as the reference to "Masjid al-Haram" in Surah Al-Isra, lead to questions about whether the term always referred to the mosque in Mecca. The significance of early mosque structures facing different directions remains a subject of debate between revisionist historians and conservatives. Furthermore, the expansion projects have sparked controversy over the destruction of early Islamic heritage sites in Mecca.
+
+Source: adapted from "Masjid al-Haram" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Masjid_al-Haram

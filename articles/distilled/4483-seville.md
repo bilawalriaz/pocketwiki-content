@@ -51,3 +51,5 @@ The city has a modern public transport network including the Seville Metro, a tr
 *   The exact date and circumstances of the city's initial Islamic conquest in 711–712 are debated, with sources indicating it was taken by Musa ibn Nusayr and then had to be retaken by his son.
 *   The establishment of the Archive of the Indies in the 18th century is interpreted by some scholars as a decisive moment marking a shift in Spain's conception of its overseas territories from equal kingdoms to colonies.
 *   The origin of the city's motto, "NO8DO" ("She has not abandoned me"), is popularly attributed to King Alfonso X but its historical verification is a matter of legend.
+
+Source: adapted from "Seville" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seville

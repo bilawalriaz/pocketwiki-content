@@ -43,3 +43,5 @@ Hyderabad's culture is a blend of North and South Indian influences, shaped by t
 - The exact origin of the city's name is debated between the historical "Haydar's City" and the legendary "Bhagya-nagar" named after Bhagmati.
 - The proposal by B. R. Ambedkar in 1955 to designate Hyderabad as India's second capital was not implemented.
 - The implementation of the CURE (Core Urban Region Economy) framework represents a current administrative approach to managing the city's rapid urbanization.
+
+Source: adapted from "Hyderabad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hyderabad

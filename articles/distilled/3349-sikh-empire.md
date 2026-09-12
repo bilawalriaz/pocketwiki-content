@@ -43,3 +43,5 @@ After Ranjit Singh's death in 1839, the empire was weakened by internal power st
 
 ## Debates and Open Questions
 The primary debate concerns the cause of the empire's rapid decline. Some historians attribute it primarily to British manipulation and internal betrayals (e.g., by Lal Singh and Tej Singh). Others, like Patwant Singh, argue the decline was due to internal factors, specifically Ranjit Singh's failure to establish a stable succession and his neglect of the Khalsa's republican traditions in favor of monarchy. The exact population and administrative divisions of the empire also vary among scholarly estimates.
+
+Source: adapted from "Sikh Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sikh_Empire

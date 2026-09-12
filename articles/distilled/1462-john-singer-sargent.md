@@ -63,3 +63,5 @@ Contemporaries hailed Sargent’s Realism—referencing Velázquez, Van Dyck, Ga
 - **Modernist dismissal vs. technical mastery**: Critics from Roger Fry to Lewis Mumford condemned Sargent as a superficial illustrator; defenders argue his *alla prima* virtuosity and subtle characterization constitute a sophisticated Realism distinct from academic convention.
 - **Expatriate identity and American canon**: Sargent’s European residence complicated his placement in American art history, especially as "authentic" socially engaged movements (Ashcan School) rose; recent exhibitions reassert his transnational significance.
 - **Thomas McKeller’s role**: The 1917–20 portrait of the African-American model, hidden until 1986, and his posing for mythological/war murals raise questions about race, power, and erasure in Sargent’s late work.
+
+Source: adapted from "John Singer Sargent" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Singer_Sargent

@@ -47,3 +47,5 @@ Somaliland is a member of the Unrepresented Nations and Peoples Organization. It
 - **International Recognition**: The core political debate is whether Somaliland will achieve widespread international recognition as a sovereign state, a status currently held only by Israel among UN members.
 - **Border Disputes**: Control over the eastern regions of Sool and Sanaag remains contested between Somaliland, the Somali federal state of Puntland, and the local SSC-Khatumo administration.
 - **Governance Model**: Scholars debate the success of Somaliland's model, which integrates traditional clan-based governance with modern democratic institutions, as a potential template for state-building in the region.
+
+Source: adapted from "Somaliland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Somaliland

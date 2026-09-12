@@ -47,3 +47,5 @@ After retiring, Kasparov focused on writing and political activism. He authored 
 - The termination of the 1984–85 World Championship match remains controversial. Some, including grandmasters and historians, have alleged FIDE President Campomanes was a KGB agent acting to prevent Karpov's defeat, a claim others dismiss.
 - Kasparov's 1997 loss to Deep Blue sparked debate about cheating and the role of human intervention in computer chess. Kasparov suggested IBM's team may have intervened between games, while IBM stated the only human input was allowed under the match rules.
 - Kasparov's support for Anatoly Fomenko's "New Chronology" theory, which posits mainstream ancient history is based on misdating, was a notable and controversial intellectual stance, though he later renounced his support for the theory while maintaining skepticism of mainstream history.
+
+Source: adapted from "Garry Kasparov" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Garry_Kasparov

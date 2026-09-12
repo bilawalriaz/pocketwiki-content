@@ -47,3 +47,5 @@ Administered by the Yangon City Development Committee (YCDC), the city is divide
 - The 1989 change of the city's English name from "Rangoon" to "Yangon" by the military junta remains contested by many Burmese and international entities, including the BBC and the UK and US governments.
 - The long-term impact of the 2021 coup and subsequent protests on Yangon's economy, social fabric, and urban development is ongoing and uncertain.
 - The effectiveness of heritage conservation efforts, like the 2012 demolition moratorium, in protecting Yangon's colonial architecture amidst development pressures is a subject of local and international concern.
+
+Source: adapted from "Yangon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yangon

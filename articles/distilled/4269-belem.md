@@ -41,3 +41,5 @@ Key attractions include the historic Ver-o-Peso market (est. 1688), the neoclass
 
 ## Debates and Open Questions
 The source does not present specific scholarly debates or open questions about Belém.
+
+Source: adapted from "Belém" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bel%C3%A9m

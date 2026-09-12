@@ -68,3 +68,5 @@ Nansen married Sigrun Munthe in 1919 (a former love interest), a union resented 
 - **Personal life:** Biographers dispute the nature of Nansen’s relationship with Kathleen Scott (wife of Robert Falcon Scott) c. 1911; Roland Huntford alleges an affair, Louisa Young rejects it.
 - **Vidkun Quisling collaboration:** Nansen’s reliance on Quisling (later a Nazi collaborator) for Armenian relief work raises ethical questions about judgment, though it occurred 15 years before Quisling’s treason.
 - **Fatherland League legacy:** Nansen’s anti-communist activism in the 1920s is viewed variously as defense of democratic order or right-wing alignment; he declined a 1926 petition to head a national unity government.
+
+Source: adapted from "Fridtjof Nansen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fridtjof_Nansen

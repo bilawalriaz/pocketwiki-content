@@ -52,3 +52,5 @@ A severe jousting accident in 1536 caused a chronic leg wound that likely contri
 *   **Motivations for the Break with Rome:** Scholars question whether Henry's primary motivation was his desire for an annulment from Catherine of Aragon, a principled stand for national sovereignty, or a combination of political, financial, and religious factors.
 *   **Henry's Personal Responsibility:** There is ongoing debate about the extent to which Henry's personal character—his tyranny, paranoia, and lust—directly caused the upheavals of his reign, versus the influence of court factions and structural forces.
 *   **Religious Settlement:** The precise nature of Henry's own faith is debated; he broke with Rome but remained theologically conservative, creating an ambiguous religious settlement that satisfied neither ardent Catholics nor Protestants.
+
+Source: adapted from "Henry VIII" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henry_VIII

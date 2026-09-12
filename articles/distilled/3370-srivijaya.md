@@ -44,3 +44,5 @@ Srivijaya's economy was a prestige goods-based system reliant on controlling mar
 - **Nature of the State**: The exact political structure is debated. Was it a centralized empire, a loose confederation of port cities, or a "thalassocratic mandala" defined by its center rather than fixed borders?
 - **Reasons for the Chola Attack**: The causes of the 1025 Chola raid are uncertain. Theories include Srivijaya obstructing Chola trade, a desire for prestige, or a pre-emptive strike related to regional alliances.
 - **Archaeological Visibility**: The lack of monumental stone architecture in Palembang, unlike in Java, has led to debates about the nature of its urban settlement, which may have been based on floating houses and impermanent structures.
+
+Source: adapted from "Srivijaya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Srivijaya

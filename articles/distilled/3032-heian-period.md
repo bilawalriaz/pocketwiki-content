@@ -41,3 +41,5 @@ The economy relied on barter and rice as a primary unit of exchange, as currency
 
 ## Debates and Open Questions
 The source notes that the *shōen* system's growth is a key factor in the decline of imperial control, but the exact mechanisms and pace of this decentralization are part of the historical narrative. The transition from court to military rule is presented as a gradual process driven by economic and social changes, with the Genpei War as the decisive turning point.
+
+Source: adapted from "Heian period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Heian_period

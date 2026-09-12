@@ -45,3 +45,5 @@ The Treaty of Paris (December 10, 1898) ceded Puerto Rico, Guam, and the Philipp
 *   **U.S. Imperialism:** The war's outcome sparked a major domestic debate over whether the U.S. should become a colonial power, with figures like Mark Twain opposing annexation of the Philippines.
 *   **USS *Maine* Sinking:** The cause of the explosion remains debated. A U.S. Navy inquiry blamed an external mine, while a Spanish investigation cited an internal accident. Later studies have reached contradictory conclusions.
 *   **Fate of the Philippines:** The U.S. decision to retain the Philippines, leading to the bloody Philippine–American War, is seen by some historians as a betrayal of the initial support for Filipino independence.
+
+Source: adapted from "Spanish–American War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War

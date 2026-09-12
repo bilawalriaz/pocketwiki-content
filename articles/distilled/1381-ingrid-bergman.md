@@ -66,3 +66,5 @@ At death, front-page obituaries worldwide praised her "innocent yet provocative 
 - **Language and performance:** Critics (Callahan, Bastién) note Bergman’s voice/accent as a "secret weapon" in English/Swedish but detect diminished creative energy in French/German roles—raising questions about linguistic embodiment in acting.
 - **Autumn Sonata as swan song:** Whether Bergman’s final film represents her greatest work (Kaufmann, *Newsweek*, *The Times*) or a fitting capstone to a career already defined by *Gaslight* and *Notorious* remains a critical touchstone.
 - **Selznick’s responsibility:** Selznick later admitted, "I'm afraid I'm responsible for the public's image of her as Saint Ingrid... I guess that backfired later," framing the scandal as a studio-created trap.
+
+Source: adapted from "Ingrid Bergman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ingrid_Bergman

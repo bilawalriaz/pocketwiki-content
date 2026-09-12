@@ -50,3 +50,5 @@ The 509th Composite Group, equipped with modified B-29 bombers, delivered the we
 - **Necessity of the bombings**: Historians debate whether the atomic bombings of Japan were militarily necessary to end the war or if alternatives, such as a demonstration or modified surrender terms, could have achieved surrender without the massive civilian casualties.
 - **Soviet espionage impact**: The extent to which espionage accelerated the Soviet atomic bomb project is debated. Some argue it saved the USSR years of research, while others contend the Soviets spent significant time verifying the stolen data.
 - **Environmental legacy**: The long-term environmental contamination from production sites like Hanford, where radioactive wastes were stored in temporary tanks that later leaked, remains a major cleanup challenge and subject of ongoing legal and political disputes.
+
+Source: adapted from "Manhattan Project" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Manhattan_Project

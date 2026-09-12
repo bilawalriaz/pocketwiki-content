@@ -37,3 +37,5 @@ British colonial rule triggered a Hindu Renaissance and reform movements such as
 ## Open Questions
 
 Four debates remain unresolved. The first concerns origins: how much of Hinduism derives from the Indus Valley Civilization versus the Indo-Aryan Vedic tradition is still contested. The second concerns intellectual influence: the direction of borrowing between early Upanishadic thought and Buddhism is unclear. The third concerns Shankara, whose prominence some scholars now attribute partly to later amplification. The fourth concerns the Muslim period, where narratives range from widespread destruction to coexistence and voluntary conversion, and the truth is probably a regional and chronological mixture of both.
+
+Source: adapted from "History of Hinduism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Hinduism

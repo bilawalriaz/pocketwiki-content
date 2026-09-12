@@ -37,3 +37,5 @@ Urban viewed the fight against Muslims in Iberia as part of the same crusading e
 *   **Urban's Motives:** Historians debate his primary goal for the Crusade: reuniting the Eastern and Western churches after the Great Schism of 1054, gaining legitimacy against the antipope, or creating a unified Christian defense against the Seljuks.
 *   **The Speech at Clermont:** The exact content of Urban's speech is unknown, as the five surviving versions were written later and differ widely. It is also disputed whether the famous slogan "God wills it" was used at the council or created later as propaganda.
 *   **Focus on Jerusalem:** Urban's own letters emphasize liberating the "Eastern churches" broadly, while later chroniclers place greater emphasis on reconquering Jerusalem itself.
+
+Source: adapted from "Pope Urban II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_Urban_II

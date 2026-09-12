@@ -38,3 +38,5 @@ The painting's fame has led to rare public exhibitions that draw massive crowds.
 
 ## Debates and Open Questions
 Scholars debate several fundamental aspects of the painting. The meaning of "Qingming" in the title is contested—it may refer to the Qingming Festival, the "peace and order" of the era, or the solar term. Some question whether the city depicted is an accurate portrayal of Kaifeng or an idealized vision. There is also disagreement about whether the painting was created before the fall of the Northern Song in 1127 or after, and whether it depicts a spring festival or an autumn scene. One allegorical interpretation suggests the painting was a subtle warning to the emperor about the fragility of prosperity.
+
+Source: adapted from "Along the River During the Qingming Festival" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Along_the_River_During_the_Qingming_Festival

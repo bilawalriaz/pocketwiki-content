@@ -22,3 +22,5 @@ The first five rulers — Nerva, Trajan, Hadrian, Antoninus Pius, and Marcus Aur
 ## The end of the dynasty
 
 Marcus Aurelius broke the adoptive pattern by passing the throne to his biological son, Commodus. The return to straightforward hereditary succession is traditionally viewed as a turning point toward instability. Commodus was murdered in 192, and the brief civil war of 193 — the Year of the Five Emperors, in which five claimants competed for the throne — produced the Severan dynasty as its successor.
+
+Source: adapted from "Nerva–Antonine dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty

@@ -34,3 +34,5 @@ Action theorists generally write their explanations causally: beliefs and desire
 Even the definition of "action" is unsettled. Should *thinking* count as an action when it is deliberate, or only bodily movements? When an action has many steps and many intended consequences, how should it be summarised or decomposed?
 
 Philosophical action theory is not the sociological *theory of social action* developed by Talcott Parsons, nor *activity theory*, which addresses a different set of questions.
+
+Source: adapted from "Action theory (philosophy)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Action_theory_%28philosophy%29

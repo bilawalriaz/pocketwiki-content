@@ -41,3 +41,5 @@ Coastal areas were populated at least 40,000 years ago. Modern activities includ
 
 ## Debates and Open questions
 The effectiveness and level of protection within the Coral Sea Marine Park are debated. The 2018 management plan reduced the area with the highest protection (IUCN category II) from 50.78% to 24%, contrary to the recommendations of the government's expert review panel. The long-term impact of the 2010 *Shen Neng 1* oil spill on reef recovery is also a concern, with estimates suggesting a 10 to 20-year recovery period.
+
+Source: adapted from "Coral Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Coral_Sea

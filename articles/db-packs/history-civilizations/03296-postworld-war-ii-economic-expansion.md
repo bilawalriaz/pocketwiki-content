@@ -28,3 +28,5 @@ The early 1970s delivered three simultaneous shocks: the breakdown of Bretton Wo
 ## What historians argue about
 
 The main open question is causation. Keynesian economists credit deliberate demand management and the welfare state. Structuralists point to reconstruction, technology catch-up, and the unique Cold War environment. Some stress "military Keynesianism" — the stabilizing effect of high military outlays. A second debate asks whether the golden age was a one-off anomaly tied to postwar conditions, or whether its policy lessons can be reproduced today.
+
+Source: adapted from "Post–World War II economic expansion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion

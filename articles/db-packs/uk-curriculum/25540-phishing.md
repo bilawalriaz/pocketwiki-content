@@ -44,3 +44,5 @@ Phishing is a form of social engineering—a manipulation technique that exploit
 **Legal layer**: The U.S. FTC filed the first phishing suit in 2004. Brazil arrested a kingpin who stole $18–37M. UK Fraud Act 2006 criminalizes phishing kit possession (up to 10 years). Microsoft filed 117 U.S. lawsuits in 2005 and 129 mixed actions by 2006. The first U.S. jury conviction under CAN-SPAM (2007) yielded a 70-month sentence.
 
 Phishing targets the human element, which technology alone cannot fully patch. As AI lowers the cost of sophistication and PhaaS commoditizes infrastructure, the gap between lure and legitimate communication narrows, making continuous vigilance and layered defense the only sustainable posture.
+
+Source: adapted from "Phishing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Phishing

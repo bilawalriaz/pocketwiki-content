@@ -19,3 +19,5 @@ Civil infrastructure scaled the same ideas. A road network served military and c
 Triumphal **arches** (the last great one, of Constantine, 312 AD) commemorated victories with sculpture and inscription; **victory columns** such as Trajan's wrapped narrative relief around a single shaft. Floors and walls were paved with **mosaics** of small stone, glass, or ceramic **tesserae**, while gardens drew on Greek and Persian precedents in both public and private settings.
 
 Vitruvius's idealised proportions describe how Romans *should* have built, not always how they did; practice was variable. The word *insula* ambiguously named both the apartment block and the city block it stood on, complicating social interpretation. The triumphal arch's origin is itself uncertain, with plausible Etruscan and Greek precursors rather than a single inventor.
+
+Source: adapted from "Ancient Roman architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Roman_architecture

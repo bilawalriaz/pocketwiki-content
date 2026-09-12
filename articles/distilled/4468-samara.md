@@ -40,3 +40,5 @@ Samara is a top Russian city for industrial production, known for aerospace (Pro
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes the etymology of "Samara" is a likely interpretation ("summer water") from an ancient language. The city's historical significance is framed by its strategic location and its evolving role from a frontier fortress to a closed Soviet industrial center and a modern open metropolis.
+
+Source: adapted from "Samara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samara

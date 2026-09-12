@@ -47,3 +47,5 @@ Recent sociology has focused on globalization, risk society (Ulrich Beck), and s
 - **Structure vs. Agency**: A persistent question is the extent to which social structures determine individual behavior versus the capacity of individuals to act freely (agency).
 - **Canon Formation**: The "canon" of classical sociologists (Durkheim, Marx, Weber) is debated, with arguments for greater inclusion of figures like Harriet Martineau, W.E.B. Du Bois, and feminist theorists.
 - **Disciplinary Boundaries**: Sociology's relationship with other social sciences and its autonomy from applied social research methods remain topics of discussion.
+
+Source: adapted from "History of sociology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_sociology

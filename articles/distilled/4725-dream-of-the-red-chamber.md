@@ -42,3 +42,5 @@ Initially criticized by reformers like Liang Qichao, the novel was elevated by s
 - **Authorship of the last 40 chapters**: The primary debate is whether Cao Xueqin wrote them and Gao E merely edited them, or if Gao E (or another author) composed them entirely. Evidence from foreshadowing, stylistic analysis, and the discovery of early manuscripts is used on all sides.
 - **Cao Xueqin's original ending**: Scholars use annotations in the rouge versions and internal clues in the first 80 chapters to speculate on the fates of characters and the family's decline as Cao originally intended.
 - **Interpretive frameworks**: The novel has been interpreted through Marxist critiques of feudal society, feminist analyses of gender roles, and philosophical readings of its Buddhist and Taoist themes, with ongoing scholarly discussion about which lens best captures its complexity.
+
+Source: adapted from "Dream of the Red Chamber" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber

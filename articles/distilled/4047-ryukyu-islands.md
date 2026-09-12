@@ -47,3 +47,5 @@ Following World War II, the islands were administered by the United States. The 
 - The precise location of the Watase Line biogeographic boundary within the Tokara Islands is disputed.
 - There is ongoing discussion about the identity of Ryukyuans, their relationship to mainland Japanese (Yamato), and issues of discrimination and potential secession.
 - China has periodically questioned Japanese sovereignty over the Ryukyus, particularly in the context of the Senkaku Islands dispute.
+
+Source: adapted from "Ryukyu Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ryukyu_Islands

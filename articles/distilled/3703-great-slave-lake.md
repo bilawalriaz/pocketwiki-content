@@ -35,3 +35,5 @@ Towns around the lake include Yellowknife (the NWT capital), Hay River, and Łut
 
 ## Debates and open questions
 The primary debate concerns the lake's name. Educator Dëneze Nakehk'o and others argue the name "Great Slave Lake" is offensive and unfitting, advocating for its restoration to an Indigenous name like Tu Nedhé or Tucho. This is part of a broader movement in the late 2010s to rename places in the Northwest Territories to their original Indigenous names.
+
+Source: adapted from "Great Slave Lake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Slave_Lake

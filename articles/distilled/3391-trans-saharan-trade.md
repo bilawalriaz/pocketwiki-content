@@ -45,3 +45,5 @@ The trans-Saharan trade declined due to several factors. Portuguese exploration 
 - The scale of the slave trade in the Roman era is debated; some historians argue it may have been higher than in medieval times due to high Roman demand.
 - The theory that the Garamantes used chariot routes for trade is contested, as no horse skeletons from the period have been found and chariots had low trade capacity.
 - The exact number of people enslaved via trans-Saharan routes is challenging to estimate, with modern figures relying on historical averages and projections.
+
+Source: adapted from "Trans-Saharan trade" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Trans-Saharan_trade

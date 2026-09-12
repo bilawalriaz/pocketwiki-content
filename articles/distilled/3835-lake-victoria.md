@@ -43,3 +43,5 @@ The lake faces severe environmental pressures. The introduction of the Nile perc
 - The exact origin of the first Nile perch introductions to Lake Victoria in the 1950s is disputed, with circumstantial evidence pointing to the Uganda Game and Fisheries Department, which has denied involvement.
 - The ultimate source of the Nile River is debated; while Lake Victoria is the principal source of the White Nile, the most distal source is considered to be a tributary of the Kagera River in Rwanda or Burundi.
 - The overall ecological impact of the water hyacinth invasion is complex and not fully understood, as the plant's mats can also create refuges for some fish from overfishing.
+
+Source: adapted from "Lake Victoria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Victoria

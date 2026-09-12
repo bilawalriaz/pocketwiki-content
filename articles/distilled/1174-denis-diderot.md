@@ -52,3 +52,5 @@ Diderot died of pulmonary thrombosis on 31 July 1784, buried at Église Saint-Ro
 
 ## Terms
 - **Term** —
+
+Source: adapted from "Denis Diderot" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Denis_Diderot

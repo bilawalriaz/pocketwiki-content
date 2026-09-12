@@ -42,3 +42,5 @@ The boundary between architect and architectural engineer is drawn differently a
 ## Education and integration
 
 Architectural engineering education, like older engineering branches, normally culminates in a university degree. Some programs specialise in one system (structural, mechanical, or electrical); others offer a generalist building-engineering curriculum. The defining trait of the discipline is multi-disciplinary integration: the same student studies structural analysis, thermodynamics, electrical power, acoustics, and architectural design, so they can reason about how those systems interact within a single building rather than designing each in isolation.
+
+Source: adapted from "Architectural engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Architectural_engineering

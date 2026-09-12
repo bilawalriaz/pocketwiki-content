@@ -27,3 +27,5 @@ Two other crops illustrate how appearance, not just yield, drives value. Florida
 ## Ornamental plants
 
 Ornamentals are also economic crops, sold to homeowners, offices, and landscaping firms. Carnations are valued for colour, size, fragrance, and vase life, but they only thrive around 10–15 °C, which is why greenhouse production is standard in warm regions. Crape myrtles, imported from southern Asia more than 180 years ago, now number over 35 cultivated varieties and dominate landscaping in the southern United States, partly because they tolerate a wide range of conditions and can serve as trap hosts for pests.
+
+Source: adapted from "Economic botany" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economic_botany

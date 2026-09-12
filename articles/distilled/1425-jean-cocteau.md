@@ -65,3 +65,5 @@ Cocteau suffered a severe heart attack in April 1963. His health declined furthe
 - **Wartime collaboration**: The extent of Cocteau’s complicity remains contested. He praised Nazi sculptor Arno Breker and attended German-hosted salons, yet signed anti-antisemitism petitions, attempted to save Jewish friends, and claimed his "politics are non-existent." He was officially cleared but critically tainted.
 - **Surrealist rejection of *The Blood of a Poet***: The Surrealist movement, led by André Breton, rejected Cocteau’s first film as insufficiently surrealist, highlighting tensions between Cocteau’s aestheticized myth-making and Surrealism’s revolutionary automatism.
 - **Cause of final decline**: Biographers dispute whether Cocteau’s fatal heart attack resulted from grief over Édith Piaf’s death (apocryphal), long-term health deterioration, or the emotional rupture with patron Francine Weisweiller.
+
+Source: adapted from "Jean Cocteau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean_Cocteau

@@ -41,3 +41,5 @@ Modern economic activities include fishing, oil and natural gas extraction, shee
 ## Debates and open questions
 *   **Southernmost City:** Both Ushuaia, Argentina, and Puerto Williams, Chile, claim the title of "southernmost city in the world."
 *   **Sovereignty Disputes:** The 1960s and 1970s saw sovereignty claims by Argentina over the Picton, Lennox, and Nueva Islands, bringing the two countries to the brink of war.
+
+Source: adapted from "Tierra del Fuego" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tierra_del_Fuego

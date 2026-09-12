@@ -47,3 +47,5 @@ The Khazars' native religion was likely Tengrism, a Turkic shamanistic faith cen
 *   **Jewish Conversion:** Scholars debate the exact date (c. 740–920 CE), the depth of conversion among the general population, and whether it was a strategic political move or a genuine mass religious shift.
 *   **The "Khazar-Ashkenazi" Hypothesis:** A highly contested theory suggests that Ashkenazi Jews are primarily descended from Khazar converts. Most genetic and historical studies do not support this, viewing any Khazar contribution as minor. The theory is sometimes associated with antisemitic polemics.
 *   **Legacy and Descendants:** Claims of Khazar ancestry are made by various groups (e.g., some Crimean Karaites, Kumyks, and Cossacks), but these connections are generally viewed with skepticism by specialists.
+
+Source: adapted from "Khazars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khazars

@@ -42,3 +42,5 @@ The war was a proxy conflict. The UK and Soviet Union backed Nigeria to protect 
 - **Responsibility for the Famine**: While the Nigerian government's blockade was the primary cause, debates exist about the extent to which Biafran authorities also mismanaged resources and used the famine for propaganda.
 - **Impact of Foreign Intervention**: The decisive role of British military support for Nigeria is widely acknowledged, but the scale and effectiveness of French and other support for Biafra remain debated.
 - **Legacy of Marginalization**: There is ongoing debate about the extent to which the Igbo remain politically and economically marginalized in post-war Nigeria, and whether this constitutes a continuation of wartime persecution by other means.
+
+Source: adapted from "Nigerian Civil War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nigerian_Civil_War

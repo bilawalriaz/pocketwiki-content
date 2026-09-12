@@ -44,3 +44,5 @@ In its final decades, reformers attempted to modernize the state. The Constituti
 - The degree to which the Commonwealth's political system was a true democracy versus an oligarchy of the nobility is debated, given that only the szlachta had political rights.
 - Historians debate the primary causes of the Commonwealth's decline, weighing factors like the liberum veto's political paralysis, magnate selfishness, foreign interference, and social tensions.
 - The legacy of the Commonwealth is viewed differently in modern Poland and Lithuania; for Poland, it is often a source of national pride, while in Lithuania, its historical perception has been more ambivalent, though this is changing.
+
+Source: adapted from "Polish–Lithuanian Commonwealth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth

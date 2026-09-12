@@ -39,3 +39,5 @@ A sharper form bounds the Jensen gap by variance. For a twice-differentiable $\v
 $$\sigma^2 \inf \frac{\varphi''(x)}{2} \leq \mathbb{E}[\varphi(X)] - \varphi(\mathbb{E}[X]) \leq \sigma^2 \sup \frac{\varphi''(x)}{2}$$
 
 so when $\varphi$ is convex, $\varphi'' \geq 0$, and the standard inequality follows.
+
+Source: adapted from "Jensen's inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jensen%27s_inequality

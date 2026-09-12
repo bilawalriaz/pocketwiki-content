@@ -31,3 +31,5 @@ Jurisdictions set the forms of ownership a business can take and the rules for c
 ## Exploitation of Labour and Trade Unions
 
 Some businesses lobby for immigration of foreign workers who accept lower salaries than domestic workers. A **trade union** is an organization of workers who unite to protect their trade, improve safety, and win higher pay, benefits, and better working conditions. Union leadership bargains with employers on behalf of members and negotiates labor contracts through **collective bargaining**, covering wages, work rules, complaint procedures, hiring and firing rules, benefits, and workplace safety.
+
+Source: adapted from "Business" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Business

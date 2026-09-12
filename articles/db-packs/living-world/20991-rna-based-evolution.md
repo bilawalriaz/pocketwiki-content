@@ -31,3 +31,5 @@ RNA processing events work together in networks that let a single genotype produ
 ## RNA virus evolution
 
 RNA viruses evolve quickly because their replication lacks a proofreading mechanism (an enzyme check that corrects copying errors), so mutations accumulate at a high rate. Genetic recombination adds a second source of change: when two viral genomes share a host cell, they can swap segments. Recombination is a major driver in the Picornaviridae (positive-sense single-stranded RNA viruses such as poliovirus), and strand switching during reverse transcription protects the Retroviridae (such as HIV) from genome damage. Recombination also occurs in the Coronaviridae (such as SARS), and it generally looks like an adaptation for coping with genome damage. When divergent animal viruses of the same species recombine, the offspring can occasionally jump into human hosts and start new outbreaks.
+
+Source: adapted from "RNA-based evolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/RNA-based_evolution

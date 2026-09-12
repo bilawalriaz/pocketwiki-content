@@ -62,3 +62,5 @@ A branch of artificial intelligence constructing systems that learn from data (e
 - **Adult learning deficits**: Whether age-related learning decline is inherent (neurobiological: fewer silent synapses, GABA dynamics) or situational (time, support, motivation, environment) is contested.
 - **Transfer promotion**: Despite long history, the precise instructional conditions reliably producing far transfer remain elusive; debate continues on "hugging" vs. "bridging" efficacy.
 - **Evolutionary model standardization**: Inconsistent definitions of "ecological change" in models of learning evolution hinder theory-empirical links.
+
+Source: adapted from "Learning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Learning

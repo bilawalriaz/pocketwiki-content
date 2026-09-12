@@ -41,3 +41,5 @@ The *Anabasis* is traditionally one of the first unabridged Greek texts studied 
 - **Authorship**: While Xenophon is the accepted author, the ancient attribution to "Themistogenes of Syracuse" and Xenophon's own reference to this name in the *Hellenica* have fueled long-standing scholarly debate about pseudonymity and literary self-presentation.
 - **Historical Accuracy**: Scholars debate the precise chronology and details of the march, as well as the degree to which Xenophon's account may be shaped by literary conventions or personal justification.
 - **Philosophical Interpretation**: There is discussion about the extent to which the *Anabasis* is a vehicle for Socratic political philosophy, with the army's organization and Xenophon's leadership presented as practical applications of Socratic principles.
+
+Source: adapted from "Anabasis (Xenophon)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anabasis_%28Xenophon%29

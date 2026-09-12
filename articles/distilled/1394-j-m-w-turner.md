@@ -75,3 +75,5 @@ Turner bequeathed ~300 oils, 30,000 works on paper, 280 sketchbooks, and a cash 
 - **Cause of stylistic radicalism:** Critics then and now debate whether his late style stemmed from failing eyesight (cataracts), deliberate theoretical innovation, or the influence of contemporary science (Goethe's colour theory, volcanic sunsets).
 - **Attribution of *Liber Studiorum* plates:** Distinguishing Turner's own etching/mezzotint work from that of his hired engravers (e.g., Charles Turner, William Say) remains a technical connoisseurship challenge.
 - **Conservation vs. access:** Henry Vaughan's 1899 stipulation (display only in January) set an early conservation standard; modern museums balance this against public demand for year-round viewing of light-sensitive watercolours.
+
+Source: adapted from "J. M. W. Turner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/J._M._W._Turner

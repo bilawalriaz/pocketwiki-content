@@ -43,3 +43,5 @@ The Hussite Wars began in 1419 after the First Defenestration of Prague, followi
 - **Birth Year**: The exact date is unknown. The c. 1360 estimate comes from a 1378 document, but some historians argue this could refer to his father, as it would make Žižka unusually old for his later military career.
 - **Cause of Death**: Traditional accounts cited plague, but modern historians rule this out. Arsenic poisoning was also disproven by examining skeletal remains; a carbuncle is now the most likely cause.
 - **Early Career**: The 20-year gap in records (c. 1384–1406) is assumed to be spent as a mercenary, but concrete evidence is lacking.
+
+Source: adapted from "Jan Žižka" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jan_%C5%BDi%C5%BEka

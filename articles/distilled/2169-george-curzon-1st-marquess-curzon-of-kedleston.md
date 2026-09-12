@@ -44,3 +44,5 @@ Curzon's first wife, Mary Leiter, died in 1906, a profound personal loss. He lat
 *   **Assessment of his Viceroyalty:** Historians debate whether Curzon was a progressive reformer who cared for Indian welfare or a staunch imperialist whose policies (like the Partition) ultimately strengthened the independence movement.
 *   **Reasons for being passed over for PM:** Scholars analyze whether the 1923 decision was primarily due to constitutional convention (a peer not leading the Commons), personal animosity from figures like Balfour, or Curzon's own unpopular character.
 *   **Effectiveness as Foreign Secretary:** There is debate over how much his Middle Eastern policies, particularly regarding Palestine, sowed the seeds for future conflict, and whether his influence was constrained by Lloyd George.
+
+Source: adapted from "George Curzon, 1st Marquess Curzon of Kedleston" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_Curzon%2C_1st_Marquess_Curzon_of_Kedleston

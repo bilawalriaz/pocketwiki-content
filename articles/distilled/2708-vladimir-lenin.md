@@ -48,3 +48,5 @@ Lenin was a devout Marxist whose ideas, termed Leninism, emphasized the role of 
 - **Continuity with Stalinism**: A major scholarly debate concerns whether Stalinism was a natural continuation of Leninist principles or a fundamental betrayal of them. Traditionalists see continuity, while revisionists emphasize a rupture.
 - **Role of Violence**: Scholars analyze whether Lenin's endorsement of revolutionary violence was a pragmatic necessity for survival or an intrinsic part of his ideology, and how it paved the way for later mass repression.
 - **Legacy and Cult of Personality**: The development of the Lenin cult, contrary to his own stated wishes, and its function in legitimizing Soviet power remains a subject of study, as does his enduring symbolic legacy in post-Soviet states.
+
+Source: adapted from "Vladimir Lenin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vladimir_Lenin

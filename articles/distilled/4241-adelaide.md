@@ -57,3 +57,5 @@ Adelaide is a strategic transport hub with a metropolitan public transport syste
 *   The location chosen by Colonel Light for the city was initially unpopular with settlers and the first governor due to its distance from the harbour and lack of fresh water.
 *   The privatisation of the state's electricity assets in 1999 was highly controversial and has been deemed a failure by some, leading to South Australia having the highest retail electricity prices in the country.
 *   The proposed merger of the University of Adelaide and the University of South Australia failed in 2018 over issues of naming and leadership, though a successful merger was later announced in 2022.
+
+Source: adapted from "Adelaide" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Adelaide

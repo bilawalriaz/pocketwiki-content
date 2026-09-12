@@ -45,3 +45,5 @@ The membrane is also the cell's communication hub. Surface receptors bind signal
 ## Permeability
 
 The permeability of a membrane depends mainly on a molecule's charge and polarity, and to a lesser extent its size. Because the bilayer's interior is hydrophobic, small neutral molecules cross easily, while charged ions are blocked unless a channel or pump carries them. This selective barrier is what allows a cell to maintain its internal chemistry, hold a voltage across its surface, and respond to its environment.
+
+Source: adapted from "Cell membrane" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cell_membrane

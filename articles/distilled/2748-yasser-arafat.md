@@ -45,3 +45,5 @@ As PA President, Arafat established a centralized authority, appointing official
 - **Role in Terrorism**: Arafat's relationship with militant groups is debated. He was accused of sanctioning attacks like the Munich Olympics massacre (1972) and funding the al-Aqsa Martyrs' Brigades. He denied direct involvement in many incidents but was held responsible by Israel as the PLO leader.
 - **Financial Legacy**: Assessments of his financial management vary. Critics, including Palestinian officials, accuse him of massive corruption and diverting public funds. Others, like the IMF, state that while he controlled large sums, the money was largely invested in Palestinian assets.
 - **Negotiator or Obstacle?**: Opinions differ on whether Arafat was a genuine partner for peace who made historic compromises or an intransigent leader who missed opportunities for statehood, particularly at the 2000 Camp David Summit.
+
+Source: adapted from "Yasser Arafat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yasser_Arafat

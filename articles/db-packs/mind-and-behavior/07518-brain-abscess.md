@@ -51,3 +51,5 @@ CT-guided stereotactic aspiration is the standard surgical technique.
 ## Outcome
 
 Death occurs in about 10% of cases and roughly 70% of patients recover well, a substantial improvement over the 1960s driven by better brain imaging, more effective neurosurgery, and more effective antibiotics.
+
+Source: adapted from "Brain abscess" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brain_abscess

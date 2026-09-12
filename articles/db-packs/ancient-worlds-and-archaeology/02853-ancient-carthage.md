@@ -43,3 +43,5 @@ After 146 BC no Phoenician state remained politically independent, and Rome abso
 ## Open questions
 
 Three issues remain unresolved. First, the tophets: ritual child sacrifice, mass infant death, or some mixture. Second, the degree of direct rule Carthage exercised over its empire, which most scholars now treat as a hegemonic network of treaties and tribute (an empire held together by local allies and payment rather than governors) rather than a centrally administered state. Third, who counted as a citizen, and what political rights subject peoples, including Libyans, actually held.
+
+Source: adapted from "Ancient Carthage" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Carthage

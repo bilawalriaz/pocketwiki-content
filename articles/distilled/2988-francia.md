@@ -46,3 +46,5 @@ After Charlemagne's death, his empire was divided among his grandsons by the Tre
 *   **Unity vs. Duality:** Historians debate whether the Merovingian realm was a unified kingdom that was merely partitioned, or a "Frankish duality" of two competing entities (Neustria and Austrasia).
 *   **Edict of Paris (614):** Scholars disagree on whether this edict was a major concession to the nobility (like a "Frankish Magna Carta") or primarily an anti-corruption measure.
 *   **Coronation of Charlemagne:** The exact nature of the Byzantine recognition of Charlemagne's imperial title in 812 is debated—whether he was acknowledged as co-emperor or simply as "emperor" (*basileus*) without the Roman title.
+
+Source: adapted from "Francia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Francia

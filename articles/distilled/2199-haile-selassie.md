@@ -47,3 +47,5 @@ The Rastafari movement, which emerged in Jamaica in the 1930s, regards Selassie 
 - The extent of Selassie's personal responsibility for and awareness of the 1972–74 Wollo famine is debated, with accounts varying on whether he was deliberately kept uninformed or willfully ignored it.
 - Scholars debate the effectiveness of his modernization policies, noting that reforms were often compromised by the need to appease the traditional nobility and clergy, slowing social and economic change.
 - Within the Rastafari movement, there is ongoing debate about whether Selassie actually died in 1975, with some rejecting the official account of his murder.
+
+Source: adapted from "Haile Selassie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Haile_Selassie

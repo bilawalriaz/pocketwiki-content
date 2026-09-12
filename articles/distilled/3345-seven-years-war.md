@@ -43,3 +43,5 @@ Britain's strategy, championed by William Pitt, focused on using naval power to 
 - The impact of the Diplomatic Revolution is analyzed as either a direct cause of the war or a framework that made a general conflict more likely.
 - The long-term consequences for Britain are contested: did the war's costs and the subsequent need to tax American colonies directly lead to the American Revolution?
 - The role of logistics, particularly Russia's chronic supply problems, is seen by historians as a key factor that prevented a decisive Prussian defeat despite multiple battlefield losses.
+
+Source: adapted from "Seven Years' War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seven_Years%27_War

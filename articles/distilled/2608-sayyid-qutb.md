@@ -38,3 +38,5 @@ Qutb's mature philosophy demanded the total implementation of *sharia* as the so
 - **Interpretation of *Milestones***: There is significant disagreement over whether Qutb's call for a vanguard and jihad was a literal blueprint for violent revolution or a more metaphorical call for spiritual and social reform.
 - **Theological Legitimacy**: Mainstream Sunni scholars, such as those at Al-Azhar, have declared Qutb's ideas heretical (*deviant*), particularly his sweeping *takfir* of Muslim societies and his rejection of centuries of Islamic scholarship.
 - **Influence vs. Distortion**: Some scholars, like John Calvert, argue that the association of Qutb solely with al-Qaeda and terrorism "monopolizes and distorts" his broader contribution to Islamic political thought and social criticism.
+
+Source: adapted from "Sayyid Qutb" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sayyid_Qutb

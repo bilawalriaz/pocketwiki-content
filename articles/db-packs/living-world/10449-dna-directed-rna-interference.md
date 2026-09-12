@@ -39,3 +39,5 @@ Innate immune activation by siRNAs. Some siRNAs trigger toll-like receptors (TLR
 Toxicity from shRNA overexpression. Pushing shRNA production too high saturates the endogenous RNAi machinery, which can disrupt the cell's own microRNA pathways and cause liver damage or death. Strategies to control this include using weaker or inducible promoters and engineering shRNAs that Dicer processes more precisely.
 
 Off-target silencing. Any shRNA with partial complementarity to other transcripts can knock down unintended genes, with unpredictable effects. Careful sequence selection and preclinical screening reduce but do not eliminate this risk.
+
+Source: adapted from "DNA-directed RNA interference" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/DNA-directed_RNA_interference

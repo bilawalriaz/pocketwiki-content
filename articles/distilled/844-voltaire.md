@@ -50,3 +50,5 @@ Voltaire’s extensive corpus includes plays, poems, novels, histories, and phil
 
 ## Debates and Open Questions
 Scholars debate the extent of Voltaire’s anti-Semitism, with some arguing his criticisms were aimed at religious orthodoxy rather than Jews themselves. His complex relationship with Frederick the Great remains a subject of analysis, particularly regarding their reconciliation after years of estrangement. Additionally, debates persist over whether his advocacy for civil liberties extended fully to all marginalized groups, given his controversial views on race and non-Christian religions.
+
+Source: adapted from "Voltaire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Voltaire

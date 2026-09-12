@@ -44,3 +44,5 @@ After the Qin dynasty’s rapid fall (206 BC), the Han dynasty officially condem
 - **Historicity of Sima Qian’s narrative:** Scholars dispute whether Qin Shi Huang actually sought Han Fei personally, whether Li Si orchestrated the suicide out of jealousy, or whether Han Fei died in a routine diplomatic incident (per the *Stratagems*).
 - **Han Fei vs. Xunzi:** Did Han Fei radically break from his teacher Xunzi (who advocated moral cultivation), or does his "amoral administration" represent a logical, pragmatic extension of Xunzi’s "human nature is bad" premise?
 - **Qin’s implementation:** To what degree did the Qin state actually implement Han Fei’s *shu* (technique) versus relying solely on Shang Yang’s harsh *fa* (law)? The speed of Qin’s collapse suggests the *shu* component—restraining the ruler’s own whims—was neglected.
+
+Source: adapted from "Han Fei" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Han_Fei

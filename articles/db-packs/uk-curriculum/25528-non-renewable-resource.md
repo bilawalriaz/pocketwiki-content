@@ -37,3 +37,5 @@ In economics, a non-renewable resource is a good whose greater consumption today
 ## Current trajectory
 
 The fossil fuel economy remains dominant but faces converging pressures: physical depletion, rising extraction costs, climate policy, and competition from renewable energy. Investment capital has shifted toward solar, wind, hydro, geothermal, and biomass, driving commercialization and infrastructure conversion. As non-renewable stocks decline, their marginal cost rises, making alternatives economically inevitable.
+
+Source: adapted from "Non-renewable resource" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Non-renewable_resource

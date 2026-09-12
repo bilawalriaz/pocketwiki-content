@@ -45,3 +45,5 @@ Modern methods include aseptic processing, vacuum packing, freeze drying, preser
 - **Safety vs. quality in canning**: Underprocessing risks *C. botulinum* contamination, while overprocessing degrades nutritional value and texture.
 - **Regulatory variation in irradiation**: Global policies range from no regulation to full bans, reflecting differing risk assessments.
 - **Efficacy of PEF and HP**: These emerging technologies show promise but face limitations in cost, throughput, and standardization.
+
+Source: adapted from "Food preservation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Food_preservation

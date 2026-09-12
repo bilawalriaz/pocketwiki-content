@@ -66,3 +66,5 @@ Fellow Nobel Laureate Bernard Shaw cited Mommsen's interpretation of Julius Caes
 ## Debates and Open Questions
 
 The source notes that Mommsen never wrote the intended fourth volume of his *History of Rome*, meant to be a general account of imperial Rome; a makeshift reconstruction from student lecture notes was published posthumously. His militant German nationalism and advocacy of violence against Slavic peoples, particularly his 1897 remarks about Czechs, stand in tension with his opposition to antisemitism and remain a subject of scholarly consideration regarding the complexity of his political legacy.
+
+Source: adapted from "Theodor Mommsen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theodor_Mommsen

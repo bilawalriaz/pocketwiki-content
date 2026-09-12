@@ -43,3 +43,5 @@ A 2025 genetic study of a high-status Old Kingdom individual (c. 2855–2570 BC)
 - The exact cause of the Old Kingdom's collapse is debated, with factors including internal political fragmentation, drought, and famine.
 - The attribution of the Great Sphinx of Giza is uncertain; traditional thinking credits Khafre, but some evidence suggests it was commissioned by Djedefre as a monument to his father Khufu.
 - The inclusion of the Seventh and Eighth Dynasties as a continuation of the Old Kingdom is a matter of Egyptological debate.
+
+Source: adapted from "Old Kingdom of Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt

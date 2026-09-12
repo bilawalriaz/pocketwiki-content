@@ -87,3 +87,5 @@ Pre-Experience recordings (controlled by Ed Chalpin/PPX) released as hundreds of
 - ****Fuzz Distortion / Fuzz Face**** — An effects pedal that clips the guitar signal to create a thick, saturated, "broken" tone; a staple of Hendrix's sound (e.g., "Purple Haze" solo).
 - ****Octavia**** — An octave-doubling effect pedal designed by Roger Mayer; mixes the original signal with a version one octave higher, creating a ringing, synthetic texture.
 - ****Uni-Vibe** —
+
+Source: adapted from "Jimi Hendrix" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jimi_Hendrix

@@ -44,3 +44,5 @@ Jacob Bernoulli isolated the constant in 1683 by asking what happens to compound
 ## Open questions
 
 It is conjectured that *e* is a *normal number* (digits uniformly distributed in every base), and that *e* is *not* a *period* (an integral of an algebraic function over an algebraic region), unlike π. Whether *e* and π are algebraically independent follows from Schanuel's conjecture, which remains unproven.
+
+Source: adapted from "E (mathematical constant)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/E_%28mathematical_constant%29

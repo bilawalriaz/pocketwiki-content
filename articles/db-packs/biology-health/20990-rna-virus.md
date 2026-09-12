@@ -29,3 +29,5 @@ When two RNA virus genomes infect the same cell, they can exchange segments. Rec
 ICTV recognises five orders and forty-seven families of RNA viruses, plus many unassigned species. Phylogenetic analyses of RNA-dependent RNA polymerases divide positive-sense RNA viruses into picorna-like, flavi-like, and alpha-like supergroups. Negative-sense RNA viruses appear to have originated in arthropods. Viroids and satellite nucleic acids, including hepatitis D (Deltavirus), are related RNA agents but are not RNA viruses; they were briefly placed in Riboviria in 2019 by clerical error and removed in 2020.
 
 Major families include Coronaviridae (SARS-CoV-1, SARS-CoV-2, MERS-CoV), Flaviviridae (yellow fever, West Nile, dengue, Zika, hepatitis C), Picornaviridae (poliovirus, rhinovirus, hepatitis A), Paramyxoviridae (measles, mumps, Nipah, Hendra), Filoviridae (Ebola, Marburg), and Rhabdoviridae (rabies).
+
+Source: adapted from "RNA virus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/RNA_virus

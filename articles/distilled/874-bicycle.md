@@ -94,3 +94,5 @@ The 1968 Vienna Convention classifies bicycles as vehicles, requiring roadworthi
 - **Material preferences**: Carbon fiber dominates professional racing for its strength-to-weight ratio, but aluminum and steel remain popular for durability and cost.
 - **Production centralization**: Over 60% of global bicycle production is concentrated in China, raising questions about sustainability, labor conditions, and local industry viability.
 - **Environmental trade-offs**: While bicycles are eco-friendly in use, the carbon footprint of e-bikes and the pollution from tire wear are growing concerns.
+
+Source: adapted from "Bicycle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bicycle

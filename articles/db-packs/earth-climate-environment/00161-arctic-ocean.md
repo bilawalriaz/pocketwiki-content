@@ -33,3 +33,5 @@ European knowledge was largely speculative until modern times. In 325 BC, Pythea
 ## Why the changes matter
 
 Loss of bright sea ice lowers the surface albedo, so the ocean absorbs more sunlight and warms further, melting more ice. Fresh meltwater pouring into the North Atlantic can weaken the density-driven currents that redistribute heat globally. Warming can destabilise methane clathrates, frozen methane deposits that release a greenhouse gas far more potent than carbon dioxide over short timescales. Reduced ice has pushed polar bears into settlements, prompting a state of emergency on Novaya Zemlya in December 2018–February 2019.
+
+Source: adapted from "Arctic Ocean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arctic_Ocean

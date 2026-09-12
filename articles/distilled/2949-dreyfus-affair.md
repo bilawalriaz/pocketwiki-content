@@ -38,3 +38,5 @@ Following the exposure of the forgery and the suicide of its author, Major Henry
 *   **The Secret Dossier:** The exact contents and purpose of the secret file illegally submitted to the 1894 judges remain debated. Recent research suggests it included homosexual correspondence between German and Italian attachés, which may have been used to inflate the scandal.
 *   **Military vs. Civilian Justice:** The affair exposed deep tensions between the autonomous, honor-bound culture of the French Army and the principles of civilian republican justice, a conflict that shaped French civil-military relations for decades.
 *   **Herzl and Zionism:** The extent to which the Dreyfus Affair directly inspired Theodor Herzl to found modern political Zionism is debated; some scholars argue he may have exaggerated its personal impact, though it undeniably provided a powerful catalyst.
+
+Source: adapted from "Dreyfus affair" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dreyfus_affair

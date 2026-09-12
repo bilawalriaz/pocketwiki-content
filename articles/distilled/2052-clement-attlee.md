@@ -51,3 +51,5 @@ After a narrow defeat in 1951, Attlee led the opposition until 1955. He was crea
 - **Economic Success:** Historians debate whether the Attlee government's economic management was a success. While it maintained full employment and oversaw growth, critics point to persistent austerity, balance of payments crises, and the argument that it failed to modernise British industry as effectively as other European nations.
 - **Decolonisation:** The speed and manner of decolonisation, particularly the Partition of India, which led to massive violence and displacement, remain subjects of intense historical scrutiny and debate regarding the government's responsibility and planning.
 - **Nuclear Weapons:** The decision to develop an independent British nuclear deterrent was made secretly and caused a significant split within the Labour Party, raising questions about democratic accountability and the party's socialist principles.
+
+Source: adapted from "Clement Attlee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clement_Attlee

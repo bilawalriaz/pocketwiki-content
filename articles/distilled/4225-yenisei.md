@@ -42,3 +42,5 @@ The river suffers from radioactive contamination from the former plutonium produ
 
 ## Debates and Open Questions
 The precise etymology of "Yenisei" remains unclear and debated. While several linguistic proposals exist, such as derivation from Samoyed or Turkic words, researchers note that many are speculative and not supported by reliable contemporary linguistic sources.
+
+Source: adapted from "Yenisei" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yenisei

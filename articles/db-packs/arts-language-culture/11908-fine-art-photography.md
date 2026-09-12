@@ -35,3 +35,5 @@ The boundary between fine-art and fashion photography blurred during the 1990s. 
 Until the mid-1950s it was considered vulgar to frame photographs for galleries; prints were pasted to blockboard or pinned at the corners, as in Steichen's *The Family of Man* and Bill Brandt's 1966 MoMA show. From the mid-1950s to about 2000 most gallery prints were shown behind glass; since about 2000 the trend has shifted back toward unglassed prints on boards, and throughout the twentieth century print sizes grew substantially.
 
 Fine-art photography has had political effects as a byproduct of its aesthetic aims. Ansel Adams's images of Yosemite and Yellowstone helped build public support for protecting the Sierra Nevada, and work centred on the nude has intersected with censorship law and free-expression debates.
+
+Source: adapted from "Fine-art photography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fine-art_photography

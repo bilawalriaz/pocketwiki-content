@@ -43,3 +43,5 @@ Padmasambhava is iconographically depicted with one face and two hands, wearing 
 *   **Historical Authenticity**: While earlier Tibetologists questioned his historicity, modern scholarship "cautiously accepts" him as a historical figure based on early sources and physical evidence like rock inscriptions.
 *   **Evolution of the Mythos**: Scholars debate the extent to which the later, elaborate hagiographies (from the 12th century onward) reflect historical events versus theological and cultural developments.
 *   **Authorship of Texts**: The attribution of specific tantric texts to Padmasambhava is a subject of scholarly analysis, with some works being more likely than others based on early citations.
+
+Source: adapted from "Padmasambhava" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Padmasambhava

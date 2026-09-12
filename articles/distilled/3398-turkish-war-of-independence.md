@@ -43,3 +43,5 @@ The military victory led to the abolition of the Ottoman sultanate in November 1
 - **Nature of the Conflict**: Some scholars, like Mesut Uyar, argue the war also constituted a civil war within Anatolia between different factions, a aspect often downplayed in official narratives.
 - **Ethnic Cleansing**: The war's role in the final destruction of historic Christian communities in Anatolia (Armenian, Greek, Assyrian) through massacres, deportations, and population exchange is a major point of historical and political contention.
 - **Historiographical Framing**: The traditional Turkish narrative of a "Liberation War" (Kurtuluş Savaşı) against imperialist forces is critiqued by some as obscuring the Ottoman Empire's own expansionist role in WWI and the nationalist movement's actions against minorities.
+
+Source: adapted from "Turkish War of Independence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Turkish_War_of_Independence

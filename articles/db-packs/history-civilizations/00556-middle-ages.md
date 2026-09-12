@@ -39,3 +39,5 @@ Three transformations closed the era. The printing press with movable type, deve
 ## What remains contested
 
 Periodisation itself is open: whether the medieval ends in 1453, 1492, 1517 (Reformation), or 1648 (Westphalia). The 19th-century "Dark Ages" label is now restricted to the Early Middle Ages, given cultural continuity preserved in monasteries and the Carolingian Renaissance. Whether "feudalism" names a coherent system or a retrospective construct, and how exactly the 14th-century crisis tied climate, population, and money, remain live questions.
+
+Source: adapted from "Middle Ages" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Middle_Ages

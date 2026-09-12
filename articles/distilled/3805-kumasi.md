@@ -44,3 +44,5 @@ The city is administered by the Kumasi Metropolitan Assembly, led by a mayor app
 - **Founding Figures**: Oral traditions conflict on whether Osei Tutu I, Nana Oti Akenten, or Nana Obiri Yeboa was the primary founder of Kumasi.
 - **Historical Population**: There is a significant discrepancy between Ashanti and European estimates of the city's population during the 19th century.
 - **Urban Green Space**: The effectiveness of the 1945 "Garden City" plan is debated, as studies show many green spaces have been lost to urbanization and weak land control.
+
+Source: adapted from "Kumasi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kumasi

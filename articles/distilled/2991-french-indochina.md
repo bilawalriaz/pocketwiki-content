@@ -38,3 +38,5 @@ During World War II, French Indochina was administered by Vichy France and occup
 - The death toll of the 1944–1945 Vietnamese famine is debated, with estimates ranging from 200,000 to over 2 million. The figure of 2 million, cited by Ho Chi Minh and the Communist Party of Vietnam, is contested by some historians and Vietnamese sources.
 - The motivations behind various anti-French revolts, such as the 1914 Yunnanese invasion of Laos, are disputed, with contemporary French officials attributing them to criminal activity while historians like Geoffrey C. Gunn argue for political motives.
 - The nature of recruitment for World War I service is debated. While some historians describe it as forced, the source indicates the vast majority of Indochinese soldiers were volunteers motivated by economic and personal ambitions.
+
+Source: adapted from "French Indochina" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_Indochina

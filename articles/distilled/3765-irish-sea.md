@@ -45,3 +45,5 @@ The sea hosts major offshore wind farms. The Arklow Bank Wind Park was a pioneer
 
 ## Debates and Open Questions
 The greatest exploration risk in basins like Caernarfon Bay is the timing of gas generation versus trap formation. The environmental impact and long-term fate of radioactive sediments from Sellafield remain subjects of study. Proposals for a fixed sea link (tunnel or bridge) have been discussed since 1895 but face immense technical and financial challenges.
+
+Source: adapted from "Irish Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Irish_Sea

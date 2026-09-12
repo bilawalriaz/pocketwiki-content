@@ -45,3 +45,5 @@ Replicating a database requires a continuous stream of decisions. Running Basic 
 Modern datacenter networks offer remote direct memory access (RDMA), where the network card handles transport. The open-source Derecho C++ library adapts Paxos to sustain full RDMA bandwidth by streaming data asynchronously off the leader's critical path, offering both durable Paxos and vertical Paxos for in-memory replication.
 
 Paxos runs inside Chubby, Spanner, Megastore, and Bigtable at Google; in Windows Server Failover Clustering and Bing's Autopilot at Microsoft; in IBM's SAN Volume Controller; in WANdisco's DConE, XtreemFS, Heroku's Doozerd, Ceph monitors, MariaDB Xpand, Neo4j HA, Cassandra and ScyllaDB lightweight transactions, Amazon's Elastic Container Services, and DynamoDB's leader election.
+
+Source: adapted from "Paxos (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paxos_%28computer_science%29

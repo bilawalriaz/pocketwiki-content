@@ -54,3 +54,5 @@ Abolition often led to complex social and economic consequences. Haiti was force
 - The narrative and scholarly literature around the Reconstruction Amendments (13th, 14th, 15th) in the U.S. is debated regarding their original aims and whether they constitute a full abolitionist vision.
 - There is debate over whether the U.S. Constitution should be viewed as an abolitionist document, with some arguing it was fundamentally pro-slavery until the Reconstruction Amendments.
 - The effectiveness of "stroke-of-the-pen" abolition laws is questioned, as they often failed to address deep-seated social, economic, and racial inequalities, leading to ongoing struggles like the Jim Crow system in the U.S.
+
+Source: adapted from "Abolitionism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abolitionism

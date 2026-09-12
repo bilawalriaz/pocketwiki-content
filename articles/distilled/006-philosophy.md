@@ -76,3 +76,5 @@ Philosophy is a meta-discipline that clarifies the nature and limits of other fi
 - Whether knowledge requires absolute certainty, as philosophical skepticism assumes.
 - Whether beauty is objective or subjective; whether reality is only physical or includes mental and abstract entities.
 - Whether empirical observations are neutral or theory-laden in science.
+
+Source: adapted from "Philosophy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philosophy

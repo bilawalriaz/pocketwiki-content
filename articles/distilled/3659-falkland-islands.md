@@ -44,3 +44,5 @@ The population was 3,662 in the 2021 census, with about 30% being temporary resi
 
 ## Debates and Open Questions
 The core debate is the sovereignty dispute between the UK and Argentina. The UK bases its position on continuous administration since 1833 and the islanders' right to self-determination. Argentina claims it inherited sovereignty from Spain in 1816 and views the 1833 British takeover as usurpation. The 2013 referendum result is rejected by Argentina as irrelevant. Future negotiations are stalled, with neither side agreeing on terms.
+
+Source: adapted from "Falkland Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Falkland_Islands

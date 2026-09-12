@@ -47,3 +47,5 @@ Guyana's population is ethnically diverse, with Indo-Guyanese (43.5%) and Afro-G
 - **Territorial Dispute**: The core debate is the validity of the 1899 Paris Arbitral Award that granted the Essequibo region to British Guiana. Venezuela argues the 1966 Geneva Agreement nullified it, while Guyana maintains the award is valid and binding. The International Court of Justice is adjudicating the case.
 - **Economic Management**: A key question is how Guyana will manage its oil wealth to ensure broad-based development, avoid the "resource curse," and address existing poverty and inequality without harming its non-oil sectors and pristine environment.
 - **Ethnic Politics**: The deep ethnic division in politics between Indo-Guyanese and Afro-Guyanese communities remains a source of tension and a challenge to national cohesion.
+
+Source: adapted from "Guyana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guyana

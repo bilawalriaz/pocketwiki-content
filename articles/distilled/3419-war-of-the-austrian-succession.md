@@ -45,3 +45,5 @@ By 1748, France was financially exhausted due to the British naval blockade. The
 - The extent to which the "Botta Conspiracy" (1743) in Russia was a genuine plot versus a fabrication by Frederick II to sow discord between Austria and Russia is disputed.
 - The primary cause of the war is debated: was it fundamentally a legal dispute over succession, or a pretext for a pre-existing geopolitical struggle for European dominance?
 - The long-term impact of the treaty is contested; while it restored peace, its failure to resolve underlying tensions made the subsequent Seven Years' War almost inevitable.
+
+Source: adapted from "War of the Austrian Succession" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession

@@ -39,3 +39,5 @@ The archipelago is a mountainous extension of the Ural Mountains, consisting of 
 
 ## Debates and open questions
 The source notes uncertainty about the exact location of a 1942 German attack described in a prisoner's account, questioning whether it occurred on Dikson Island or Novaya Zemlya. The discovery of Norway lemmings on the islands is recent and may indicate a new subspecies, suggesting ongoing ecological change. The purpose of new tunneling and construction activity observed in 2023 is debated, with indications it could signal preparation for resumed nuclear testing.
+
+Source: adapted from "Novaya Zemlya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Novaya_Zemlya

@@ -47,3 +47,5 @@ Kosovo is a parliamentary republic. Its economy is a developing, upper-middle-in
 *   **International Recognition:** The lack of recognition from UN Security Council permanent members Russia and China prevents Kosovo from joining the UN.
 *   **Community of Serb-Majority Municipalities:** The implementation of the 2013 Brussels Agreement, particularly the creation of this association, is a major point of contention and delay in normalization.
 *   **Historical Narratives:** The significance of the 1389 Battle of Kosovo and the medieval period are interpreted differently by Serbian and Albanian historiographies.
+
+Source: adapted from "Kosovo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kosovo

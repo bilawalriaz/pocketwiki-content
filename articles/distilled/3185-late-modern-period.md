@@ -50,3 +50,5 @@ The post-1945 era saw decolonization, the Cold War, and the rise of the United S
 - **Industrial Revolution Timing**: Historians disagree on the precise dates, with estimates ranging from c. 1760 to 1830 or 1789 to 1848.
 - **Causes of World War I**: The war's origins are debated, with factors including militarism, alliances, imperialism, nationalism, and specific crises like the assassination of Archduke Franz Ferdinand.
 - **Nature of Colonialism**: Scholars debate the extent to which colonial rule was a "mandate" for welfare versus a system of exploitation that caused severe deterioration in material and moral conditions for native populations.
+
+Source: adapted from "Late modern period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Late_modern_period

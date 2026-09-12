@@ -42,3 +42,5 @@ The *Ring* has been subject to countless interpretations. Early productions foll
 
 ## Debates and open questions
 The *Ring* has inspired myriad interpretations. George Bernard Shaw famously read it as a socialist critique of industrial capitalism. Robert Donington interpreted it through Jungian psychology as a story of archetypal development. Other readings focus on feminist, environmentalist, or philosophical themes. The cycle's meaning remains a subject of ongoing scholarly and directorial debate.
+
+Source: adapted from "Der Ring des Nibelungen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen

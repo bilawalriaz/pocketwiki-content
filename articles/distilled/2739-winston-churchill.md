@@ -50,3 +50,5 @@ After leading Britain to victory in Europe, Churchill's Conservative Party was d
 *   **Area Bombing Campaign:** The morality and military necessity of the Allied strategic bombing campaign, particularly the late-war bombing of Dresden, remains controversial. Churchill himself later expressed regret.
 *   **Political Ideology:** Scholars debate whether Churchill was fundamentally a conservative, a liberal, or a pragmatic opportunist, given his party switches and record as both a social reformer and a staunch imperialist.
 *   **Legacy on Race and Empire:** Churchill's legacy is contested due to his staunch imperialism, comments on race, and actions during colonial conflicts, which contrast with his role in defeating fascism.
+
+Source: adapted from "Winston Churchill" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Winston_Churchill

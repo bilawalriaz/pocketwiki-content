@@ -46,3 +46,5 @@ Goldman's anarchism was intensely personal, believing that anarchists must live 
 - **On the Soviet Union**: Her sharp critique of the Bolshevik regime, which she saw as a betrayal of revolutionary ideals, contributed to a lasting schism between anarchists and authoritarian socialists.
 - **On Feminism**: While she rejected first-wave feminism's focus on suffrage, her advocacy for sexual liberation and reproductive rights has led to her being claimed as a foundational figure in anarcha-feminism, raising questions about the relationship between anarchism and gender politics.
 - **Legacy and Iconography**: The popularization of the quote "If I can't dance, I don't want to be in your revolution"—which she likely never said—highlights the tension between Goldman as a historical figure and her symbolic status in popular culture.
+
+Source: adapted from "Emma Goldman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emma_Goldman

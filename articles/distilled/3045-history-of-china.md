@@ -56,3 +56,5 @@ The ROC, led by the Kuomintang (KMT), faced warlordism and then the Chinese Civi
 - The extent of Shang political control beyond its core at Anyang is uncertain, with evidence of diverse contemporary cultures like Sanxingdui.
 - The causes of the significant population decline during the Mongol Yuan dynasty are debated, with theories ranging from administrative recording failures to plague and enserfment.
 - The historical accuracy of certain events, such as the Qin dynasty's burning of books and burial of scholars, is questioned by contemporary scholars.
+
+Source: adapted from "History of China" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_China

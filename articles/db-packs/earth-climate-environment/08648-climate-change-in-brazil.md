@@ -28,3 +28,5 @@ Brazil's First National Assessment on Climate Change projects a warmer, drier co
 ## Policy response
 
 Under the Paris Agreement, Brazil has pledged net-zero emissions by 2050. Its 2024 Nationally Determined Contribution (NDC) targets a 59–67% emissions cut below 2005 levels by 2035, strengthening earlier pledges of 48% by 2025 and 53% by 2030. The 2019–2022 Bolsonaro government was widely criticised for rolling back enforcement while deforestation surged. The Lula administration has reactivated the Amazon Fund and announced that Belém will host the 2025 UN climate conference. Independent analyses estimate Brazil's pledges would still need to roughly triple to keep warming below 1.5°C with reasonable confidence, so reducing deforestation remains the single most powerful lever, because standing forest is both a carbon reservoir and the engine of regional rainfall.
+
+Source: adapted from "Climate change in Brazil" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_change_in_Brazil

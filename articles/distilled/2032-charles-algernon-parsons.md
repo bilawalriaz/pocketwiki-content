@@ -44,3 +44,5 @@ Parsons received numerous awards, including the Rumford Medal (1902), Copley Med
 
 ## Debates and open questions
 The source does not detail significant scholarly debates about Parsons's life or work. It presents his invention as a clear technological breakthrough that solved the material limitations of earlier turbine designs.
+
+Source: adapted from "Charles Algernon Parsons" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_Algernon_Parsons

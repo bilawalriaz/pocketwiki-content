@@ -39,3 +39,5 @@ Mach's positivism was a major precursor to the Vienna Circle and logical positiv
 - **Mach vs. Atomism**: Mach rejected atoms as unobservable and uneconomical, a position contradicted by the later success of atomic theory.
 - **Mach's Principle and Relativity**: While Einstein was inspired by Mach's critique of absolute space, it is debated whether Mach's principle is fully incorporated into general relativity, and Mach himself did not accept Einstein's theory.
 - **Philosophical Legacy**: Scholars debate whether Mach is best understood as a precursor to logical positivism, a radical constructivist, or simply a rigorous empiricist.
+
+Source: adapted from "Ernst Mach" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ernst_Mach

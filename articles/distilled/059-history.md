@@ -77,3 +77,5 @@ The Tang dynasty established a history bureau in 629 CE, producing Veritable Rec
 ## Debates and open questions
 
 Historians debate whether history is a social science, a humanity, or a hybrid. The purpose of history is contested: pure truth-seeking versus practical lessons for the present. The possibility of objective historical knowledge is a central philosophical debate—some argue all history is biased, while others maintain truth is reachable through rigorous methods. The precise definition of social history is disputed. Periodizations vary by region and theme (e.g., Chinese dynasties vs. pre-Columbian/colonial/post-colonial divisions for the Americas). The boundaries between thematic branches (political, economic, social, intellectual) are vague. History education sparks "history wars" over curricula and the biased treatment of controversial topics.
+
+Source: adapted from "History" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History

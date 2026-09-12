@@ -37,3 +37,5 @@ The Industrial Revolution, beginning around 1770 in Britain, was the greatest ec
 ## Open Debates
 
 Historians continue to debate the causes of the Neolithic transition, the Quaternary extinctions, Europe's "Great Divergence," and the appropriate periodization of history, with late-20th-century scholarship challenging Eurocentric frameworks.
+
+Source: adapted from "Human history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_history

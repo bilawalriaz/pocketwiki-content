@@ -45,3 +45,5 @@ Charles never married or had children. He was succeeded by his sister, Ulrika El
 - **Cause of Death:** The definitive circumstances are unclear. While likely killed by enemy fire from the Norwegian fortress, theories of assassination by Swedish conspirators (possibly to end the war or block a tax) persist.
 - **Personal Life:** Historians debate Charles's sexuality and reasons for never marrying. Some suggest he was homosexual, while others argue he was "married to the military" and avoided relationships due to strong religious faith.
 - **Historical Legacy:** His reputation has shifted over time, from a romantic national hero in the 19th century to a more critical view in the 20th century as a ruler who brought ruin to Sweden.
+
+Source: adapted from "Charles XII of Sweden" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_XII_of_Sweden

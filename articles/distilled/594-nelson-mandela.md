@@ -76,3 +76,5 @@ Mandela’s legacy is complex—he is celebrated as a moral leader and icon of d
 ## Debates and Open Questions
 
 Mandela’s legacy remains contested. Critics argue that his government failed to adequately address economic inequality and the HIV/AIDS pandemic, with some accusing him of being too conciliatory toward former apartheid supporters. Debates persist over his relationship with the South African Communist Party (SACP), with evidence suggesting he was a member, though he publicly denied this. Additionally, questions remain about his personal relationships, including allegations of fathering children outside his marriages. Scholars continue to analyze whether his approach to reconciliation was sufficient or if it allowed systemic injustices to persist.
+
+Source: adapted from "Nelson Mandela" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nelson_Mandela

@@ -41,3 +41,5 @@ Following Ulundi, the Zulu army dispersed and King Cetshwayo was captured in Aug
 *   **Frere's Motives:** Scholars debate whether Frere acted with reckless ambition to force a war his superiors in London did not want, or if he genuinely believed a preemptive strike was necessary for colonial security.
 *   **Cetshwayo's Strategy:** There is discussion about whether Cetshwayo sought war or was primarily defensive, aiming to preserve his kingdom's independence against British encroachment.
 *   **Impact of Rorke's Drift:** The battle's fame, amplified by Victorian propaganda and later films, is often questioned as disproportionate to its strategic significance, serving more to distract from the disaster at Isandlwana.
+
+Source: adapted from "Anglo-Zulu War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anglo-Zulu_War

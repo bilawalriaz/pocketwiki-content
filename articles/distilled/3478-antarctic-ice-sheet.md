@@ -42,3 +42,5 @@ Antarctic glaciation began between 60 and 45.5 million years ago, driven primari
 - The exact timeline and likelihood of a collapse of the Southern Ocean overturning circulation remain highly uncertain, with limited confidence in climate model projections.
 - The potential for marine ice sheet instability to be triggered in the near future, and its precise consequences for the rate of sea level rise, is a major area of research.
 - The long-term fate of the West Antarctic Ice Sheet is debated; while very likely to disappear even with no further warming, the process could take between 500 and 13,000 years depending on future emissions.
+
+Source: adapted from "Antarctic ice sheet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antarctic_ice_sheet

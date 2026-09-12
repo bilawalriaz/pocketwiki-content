@@ -45,3 +45,5 @@ Northern Ireland's economy was historically industrial but declined during the T
 *   **Status and Terminology:** There is no universally accepted term for Northern Ireland; it is variously described as a country, province, or region, with the choice often revealing political allegiance.
 *   **Legacy of the Past:** The extent of collusion between state forces and loyalist paramilitaries during the Troubles remains disputed, as does the best approach to dealing with the legacy of the conflict.
 *   **Constitutional Future:** While the Good Friday Agreement affirms the current status, opinion polls show a persistent, though minority, preference for a united Ireland, and demographic shifts may influence future debates.
+
+Source: adapted from "Northern Ireland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Northern_Ireland

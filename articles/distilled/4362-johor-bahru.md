@@ -50,3 +50,5 @@ Johor Bahru is a major transport hub. It is served by Senai International Airpor
 ## Debates and Open Questions
 *   **Public Transport Solution:** There is an ongoing debate about the best solution for the city's traffic congestion. While an elevated ART network was approved in 2026, there remain calls for a higher-capacity rail system to serve the busiest corridors.
 *   **Urban Planning Challenges:** The city is characterized by significant urban sprawl and high car dependency, presenting ongoing challenges for sustainable development and public transport implementation.
+
+Source: adapted from "Johor Bahru" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johor_Bahru

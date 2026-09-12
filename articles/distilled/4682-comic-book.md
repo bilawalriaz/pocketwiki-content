@@ -50,3 +50,5 @@ Comic book collecting became a significant hobby with the rise of specialty stor
 - The impact of Wertham's *Seduction of the Innocent* and the subsequent Comics Code on stifling artistic expression versus its role in industry self-preservation is debated.
 - The evolution of digital distribution continues to reshape the market, with debates over its impact on traditional print comic stores and collector culture.
 - The historical and ongoing struggle for authentic representation of racial and ethnic minorities in comics remains a critical area of scholarly and public discussion.
+
+Source: adapted from "Comic book" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Comic_book

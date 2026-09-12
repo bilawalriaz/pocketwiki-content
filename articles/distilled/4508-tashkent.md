@@ -49,3 +49,5 @@ Since independence in 1991, Tashkent has retained a multi-ethnic population, wit
 - The identification of Ptolemy's "Stone Tower" with Tashkent is debated among scholars.
 - The etymology of the city's ancient name, Chach, has multiple proposed origins, including Iranian and Turkic roots.
 - The cause of Indian Prime Minister Lal Bahadur Shastri's death in Tashkent in 1966 is speculated to be poisoning, though officially attributed to a heart attack.
+
+Source: adapted from "Tashkent" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tashkent

@@ -88,3 +88,5 @@ Storytelling rights may be broadly defined as the ethics of sharing narratives (
 *   **Validity Criteria:** Should narrative research use statistical validity/reliability or interpretive criteria (believability, emotional/moral clarity)?
 *   **Cognitive Primacy:** Is narrative the *fundamental* nature of self (Flanagan) or a rhetorical tool among others?
 *   **Myth Origins:** Without fixed texts, can the precise origin of any myth be reliably traced?
+
+Source: adapted from "Narrative" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Narrative

@@ -50,3 +50,5 @@ By the 1730s, the Baroque evolved into the Rococo, a lighter, more playful, and 
 - The exact origin of the word "baroque" is debated, with theories linking it to the Portuguese for "flawed pearl," a term in medieval logic, or the painter Federico Barocci.
 - The boundaries between the late Baroque and the early Rococo are often blurred, with some scholars considering Rococo simply a "late Baroque" phase.
 - The degree to which Baroque art was a deliberate tool of the Counter-Reformation versus a broader cultural movement is a subject of ongoing scholarly discussion.
+
+Source: adapted from "Baroque" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baroque

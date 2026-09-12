@@ -25,3 +25,5 @@ Two challenges now sit at the centre of contemporary history. Climate change, dr
 ## Open questions
 
 The post-1991 belief that liberal democracy had become the permanent default ("the end of history") has been complicated by the rise of authoritarian and populist movements. Whether globalisation has chiefly spread prosperity or widened inequality remains debated, as does whether current climate agreements are sufficient. Decolonisation's long shadow, in unstable borders and institutions, is still being assessed.
+
+Source: adapted from "Contemporary history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Contemporary_history

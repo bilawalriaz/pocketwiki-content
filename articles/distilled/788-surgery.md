@@ -44,3 +44,5 @@ Surgical history spans millennia, beginning with trepanation and advancing throu
 
 ## Debates and Open Questions
 Several areas remain contentious: routine preoperative chest X-rays are discouraged for low-risk patients due to risks of misdiagnosis and overtreatment; evidence is insufficient to confirm whether preemptive opioid administration reduces postoperative pain; and the use of topical antibiotics on surgical wounds is debated despite Cochrane findings showing reduced infection rates. Additionally, the "weekday effect" in surgical mortality—linked to reduced weekend staffing and service availability—remains under investigation. Globally, scaling surgical access in low-resource settings raises questions about cost-effectiveness versus competing health priorities, though studies suggest surgical interventions rival established public health measures in DALYs averted.
+
+Source: adapted from "Surgery" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Surgery

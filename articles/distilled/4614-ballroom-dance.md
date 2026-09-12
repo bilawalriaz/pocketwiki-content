@@ -41,3 +41,5 @@ Competitions range from world championships to local events, divided into profes
 
 ## Debates and Open Questions
 The source notes that judging in performance-oriented sports like dancesport is "inevitably subjective," leading to controversy and complaints over placements. The definition of what constitutes a "ballroom dance" is also fluid and debated, with new dances being added or removed from the competitive repertoire over time. The categorization of dances varies by region (e.g., Soviet Programme, Australian New Vogue), reflecting local adaptations rather than universal standards.
+
+Source: adapted from "Ballroom dance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ballroom_dance

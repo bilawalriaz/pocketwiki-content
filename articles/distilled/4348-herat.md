@@ -46,3 +46,5 @@ Herat's economy is based on agriculture (notably grapes and saffron), trade, and
 - The precise date of Herat's foundation is unknown.
 - The exact death toll of the 1222 Mongol massacre is debated, with one account claiming 1,600,000 people.
 - Casualty figures for the 1979 Herat uprising vary widely, from 3,000 to 24,000 killed.
+
+Source: adapted from "Herat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Herat

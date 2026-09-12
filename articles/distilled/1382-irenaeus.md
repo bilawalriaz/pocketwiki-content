@@ -62,3 +62,5 @@ In 190/191 AD, Pope Victor I sought to impose Roman Easter practice (Sunday obse
 - **Roman Primacy:** His citation of the Roman church’s succession is debated: does it witness to a primacy of *honor* or *jurisdiction*? Later Catholic and Protestant polemics read it differently.
 - **Pauline Authorship:** Irenaeus accepted all 13 Pauline epistles as authentic; modern critical scholarship disputes several (e.g., Pastorals, Ephesians, Colossians).
 - **Canon Formation:** Whether Irenaeus *created* the fourfold Gospel canon or *ratified* an emerging consensus remains debated; the *Diatessaron*’s success suggests the latter.
+
+Source: adapted from "Irenaeus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Irenaeus

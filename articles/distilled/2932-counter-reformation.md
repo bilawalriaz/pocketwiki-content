@@ -57,3 +57,5 @@ The Counter-Reformation successfully diminished Protestantism in Poland, Lithuan
 - **Impact on Art and Music:** The extent of the Council of Trent's direct influence on artistic and musical styles is debated, with legends (e.g., Palestrina "saving" polyphony) often oversimplifying historical evidence.
 - **Political vs. Religious Goals:** Historians question whether the Counter-Reformation was primarily a spiritual renewal or a tool for political consolidation by Catholic monarchs.
 - **Global Reach:** The effectiveness and methods of Counter-Reformation missions in colonized regions (e.g., the Americas, Asia) remain areas of study, particularly regarding cultural adaptation and conflict.
+
+Source: adapted from "Counter-Reformation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Counter-Reformation

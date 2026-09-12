@@ -34,3 +34,5 @@ Selected milestones
 Open problem and future instruments
 
 The central difficulty is that charged particles are deflected by galactic and intergalactic magnetic fields, so tracing a cosmic ray back to its source is rarely possible. Astronomers rely on modelling these fields and combine cosmic ray data with multi-messenger signals (gamma rays, neutrinos, gravitational waves) to localise origins. Future instruments sharpen this approach: the Cherenkov Telescope Array will detect gamma rays produced by cosmic ray interactions in Earth's atmosphere, a channel expected to be the most sensitive probe of cosmic rays near their source, enabling precision studies of their sources, acceleration mechanisms, and propagation.
+
+Source: adapted from "Cosmic ray astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cosmic_ray_astronomy

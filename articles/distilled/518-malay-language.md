@@ -61,3 +61,5 @@ Dialects split into western (Sumatra, Borneo, e.g., Riau, Palembang, Jambi, Beta
 - **Creole status:** Eastern varieties (Makassar, Manado, Ambon, etc.) are sometimes classified as creoles because speakers are not ethnically Malay; the line between dialect and creole is unclear.
 - **Cognitive divergence:** The systemic split between Indonesian and Malaysian standards may reflect deeper cognitive differences, not just lexical choice; the extent and implications are under study.
 - **Jawi preservation:** Efforts to maintain Jawi in Malaysia face competition from the dominance of Rumi; the script’s long-term role is uncertain.
+
+Source: adapted from "Malay language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Malay_language

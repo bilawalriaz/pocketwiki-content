@@ -65,3 +65,5 @@ where ${}^N\boldsymbol{\omega}^E$ is Earth's angular velocity relative to the in
 ## Vector fields
 
 A vector field is a vector-valued function whose domain is a region of space rather than a single parameter. On $\mathbb{R}^n$ it assigns an $n$-tuple of real numbers to each point, so it carries a magnitude and direction at every location. Vector fields visualise as arrows attached to points and model wind velocity, magnetic force, and gravitational force. A space curve's position vector is defined only on a subset of the ambient space, while a vector field fills an open region. The calculus of vector fields, including line integrals, divergence, and curl, extends the ordinary calculus of scalar fields to the vector setting.
+
+Source: adapted from "Vector-valued function" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vector-valued_function

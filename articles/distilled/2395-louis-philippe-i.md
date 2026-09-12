@@ -41,3 +41,5 @@ Economic depression in 1847 fueled discontent, leading to the February Revolutio
 - The extent to which Louis Philippe's early liberal, revolutionary experiences genuinely shaped his later conservative rule versus the influence of his bourgeois supporters.
 - The degree to which his personal popularity and "Citizen King" image masked the regime's increasing repression and class-based policies.
 - The role of the 1846 economic depression versus long-term political discontent in causing the 1848 Revolution that ended his reign.
+
+Source: adapted from "Louis Philippe I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_Philippe_I

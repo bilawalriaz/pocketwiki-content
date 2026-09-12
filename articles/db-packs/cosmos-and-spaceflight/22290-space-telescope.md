@@ -23,3 +23,5 @@ Space telescopes fall into two categories. Survey satellites map the entire sky 
 The trade-offs are significant. Space telescopes cost far more to build than ground-based ones and, once launched, are extremely difficult or impossible to service. Hubble is the rare exception, having been repaired and upgraded by Space Shuttle missions. Most orbit beyond astronaut reach and must be replaced rather than repaired when a component fails.
 
 Future programs face a recurring concern: as older observatories are decommissioned before successors launch, astronomers risk losing access to parts of the spectrum. On 16 January 2023, NASA announced preliminary development of successors including the Habitable Worlds Observatory and the New Great Observatories program, intended in part to prevent gaps in fundamental-science research.
+
+Source: adapted from "Space telescope" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Space_telescope

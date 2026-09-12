@@ -50,3 +50,5 @@ The central debate concerns Debye's moral and political responsibility during th
 - Did he actively assist in purging Jewish scientists, or was he reluctantly following a mandate imposed by the regime?
 - How should his scientific legacy be weighed against his actions as an institutional leader under a totalitarian government?
 - The unverified 2010 hypothesis that he was an MI6 spy remains a speculative open question.
+
+Source: adapted from "Peter Debye" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peter_Debye

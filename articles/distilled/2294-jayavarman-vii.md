@@ -42,3 +42,5 @@ Jayavarman VII died c. 1218 and was succeeded by his son Indravarman II. Despite
 ## Debates and Open Questions
 - The exact date and even the occurrence of the 1177 Cham invasion and sacking of Angkor have been questioned by historian Michael Vickery, who doubts the reliability of the Chinese sources for this period.
 - The scale of Jayavarman VII's building program and the centralization of the state it required raise questions about the labor and social costs, despite its stated aim of alleviating suffering.
+
+Source: adapted from "Jayavarman VII" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jayavarman_VII

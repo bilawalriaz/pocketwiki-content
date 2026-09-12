@@ -74,3 +74,5 @@ Moseley's 1913 discovery that nuclear charge determines atomic number led to the
 ## Debates and open questions
 
 In the 1920s, there was controversy over whether isotopes deserved recognition as separate elements if they could be separated by chemical means. The naming of elements with atomic numbers 104 and higher was delayed by disputes over which research group actually discovered each element, a question handled by the IUPAC/IUPAP Joint Working Party since 1999. Nationalistic naming disputes occurred in the late 19th century (e.g., lutetium vs. cassiopeium; niobium vs. columbium). The discovery and synthesis of further new elements remains an ongoing area of scientific study.
+
+Source: adapted from "Chemical element" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemical_element

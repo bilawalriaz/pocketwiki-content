@@ -45,3 +45,5 @@ The story has been adapted into countless operas, ballets, musicals (e.g., Rodge
 - **Symbolism of the slipper**: The slipper's material (glass, gold, etc.) and its role as a unique identifier are analyzed for cultural and symbolic meaning.
 - **Stepfamily hostility**: Folklorists interpret the stepmother's jealousy as competition for resources (e.g., dowries), though the tale often leaves this implicit.
 - **East vs. West endings**: The violent revenge in many East Asian versions versus the forgiveness in Perrault's version reflects differing cultural values and narrative traditions.
+
+Source: adapted from "Cinderella" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cinderella

@@ -48,3 +48,5 @@ Tehran's architecture ranges from Qajar and Pahlavi-era palaces (like Golestan P
 *   **Capital Relocation:** Due to severe environmental issues (air pollution, water scarcity, earthquake risk), there have been long-standing plans and discussions to move Iran's capital from Tehran, though none have been approved.
 *   **Urban Planning vs. Growth:** Tehran's development has often been characterized by chaotic, unbalanced growth that has outpaced planning efforts, leading to issues like high-density suburbs and inefficient infrastructure.
 *   **Cultural Preservation:** The modernization of Tehran, especially under Reza Shah, involved the demolition of many historic buildings and neighborhoods, a process that continues to raise concerns about gentrification and the loss of cultural heritage.
+
+Source: adapted from "Tehran" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tehran

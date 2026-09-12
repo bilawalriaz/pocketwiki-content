@@ -40,3 +40,5 @@ Output parameters hinder readability. They force a side effect into the signatur
 ## Alternative convention in Eiffel
 
 Eiffel reassigns the terms. `argument` refers exclusively to a routine's inputs, while `parameter` refers exclusively to **generic type parameters** on classes. `HASH_TABLE[G, K -> HASHABLE]` is instantiated as `HASH_TABLE[STRING, STRING]`, where `STRING` is the actual generic parameter substituted for the formal `G` and `K`.
+
+Source: adapted from "Parameter (computer programming)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Parameter_%28computer_programming%29

@@ -54,3 +54,5 @@ Preservation is a major challenge due to weathering, erosion, tourism, and past 
 - **Cause of Death**: Long believed to be ash suffocation, but a 2010 study concluded that exposure to extreme heat from pyroclastic flows was the primary cause.
 - **Population**: Estimates vary widely from 10,000–20,000 based on historical accounts, to a more recent 11,000–11,500 based on household counts.
 - **Post-Eruption Activity**: Evidence suggests the site was reoccupied by a small informal settlement until the 5th century, and that systematic looting of valuables like marble statues occurred soon after the burial.
+
+Source: adapted from "Pompeii" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pompeii

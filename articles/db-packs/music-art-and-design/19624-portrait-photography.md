@@ -33,3 +33,5 @@ Primes are preferred over zooms because they are lighter, cheaper, faster, and s
 **Lens speed** matters because wide apertures create shallow depth of field, isolating the subject from a distracting background. Stopping down one or two stops, with focus on the eyes, keeps the whole face sharp while blurring the background.
 
 For environmental portraits, where showing context matters, wider lenses with less background blur work better. Portrait lenses are often inexpensive because their focal lengths sit near the normal range: a 50 mm normal lens on a 1.6× cropped sensor yields an 80 mm equivalent, at the wide end of the classic portrait range.
+
+Source: adapted from "Portrait photography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Portrait_photography

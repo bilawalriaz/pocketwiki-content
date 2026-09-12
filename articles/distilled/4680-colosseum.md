@@ -42,3 +42,5 @@ After the fall of Rome, the Colosseum was repurposed as housing, a fortress, and
 *   **Mock Sea Battles:** Ancient accounts describe the arena being flooded for naval displays, but scholars debate its practicality due to the lack of waterproofing evidence and the later construction of the hypogeum.
 *   **Christian Martyrdom:** While tradition holds the Colosseum as a major site of Christian martyrdom, historical records and physical evidence are scarce. Many scholars believe most martyrdoms occurred elsewhere in Rome, such as the Circus Maximus.
 *   **Capacity:** Ancient sources cite a capacity of 87,000, but modern estimates typically range from 50,000 to 80,000.
+
+Source: adapted from "Colosseum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Colosseum

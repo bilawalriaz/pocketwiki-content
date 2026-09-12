@@ -64,3 +64,5 @@ Models range from simple theoretical frameworks to large quantitative systems. *
 - **Monetary policy framework**: Whether inflation targeting remains optimal post-pandemic (supply shocks, fiscal dominance); role of average inflation targeting or nominal GDP targeting.
 - **Fiscal-monetary interaction**: Limits of monetary policy at the effective lower bound; coordination with fiscal policy; debt sustainability under low rates.
 - **Heterodox validity**: Whether alternative paradigms (MMT, ecological, Marxian) offer superior explanations for instability, inequality, or ecological constraints.
+
+Source: adapted from "Macroeconomics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Macroeconomics

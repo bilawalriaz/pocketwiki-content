@@ -49,3 +49,5 @@ In his essay *On the Criterion and Hegemonikon*, Ptolemy discussed how humans ob
 - **Data Integrity**: A major debate concerns whether Ptolemy fabricated astronomical observations. Robert R. Newton alleged systematic fraud, while others like Owen Gingerich and Bernard Goldstein argue the errors may stem from other factors like instrument warping or atmospheric refraction. The 2022 discovery of Hipparchus's star catalog fragments suggests Ptolemy used multiple sources, complicating the fraud accusation.
 - **Authorship**: The identity of the actual author of the *Centiloquium*, attributed to Ptolemy, remains unknown.
 - **Geographical Evolution**: The topographical tables in the *Geography* are believed to be cumulative texts altered over centuries, meaning information within the work is of different dates and contains scribal errors.
+
+Source: adapted from "Ptolemy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ptolemy

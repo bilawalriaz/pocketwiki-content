@@ -21,3 +21,5 @@ Mikhail Lomonosov coined the term "physical chemistry" in 1752. The modern disci
 ## Boundaries and open questions
 
 Physical chemistry is sometimes confused with chemical physics. The distinction is one of emphasis: physical chemistry focuses on supra-molecular, bulk phenomena such as chemical equilibrium and colloids, while chemical physics leans toward molecular and atomic-level problems. A related question is how far macroscopic behavior can be predicted from molecular structure alone. Statistical mechanics and quantum chemistry offer theoretical routes, but real systems often need empirical input. Non-equilibrium and quasi-equilibrium thermodynamics extend the classical equilibrium-based framework to dynamic processes such as living cells, reactors, and atmospheric chemistry, and remain active research areas.
+
+Source: adapted from "Physical chemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Physical_chemistry

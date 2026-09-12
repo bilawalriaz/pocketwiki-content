@@ -47,3 +47,5 @@ The river valley's population (~32 million) is largely dependent on agriculture 
 - The precise etymology of "Zambezi" is debated, with theories linking it to the Bisa people or the Bantu word for "fish."
 - The ecological and social impacts of the Kariba and Cahora Bassa dams, particularly regarding altered flood regimes and sediment flow, remain subjects of ongoing study and management challenges.
 - The effectiveness of transboundary conservation initiatives like the Kavango–Zambezi Transfrontier Conservation Area is contingent on cooperation among riparian states and overcoming obstacles like landmine contamination.
+
+Source: adapted from "Zambezi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zambezi

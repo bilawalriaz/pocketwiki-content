@@ -71,3 +71,5 @@ The framework continues to expand. The UN Human Rights Council (2021), European 
 5. **Climate Justice:** Does the new recognition of a right to a healthy environment create enforceable duties for high-emitting states toward vulnerable populations? How will courts quantify "fair share" obligations?
 6. **Derogation Abuse:** States frequently declare emergencies to suspend rights. How to distinguish legitimate security measures from authoritarian consolidation under the guise of emergency powers?
 7. **Sovereignty vs. Universal Jurisdiction:** The Pinochet precedent (1998) and ICC investigations challenge absolute sovereignty. Will major powers (US, China, Russia) ever accept universal jurisdiction over their nationals?
+
+Source: adapted from "Human rights" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_rights

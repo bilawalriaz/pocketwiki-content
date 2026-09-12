@@ -49,3 +49,5 @@ Sanitation directly reduces diarrheal diseases, helminth infections, cholera, an
 - Trade-offs between centralized sewer systems and decentralized/on-site solutions in terms of cost, scalability, and sustainability.  
 - How to equitably finance sanitation services for marginalized populations, especially in urban informal settlements.  
 - Balancing reuse of treated waste (nutrients, water, energy) with public health and environmental safety concerns.
+
+Source: adapted from "Sanitation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sanitation

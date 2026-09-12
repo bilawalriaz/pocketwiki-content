@@ -35,3 +35,5 @@ The mountains host diverse plant life, including Atlas cedar, various oaks, and 
 
 ## Debates and Open Questions
 The exact nature of the subduction process during the Africa-Europe collision in the Atlas region is unclear due to a lack of evidence. Furthermore, the relatively small amount of crustal thickening and tectonic shortening observed is considered striking given the mountains' significant altitude. Recent studies propose that deep processes rooted in the Earth's mantle may have played a key role in the uplift of the High and Middle Atlas, but this remains an area of active research.
+
+Source: adapted from "Atlas Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atlas_Mountains

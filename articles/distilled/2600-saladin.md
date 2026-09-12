@@ -43,3 +43,5 @@ The fall of Jerusalem prompted the Third Crusade (1189–1192), led by European 
 *   **Motives for abolishing the Fatimid Caliphate:** Scholars debate whether Saladin's primary motivation was religious (promoting Sunni orthodoxy) or political (consolidating personal power and aligning with the Abbasid Caliphate).
 *   **Relationship with the Assassins:** The exact nature of Saladin's relationship with the Assassin leader Rashid ad-Din Sinan is debated. Sources conflict on whether their interactions ended in a truce, a peace agreement, or a more cooperative alliance.
 *   **Legacy in the Muslim World:** While celebrated as a hero in modern Arab nationalism, Saladin's legacy is more complex. Among Egyptian Shias, he is sometimes derided as "Kharab ad-Din" (the destroyer of religion) for ending Fatimid rule.
+
+Source: adapted from "Saladin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saladin

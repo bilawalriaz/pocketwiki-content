@@ -68,3 +68,5 @@ Two triangles are **similar** if corresponding angles are equal and sides are pr
 - Whether degenerate triangles (collinear vertices) count as triangles is a matter of convention.
 - The inscribed square problem asks for a square whose vertices lie on a simple closed curve; the problem discusses inscribed squares in triangles but does not state it is solved for triangles.
 - The exact number of triangle centers (over 5200 catalogued) continues to grow as new special points are discovered.
+
+Source: adapted from "Triangle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Triangle

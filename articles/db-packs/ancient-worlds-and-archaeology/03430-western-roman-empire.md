@@ -32,3 +32,5 @@ The idea of a Roman Empire in the West was revived on Christmas Day 800, when Po
 ## What Lasted
 
 The Western Empire's deepest legacy is institutional and linguistic. Latin spread across the western provinces and evolved into the Romance languages. Roman law remained the foundation of European legal tradition. The Catholic Church, headquartered in Rome, outlived the empire and preserved much of its administrative culture. Historians still debate whether the transition to the Middle Ages was a gradual transformation or a sharp break, but the political structure of imperial Rome in the West did not survive past 476.
+
+Source: adapted from "Western Roman Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_Roman_Empire

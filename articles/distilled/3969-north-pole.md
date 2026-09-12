@@ -41,3 +41,5 @@ Under international law, no country owns the North Pole. The five surrounding Ar
 - The validity of early exploration claims, particularly those of Frederick Cook (1908) and Robert Peary (1909), remains highly disputed due to questionable navigational data and incredible claimed speeds.
 - The precise timeline for when the North Pole may become seasonally ice-free is debated, with predictions ranging from the mid-21st century to later.
 - The geopolitical future of the Arctic is uncertain, as retreating ice may intensify territorial and resource claims among the five surrounding nations.
+
+Source: adapted from "North Pole" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/North_Pole

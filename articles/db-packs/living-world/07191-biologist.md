@@ -44,3 +44,5 @@ Applied research translates those findings into pharmaceutical drugs, treatments
 ## Recognition
 
 The highest honor a biologist can receive is the Nobel Prize in Physiology or Medicine, awarded since 1901 by the Royal Swedish Academy of Sciences. Other significant awards include the Crafoord Prize in Biosciences (since 1980) and the Maxwell/Hanrahan Award in Field Biology (since 2020).
+
+Source: adapted from "Biologist" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biologist

@@ -41,3 +41,5 @@ Hydroelectric development began in 1955 with the Paulo Afonso dam, which powers 
 
 ## Debates and Open Questions
 The primary debate concerns the proposed water diversion project. Environmentalists contend it will damage the river's ecology and benefit only large landowners, while the government maintains it is essential for providing water to drought-prone regions. The long-term ecological impact of the existing dams on fish populations and river health remains a significant concern.
+
+Source: adapted from "São Francisco River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River

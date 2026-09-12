@@ -36,3 +36,5 @@ From 1945, most islands were administered as the Lesser Sunda Islands Province. 
 
 ## Debates and Open Questions
 The geological formation and progression of the islands are not fully understood. Theories of their geological evolution changed extensively during the last decades of the 20th century, indicating ongoing scientific debate.
+
+Source: adapted from "Lesser Sunda Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lesser_Sunda_Islands

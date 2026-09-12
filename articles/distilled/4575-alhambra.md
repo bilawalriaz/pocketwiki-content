@@ -46,3 +46,5 @@ The Alcazaba is the oldest part, a fortress with the Torre de la Vela watchtower
 - The original Arabic names of most Nasrid-era buildings are unknown; many current names (e.g., Palace of the Lions) are later inventions.
 - The exact chronology of construction is difficult to determine due to the use of fragile materials and continuous modifications by later rulers.
 - The function of the large "Alhambra vases" is unclear; they may have been purely decorative.
+
+Source: adapted from "Alhambra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alhambra

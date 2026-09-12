@@ -49,3 +49,5 @@ Recent decades have seen Hurricane Sandy (2012), the COVID-19 pandemic (2020), a
 
 ## Debates and Open Questions
 The $24 glass beads legend for Manhattan's purchase remains widely believed despite being disproven. The effectiveness of the NYPD's stop-and-frisk program in reducing crime continues to be debated, as crime rates declined even after its 2013 court ruling. The city's response to climate change, including proposed seawalls and coastal barriers, faces questions about feasibility and cost-effectiveness. Whether NYC's post-pandemic recovery will restore its pre-2020 economic dominance remains uncertain, particularly regarding office vacancy rates and remote work trends. The long-term viability of congestion pricing (implemented January 2025) as a solution to traffic and transit funding is still being evaluated.
+
+Source: adapted from "New York City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_York_City

@@ -55,3 +55,5 @@ Post-genocide Rwanda faced prosecuting over 100,000 suspects. The UN established
 - **Death Toll**: The official Rwandan government figure is over 1 million, but most scholarly estimates range between 500,000 and 662,000 Tutsi killed.
 - **RPF Atrocities**: The RPF committed killings of Hutu civilians during and after the genocide. The scale and command responsibility for these acts are disputed.
 - **International Inaction**: The failure of the UN, US, and other powers to intervene is attributed to factors including the "Somalia effect," lack of political will, and the downplaying of intelligence warnings.
+
+Source: adapted from "Rwandan genocide" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rwandan_genocide

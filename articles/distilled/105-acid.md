@@ -71,3 +71,5 @@ Nucleic acids (DNA and RNA) contain acidic phosphate groups and carry the geneti
 ## Debates and open questions
 
 The Lewis definition is only marginally related to the Brønsted concept: many Lewis acids are not Brønsted acids, and most Brønsted acids are not Lewis acids. There is no single order of Lewis acid strengths—the relative acceptor strength depends on the base, requiring at least two properties (hardness and strength in Pearson's HSAB theory; electrostatic and covalent in Drago's ECW model) to define.
+
+Source: adapted from "Acid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Acid

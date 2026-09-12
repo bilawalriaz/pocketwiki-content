@@ -41,3 +41,5 @@ Ptolemy established a highly centralized, state-controlled economy. He created a
 ## Debates and Open Questions
 *   **Parentage:** Some ancient sources claim Ptolemy was the illegitimate son of Philip II of Macedon, making him Alexander's half-brother. This is generally rejected by modern scholars as a later myth created to glorify the Ptolemaic dynasty.
 *   **Historical Bias:** Ptolemy wrote a history of Alexander's campaigns. While long considered objective, some scholars argue it was biased, particularly in its negative portrayal of his rival Perdiccas. Others contend this case has been exaggerated.
+
+Source: adapted from "Ptolemy I Soter" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ptolemy_I_Soter

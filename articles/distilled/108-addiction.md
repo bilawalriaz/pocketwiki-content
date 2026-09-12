@@ -76,3 +76,5 @@ Vaccines conjugating drug molecules to carrier proteins to generate antibodies h
 ## Debates and open questions
 
 Whether the brain disease model is complete is actively contested: critics argue addiction is better explained by choice, learning, and social context. Whether food can be addictive is disputed, with neither diagnostic manual recognizing it. Whether craving is central to addiction and whether addictive behavior is accurately described as compulsive remain debated among competing accounts (incentive-sensitization, opponent-process, habit, and impaired prefrontal control theories). Whether drug-induced epigenetic marks are inherited in humans and affect behavior has not been established. Whether GLP-1 receptor agonists are effective treatments for substance use disorders remains unconfirmed by randomized trials.
+
+Source: adapted from "Addiction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Addiction

@@ -39,3 +39,5 @@ Numerous texts are attributed to Kapila, though many are lost or of uncertain au
 - **Relationship to Buddhism**: Scholars debate the extent of Kapila's influence on the Buddha. While some concepts overlap, the teachings on achieving liberation are considered very different.
 - **Identity in Puranas**: Puranic accounts conflict on Kapila's parentage and whether he is a human sage, an incarnation of Vishnu, or a son of other figures like Kashyapa or Prahlada.
 - **Authorship**: The authorship of the *Samkhya-sutra* and other attributed works is traditionally given to Kapila but is subject to scholarly scrutiny.
+
+Source: adapted from "Kapila" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kapila

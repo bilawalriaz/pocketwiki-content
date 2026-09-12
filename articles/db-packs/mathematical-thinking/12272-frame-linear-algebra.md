@@ -68,3 +68,5 @@ Redundancy lets a frame suppress noise in its coefficients. Given noisy coeffici
 ## Beyond discrete frames
 
 A **semi-frame** satisfies only one of the two frame inequalities; a **Bessel sequence** satisfies only the upper bound. A **fusion frame** replaces a single subspace with a family {W_i, w_i} of weighted closed subspaces and demands A‖f‖² ≤ ∑ w_i² ‖P_{W_i} f‖² ≤ B‖f‖². A **continuous frame** generalizes the discrete index set to a locally compact space X with a Borel measure μ, replacing the sum by an integral ∫_X |⟨f, f_x⟩|² dμ(x); the analysis, synthesis, and frame operators all extend with integrals in place of sums, and a **framed POVM** carries the same inequality structure into operator-valued measures.
+
+Source: adapted from "Frame (linear algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frame_%28linear_algebra%29

@@ -49,3 +49,5 @@ Chickens were likely kept initially for cockfighting (evidenced in Indus Valley,
 *   **Pre-Columbian Americas:** Blue-egged chickens and Chilean bones (Arauco Peninsula) suggest possible Polynesian introduction, but subsequent DNA studies cast doubt; the evidence is contested.
 *   **Dispersal routes in Africa and Asia:** A lack of genetic data from Thailand, Russia, the Indian subcontinent, Southeast Asia, and Sub-Saharan Africa prevents a clear map of secondary dispersal and local breed formation.
 *   **Welfare vs. efficiency:** The tension between intensive farming (resource efficiency, controlled environment) and extensive systems (animal welfare, environmental impact) drives ongoing ethical and policy debates regarding force-moulting, cage bans, and slaughter age.
+
+Source: adapted from "Chicken" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chicken

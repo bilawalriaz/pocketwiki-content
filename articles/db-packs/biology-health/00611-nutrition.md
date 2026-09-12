@@ -30,3 +30,5 @@ Nutrients move through ecosystems in continuous cycles, unlike energy, which flo
 ## Human Nutrition in Context
 
 The Neolithic Revolution around 10,000 years ago shifted human diets from foraging to farming. The late-18th-century Chemical Revolution made systematic nutrient analysis possible, and the 1910s brought modern nutrition science with the identification of individual micronutrients. Thiamine became the first vitamin chemically identified in 1926, and vitamin C was linked to scurvy prevention in 1932. Industrialisation enabled mass food production, fortification, and processed foods, which improve safety and shelf-life but may lack essential nutrients. Open questions remain about how much social determinants versus biology drive nutrition-related disease, and how climate change will alter nutrient cycling and global food security.
+
+Source: adapted from "Nutrition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nutrition

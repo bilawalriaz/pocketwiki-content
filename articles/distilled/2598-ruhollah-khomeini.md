@@ -51,3 +51,5 @@ Khomeini's health declined in his final years. He died on 3 June 1989 after a se
 *   **Legacy in Iran**: Politics in the Islamic Republic are often defined by competing claims to Khomeini's legacy. His image remains legally "inviolable," and his tomb is a major shrine.
 *   **Contact with the U.S.**: Declassified documents suggest Khomeini sent messages to the U.S. before the revolution, pledging non-hostility, which contradicts the official narrative of unwavering defiance.
 *   **Human Rights**: The scale of executions during his rule, particularly the 1988 mass killings, remains a major point of contention and has been categorized by a UN report as a genocide of political and religious minorities.
+
+Source: adapted from "Ruhollah Khomeini" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ruhollah_Khomeini

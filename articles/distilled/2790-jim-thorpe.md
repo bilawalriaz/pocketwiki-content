@@ -45,3 +45,5 @@ Thorpe struggled financially after his sports career ended, working various jobs
 *   **Reason for Medal Stripping:** While the official reason was violation of amateurism rules, it has often been suggested that Thorpe's Native American ethnicity was a factor in the IOC's decision, reflecting the racial inequality of the era.
 *   **Burial Site Dispute:** Thorpe's remains are interred in Jim Thorpe, Pennsylvania, a town he never visited. His sons have sought to have his remains returned to Sac and Fox land in Oklahoma, citing the wishes of other family members and NAGPRA. Courts have ruled against this, stating the town is not a "museum" under the law.
 *   **Co-Champion vs. Sole Champion:** From 1983 to 2022, the IOC listed Thorpe as a co-champion with the silver medalists, who themselves always considered Thorpe the rightful sole winner. This was officially corrected in 2022.
+
+Source: adapted from "Jim Thorpe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jim_Thorpe

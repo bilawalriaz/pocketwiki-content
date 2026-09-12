@@ -42,3 +42,5 @@ The GAB spans four jurisdictions with different laws, coordinated by the Great A
 - The long-term impact of hydraulic fracturing chemicals on aquifer health, agriculture, and human populations remains a significant concern.
 - The sustainability of current extraction rates, which far exceed natural recharge, poses a critical question for the basin's future viability.
 - The effectiveness of whole-of-basin management across different state and territorial legislative frameworks is an ongoing challenge.
+
+Source: adapted from "Great Artesian Basin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Artesian_Basin

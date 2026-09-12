@@ -59,3 +59,5 @@ Hydrogen embrittles metals (pipelines, vessels). Lighter than air, it disperses 
 - **Hydrogen vs. batteries in transport:** For light-duty vehicles, hydrogen fuel cell adoption lags far behind battery electric vehicles; its future role in this sector is debated.
 - **Storage density and carrier reversibility:** Metal hydrides offer low weight-percent H₂ (~1%); high-capacity carriers like ammonia borane (19.8 wt%) are often irreversible; reversible liquid organic carriers require energy-intensive dehydrogenation.
 - **Climate impact of leakage:** Hydrogen is an indirect greenhouse gas (extends methane lifetime, affects ozone); leakage rates from future infrastructure are a significant uncertainty for net-zero scenarios.
+
+Source: adapted from "Hydrogen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hydrogen

@@ -43,3 +43,5 @@ Modern linguistics began in the late 18th century. Sir William Jones's observati
 - **Conventional vs. Natural Meaning**: Are word meanings arbitrary conventions or do they have a natural basis? This was debated in ancient India (Vaisheshika-Nyaya vs. Mīmāṃsā schools) and China (Mohists vs. Confucians).
 - **Sentence vs. Word Primacy**: Is the sentence the primary unit of meaning, with word meanings derived from use (as argued by Yāska and Bhartṛhari), or can word meanings be specified independently (as proposed by Pāṇini)?
 - **Role of Analogy**: In ancient Greece, a debate centered on whether language structure is based on regular analogy or exceptions.
+
+Source: adapted from "History of linguistics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_linguistics

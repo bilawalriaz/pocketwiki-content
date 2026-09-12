@@ -45,3 +45,5 @@ Su Song's treatise *Xinyi Xiangfayao* (1092) detailed the clock's mechanics with
 - The precise accuracy of Su Song's clock compared to contemporary European mechanical clocks is debated, as it relied on continuous water power rather than a fully self-contained weight-driven mechanism.
 - The extent to which Su Song's work was influenced by or isolated from external technological traditions remains a subject of scholarly discussion.
 - The reason for the failure to reassemble or replicate the clock tower after 1127 is not definitively known; one theory suggests Su Song may have intentionally omitted key details in his writings to protect his ideas.
+
+Source: adapted from "Su Song" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Su_Song

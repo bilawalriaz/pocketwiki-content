@@ -75,3 +75,5 @@ FAO 2021 data: Asia surpassed North America as top producing continent. Graphic 
 *   **Old-growth logging**: Represents <10% of pulp but remains a focal point of environmental controversy regarding biodiversity and carbon storage.
 *   **Bleaching chemistry**: Elemental chlorine produces regulated dioxins; industry shift to elemental chlorine-free (ECF) or totally chlorine-free (TCF) processes is an ongoing mitigation effort not detailed in source.
 *   **Recycling limits**: Fibers degrade each cycle; deinked pulp is generally equal or lower quality than source, requiring virgin fiber input for strength.
+
+Source: adapted from "Paper" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paper

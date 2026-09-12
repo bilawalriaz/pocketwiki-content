@@ -27,3 +27,5 @@ Mathematics models phenomena, and predictive success depends on the model. Mercu
 ## Philosophy and practice
 
 Plato held that mathematical abstractions exist independently of space and time, a position called Platonism that most working mathematicians tacitly accept. No consensus defines mathematics or settles whether it is a science or an art. Long or computer-assisted proofs, such as the 255-page Feit–Thompson proof, raise the question of whether such proofs carry certainty or only probability. The Fields Medal (1936, every four years, up to four recipients) is the field's top honor. Hilbert's 1900 list of 23 problems inspired the seven Millennium Prize Problems of 2000, each worth one million dollars; only the Poincaré conjecture, solved by Perelman, has been settled.
+
+Source: adapted from "Mathematics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematics

@@ -86,3 +86,5 @@ Many of these exiles, including Clement of Ohrid and Saint Naum, found refuge in
 - **Bishopric of Cyril**: Some sources claim Cyril was ordained bishop before his death, though evidence is inconclusive.
 - **Location of Methodius’ Burial**: The capital city of Great Moravia is unknown, leaving the precise location of his tomb uncertain.
 - **Filioque Controversy**: Methodius defended omitting the Filioque clause from the Creed, aligning with Byzantine practice but drawing criticism from Latin clergy.
+
+Source: adapted from "Cyril and Methodius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cyril_and_Methodius

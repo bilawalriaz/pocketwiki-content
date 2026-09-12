@@ -52,3 +52,5 @@ San Martín retired from public life, living in Europe. He supported the federal
 - **Guayaquil Conference**: The private discussions between San Martín and Bolívar in 1822 are unknown. Theories suggest they discussed combining forces, the form of government for liberated nations, or San Martín's possible offer to serve under Bolívar.
 - **Execution of the Carrera brothers**: The responsibility for the 1818 execution of Chilean leaders Luis and Juan José Carrera is disputed, with some historians blaming San Martín and others O'Higgins.
 - **San Martín's monarchism**: His support for establishing a monarchy in South America, possibly with an Inca descendant, was a political strategy to gain European recognition, but it remains a point of analysis regarding his political vision.
+
+Source: adapted from "José de San Martín" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn

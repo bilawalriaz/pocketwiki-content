@@ -76,3 +76,5 @@ Hughes died on April 5, 1976, at 1:27 p.m. on board an aircraft, Learjet 24B N85
 ## Debates and Open Questions
 
 Several aspects of Hughes's life remain subjects of scholarly debate. The authenticity of his 1972 "Mormon Will" continues to generate controversy, with some historians questioning whether Hughes actually signed the document found at the LDS Church office. The circumstances surrounding his death are also disputed, with forensic analysis suggesting possible medical negligence or even deliberate harm through unnecessary injections. His relationship with organized crime figures in Las Vegas and his role in the 1960s political corruption scandals involving Richard Nixon remain areas of ongoing historical investigation. Additionally, the extent to which his obsessive-compulsive behaviors were exacerbated by his physical injuries versus being independent psychological conditions continues to be debated among medical historians.
+
+Source: adapted from "Howard Hughes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Howard_Hughes

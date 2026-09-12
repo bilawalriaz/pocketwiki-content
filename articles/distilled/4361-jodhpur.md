@@ -53,3 +53,5 @@ Known as the "Blue City" for its old town's blue-painted buildings, Jodhpur's ma
 
 ## Debates and Open Questions
 The source does not explicitly detail ongoing scholarly debates. However, it notes historical contingencies, such as the initial reluctance of Maharaja Hanwant Singh to join India and the persuasion by Vallabhbhai Patel that led to Jodhpur's accession, highlighting the complex political negotiations during India's integration.
+
+Source: adapted from "Jodhpur" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jodhpur

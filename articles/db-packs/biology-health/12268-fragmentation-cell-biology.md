@@ -44,3 +44,5 @@ Fragmentation can also be a sign of damage or disease.
 A **schistocyte** is a fragmented red blood cell caused by mechanical injury inside the circulation. Schistocytes appear when the normally smooth endothelium, the inner lining of blood vessels, is roughened or crossed by fibrin strands, and they are a classic finding in hemolytic anemia. They also occur in advanced iron deficiency anemia, where the fragility of poorly made cells themselves is the likely cause.
 
 Sperm DNA fragmentation is measured as the percentage of sperm with broken DNA. In an average male fewer than 4% of sperm carry fragmented DNA. Smoking and similar exposures raise that fraction. Higher fragmentation correlates negatively with sperm motility, morphology, and concentration, and with fertilisation rate and embryo cleavage rate.
+
+Source: adapted from "Fragmentation (cell biology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fragmentation_%28cell_biology%29

@@ -50,3 +50,5 @@ The *David* has been widely replicated. A famous plaster cast, made in 1847, was
 - **Symbolism of the Stump**: The *broncone* is interpreted both as a structural support and as a possible political reference to the Medici emblem.
 - **Cause of Cracks**: The primary cause of the leg cracks is attributed to the statue's slight forward tilt, which developed due to foundation subsidence and the added weight of a plaster mould.
 - **Ownership Dispute**: In 2010, the municipality of Florence and the Italian Culture Ministry disputed legal ownership of the statue based on historical documents.
+
+Source: adapted from "David (Michelangelo)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/David_%28Michelangelo%29

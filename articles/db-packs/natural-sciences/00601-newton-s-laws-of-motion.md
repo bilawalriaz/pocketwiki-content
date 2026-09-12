@@ -27,3 +27,5 @@ Later reformulations restate the same physics in more powerful mathematical form
 ## Where the laws fail
 
 Special relativity modifies momentum to p = mγv at high speed and breaks the third law's assumption of instant action at a distance. General relativity replaces gravity with curved spacetime, recovering Newton's law only when gravity is weak. Quantum mechanics replaces definite positions and momenta with operators, though Ehrenfest's theorem shows that quantum averages still follow Newton's second law. Outside these regimes, the three laws describe motion exactly.
+
+Source: adapted from "Newton's laws of motion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion

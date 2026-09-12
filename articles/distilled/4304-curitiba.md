@@ -51,3 +51,5 @@ The city's cultural life is enriched by its immigrant heritage, seen in neighbor
 - **Favela Growth:** Despite its planning reputation, Curitiba faces challenges with irregular settlements. Favela population growth (12.4% between 2000-2010) outpaced the city's overall growth (10.3%).
 - **Transportation Future:** While the BRT is celebrated, the city has the most cars per capita in Brazil and has long planned a metro system, with tenders announced in 2014 for a 17.6 km line.
 - **Sustainability vs. Reality:** The city's "green" image is periodically scrutinized against issues like air pollution from high car ownership and the management of its river basins, which are prone to flooding.
+
+Source: adapted from "Curitiba" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Curitiba

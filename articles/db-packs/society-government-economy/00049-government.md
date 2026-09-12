@@ -27,3 +27,5 @@ Governments are typically organized into three branches—legislature, executive
 - **Federalism**: Sovereignty divided constitutionally between a central authority and constituent units.
 - **Republic**: A state treated as a "public matter" (*res publica*), with offices elected or appointed, not inherited.
 - **Trias politica**: Separation of government into legislative, executive, and judicial branches.
+
+Source: adapted from "Government" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Government

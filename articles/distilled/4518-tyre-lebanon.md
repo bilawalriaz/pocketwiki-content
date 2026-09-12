@@ -51,3 +51,5 @@ The economy relies on tourism, construction, services, and remittances from the 
 - The origins of the city's founders are debated, with traditions suggesting they came from nearby Sidon.
 - The precise date and nature of the northern harbour's construction and use throughout antiquity are subjects of ongoing archaeological investigation.
 - The impact of climate change, particularly sea-level rise and coastal erosion, on Tyre's archaeological sites and modern city is a critical and evolving concern.
+
+Source: adapted from "Tyre, Lebanon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tyre%2C_Lebanon

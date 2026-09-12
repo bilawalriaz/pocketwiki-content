@@ -46,3 +46,5 @@ Leeds has extensive road, bus, and rail networks. It is connected to the nationa
 - The source notes that defining the exact geographic extent of "Leeds" is complex, varying by context (city centre, urban sprawl, administrative boundaries, travel-to-work area).
 - The city's public transport has been a long-standing issue, with multiple failed proposals for a metro or light rail system (Supertram, trolleybus) before the 2023 announcement of a new tram plan.
 - The source mentions that air quality in Leeds was declared "unsafe" by the WHO in 2019, leading to a proposed Clean Air Zone that was later cancelled due to reported improvements.
+
+Source: adapted from "Leeds" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leeds

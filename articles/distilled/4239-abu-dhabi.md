@@ -50,3 +50,5 @@ The city is connected by major highways and bridges. Zayed International Airport
 - Human rights organizations criticize the treatment of foreign workers in Abu Dhabi and the wider UAE, describing it as "endemic to the system."
 - Rapid development has created urban challenges, including traffic congestion, parking shortages, and overcrowding, as the population far exceeds original planning estimates.
 - The effectiveness and timeline for achieving economic diversification goals outlined in plans like Abu Dhabi Economic Vision 2030 remain subjects of ongoing development.
+
+Source: adapted from "Abu Dhabi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abu_Dhabi

@@ -63,3 +63,5 @@ Al-Kindī flourished under pro-Muʿtazilite caliphs (al-Maʾmūn, al-Muʿtaṣim
 - **Authenticity of *De radiis*:** The influential optical treatise *On Rays* (De radiis stellarum) is widely considered a 13th-century Latin forgery (apocryphal), yet it shaped medieval European ray theory; the extent of al-Kindī's actual ray theory vs. the forgery's innovations is unclear.
 - **Naturalized Prophecy:** Al-Kindī's explanation of prophetic visions via the faculty of imagination (rather than revelation) was attacked by al-Ghazālī as heretical; scholars debate whether this represents a consistent naturalism or a tactical harmonization.
 - **Extent of Lost Corpus:** Ibn al-Nadīm lists 260+ books; only fragments survive. The 20th-century rediscovery of 24 works in a Turkish library suggests more may exist, potentially altering assessments of his originality in mathematics or cryptography.
+
+Source: adapted from "Al-Kindi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Al-Kindi

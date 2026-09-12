@@ -43,3 +43,5 @@ Common goods sit in the top-right cell: competitive and open. Public goods raise
 ## Relation to normal goods
 
 A **normal good** has demand that rises with consumer income and a negative price elasticity of demand, so quantity demanded moves opposite to price, with substitution and income effects reinforcing each other. Because that demand pattern matches the behaviour of a common good, a normal good in this technical sense is also classified as a common good. The two terms describe overlapping slices of the same four-quadrant taxonomy.
+
+Source: adapted from "Common good (economics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Common_good_%28economics%29

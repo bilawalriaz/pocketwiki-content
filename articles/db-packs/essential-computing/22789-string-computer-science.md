@@ -39,3 +39,5 @@ A *substring* of *t* is a string *s* such that *t* = *usv*; a *prefix* has *u* e
 ## Security
 
 Two vulnerabilities trace directly to how strings are stored. A missing terminator in a C-style string lets adjacent memory be read or overwritten, the classic *buffer overflow*. A manipulated length field in a length-prefixed string lets code read or write past the intended boundary, so safe access requires bounds checking. Strings from outside the program, such as form input, must be validated before interpretation, because unvalidated input is the standard vector for *injection* attacks, in which text meant as data is executed as instructions or queries.
+
+Source: adapted from "String (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/String_%28computer_science%29

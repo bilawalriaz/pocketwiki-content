@@ -52,3 +52,5 @@ The 19th century was characterized by political instability, alternating between
 *   Historians analyze the complex causes of the Spanish Civil War, weighing political polarization, economic inequality, religious conflict, and foreign intervention.
 *   The extent to which American silver influx caused Spain's 17th-century economic decline, versus other factors like war expenditure and domestic policy, is debated.
 *   The historical significance and interpretation of the Reconquista remain contested, viewed by some as a unifying national epic and by others as colonial expansion and religious intolerance.
+
+Source: adapted from "History of Spain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Spain

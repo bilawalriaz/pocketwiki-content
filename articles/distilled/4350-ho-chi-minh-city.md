@@ -46,3 +46,5 @@ The city's architecture blends French colonial, Chinese, and modern styles. Key 
 - The exact etymology of "Sài Gòn" is debated; it may derive from Khmer "Prey Nokôr" or a Chinese term for "embankment."
 - The city's actual population is debated, with official census figures sometimes considered underestimates due to unregistered migrants.
 - The long-term impact of the 2025 provincial mergers on the city's governance, economy, and infrastructure is a subject of ongoing planning and observation.
+
+Source: adapted from "Ho Chi Minh City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ho_Chi_Minh_City

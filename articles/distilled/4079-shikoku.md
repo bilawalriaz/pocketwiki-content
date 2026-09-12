@@ -40,3 +40,5 @@ Shikoku is connected to Honshu by three expressways: the Kobe-Awaji-Naruto (east
 ## Debates and Open Questions
 - The expected economic development from the completion of the Honshu-Shikoku bridges has not fully materialized, raising questions about the long-term impact of improved connectivity on the region's economy.
 - The causes and potential solutions for Shikoku's sustained population decline since 1990 are ongoing concerns for regional planning.
+
+Source: adapted from "Shikoku" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shikoku

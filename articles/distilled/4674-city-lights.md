@@ -40,3 +40,5 @@ The film premiered successfully in January 1931, with Albert Einstein in attenda
 - **Autobiographical elements**: Psychologist Stephen Weissman has hypothesized that the film is highly autobiographical, with the blind girl representing Chaplin's mother and the millionaire representing his father.
 - **Artistic defiance**: The film is seen as an act of defiance against the sound film era, with Chaplin believing his Tramp character could not be adapted to talkies and still work.
 - **Critical reception**: While overwhelmingly praised, some contemporary critics, like Alexander Bakshy of *The Nation*, were highly critical, objecting to its silent format and sentimentality.
+
+Source: adapted from "City Lights" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/City_Lights

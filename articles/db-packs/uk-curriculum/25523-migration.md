@@ -23,3 +23,5 @@ Computational migration transfers active or stored assets between systems. Virtu
 "Migration" serves as a title for numerous albums, films, books, and a play, reflecting the concept's metaphorical resonance for transition and displacement. In body modification, piercing migration describes a piercing's gradual shift from its initial placement due to tissue pressure, jewelry weight, or immune response.
 
 Across all domains, migration implies a transition that redefines the relationship between the moving entity and its new surroundings.
+
+Source: adapted from "Migration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Migration

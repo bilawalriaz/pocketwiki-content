@@ -66,3 +66,5 @@ Rabelais shaped the novel form. La Bruyère (1688) called his work an "enigma" m
 - **Gender politics**: Feminist readings conflict—some episodes suggest misogyny (e.g., Panurge’s fear of cuckoldry), others a critique of patriarchal marriage norms; no consensus exists.
 - **Carnival vs. humanism**: Bakhtin’s "folk carnival" thesis challenges the humanist consensus; does Rabelais subvert official culture from below, or articulate a top-down Erasmian reform program?
 - **Political quietism**: The 1911 *Catholic Encyclopedia* claims he "cared little for liberty" and idealized a "tyrant who loves peace"; modern scholars debate whether Thélème’s elitism undermines its libertarian motto.
+
+Source: adapted from "François Rabelais" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais

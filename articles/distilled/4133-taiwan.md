@@ -48,3 +48,5 @@ Taiwan transitioned from a one-party state under martial law (1949–1987) to a 
 - **Political Status:** The core debate is whether Taiwan should pursue formal independence, maintain the status quo, or eventually unify with China. Public opinion strongly favors the status quo, but identification as "Taiwanese" has risen sharply.
 - **International Recognition:** Taiwan's exclusion from the UN and most international bodies, and its participation under the name "Chinese Taipei," remains a major point of contention and practical difficulty.
 - **Cross-Strait Relations:** The nature of future relations with the PRC is uncertain. The PRC's Anti-Secession Law threatens the use of "non-peaceful means" if Taiwan moves toward formal independence, while the U.S. maintains a policy of "strategic ambiguity" regarding its defense commitments.
+
+Source: adapted from "Taiwan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taiwan

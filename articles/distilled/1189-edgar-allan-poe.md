@@ -48,3 +48,5 @@ Though underappreciated in his lifetime, Poe influenced global literature. Write
 
 ## Debates and Open Questions  
 The cause of Poe’s death remains unknown, with theories including alcoholism, rabies, carbon monoxide poisoning, and cooping. Whether Poe was a drug user is debated; Griswold’s claims lack evidence. Some scholars question whether Poe’s “Philosophy of Composition” was retroactively constructed. The identity of the “Poe Toaster” remains unconfirmed despite claims by Sam Porpora.
+
+Source: adapted from "Edgar Allan Poe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edgar_Allan_Poe

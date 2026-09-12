@@ -46,3 +46,5 @@ Belly dance is a low-impact, weight-bearing exercise suitable for all fitness le
 - The exact origins of belly dance are debated, with theories linking it to ancient fertility rites or social dances, though concrete evidence is lacking.
 - The identity of the dancer "Little Egypt" who performed at the 1893 Chicago World's Fair is disputed.
 - In Greece, there is ongoing controversy over whether *Tsifteteli* represents Greek culture or is a relic of Ottoman oppression.
+
+Source: adapted from "Belly dance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Belly_dance

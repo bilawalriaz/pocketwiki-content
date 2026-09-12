@@ -46,3 +46,5 @@ In his later career, Parsons expanded his theory to encompass social evolution, 
 - **Action vs. Systems:** A major debate, notably with Jürgen Habermas, concerned whether Parsons' later systems theory contradicted his earlier, more voluntaristic action theory, potentially making it "mechanistic."
 - **Rejection of the Label:** Parsons himself stated in 1975 that "functional" and "structural functionalist" were inappropriate descriptors for his theory, a point of ongoing scholarly clarification.
 - **American Exceptionalism:** His defense of a unique American value system rooted in Calvinism has been debated for its historical accuracy and potential for cultural bias.
+
+Source: adapted from "Talcott Parsons" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Talcott_Parsons

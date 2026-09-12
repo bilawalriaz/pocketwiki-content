@@ -42,3 +42,5 @@ The city is famed for the "Benin Bronzes," intricate brass sculptures and plaque
 - The historical accounts of Benin City's size and condition vary significantly between different European visitors (e.g., Pinto vs. van Nyendael), reflecting possible periods of growth and decline or differing observer perspectives.
 - The practice of human sacrifice in the Benin state is noted in some firsthand accounts (like Alan Boisragon's) but is debated by historians. James D. Graham states it was "an integral part" of the state religion, but acknowledges that firsthand accounts varied significantly.
 - The origins and identity of the legendary figure Oduduwa are interpreted differently by Edo and Yoruba traditions, though both agree he sent his son Oranmiyan to found the Benin dynasty.
+
+Source: adapted from "Benin City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Benin_City

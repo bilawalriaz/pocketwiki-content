@@ -58,3 +58,5 @@ Even Wang Anshi eulogized him as the greatest literary figure of the age. Ming s
 - **Zuiwengting Ji interpretation**: The essay’s tone oscillates between Daoist reclusion (*fengyue*) and Confucian public engagement; the balance remains contested from Qing commentators to modern scholars.
 - **Authorship of *Five Dynasties* history**: The work was discovered posthumously; its relationship to the official *New History of the Five Dynasties* (which Ouyang also supervised) complicates textual transmission studies.
 - **Charges of 1067**: The sexual-misconduct investigation is universally regarded as a political frame-up, but its exact orchestrators and the extent of Emperor Shenzong’s complicity are unclear.
+
+Source: adapted from "Ouyang Xiu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ouyang_Xiu

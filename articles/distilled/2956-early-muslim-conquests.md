@@ -46,3 +46,5 @@ The conquests led to large-scale Arab migration and the establishment of garriso
 - **Impact of Taxation on Conversion**: Scholars disagree on whether the jizya was a primary incentive for conversion to Islam or if social status and other factors were more significant.
 - **Nature of Early Islamic Rule**: Revisionist historians question the traditional narrative, suggesting the early Islamic state and its conquests may have been constructed retrospectively from diverse regional sources.
 - **End of the Conquests**: The halt of rapid expansion by the mid-8th century is attributed to natural barriers, stronger resistance, diminishing returns, and a shift in caliphal priorities toward administration.
+
+Source: adapted from "Early Muslim conquests" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Early_Muslim_conquests

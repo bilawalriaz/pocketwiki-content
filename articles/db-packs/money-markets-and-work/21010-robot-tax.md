@@ -34,3 +34,5 @@ Very few places have one. On 6 August 2017, South Korea under President Moon pas
 Earlier, a robot tax had appeared in Mady Delvaux's European Parliament bill on ethical standards for robots, but lawmakers stripped that provision from the final text.
 
 By removing a subsidy rather than adding a levy, the South Korean design avoids the "what counts as a robot" problem that has stalled broader proposals. Its narrower base also means it cannot directly fund income support for displaced workers, which is the other half of what most proponents want.
+
+Source: adapted from "Robot tax" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robot_tax

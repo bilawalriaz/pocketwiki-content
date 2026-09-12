@@ -50,3 +50,5 @@ Austin operates under a council-manager system with an 11-member city council. I
 - **Political Redistricting**: The 2003 Texas redistricting split Austin among multiple congressional districts, a move opponents characterized as partisan gerrymandering. The Supreme Court upheld the plan in 2006.
 - **Homelessness Policy**: The city has oscillated on public camping bans, lifting a 25-year ban in 2019 following a federal court ruling, then reinstating it via a 2021 ballot proposition after public debate.
 - **Infrastructure and Resilience**: Events like the 2011 drought, 2018 water crisis, and 2021 winter storm have raised questions about the city's preparedness for climate-related disasters and infrastructure failures.
+
+Source: adapted from "Austin, Texas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Austin%2C_Texas

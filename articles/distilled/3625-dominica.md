@@ -47,3 +47,5 @@ The economy is transitioning from agriculture to services, including ecotourism 
 - **Name Change**: There is ongoing debate about changing the country's name from Dominica to Waitukubuli to better reflect Indigenous heritage and avoid confusion with the Dominican Republic. Proponents argue it strengthens local identity, while opponents cite the high cost.
 - **Economic Citizenship Transparency**: The management and revenue use of the Citizenship by Investment programme have been frequent topics of domestic political controversy, with calls for greater transparency.
 - **Territorial Dispute**: Dominica has a long-running dispute with Venezuela over the status of Isla de Aves, a tiny islet west of Dominica, though a statement by Prime Minister Skerrit in 2006 unofficially acknowledged Venezuelan sovereignty.
+
+Source: adapted from "Dominica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dominica

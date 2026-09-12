@@ -45,3 +45,5 @@ Busan is known as the "capital of baseball" and is home to the Lotte Giants. The
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes the city's demographic decline (from 3.51 million in 2015 to 3.27 million in 2024), attributed to South Korea's economic shift toward high-tech industries centered around Seoul, away from Busan's traditional manufacturing base. This raises questions about the city's future economic trajectory and population sustainability.
+
+Source: adapted from "Busan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Busan

@@ -42,3 +42,5 @@ The Templo Mayor was dismantled to build a cathedral. Its location was rediscove
 - The exact founding date of Tenochtitlan is unclear; 13 March 1325 was a symbolic choice made in 1925.
 - The etymology of "Tenochtitlan" is uncertain. It is traditionally thought to mean "Among the prickly pears [growing among] rocks," but a late 16th-century manuscript suggests the vowel sound was different, leaving the true meaning debated.
 - Population estimates for the city at the time of Spanish contact vary widely, from over 200,000 to as high as 400,000 inhabitants.
+
+Source: adapted from "Tenochtitlan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tenochtitlan

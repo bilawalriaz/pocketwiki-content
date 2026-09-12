@@ -53,3 +53,5 @@ When a failure occurs, a **support process** typically unfolds:
 3. The assigned support engineer gathers the relevant data, reviews the application for programming errors, and consults the knowledge base. New errors generate new resolution steps that are recorded for the future.
 4. Fixes are routed to the right team: programming errors go to developers, workflow or data-entry errors trigger user retraining and revised instructions, and infrastructure problems go to the infrastructure team for permanent repair.
 5. The tracking system is reviewed periodically (daily, weekly, monthly) to monitor resolved, recurring, and pending issues, with reports going to IT management.
+
+Source: adapted from "Business software" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Business_software

@@ -32,3 +32,5 @@ The Arts and Crafts movement of the late 19th century began to narrow the status
 
 ## Debates and Open Questions
 The source highlights a central, ongoing debate: the validity and usefulness of the distinction between decorative and fine arts. This hierarchy, formalized in the Renaissance, has been challenged by post-modernist thought and movements like Arts and Crafts and Pattern and Decoration, which argue for a more inclusive evaluation of artistic value across different media and traditions.
+
+Source: adapted from "Decorative arts" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Decorative_arts

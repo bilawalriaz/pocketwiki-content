@@ -40,3 +40,5 @@ Theories on purpose include use as burial sites, astronomical markers, territori
 - The connection between druids and megaliths, proposed in the 19th century, is considered unproven but persists in popular imagination.
 - The exact methods used to transport and erect massive stones in prehistory remain a subject of experimental archaeology and scholarly disagreement.
 - The relationship between different regional megalithic traditions (e.g., whether European traditions were influenced by earlier West Asian ones like Göbekli Tepe) is uncertain.
+
+Source: adapted from "Megalith" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Megalith

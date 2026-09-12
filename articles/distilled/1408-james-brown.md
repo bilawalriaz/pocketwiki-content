@@ -74,3 +74,5 @@ Disco's slicker sound eclipsed Brown's raw funk; post-1976, only "Bodyheat" (197
 
 ### Death, Memorials, and Estate Battle
 Brown lived in Beech Island, SC (Type 2 diabetes, prostate cancer treated 2004). Dec 23, 2006: dentist noted ill health; sent to Emory Crawford Long Hospital. Canceled concerts but expected release for NYE shows
+
+Source: adapted from "James Brown" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_Brown

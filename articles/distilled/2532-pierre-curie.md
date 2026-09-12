@@ -43,3 +43,5 @@ Curie died instantly on 19 April 1906 after slipping under a horse-drawn cart in
 
 ## Debates and Open Questions
 The source does not detail specific scholarly debates about Pierre Curie's work. However, it notes that his investigation into spiritualism was a serious scientific inquiry into unanswered questions about magnetism, not a pursuit of the supernatural.
+
+Source: adapted from "Pierre Curie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pierre_Curie

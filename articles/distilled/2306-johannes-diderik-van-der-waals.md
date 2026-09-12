@@ -38,3 +38,5 @@ Van der Waals married Anna Magdalena Smit in 1865; they had three daughters and 
 
 ## Debates and Open questions
 Van der Waals's work was developed during a period when the existence of molecules was actively disputed. A strong philosophical current, led by figures like Ernst Mach and Wilhelm Ostwald, denied the reality of molecules, considering the molecular hypothesis unnecessary and unproven. Van der Waals's thesis and subsequent work were a direct affirmation of molecular reality, helping to win over opponents to the molecular theory.
+
+Source: adapted from "Johannes Diderik van der Waals" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals

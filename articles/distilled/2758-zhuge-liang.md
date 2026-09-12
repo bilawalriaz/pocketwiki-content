@@ -44,3 +44,5 @@ Zhuge Liang's administration was noted for its fairness and efficiency. He imple
 - **Authenticity of the Second *Chu Shi Biao***: Historians like Qian Dazhao question the authenticity of a second memorial attributed to Zhuge Liang, noting discrepancies in tone and anachronistic details.
 - **Guo Chong's Five Anecdotes**: These stories, which portray Zhuge Liang in various lights (e.g., using harsh laws, the Empty Fort Strategy), were deemed unreliable by the historian Pei Songzhi and later scholars due to contradictions with official records.
 - **Battle of Wuzhang Plains Accounts**: Conflicting historical sources exist on the circumstances of Zhuge Liang's death. The *Book of Wei* claims he vomited blood in frustration, while the *Han-Jin Chunqiu* places his death in a different location, both disputed by later historians.
+
+Source: adapted from "Zhuge Liang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zhuge_Liang

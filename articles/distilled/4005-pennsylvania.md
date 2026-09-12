@@ -49,3 +49,5 @@ Pennsylvania's culture reflects its history and diversity, with notable foods li
 - The exact timing of the first human settlement in present-day Pennsylvania is unclear, though the Meadowcroft Rockshelter site suggests activity over 10,000 years ago, possibly pre-dating the Clovis culture.
 - The political alignment of Pennsylvania's suburbs and rural areas continues to evolve, influencing its status as a critical swing state in national elections.
 - The long-term economic and environmental remediation of the state's extensive abandoned mine lands remains a significant challenge.
+
+Source: adapted from "Pennsylvania" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pennsylvania

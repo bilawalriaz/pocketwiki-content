@@ -44,3 +44,5 @@ Lee cultivated strong relationships with world leaders, including those from the
 - **Legacy of "Asian Values"**: The concept is contested as either a valid cultural framework for development or a justification for authoritarian rule used to suppress dissent.
 - **Eugenics and Social Engineering**: Lee's policies encouraging educated women to have more children and offering sterilization grants to lower-income women are criticized as discriminatory and based on questionable genetic assumptions.
 - **Use of Defamation Laws**: The practice of suing political opponents and foreign media for defamation is seen by critics as a tool to silence dissent, while supporters argue it protects reputations and maintains political standards.
+
+Source: adapted from "Lee Kuan Yew" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lee_Kuan_Yew

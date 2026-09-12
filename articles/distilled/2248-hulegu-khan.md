@@ -46,3 +46,5 @@ Hulegu's legacy is complex. His conquests caused immense destruction, particular
 - **Religious Attitude**: Scholars debate whether Hulegu's actions constituted a general war against Islam. Evidence shows he targeted specific Muslim political institutions, employed Muslim administrators, and had personal ties to Christianity and Buddhism, complicating a simple characterization.
 - **Scale of Destruction**: Death tolls from the sack of Baghdad vary widely, from 90,000 to over a million, and cannot be easily substantiated.
 - **Battle of Damascus Narrative**: Some modern historians question the traditional account of the Christian rulers Hethum, Bohemond, and Kitbuqa entering Damascus together in triumph, suggesting it may be apocryphal.
+
+Source: adapted from "Hulegu Khan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hulegu_Khan

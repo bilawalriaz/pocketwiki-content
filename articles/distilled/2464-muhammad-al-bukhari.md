@@ -40,3 +40,5 @@ Scholars debate his legal affiliation. Some, like Jonathan Brown, identify him w
 *   **Reason for Exile**: Was al-Bukhari exiled from Nishapur due to his theological stance on the createdness of human recitation of the Quran, or because of the jealousy of other scholars, as asserted by Al-Dhahabi and Taj al-Din al-Subki?
 *   **Legal Affiliation**: Was al-Bukhari primarily a Hanbali traditionalist, a Zahiri, a Shafi'i, or an independent mujtahid who did not adhere to any of the four major madhhabs (schools of law)?
 *   **Theological School**: To what extent was al-Bukhari a follower of the Kullabi school of theology, and how did this influence his hadith selections and interpretations?
+
+Source: adapted from "Muhammad al-Bukhari" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muhammad_al-Bukhari

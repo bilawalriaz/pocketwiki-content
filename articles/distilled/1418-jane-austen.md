@@ -70,3 +70,5 @@ Adaptations began with family completions of fragments (19th century) and Rosina
 - **Cassandra’s letter destruction:** Why did Cassandra burn most letters (1801–1804 especially)? To protect family reputation from Jane’s "acid" comments, or to shape the "good quiet Aunt Jane" legend?
 - **French reception:** Why did pirated French translations (Montolieu, 1810s–20s) radically alter plots/characters? Was it translator incompetence or adaptation to French taste for "lush romantic fantasies" (Noel King)?
 - **Sanditon’s direction:** Would the unfinished novel have developed its "energetic invalid" heroine Diana Parker into satire or sympathy? Austen mocked hypochondria yet described herself similarly days before stopping.
+
+Source: adapted from "Jane Austen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jane_Austen

@@ -83,3 +83,5 @@ Euler was a devout Christian who believed in biblical inspiration, arguing again
 - **Diderot legend**: The story of Euler’s algebraic “proof of God” before Diderot is almost certainly apocryphal (Diderot knew mathematics), but it reflects contemporary perceptions of Euler’s piety and the role of mathematics in apologetics.
 - **Priority of π notation**: William Jones used π for the circle ratio in 1706; Euler’s adoption in *Introductio* (1748) cemented its universal acceptance.
 - **Sanssouci fountains**: Frederick the Great ridiculed Euler’s hydraulic calculations, but modern analysis suggests Euler’s mathematics was sound; the failure likely lay in execution or communication.
+
+Source: adapted from "Leonhard Euler" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leonhard_Euler

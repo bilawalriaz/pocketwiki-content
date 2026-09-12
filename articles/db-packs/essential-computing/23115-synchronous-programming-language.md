@@ -29,3 +29,5 @@ A separate tradition, Communicating Sequential Processes (CSP), is also synchron
 ## Languages and history
 
 The first synchronous languages were invented in France in the 1980s: Esterel, Lustre, and SIGNAL. Many others followed, including Argos, Atom (a Haskell-embedded DSL for hard real-time work), Averest, Blech, ChucK (synchronous reactive programming for audio), LabVIEW, LEA, PLEXIL, SOL, and SyncCharts.
+
+Source: adapted from "Synchronous programming language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Synchronous_programming_language

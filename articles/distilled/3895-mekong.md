@@ -44,3 +44,5 @@ Major threats include drought linked to climate change and dams, water pollution
 - The long-term sustainability of hydropower development versus the need for renewable energy is heavily debated, with calls for a moratorium on new dams.
 - The precise impact of upstream dams on downstream flood pulse dynamics, drought severity, and fish stocks remains poorly understood and contested.
 - The effectiveness of international agreements in balancing national development interests with the health of the shared river ecosystem is an ongoing challenge.
+
+Source: adapted from "Mekong" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mekong

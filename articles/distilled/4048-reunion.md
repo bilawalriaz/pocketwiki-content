@@ -47,3 +47,5 @@ The economy has shifted from a sugar monoculture to a service-based model, with 
 - The origin of the name "Réunion" is debated; it may symbolically refer to the 1792 meeting of federated troops in Paris, but no document confirms this.
 - The "Children of Creuse" relocation program (1963–1982), where over 1,600 Réunionese children were sent to mainland France, is a source of ongoing controversy. Lawsuits alleging kidnapping were dismissed by French and European courts.
 - The environmental impact of climate change on the island's unique ecosystems and coral reefs is a growing concern, with studies indicating adaptation strategies are incompletely integrated into planning.
+
+Source: adapted from "Réunion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/R%C3%A9union

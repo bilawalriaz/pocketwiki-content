@@ -78,3 +78,5 @@ Ocean protection includes marine protected areas (MPAs), pollution prevention po
 ## Debates and open questions
 
 The origin of Earth's oceans remains unknown. The timing of first liquid water is debated: rocks dated at 3.8 billion years by one study and 4.28 billion by another show water evidence, but if oceans existed earlier, evidence may have been destroyed by crustal recycling. A 2020 model suggests sufficient water may have been present since planetary formation began, kept liquid by greenhouse gases despite the young Sun's lower luminosity. The ocean as a whole will never be fully explored; some estimate only 5% has been explored, and as of 2024 just over 26% of the seafloor is mapped at high resolution.
+
+Source: adapted from "Ocean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ocean

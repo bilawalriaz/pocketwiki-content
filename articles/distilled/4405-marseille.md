@@ -41,3 +41,5 @@ Situated on the Mediterranean coast, Marseille is surrounded by hills and featur
 
 ## Debates and open questions
 The source highlights ongoing debates about Marseille's social fabric. A key question is how to address the deep economic and geographic segregation between the poorer, majority-Muslim north and the wealthier south. Furthermore, the city's struggle with rising organized crime and drug trafficking since the early 2020s presents a major challenge to its safety and governance, with officials comparing the threat to terrorism.
+
+Source: adapted from "Marseille" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marseille

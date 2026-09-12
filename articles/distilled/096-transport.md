@@ -90,3 +90,5 @@ Until the Industrial Revolution, transport remained slow and costly. The 19th ce
 - **Road development's mixed results**: Road network development has not always fulfilled its original intentions; it has contributed to environmental degradation and, in some cases, loss of cultural traditions and marginalisation of indigenous peoples. Air links have had an even more devastating impact.
 - **Connected and autonomous vehicles**: Since 2016, these innovations are said to form "future mobility," but concerns remain on safety and cybersecurity.
 - **Privatization**: A movement to privatize roads and other infrastructure has gained ground and adherents, reversing a century of government control.
+
+Source: adapted from "Transport" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Transport

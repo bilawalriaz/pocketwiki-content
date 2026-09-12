@@ -68,3 +68,5 @@ Scientists excavate **snow pits** to measure height, SWE, strength, cover extent
 - **Hydrological model continuity**: Need for continuous snow cover data under clouds/darkness drives reliance on passive microwave, yet integration with higher-resolution optical data remains a challenge.
 - **Climate change attribution**: Observed Northern Hemisphere snow cover decline (–1.3%/decade since 1960s) and regional increases (China 1978–2006) are attributed to global climate change, but regional mechanisms (e.g., higher latitudes north of 40° gaining depth from warmer, moister air) complicate projections.
 - **Snowmaking sustainability**: Energy-intensive snowmaking expands as natural snow reliability declines; threshold temperatures rise with lower humidity, but energy consumption limits widespread adoption.
+
+Source: adapted from "Snow" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Snow

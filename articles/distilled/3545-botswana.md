@@ -48,3 +48,5 @@ Traditional music is vocal and uses string instruments. Basket weaving is a note
 - The government's relocation of San people from the Central Kalahari Game Reserve is contested. Officials cite wildlife conservation, while critics and UN reports link it to the area's diamond wealth and human rights concerns.
 - While Botswana has a long history of stable democracy, recent indices (like V-Dem) noted a period of "democratic backsliding" before the 2024 election, which was seen as a corrective.
 - The country's heavy reliance on diamond revenue poses a long-term economic challenge, prompting ongoing debates about the pace and success of economic diversification.
+
+Source: adapted from "Botswana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Botswana

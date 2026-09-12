@@ -49,3 +49,5 @@ Public transit is operated by the Société de transport de Montréal (STM), whi
 - The exact origin of the name "Montréal" is debated. While generally derived from "Mount Royal," one theory suggests an Italian translation via a 1556 map, a claim disputed by the Commission de toponymie du Québec.
 - The reasons for the disappearance of the Saint Lawrence Iroquoians from the St. Lawrence valley before 1603 are not definitively known, with theories including outmigration, epidemics, or intertribal wars.
 - The 2002 municipal merger was highly controversial, particularly in English-speaking suburbs, leading to partial demergers in 2006.
+
+Source: adapted from "Montreal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Montreal

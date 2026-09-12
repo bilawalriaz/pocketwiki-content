@@ -43,3 +43,5 @@ Numerous countries and organizations, including the US, UK, India, and the UN, p
 - The exact death toll remains uncertain, with estimates ranging from 300,000 to 500,000.
 - There is debate over how much weather information was shared between Indian and Pakistani authorities before the storm, given political tensions.
 - The degree to which the government's relief failures directly caused the subsequent political crisis and war is a subject of historical analysis.
+
+Source: adapted from "1970 Bhola cyclone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/1970_Bhola_cyclone

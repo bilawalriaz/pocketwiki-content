@@ -45,3 +45,5 @@ In the war's final years, Himmler held high military commands, including Army Gr
 - Historians debate the exact nature of Himmler's relationship with Hitler, noting his subservience yet ambition to succeed him.
 - The precise motivations behind Himmler's failed peace negotiations in 1945 and whether he acted out of ideology, self-preservation, or a mix of both remain subjects of analysis.
 - The full extent of his personal involvement in specific operational decisions of the Holocaust, versus his role as an administrator and enforcer of Hitler's will, is continually studied.
+
+Source: adapted from "Heinrich Himmler" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Heinrich_Himmler

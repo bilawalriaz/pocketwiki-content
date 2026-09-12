@@ -36,3 +36,5 @@ The North Anatolian Fault runs beneath the sea, causing major earthquakes like t
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it highlights ongoing environmental and geological challenges. The primary open questions relate to the future management of the sea's pollution, the ecological impact of events like mucilage, and the seismic risk posed by the North Anatolian Fault to the densely populated basin.
+
+Source: adapted from "Sea of Marmara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sea_of_Marmara

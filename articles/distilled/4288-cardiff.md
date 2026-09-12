@@ -50,3 +50,5 @@ Cardiff Central is the largest railway station in Wales. The city is connected b
 - The decision to make Cardiff the capital in 1955 is noted to have been influenced by political considerations (marginal Conservative constituencies) rather than a reasoned assessment of a capital's functions.
 - The 1997 Welsh devolution referendum saw Cardiff voters reject the National Assembly for Wales by 55.4% to 44.2%, partly attributed to a preference for a British rather than exclusively Welsh identity in the city.
 - The 2001 census population figures for Cardiff were disputed by the city council, which argued they seriously under-reported the population, particularly ethnic minorities in inner-city areas.
+
+Source: adapted from "Cardiff" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cardiff

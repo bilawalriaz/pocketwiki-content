@@ -33,3 +33,5 @@ The environment includes abiotic factors (temperature, radiation, light, chemist
 ## History
 
 Herodotus described mutualism c. 425 BC. George Perkins Marsh published *Man and Nature* in 1864, an early ecosystem concept. Haeckel coined "Ökologie" in 1866; Ellen Swallow Richards adopted "oekology" in the U.S. by 1892. Frederic Clements published the first American ecology book in 1905. Raymond Lindeman's 1942 paper founded trophic dynamics. Rachel Carson's *Silent Spring* (1962) mobilized environmentalism; MacArthur and Wilson's island biogeography appeared in 1967. Clements's superorganism view sparked a holism-versus-individualism debate that lasted into the 1970s. Edward O. Wilson predicted in 1992 that the 21st century would be "the era of restoration in ecology."
+
+Source: adapted from "Ecology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ecology

@@ -71,3 +71,5 @@ In March 1975, Friedman visited Pinochet’s Chile (post-1973 coup), lecturing o
 - **Inequality and Labor Power:** Critics (Mishel) argue Friedmanite policies (deregulation, anti-union, globalization) caused wage stagnation and soaring top incomes; defenders attribute trends to technology and global labor supply.
 - **Methodological Positivism:** Whether predictive success justifies unrealistic assumptions (e.g., rational utility maximization, perfect competition) remains contested in philosophy of economics.
 - **Fiscal vs. Monetary Dominance:** Friedman insisted monetary policy dominates; New Keynesians and MMT proponents argue fiscal-monetary interaction matters, especially at zero lower bound.
+
+Source: adapted from "Milton Friedman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Milton_Friedman

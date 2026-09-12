@@ -60,3 +60,5 @@ Animated films share labor intensity and high costs with live action, but the ma
 ## Debates and open questions
 
 The exact neurological causes of the illusion of motion remain uncertain; it has traditionally been attributed to persistence of vision, phi phenomenon, or beta movement, but this is still debated. The 1954 British adaptation of *Animal Farm* is speculated to have been funded by the CIA for Cold War propaganda purposes, though this is not confirmed. The term "cartoon" was shortened to "toon" in the late 1980s, popularized by *Who Framed Roger Rabbit* (1988), reflecting evolving terminology.
+
+Source: adapted from "Animation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Animation

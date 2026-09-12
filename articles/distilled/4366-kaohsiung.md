@@ -49,3 +49,5 @@ Since the late 1990s, Kaohsiung has leaned politically toward the Pan-Green Coal
 - The origin of the name "Takau" is debated, with theories linking it to the Siraya language for "bamboo forest" or to the name of the Makatao tribe.
 - The city suffers from Taiwan's economic North–South divide, which remains a center of political debate.
 - There is a push for Kaohsiung City to annex the Port of Kaohsiung (currently under national administration) to facilitate better regional planning.
+
+Source: adapted from "Kaohsiung" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kaohsiung

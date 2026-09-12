@@ -70,3 +70,5 @@ Returning to Persia, Alexander executed misbehaving satraps, paid off his soldie
 - **Sexuality**: Ancient sources are ambiguous; Athenaeus claims Alexander was "excessively keen on boys," but no contemporary explicitly describes a sexual relationship with Hephaestion, though they were compared to Achilles and Patroclus.
 - **Divine claims**: Whether Alexander truly believed he was the son of Zeus-Ammon or used the claim pragmatically to rule culturally disparate peoples remains debated.
 - **Reliability of sources**: All contemporary accounts are lost; later writers (Arrian, Diodorus, Curtius, Plutarch, Justin) relied on now-lost originals, with Arrian generally considered most reliable.
+
+Source: adapted from "Alexander the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alexander_the_Great

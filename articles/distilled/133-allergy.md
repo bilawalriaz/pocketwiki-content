@@ -86,3 +86,5 @@ Allergology is the medical specialty studying, diagnosing, and treating allergie
 ## Debates and open questions
 
 The hygiene hypothesis remains debated: some studies in China and Ethiopia show increased allergy in people infected with intestinal worms, conflicting with the theory. Research on gut flora establishment and allergy is conflicting. Helminthic therapy clinical trials are testing whether parasitic worms can treat allergies; it may be that "parasite" is inappropriate and a previously unsuspected symbiosis is at work. Immunotherapy's benefit for food allergies is unclear and not recommended. The 2025 peanut guideline analysis noted pediatric experts caution that real-world implementation may be inconsistent.
+
+Source: adapted from "Allergy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Allergy

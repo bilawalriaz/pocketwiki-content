@@ -39,3 +39,5 @@ After Ashoka's death around 232 BCE, the empire was weakened by a succession of 
 *   **The Arthashastra's Authenticity:** While once attributed to Chandragupta's advisor Chanakya, the text is now believed by scholars to be a compilation from the early centuries CE, limiting its value as a direct source for Mauryan administration.
 *   **The Extent of Ashoka's Pacifism:** Historians debate the practical impact of Ashoka's renunciation of violence. Some argue it weakened the empire's military backbone, while others, like Romila Thapar, suggest its effects have been "grossly exaggerated."
 *   **The Nature of Mauryan Control:** The empire's control outside core regions may have been indirect, relying on the loyalty of local military commanders and trade routes rather than deep administrative penetration, as suggested by the absence of edicts in large parts of the subcontinent.
+
+Source: adapted from "Maurya Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maurya_Empire

@@ -39,3 +39,5 @@ The oil shock prompted a permanent shift in global energy policy. Western nation
 
 ## Debates and Open Questions
 Scholars debate the embargo's effectiveness. Most conclude it failed its primary political objective, as Israel did not withdraw to its pre-1967 borders. Historian Roy Licklider argued the embargo was a failure because targeted nations did not change their policies. However, Daniel Yergin contends it "remade the international economy." Robert Lacey noted that while the embargo itself was not decisive, its interaction with other forces had a massive multiplier effect. The long-term economic and political consequences, such as the rise of political Islam and the decline of OPEC's dominance, remain subjects of analysis.
+
+Source: adapted from "1973 oil crisis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/1973_oil_crisis

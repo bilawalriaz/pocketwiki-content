@@ -49,3 +49,5 @@ Education aims to produce ethically cultivated individuals who are grave, articu
 - **Textual Integrity**: The relationship between the received text and the lost Lu, Qi, and Old Text versions is uncertain. The fragmentary final chapter (Yao Yue) may be an accretion or contain transmission errors.
 - **Authenticity of Sayings**: Some scholars question the authenticity of certain sayings, noting that 75% of Confucius's quotes in the *Mencius* are absent from the *Analects*.
 - **Interpretation**: The meaning of key terms like *ren* is debated. He Yan's commentary fused Confucianism with Daoism, while Zhu Xi's aimed for a unified Confucian orthodoxy, showing how interpretation has shifted with intellectual trends.
+
+Source: adapted from "Analects" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Analects

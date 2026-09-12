@@ -33,3 +33,5 @@ Some theorists warn of catastrophic long-term risk. Nick Bostrom's *Superintelli
 ## AI welfare
 
 A separate question is whether advanced AI systems could deserve moral consideration themselves. Thomas Metzinger called in 2018 for a moratorium, running to 2050, on research that might create conscious AI, citing the risk of an "explosion of artificial suffering." Ilya Sutskever wrote in February 2022 that today's large neural networks may be "slightly conscious," and Anthropic hired its first AI welfare researcher in 2024 before launching a "model welfare" programme in 2025 that studies signs of distress and low-cost interventions. Shulman and Bostrom note that digital systems could, in principle, be "super-beneficiaries," deriving well-being from resources far more efficiently than biological minds.
+
+Source: adapted from "Ethics of artificial intelligence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence

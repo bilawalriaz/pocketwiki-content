@@ -41,3 +41,5 @@ Rhodes was a fervent imperialist who believed in the supremacy of the "Anglo-Sax
 - **Rhodes's Racism**: Scholars debate whether Rhodes was a biological racist or a "cultural racist" who believed in a hierarchy of civilization. His policies disenfranchised black Africans, but he also supported their right to vote under certain conditions and included non-white races in his scholarship's eligibility.
 - **The Rhodes Must Fall Movement**: The campaign to remove Rhodes statues, particularly at the University of Cape Town and Oriel College, Oxford, has sparked global debate about how to handle symbols of colonialism and whether they can be separated from the institutions that benefit from them.
 - **Historical Context vs. Modern Judgment**: Historians like Peter Godwin argue Rhodes should be judged as "a man of his time," while critics contend his actions and ideology have lasting harmful consequences that require condemnation.
+
+Source: adapted from "Cecil Rhodes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cecil_Rhodes

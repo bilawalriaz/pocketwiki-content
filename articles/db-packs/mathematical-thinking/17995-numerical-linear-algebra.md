@@ -38,3 +38,5 @@ The workhorse of modern iteration is projection onto a Krylov subspace, building
 The field was shaped by John von Neumann, Alan Turing, James H. Wilkinson, Alston Scott Householder, George Forsythe, and Heinz Rutishauser, applying the first machines to ballistics and partial differential equations. The first serious attempt to control computer error was von Neumann and Herman Goldstine's 1947 paper "Numerical inverting of matrices of high order," and growth since has tracked hardware: bigger matrices, higher precision, and parallel computing.
 
 Dedicated environments include MATLAB, Maple, and Mathematica, while general-purpose languages rely on libraries such as LAPACK (used by R), NumPy for Python, and BLAS for C and Fortran.
+
+Source: adapted from "Numerical linear algebra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Numerical_linear_algebra

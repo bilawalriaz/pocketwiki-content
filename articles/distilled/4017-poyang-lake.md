@@ -34,3 +34,5 @@ Poyang Lake's area fluctuates dramatically, averaging 3,500 square kilometers in
 
 ## Debates and open questions
 The primary debate concerns the proposed Poyang Lake Dam. The Jiangxi local government supports it to maintain water levels, while scientists and environmental groups argue it would cause devastating effects on wildlife diversity. The long-term effectiveness of fishing moratoriums and other conservation measures in reversing the decline of species like the finless porpoise remains an open question.
+
+Source: adapted from "Poyang Lake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Poyang_Lake

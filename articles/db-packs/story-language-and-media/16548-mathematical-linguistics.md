@@ -50,3 +50,5 @@ t = (x̄ − μ) / √(s²/N),
 where x̄ = #w₁w₂/N is the observed proportion, μ = P(w₁)·P(w₂) is the probability under the null hypothesis that the two words appear independently, and s² = x̄(1 − x̄) ≈ x̄. For large N the t-test reduces to a Z-test.
 
 Lexicostatistics models lexical similarity between languages connected by a family, sprachbund, language contact, or other historical relation. Quantitative linguistics (QL) studies language learning, change, and structure statistically; its most ambitious goal is a general theory of language as a system of interrelated language laws, a programme for which synergetic linguistics was designed. Quantitative comparative linguistics combines lexicostatistics, glottochronology, and phylogenetic methods borrowed from biology.
+
+Source: adapted from "Mathematical linguistics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematical_linguistics

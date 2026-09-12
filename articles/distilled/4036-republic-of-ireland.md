@@ -49,3 +49,5 @@ The population was 5.15 million in 2022. Irish (Gaeilge) is the first official l
 - **Neutrality**: The extent and future of Ireland's military neutrality, especially given its participation in NATO's Partnership for Peace and PESCO.
 - **Language Revival**: The effectiveness of state policies in reviving the Irish language beyond Gaeltacht areas and official use.
 - **Church-State Relations**: The ongoing secularization of Irish society and the future role of religious patronage in the education system.
+
+Source: adapted from "Republic of Ireland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Republic_of_Ireland

@@ -51,3 +51,5 @@ After a world tour, Grant lost a bid for a third Republican nomination in 1880. 
 *   **Cause of the Panic of 1873:** Scholars discuss whether the depression was primarily caused by the Coinage Act of 1873 (the "Crime of '73") or by broader structural issues in the post-war economy.
 *   **Grant's Personal Struggles:** The extent and impact of Grant's alcoholism during his military and political career remain a subject of biographical analysis and debate.
 *   **Historical Reputation:** The dramatic fall and subsequent 21st-century rehabilitation of Grant's reputation among historians is a key topic in Civil War and presidential historiography.
+
+Source: adapted from "Ulysses S. Grant" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ulysses_S._Grant

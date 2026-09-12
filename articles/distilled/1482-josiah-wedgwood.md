@@ -71,3 +71,5 @@ Wedgwood is credited as a pioneer of modern marketing and managerial accounting.
 - **Wedgwood’s role in managerial accounting**: Anthony Hopwood (LSE) identifies him as an "early adopter/founder of managerial accounting principles," but the extent of his systematic innovation versus ad hoc practice is debated in accounting history (McKendrick 1970).
 - **Relationship with John Turner the elder**: The source notes they were "friend, and commercial rival" and that "their works have sometimes been misattributed," implying ongoing scholarly difficulty in distinguishing their outputs.
 - **Cause of death**: The source gives "probably cancer of the jaw" but does not confirm a diagnosis, reflecting the limits of 18th-century medicine.
+
+Source: adapted from "Josiah Wedgwood" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Josiah_Wedgwood

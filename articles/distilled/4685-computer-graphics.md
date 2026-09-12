@@ -47,3 +47,5 @@ Computer graphics are essential in film, video games, television, advertising, a
 
 ## Debates and Open Questions
 The source text does not explicitly detail ongoing scholarly debates or open questions within the field of computer graphics.
+
+Source: adapted from "Computer graphics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer_graphics

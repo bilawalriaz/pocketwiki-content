@@ -78,3 +78,5 @@ A lifelong tuberculosis sufferer, Tocqueville died in 1859, survived by his wife
 - **Race and democracy:** Tocqueville opposed Gobineau’s racial hierarchy yet deemed Black and Indigenous peoples “undemocratic” and predicted Indigenous extinction. The tension between his anti-slavery moralism and his colonial policies remains contested.
 - **Religion’s role:** Was Tocqueville’s “utilitarian” view of religion (social cement, separated from state) a genuine theological stance or a political instrument for stabilizing democracy?
 - **Unfinished second volume of *The Old Regime and the Revolution*:** The incomplete work leaves open how Tocqueville would have traced the Revolution’s legacy into the Second Empire.
+
+Source: adapted from "Alexis de Tocqueville" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alexis_de_Tocqueville

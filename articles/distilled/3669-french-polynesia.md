@@ -44,3 +44,5 @@ The economy is dependent on tourism, French financial assistance, and exports li
 
 ## Debates and Open Questions
 The central political debate is the question of independence versus maintaining ties with France. This was highlighted by the UN's 2013 re-inscription of French Polynesia as a non-self-governing territory, which made it eligible for a UN-backed independence referendum. The legacy and potential health impacts of French nuclear testing remain a significant issue. There are also ongoing discussions about the balance of power between the central government in Papeete and the more remote island groups.
+
+Source: adapted from "French Polynesia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_Polynesia

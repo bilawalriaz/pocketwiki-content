@@ -59,3 +59,5 @@ Tezuka’s influence spans the entire manga/anime ecosystem. He directly mentore
 - **Mushi Pro’s labor model**: Tezuka’s cost-cutting (double Toei wages but brutal deadlines, unpaid overtime, credit appropriation) established the exploitative production norms that persist in the anime industry today.
 - **Phoenix’s incompleteness**: The unfinished state of his magnum opus raises hermeneutic questions: does the fragmentation mirror the work’s theme of eternal recurrence, or does it represent a failure of the "life's work" concept?
 - **AI continuation (Tezuka 2020)**: The 2020 AI-generated *Paidon* project, endorsed by his son and Tezuka Productions, reopens debates on authorship, style transfer, and whether a "new Tezuka work" is possible without the creator’s consciousness.
+
+Source: adapted from "Osamu Tezuka" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Osamu_Tezuka

@@ -37,3 +37,5 @@ The East China Sea is a region of significant military activity, with Taiwan, Ja
 
 ## Debates and Open Questions
 The core debate is the legal and geological basis for maritime boundary delimitation: should it be based on the principle of natural prolongation (China's stance) or the equidistance/median line principle (Japan's stance)? Another open question is the future of joint development agreements, such as the stalled 2008 Sino-Japanese plan for the Chunxiao gas field, and whether resource competition will escalate or lead to cooperative frameworks. The status and resource rights around submerged features like Socotra Rock also remain unresolved.
+
+Source: adapted from "East China Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/East_China_Sea

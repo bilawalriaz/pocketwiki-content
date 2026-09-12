@@ -33,3 +33,5 @@ In the 1960s, a dispute over navigation rights arose between Argentina and Parag
 
 ## Debates and Open Questions
 The source text does not contain explicit scholarly debates or open questions about the Paraná River itself. The primary conflict presented is the historical political and economic dispute between Argentina and Paraguay over navigation rights and infrastructure development in the 1960s and 1970s.
+
+Source: adapted from "Paraná River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paran%C3%A1_River

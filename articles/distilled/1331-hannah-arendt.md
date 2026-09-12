@@ -73,3 +73,5 @@ Arendt is widely considered the 20th century’s most influential political theo
 - **Systematic theory vs. episodic insight:** Arendt rejected "systems"; scholars dispute whether her work constitutes a coherent political theory (civic republicanism) or a constellation of brilliant, context-bound interventions.
 - **Unfinished *Life of the Mind*:** The intended third part on "Judging" is reconstructed only from lectures and fragments; its relationship to Kant’s *Critique of Judgment* and to *vita activa* remains interpretive.
 - **Contemporary applicability:** The surge of interest post-2016 tests whether "banality of evil," "lying in politics," and "origins of totalitarianism" illuminate 21st-century authoritarianism, post-truth politics, and refugee crises—or whether historical specificity limits transfer.
+
+Source: adapted from "Hannah Arendt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hannah_Arendt

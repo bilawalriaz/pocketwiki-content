@@ -63,3 +63,5 @@ Courbet’s independence—"He belonged to no school, to no church, to no instit
 *   **Political vs. aesthetic motivation:** Scholars dispute whether Courbet’s Realism was primarily a political project (anarchist/socialist critique of hierarchy) or an aesthetic one (materialist reform of painting), though the source shows they were deeply intertwined.
 *   **Authenticity of the "unschooled peasant" persona:** Courbet actively cultivated an image of rustic ignorance, yet he was highly literate, strategically manipulated the press, and engaged deeply with art history and theory.
 *   **Fate of looted works:** Numerous Courbet paintings seized by Nazis from Jewish collections (e.g., the Herzog, Wolfson, and Gurlitt troves) remain missing or subject to ongoing restitution claims, complicating the provenance of his oeuvre.
+
+Source: adapted from "Gustave Courbet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gustave_Courbet

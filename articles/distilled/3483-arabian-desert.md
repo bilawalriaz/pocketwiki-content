@@ -33,3 +33,5 @@ The conservation status is critical/endangered. Primary threats include overgraz
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates, but it notes that the Arabian Desert's classification as an extension of the Sahara is a key geographical fact. The precise boundaries and biogeographical realms (Palearctic vs. Afrotropical) for the ecoregion are defined but could be subject to further study.
+
+Source: adapted from "Arabian Desert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabian_Desert

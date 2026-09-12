@@ -45,3 +45,5 @@ Sulla died in 78 BC, leaving behind a complex legacy. His reforms were designed 
 *   **Sulla's Motivations:** Scholars debate whether Sulla's reforms were a genuine attempt to restore the traditional Republic or a personal power grab disguised with archaic rhetoric. His resignation from the dictatorship is a key point in this debate.
 *   **The "Sullan Myth":** Historians question whether the uniformly hostile view of Sulla as a tyrant emerged immediately after his death or was a later construction, possibly shaped by Caesarian propaganda after the civil wars.
 *   **Effectiveness of Reforms:** His constitutional changes, particularly the weakening of the tribunate and the expansion of the Senate, are debated as to whether they were workable long-term or inherently unstable, contributing to the Republic's final collapse.
+
+Source: adapted from "Sulla" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sulla

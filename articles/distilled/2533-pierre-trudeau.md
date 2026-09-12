@@ -56,3 +56,5 @@ In retirement, Trudeau practiced law and remained an influential voice, successf
 - **Constitutional Legacy:** The patriation of the Constitution is celebrated for entrenching rights but criticized for being done without Quebec's consent, which some argue fueled subsequent sovereignty movements.
 - **Use of the War Measures Act:** The necessity and proportionality of invoking the Act during the October Crisis remain debated, with critics viewing it as an overreach of state power.
 - **Centralization vs. Federalism:** Trudeau's vision of a unified, bilingual state is seen by admirers as essential for national unity and by critics as an attempt to diminish provincial autonomy and cultural distinctiveness, particularly in Quebec and the West.
+
+Source: adapted from "Pierre Trudeau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pierre_Trudeau

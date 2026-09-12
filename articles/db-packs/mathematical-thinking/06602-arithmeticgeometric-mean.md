@@ -52,3 +52,5 @@ A geometric–harmonic mean follows the same template: GH(x, y) = 1/M(1/x, 1/y) 
 Elliptic integrals. With a₀ = 1 and g₀ = cos α, the iteration gives M(1, cos α) = π / (2K(sin α)), so K(k) = π / (2·M(1, √(1−k²))). This is the standard method for the quarter period of elliptic functions, and it underlies elliptic filter design.
 
 Elementary functions. Brent introduced the first AGM algorithms for fast evaluation of eˣ, sin x, and cos x by combining the iteration with Landen's ascending transformations.
+
+Source: adapted from "Arithmetic–geometric mean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean

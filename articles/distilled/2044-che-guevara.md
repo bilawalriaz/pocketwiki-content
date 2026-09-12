@@ -48,3 +48,5 @@ Guevara grew critical of the Soviet Union, viewing it as a complicit imperialist
 *   **Economic Philosophy:** Guevara's economic policies in Cuba, prioritizing moral incentives over material ones and rapid industrialization, are widely considered to have failed, leading to economic decline and a later return to sugar monoculture.
 *   **Role in the Missile Crisis:** The extent of Guevara's personal responsibility for bringing Soviet missiles to Cuba, and his subsequent anger at the Soviet Union for withdrawing them without Cuban consent, remains a point of historical analysis.
 *   **The "Che Myth":** Scholars debate how a figure who advocated violent revolution and worked in a one-party state became a global, often commercialized, icon of rebellion and youth culture. His image, particularly the *Guerrillero Heroico* photograph, has transcended its political origins.
+
+Source: adapted from "Che Guevara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Che_Guevara

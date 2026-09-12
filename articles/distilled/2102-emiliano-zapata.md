@@ -46,3 +46,5 @@ President Carranza made eliminating Zapata a priority. In April 1919, Zapata was
 - **Scale of Land Reform**: While Zapata's vision was radical, the full-scale land redistribution he sought was not enacted until the presidency of Lázaro Cárdenas (1934–1940).
 - **Personal Life**: Historical scrutiny exists regarding Zapata's close relationships with men, including Ignacio de la Torre y Mier and Manuel Palafox, and their potential romantic nature.
 - **Myth vs. History**: Zapata's posthumous transformation into a national icon and symbol of indigenous and peasant resistance continues to be shaped by political and cultural forces.
+
+Source: adapted from "Emiliano Zapata" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emiliano_Zapata

@@ -53,3 +53,5 @@ Samurai culture blended martial arts with literary and artistic pursuits like wa
 - The extent to which Zen Buddhism was truly central to samurai philosophy versus being a later Western projection is debated. Scholars note it was one of many Buddhist schools followed, not necessarily the dominant one for all samurai.
 - The historical accuracy and social prevalence of "bushido" as a formal, practiced code during the samurai's heyday is questioned, with much of its codification occurring in the peaceful Edo period.
 - The degree to which the samurai's legendary social mobility and meritocracy during the Sengoku period was a reality versus a later mythologization is a point of scholarly discussion.
+
+Source: adapted from "Samurai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samurai

@@ -68,3 +68,5 @@ Bakunin’s marriage to Antonia Kwiatkowska (26 years his junior) in Siberia was
 - **Authoritarian Personality vs. Libertarian Theory:** Paul Avrich and others highlight the tension between Bakunin’s anti-authoritarian writings and his personal tendency to dominate disciples and create secret hierarchical societies.
 - **Predictive Validity:** Noam Chomsky and others cite Bakunin’s forecast that Marxist "dictatorship of the proletariat" would become a one-party dictatorship *over* the proletariat as a rare successful prediction in social science; critics argue it conflates Leninism with Marx’s original intent.
 - **Revolutionary Strategy: Spontaneity vs. Organization:** Bakunin oscillated between trusting spontaneous popular insurrection and building secret revolutionary societies; the unresolved tension informs debates on anarchist organization today.
+
+Source: adapted from "Mikhail Bakunin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mikhail_Bakunin

@@ -23,3 +23,5 @@ Demand for construction engineers swings sharply with economic cycles because mu
 ## Remuneration
 
 Salaries depend on sector, country, and experience. A 2010 UK survey of the construction and built environment industry put the average civil engineer salary at £29,582, rising from £23,813 at three to six years' experience to £38,214 at fourteen to twenty years. In the United States, the source gives a May 2013 national average of $85,640 for civil engineers, a closely related role.
+
+Source: adapted from "Construction engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Construction_engineering

@@ -90,3 +90,5 @@ Animal copulation typically serves reproduction, though bonobos, chimpanzees, an
 - Cross-cultural variations in age at first intercourse challenge universal sexual health guidelines.  
 - Religious exemptions in rape law historically allowed marital immunity, now largely abolished but still influential in some regions.  
 - The classification of hypersexuality as a behavioral addiction in psychiatric manuals remains contentious.
+
+Source: adapted from "Sexual intercourse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sexual_intercourse

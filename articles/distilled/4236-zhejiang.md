@@ -45,3 +45,5 @@ The population is predominantly Han Chinese, with the largest subgroup speaking 
 ## Debates and Open questions
 - The sustainability of the "Zhejiang model" is debated, with concerns about its efficiency, resource demands, and ability to transition to high-tech industries.
 - The implementation of religious regulations, such as the "Three Remodelings and One Demolition" operations, has been controversial, particularly regarding the demolition of religious sites and removal of crosses.
+
+Source: adapted from "Zhejiang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zhejiang

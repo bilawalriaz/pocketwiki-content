@@ -50,3 +50,5 @@ Serbian culture reflects its position between Byzantine, Central European, and O
 - **EU Accession**: While a strategic goal, the timeline and conditions for Serbia's EU membership are subjects of ongoing negotiation and domestic debate.
 - **Democratic Backsliding**: International analysts have noted concerns about democratic backsliding, media freedom, and the concentration of power since 2012.
 - **Lithium Mining**: A proposed major lithium mine project has sparked significant public debate and protests over environmental concerns.
+
+Source: adapted from "Serbia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Serbia

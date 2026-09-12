@@ -61,3 +61,5 @@ Proudhon’s legacy is heavily contested.
 *   **Status of "Property is Freedom":** In *Theory of Property*, Proudhon redefines property as a liberty-guaranteeing bulwark against the state. Is this a dialectical synthesis of "theft" and "possession," a pragmatic concession, or a theoretical contradiction?
 *   **Bigotry vs. Theory:** To what extent do Proudhon’s antisemitic and anti-feminist writings (largely private) invalidate his libertarian framework? Most scholars (Graham, McKay, Gemie) argue they are "asides" contradicting his core egalitarianism, but feminists (Nochlin) and critics (Schapiro) view them as structural to his patriarchal "justice."
 *   **Classification of Mutualism:** Is mutualism "individualist anarchism" (market-based, possession-focused) or "social anarchism" (federated, collective means of production)? The source notes it is widely considered a synthesis or "middle way" between the two.
+
+Source: adapted from "Pierre-Joseph Proudhon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon

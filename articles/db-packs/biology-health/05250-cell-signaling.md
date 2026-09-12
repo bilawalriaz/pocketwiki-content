@@ -45,3 +45,5 @@ Cells also stop responding. Receptor-mediated endocytosis pulls activated recept
 ## Signaling in other organisms
 
 Each cell responds to specific extracellular signals, and this response underlies development, tissue repair, immunity, and homeostasis. Errors in signaling contribute to cancer, autoimmunity, and diabetes. In bacteria, quorum sensing lets cells coordinate behavior such as bioluminescence (first observed in *Aliivibrio fischeri*) once a population is dense enough, using autoinducers that can create positive feedback loops. Slime molds use diffusible signals, including cyclic AMP in *Dictyostelium* and the dipeptide glorin in *Polysphondylium violaceum*, to aggregate into fruiting bodies through chemotaxis.
+
+Source: adapted from "Cell signaling" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cell_signaling

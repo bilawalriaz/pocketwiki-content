@@ -17,3 +17,5 @@ The early atmosphere was thicker and wetter, but explaining liquid water under t
 A long-standing puzzle is methane. It should survive only about 400 years in Mars's oxidising atmosphere, so any persistent detection implies an active source. ESA's Trace Gas Orbiter found no methane to a limit of 0.05 ppb, but Curiosity measured seasonal variations and a 7.2 ppb spike in 2013–14. As of 2024, methane has only been found in Gale Crater. Candidate sources include water–rock reactions, radiolysis, and Fischer–Tropsch synthesis, with living methanogens as a possible but unsupported origin.
 
 Human missions could exploit this air: the Sabatier reaction (`CO₂ + 4H₂ → CH₄ + 2H₂O`) can make rocket fuel, and in 2021 Perseverance demonstrated oxygen production by electrolysing compressed, heated CO₂ through a zirconia electrolyte, generating 122 g of O₂ total as of 2023.
+
+Source: adapted from "Atmosphere of Mars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atmosphere_of_Mars

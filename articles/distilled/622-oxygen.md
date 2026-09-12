@@ -72,3 +72,5 @@ NFPA 704: Compressed O₂ is non-flammable/non-reactive but an oxidizer; liquid 
 *   **Oxygen–evolution causal links:** Detailed mechanisms linking specific O₂ concentration changes to evolutionary innovations (e.g., Cambrian explosion) remain elusive despite broad correlation.
 *   **Solar oxygen isotope anomaly:** The Sun's higher ¹⁶O/¹⁸O ratio vs. Earth implies an unknown process depleted ¹⁶O from the protoplanetary disk before planetary accretion; the mechanism is unidentified.
 *   **Atmospheric O₂ decline:** Current slight downward trend is attributed to fossil fuel burning, but long-term consequences and feedbacks with carbon cycle/climate are under study.
+
+Source: adapted from "Oxygen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oxygen

@@ -38,3 +38,5 @@ Following independence, Dnipro's voters initially favored pro-Russian parties. T
 *   **Year of Foundation:** The official founding date is disputed. The Soviet-era date of 1776 was promoted for political reasons, while local historians argue for earlier Cossack settlements. As of December 2025, the Dnipro City Council was consulting experts to set a new official year.
 *   **Political Identity:** The city's political trajectory has shifted dramatically, from a pro-Russian stronghold to a center of Ukrainian patriotism, a transition solidified by the 2014 Euromaidan and the 2022 invasion.
 *   **Environmental Impact:** The city's heavy industrial base has led to significant air and water pollution, described by some sources as an environmental crisis.
+
+Source: adapted from "Dnipro" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dnipro

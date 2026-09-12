@@ -40,3 +40,5 @@ The stalemate began to crack in 1917. The German withdrawal to the fortified Hin
 *   The strategic wisdom of the battles of Verdun and the Somme is heavily debated. While they inflicted massive casualties on the German army, the Entente losses were also staggering, leading some historians to question if the war of attrition was a viable strategy.
 *   The causes and scale of the 1917 French Army mutinies are analyzed to understand the limits of soldier endurance and the impact on French military capability for the rest of the war.
 *   The "Stab-in-the-back" myth (Dolchstoßlegende), which claimed the German army was undefeated in the field but betrayed by civilians, is a key historical debate about post-war German politics and the rise of Nazism.
+
+Source: adapted from "Western Front (World War I)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_Front_%28World_War_I%29

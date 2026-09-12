@@ -41,3 +41,5 @@ Hideyoshi launched two large-scale invasions of Korea (1592 and 1597) with the u
 - The primary reason for the Toyotomi regime's downfall is debated, with Hideyoshi's loss of all adult heirs, leaving only a child, being a key factor.
 - The exact motivations and strategic goals of the Korean invasions, particularly whether the conquest of China was a realistic objective, remain subjects of historical analysis.
 - The extent to which Hideyoshi's personal inferiority complex, stemming from his peasant background, influenced his later policies and behavior is discussed by historians.
+
+Source: adapted from "Toyotomi Hideyoshi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi

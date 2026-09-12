@@ -25,3 +25,5 @@ The core engineering problem is balance. Engineers must match the volume taken f
 ## Calculation software
 
 Earthwork software is usually a CAD add-on, often an extension to a package such as AutoCAD. Its main job is to calculate cut and fill volumes, producing material and time estimates. Most products extract terrain elevations from plans using contour lines and spot heights, draw shaded cut and fill maps, generate cross sections, and render terrain in 3D. Different products use different volume algorithms: triangulated irregular networks and triangular prisms are common, but high-density grids and cross-section methods are also used, so the same input data can produce different results. Some programs focus on transport optimisation and construction planning rather than volume calculation.
+
+Source: adapted from "Earthworks (engineering)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Earthworks_%28engineering%29

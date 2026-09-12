@@ -41,3 +41,5 @@ Woods holds numerous records, including the most weeks at world No. 1, 82 PGA To
 - **Greatest of All Time:** While widely considered one of the greatest, debates persist comparing his career to Jack Nicklaus's, particularly regarding major championship totals (Woods: 15, Nicklaus: 18).
 - **Impact on Competitors:** Studies suggest other top golfers scored worse when competing directly against Woods, a psychological effect attributed to his "superstar" status.
 - **Future of Career:** Following his 2026 arrest and statement about seeking treatment, Woods's future participation in professional golf is uncertain.
+
+Source: adapted from "Tiger Woods" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tiger_Woods

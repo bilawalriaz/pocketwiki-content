@@ -46,3 +46,5 @@ This distinction matters at the edges. Some integrable functions have no antider
 If $f$ is merely Lebesgue integrable and continuous at a point $x_0$, then $F(x) = \int_a^x f$ is differentiable at $x_0$ with $F'(x_0) = f(x_0)$. Relaxing further, $F' = f$ holds almost everywhere, which is Lebesgue's differentiation theorem. The Newton–Leibniz formula remains valid for the Henstock–Kurzweil integral, which integrates more functions than Lebesgue's version. In higher dimensions the fundamental idea becomes the generalized Stokes theorem: for a smooth $(n-1)$-form $\omega$ on an oriented $n$-dimensional manifold $M$ with boundary $\partial M$,
 $$\int_M d\omega = \int_{\partial M} \omega,$$
 which recovers the divergence theorem, gradient theorem, and classical Stokes theorem as special cases.
+
+Source: adapted from "Fundamental theorem of calculus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus

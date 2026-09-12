@@ -41,3 +41,5 @@ The Xiongnu's rise was facilitated by a sequence of events. The Qin invasion of 
 - The exact reason for Modu's withdrawal at the Battle of Baideng is unclear; Sima Qian suggests his consort persuaded him, but a prolonged siege may also have been impractical.
 - The name "Modu" is reconstructed in Old Chinese and may represent a foreign word like *baɣatur* ("hero"), but its precise etymology and connection to later names (e.g., Oghuz Khagan, Attila's ancestor) are subjects of scholarly speculation.
 - Some historians argue Modu established the first fully developed decimal military organization, based on Chinese sources, but this is a point of analysis rather than a definitive fact from the records.
+
+Source: adapted from "Modu Chanyu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Modu_Chanyu

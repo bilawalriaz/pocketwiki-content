@@ -42,3 +42,5 @@ During the Civil War, Truth helped recruit Black men for the Union Army and work
 *   **The "Ain't I a Woman?" Speech:** The most significant debate concerns the accuracy of the 1863 version published by Frances Gage. Scholars note it likely fabricated the stereotypical dialect and the claim that Truth had 13 children sold away (she had five). The earlier 1851 account by Marius Robinson is considered more reliable.
 *   **Authorship of "The Valiant Soldiers":** Truth is credited with writing this Civil War song, but its authorship is disputed, with some linking it to the "Marching Song of the First Arkansas."
 *   **The "40 acres and a mule" Campaign:** The ultimate failure of Truth's seven-year lobbying effort for land grants highlights the federal government's abandonment of economic justice for freed people after the Civil War.
+
+Source: adapted from "Sojourner Truth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sojourner_Truth

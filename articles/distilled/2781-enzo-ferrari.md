@@ -44,3 +44,5 @@ Ferrari's final years saw both triumph and tragedy, including the deaths of driv
 - **The "Great Walkout" Cause**: A 1998 interview with former manager Romolo Tavoni suggested the 1962 exodus was not voluntary but an ousting following a disagreement with Ferrari over the role of his wife in the company.
 - **Driver Safety and Responsibility**: Ferrari's management coincided with a high number of driver fatalities (eight between 1955-1971). While contemporary Stirling Moss defended him, citing no mechanical failures, the Vatican newspaper compared him to Saturn consuming his sons.
 - **Personal Motivations**: Biographies, such as Brock Yates', portray Ferrari's personal life as complex, suggesting his marriage was for appearances and that his primary loves were racing and his son Dino.
+
+Source: adapted from "Enzo Ferrari" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Enzo_Ferrari

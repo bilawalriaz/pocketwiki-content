@@ -47,3 +47,5 @@ Before an operator runs, many languages silently **coerce** its operands to comp
 | Compound assignment | augmented | `+=`, `-=`, `<<=`, … |
 
 Operator systems differ across languages along several axes: the fixities allowed (APL supports prefix and infix; Smalltalk supports only infix and postfix), whether overloading is permitted (Haskell via type classes, Eiffel not), and whether new operator symbols can be introduced (Raku yes, C no).
+
+Source: adapted from "Operator (computer programming)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Operator_%28computer_programming%29

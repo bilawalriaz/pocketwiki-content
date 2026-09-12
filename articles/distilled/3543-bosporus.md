@@ -45,3 +45,5 @@ The Bosporus is famous for its Ottoman-era waterfront mansions (*yalı*), many b
 - **Formation Date**: The exact cause and timing of the Bosporus's formation are debated. The Black Sea deluge hypothesis (c. 5600 BC) is contested by geologists who believe the strait is much older.
 - **Kanal İstanbul**: The proposed artificial canal remains highly controversial due to environmental, economic, and geopolitical concerns, with construction not yet begun as of 2022.
 - **Governance**: While the Montreux Convention is in force, the strait's strategic importance ensures ongoing international interest and potential future diplomatic tensions regarding its control and usage.
+
+Source: adapted from "Bosporus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bosporus

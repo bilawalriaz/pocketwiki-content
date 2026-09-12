@@ -38,3 +38,5 @@ The museum has faced security issues, including a 2011 break-in during the Egypt
 
 ## Debates and Open Questions
 The source notes that the museum's original chronological display arrangement allotted "no rooms to intermediate periods, which were considered historically insignificant," reflecting a past scholarly bias. The ongoing transfer of collections to the Grand Egyptian Museum raises questions about the future role and identity of the historic Tahrir Square building.
+
+Source: adapted from "Egyptian Museum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Egyptian_Museum

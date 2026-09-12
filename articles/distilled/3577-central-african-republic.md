@@ -42,3 +42,5 @@ The CAR is a landlocked plateau country, with its southern border formed by trib
 - The role and impact of Russian military personnel (Wagner Group/Africa Corps) in the CAR is highly debated, with allegations of human rights abuses and creating a "vassal state" versus the government's view of them as essential for security.
 - The effectiveness and legacy of numerous international peacekeeping missions in the CAR, which has hosted "almost a dozen," are questioned given the persistent instability.
 - The causes and sectarian nature of the conflict since 2012 are analyzed, with debates on whether it is primarily religious, political, or driven by competition over resources and power.
+
+Source: adapted from "Central African Republic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Central_African_Republic

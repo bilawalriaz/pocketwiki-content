@@ -33,3 +33,5 @@ Two hardware variants exist. A two-stage booster with a **subcooling heat exchan
 A simpler form of economizer is **subcooling the liquid line** by any other means, such as a heat exchanger that uses the cold liquid to preheat domestic hot water. Internal heat exchangers also subcool the high-pressure liquid using the cold suction gas leaving the evaporator. That protects the compressor from liquid slugs and shifts more of the heat exchange into the phase-change region, where vapor-compression cycles move the most energy.
 
 A walk-in cooler can act as a refrigeration economizer in a more literal way as well. When outside air is at least about 5 °F cooler than the air inside the cooler, ducting outside air in and warm air out provides free cooling that replaces compressor work, provided the temperature difference is large enough to overcome the box's heat load.
+
+Source: adapted from "Economizer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economizer

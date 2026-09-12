@@ -44,3 +44,5 @@ The crash and subsequent depression were the largest financial crisis of the 20t
 
 ## Debates and Open Questions
 Scholars disagree on the crash's role in the Great Depression. Some argue the price swings alone were not severe enough to cause a systemic collapse. Others, like Milton Friedman, contend that the subsequent collapse of the banking system was the critical factor. Marxist historian Eric Hobsbawm viewed the crash as a pivotal 20th-century event that discredited liberal capitalism and boosted support for state planning. The debate continues over whether the crash was the primary cause of the Depression or merely a symptom of deeper economic weaknesses.
+
+Source: adapted from "Wall Street crash of 1929" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929

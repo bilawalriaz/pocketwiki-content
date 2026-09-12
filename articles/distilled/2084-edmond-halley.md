@@ -44,3 +44,5 @@ In 1703, Halley became Savilian Professor of Geometry at Oxford. He published a 
 - **Priority for Venus Transit Method**: While Halley is credited with proposing the method to measure the Sun's distance using a Venus transit, the idea was previously described by James Gregory, a fact Halley did not acknowledge.
 - **Accuracy of Early Work**: His calculations for the orbit of Kirch's Comet (1680–81) were inaccurate, estimating a 575-year period versus the actual ~10,000 years, though his later work on his own comet was precise.
 - **Religious Controversy**: His scientific explanations for biblical events (like the Flood) and his questioning of the Earth's age as per the Bible drew opposition from church authorities, affecting his career prospects.
+
+Source: adapted from "Edmond Halley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edmond_Halley

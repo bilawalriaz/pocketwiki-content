@@ -77,3 +77,5 @@ A **tachyonic field** has imaginary mass (*m² < 0*). This does not imply faster
 *   **Relativistic mass utility**: Pedagogical debate persists on whether the concept of velocity-dependent relativistic mass aids or hinders understanding, versus using only invariant mass and total energy.
 *   **Tachyonic fields**: While mathematically consistent (causality preserved), the physical interpretation of imaginary mass and the nature of the tachyon condensation process remain active theoretical topics.
 *   **Neutrino mass**: The Standard Model originally predicted massless neutrinos; observed oscillations imply non-zero mass, requiring an extension of the Higgs mechanism (e.g., seesaw mechanism) not yet confirmed.
+
+Source: adapted from "Mass" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mass

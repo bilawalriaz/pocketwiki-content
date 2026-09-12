@@ -55,3 +55,5 @@ The site entered popular imagination in 1843. Edward Thompson's excavations (189
 *   **Decline and Conquest:** The chronological relationship between Chichen Itza's decline (c. 1100 AD) and its claimed conquest by Mayapan in the 13th century is a "chronological conundrum" requiring further research.
 *   **Equinox Phenomenon:** The intentionality of the serpent shadow effect on El Castillo during equinoxes is questioned, as the effect is observable for weeks around the dates.
 *   **Cenote Sacrifices:** While artifacts and human remains are found in the Sacred Cenote, the exact nature and scale of sacrificial practices remain debated, with some Spanish sources potentially carrying colonial bias.
+
+Source: adapted from "Chichen Itza" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chichen_Itza

@@ -51,3 +51,5 @@ Paraguay's population of about 6 million is predominantly mestizo (mixed Europea
 *   The real causes of the Paraguayan War (1864–1870) are described as "highly debatable."
 *   The 2012 impeachment of President Fernando Lugo is considered a "politically motivated coup d'état" by his supporters and some neighboring countries, while the Organization of American States concluded it was constitutional.
 *   The origins of the name "Paraguay" are uncertain, with multiple theories based on Guaraní etymology.
+
+Source: adapted from "Paraguay" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paraguay

@@ -29,3 +29,5 @@ Engineering disasters in practice:
 | 2023 | Titan submersible | Carbon-fibre hull design flaws; warnings ignored |
 
 Software has caused disasters of its own: the Therac-25 radiation therapy machine delivered six overdoses; a clock-drift bug in Patriot Missile software at Dharan caused a failure to intercept; the Boeing 737 MAX MCAS contributed to Lion Air Flight 610 and Ethiopian Airlines Flight 302. In each case, a unit mismatch, an unverified control law, or an ignored warning combined with the absence of an independent test that would have caught it.
+
+Source: adapted from "Engineering disasters" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Engineering_disasters

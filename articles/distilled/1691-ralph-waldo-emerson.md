@@ -70,3 +70,5 @@ Emerson opposed slavery from youth but did not become a public abolitionist unti
 - **Pantheism vs. theism**: Emerson rejected a personal God separate from the world ("pantheist or pandeist"), yet invoked "Christ within us." The tension between impersonal Over-Soul and Christian language remains unresolved in his theology.
 - **Political quietism vs. engagement**: Emerson insisted reform comes through "moral agreement" not "militant action," yet supported John Brown and framed the Civil War as necessary "revolution." The consistency of his political philosophy is contested.
 - **Influence on Nietzsche**: Nietzsche called Emerson "the most gifted of the Americans" and annotated his essays heavily; the precise channels of influence (e.g., *Übermensch* vs. *Self-Reliance*) are still traced by comparatists.
+
+Source: adapted from "Ralph Waldo Emerson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson

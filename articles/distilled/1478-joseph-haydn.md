@@ -61,3 +61,5 @@ Born 18 years before J.S. Bach’s death, Haydn was shaped not by Baroque giants
 - **Op. 33 "new and special way"**: Charles Rosen argues Haydn’s 1781 claim was substantive (marking full Classical style), not mere salesmanship; the precise technical boundaries of this advance remain a scholarly focus.
 - **Folk material authenticity**: The extent to which Haydn’s "folk-like" themes quote actual folk songs versus composed imitation is an open musicological question (referenced under "Haydn and folk music").
 - **Business ethics**: Webster describes Haydn’s publishing practices (selling same work to multiple publishers) as "sharp practice" bordering on fraud; scholars debate whether this reflects ruthlessness or adaptation to nascent copyright and rampant piracy.
+
+Source: adapted from "Joseph Haydn" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Haydn

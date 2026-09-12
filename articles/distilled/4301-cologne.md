@@ -41,3 +41,5 @@ Today, Cologne is a major media and insurance center, home to broadcasters like 
 - The exact location of the early Jewish community approved by Emperor Constantine in 321 AD is assumed but not definitively proven.
 - The post-war reconstruction of historic landmarks like the Twelve Romanesque churches was not undisputed among architects and art historians at the time.
 - The "Cologne coterie," a web of political, economic, and cultural relationships, has been both a feature of the city's governance and a source of corruption scandals.
+
+Source: adapted from "Cologne" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cologne

@@ -45,3 +45,5 @@ Ancient critics ranked Demosthenes among the greatest Attic orators for his powe
 - **Effectiveness of Policy**: Historians like Polybius and Paparrigopoulos criticize Demosthenes as short-sighted for opposing the inevitable unification of Greece under Macedon, while others like Grote praise his principled defense of liberty.
 - **Authorship of Speeches**: The "Demosthenic corpus" includes speeches of disputed authorship, with scholars differing on which works are genuinely his.
 - **Accuracy of Biographical Anecdotes**: Many stories about his speech impediment and training come from Plutarch, written centuries later, and their historicity is uncertain.
+
+Source: adapted from "Demosthenes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Demosthenes

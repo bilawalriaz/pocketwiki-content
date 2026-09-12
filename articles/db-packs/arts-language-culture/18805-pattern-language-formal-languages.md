@@ -29,3 +29,5 @@ Pattern languages are incomparable with finite, regular, and context-free langua
 ## Learning from examples
 
 Given a finite sample S ⊆ Σ⁺, a pattern p is descriptive of S when S ⊆ L(p) and no proper sub-pattern of p covers S. A descriptive pattern can be found by brute force: enumerate all patterns, up to variable renaming, no longer than the shortest string in S; keep those whose language contains S; among those keep the longest; then pick one minimal under ≤. Because the enumeration is exhaustive, the class of pattern languages is identifiable in the limit from positive data, the property Angluin used to motivate the framework.
+
+Source: adapted from "Pattern language (formal languages)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pattern_language_%28formal_languages%29

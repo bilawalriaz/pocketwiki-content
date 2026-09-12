@@ -46,3 +46,5 @@ The strait is a critical shipping gateway for Northeast Asia. Taiwan uses it for
 - **Status of the Waters**: Is the Taiwan Strait considered "international waters"? China denies this, while the U.S. and others assert traditional navigation rights. The UNCLOS definition is ambiguous.
 - **The Median Line**: Is the median line a valid boundary for military and political purposes? The PRC rejects it, while Taiwan has historically used it as a defensive reference.
 - **Sovereignty and Control**: The fundamental debate over whether the strait is an internal water, territorial sea, or EEZ of one or both sides, or an international strait with transit passage rights, remains unresolved and central to regional security.
+
+Source: adapted from "Taiwan Strait" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taiwan_Strait

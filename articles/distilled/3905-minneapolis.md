@@ -54,3 +54,5 @@ The city's park system, designed by Horace Cleveland, is renowned. The Grand Rou
 - The long-term effects of the 2040 Comprehensive Plan, which ended single-family zoning, on housing affordability and racial segregation are still being evaluated.
 - The impact of Operation Metro Surge (2025-2026) on the city's economy, immigrant communities, and legal boundaries of federal vs. state authority is contested.
 - The effectiveness of police reform measures, including the consent decree and the Office of Community Safety, in reducing crime and addressing systemic racism remains a critical and unresolved issue.
+
+Source: adapted from "Minneapolis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Minneapolis

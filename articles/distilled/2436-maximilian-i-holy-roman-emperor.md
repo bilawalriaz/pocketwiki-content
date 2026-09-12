@@ -42,3 +42,5 @@ Maximilian was perpetually short of money, relying heavily on loans from German 
 
 ## Debates and Open Questions
 Scholars debate Maximilian's historical persona: was he the idealized "last knight" (*der letzte Ritter*), a chivalric dreamer, or a pragmatic, amoral Renaissance prince who pioneered modern statecraft? His financial practices are also contested; while he left enormous debts, some historians argue his investments in administration and military innovation were forward-looking. The effectiveness of his imperial reforms is another point of discussion—while he strengthened certain institutions, his failure to secure a permanent common tax hampered the Empire's development. Finally, his personal rule in the Netherlands is viewed by some historians as a period of political misstep and instability, contrasting with his later imperial legacy.
+
+Source: adapted from "Maximilian I, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maximilian_I%2C_Holy_Roman_Emperor

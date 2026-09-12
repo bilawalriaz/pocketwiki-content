@@ -44,3 +44,5 @@ In early 1945, Allied forces fought through the Rhineland, capturing 280,000 Ger
 - **Broad-front vs. narrow-front strategy**: A major debate among Allied commanders. Eisenhower favored a broad advance to share the burden, while Montgomery argued for a concentrated "narrow front" thrust, potentially to capture Berlin first.
 - **The decision not to take Berlin**: Eisenhower's decision to halt at the Elbe and leave Berlin to the Soviets remains a subject of historical debate, balancing military pragmatism against political considerations for the post-war order.
 - **German casualty figures**: Precise German losses on the Western Front are difficult to establish, with sources providing conflicting numbers, particularly for the final months of the war.
+
+Source: adapted from "Western Front (World War II)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_Front_%28World_War_II%29

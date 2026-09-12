@@ -45,3 +45,5 @@ Frequent drying of the river in lean months is a major concern, attributed to in
 - The **Babli project** in Maharashtra is controversial, with concerns about its impact on downstream water availability in Telangana.
 - The **Polavaram Project** is described as gigantic and politically driven, raising questions about environmental clearance, displacement, dam design safety, and loss of forest cover.
 - The **unutilized water** flowing to the sea (averaging 2490 tmcft annually) presents a challenge and opportunity; a freshwater coastal reservoir is proposed as a feasible solution, but new inland reservoirs are limited by land submergence and population displacement.
+
+Source: adapted from "Godavari River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Godavari_River

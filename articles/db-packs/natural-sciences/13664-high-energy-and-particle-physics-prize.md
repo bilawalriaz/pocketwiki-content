@@ -33,3 +33,5 @@ In neutrino mixing, one neutrino species oscillates into another during flight, 
 ## Instrumentation
 
 In 1989, the inaugural prize went to Georges Charpak for multiwire proportional chambers and drift chambers, gaseous detectors that locate the trails left by charged particles. The 2017 prize honoured Erik H. M. Heijne, Robert Klanner, and Gerhard Lutz for silicon microstrip detectors, devices that record particle passages into fine silicon strips and deliver micrometre-scale position measurements needed to find short-lived decay vertices.
+
+Source: adapted from "High Energy and Particle Physics Prize" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/High_Energy_and_Particle_Physics_Prize

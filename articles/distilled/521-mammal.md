@@ -85,3 +85,5 @@ Molecular studies (early 21st century) reveal three basal placental lineages div
 *   **Endothermy origin:** Uncertain when true endothermy arose; likely in non-mammalian therapsids, but monotremes have lower/variable temperatures, and some placentals (afrotheres, xenarthrans) secondarily reduced theirs.
 *   **Lifespan mechanisms:** DNA repair capacity correlates strongly with maximum lifespan across species, but causal pathways and relative importance of specific repair pathways (excision, double-strand break, PARP, Ku80) remain under investigation.
 *   **Hybridization vs. conservation:** Genetic pollution from domesticates threatens wild species (e.g., water buffalo), but some gene flow is natural; defining management thresholds is difficult.
+
+Source: adapted from "Mammal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mammal

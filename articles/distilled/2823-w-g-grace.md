@@ -51,3 +51,5 @@ Grace is credited with transforming batting from an accomplishment into a scienc
 - **Amateur vs. Professional Status:** Grace was a nominal amateur but earned more money from cricket than any professional, sparking ongoing debate about his financial dealings and the hypocrisy of the amateur-professional divide.
 - **Gamesmanship:** His reputation for gamesmanship, such as the incident where he allegedly kept runs after the ball lodged in his shirt, remains a point of discussion regarding his sportsmanship.
 - **Greatest Cricketer?:** While widely hailed as the greatest cricketer of his era and a transformative figure, comparisons with later greats like Don Bradman are subjective and debated.
+
+Source: adapted from "W. G. Grace" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/W._G._Grace

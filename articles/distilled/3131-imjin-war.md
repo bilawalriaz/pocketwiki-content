@@ -46,3 +46,5 @@ Toyotomi Hideyoshi's death in 1598 led the Japanese Council of Five Elders to or
 - The exact design and tactical effectiveness of the Korean "turtle ship" remain debated among historians, as no contemporary models survive.
 - The primary cause of Korean defeats in early land battles is debated: whether it was the technological superiority of Japanese arquebuses, as argued by official Yu Sŏngnyong, or the poor discipline and morale of Korean troops, as suggested by other accounts.
 - The strategic impact of Hideyoshi's death on the timing of the Japanese withdrawal is a point of analysis, as the Council of Five Elders kept it secret to maintain army morale.
+
+Source: adapted from "Imjin War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Imjin_War

@@ -38,3 +38,5 @@ Following the capture of Jerusalem, a council was held. Raymond IV of Toulouse d
 *   **Godfrey's Title:** Chroniclers disagree on whether Godfrey used the title *princeps* (prince), *dux* (duke), or *rex* (king). The meaning and practical use of his chosen title, Advocate, are debated.
 *   **Role in Jerusalem's Governance:** The exact nature of Godfrey's conflict with Patriarch Dagobert of Pisa is unclear. Some sources suggest Dagobert tried to make Jerusalem a papal fief, while others indicate he swore an oath to accept Godfrey's successor.
 *   **Cause of Death:** Muslim sources claim Godfrey was killed by an arrow at Acre, but Christian chronicles state he died of illness (possibly typhoid) in Jerusalem. The arrow story is considered unlikely.
+
+Source: adapted from "Godfrey of Bouillon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Godfrey_of_Bouillon

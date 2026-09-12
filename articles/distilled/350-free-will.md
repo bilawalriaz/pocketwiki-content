@@ -84,3 +84,5 @@ Compatibilists deny determinism threatens free will. **Classical compatibilists*
 6.  **Fatalism vs. Determinism in Psychology:** Do experiments "disproving free will" actually induce fatalism (inevitability + helplessness) rather than deterministic compatibilism? If so, negative behavioral effects may not generalize to informed determinism.
 7.  **Theological Foreknowledge:** Can God's atemporal knowledge (Boethius/Aquinas) preserve libertarian free will without making God's knowledge dependent on future events? Does Molinism (middle knowledge of counterfactuals of freedom) resolve the tension?
 8.  **Definition of "Free Will":** Is the debate merely verbal (Hume, pseudo-problem view)? Do compatibilists and incompatibilists talk past each other using different definitions, or is there a substantive metaphysical disagreement about the *nature* of control required for moral responsibility?
+
+Source: adapted from "Free will" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Free_will

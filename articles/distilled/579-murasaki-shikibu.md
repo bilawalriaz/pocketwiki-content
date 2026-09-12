@@ -61,3 +61,5 @@ Murasaki’s influence is unbroken. By the 12th century her work was required re
 - **Genji’s composition timeline**: Uncertain whether earliest chapters predate widowhood; likely written over a decade (c. 1000–1012) across marriage, widowhood, and court service.
 - **Rivalry with Sei Shōnagon**: They never served concurrently (Teishi died 1001), but Murasaki’s diary criticism may reflect salon politics or genuine literary disagreement.
 - **Chinese language stance**: Murasaki hid her fluency at Shōshi’s court (hostile to women’s Chinese study) yet used it secretly to teach Shōshi; scholars debate whether this was subversion, pragmatism, or internalized misogyny.
+
+Source: adapted from "Murasaki Shikibu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Murasaki_Shikibu

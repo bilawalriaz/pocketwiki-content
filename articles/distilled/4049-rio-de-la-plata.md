@@ -38,3 +38,5 @@ Control of the estuary and its navigation rights was a source of conflict after 
 
 ## Debates and Open Questions
 The primary scholarly debate concerns the geographical classification of the Río de la Plata. Geographers disagree on whether it should be considered a river, an estuary, a gulf, or a marginal sea. This classification has implications for its status as the "widest river in the world."
+
+Source: adapted from "Río de la Plata" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/R%C3%ADo_de_la_Plata

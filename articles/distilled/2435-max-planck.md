@@ -49,3 +49,5 @@ Planck was a Lutheran who believed in a "conscious and intelligent spirit" as th
 - **Reception of quantum theory**: Planck himself struggled to accept the full implications of his discovery, calling it "a purely formal assumption" and later trying unsuccessfully to reintegrate it into classical physics.
 - **Copenhagen interpretation**: Planck, along with Einstein and Schrödinger, rejected the probabilistic Copenhagen interpretation of quantum mechanics, preferring a deterministic, realist view.
 - **Planck's quote on scientific progress**: He famously stated that new truths triumph not by convincing opponents but because opponents eventually die and a new generation grows up familiar with them. However, historical examples (like Darwin's theory) show this is not always the case.
+
+Source: adapted from "Max Planck" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Max_Planck

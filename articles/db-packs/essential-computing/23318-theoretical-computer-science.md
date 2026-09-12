@@ -37,3 +37,5 @@ Very-large-scale integration (VLSI), dating to the 1970s, combines thousands of 
 ## Outlook
 
 Modern TCS continues to expand into interdisciplinary territory. The same underlying ideas, including automata, logic, complexity, randomness, and approximation, now reach into biology, economics, physics, and cryptography. The central open questions, such as whether P equals NP, remain unresolved and continue to organize research priorities across the field.
+
+Source: adapted from "Theoretical computer science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theoretical_computer_science

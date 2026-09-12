@@ -41,3 +41,5 @@ Upon its 1939 release, the film was a colossal commercial success, becoming the 
 - **Historical Accuracy vs. Myth:** Scholars debate whether the film is a faithful reflection of its era's attitudes or a harmful perpetuation of the "Lost Cause" myth and white supremacist ideology.
 - **Artistic Merit vs. Producer's Vision:** Critics like Andrew Sarris have argued the film lacks a singular directorial vision, being more a product of producer David Selznick's obsessive control and literal adaptation of the novel.
 - **Cultural Legacy:** There is ongoing discussion about how to present the film in the modern era—whether to contextualize it, restrict it, or present it as a historical artifact that reveals the prejudices of its time.
+
+Source: adapted from "Gone with the Wind (film)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gone_with_the_Wind_%28film%29

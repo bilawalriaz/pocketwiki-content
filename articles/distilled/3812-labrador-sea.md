@@ -36,3 +36,5 @@ Fisheries have historically targeted cod, shrimp, haddock, herring, lobster, and
 
 ## Debates and Open questions
 The source text does not present specific scholarly debates or open questions regarding the Labrador Sea.
+
+Source: adapted from "Labrador Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Labrador_Sea

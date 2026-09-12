@@ -79,3 +79,5 @@ Algebra education focuses on elementary algebra, usually introduced in secondary
 ## Debates and open questions
 
 It is disputed whether ancient developments (Babylonian, Egyptian, Greek, Chinese, Indian) constitute algebra proper or only precursors, since they offered solutions to specific problems without conceiving them abstractly or generally. Some historians see the 16th–17th century introduction of symbolic notation by Viète and Descartes as the key turning point, considering everything before it the "prehistory" of algebra. The fundamental theorem of algebra guarantees existence of complex solutions for polynomials but does not close the problem, as it provides no method for computing them.
+
+Source: adapted from "Algebra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algebra

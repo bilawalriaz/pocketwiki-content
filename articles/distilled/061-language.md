@@ -71,3 +71,5 @@ Ethnologue cataloged 7,170 living languages as of 2026. The distinction between 
 ## Debates and open questions
 
 Scholars debate whether language originated from emotions (Rousseau, Herder) or rational thought (Kant, Descartes), and whether it evolved continuously from primate systems or appeared suddenly (Chomsky's mutation hypothesis). The timing of proto-language emergence is contested, ranging from Homo habilis (2.3 million years ago) to Homo heidelbergensis (0.6 million years ago). Whether Egyptian and Chinese writing developed independently of Sumerian or through cultural diffusion remains unresolved. The language/dialect distinction is fundamentally contested, with political considerations often overriding linguistic criteria. Whether language loss harms cultural diversity or is a natural process not to be counteracted is debated among linguists.
+
+Source: adapted from "Language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Language

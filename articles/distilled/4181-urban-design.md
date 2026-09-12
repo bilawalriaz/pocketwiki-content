@@ -43,3 +43,5 @@ Contemporary urban design includes several distinct approaches. **New Urbanism**
 
 ## Debates and Open Questions
 A central debate exists between **New Urbanism** and **Landscape Urbanism**. New Urbanism advocates for the neighborhood as the basic building block, emphasizing density and walkability, but is criticized as nostalgic and culturally problematic. Landscape urbanism proposes landscape as the foundation, embracing horizontality and adaptability, but is critiqued for limited application (mostly urban parks). **Everyday urbanism** argues for grassroots improvements over master-planned interventions. Underlying these debates is the ongoing challenge of integrating principles from multiple theories and ensuring interdisciplinary collaboration to address issues like climate change, social justice, and equity in the built environment.
+
+Source: adapted from "Urban design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Urban_design

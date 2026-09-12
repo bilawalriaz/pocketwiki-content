@@ -34,3 +34,5 @@ sin β = sin δ cos ε − cos δ sin ε sin α,
 with ε tilting the planes. Converting to horizontal coordinates additionally requires the observer's latitude φ_o, because the horizon plane tilts with position on Earth.
 
 Because arctan repeats every 180° while cos and sin repeat every 360°, the two-argument function atan2(*y*, *x*) is used for longitudes to pick the correct quadrant. The altitude equations ignore atmospheric refraction and diurnal parallax, the latter significant for the Moon, smaller for planets, and negligible for stars. Azimuth conventions also differ (south-through-west in classical texts versus north-through-east in navigation and most modern software), so the sign must be checked against the source being used.
+
+Source: adapted from "Astronomical coordinate systems" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomical_coordinate_systems

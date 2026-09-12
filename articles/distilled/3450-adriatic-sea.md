@@ -46,3 +46,5 @@ Fisheries and tourism are major economic sectors. The Adriatic hosts 19 seaports
 - **Maritime Border Disputes:** Following Yugoslavia's dissolution, successor states have disputed maritime borders, notably between Croatia and Slovenia in the Gulf of Piran and between Croatia and Montenegro in the Bay of Kotor.
 - **Environmental Threats:** The long-term impact of pollution, climate change, and potential oil/gas exploration on the Adriatic's unique ecosystems and biodiversity remains a significant concern.
 - **Venice's Future:** The effectiveness and environmental consequences of the MOSE flood barrier project in protecting Venice from rising sea levels and *acqua alta* are subjects of ongoing debate.
+
+Source: adapted from "Adriatic Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Adriatic_Sea

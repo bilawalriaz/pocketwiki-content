@@ -43,3 +43,5 @@ Ningbo is a cultural center with attractions like the Tianyi Pavilion, Asia's ol
 
 ## Debates and Open Questions
 The source notes that the number of counties in the area during the Qin dynasty is debated, with some studies asserting there were four counties instead of three.
+
+Source: adapted from "Ningbo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ningbo

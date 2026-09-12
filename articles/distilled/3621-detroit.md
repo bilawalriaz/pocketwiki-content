@@ -47,3 +47,5 @@ Detroit's culture is marked by diversity and innovation. It is the birthplace of
 - The long-term impact of the city's 2013 bankruptcy and subsequent fiscal reforms on its ability to provide adequate public services and address deep-seated poverty.
 - The root causes and potential solutions for Detroit's persistent educational challenges, including low test scores and high chronic absenteeism.
 - Whether the recent population growth represents a sustainable trend or a temporary stabilization.
+
+Source: adapted from "Detroit" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Detroit

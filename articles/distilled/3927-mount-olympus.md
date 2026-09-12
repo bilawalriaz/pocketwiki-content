@@ -42,3 +42,5 @@ The National Park, established in 1938, protects the mountain's natural and cult
 
 ## Debates and Open Questions
 The exact origin of the name "Olympos" remains unknown and is a subject of scholarly speculation. While the mountain's mythological status is clear, the precise location of the "home of the gods" in ancient belief is not tied to a single peak. The systematic study of the mountain's fauna is noted as not yet complete.
+
+Source: adapted from "Mount Olympus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Olympus

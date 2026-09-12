@@ -60,3 +60,5 @@ Estimates of described living species range 50,000–120,000; total living estim
 - **Early fossils:** *Kimberella* (555 Ma): mollusc-like or basal bilaterian? *Wiwaxia* (505 Ma): mollusc (radula?) or polychaete relative? Helcionellids: earliest gastropods or stem molluscs? Torsion evidence in Early Cambrian gastropods is ambiguous.
 - **Cephalopod origins:** *Volborthella* (silica shell) and *Nectocaris* (chaetognath?) are not cephalopods. *Plectronoceras* (Late Cambrian) is earliest undisputed cephalopod (septa, siphuncle) but was benthic, not nektonic.
 - **Conservation bias:** Non-marine molluscs suffer vastly higher extinction rates (42% of extinctions since 1500) and endangerment (2,000+ on 2004 Red List vs. 41 marine), yet receive far less study; many regions unsurveyed, specialist shortage acute.
+
+Source: adapted from "Mollusca" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mollusca

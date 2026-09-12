@@ -74,3 +74,5 @@ Hitchcock supervised scripts draft-by-draft, demanding visual narration. He clai
 - **Censorship strategy**: Did Hitchcock’s "inescapable inferences" (McGilligan) subvert the Production Code, or did they rely on the Code’s existence to generate tension through suggestion?
 - **Vertigo’s canonization**: Its rise from box-office disappointment to BFI #1 (2012) reflects shifting critical paradigms (auteur theory, psychoanalytic criticism); whether it surpasses *Citizen Kane* remains a live poll question.
 - **Late-period quality**: *Torn Curtain* and *Topaz* are widely dismissed; *Frenzy* divides critics between "return to form" and "gratuitous nastiness." The degree of studio coercion vs. directorial decline is unresolved.
+
+Source: adapted from "Alfred Hitchcock" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alfred_Hitchcock

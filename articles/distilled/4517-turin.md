@@ -44,3 +44,5 @@ Turin is a major cultural hub with numerous museums, including the Egyptian Muse
 - The authenticity of the Shroud of Turin remains a subject of scientific and religious debate.
 - The long-term economic impact of the shift from a manufacturing-based to a service-based economy is an ongoing challenge for the city.
 - The completion and expansion of the Metrotorino subway system and the Spina Centrale project face financial and logistical hurdles.
+
+Source: adapted from "Turin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Turin

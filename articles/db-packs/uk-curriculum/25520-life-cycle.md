@@ -39,3 +39,5 @@ A **life cycle ritual** in any culture marks events such as birth, puberty, marr
 ## Unifying pattern
 
 Across domains, a life cycle provides a framework for managing change over time. It identifies predictable phases, clarifies transitions, and defines criteria for completion. Whether applied to an organism, a software system, a product, or a human life, the model enables anticipation of needs, allocation of resources, and planning for termination or renewal.
+
+Source: adapted from "Life cycle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Life_cycle

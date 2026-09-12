@@ -47,3 +47,5 @@ Mazarin's final years were marked by major diplomatic successes. He negotiated t
 - Historians debate the extent of Mazarin's personal wealth accumulation versus his service to the state; his fortune at death was immense (35 million livres).
 - The role of Mazarin's Italian background and Catholic faith in shaping his policies and his conflicts with the Spanish-influenced papal court is a subject of scholarly analysis.
 - The long-term impact of his financial policies, which contributed to the Fronde but also funded France's rise, is evaluated differently by historians focusing on state-building versus social unrest.
+
+Source: adapted from "Cardinal Mazarin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cardinal_Mazarin

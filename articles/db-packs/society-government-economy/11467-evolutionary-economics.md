@@ -33,3 +33,5 @@ Philip Mirowski (1983) questioned whether Nelson and Winter's framework was genu
 ## Related fields
 
 Evolutionary psychology applies Darwinian reasoning to cognition and behaviour, treating traits as adaptations or by-products. Evolutionary game theory, formalised by John Maynard Smith and George Price in 1973, models Darwinian competition as contests between strategies and has been adopted by economists to explain cooperation and strategic interaction in evolving populations.
+
+Source: adapted from "Evolutionary economics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Evolutionary_economics

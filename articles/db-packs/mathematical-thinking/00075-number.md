@@ -41,3 +41,5 @@ Several constructions enlarge the rationals or reals in different directions:
 ## Mental model
 
 A number is whatever a recognized system treats as one, and the systems grew by closing gaps: ℕ cannot represent debts, so ℤ is added; ℤ cannot represent √2, so ℝ is added; ℝ cannot factor every polynomial, so ℂ is added. Each enlargement keeps the previous one inside it. Everything else, primes, transcendentals, p-adics, quaternions, is a specialized structure layered on this single, expanding idea.
+
+Source: adapted from "Number" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Number

@@ -43,3 +43,5 @@ The genocide destroyed over two millennia of Armenian civilization in eastern An
 *   **Death Toll:** While the academic consensus is around one million, estimates range from 600,000 to 1.5 million. The exact figure is debated due to the destruction of records and lack of a pre-war Ottoman census.
 *   **German Role:** The extent of knowledge and complicity of Germany, the Ottoman Empire's WWI ally, is a subject of ongoing historical research and debate.
 *   **International Recognition:** Despite growing recognition, many countries have avoided formal designation to maintain diplomatic relations with Turkey.
+
+Source: adapted from "Armenian genocide" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Armenian_genocide

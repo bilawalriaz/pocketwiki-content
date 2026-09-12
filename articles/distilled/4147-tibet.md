@@ -44,3 +44,5 @@ The economy is based on subsistence agriculture and livestock herding. Tourism h
 - The proportion of non-Tibetan migrants in Tibet is disputed, with the Central Tibetan Administration accusing China of altering demographics and Chinese census data reporting Tibetans as 90% of the population in the Tibet Autonomous Region.
 - The extent of restrictions on civil liberties, religious practices, and cultural suppression (sinicization) in Tibet is debated among scholars and international observers, with reports varying.
 - The legal and historical status of Tibet—whether it was an independent state or has always been part of China—is a core point of contention between the Tibetan independence movement and the Chinese government.
+
+Source: adapted from "Tibet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tibet

@@ -62,3 +62,5 @@ Chaucer’s contemporaries, including Thomas Hoccleve and John Gower, praised hi
 ## Debates and Open Questions
 
 Several aspects of Chaucer’s life and work remain debated. The exact date and location of his birth are uncertain, though tradition places it in 1343 in London. The identity of the narrator in *The Canterbury Tales* and the extent of Chaucer’s personal views versus his characters’ perspectives are contested. The authenticity of the "Retraction" is questioned, with some scholars seeing it as a literary device. The attribution of works like *The Equatorie of the Planetis* to Chaucer is disputed. Additionally, the political motivations behind early editorial expansions of his canon, particularly the inclusion of Lollard texts, reflect broader tensions in interpreting his legacy. The influence of Italian poets like Petrarch and Boccaccio on his work is acknowledged, but the specifics of these encounters remain speculative.
+
+Source: adapted from "Geoffrey Chaucer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geoffrey_Chaucer

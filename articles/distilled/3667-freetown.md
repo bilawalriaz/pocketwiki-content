@@ -38,3 +38,5 @@ Freetown is governed by a directly elected City Council and mayor. The city is e
 ## Debates and Open Questions
 - The understanding and intent behind the 1787 land purchase from the Koya Temne leaders is debated, with questions about whether they comprehended the concept of permanent, exclusive European-style ownership.
 - The 1987 bicentennial celebration of Freetown's founding was based on the 1787 settlement, but the city was formally founded in 1792, creating a historical discrepancy in commemoration.
+
+Source: adapted from "Freetown" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Freetown

@@ -44,3 +44,5 @@ Elected King of the Romans in 1531, Ferdinand served as Charles V's deputy in th
 - **Religious Convictions:** Historians debate whether Ferdinand was a pragmatic Catholic who saw religion as separate from politics or was secretly sympathetic to reformed ideas, noting he reportedly refused last rites on his deathbed.
 - **Effectiveness of the Peace of Augsburg:** Scholars analyze whether the Peace of Augsburg was a successful pragmatic settlement that brought temporary peace or a flawed compromise whose exclusions (of Calvinists, etc.) and ambiguous clauses made future religious wars inevitable.
 - **State Formation:** There is discussion on whether Ferdinand's administrative reforms truly centralized Habsburg power or merely created a framework that the distinct Hungarian and Bohemian estates successfully resisted, preserving significant autonomy.
+
+Source: adapted from "Ferdinand I, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ferdinand_I%2C_Holy_Roman_Emperor

@@ -48,3 +48,5 @@ Dalton was known as a "coarse experimenter" who relied on his intellect over pre
 - The origin of Dalton's atomic theory is debated. It may have been suggested by his research on gas composition or by the ideas of Irish chemist Bryan Higgins, though Dalton's method for calculating atomic weights was his unique contribution.
 - A study of his notebooks concluded his theory arose from studying the physical properties of gases, not from explaining the law of multiple proportions. Another study suggests it was developed to reconcile analytical data on nitric acid.
 - Dalton's "rule of greatest simplicity" was an unproven assumption necessary for his calculations, leading to incorrect formulas for water and ammonia.
+
+Source: adapted from "John Dalton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Dalton

@@ -79,3 +79,5 @@ A "failed state" occurs when "sovereignty over claimed territory has collapsed o
 - Whether irrigation necessitated centralized states is challenged by archaeological evidence of non-stratified societies
 - Whether state failure stems from weak institutions or context-specific phenomena is debated
 - Whether pluralism describes democratic states is challenged by evidence of wealthy leaders
+
+Source: adapted from "State (polity)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/State_%28polity%29

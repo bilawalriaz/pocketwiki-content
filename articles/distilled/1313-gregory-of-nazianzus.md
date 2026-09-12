@@ -59,3 +59,5 @@ At the First Council of Constantinople (381), Gregory presided after Meletius’
 - **Extent of Gregory’s development of “procession”**: While he introduced the term to distinguish the Spirit’s relationship to the Father from the Son’s generation, he did not fully elaborate the concept, leaving later theologians to expand it.
 - **Motivations behind his resignation**: Whether driven by genuine humility, political pressure, or health concerns remains debated among scholars.
 - **Role of rhetoric in theology**: Gregory’s classical education raised questions about the appropriateness of pagan rhetorical forms in Christian doctrine—a tension that influenced later Byzantine thought.
+
+Source: adapted from "Gregory of Nazianzus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gregory_of_Nazianzus

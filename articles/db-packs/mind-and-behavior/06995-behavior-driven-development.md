@@ -38,3 +38,5 @@ Most BDD uses user stories as input. A less common subcategory, specification-ba
 ## The three amigos
 
 A "three amigos" meeting, also called a Specification Workshop, is where the product owner, a developer, and a tester discuss a requirement through concrete examples. The goal is to surface missing specifications and converge on a shared understanding before implementation. Each role has a distinct job: the business representative defines the problem without proposing a solution, the developer proposes ways to solve it, and the tester questions the proposed solution by exploring "what if" scenarios to push the requirement toward precision.
+
+Source: adapted from "Behavior-driven development" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Behavior-driven_development

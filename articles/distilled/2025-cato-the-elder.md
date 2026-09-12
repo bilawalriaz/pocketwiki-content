@@ -43,3 +43,5 @@ Cato was the first major author to write history in Latin. His *Origines* was a 
 - **Date of Birth**: His birth year is deduced from conflicting ancient reports of his age at death, with sources like Cicero giving 234 BC and others like Livy suggesting he was 90.
 - **Knowledge of Greek**: While he publicly disparaged Greek culture and reportedly gave a speech in Athens through an interpreter, some evidence suggests he may have learned Greek later in life or had earlier exposure.
 - **Role in Prosecuting the Scipiones**: It is debated whether Cato directly prosecuted Scipio Africanus and his brother, or if his spirit and rhetoric merely animated the attacks against them.
+
+Source: adapted from "Cato the Elder" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cato_the_Elder

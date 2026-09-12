@@ -60,3 +60,5 @@ Invertebrates use hemolymph (open system); crustaceans/mollusks use hemocyanin (
 - **Transfusion thresholds:** Optimal hemoglobin triggers for transfusion in critical illness remain contested.  
 - **Blood substitutes:** Development of safe, effective hemoglobin-based or perfluorocarbon oxygen carriers.  
 - **Hemolymph evolution:** Whether open vs. closed circulatory systems represent convergent solutions or deep homology.
+
+Source: adapted from "Blood" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Blood

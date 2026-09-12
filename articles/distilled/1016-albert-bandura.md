@@ -59,3 +59,5 @@ Bandura received over 16 honorary degrees and major awards including the APA Dis
 - **Cultural universality of agency:** Bandura’s agentic perspective emphasizes individual proactivity; cross-cultural psychologists question whether the theory adequately accounts for collectivist contexts where agency is construed as collective or relational rather than individual.
 - **Mechanisms of moral disengagement:** Bandura identified mechanisms (e.g., moral justification, displacement of responsibility), but empirical work continues on how these operate in real-world atrocities and whether interventions targeting them reduce harmful behavior.
 - **Integration with neuroscience:** As social cognitive theory matures, open questions remain about mapping its constructs (e.g., self-efficacy, observational learning) onto neural substrates and computational models of decision-making.
+
+Source: adapted from "Albert Bandura" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Albert_Bandura

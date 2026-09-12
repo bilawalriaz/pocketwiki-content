@@ -43,3 +43,5 @@ The museum merged with the Geological Museum in 1985, whose galleries were relau
 ## Debates and Open Questions
 - The museum's strategic direction has faced criticism, particularly regarding plans to move major parts of its collections to a new facility in Shinfield, Berkshire, with construction beginning in 2025 and an expected opening in 2031.
 - The architectural terracotta separation of living and extinct species on the Waterhouse building's façade is interpreted as a statement of Owen's rebuttal of Darwin's theory of natural selection, though Waterhouse included some anomalies.
+
+Source: adapted from "Natural History Museum, London" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Natural_History_Museum%2C_London

@@ -42,3 +42,5 @@ Naples joined the unified Kingdom of Italy in 1861. The post-unification period 
 - The exact founding date and nature of the earliest Greek settlement (Parthenope vs. Neápolis) involves archaeological interpretation.
 - The scale and impact of the *risanamento* project are debated, with sources noting it was hampered by corruption and land speculation, leading to "contrasting results."
 - The economic and social impact of the Camorra and the waste management crisis on Naples' development remains a significant ongoing issue.
+
+Source: adapted from "Naples" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Naples

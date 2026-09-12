@@ -42,3 +42,5 @@ While most boundaries are agreed upon, the inclusion of western Indonesia (often
 ## Debates and Open Questions
 - The precise geographic limits of the Ring of Fire are debated, particularly regarding the inclusion of western Indonesia and the Antarctic Peninsula.
 - The exact number of volcanoes within the Ring (estimated between 750 and 915) depends on which regions are included in its definition.
+
+Source: adapted from "Ring of Fire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ring_of_Fire

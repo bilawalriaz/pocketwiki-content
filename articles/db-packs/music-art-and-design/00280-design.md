@@ -21,3 +21,5 @@ Different philosophies emphasise different values. *Conscious design* is intenti
 ## Open debates
 
 Three questions remain unresolved. First, historians disagree on where design history begins, with some starting at pre-industrial artifacts and others at the Industrial Revolution and mass production. Second, the rational and action-centric models give incompatible accounts of how designers work, and no synthesis is settled. Third, it is unclear whether design is a universal human cognitive skill or a specialised professional one, a tension Simon's "everyone designs" claim opened but did not close.
+
+Source: adapted from "Design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Design

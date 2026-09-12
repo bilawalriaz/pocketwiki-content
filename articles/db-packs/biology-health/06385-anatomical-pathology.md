@@ -26,3 +26,5 @@ Training follows a medical-degree pathway, with national variation. In the Unite
 ## Practice settings
 
 Anatomical pathologists work in academic medical centres, combining diagnosis with teaching, research, and administration; in group private practices, often partnerships that own histology labs and contract with hospitals; as employees of large corporate providers; and in multispecialty groups that include clinical specialties and radiology. Corporate and "pod-lab" arrangements have drawn criticism for weakening physician independence.
+
+Source: adapted from "Anatomical pathology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anatomical_pathology

@@ -39,3 +39,5 @@ Initial Italian reception was hostile, with critics and the novel's author feeli
 *   **Title Translation:** The original Italian title *Ladri di biciclette* is plural ("Bicycle Thieves"). The common English title *The Bicycle Thief* (singular) is considered a poor translation by purists, though some critics argue its power as a title.
 *   **Fidelity to Source:** Author Luigi Bartolini felt the film betrayed his novel, which featured a middle-class intellectual protagonist and focused on the breakdown of civil order, not a working-class man's personal tragedy.
 *   **Artistic Choices:** Director Luchino Visconti criticized De Sica's decision to use a professional actor to dub over the non-professional lead's dialogue, seeing it as a break from neorealist principles.
+
+Source: adapted from "Bicycle Thieves" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bicycle_Thieves

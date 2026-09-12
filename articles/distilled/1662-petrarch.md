@@ -65,3 +65,5 @@ Petrarch differed sharply from Dante. Dante’s *Commedia* is rooted in Florenti
 - **Mont Ventoux "first ascent"**: Jean Buridan and Anno II of Cologne climbed it earlier; Petrarch’s claim of novelty is literary, not factual.
 - **Skull authenticity**: The 2003 exhumation found the skull in the tomb was not Petrarch’s (DNA mismatch), though the skeleton matches his described injuries; the skull’s whereabouts remain unknown.
 - **Library disposition**: Petrarch promised his manuscripts to Venice for the Palazzo Molina; the deal collapsed when he moved to Padua (Venice’s enemy) in 1368, and the da Carrara lords seized the library, scattering it across Europe.
+
+Source: adapted from "Petrarch" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Petrarch

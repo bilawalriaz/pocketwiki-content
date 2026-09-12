@@ -39,3 +39,5 @@ The sea hosts over 700 invertebrate species, about 60 fish species, and marine m
 
 ## Debates and Open questions
 The source does not contain explicit scholarly debates or open questions.
+
+Source: adapted from "White Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/White_Sea

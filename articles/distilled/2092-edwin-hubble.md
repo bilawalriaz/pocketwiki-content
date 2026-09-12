@@ -39,3 +39,5 @@ During World War II, Hubble worked on ballistics research for the U.S. Army. He 
 - **Priority for Hubble's law**: Georges Lemaître published the redshift-distance relation theoretically in 1927, two years before Hubble's 1929 observational paper. A 1931 English translation of Lemaître's paper omitted the key section, a redaction later found to have been made by Lemaître himself.
 - **Hubble's skepticism**: Despite his law implying expansion, Hubble maintained until his death that the redshift might not represent true recession velocity, favoring the model of a static universe.
 - **Nobel Prize eligibility**: Hubble spent his later career trying to have astronomy recognized as part of physics to qualify for the Nobel Prize. The committee changed the rules shortly after his death.
+
+Source: adapted from "Edwin Hubble" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edwin_Hubble

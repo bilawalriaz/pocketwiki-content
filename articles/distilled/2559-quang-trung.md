@@ -48,3 +48,5 @@ Quang Trung died suddenly in 1792, possibly from a stroke. His death left the dy
 - The precise location of his secret burial site remains unclear and is a subject of research.
 - The extent and feasibility of his plans to invade Qing China are debated, as they were never executed.
 - The historical assessment of his religious reforms and their impact on Vietnamese society continues to be studied.
+
+Source: adapted from "Quang Trung" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Quang_Trung

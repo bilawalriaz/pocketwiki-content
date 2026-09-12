@@ -45,3 +45,5 @@ After Edward VI's death, Cranmer supported the Protestant Lady Jane Grey's claim
 - **Cranmer's Theological Evolution**: Scholars debate the pace and sincerity of Cranmer's shift from Catholic humanism to Protestantism, with evidence of early anti-Lutheran views giving way to later reformed theology.
 - **Authorship of the Prayer Book**: While Cranmer is credited as the primary editor and architect of the Book of Common Prayer, the exact extent of his personal composition versus his use of existing sources (like Lutheran and Sarum Rite materials) is difficult to determine.
 - **Motivations for Recantations**: The reasons behind Cranmer's multiple recantations under pressure from Mary I's government—whether from fear, a desire to live, or a genuine crisis of faith—remain a subject of historical interpretation, especially given his dramatic final reversal.
+
+Source: adapted from "Thomas Cranmer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Cranmer

@@ -102,3 +102,5 @@ Complex analysis studies functions $f: \mathbb{C} \to \mathbb{C}$. Convergence i
 - **Power/logarithm identities:** Complex numbers do not generally satisfy unmodified identities like $a^{bc}=(a^b)^c$ when treated as single-valued; both sides are multi-valued sets with the left a subset of the right.
 - **Topological vs. algebraic isomorphism:** The algebraic closure of $\mathbb{Q}_p$ is isomorphic to $\mathbb{C}$ as a field (requiring Axiom of Choice) but *not* as a topological field; $\mathbb{C}_p$ (its completion) is not locally compact.
 - **Physical interpretation of imaginary time:** In relativity, taking the time component as imaginary simplifies metrics but is "no longer standard in classical relativity," though essential in quantum field theory and spinor formalism.
+
+Source: adapted from "Complex number" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Complex_number

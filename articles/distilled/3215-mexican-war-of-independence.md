@@ -47,3 +47,5 @@ The Plan of Iguala rapidly gained support, leading to the collapse of royal gove
 - The role of popular versus elite motivations: Was the conflict primarily a *criollo* power struggle or a genuine social revolution driven by the masses?
 - The significance of the 1810–1815 phase: Historians debate whether Hidalgo and Morelos's uprisings were a "popular revolution" or a "civil war" within the colonial structure.
 - The legacy of the Plan of Iguala: Some historians view it as a pragmatic compromise that secured independence, while others argue it betrayed the more radical social goals of earlier insurgents like Morelos by preserving elite privileges.
+
+Source: adapted from "Mexican War of Independence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mexican_War_of_Independence

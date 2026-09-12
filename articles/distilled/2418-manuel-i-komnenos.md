@@ -43,3 +43,5 @@ Manuel involved himself in theological controversies, asserting imperial authori
 *   **Assessment of Achievements**: Historians debate whether Manuel's military and diplomatic successes were his own doing or merely the result of the Komnenian dynasty's prior restoration. Some argue his ambitious policies were unsustainable and contributed to the empire's rapid decline after his death.
 *   **Impact of Myriokephalon**: While often seen as a catastrophic defeat comparable to Manzikert (1071), some sources suggest the Byzantine army was not destroyed and remained capable, as shown by subsequent victories. The battle's long-term strategic consequences are debated.
 *   **Cause of Post-Manuel Decline**: Scholars examine whether the empire's swift collapse after 1180 was due to flaws in Manuel's policies (e.g., financial exhaustion, overextension) or solely to the weak succession of his son Alexios II and the ensuing political instability.
+
+Source: adapted from "Manuel I Komnenos" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Manuel_I_Komnenos

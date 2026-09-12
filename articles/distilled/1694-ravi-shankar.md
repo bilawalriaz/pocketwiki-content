@@ -59,3 +59,5 @@ Shankar married Annapurna Devi (1941); their son Shubhendra (1942) toured with h
 - **Western popularization vs. tradition:** Shankar’s association with the 1960s counterculture (Monterey, Woodstock) brought unprecedented visibility but troubled him; he explicitly rejected the equation of Indian classical music with drug use, framing it instead as a spiritual path.
 - **Fusion authenticity:** His orchestral concertos and collaborations (Menuhin, Glass, Harrison) expanded the sitar’s repertoire but raised perennial questions about the integrity of *raga* syntax when harmonized or placed in Western formal structures.
 - **Pedagogical lineage:** While Shankar trained countless students (including daughters Anoushka and Norah Jones’s early exposure), the transmission of his specific *baaj* (playing style) and numerous invented ragas remains a subject of musicological tracking.
+
+Source: adapted from "Ravi Shankar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ravi_Shankar

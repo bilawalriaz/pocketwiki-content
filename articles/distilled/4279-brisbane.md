@@ -45,3 +45,5 @@ Brisbane has a vibrant cultural scene, anchored by the Queensland Art Gallery an
 ## Debates and Open Questions
 - There is a difference of opinion between local traditional owners over the spelling, provenance, and pronunciation of the Indigenous name for Brisbane (Meanjin vs. Magandjin).
 - The trade of blackbirded labour through Brisbane in the 19th century is debated; while administered as an indenture system, many historians regard it as a form of slavery or slavery-like coercion.
+
+Source: adapted from "Brisbane" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brisbane

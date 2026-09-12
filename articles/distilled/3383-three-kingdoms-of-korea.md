@@ -47,3 +47,5 @@ Archaeology confirms the development of state-level societies between 300 BCE an
 - **Chronology of State Formation**: While historical texts provide founding dates, archaeological evidence suggests state-level correlates developed gradually between 100 and 400 CE, not as a single package.
 - **Origins of the Kingdoms**: The precise founding myths and ethnic origins of the kingdoms, particularly the relationship between Goguryeo/Paekche and the northern Buyeo confederacy, are subjects of scholarly discussion.
 - **Role of Warfare**: Archaeologists debate the relative importance of internal developments versus frequent warfare in driving the emergence and consolidation of the peninsular states.
+
+Source: adapted from "Three Kingdoms of Korea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Three_Kingdoms_of_Korea

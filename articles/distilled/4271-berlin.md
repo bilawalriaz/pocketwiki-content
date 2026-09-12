@@ -59,3 +59,5 @@ The Berlin-Brandenburg region is a major center for higher education and researc
 *   The etymology of "Berlin" is debated, with a connection to the Old Polabian word for "swamp" being a leading theory.
 *   The completion of the government's relocation from Bonn to Berlin remains an ongoing discussion, with some ministries still based in the former capital.
 *   The city's rapid growth and popularity have led to debates about housing affordability, with around 20% of residents at risk of poverty and a similar share spending at least 40% of their income on rent (2025 Social Report).
+
+Source: adapted from "Berlin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Berlin

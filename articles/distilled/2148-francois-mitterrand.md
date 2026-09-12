@@ -50,3 +50,5 @@ Mitterrand's foreign policy continued Gaullist independence but strongly reverse
 *   **Responsibility for the Holocaust**: In 1994, Mitterrand stated the French state bore no responsibility for the deportation of Jews, attributing it solely to "Vichy France." This position was publicly rejected by his successor, Jacques Chirac, in 1995.
 *   **Rwandan Genocide**: France's role during the 1994 genocide is controversial. While France provided military support to the Hutu-led government before the genocide and later launched Opération Turquoise, the nature and intent of its intervention remain subjects of debate.
 *   **Medical Secrecy**: The concealment of his prostate cancer throughout most of his presidency, revealed after his death, sparked debate about the ethics of medical confidentiality for public officials.
+
+Source: adapted from "François Mitterrand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand

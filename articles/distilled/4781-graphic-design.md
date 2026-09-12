@@ -60,3 +60,5 @@ Ethical considerations include accurately representing information and avoiding 
 - **Impact of Digital Tools**: Designers disagree whether computers enhance creativity or lead to paralysis through endless options.
 - **Ethical Responsibilities**: Ongoing debates focus on the designer's duty to avoid misleading information and harmful stereotypes.
 - **Future of the Profession**: Questions arise about how artificial intelligence and automation will affect design roles and creative control.
+
+Source: adapted from "Graphic design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Graphic_design

@@ -55,3 +55,5 @@ Faisalabad is a regional hub for higher education, with institutions like the Un
 
 ## Debates and Open Questions
 The source notes scholarly studies from 2007 and 2013 that acknowledge the existence and persistence of gender discrimination in the region, stating it is "not a new phenomenon." It also highlights the sense of vulnerability felt by religious minorities, particularly Christians, due to religious intolerance and blasphemy laws, leading many to emigrate.
+
+Source: adapted from "Faisalabad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Faisalabad

@@ -59,3 +59,5 @@ Literature uses alliteration and consonance to create onomatopoeic effects witho
 The same physical sound yields different phonetic strings because each language selects from its own inventory. The mapping is conventional within a language but motivated by the sound.
 
 Onomatopoeia shows language as a negotiation between the world's sounds and a community's phonological grid. It is both inside language, subject to its rules, and outside it, tethered to a non-linguistic reality.
+
+Source: adapted from "Onomatopoeia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Onomatopoeia

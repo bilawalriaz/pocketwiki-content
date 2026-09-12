@@ -43,3 +43,5 @@ The unresolved conflict in Transnistria, where Russian troops are stationed, rem
 - **EU Accession:** Moldova has set a 2030 target for EU membership, but the process is complex, requiring extensive reforms. The EU has stated the pathway does not depend on resolving the Transnistria conflict.
 - **Transnistria:** The final status of the breakaway region remains unresolved, with the central government in Chișinău lacking control over the territory.
 - **Geopolitical Alignment:** The country is deeply divided between pro-European and pro-Russian factions, a tension exacerbated by Russia's invasion of neighboring Ukraine.
+
+Source: adapted from "Moldova" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moldova

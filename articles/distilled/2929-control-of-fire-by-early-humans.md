@@ -35,3 +35,5 @@ Fire had profound effects. It enabled geographic expansion into colder climates 
 - **Timing of cooking**: While some evidence suggests cooking as early as ~1.8 million years ago (based on physiological changes), definitive archaeological evidence for cooking is more recent (~780,000 years ago).
 - **Significance for brain growth**: Critics of the cooking hypothesis argue that significant brain growth occurred in *Homo* species before strong evidence for widespread cooking, and that a shift to a meat-based diet may have been more critical.
 - **Evidence interpretation**: Many early claims for fire control (e.g., at Chesowanja, Koobi Fora) are debated because natural processes (like wildfires or volcanic activity) could explain the findings.
+
+Source: adapted from "Control of fire by early humans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans

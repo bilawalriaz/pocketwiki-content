@@ -44,3 +44,5 @@ Cesare Borgia's career was famously analyzed by Niccolò Machiavelli, who met hi
 - **The murder of Giovanni Borgia**: Cesare has long been suspected of orchestrating his brother's death in 1497 to secure his own path to a secular career, but definitive proof is lacking.
 - **Machiavelli's interpretation**: Scholars debate whether Machiavelli's portrayal of Cesare in *The Prince* is a straightforward political analysis or a more nuanced critique of amoral statecraft. Some see Cesare as a precursor to modern state crimes, while others view his actions as typical of the era's corruption.
 - **The fate of his remains**: Cesare's tomb was destroyed and his bones desecrated after his death. Ongoing petitions to return his remains to the Church of Santa María in Viana have been rejected, as he had renounced his cardinalate.
+
+Source: adapted from "Cesare Borgia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cesare_Borgia

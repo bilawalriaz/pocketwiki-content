@@ -25,3 +25,5 @@ Buddhism's presence in India waned after the 12th century. In 1193, Turkic raide
 ## Open Historical Questions
 
 Several foundational episodes remain uncertain. Scholars debate the historicity of the first and second Buddhist councils, the precise causes of the initial Sthavira–Mahāsāṃghika schism, the actual extent of Buddhist communities in the Hellenistic world, and the scale of persecution under rulers like Pushyamitra Shunga, whose actions are sometimes described in Buddhist sources as far more violent than the evidence supports.
+
+Source: adapted from "History of Buddhism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Buddhism

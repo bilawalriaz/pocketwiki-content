@@ -42,3 +42,5 @@ The Palace Museum holds over 1.86 million artifacts from the imperial collection
 ## Debates and Open Questions
 - The total number of rooms is traditionally claimed to be 9,999, but modern surveys indicate 8,886, making the exact count a point of clarification.
 - The precise alignment of the Forbidden City's central axis is slightly off true north; researchers believe it was designed during the Yuan dynasty to align with Shangdu, another Yuan capital.
+
+Source: adapted from "Forbidden City" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Forbidden_City

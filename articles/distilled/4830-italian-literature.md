@@ -56,3 +56,5 @@ After the Risorgimento, literature moved away from political themes. The *Scapig
 - Scholars debate whether Torquato Tasso belongs to the High Renaissance or is a transitional figure to the Baroque period due to his use of elaborate metaphors.
 - The extent to which the metaphorical freedom of Marinism represents a new way of perceiving reality versus an intellectual game remains critically debated.
 - The relationship and relative importance of the two post-Risorgimento trends, *Scapigliatura* and *Verismo*, which both opposed Romanticism, is a subject of analysis.
+
+Source: adapted from "Italian literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Italian_literature

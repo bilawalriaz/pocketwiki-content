@@ -40,3 +40,5 @@ Before 864 the Bulgars worshipped the sky god Tangra and the Slavs deities such 
 | 1018 | Last strongholds fall | Empire annexed by Byzantium |
 
 The Cyrillic alphabet and Old Church Slavonic liturgy, both formalised under Bulgarian patronage, became the written medium of the Orthodox Slavic world, shaping Russian, Serbian, and other Slavic literatures for centuries.
+
+Source: adapted from "First Bulgarian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/First_Bulgarian_Empire

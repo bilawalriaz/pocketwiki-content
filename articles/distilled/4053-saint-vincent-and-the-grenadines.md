@@ -40,3 +40,5 @@ The economy is lower-middle-income and heavily dependent on agriculture, particu
 - The proposal to transition from a constitutional monarchy to a republic was defeated in a 2009 referendum, but the debate over the country's head of state continues.
 - Prime Minister Ralph Gonsalves has argued that European nations owe reparations to Caribbean nations for their role in the Atlantic slave trade, a position that has led to public protests during official visits.
 - The country's heavy dependence on a single agricultural export (bananas) is cited as a major obstacle to sustainable economic development.
+
+Source: adapted from "Saint Vincent and the Grenadines" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines

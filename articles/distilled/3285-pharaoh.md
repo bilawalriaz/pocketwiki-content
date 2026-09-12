@@ -41,3 +41,5 @@ By the Middle Kingdom, a Pharaoh held five official names: the Horus name (oldes
 - The exact date when the title *pr ꜥꜣ* was first used to address a Pharaoh personally is debated, with evidence pointing to either Thutmose III or Akhenaten.
 - The function and meaning of the Golden Horus name are not well understood.
 - The divinity of the Pharaoh is interpreted differently in ancient Egyptian sources versus Classical Greek accounts, with Herodotus claiming Egyptian priests rejected the notion.
+
+Source: adapted from "Pharaoh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pharaoh

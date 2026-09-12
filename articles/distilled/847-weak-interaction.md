@@ -53,3 +53,5 @@ The weak interaction uniquely violates parity symmetry, as demonstrated by the W
 - Whether the weak interaction remains confining if the electroweak symmetry breaking scale were lowered, as suggested by alternative SU(2) models.
 - The exact nature of CP violation and its sufficiency to explain the observed matter-antimatter imbalance in the universe.
 - The degree to which the 2012 Higgs-like boson matches the Standard Model Higgs, requiring further data for definitive identification.
+
+Source: adapted from "Weak interaction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Weak_interaction

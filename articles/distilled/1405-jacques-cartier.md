@@ -48,3 +48,5 @@ Cartier located the St. Lawrence entrance, opening the primary artery for French
 - **Fate of the St. Lawrence Iroquoians**: The population encountered by Cartier vanished before Champlain’s arrival (1603); causes debated include dispersal, warfare with Haudenosaunee/Mi'kmaq, and epidemic disease.
 - **Cartier’s desertion of Roberval (1542)**: Sources differ on whether Cartier fled due to genuine strategic despair or insubordination; his "slipping off under cover of darkness" suggests a breach of command.
 - **Mineral fraud vs. error**: Whether Cartier knowingly shipped worthless ore to secure funding or genuinely misidentified quartz/pyrite remains unresolved.
+
+Source: adapted from "Jacques Cartier" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jacques_Cartier

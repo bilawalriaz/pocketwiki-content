@@ -38,3 +38,5 @@ Ittai and Dolev give a two-round truthful protocol on a synchronous, fully conne
 The agreement check forces everyone to send the same data, so dropping or altering a message either fails the protocol outright or is detectable. The random-number step then selects a leader without any agent controlling the outcome. Because the choice is symmetric, no agent can profit by misreporting either its ID or its random number. The protocol reaches Nash equilibrium, is truthful, and elects a valid leader when one exists.
 
 The same considerations show up wherever a distributed system must coordinate self-interested parties without a referee, including peer-to-peer networks, blockchain consensus, resource allocation in clouds run by competing tenants, and routing across ISPs that do not fully trust each other.
+
+Source: adapted from "Distributed algorithmic mechanism design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Distributed_algorithmic_mechanism_design

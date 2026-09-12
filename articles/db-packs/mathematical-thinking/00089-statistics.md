@@ -41,3 +41,5 @@ The modern field arrived in three waves. Francis Galton and Karl Pearson made st
 ## Applications and computing
 
 Applied statistics serves scientific, industrial, and social problems, from business and econometrics to biostatistics and statistical process control in manufacturing. Machine learning models are statistical and probabilistic at their core. Computing power since the mid-20th century has made nonlinear models, generalised linear and multilevel models, resampling methods (permutation tests, the bootstrap), and Gibbs sampling practical, along with software such as R, SAS, SPSS, and Mathematica.
+
+Source: adapted from "Statistics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Statistics

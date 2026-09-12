@@ -31,3 +31,5 @@ In the 20th century the tractor mechanised sowing, harvesting and threshing, whi
 ## Agrarianism as a philosophy
 
 Agrarianism is a social philosophy that treats agrarian life as morally superior to industrial life, idealising the farmer as self-sufficient and independent against the urban wage labourer seen as vulnerable and alienated. It links working the land with virtue and links cities, capitalism and technology with lost independence and corruption. It is close to, but not the same as, back-to-the-land movements: agrarianism is a normative stance about the good society, and it explicitly rejects industrial-scale farming, which keeps the form of agriculture but loses the rural, small-scale character it values.
+
+Source: adapted from "Agrarian society" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Agrarian_society

@@ -43,3 +43,5 @@ Maria Theresa had sixteen children, using their marriages as tools of foreign po
 - **Enlightened or Absolutist?** Historians debate whether Maria Theresa's reforms were truly "enlightened" or primarily aimed at strengthening absolutist state control. Her support for torture and religious intolerance contrasts with Enlightenment ideals.
 - **Role of Co-Rulers:** Scholars analyze the complex power dynamics with her husband Francis I and especially her son Joseph II, questioning the extent of her personal authority versus their influence.
 - **Effectiveness of Reforms:** While her centralization and financial reforms were successful, her social policies, like the Robot Patents, had limited impact, and her religious policies are viewed as reactionary by modern standards.
+
+Source: adapted from "Maria Theresa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maria_Theresa

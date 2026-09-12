@@ -47,3 +47,5 @@ The Society of Manufacturing Engineers (SME), based in Dearborn, Michigan, runs 
 ## Where the discipline sits in the world
 
 In the United States and the continental European Union the same work is commonly called industrial engineering; in the United Kingdom and Australia it is called manufacturing engineering. Major employers include General Motors, Ford, Chrysler, Boeing, Gates Corporation, and Pfizer in the U.S., and Airbus, Daimler, BMW, Fiat, Navistar International, and Michelin Tyre in Europe, across aerospace, automotive, chemical, pharmaceutical, food processing, garment, pulp and paper, toy, and systems industries.
+
+Source: adapted from "Manufacturing engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Manufacturing_engineering

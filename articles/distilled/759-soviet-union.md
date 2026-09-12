@@ -78,3 +78,5 @@ The USSR's legacy divides opinion globally. Polls show majority Russian regret o
 Leftist perspectives range from viewing the USSR as a degenerated workers' state (Trotskyists) to condemning it as "red fascism" (anarchists). The Chinese Communist Party analyzes the collapse through concepts like "historical nihilism" and rapid democratization, drawing lessons for its own governance.
 
 The socio-economic classification of the USSR remains debated: bureaucratic collectivism, state capitalism, or a unique mode of production. These debates reflect broader questions about the viability of centralized planning versus market mechanisms in achieving economic development and social welfare.
+
+Source: adapted from "Soviet Union" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Soviet_Union

@@ -53,3 +53,5 @@ Thailand's economy is export-driven, with manufacturing, agriculture, and touris
 
 ## Debates and Open Questions  
 Several historical and contemporary issues remain debated. The authenticity of the Ram Khamhaeng Inscription, a key early Thai text, is contested among historians. The origins of the Tai people and their migration patterns are still studied through genetic and archaeological evidence. In modern politics, the role of the monarchy and the military in governance continues to be a subject of intense debate, especially amid calls for reform. Additionally, Thailand's response to climate change and its impact on agriculture and coastal communities presents ongoing challenges for policy and adaptation strategies.
+
+Source: adapted from "Thailand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thailand

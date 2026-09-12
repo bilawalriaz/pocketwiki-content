@@ -50,3 +50,5 @@ Faced with atomic bombings, the Soviet invasion of Manchuria (9 August 1945), an
 - **Strategic value of Iwo Jima**: The high American casualties at Iwo Jima (over 26,000) have led to ongoing debate about whether the island's capture was strategically worth the cost, given its limited use for B-29 operations.
 - **Soviet entry's impact**: The significance of the Soviet invasion of Manchuria in precipitating Japan's surrender is debated, with some arguing it was a decisive factor and others viewing the atomic bombs as the primary cause.
 - **Casualty figures**: Precise death tolls, especially for China and civilian populations across Asia, remain subject to scholarly debate due to incomplete records and differing methodologies.
+
+Source: adapted from "Pacific War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pacific_War

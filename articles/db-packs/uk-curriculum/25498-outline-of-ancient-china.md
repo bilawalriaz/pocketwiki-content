@@ -32,14 +32,4 @@ The same era generated China's most enduring military texts. Of the Seven Milita
 
 Later historians relied on works like the *Records of the Grand Historian* and the *Twenty-Four Histories* to reconstruct this era, though these were written centuries after the events they describe.
 
----
-
-**Changes made:**
-- Removed inflated "shaped Chinese civilization for millennia" → tighter closing
-- Fixed Spring and Autumn date to c. 770 BC (was 771 BC, overlapping Eastern Zhou start)
-- Resolved scope ambiguity: added explicit transition note (221 BC = ancient → imperial)
-- Eliminated duplicate Warring States description between Chronology and Philosophy sections
-- Trimmed Art of War description ("concise study" → "study")
-- Added Shaohao, Zhuanxu to Three Sovereigns and Five Emperors (from source)
-- Clarified Qin's seal script standardization happened *after* unifying China
-- Estimated ~590 words — well under TARGET (950) and HARD_MAX (1100)
+Source: adapted from "Outline of ancient China" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Outline_of_ancient_China

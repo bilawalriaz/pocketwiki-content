@@ -43,3 +43,5 @@ Handel's score is noted for its orchestral restraint, particularly its limited u
 - **Performance scale**: A long-standing debate exists between "big Messiah" productions with huge forces and "authentic" performances using smaller, period-appropriate ensembles.
 - **Orchestration**: The extent to which later arrangers like Mozart "improved" or distorted Handel's original intentions remains a point of scholarly discussion.
 - **Definitive version**: It is generally agreed that no single definitive version exists, as Handel himself made numerous revisions, and decisions about ornamentation and instrumentation involve personal judgment.
+
+Source: adapted from "Messiah (Handel)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Messiah_%28Handel%29

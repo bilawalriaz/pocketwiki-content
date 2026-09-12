@@ -31,3 +31,5 @@ The exact boundary between the broader Yuezhi and the Kushan branch is still deb
 | c. 190–c. 230 | Vasudeva I, last "Great Kushan" |
 | c. 240 | Sasanian conquest creates the Kushano-Sasanians |
 | c. 350 | Kidarite invasion ends major Kushan rule |
+
+Source: adapted from "Kushan Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kushan_Empire

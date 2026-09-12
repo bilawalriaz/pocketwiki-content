@@ -42,3 +42,5 @@ Beyond ballooning, the brothers invented a process for making transparent paper.
 
 ## Debates and Open Questions
 The primary historical debate concerns the claim that the hot air balloon was invented decades earlier by Bartolomeu de Gusmão. This claim is not generally accepted by mainstream aviation historians outside the Portuguese-speaking community. The source notes the existence of a published description from 1709(?) and a Vatican document found around 1917 as the basis for this competing claim.
+
+Source: adapted from "Montgolfier brothers" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Montgolfier_brothers

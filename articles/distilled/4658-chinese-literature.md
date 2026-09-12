@@ -51,3 +51,5 @@ Modern literature began in the late Qing (1895–1911) with reformist fiction an
 - The stylistic merits and distinctiveness of Song poetry relative to Tang poetry have been debated since the Song Dynasty itself.
 - The authenticity of early historical texts like the *Bamboo Annals* is questioned.
 - The ethical and artistic value of AI-assisted translation for Chinese online literature is a current debate.
+
+Source: adapted from "Chinese literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinese_literature

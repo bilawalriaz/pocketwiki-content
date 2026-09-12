@@ -50,3 +50,5 @@ The city is home to numerous schools and major institutions, including Punjab Ag
 ## Debates and Open Questions
 - The source notes a legend that a tunnel connects the Old Fort in Ludhiana to a fort in Phillaur, but states the reason is "debatable" as the Sutlej was a traditional dividing line between often-hostile principalities.
 - The city's air pollution is a severe and ongoing concern, with particulate matter levels over six times the WHO standard, making it one of the world's most polluted cities.
+
+Source: adapted from "Ludhiana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ludhiana

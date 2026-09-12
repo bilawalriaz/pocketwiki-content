@@ -43,3 +43,5 @@ As of the 2021 census, the population is 36.89% Russian, 31.01% Bashkir, and 23.
 
 ## Debates and Open questions
 The source notes that a 2012 survey on religious affiliation in Bashkortostan has been criticized as biased due to the service "Sreda" having ties to Christian organizations. The exact nature and extent of the republic's sovereignty within the Russian Federation remain a dynamic issue, highlighted by the unilateral abolition of the 1994 autonomy compact.
+
+Source: adapted from "Bashkortostan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bashkortostan

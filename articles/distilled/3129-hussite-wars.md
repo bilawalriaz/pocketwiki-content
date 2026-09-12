@@ -45,3 +45,5 @@ Following the Taborite defeat, moderate Hussites negotiated with the Council of 
 - The exact cause of King Wenceslaus IV's death in 1419 is debated; it may have been natural or caused by shock from the Defenestration.
 - The degree to which Hussite military innovations directly influenced later European warfare is a subject of scholarly discussion.
 - The long-term impact of the Compacts is debated, as they were eventually repealed and Hussite traditions were absorbed into broader Protestantism.
+
+Source: adapted from "Hussite Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hussite_Wars

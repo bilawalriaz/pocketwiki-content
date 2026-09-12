@@ -61,3 +61,5 @@ Poussin’s style became French academic orthodoxy via Charles Le Brun (student,
 - **Poussin vs. Caravaggio**: Poussin’s reported hatred ("born to destroy painting") reflects a stylistic polemic; scholars debate whether he ever saw Caravaggio’s works directly or knew them only through copies/reputation.
 - **Workshop practice**: The claim he "used no assistants" relies on absence of evidence; some conservators argue for limited studio help in late large landscapes.
 - **Cézanne’s "Poussin of Impressionism"**: Maurice Denis’s 1907 formulation is a critical metaphor, not a documented influence; the exact transmission of Poussin’s structural lessons to Cézanne is interpretive.
+
+Source: adapted from "Nicolas Poussin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nicolas_Poussin

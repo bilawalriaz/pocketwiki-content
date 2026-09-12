@@ -42,3 +42,5 @@ In his final years, Daniel engaged in dynastic marriages to secure alliances wit
 
 ## Debates and Open Questions
 The exact nature and extent of Daniel's submission to the Mongols is a point of historical analysis. While he formally accepted overlordship and provided soldiers, his subsequent foreign policy—including seeking a papal crown and Western alliances—demonstrated a clear strategy of resistance. The chroniclers' portrayal of him as a perfect ruler, second only to Solomon, is also a subject of scholarly consideration, reflecting the political and cultural ideals of his time.
+
+Source: adapted from "Daniel of Galicia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Daniel_of_Galicia

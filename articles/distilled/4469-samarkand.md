@@ -46,3 +46,5 @@ The city was annexed by the Russian Empire in 1868, with a new Russian section b
 - **Ethnic Composition:** There is a significant debate about the ethnic makeup of Samarkand. While official Uzbek reports state a majority Uzbek population, many independent sources and historical census data (e.g., from 1920 and 1926) suggest a Tajik majority, with figures complicated by Soviet-era registration practices.
 - **Language Demographics:** The de facto most common native language is debated. Official policy states Uzbek is dominant, but some data indicate only about 30% speak it natively, with Tajik being the native tongue for approximately 70% of residents. No census has been taken since 1989 to confirm this.
 - **Shiite Population:** The exact number of Shiites in Samarkand is unknown. Estimates vary widely, with one leaked diplomatic cable citing an imam's claim of 1 million in the Samarkand Vilayat, a figure the U.S. Ambassador doubted.
+
+Source: adapted from "Samarkand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samarkand

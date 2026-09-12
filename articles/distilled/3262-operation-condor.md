@@ -43,3 +43,5 @@ The 1992 discovery of the "Archives of Terror" in Paraguay provided extensive do
 *   **U.S. Role:** While documents prove extensive U.S. knowledge and support, debate continues over the extent of direct operational control versus tacit approval and negligence.
 *   **French Connection:** Allegations persist that France collaborated with Condor regimes, particularly through military training and intelligence sharing, which France has officially denied.
 *   **Scope of Prosecutions:** Legal accountability has been limited and inconsistent across member nations, with amnesty laws and political pressures often shielding perpetrators from trial.
+
+Source: adapted from "Operation Condor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Operation_Condor

@@ -57,3 +57,5 @@ After the war, Wharton settled permanently in France, continuing to write novels
 ## Debates and Open Questions
 
 One enduring debate concerns the Pulitzer Prize controversy of 1921: while the three fiction judges selected Sinclair Lewis’s *Main Street*, Columbia University’s advisory board, led by President Nicholas Murray Butler, awarded the prize to Wharton’s *The Age of Innocence*. This raises questions about editorial interference versus artistic merit in literary awards. Additionally, scholars continue to examine the extent to which Wharton’s personal relationships—particularly with her mother and Morton Fullerton—shaped her fictional portrayals of female agency and marital dissatisfaction. The omission of these details from her autobiography has sparked ongoing discussion about memory, self-representation, and the boundaries between life and art in her work.
+
+Source: adapted from "Edith Wharton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edith_Wharton

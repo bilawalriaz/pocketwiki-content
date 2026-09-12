@@ -43,3 +43,5 @@ In March 1889, Yohannes led his army to confront the Mahdists at Gallabat (Metem
 *   The exact motivations for Yohannes's initial rebellion against Tewodros II are unclear, with sources offering differing explanations.
 *   The precise date of his birth is uncertain, with sources giving dates between 1831 and 1837.
 *   The long-term effectiveness of the forced conversions mandated at Boru Meda is debated, with indications that suppressed beliefs persisted.
+
+Source: adapted from "Yohannes IV" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yohannes_IV

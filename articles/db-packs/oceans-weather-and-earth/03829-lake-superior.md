@@ -25,3 +25,5 @@ The 19th century brought industrial use. The Hudson's Bay Company and the North 
 ## A lake under stress
 
 Two long-running changes worry researchers. The lake's surface temperature has risen faster than the surrounding air, roughly 4.5°F between 1979 and 2007, and although some early models predicted Superior could be routinely ice-free by 2040, more recent data through 2021 do not support that trajectory. Nitrate concentrations have also been climbing for over a century, remaining well below harmful thresholds, but the cause of the slow rise is unresolved and may be tied to human alteration of the regional nitrogen cycle. The International Lake Superior Board of Control, established in 1914, continues to regulate water levels against these shifting conditions.
+
+Source: adapted from "Lake Superior" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Superior

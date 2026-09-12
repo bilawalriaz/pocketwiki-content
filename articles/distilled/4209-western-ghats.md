@@ -42,3 +42,5 @@ Historically dense forests were fragmented by colonial-era plantations. Primary 
 ## Debates and Open questions
 - The precise boundaries and levels of ecological sensitivity for the ESA designation recommended by the WGEEP panel have been subject to ongoing debate and subsequent committee recommendations.
 - The impact of climate change on the range's unique ecosystems and endemic species is a critical area of ongoing research and concern.
+
+Source: adapted from "Western Ghats" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_Ghats

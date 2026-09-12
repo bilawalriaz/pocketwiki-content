@@ -44,3 +44,5 @@ Adana is the economic heart of the Çukurova plain, one of Turkey's most fertile
 - The exact etymology of "Adana" is debated, with theories linking it to an Indo-European river term, a Greek mythological figure, or a local leader.
 - The scale of demographic change in the 1920s is complex; while many Armenians and Greeks left, a significant number, including "Crypto-Armenians," remained and assimilated.
 - The city's modern economic struggles are attributed to national neo-liberal policies that centralized corporate headquarters in Istanbul, leading to industrial decline and unemployment.
+
+Source: adapted from "Adana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Adana

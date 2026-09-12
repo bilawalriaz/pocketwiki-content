@@ -67,3 +67,5 @@ Science studies the world as it is; engineering creates what has never been. Bot
 - **Engineering vs. science**: Walter Vincenti argues engineering research differs from scientific research—it deals with well-understood physics but problems too complex for exact solutions, and employs semi-empirical methods foreign to pure science. The source quotes Fung et al.: "Scientists try to understand nature. Engineers try to make things that do not exist in nature."
 - **Design philosophy**: Altshuller's patent analysis suggests low-level designs rely on compromises, while higher-level designs eliminate core contradictions—a debated view of optimal engineering.
 - **Workforce crisis**: The engineering profession, especially in the UK, faces an "image crisis" with fewer engineers trained than retiring, raising economic, political, and ethical concerns.
+
+Source: adapted from "Engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Engineering

@@ -44,3 +44,5 @@ Besides the *Chronicles*, Froissart authored *Meliador*, a long Arthurian romanc
 - **Reliability of poetic autobiography**: The extent to which poems like *L'Horloge amoureux* reflect Froissart’s actual life (e.g., merchant past, clerical status) versus literary convention is debated; the consensus leans toward "pseudo-autobiographical" fiction.
 - **Date and place of death**: The exact year (c. 1405) and circumstances are unknown; burial at St. Monegunda of Chimay is a plausible but unverified hypothesis.
 - **Chronicle composition history**: The *Chronicles* exist in multiple versions (A, B, C redactions) reflecting Froissart’s revisions over decades; the precise chronology and motivation for these rewrites remain subjects of scholarly investigation.
+
+Source: adapted from "Jean Froissart" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean_Froissart

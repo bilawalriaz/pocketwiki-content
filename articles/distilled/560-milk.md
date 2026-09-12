@@ -72,3 +72,5 @@ Not unique to humans: seagulls, sheathbills, skuas, western gulls, and feral cat
 - **rbST animal welfare**: Higher mastitis incidence leads to bans in EU, Canada, NZ, Australia, Japan; US FDA maintains safety but welfare concerns persist.
 - **Milk as fungicide/fertilizer**: Effectiveness debated; some evidence for powdery mildew control on grapes, but not widely adopted.
 - **India's future trade balance**: Despite being top producer, rising domestic demand may turn India into a net importer.
+
+Source: adapted from "Milk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Milk

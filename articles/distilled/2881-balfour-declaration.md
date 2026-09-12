@@ -45,3 +45,5 @@ The declaration is widely regarded as a root cause of the Israeli–Palestinian 
 - **Meaning of "National Home"**: Did British leaders intend for the declaration to eventually lead to a Jewish state? Private statements from figures like Lloyd George and Churchill suggest many did, while official policy remained ambiguous.
 - **Authorship**: While Balfour's name is on it, scholars debate the primary author, with candidates including Lord Milner and Leo Amery for drafting key amendments.
 - **Ongoing Legacy**: The declaration is considered by many a "principal cause" of the intractable Israeli-Palestinian conflict, while others argue it laid the foundation for the only Jewish state.
+
+Source: adapted from "Balfour Declaration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Balfour_Declaration

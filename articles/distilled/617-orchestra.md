@@ -69,3 +69,5 @@ An orchestra combines instruments from four sections. The **string section** (vi
 - **Authenticity vs. modernity:** To what extent should modern orchestras adopt period instruments, smaller forces, and conductorless leadership for pre-19th-century music?
 - **Artistic relevance:** How should orchestras balance canonical repertoire with new music, technology (electronics, streaming), and popular culture to attract 21st-century audiences?
 - **Labor vs. artistry:** Is "faking" an acceptable pragmatic solution to impossible writing and limited rehearsal, or does it undermine artistic integrity?
+
+Source: adapted from "Orchestra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Orchestra

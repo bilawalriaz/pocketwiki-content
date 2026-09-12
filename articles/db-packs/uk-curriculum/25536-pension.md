@@ -49,3 +49,5 @@ The earliest recognizable scheme: Augustus Caesar (13 BC) paid Roman legionnaire
 ## The Enduring Tension
 
 Every pension system balances three functions: saving (consumption smoothing), redistribution (poverty prevention), and insurance (longevity and disability). No single design solves all three without trade-offs. DB plans insure longevity but concentrate risk on sponsors who may underfund. DC plans individualize risk but leave workers exposed to market crashes and cognitive decline. PAYGO avoids market risk but bets on demographic stability that is vanishing. The “pensions crisis” is fundamentally a mismatch between long-dated promises and short political horizons—a problem Augustus tried to solve with a dedicated fund, and one that still drives reform debates from Berlin to Sacramento.
+
+Source: adapted from "Pension" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pension

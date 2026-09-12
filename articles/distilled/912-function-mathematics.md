@@ -74,3 +74,5 @@ In set theory, functions require domains and codomains to be sets; however, some
 - **Axiom of choice**: The equivalence between surjectivity and the existence of a right inverse depends on the axiom of choice, a foundational assumption debated in set theory.
 - **Church–Turing thesis**: While not formally provable, it remains a central philosophical claim about the nature of computability, with ongoing debate about whether alternative models (e.g., quantum computing) might extend the notion of effective computability.
 - **Foundational frameworks**: Whether functions should be defined within set theory, type theory, or category theory reflects deeper philosophical disagreements about the foundations of mathematics.
+
+Source: adapted from "Function (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Function_%28mathematics%29

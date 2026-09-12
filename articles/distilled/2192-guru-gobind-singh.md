@@ -44,3 +44,5 @@ Guru Gobind Singh fought 21 battles against the Mughal Empire and local hill chi
 - **Dasam Granth's Authority**: The text is considered sacred scripture by some Sikhs and of disputed or secondary authority by others.
 - **Dohra Mahalla Dasvan**: A couplet in the Guru Granth Sahib is sometimes attributed to Guru Gobind Singh, but the SGPC does not include it in the standard published version, despite its presence in older manuscripts.
 - **Factional Views**: Some groups, like the Namdhari sect, believe Guru Gobind Singh did not die in 1708 but lived on under an alias. The Radha Soami movement has also made claims linking him to their lineage, which are not widely accepted.
+
+Source: adapted from "Guru Gobind Singh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guru_Gobind_Singh

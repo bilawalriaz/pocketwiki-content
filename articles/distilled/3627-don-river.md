@@ -39,3 +39,5 @@ The 101-km Volga–Don Canal connects the Don to the Volga River near their clos
 ## Debates and Open Questions
 - The exact homeland of the Proto-Indo-Europeans is debated; the Kurgan hypothesis places it in the Volga-Don region.
 - The Don estuary area (Azak) has been speculated, but not definitively proven, to be a source of the Black Death in the mid-14th century.
+
+Source: adapted from "Don (river)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Don_%28river%29

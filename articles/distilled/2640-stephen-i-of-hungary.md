@@ -46,3 +46,5 @@ Stephen focused on Christianizing his realm, issuing laws that enforced Christia
 - **Location of the Black Hungarians**: Their territory is debated, with proposals placing them east of the Tisza or in southern Transdanubia.
 - **Date of Conflict with Ajtony**: The clash with the chieftain Ajtony is dated by some to the 1020s, while others place it a decade earlier.
 - **Authenticity of Laws**: The authenticity and dating of some of Stephen's law books, like the Second Book of Laws and the decree on tithes, are debated among scholars.
+
+Source: adapted from "Stephen I of Hungary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stephen_I_of_Hungary

@@ -92,3 +92,5 @@ Napoleon’s reputation polarized immediately. Royalists saw a usurper; liberals
 - **The Russian Campaign**: Was the invasion a rational response to the Continental System’s failure, or hubristic overreach driven by belief in his “star”?
 - **Waterloo**: Could Napoleon have won with better staff work (Grouchy’s failure), or was the coalition’s numerical and strategic superiority decisive?
 - **Long-term Balance**: Do the legal/administrative exports outweigh the ~6 million war dead and the reactionary settlement at Vienna (1815)?
+
+Source: adapted from "Napoleon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Napoleon

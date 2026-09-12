@@ -32,3 +32,5 @@ Management depends on the specific condition, and pain is a significant concern 
 
 ## Debates and Open Questions
 The World Health Organization does not differentiate between physical and mental disabilities, reflecting ongoing debate about how best to classify and categorize disability. The extent to which inclusive and accessible environments can mitigate restrictions is also a subject of discussion, as is the relative importance of assistive technology versus systemic societal change in improving quality of life for people with physical disabilities.
+
+Source: adapted from "Physical disability" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Physical_disability

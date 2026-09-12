@@ -29,3 +29,5 @@ Eusocial insects (honey bees, ants, wasps) show extreme cooperation. In Hymenopt
 ## Communication and signaling
 
 Signals are traits that evolved to convey information; cues are incidentally informative. Honest signals are kept honest by indices (unfakeable traits like body size), handicaps (costly ornaments only high-quality bearers can afford), or shared interests. Dishonest signaling persists where receivers benefit more on average by accepting than rejecting, as in the anglerfish's glowing lure or Batesian mimics such as Papilio polyxenes imitating the toxic Battus philenor.
+
+Source: adapted from "Behavioral ecology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Behavioral_ecology

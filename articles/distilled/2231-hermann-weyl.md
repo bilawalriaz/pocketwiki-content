@@ -39,3 +39,5 @@ Weyl engaged deeply with the foundations of mathematics. In *Das Kontinuum* (191
 
 ## Debates and Open Questions
 Weyl's philosophical journey was marked by significant shifts. He initially championed Brouwer's intuitionism against Hilbert's formalism, predicting a crisis in mathematics based on vague notions like real numbers. However, he later found intuitionism's restrictions "almost unbearable" and partially reconciled with Hilbert. His final position emphasized mathematics as a "symbolic construction." The ultimate foundations and meaning of mathematics remained, for him, an open question.
+
+Source: adapted from "Hermann Weyl" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hermann_Weyl

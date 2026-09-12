@@ -42,3 +42,5 @@ The population is approximately 3.2 million and is predominantly Hispanic or Lat
 
 ## Debates and Open Questions
 The central debate is Puerto Rico's political status: whether it should remain a territory, achieve statehood, or become an independent nation. This is an ongoing discussion in Puerto Rico, the U.S. Congress, and the United Nations. The economic impact of federal policies, such as the Jones Act and the expiration of tax incentives, is also a major point of contention. The effectiveness of the PROMESA oversight board and the path to resolving the debt crisis are actively debated. Finally, the causes and solutions for the island's population decline, driven by emigration and economic hardship, are critical open questions.
+
+Source: adapted from "Puerto Rico" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Puerto_Rico

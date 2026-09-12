@@ -34,3 +34,5 @@ Psychologist Sigmund Freud, in his 1927 essay *Humor*, argued that the ego uses 
 
 ## Debates and Open Questions
 The source material does not present significant scholarly debates about the core definition or history of dark humor. However, it notes that the application of the "black humorist" label to various writers is a judgment made by journalists and literary critics, implying some subjectivity in its use. The context-dependent nature of gallows humor's "relieving" effect, as highlighted by Paul Lewis, suggests an ongoing discussion about its precise psychological and social impact.
+
+Source: adapted from "Dark humor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dark_humor

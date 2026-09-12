@@ -33,3 +33,5 @@ Plant cells differentiate from meristematic cells, the plant equivalent of stem 
 | Phloem sieve tubes with companion cells | thin primary wall | sieve tubes lose nuclei and ribosomes; companion cells remain alive | translocation of sucrose along osmotic pressure gradients |
 
 The epidermis is a parenchyma-based tissue covering leaves, stems, and roots. It contains stomatal guard cells, which are the only shoot epidermal cells with chloroplasts and which regulate gas exchange, along with trichomes and root hairs. Conifers and flowering plants lack both flagella and centrioles, and their sperm cells are non-motile, relying on pollen tubes instead.
+
+Source: adapted from "Plant cell" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_cell

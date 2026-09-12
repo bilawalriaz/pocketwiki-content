@@ -37,3 +37,5 @@ While editing Dirichlet's lectures on number theory, Dedekind studied algebraic 
 ## Debates and Open Questions
 - Dedekind's work on infinite sets and the foundations of arithmetic anticipated and influenced the logicism of Frege and Russell, though the exact nature of his philosophical commitments is debated.
 - A fractured friendship with Georg Cantor arose from allegations that Cantor plagiarized Dedekind's proof on infinity, a claim supported by recent findings of their correspondence.
+
+Source: adapted from "Richard Dedekind" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Richard_Dedekind

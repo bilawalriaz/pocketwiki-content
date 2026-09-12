@@ -43,3 +43,5 @@ The 1818 first edition was published anonymously in 500 copies. Critical reviews
 - **Source of the Name "Frankenstein"**: Mary Shelley claimed the name came from a dream. Scholars have proposed alternative sources, including Frankenstein Castle in Germany, which she may have visited.
 - **Scientific Inspiration**: The extent to which Shelley was directly influenced by specific scientists like Giovanni Aldini or Johann Konrad Dippel is debated, as she does not mention them in her notes.
 - **The Creature's Nature**: Interpretations of the creature vary, from a sympathetic figure to a symbol of uncontrolled scientific ambition or a reflection of Shelley's personal traumas.
+
+Source: adapted from "Frankenstein" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frankenstein

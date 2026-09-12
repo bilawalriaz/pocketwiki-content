@@ -45,3 +45,5 @@ The demise of the Moche political structure is attributed to several factors. St
 - **Sacrificial Victims**: There is disagreement over whether victims of Moche sacrifice were losers of ritual battles among elites or warriors captured in territorial conflicts.
 - **Cause of Collapse**: Theories for the Moche decline emphasize environmental change (severe El Niño events), social unrest, and inter-elite conflict, with no single cause universally accepted.
 - **Terminology**: Historian Waldemar Espinoza Soriano argues the term "Mochica culture" is erroneous and should be reserved for the Lambayeque culture.
+
+Source: adapted from "Moche culture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moche_culture

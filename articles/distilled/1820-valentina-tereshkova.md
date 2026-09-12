@@ -64,3 +64,5 @@ Numerous places and objects bear Tereshkova's name, including a square in Tver, 
 ## Debates and open questions
 
 The source notes that Tereshkova's marriage to Nikolayev was encouraged by Soviet authorities as a propaganda "fairy-tale," with General Kamanin describing it as "probably useful for politics and science." It also highlights the tension between her Soviet-era atheist statements (calling religion "a big evil") and her later support for Orthodox Christianity as the basis of Russian identity.
+
+Source: adapted from "Valentina Tereshkova" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Valentina_Tereshkova

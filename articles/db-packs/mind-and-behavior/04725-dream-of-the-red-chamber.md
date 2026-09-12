@@ -39,3 +39,5 @@ The dispute is sharpened by the rouge versions and the novel's own internal fore
 The novel is written in **baihua** (白話), the vernacular Chinese of Beijing, which became a stylistic foundation for modern Mandarin and was championed by the New Culture Movement. Early reformers like Liang Qichao dismissed the book as obsolete, but the scholar Wang Guowei elevated it by calling it "the tragedy of tragedies."
 
 Two English translations dominate. The Yangs' *A Dream of Red Mansions* preserves a classical, Beijing-inflected register. David Hawkes and John Minford's *The Story of the Stone* (1973–1980), in five volumes, is generally considered the more literary rendering and is the one most Western readers encounter. The novel has inspired countless adaptations in film, television, and opera, and remains a touchstone for feminist, Marxist, and philosophical readings of Chinese literature.
+
+Source: adapted from "Dream of the Red Chamber" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber

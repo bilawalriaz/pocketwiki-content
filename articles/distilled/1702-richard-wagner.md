@@ -77,3 +77,5 @@ Few non-operatic works: Symphony in C (age 19), *Faust* Overture, *Siegfried Idy
 - **Performance in Israel:** An informal ban on public Wagner performances in Israel persists due to antisemitism/Nazi associations, though court challenges and occasional concert performances occur.
 - **Political interpretation:** The *Ring* is read variously as a socialist critique of capitalism (George Bernard Shaw), a reactionary nationalist myth, or a psychological/Jungian allegory (Robert Donington).
 - **Authorship of *Mein Leben*:** The autobiography was heavily edited by Wagner and later suppressed by Cosima; the first unexpurgated German edition appeared only in 1963.
+
+Source: adapted from "Richard Wagner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Richard_Wagner

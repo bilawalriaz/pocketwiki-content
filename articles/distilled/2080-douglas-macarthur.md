@@ -48,3 +48,5 @@ After his removal, MacArthur delivered a famous farewell address to Congress. He
 *   **The Bonus Army (1932):** His use of troops to disperse protesting veterans is viewed by some as a necessary action to prevent a communist-inspired insurrection, and by others as a brutal overreaction that damaged civil-military relations.
 *   **Removal from Command (1951):** The firing of MacArthur by President Truman is a seminal case in American civil-military relations. It raised questions about whether a popular military commander can publicly challenge the President's war policy, and whether the military or civilian leadership should control war strategy.
 *   **Legacy in Japan:** His role as occupier is highly regarded in Japan for overseeing a peaceful transition to democracy and economic recovery, though his decision to shield Emperor Hirohito from war crimes prosecution remains controversial.
+
+Source: adapted from "Douglas MacArthur" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Douglas_MacArthur

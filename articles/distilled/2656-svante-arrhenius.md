@@ -37,3 +37,5 @@ After his theories gained acceptance, Arrhenius explored diverse fields. He appl
 - **Early Criticism**: In 1900, Knut Ångström published experimental results suggesting that CO₂ absorption of infrared radiation was already "saturated," meaning more CO₂ would have no effect. Arrhenius dismissed this critique in 1901.
 - **Quantitative Accuracy**: While qualitatively correct, Arrhenius's quantitative estimates for warming from doubled CO₂ (about 4°C) were later found to be higher than some subsequent models, though within the range of modern estimates. His work omitted key factors like clouds and convection.
 - **Consensus on Ice Ages**: The modern consensus is that orbital forcing sets the timing for ice ages, with CO₂ acting as an essential amplifying feedback, rather than the primary driver as Arrhenius initially focused on.
+
+Source: adapted from "Svante Arrhenius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Svante_Arrhenius

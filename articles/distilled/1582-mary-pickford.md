@@ -66,3 +66,5 @@ Though the Smiths left Toronto in 1902, Pickford returned often: performing at t
 - **Children’s testimony**: Adopted children Ronald and Roxanne later described Pickford as "too self-absorbed to provide real maternal love" and critical of their appearance; Ronnie’s 2003 reflection ("she was a good woman") complicates the narrative.
 - **Haircut symbolism**: The 1928/1929 bob is framed as a cultural rupture—curls = Victorian virtue; bob = modern transgression. Scholars debate whether the public’s horror was organic or media-amplified.
 - **UA’s long-term viability**: Pickford and Chaplin held UA for decades (selling 1955–56). Whether UA’s pure-distribution model was sustainable without studio production infrastructure is a business-history question.
+
+Source: adapted from "Mary Pickford" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mary_Pickford

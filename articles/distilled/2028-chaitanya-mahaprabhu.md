@@ -41,3 +41,5 @@ The primary source for Chaitanya's life is the hagiographical tradition of Gaudi
 - **Nature of his passing**: Biographies differ; some, like Jayananda's *Caitanya-Mangala*, mention a natural death, while others, like the *Caitanya Caritāmṛta*, are silent or suggest a miraculous disappearance into the Jagannath deity.
 - **Authenticity of early biographies**: The date and authenticity of Murari Gupta's *Śrī Kṛṣṇa Caitanya Caritāmṛtam* (c. 1513) are disputed due to its inclusion of later events, suggesting possible interpolation.
 - **Theological identity**: Hagiographies portray him variously as an avatāra of Krishna, Svayaṁ Bhagavān (God Himself), or the combined form of Radha-Krishna, reflecting ongoing theological interpretation within the tradition.
+
+Source: adapted from "Chaitanya Mahaprabhu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu

@@ -51,3 +51,5 @@ Long bones are described with standard regional terms: the **head** is usually t
 | Apophysis | *apo-*, "outward from" | Any process or outgrowth from a bone |
 
 Internally, the **cortex** is a bone's outer wall and the **medulla** its inner surface. Red marrow, which produces blood, sits in spongy bone and the medullary cavity; yellow marrow, which is fatty, sits mainly in the medullary cavity. Flat bones lack a medullary cavity because they are too thin to contain one.
+
+Source: adapted from "Anatomical terms of bone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anatomical_terms_of_bone

@@ -26,12 +26,4 @@ Protection sits in tension with sharing. Formal methods include patents, tradema
 
 KM technology overlaps heavily and includes groupware, workflow systems, content and document management, enterprise portals, eLearning, scheduling software, telepresence, and semantic technologies such as ontologies that let machines infer meaning from data. Early proprietary products like HCL Notes (formerly Lotus Notes) gave way to Internet standards, and open-source wikis and blogs now provide capabilities that once required expensive commercial tools. Industry 4.0 and digital transformation have intensified the challenge by increasing both the volume and speed of information flow, while supply chains remain the hardest setting because they span multiple firms with no shared hierarchy, producing what some authors call transorganizational or interorganizational knowledge.
 
-**Changes made:**
-- Fixed `Since2010` typo to `Since 2010`
-- Removed redundant personal KM mention (year1999 was unsupported; source says1999 but conflates two facts)
-- Added inline definition of *transactive memory system* for the social-psychological lens
-- Trimmed filler openers ("A central distinction runs through the field", "KM has no single theory", "Two opposing strategies describe how knowledge actually moves")
-- Condensed the SKandia line (source gives no year for Edvinsson's hiring, so I removed the unsupported1998)
-- Cut the personal KM1999 sentence to keep focus on organizational KM
-- Reduced heading clutter; preserved all four frameworks (tacit/explicit, embedded/embodied, create/transfer, four schools)
-- Final paragraph still ends on a substantive fact about supply chains- Word count ~980, well within the 1000 target
+Source: adapted from "Knowledge management" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knowledge_management

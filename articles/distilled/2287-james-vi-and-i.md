@@ -43,3 +43,5 @@ James sought a middle way in religion, enforcing conformity against Puritans whi
 - The exact nature of James's close relationships with male favorites like the Duke of Buckingham remains debated, with some historians suggesting they were sexual and others interpreting them within the context of 17th-century courtly affection.
 - Historians continue to assess the extent to which James's policies and personal failings directly caused the political crises that led to the English Civil War under his son, Charles I.
 - The success and impact of his lifelong pursuit of a formal political union between Scotland and England is evaluated differently, with some seeing it as a visionary failure and others as a necessary step toward a future British state.
+
+Source: adapted from "James VI and I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_VI_and_I

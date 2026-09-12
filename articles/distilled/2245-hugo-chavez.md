@@ -56,3 +56,5 @@ Chávez pursued an anti-imperialist foreign policy, aligning Venezuela with Cuba
 - **Democratic Backsliding**: There is significant debate over the extent to which Chávez dismantled Venezuela's democracy. While he won numerous elections, critics point to his undermining of checks and balances, press freedom, and judicial independence as evidence of authoritarianism.
 - **Economic Responsibility**: Analysts debate whether Venezuela's economic crisis was caused primarily by Chávez's policies or by external factors like falling oil prices. Some argue his populist spending and nationalizations made the economy vulnerable, while others emphasize the role of global market forces.
 - **Role in Regional Politics**: Chávez's influence on the Latin American "pink tide" is debated. Some see him as a key leader who inspired left-wing movements, while others argue his erratic policies and domestic failures limited his lasting impact.
+
+Source: adapted from "Hugo Chávez" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez

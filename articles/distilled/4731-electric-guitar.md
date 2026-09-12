@@ -39,3 +39,5 @@ In rock and related genres, the electric guitar typically serves two roles. The 
 
 ## Debates and Open Questions
 The degree to which the choice of body wood affects the tone of an electric guitar's amplified signal is a subject of ongoing debate. Many players and builders believe wood choice is highly significant, while others argue the difference is subtle or negligible compared to electronics and amplification. The article notes that formal investigations confirming or refuting these claims are scarce.
+
+Source: adapted from "Electric guitar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electric_guitar

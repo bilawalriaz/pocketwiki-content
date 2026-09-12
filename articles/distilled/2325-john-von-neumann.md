@@ -53,3 +53,5 @@ During World War II, von Neumann was a key consultant for the Manhattan Project,
 - **Von Neumann's Proof Against Hidden Variables:** His 1932 proof that quantum mechanics cannot be based on hidden variables was later shown by Grete Hermann (1935) and John S. Bell (1966) to contain a conceptual error. However, some scholars argue the proof remains valid against a specific, important class of hidden variable theories.
 - **Quantum Logic:** Von Neumann and Garrett Birkhoff proposed that quantum mechanics requires a non-distributive logic. Von Neumann himself was never satisfied with this work, considering it an unsolved problem for future mathematicians.
 - **The Measurement Problem:** Von Neumann's analysis suggested that the collapse of the wave function could be attributed to the consciousness of the observer, an interpretation that never gained majority acceptance among physicists.
+
+Source: adapted from "John von Neumann" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_von_Neumann

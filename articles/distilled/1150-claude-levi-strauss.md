@@ -56,3 +56,5 @@ Lévi-Strauss's structuralism sparked debates with existentialists like Sartre a
 ## Debates and Open Questions
 
 Scholars continue to debate the validity and relevance of Lévi-Strauss's structural methods. Critics argue that his emphasis on abstract structures overlooks historical specificity, individual agency, and power dynamics within societies. Postcolonial theorists question whether his universalist claims mask ethnocentric assumptions about "primitive" versus "modern" thought. Additionally, debates persist over whether structuralism remains a viable framework in anthropology or has been superseded by practice-based and materialist approaches. The extent to which his theories apply beyond Western academic contexts also remains contested.
+
+Source: adapted from "Claude Lévi-Strauss" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss

@@ -45,3 +45,5 @@ Hunan hosts 137 institutions of higher education. It is home to five Double Firs
 
 ## Debates and Open Questions
 The source notes that early travelers regarded Hunan as "the most conservative and virulently hostile to outsiders," and the Jesuits considered it the "most impenetrable part" of China, suggesting a historical reputation for insularity and resistance to outside influence.
+
+Source: adapted from "Hunan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hunan

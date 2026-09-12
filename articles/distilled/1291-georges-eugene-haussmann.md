@@ -96,3 +96,5 @@ One of the leaders of the parliamentary opposition to Napoleon, Jules Ferry, rid
 Napoleon III gave in to the criticism and named an opposition leader and fierce critic of Haussmann, Émile Ollivier, as his new prime minister. Haussmann was invited to resign. Haussmann refused to resign, and was relieved of his duties by the Emperor. Six months later, during the Franco-German War, Napoleon III was captured by the Germans, and the Empire was overthrown.
 
 In his memoires, Haussmann had this comment on his dismissal: "In the eyes of the Parisians, who like routine in things but are changeable when it comes to people, I committed two great wrongs; over the course of seventeen years I disturbed their daily habits by turning Paris upside down, and they had to look at the same face of
+
+Source: adapted from "Georges-Eugène Haussmann" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georges-Eug%C3%A8ne_Haussmann

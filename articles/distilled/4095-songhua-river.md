@@ -28,3 +28,5 @@ The Songhua River has been subject to major pollution incidents. In November 200
 
 ## Debates and open questions
 The source text does not contain scholarly debates or open questions.
+
+Source: adapted from "Songhua River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Songhua_River

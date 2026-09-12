@@ -40,3 +40,5 @@ Luxor is located on the Nile in Upper Egypt, about 670 km from Cairo. The city h
 
 ## Debates and Open Questions
 The source does not detail specific scholarly debates but notes that the tourism development plan for Luxor is "controversial," with concerns about its impact on heritage. The full extent and implications of the "lost golden city" of Aten are still being uncovered.
+
+Source: adapted from "Luxor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Luxor

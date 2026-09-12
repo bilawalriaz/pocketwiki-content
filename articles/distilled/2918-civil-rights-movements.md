@@ -56,3 +56,5 @@ Australia's civil rights push addressed historical injustices, including voting 
 - The link between civil rights activism and broader nationalist or separatist goals (e.g., in Northern Ireland and Quebec) remains ambiguous.
 - The effectiveness of Black Power's self-sufficiency argument versus integration is contested, with some arguing it led to new forms of oppression.
 - The long-term impact of the Prague Spring reforms and the Soviet response on later Eastern Bloc revolutions is analyzed.
+
+Source: adapted from "Civil rights movements" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Civil_rights_movements

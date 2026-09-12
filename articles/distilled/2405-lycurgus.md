@@ -46,3 +46,5 @@ In Sparta, Lycurgus was honoured as a god, his cult providing divine sanction fo
 - **Chronology**: When did the Great Rhetra originate? Dates range from the 9th to the 7th century BC.
 - **Authorship of Reforms**: Which, if any, of the attributed institutions can be linked to a single lawgiver? Most reforms likely evolved over centuries.
 - **Purpose of the Myth**: Was the Lycurgan legend created to explain Spartan success, to provide divine legitimacy, or to serve as a political tool for later reformers?
+
+Source: adapted from "Lycurgus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lycurgus

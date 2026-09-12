@@ -46,3 +46,5 @@ From the 17th century, the empire declined due to shifting Atlantic trade routes
 - The nature and location of the original capital, Njimi, remain uncertain despite archaeological attempts.
 - The historiographical name "Kanem–Bornu Empire" is considered anachronistic by scholars, as the state rarely controlled both regions simultaneously and was not known by this name contemporaneously.
 - Historian Rémi Dewière has suggested the state should be called a "sultanate" rather than an "empire" to decolonize its history.
+
+Source: adapted from "Kanem–Bornu Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kanem%E2%80%93Bornu_Empire

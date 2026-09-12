@@ -53,3 +53,5 @@ To meet this requirement, schools collaborate through **Area Learning Communitie
 ## Skills as the Organising Principle
 
 The curriculum's defining shift is the move from prescribing *what to teach* to specifying *what skills pupils must acquire*. Areas of learning provide the contexts; cross-curricular and other skills provide the transferable capabilities. The Entitlement Framework then ensures that at 14–16, the qualification offer reflects both academic and vocational pathways, delivered through a cooperative network rather than by each school alone.
+
+Source: adapted from "Northern Ireland Curriculum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Northern_Ireland_Curriculum

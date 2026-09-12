@@ -31,3 +31,5 @@ A tatum is the smallest time division that most often lines up with note onsets 
 ## Beat perception
 
 Beat perception is the human ability to extract a repeating time pattern from sound and synchronize movement to it, which underlies tapping and dancing. Infants across cultures already move rhythmically to music, but matching movement to the actual beat of an auditory stimulus develops between roughly two-and-a-half and four-and-a-half years of age.
+
+Source: adapted from "Beat (music)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Beat_%28music%29

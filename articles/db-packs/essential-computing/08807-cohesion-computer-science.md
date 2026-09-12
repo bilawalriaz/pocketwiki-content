@@ -33,3 +33,5 @@ Cohesion is qualitative. Source code is examined against a rubric and assigned t
 The ranks do not form a steady progression. Studies by Constantine, Edward Yourdon, and Steve McConnell indicate that the first two types (coincidental and logical) are inferior, communicational and sequential are very good, and functional is superior.
 
 A module approaches perfect, or atomic, cohesion when it cannot be reduced further without losing its task, for example a single function `r(x) = 2x + 1 + 3x + 2` written as one expression. The source presents this as an extreme of functional cohesion rather than a separate category.
+
+Source: adapted from "Cohesion (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29

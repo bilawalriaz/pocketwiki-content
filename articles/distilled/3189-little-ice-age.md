@@ -48,3 +48,5 @@ Scientists propose several interconnected causes:
 - **Global Synchronicity:** The IPCC states the LIA was not a globally synchronous cold period, but rather a series of independent regional climate changes.
 - **Primary Cause:** The relative importance of solar minima, volcanic eruptions, ocean circulation changes, and human depopulation remains debated. Volcanic activity is often cited as a key driver of the coldest intervals.
 - **Southern Hemisphere Onset:** The beginning of the LIA in the Southern Hemisphere is thought to have been delayed by about two centuries compared to the Northern Hemisphere.
+
+Source: adapted from "Little Ice Age" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Little_Ice_Age

@@ -40,3 +40,5 @@ International and national efforts have focused on partial restoration. The Inte
 - The feasibility and cost of large-scale solutions, such as redirecting water from Siberian rivers (Ob, Irtysh) to refill the sea, remain highly debated.
 - The future of the South Aral Sea is uncertain; political will for its restoration is lacking, and Uzbekistan is pursuing oil exploration on its dried bed.
 - The long-term effectiveness of current restoration programs (ASBP-3) and the balance between upstream water use for agriculture versus downstream ecological needs are ongoing challenges.
+
+Source: adapted from "Aral Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aral_Sea

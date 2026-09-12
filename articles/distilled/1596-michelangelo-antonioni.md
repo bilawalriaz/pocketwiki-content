@@ -64,3 +64,5 @@ Antonioni "encouraged filmmakers to explore elliptical and open-ended narrative"
 - **Late-work authorship**: *Beyond the Clouds* (Wenders’ footage largely discarded) and the *Eros* segment raise questions about authorial control post-stroke.
 - **Narrative vs. anti-narrative**: Critics disagree whether Antonioni’s ellipses deepen psychological realism or evacuate drama; Welles and Bergman exemplify the latter view.
 - **Technically Sweet**: The abandoned 1966 Amazon project (later an art exhibition) remains a "what-if" in his filmography; its screenplay’s viability is untested.
+
+Source: adapted from "Michelangelo Antonioni" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Michelangelo_Antonioni

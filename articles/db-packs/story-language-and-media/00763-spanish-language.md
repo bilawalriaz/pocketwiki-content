@@ -39,3 +39,5 @@ Judaeo-Spanish, or Ladino, is the variety that Sephardi Jews carried with them a
 ## Official status and digital reach
 
 Spanish is the official language of twenty countries and one territory in the Americas, of Spain, and of Equatorial Guinea, and is one of the six official languages of the United Nations. It also holds official status in the European Union, the Organization of American States, and other international bodies. On the internet, it ranks as the third-most used language by user count (after English and Chinese) and the second-most used by number of websites (after English).
+
+Source: adapted from "Spanish language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_language

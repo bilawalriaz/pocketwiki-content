@@ -48,3 +48,5 @@ Pottery developed independently in multiple regions. In East Asia, China led inn
 - **Link to agriculture**: While some argue pottery emerged only after sedentary farming, the 28,000-year-old Dolní Věstonice figurine challenges this, suggesting earlier cognitive or symbolic motivations.  
 - **Sub-Saharan African origins**: The relationship between early African pottery and later Bantu-speaking populations is contested, with no consensus on migration patterns or cultural transmission.  
 - **Environmental sustainability**: The shift toward hydrogen and biomass fuels in modern kilns raises questions about scalability and long-term viability.
+
+Source: adapted from "Pottery" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pottery

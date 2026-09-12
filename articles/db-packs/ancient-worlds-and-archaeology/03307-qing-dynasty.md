@@ -25,3 +25,5 @@ By 1905 the imperial examination system was abolished and provincial assemblies 
 ## Causes of decline
 
 Three structural weaknesses compounded over the century. Government revenue stayed low relative to population, leaving the state unable to fund modern military or industrial capacity. The Manchu ruling elite grew increasingly isolated and unwilling to share real power with the Han Chinese gentry who supplied most administrators. And the 19th-century world order, industrialised, imperialist, and willing to impose Unequal Treaties granting extraterritoriality, low tariffs, and indemnities to foreign powers, demanded a centralised, technologically adaptive state the Qing had not built and could not quickly build. Foreign pressure set the conditions; internal rigidity decided the outcome.
+
+Source: adapted from "Qing dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Qing_dynasty

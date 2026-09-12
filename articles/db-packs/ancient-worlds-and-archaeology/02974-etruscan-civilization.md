@@ -25,3 +25,5 @@ Etruscan fortunes reversed in the fifth century BC. Around 540 BC a joint Etrusc
 ## Cultural legacy
 
 Etruscan art fused Greek models with local traditions, producing the painted tombs of Tarquinia and the great terracotta statues and sarcophagi that still survive because the Etruscans built cities of wood, not stone. Their religious ideas, the household cult of the dead, the temple layout with frontal steps, the ritual calendar, the reading of entrails, passed directly into Rome, and the last three kings of Rome before the Republic were Etruscan. The asymmetry between Etruscan visual culture, which speaks clearly, and its language and inner life, which remain only partly legible, is what makes the civilization hard to study.
+
+Source: adapted from "Etruscan civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Etruscan_civilization

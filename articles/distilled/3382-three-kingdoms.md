@@ -47,3 +47,5 @@ The period saw a catastrophic population decline due to warfare, famine, and pla
 - **Legitimacy**: Historians have long debated which state was the legitimate successor to the Han. Traditional historiography, following Chen Shou, often favored Cao Wei (as the successor to the Jin dynasty). Later Neo-Confucian scholars like Zhu Xi argued for Shu Han, based on Liu Bei's blood relation to the Han imperial family.
 - **Population Figures**: The census data from the period is considered an undercount. The dramatic population drop is attributed not only to warfare but also to mass migration, famine, disease, and the existence of large populations outside state control (e.g., refugees, bandits).
 - **Periodization**: While 220–280 is the standard timeframe, some historians argue for starting the period earlier (e.g., with the Yellow Turban Rebellion in 184) to include the warlord chaos that directly led to the tripartite division.
+
+Source: adapted from "Three Kingdoms" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Three_Kingdoms

@@ -42,3 +42,5 @@ In analysis, Hermite introduced a new class of special functions, now called Her
 
 ## Debates and Open Questions
 The source does not detail scholarly debates about Hermite's work, but it notes that his proof of the irrationality of π did not settle the question of its transcendence, which was later proven by Lindemann. The article also mentions that techniques similar to Hermite's were later used by Ivan Niven in 1947 to provide an elementary proof of π's irrationality.
+
+Source: adapted from "Charles Hermite" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_Hermite

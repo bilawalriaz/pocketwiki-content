@@ -98,3 +98,5 @@ Ancient Greek philosophers Hippocrates and Aristotle recorded natural history ob
 - Whether species clearly aggregate into discrete, homogeneous trophic levels is debated; omnivory complicates the concept, though recent studies show real trophic levels exist above the herbivore level.
 - Complexity in ecology requires different explanations at each integrative level; small-scale patterns do not necessarily explain larger ones.
 - Kin selection versus group selection as explanations for altruistic behaviour remains a distinction in social ecology.
+
+Source: adapted from "Ecology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ecology

@@ -60,3 +60,5 @@ With Laplace in 1782–1783, Lavoisier used an ice calorimeter to measure heat f
 ## Debates and open questions
 
 Lavoisier's antiphlogistic approach was long unaccepted by many chemists, especially British phlogistic scientists who argued that quantification of substances did not imply conservation of mass and that his precision to five to eight decimal places exceeded experimental accuracy. The priority of conservation of mass is debated: Mikhail Lomonosov expressed similar ideas in 1748, and Jean Rey, Joseph Black, and Henry Cavendish pre-dated Lavoisier's work. His claim that all acids contain oxygen later proved erroneous. The story that Lavoisier blinked after decapitation to test consciousness is apocryphal—not recorded in contemporary accounts and likely originating from a 1990s Discovery Channel documentary.
+
+Source: adapted from "Antoine Lavoisier" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antoine_Lavoisier

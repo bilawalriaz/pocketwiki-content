@@ -31,3 +31,5 @@ Almoravid patronage produced a shared Andalusi-Maghribi style that blended North
 ## Open Questions
 
 The scale of Almoravid involvement in the Ghana Empire around 1076–77 is disputed, with some scholars reading it as a military conquest and others as a slower religious and political diffusion. The origin of the name "Almoravid" itself has several competing explanations in the sources.
+
+Source: adapted from "Almoravid dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Almoravid_dynasty

@@ -38,3 +38,5 @@ Following his marriage to Sophia Palaiologina, niece of the last Byzantine emper
 
 ## Debates and Open Questions
 The source notes a scholarly debate on the impact of Ivan III's reign. While he was successful in military and economic consolidation, historian John Fennell argued his reign was also marked by "cultural depression, lack of freedom, and isolation from the West." The exact nature and extent of this cultural and political isolation versus consolidation remains a point of analysis.
+
+Source: adapted from "Ivan III of Russia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ivan_III_of_Russia

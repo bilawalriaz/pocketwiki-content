@@ -51,3 +51,5 @@ Charlemagne aimed to unify his empire under Christianity. The *Admonitio General
 - **Feudalism's Origins**: Some scholars see the Carolingian Empire as the template for medieval feudalism, while others, like Marc Bloch, criticize the search for a single "birth" of feudalism.
 - **Demographic Trends**: Estimates of the empire's population (10–20 million) are uncertain. Historian Timothy Newfield challenges the idea of steady demographic expansion, pointing to frequent famines.
 - **Purpose of Capitularies**: There is debate over whether capitularies were effective laws or merely a "royal wish-list," given limited evidence of their implementation across the realm.
+
+Source: adapted from "Carolingian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carolingian_Empire

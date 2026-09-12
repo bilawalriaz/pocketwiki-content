@@ -50,3 +50,5 @@ Zhukov spent his retirement writing controversial memoirs, which faced heavy cen
 - **Role at Kursk**: While Zhukov claimed a central role in planning the Battle of Kursk, Marshal Rokossovsky, who commanded the Central Front, stated that planning was done without Zhukov and that he exaggerated his involvement.
 - **Extent of Stalin's influence**: Zhukov's memoirs and later censored chapters portray Stalin as having little direct role in military strategy, a view contested by other sources that emphasize Stalin's hands-on command style.
 - **Political acumen**: Zhukov's career highlights the tension between military heroism and political survival in the Soviet system. His repeated falls from power suggest a lack of political skill despite his battlefield prowess.
+
+Source: adapted from "Georgy Zhukov" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georgy_Zhukov

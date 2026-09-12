@@ -43,3 +43,5 @@ A useful finite-sum consequence is Sedrakyan's inequality (also called Titu's or
 $$\frac{\left(\sum u_i\right)^2}{\sum v_i} \leq \sum \frac{u_i^2}{v_i},$$
 
 obtained by substituting $u_i' = u_i/\sqrt{v_i}$ and $v_i' = \sqrt{v_i}$ into the dot-product version. Hölder's inequality generalises Cauchy–Schwarz to $L^p$ norms, with Cauchy–Schwarz as the special case $p = q = 2$.
+
+Source: adapted from "Cauchy–Schwarz inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality

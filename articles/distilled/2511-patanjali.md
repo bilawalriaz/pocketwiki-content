@@ -39,3 +39,5 @@ A medical text called *Patanjalatantra* is attributed to a Patanjali, possibly f
 - **Dating**: The precise date of the *Yoga Sūtras* is contested, with estimates ranging from the 2nd century BCE to the 5th century CE.
 - **Authorship of the Bhāṣya**: Some scholars debate whether the commentary (*Bhāṣya*) on the *Yoga Sūtras* was written by the same author as the sutras themselves or by a later editor.
 - **Modern Relevance**: Scholar David Gordon White questions the relevance of the *Yoga Sūtras* to modern physical yoga practice, noting its lack of discussion on postures and breathing.
+
+Source: adapted from "Patanjali" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Patanjali

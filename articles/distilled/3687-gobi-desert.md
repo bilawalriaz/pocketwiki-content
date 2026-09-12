@@ -45,3 +45,5 @@ Early habitation is categorized into three oasis periods: Oasis I (Mesolithic), 
 - The exact boundaries of the Gobi are debated; some geographers consider the western area (Tarim Basin, Lop Nor, Hami) as a separate Taklamakan Desert.
 - The classification of certain mountain ranges (e.g., Tuge-tau) within the Dzungarian Basin is disputed between scholars like Grigory Grum-Grshimailo and Sven Hedin.
 - The causes and relative impacts of natural climate change versus human activities on the Gobi's expansion are subjects of ongoing study.
+
+Source: adapted from "Gobi Desert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gobi_Desert

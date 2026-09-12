@@ -43,3 +43,5 @@ The collage concept has influenced many fields. In architecture, Colin Rowe and 
 
 ## Debates and Open questions
 There is scholarly debate about collage's true origins. While many institutions attribute its start to Picasso and Braque in 1912, evidence of early Victorian photocollage from the 1860s suggests earlier practice. Furthermore, the definition of collage is contested, particularly regarding works using natural, unaltered materials like driftwood. Some argue these lack the "semiotic collision" of culturally significant fragments central to the original Cubist concept. Copyright law also presents ongoing challenges, as the use of existing works in collage can conflict with derivative work protections, leading to legal disputes in fields like music sampling.
+
+Source: adapted from "Collage" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Collage

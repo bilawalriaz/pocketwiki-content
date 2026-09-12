@@ -76,3 +76,5 @@ Extant fish are unevenly distributed: over 32,000 bony fish species, ~1,100 cart
 - **Fisheries management**: Sharp disagreement between fisheries scientists (advocating stringent protection) and the fishing industry (emphasizing resiliency and employment) on sustainable harvest levels.
 - **Conservation data gaps**: Fish are harder to study than terrestrial taxa; population data is often lacking, especially for freshwater and deep-sea species, hindering Red List assessments.
 - **Pyloric caeca function**: The role of these intestinal pouches in digestion remains "doubtful" per the source text.
+
+Source: adapted from "Fish" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fish

@@ -49,3 +49,5 @@ Historical labels—religious humanism, scientific humanism, secular humanism, M
 ## Organizations
 
 Humanists International coordinates globally. Largest national organizations: Norwegian Humanist Association, Humanists UK, American Humanist Association, Humanistisch Verbond (Netherlands). They conduct non-religious ceremonies, advocate secularism, and promote humanist education and pastoral care.
+
+Source: adapted from "Humanism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Humanism

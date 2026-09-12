@@ -45,3 +45,5 @@ The conquest led to the near-total replacement of the English aristocracy with a
 *   **The "Norman Yoke":** A 17th-century theory that Anglo-Saxon society was freer and more equal than the post-conquest society. This is seen as more reflective of later political thought than historical fact.
 *   **Papal Support:** Whether William obtained Pope Alexander II's blessing for the invasion before it happened is disputed; contemporary claims are treated with caution.
 *   **Harold's Death:** The exact manner of Harold Godwinson's death at Hastings is unknown, with sources giving conflicting accounts (arrow to the eye, killed by William, etc.).
+
+Source: adapted from "Norman Conquest" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Norman_Conquest

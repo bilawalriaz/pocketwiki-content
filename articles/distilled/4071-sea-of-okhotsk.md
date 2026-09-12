@@ -47,3 +47,5 @@ The shelf holds significant oil and gas reserves, estimated at 3.5 billion tons 
 - **Territorial Dispute:** Japan claims the southern Kuril Islands (Northern Territories), which have been administered by Russia since 1945. This dispute prevents a formal peace treaty between the two nations.
 - **Climate Change Impacts:** The rapid warming of the sea (three times the global mean) is reducing sea ice extent, altering ocean circulation, and causing significant shifts in fish populations, with major implications for regional fisheries and ecosystems.
 - **Peanut Hole Governance:** While the 2014 UN ruling granted Russia continental shelf rights, the long-term management of this historically overfished area and its resources remains a point of international interest.
+
+Source: adapted from "Sea of Okhotsk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sea_of_Okhotsk

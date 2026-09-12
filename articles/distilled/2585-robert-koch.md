@@ -50,3 +50,5 @@ Koch's career included disputes with Louis Pasteur over proof of causality for a
 - **Tuberculin's efficacy**: Koch's initial claim that tuberculin was a cure for tuberculosis was a major scientific failure and scandal, though it later found use in diagnosis.
 - **Human vs. bovine tuberculosis**: Koch's assertion that human and cattle tuberculosis bacilli were identical and that cattle posed no health risk was later proven incorrect, leading to significant public health implications.
 - **Nobel Prize arbitration**: Koch's role as a "neutral arbitrator" in the 1902 Nobel Prize dispute between Ronald Ross and Giovanni Battista Grassi was criticized as biased due to his personal conflict with Grassi.
+
+Source: adapted from "Robert Koch" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Koch

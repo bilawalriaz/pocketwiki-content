@@ -51,3 +51,5 @@ Kathmandu is administered by the Kathmandu Metropolitan City (KMC), divided into
 - The exact origins and early history of the valley's settlement are debated, with archaeological evidence dating to the 2nd century AD but legendary accounts describing a much earlier mythical past.
 - The traditional selection process for the Kumari is a subject of ongoing cultural and religious discussion, especially after the end of the monarchy.
 - The impact of rapid urbanization (4% annual growth as of 2010) on the city's cultural heritage and environment is a major contemporary challenge.
+
+Source: adapted from "Kathmandu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kathmandu

@@ -34,3 +34,5 @@ In Norse mythology, the island was created by the goddess Gefjun, who tricked th
 
 ## Debates and Open Questions
 The exact etymology of *Sjælland* remains debated, with competing theories linking it to "seal," "deep bay," or other roots. In Norse mythology, there is scholarly debate over whether the Swedish lake left by Gefjun was Vänern or Mälaren, based on geographical similarities to Zealand's shape.
+
+Source: adapted from "Zealand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zealand

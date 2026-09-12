@@ -48,3 +48,5 @@ Knox spent his last years preaching in Edinburgh and writing his *History of the
 *   The precise reason for his release from the French galleys in 1549 is uncertain.
 *   The extent of Knox's personal responsibility for the iconoclastic riots of 1559 versus broader social and political tensions is debated by historians.
 *   The practical implementation and financial support for the Presbyterian system he envisioned remained contentious and incomplete during his lifetime.
+
+Source: adapted from "John Knox" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Knox

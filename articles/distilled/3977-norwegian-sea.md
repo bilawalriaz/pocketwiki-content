@@ -44,3 +44,5 @@ Norway, Iceland, and Denmark/Faroe Islands share the territorial waters. Fishing
 - The impact of climate change on the delicate balance between Atlantic and Arctic species in this transition zone is an ongoing area of study.
 - The future of fish stocks, particularly the recovery of herring and the decline of capelin and cod, remains uncertain under varying climate and fishing pressure scenarios.
 - The environmental risk posed by the radioactive material aboard the sunken submarine *Komsomolets* is a persistent concern.
+
+Source: adapted from "Norwegian Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Norwegian_Sea

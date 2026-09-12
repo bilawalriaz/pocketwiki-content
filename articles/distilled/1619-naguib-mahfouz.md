@@ -65,3 +65,5 @@ Mahfouz is the cornerstone of modern Egyptian letters. The 2019 Naguib Mahfouz M
 - **Nobel’s Impact on Arabic Literature:** The 1988 prize catalyzed translation of Arabic fiction globally, but critics argue it cemented a "Mahfouz-centric" canon, overshadowing experimental contemporaries (e.g., Edwar al-Kharrat, Sonallah Ibrahim).
 - **Post-1994 Silence:** The near-cessation of output after the assassination attempt raises questions about the relationship between physical trauma, state protection, and creative agency in authoritarian contexts.
 - **Cinematic Adaptation as Interpretation:** Film adaptations (especially *Midaq Alley* → *El callejón de los milagros*) relocate Mahfouz’s Cairene specificity to foreign settings; debate persists on whether this universalizes or dilutes his social critique.
+
+Source: adapted from "Naguib Mahfouz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Naguib_Mahfouz

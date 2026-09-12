@@ -56,3 +56,5 @@ Ladino preserves medieval Spanish features and was spoken by Sephardi Jews expel
 
 ## Debates and Open Questions
 The etymology of *español* remains debated beyond the RAE's Occitan derivation theory, with alternatives proposed by scholars like Ramón Menéndez Pidal. The extent of Basque substrate influence on Spanish phonology, particularly the f-to-h mutation, is contested among linguists. The classification of *ch* and *ll* as letters versus digraphs has evolved, with the RAE's 2010 decision to treat them as letter pairs still discussed. Regional mutual intelligibility between Spanish and Portuguese varies, with written forms being more comprehensible than spoken. The future of Ladino faces extinction despite revival efforts, and the impact of English on Spanish vocabulary continues to evolve differently in Spain versus Latin America.
+
+Source: adapted from "Spanish language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_language

@@ -46,3 +46,5 @@ Despite natural disasters like the catastrophic 1556 earthquake and the costly m
 *   The exact motives behind the 1542 assassination attempt by palace women remain unclear, though the Emperor's cruel treatment of them, possibly linked to his alchemical pursuits, is a suggested factor.
 *   The long-term impact of the Jiajing Emperor's isolation in the West Park on Ming governance is debated. While he maintained control, his withdrawal from formal court life may have weakened the central bureaucracy's cohesion and contributed to the rise of powerful, self-interested factions.
 *   The effectiveness of the sea ban policy is contested. While intended to ensure security, it arguably fueled the very piracy it sought to suppress by driving trade underground and empowering smuggling networks.
+
+Source: adapted from "Jiajing Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jiajing_Emperor

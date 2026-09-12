@@ -62,3 +62,5 @@ Mars shows ancient river networks and deltas dating to 3.7 billion years ago, in
 - Effectiveness of fish ladders in restoring salmon migration past dams is contested.  
 - Optimal levels of dam removal versus retention for balancing energy needs and ecosystem health are actively discussed.  
 - The extent and duration of river flow on early Mars is uncertain, with ongoing analysis of sedimentary evidence.
+
+Source: adapted from "River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/River

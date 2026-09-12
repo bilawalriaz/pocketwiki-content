@@ -25,3 +25,5 @@ The sea's economic life still runs through a few chokepoints and a few ports. Th
 ## Open Questions
 
 Two factual disputes matter for any precise definition of the sea. The International Hydrographic Organization fixes its eastern limit at Sadashivgad Village on the Indian coast, while the U.S. National Oceanic and Atmospheric Administration uses Devgad Island, a few hundred kilometers to the north. Scholars also increasingly doubt that the *Periplus* really describes active Roman traders in the 1st millennium CE; it may instead reflect a thin sliver of Egyptian-Mediterranean knowledge of a much larger Indian Ocean world run by others. The trajectory of the oxygen minimum zone is similarly unsettled: some global models project a long-term easing of ocean de-oxygenation, but the Arabian Sea's dead zone is presently expanding and no one can yet say when, or whether, it will recover.
+
+Source: adapted from "Arabian Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabian_Sea

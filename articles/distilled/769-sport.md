@@ -64,3 +64,5 @@ Ancient Greek religion centered on athletic worship. Some Christian groups criti
 - Effectiveness of public health interventions to increase community sports participation.  
 - Balance between tradition and innovation in defining sport eligibility and governance.  
 - Role of sport in education: tool for development versus potential harm from injury or commercialization.
+
+Source: adapted from "Sport" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sport

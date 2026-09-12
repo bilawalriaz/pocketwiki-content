@@ -67,3 +67,5 @@ Arctic ice melting reduces the planet's average albedo (reflectivity), potential
 - The geology of the Arctic Ocean remains poorly explored; the Gakkel Ridge rift is poorly understood and may extend into the Laptev Sea.
 - The Lomonosov Ridge may contain up to 10 billion barrels of oil, but its extent and accessibility are uncertain.
 - The political dead zone near the center of the sea is subject to a mounting dispute between the US, Russia, Canada, Norway, and Denmark over territorial claims and resource rights.
+
+Source: adapted from "Arctic Ocean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arctic_Ocean

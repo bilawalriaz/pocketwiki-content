@@ -51,3 +51,5 @@ Santo Domingo has an extensive transportation network. The Santo Domingo Metro i
 
 ## Debates and Open Questions
 The source text does not present explicit scholarly debates. However, it notes that the city's climate classification is borderline between tropical rainforest (Köppen Af) and tropical monsoon (Am) due to its driest month's rainfall being very close to the 60 mm threshold.
+
+Source: adapted from "Santo Domingo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Santo_Domingo

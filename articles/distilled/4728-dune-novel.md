@@ -47,3 +47,5 @@ Herbert deliberately suppressed advanced technology to focus on human politics a
 *   **Cultural and Religious Influence:** Scholars debate the extent and nature of the novel's influences, particularly its use of Arabic language and Islamic concepts, and whether it constitutes a critique or an appropriation.
 *   **Heroism and Leadership:** A central debate concerns the novel's message about charismatic leaders. While Herbert intended it as a warning ("beware of heroes"), some readers interpret Paul Atreides's rise as a straightforward heroic fantasy.
 *   **Ecological Message:** The novel is celebrated as a pioneering work of ecological fiction, but discussions continue about whether its primary focus is environmentalism or a broader political and philosophical allegory.
+
+Source: adapted from "Dune (novel)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dune_%28novel%29

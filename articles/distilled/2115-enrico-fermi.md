@@ -48,3 +48,5 @@ After the war, Fermi helped establish the Institute for Nuclear Studies (later t
 - **Discovery of fission**: Fermi's initial Nobel Prize-winning work was based on the incorrect conclusion that he had created transuranic elements. The correct interpretation of nuclear fission was later established by others, including Lise Meitner and Otto Frisch.
 - **Hydrogen bomb opposition**: Fermi strongly opposed the development of the hydrogen bomb on both moral and technical grounds after the first Soviet atomic test in 1949.
 - **Fermi paradox**: Fermi mused about the contradiction between the high probability of extraterrestrial life and the lack of evidence for it, a question that remains open.
+
+Source: adapted from "Enrico Fermi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Enrico_Fermi

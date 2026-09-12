@@ -37,3 +37,5 @@ The kingdom entered a gradual decline due to the "palace rule" of its kings. Fro
 
 ## Debates and Open Questions
 The source notes that the dynasty's downfall has been "more broadly ascribed to institutional weaknesses in the capital, which intensified factionalism and succession disputes, and the uneven impact of growing trade and potential price inflation, on the elite's income streams." This suggests scholarly debate on the precise combination of political, economic, and social factors that led to its collapse.
+
+Source: adapted from "Toungoo dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Toungoo_dynasty

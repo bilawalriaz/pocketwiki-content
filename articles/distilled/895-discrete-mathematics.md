@@ -77,3 +77,5 @@ Key problems have focused research. The **four color theorem** (1852) was proved
 - **Scope of set theory**: The extent to which infinite set theory (descriptive set theory) belongs to discrete mathematics is debated, as it heavily uses continuous mathematics.
 - **Classification of graph theory**: Whether graph theory is a subfield of combinatorics or a distinct subject in its own right.
 - **Continuous vs. discrete methods**: The appropriate balance and interaction between discrete objects and continuous analytic methods (e.g., in analytic combinatorics, analytic number theory, time scale calculus).
+
+Source: adapted from "Discrete mathematics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Discrete_mathematics

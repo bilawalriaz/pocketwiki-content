@@ -45,3 +45,5 @@ His legacy endures in modern penal policy: truth-in-sentencing, swift punishment
 
 ## Debates and Open Questions
 Scholars debate whether Beccaria truly originated the classical school or synthesized existing Enlightenment thought. The extent of his influence on the U.S. Constitution remains contested, though Founders clearly read his work. His opposition to the death penalty was based on utility, not inherent rights—an argument some modern abolitionists find insufficient. Additionally, the divergence between Beccaria’s original Italian text and Morellet’s French adaptation raises questions about how much of the canonical version reflects Beccaria’s true intent. Finally, while his emphasis on deterrence shaped modern criminal justice, critics argue it overlooks structural inequalities and fails to account for moral desert.
+
+Source: adapted from "Cesare Beccaria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cesare_Beccaria

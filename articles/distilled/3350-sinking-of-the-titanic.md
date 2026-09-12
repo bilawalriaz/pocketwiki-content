@@ -50,3 +50,5 @@ The disaster caused global outrage and led to public inquiries in the U.S. and U
 *   **The ship's break-up:** Survivors initially reported the ship sank intact, but the wreck confirmed it broke in two. Theories differ on whether the break started top-down or bottom-up.
 *   **Lifeboat capacity and evacuation:** Scholars debate whether filling lifeboats to capacity was feasible given panic and lack of training, and how many more lives could have been saved with better procedures.
 *   **Rivet quality:** Some analysis suggests brittle iron rivets in the bow may have contributed to hull failure upon impact, though this is contested, as sister ship *Olympic* served safely with similar rivets.
+
+Source: adapted from "Sinking of the Titanic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sinking_of_the_Titanic

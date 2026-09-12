@@ -51,3 +51,5 @@ The Western Empire fragmented into successor kingdoms because its internal colla
 - How large were the migrating groups, and what was the total demographic impact?
 - Were barbarian tribes coherent ethnic groups or fluid political constructs?
 - Is the period best framed as a destructive invasion or a transformative migration and settlement?
+
+Source: adapted from "Migration Period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Migration_Period

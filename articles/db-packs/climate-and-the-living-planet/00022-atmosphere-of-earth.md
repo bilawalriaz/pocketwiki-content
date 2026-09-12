@@ -33,3 +33,5 @@ Cyanobacterial photosynthesis slowly released oxygen, and the Great Oxygenation 
 ## Air pollution and climate change
 
 Human activity since 1750 has increased greenhouse gas concentrations and added aerosols, causing stratospheric ozone depletion driven by chlorofluorocarbons and warming. Global mean surface temperature was 1.1 °C higher in 2011–2020 than in 1850, raising concerns about sea level rise, ocean acidification, glacial retreat, and extreme weather.
+
+Source: adapted from "Atmosphere of Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atmosphere_of_Earth

@@ -44,3 +44,5 @@ Sylhet is home to two public universities: Shahjalal University of Science and T
 
 ## Debates and open questions
 The source does not explicitly outline major scholarly debates. However, the etymology of the city's name, while generally thought to derive from *Śrīhaṭṭa*, is presented as a prevailing theory rather than an absolute certainty. The historical impact of the 1897 earthquake in reshaping the city's urban layout is a significant point of transformation.
+
+Source: adapted from "Sylhet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sylhet

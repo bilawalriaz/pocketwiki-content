@@ -45,3 +45,5 @@ Located in central Rwanda, the city is built on rolling hills with an average el
 - **City Founding**: While 1907 is the accepted modern founding date, Rwandan scholar Alexis Kagame promoted an alternative theory that the city was established as a capital in the 14th or 16th century, though direct evidence is lacking.
 - **Urban Development**: The city's rapid modernization and masterplan have been accompanied by forced evictions of residents from informal housing, with groups like Human Rights Watch accusing the government of removing poor people and children from the streets.
 - **Press Freedom**: International observers such as Reporters Without Borders and Freedom House state that Rwandan media lacks press freedom and is subject to government censorship or self-censorship.
+
+Source: adapted from "Kigali" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kigali

@@ -47,3 +47,5 @@ U.S. colonial policy was framed as tutelage for eventual independence. The Phili
 - **Nature of the Conflict:** Scholars debate whether the post-1902 resistance (e.g., Moro Rebellion, Pulahan) constitutes part of the Philippine–American War or separate conflicts.
 - **U.S. Imperialism:** The war sparked intense debate in the U.S. between imperialists, who saw it as a civilizing mission, and anti-imperialists (like Mark Twain and Andrew Carnegie), who argued it betrayed American democratic principles.
 - **Filipino Leadership:** Historians analyze the internal weaknesses of Aguinaldo's government, including political ineptitude, military blunders, and failure to maintain unified support, as key factors in its defeat.
+
+Source: adapted from "Philippine–American War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War

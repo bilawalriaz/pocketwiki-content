@@ -48,3 +48,5 @@ The later Umayyad period was marked by internal strife (the Third Fitna), milita
 *   **Nature of Rule:** Historians debate whether the Umayyads transformed the caliphate into a secular kingship (*mulk*) or maintained its religious character. They used the title *khalifat Allah* (deputy of God) rather than the traditional *khalifat rasul Allah* (successor of the Messenger of God).
 *   **Sources and Bias:** Much of the historical record was written by scholars in the Abbasid period, who often portrayed the Umayyads negatively. This makes objective assessment challenging.
 *   **Causes of Collapse:** While social inequality and the *mawali* question were key factors, the relative importance of tribal feuds (Qays vs. Yaman), military overextension, and ideological opposition (from Shia and Kharijite groups) in causing the Abbasid Revolution is debated.
+
+Source: adapted from "Umayyad Caliphate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Umayyad_Caliphate

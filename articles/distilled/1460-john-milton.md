@@ -70,3 +70,5 @@ Milton’s blank verse—unrhymed iambic pentameter—was a radical innovation. 
 - **Elitism in later politics**: Whether Milton’s *Ready and Easy Way* proposal for a perpetual oligarchic council represents a pragmatic defense of liberty or an elitist abandonment of popular sovereignty is debated (Rogers vs. Woolrych/Worden).
 - **Authorship of *De Doctrina Christiana***: The treatise was undiscovered until 1823; its attribution to Milton is probable but disputed.
 - **Private life vs. public polemic**: Biographers debate whether Mary Powell’s desertion *caused* Milton’s divorce tracts or merely coincided with pre-existing intellectual convictions (Anna Beer warns against cynicism).
+
+Source: adapted from "John Milton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Milton

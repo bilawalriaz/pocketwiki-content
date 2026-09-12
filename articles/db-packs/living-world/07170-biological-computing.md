@@ -37,3 +37,5 @@ In 2024, FinalSpark, a Swiss startup, launched a platform letting researchers ru
 ## Limits and outlook
 
 Existing biocomputers perform simple Boolean and arithmetic operations and remain far less capable than commercial electronic machines. The motivation for scaling them up is twofold: massively parallel operation with a tiny energy budget per step, and a self-replicating supply chain. Whether biological substrates can be made dense, reliable, and programmable enough to challenge silicon remains the open question.
+
+Source: adapted from "Biological computing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_computing

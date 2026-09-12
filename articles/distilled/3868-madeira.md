@@ -53,3 +53,5 @@ Madeiran culture features folklore music using instruments like the *machete* an
 ## Debates and open questions
 - The exact nature and extent of pre-Portuguese visits (e.g., Vikings, Phoenicians) to Madeira are debated, with archaeological evidence being inconclusive.
 - The motivations behind the FLAMA separatist movement in the 1970s are interpreted differently: as genuine ethnic separatism or as a reaction by elites against the political left following the Carnation Revolution.
+
+Source: adapted from "Madeira" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Madeira

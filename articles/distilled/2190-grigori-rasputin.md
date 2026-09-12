@@ -45,3 +45,5 @@ By late 1916, Rasputin's influence was blamed for Russia's military failures and
 - **Political Influence**: The extent of Rasputin's direct political power is debated; some see him as a puppet of the Tsarina, while others argue he actively influenced ministerial appointments.
 - **Assassination Details**: The precise sequence of events during his murder is uncertain, with Yusupov's sensational account being the most famous but not necessarily the most accurate. An autopsy contradicted claims of poisoning and drowning.
 - **Relationship with the Imperial Family**: The nature of his relationship with the grand duchesses remains a subject of scandalous rumor, though all official accounts and investigations describe it as innocent.
+
+Source: adapted from "Grigori Rasputin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Grigori_Rasputin

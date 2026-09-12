@@ -43,3 +43,5 @@ The 20th century brought rapid urbanization, industrialization, and social uphea
 *   The exact meaning of the Muisca name "Bacatá" is debated, with translations including "walling of the farmland," "The Lady of the Andes," or the name of a cacique.
 *   The traditional founding date is 6 August 1538, but the official founding with a town council occurred on 27 April 1539.
 *   The city's rapid growth and urbanization have led to ongoing debates about the effectiveness of public transport solutions, the pace of metro construction, and managing social inequality between northern and southern districts.
+
+Source: adapted from "Bogotá" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bogot%C3%A1

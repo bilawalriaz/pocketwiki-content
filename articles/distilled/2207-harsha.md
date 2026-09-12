@@ -38,3 +38,5 @@ Harsha is widely credited as the author of three Sanskrit plays: *Ratnavali*, *N
 *   **Religious Identity:** Was Harsha primarily a Shaivite, as his inscriptions and court poet suggest, or a Buddhist, as described by Xuanzang? The debate centers on whether his Buddhist patronage was a state policy or reflected personal belief.
 *   **Extent of Empire:** Historians question the accuracy of Xuanzang's claim that Harsha conquered "the Five Indias," viewing it as likely hyperbole for his status as the paramount power in northern India.
 *   **Authorship of Plays:** While traditionally attributed to Harsha, some sources suggest his court poet Dhavaka wrote the Sanskrit plays attributed to him.
+
+Source: adapted from "Harsha" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harsha

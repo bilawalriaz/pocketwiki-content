@@ -43,3 +43,5 @@ Kanō envisioned judo as a path to self-perfection and societal contribution. He
 ## Debates and Open Questions
 - The exact cause of Kanō's death in 1938 is officially listed as pneumonia, but other sources suggest food poisoning. Allegations of assassination by poisoning have surfaced, linked to his opposition to Japanese militarism, though no contemporary documentation supports this claim.
 - Kanō's personal stance on including judo in the Olympics was "rather passive," viewing it as a principle of life rather than a mere sport. This contrasts with judo's eventual status as a core Olympic sport, raising questions about how his vision aligns with its modern competitive form.
+
+Source: adapted from "Kanō Jigorō" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kan%C5%8D_Jigor%C5%8D

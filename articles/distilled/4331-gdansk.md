@@ -39,3 +39,5 @@ Captured in 1945, the heavily damaged city was annexed by Poland. Its German pop
 *   **The 1308 Massacre:** The scale of the Teutonic Knights' massacre after seizing Gdańsk is debated, with estimates of victims ranging from 60 to 1,000.
 *   **Cultural Identity:** The historical and cultural connections between Gdańsk and the Kashubian region are a subject of controversy among Kashubians themselves.
 *   **Post-War Reconstruction:** The deliberate effort to "de-Germanize" the city's architecture during post-war rebuilding has been a point of historical and ideological discussion.
+
+Source: adapted from "Gdańsk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gda%C5%84sk

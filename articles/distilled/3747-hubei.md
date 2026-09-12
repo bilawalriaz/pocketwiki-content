@@ -46,3 +46,5 @@ Historically reliant on the Yangtze and Han rivers, Hubei's modern transport net
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates. However, it notes that the historical State of E is "associated with" the region during the Western Zhou dynasty, implying some uncertainty about its precise geographical extent. The construction of the Three Gorges Dam involved the resettlement of millions, a process with significant social and environmental implications that are subjects of ongoing discussion.
+
+Source: adapted from "Hubei" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hubei

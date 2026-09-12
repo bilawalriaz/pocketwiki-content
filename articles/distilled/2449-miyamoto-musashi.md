@@ -46,3 +46,5 @@ Musashi was a skilled calligrapher and ink painter, mastering the "broken ink" l
 *   **Sekigahara Allegiance**: While historians agree Musashi favored the Eastern Army, it is debated whether he fought at the main Battle of Sekigahara or in the concurrent Battle of Ishigakihara.
 *   **Personal Life**: The extent of his relationships, including rumored connections to courtesans like Kumoi and Yoshino Tayu, and whether he fathered a daughter, remains uncertain.
 *   **Death Location**: Sources disagree on whether he died in the Reigandō cave or at Chiba Castle in Kumamoto.
+
+Source: adapted from "Miyamoto Musashi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Miyamoto_Musashi

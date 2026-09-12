@@ -41,3 +41,5 @@ After Alexander the Great's conquests, Alexandria became the cultural capital. T
 ## Science, mathematics, and Christian writing
 
 Greek scientific prose produced texts of long-lasting authority. Euclid's *Elements* systematized geometry. Archimedes' treatises advanced applied mathematics. Ptolemy's *Almagest*, a geocentric mathematical model of the heavens, dominated astronomy for over 1,300 years. The New Testament was composed in Koine Greek, the common dialect of the eastern Mediterranean after Alexander, and early Christian thinkers such as Origen engaged directly with Greek philosophy. The vast majority of ancient Greek literature is lost, and survival is heavily skewed by papyrus finds, with Homer dominating the record.
+
+Source: adapted from "Ancient Greek literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Greek_literature

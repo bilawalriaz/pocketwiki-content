@@ -44,3 +44,5 @@ The Wilkins building was criticized from its inception for its cramped design an
 - **Acquisition Challenges**: The gallery is largely priced out of the market for major Old Master and Impressionist works, relying on public appeals and donations for significant acquisitions.
 - **Architectural Criticism**: The original Wilkins building was widely derided, and later additions have sparked debates about style and functionality, exemplified by the "monstrous carbuncle" controversy.
 - **Collection Scope**: The 1996 agreement set 1900 as the cut-off date for the collection, but the planned 'Project Domani' expansion includes a policy change to acquire works created after 1900, potentially altering the gallery's remit.
+
+Source: adapted from "National Gallery" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/National_Gallery

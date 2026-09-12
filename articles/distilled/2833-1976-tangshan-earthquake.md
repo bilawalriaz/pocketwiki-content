@@ -46,3 +46,5 @@ Tangshan sits on the Beijing-Tianjin-Tangshan Plain, an alluvial plain with thic
 - **Prediction:** A central debate is whether the earthquake could have been predicted. While some officials reportedly warned of a possible quake, no official short-term warning was issued. This contrasts with the 1975 Haicheng event and raises questions about the efficacy and political handling of earthquake prediction science.
 - **Death Toll:** The exact death toll remains disputed. The official figure is 242,469, but historical analysis suggests it is at least 300,000, with discrepancies arising from uncounted missing persons, military casualties, and deaths among the severely injured.
 - **Aftershock vs. Background Seismicity:** Scientists debate whether earthquakes in the Tangshan region in the 21st century (e.g., the 2020 M5.1 quake) are late aftershocks of the 1976 event or represent normal background seismic activity.
+
+Source: adapted from "1976 Tangshan earthquake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/1976_Tangshan_earthquake

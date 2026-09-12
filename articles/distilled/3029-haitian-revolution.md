@@ -52,3 +52,5 @@ The new state was economically ruined and depopulated. Dessalines ruled as dicta
 - The role and agency of women in the revolution have historically been overlooked but are now receiving more scholarly attention.
 - The long-term impact of the revolution on the abolition of slavery in the Americas is debated; some argue it was a major economic pressure, while others contend slavery continued to flourish for decades.
 - The historiography of the revolution is considered "silenced" by that of the French Revolution, receiving relatively less public attention.
+
+Source: adapted from "Haitian Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Haitian_Revolution

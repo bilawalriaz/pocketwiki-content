@@ -49,3 +49,5 @@ Post-WWII, a civil war (1944–49) ended with a Western-aligned victory. Greece 
 *   The extent and nature of the "Dorian invasion" that traditionally followed the Mycenaean collapse are unsubstantiated by archaeological evidence.
 *   The responsibility for the 1922 Great Fire of Smyrna is a point of contention between Greek and Turkish historical narratives.
 *   The severity and political motivations behind the austerity measures imposed during the Greek government-debt crisis remain highly controversial.
+
+Source: adapted from "History of Greece" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Greece

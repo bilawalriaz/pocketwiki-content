@@ -45,3 +45,5 @@ Architectural decoration was integral, evolving from painted terracotta revetmen
 
 ## Debates and Open Questions
 The source notes that the function of Minoan "palaces" remains uncertain, as it is debated whether they were truly domestic. Additionally, the precise orientation of some Greek temples, possibly astronomical, is a subject of scholarly inquiry.
+
+Source: adapted from "Ancient Greek architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Greek_architecture

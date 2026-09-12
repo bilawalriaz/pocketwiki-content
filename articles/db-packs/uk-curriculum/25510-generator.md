@@ -38,3 +38,5 @@ In mathematics, a generator is a minimal element or set from which a larger stru
 ## Unifying Principle
 
 Across every domain, a generator is defined by **production from input under constraint**. The input may be rotation, a seed, a specification, or a set of axioms. The constraint is the governing law—Maxwell's equations, an algorithm, a group operation, or a categorical diagram. The output is structured: alternating current, a deterministic sequence, machine code, a group element, or a codeword. The generator itself does not create ex nihilo; it transforms input into a form the surrounding system can consume.
+
+Source: adapted from "Generator" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Generator

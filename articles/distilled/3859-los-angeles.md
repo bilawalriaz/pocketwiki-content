@@ -48,3 +48,5 @@ Los Angeles is a global center for the entertainment industry, home to Hollywood
 - The correct English pronunciation of "Los Angeles" was debated for decades, with multiple variants in use before a standard was adopted.
 - The city's zoning policies in the 20th century, which drastically reduced housing capacity, are a point of analysis regarding current housing shortages and affordability.
 - The causes and solutions for the city's persistent homelessness crisis, particularly the roles of economic hardship, housing costs, and substance abuse, are ongoing issues.
+
+Source: adapted from "Los Angeles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Los_Angeles

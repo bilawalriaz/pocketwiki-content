@@ -47,3 +47,5 @@ The city is located at the southern slopes of Medvednica mountain, with a divers
 ## Debates and Open Questions
 - The etymology of the name "Zagreb" is unclear and debated. Theories include derivation from a Proto-Slavic word for "hill" or "embankment," a metathesis of a word for "riverbank," or a folk etymology from a verb meaning "to scoop."
 - The city's seismic risk is a significant concern. While it experiences around 400 earthquakes a year, most are imperceptible, but officials warn that a strong earthquake could cause thousands of casualties.
+
+Source: adapted from "Zagreb" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zagreb

@@ -29,3 +29,5 @@ Observational evidence accumulated in stages. Cygnus X-1, identified between 197
 ## What remains unresolved
 
 The most famous puzzle is the information loss paradox: Hawking radiation looks thermal, so if a black hole evaporates completely, the quantum information that fell in appears to be destroyed, violating unitarity. Proposed resolutions include remnants, firewalls, and holographic ideas such as AdS/CFT. Whether the singularity is replaced by some smooth quantum-gravitational object is unknown. And the question of how billion-solar-mass black holes appeared by redshift 7, when the universe was under a billion years old, drives active research into direct-collapse and super-Eddington seed mechanisms.
+
+Source: adapted from "Black hole" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Black_hole

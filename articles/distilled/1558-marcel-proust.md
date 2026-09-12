@@ -53,3 +53,5 @@ Proust’s homosexuality was an open secret among friends (including André Gide
 - **Textual authority**: The final three volumes were edited by Robert Proust from drafts of varying completeness. Scholars disagree on how closely they represent Marcel’s final intentions versus his brother’s interventions.
 - **Translation fidelity**: Scott Moncrieff’s *Remembrance of Things Past* (from Shakespeare’s Sonnet 30) diverges from the literal *In Search of Lost Time*; later revisions (Kilmartin, Enright) corrected the title and numerous textual infelicities, but debates over the "definitive" English version persist.
 - **Medical diagnosis**: The retrospective attribution of vascular Ehlers–Danlos Syndrome is plausible but unprovable; contemporary doctors labeled Proust a hypochondriac, affecting both his social reception and self-conception.
+
+Source: adapted from "Marcel Proust" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marcel_Proust

@@ -127,3 +127,5 @@ Darwinian themes pervade literature: optimistic (humanity evolving toward perfec
 *   **Origin of Life:** How inorganic matter transitioned to self-replicating RNA (or other polymers) meeting Darwin's conditions (heritability, variation, competition) remains unresolved.
 *   **Evolutionary Psychology:** Hypotheses linking specific modern behaviors (gender roles, incest avoidance) to ancestral adaptations are difficult to test and remain controversial regarding methodology and cultural confounding.
 *   **Memetics:** The utility of "memes" as a rigorous scientific framework for cultural evolution (vs. metaphor) is debated.
+
+Source: adapted from "Natural selection" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Natural_selection

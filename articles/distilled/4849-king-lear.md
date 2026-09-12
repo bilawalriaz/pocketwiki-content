@@ -40,3 +40,5 @@ Scholars have analyzed *King Lear* through various lenses. Historicist readings 
 - **Textual Origin:** Do the significant differences between the Quarto and Folio texts indicate that Shakespeare revised the play, or are they the result of errors by scribes and printers?
 - **Christian Meaning:** Does the play affirm a Christian vision of redemption through suffering, or does it present a bleak, godless universe?
 - **Political Allegory:** To what extent is the play a commentary on the political tensions and royal policies of King James I's reign?
+
+Source: adapted from "King Lear" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/King_Lear

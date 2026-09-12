@@ -88,3 +88,5 @@ Cook married Elizabeth Batts (1762), daughter of his mentor Samuel Batts. They h
 - **Plane-table surveying** — Land-surveying technique using a flat table with sighting rule to plot features directly in the field; learned from Samuel Holland at Louisbourg (1758).
 - **Fothering** — Emergency leak repair: hauling a sail (often filled with oakum/wool) under a ship’s hull to cover and slow a leak; used on *Endeavour* after Great Barrier Reef grounding.
 - **K1 chronometer** — Larcum Kendall’s
+
+Source: adapted from "James Cook" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_Cook

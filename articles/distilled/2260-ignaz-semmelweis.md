@@ -43,3 +43,5 @@ Semmelweis's work gained acceptance only after his death, when Louis Pasteur con
 - The exact nature of Semmelweis's mental illness in 1865 is unknown; proposed diagnoses include Alzheimer's disease, third-stage syphilis, or emotional exhaustion.
 - Historians debate whether his poor communication skills and antagonistic approach significantly hindered the adoption of his life-saving methods, or if the resistance was primarily due to entrenched scientific paradigms.
 - Some argue his work was more widely known and his practical advice on hand washing more influential among some practitioners than the narrative of total rejection suggests.
+
+Source: adapted from "Ignaz Semmelweis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ignaz_Semmelweis

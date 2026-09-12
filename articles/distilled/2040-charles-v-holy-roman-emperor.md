@@ -49,3 +49,5 @@ Exhausted by war, failing health, and religious division, Charles abdicated betw
 *   **Cause of Imperial Election:** Historians debate whether Charles's election as Emperor in 1519 was secured primarily by massive bribes to the electors or by other factors, such as his dynastic resources and the need for a strong leader against the Ottomans.
 *   **Financial Legacy:** Scholars assess the long-term impact of Charles's reign on Spanish finances. His constant wars led to massive debt and reliance on American silver, which contributed to inflation and arguably set the stage for Spain's later economic decline.
 *   **Moral Crisis in the Americas:** The debates at Valladolid and the issuance of the New Laws reflect an ongoing scholarly discussion about the extent to which Charles's government grappled with the moral implications of colonization and the rights of indigenous peoples.
+
+Source: adapted from "Charles V, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_V%2C_Holy_Roman_Emperor

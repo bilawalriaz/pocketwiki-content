@@ -44,3 +44,5 @@ The victory at Vienna did not bring decisive territorial gains for Poland within
 - Scholars debate the extent to which Sobieski's personal ambitions and his wife's influence shaped his foreign policy, particularly his shifting alliances between France and the Habsburgs.
 - The long-term impact of the Battle of Vienna is contested: while a symbolic victory for Christendom, its practical benefits for the Polish–Lithuanian Commonwealth were limited, and some argue it overextended Sobieski's resources.
 - His legacy is viewed ambivalently in modern contexts; for example, in 2024, the city of Vienna rejected a monument to him due to concerns about Islamophobia and anti-Turkish sentiment.
+
+Source: adapted from "John III Sobieski" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_III_Sobieski

@@ -63,3 +63,5 @@ Wilder opposed the House Un-American Activities Committee (HUAC) and co-founded 
 - **Wilder v. Desny (1951) precedent**: The California Supreme Court ruling on implied contract for story ideas (stemming from *Ace in the Hole*) is a landmark in entertainment law, but its long-term impact on Hollywood submission practices is rarely detailed in general histories.
 - **Late-career critical reception**: *Fedora* (1978) and *Buddy Buddy* (1981) were dismissed on release; *Fedora*’s recent critical rehabilitation raises questions about whether Wilder’s late style was misunderstood or genuinely diminished.
 - **Holocaust victim locations**: For decades, Wilder’s family was assumed killed at Auschwitz; 2011 archival research by Andreas Hutter revealed separate murders at Plaszów, Belzec, and Nowy Targ—highlighting gaps in Holocaust documentation even for prominent survivors.
+
+Source: adapted from "Billy Wilder" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Billy_Wilder

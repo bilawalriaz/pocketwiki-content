@@ -63,3 +63,5 @@ Hanno’s voyage attracted intense European scholarly interest from the 16th cen
 4.  **Textual Integrity:** Is the *periplus* a good-faith abridgement, a deliberately falsified "trade secret" document, or a translation of an already truncated Punic original?
 5.  **Gorillai Identity:** Were the *Gorillai* great apes (gorillas or chimpanzees), a hirsute human tribe, or a mythological construct?
 6.  **Return Voyage Feasibility:** How did oared ships overcome the prevailing northerly winds and the Canary Current to return from the Gulf of Guinea? Mauny argues it was nearly impossible without massive crews and provisioning not evidenced in the text.
+
+Source: adapted from "Hanno the Navigator" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hanno_the_Navigator

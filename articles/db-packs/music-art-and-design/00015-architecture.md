@@ -35,3 +35,5 @@ Residential architecture fits lifestyles within codes and zoning; commercial ser
 ## Open Questions
 
 Whether architecture is distinct from mere building remains philosophically contested. Aesthetic preferences divide architects and the public. Metaphoric architecture's status—as postmodern aspect or independent school—is debated. Some professionals criticize both Modernism and Postmodernism as neglecting everyday needs, arguing design should draw on behavioral, environmental, and social sciences.
+
+Source: adapted from "Architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Architecture

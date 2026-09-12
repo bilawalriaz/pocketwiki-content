@@ -41,3 +41,5 @@ After the war, Enugu resumed as a state capital, eventually becoming the capital
 *   **Population Figures:** The 2006 census population estimate for the Enugu metropolitan area (722,664) is disputed, with accusations of population inflation and deflation in favor of northern Nigeria.
 *   **Economic Transition:** The city's economy has struggled to fully transition from its historical dependence on coal mining, which is no longer a major income source.
 *   **Infrastructure Challenges:** Despite recent investments, Enugu's water supply infrastructure has not kept pace with population growth, and reticulation remains a challenge due to aged pipes.
+
+Source: adapted from "Enugu (city)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Enugu_%28city%29

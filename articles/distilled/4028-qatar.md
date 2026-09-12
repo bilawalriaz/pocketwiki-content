@@ -40,3 +40,5 @@ The population is overwhelmingly composed of foreign expatriates and migrant wor
 
 ## Debates and Open Questions
 Scholars debate the sustainability of Qatar's economic model and its long-term geopolitical strategy. There is ongoing scrutiny of the effectiveness of labor reforms and the gap between announced changes and the lived reality for migrant workers. The extent to which Qatar's hosting of major events like the World Cup has led to lasting social or political liberalization is also contested.
+
+Source: adapted from "Qatar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Qatar

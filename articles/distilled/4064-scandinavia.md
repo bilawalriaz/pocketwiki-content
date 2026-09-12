@@ -44,3 +44,5 @@ In modern times, the Nordic countries have strong economies and are known for th
 *   **Definitional boundaries:** There is ongoing debate and political contestation over whether Finland, Iceland, and the Faroe Islands should be considered "Scandinavian," with usage differing between English and local languages.
 *   **Ethnic vs. demonymic identity:** The term "Scandinavian" can refer to an ethnic/cultural identity (speakers of North Germanic languages) or a demonym (all inhabitants of Scandinavian countries). The inclusion of the Sámi people in the latter category is controversial due to historical assimilation policies.
 *   **Etymology of the name:** The origin of the name "Scandinavia" is debated, with theories linking it to words for "danger," "shadow," or pre-Germanic roots.
+
+Source: adapted from "Scandinavia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scandinavia

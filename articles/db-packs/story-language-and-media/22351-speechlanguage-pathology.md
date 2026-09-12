@@ -46,3 +46,5 @@ The discipline uses experimental, empirical, hypothesis-testing methods alongsid
 ## Regional service realities
 
 Children in the UK are entitled to NHS assessment, often by referral but also on direct parental request. A 2019 Children's Commissioner report found per-head spending on children's speech-therapy services ranging from £291.65 in some areas to £30.94 or less in others, leaving 193,971 English primary pupils on the special educational needs register for speech and language support in 2018.
+
+Source: adapted from "Speech–language pathology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Speech%E2%80%93language_pathology

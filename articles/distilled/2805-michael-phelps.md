@@ -44,3 +44,5 @@ Phelps has spoken about his struggles with ADHD and depression. He founded the M
 *   **The "super suit" era:** Phelps's coach Bob Bowman questioned the fairness of polyurethane swimsuits after Phelps lost the 200m freestyle at the 2009 World Championships to a swimmer wearing one. The controversy led to suit regulations being changed.
 *   **Relay selection controversy:** At the 2004 Olympic Trials, Phelps was selected for the 4x100m freestyle relay despite not competing in the 100m freestyle event at the trials, drawing criticism from teammate Gary Hall Jr.
 *   **The 100m butterfly finish in 2008:** Phelps's victory by 0.01 seconds over Milorad Čavić in Beijing prompted a protest from the Serbian delegation. The result was confirmed by video analysis, but the initial refusal to release underwater photos raised questions.
+
+Source: adapted from "Michael Phelps" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Michael_Phelps

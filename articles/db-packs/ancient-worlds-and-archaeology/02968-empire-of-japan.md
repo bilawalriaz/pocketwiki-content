@@ -25,3 +25,5 @@ After surrender, Allied forces, led by U.S. General Douglas MacArthur, occupied 
 ## Open Debates
 
 Historians still disagree about how to classify the Empire in the 1930s and 1940s. Because Japan had no single dictator and no mass fascist party, some prefer "militarism," "authoritarianism," "police state," or "para-fascism" to "fascist" or "totalitarian." The role of Emperor Hirohito, whether figurehead or active war leader, remains unresolved.
+
+Source: adapted from "Empire of Japan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Empire_of_Japan

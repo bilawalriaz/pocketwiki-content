@@ -44,3 +44,5 @@ Gondar's traditional quarters included Addis Alem (Muslim), Kayla Mayda (Beta Is
 - The exact population of Gondar at its peak is debated, with estimates for the 18th century ranging from over 60,000 to much higher figures.
 - The precise causes and timeline of the city's decline after the 18th century are subjects of historical analysis, involving factors like internal strife, external invasions, and shifts in trade routes.
 - The impact and legacy of the Italian colonial period on Gondar's urban fabric and social structure continue to be studied.
+
+Source: adapted from "Gondar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gondar

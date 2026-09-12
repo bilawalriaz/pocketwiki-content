@@ -48,3 +48,5 @@ Contemporaries largely believed Eisenstein was gay; he denied this to friend Mar
 - **Sexuality**: Eisenstein's homosexuality is debated; he denied it, but contemporaries and later scholars widely believed he was gay, and a film on the topic faced difficulties in Russia.
 - **Mexican film**: The extent of footage shot (estimates range from 170,000 to over 250,000 lineal feet) and who was responsible for its failure remain contested; Eisenstein blamed production supervisor Hunter Kimbrough.
 - **Bezhin Meadow**: The film's cancellation and reconstruction in the 1960s from storyboards raise questions about what was lost and why it failed.
+
+Source: adapted from "Sergei Eisenstein" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sergei_Eisenstein

@@ -42,3 +42,5 @@ The lake is named from the Cree word *wīnipēk*, meaning "muddy waters." It lie
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates. However, it presents ongoing environmental and management challenges as open questions: How can phosphorus pollution be effectively reduced to control cyanobacteria blooms? Can the impact of invasive zebra mussels be mitigated? How will new angling regulations affect the sustainability of the fishery and local economies?
+
+Source: adapted from "Lake Winnipeg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Winnipeg

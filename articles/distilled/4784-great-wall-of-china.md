@@ -39,3 +39,5 @@ While sections near Beijing are preserved and renovated, much of the wall is in 
 - **Defining the "Great Wall"**: There is no formal, agreed-upon definition of what constitutes the "Great Wall," making its total length and course difficult to describe definitively.
 - **Visibility from space**: While the myth of visibility from the Moon is debunked, debate continues about the conditions under which the wall is visible from low Earth orbit, with varying astronaut testimonies.
 - **Historical naming**: The wall had many names in Chinese history (e.g., "Long Wall," "Border Wall"), and the modern English name "Great Wall of China" evolved from early European accounts.
+
+Source: adapted from "Great Wall of China" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Wall_of_China

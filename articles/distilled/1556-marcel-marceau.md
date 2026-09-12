@@ -59,3 +59,5 @@ Marceau married three times: Huguette Mallet (sons Michel and Baptiste), Ella Ja
 - **Pedagogical legacy**: His schools (1969, 1978) trained notable performers, yet no single "Marceau technique" was codified comparably to Decroux’s corpus; the tension between his charismatic persona and a replicable method persists in mime pedagogy.
 - **Film vs. stage essence**: Critics question whether Marceau’s film cameos (*Barbarella*, *Silent Movie*) expanded his art or reduced it to novelty; the consensus holds his live mimodramas remain the definitive record.
 - **Cultural appropriation of silence**: Postcolonial scholars examine whether the "universal language of silence" claim obscures mime’s European theatrical genealogy and excludes non-Western gestural traditions.
+
+Source: adapted from "Marcel Marceau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marcel_Marceau

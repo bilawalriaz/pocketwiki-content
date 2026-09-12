@@ -33,3 +33,5 @@ Because change is itself a source of risk, formal **change management** processe
 ## Laws, regulation, and people
 
 Information security is shaped by regulation, including the UK Data Protection Act 1998, the EU Data Protection Directive, the Computer Misuse Act 1990, FERPA, HIPAA, GLBA, Sarbanes–Oxley Section 404, PCI DSS, and Canada's PIPEDA. U.S. Federal Sentencing Guidelines make corporate officers liable for failing to exercise due care and due diligence. Because the threat environment changes daily, no control remains effective without ongoing maintenance and review, and organisations must build a **security culture** spanning attitudes, awareness, communication, policy compliance, shared norms, and clear responsibility.
+
+Source: adapted from "Information security" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Information_security

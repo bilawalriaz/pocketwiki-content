@@ -43,3 +43,5 @@ The Native American population in the contiguous United States declined from an 
 
 ## Debates and Open Questions
 Scholars debate whether aspects of U.S. policy, including forced removals, warfare, and reservation confinement, constitute genocide. Historian Jeffrey Ostler argues some events fit the modern legal definition, while others contend the conflicts varied too much across time and place for such a broad label. The exact population of Native Americans before European contact remains unknown, with estimates ranging widely. The historiography continues to evolve, with increasing focus on Native American perspectives and the long-term cultural impacts of the wars.
+
+Source: adapted from "American Indian Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/American_Indian_Wars

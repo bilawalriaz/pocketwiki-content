@@ -45,3 +45,5 @@ Schrödinger was deeply interested in philosophy, particularly the works of Scho
 - **Interpretation of Quantum Mechanics:** Schrödinger was deeply dissatisfied with the Copenhagen interpretation's probabilistic nature and the role of the observer. His "cat" paradox was designed to critique this view.
 - **Consciousness and Reality:** Schrödinger's philosophical writings, influenced by Vedanta, proposed a monist view where individual consciousness is an illusion, a perspective that remains a topic of debate in philosophy of mind.
 - **Historical Allegations:** The nature and validity of allegations regarding Schrödinger's personal conduct, particularly those presented in Walter Moore's 1989 biography, are contested. A 2026 paper by Magdalena and Martin Gronau argues the claims are not substantiated.
+
+Source: adapted from "Erwin Schrödinger" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger

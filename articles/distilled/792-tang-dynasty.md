@@ -60,3 +60,5 @@ Woodblock printing revolutionized information dissemination. Mechanical clocks, 
 - **Aristocratic decline**: Recent scholarship challenges the notion that Huang Chao’s rebellion destroyed the aristocracy, arguing decline began earlier.  
 - **Population estimates**: Discrepancies exist between census data and scholarly reconstructions of Tang demographics.  
 - **Tang influence on Japan**: The extent of direct cultural transmission versus independent development remains debated.
+
+Source: adapted from "Tang dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tang_dynasty

@@ -43,3 +43,5 @@ Hesiod’s influence extended beyond his immediate era. Later lyric poets like A
 
 ## Debates and Open Questions
 Scholars continue to debate several aspects of Hesiod’s life and work. The exact dates of his compositions remain contested, with arguments ranging from c. 750 to 650 BC. Some question whether Perses, his brother and antagonist in *Works and Days*, was a real figure or a literary device. The authenticity of certain works attributed to Hesiod, particularly the *Shield of Heracles*, is widely doubted. Additionally, the extent of Eastern influence on the *Theogony*—whether direct borrowing or parallel development—is still discussed. Finally, the relationship between Hesiod’s personal voice and the oral traditions of rhapsodic performance remains a topic of scholarly inquiry, especially regarding how his texts were transmitted and edited over time.
+
+Source: adapted from "Hesiod" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hesiod

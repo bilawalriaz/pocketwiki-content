@@ -40,3 +40,5 @@ Today, Tel Aviv is a global city with a beta+ ranking and a leading startup ecos
 
 ## Debates and Open Questions
 The article notes the ongoing debate over the status of Jerusalem, which affects whether Tel Aviv is considered Israel's most populous city. It also references historical tensions between religious and secular communities, as well as the demographic and social impacts of gentrification in neighborhoods like Jaffa and Florentin. The city's future development plans, including skyscraper construction and transportation projects like the light rail and proposed metro, involve balancing growth with preservation of its architectural heritage.
+
+Source: adapted from "Tel Aviv" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tel_Aviv

@@ -37,3 +37,5 @@ The work is notoriously dense and ends in 411 BC, six years before the war's con
 
 ## Debates and Open Questions
 Scholars debate whether Thucydides achieved true objectivity or had a pro-Athenian, oligarchic bias. The "strata of composition" debate questions whether the text represents a single, unified work or reflects evolving views over time. The reliability and purpose of his reconstructed speeches remain a central issue of interpretation. Finally, the abrupt ending of the work has led to speculation about his intended final form and conclusions.
+
+Source: adapted from "History of the Peloponnesian War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War

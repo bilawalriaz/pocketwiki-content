@@ -113,3 +113,5 @@ Patriarch Cyril Lucaris (1629) published a Calvinistic *Confessio* in Geneva; co
 - **Protestant ethic and capitalism**: Weber’s thesis linking Calvinist anxiety to capitalist spirit remains contested; recent economic history finds mixed evidence.
 - **Violence and toleration**: Why did confessional coexistence succeed in some polities (Transylvania, Dutch Republic) but fail catastrophically in others (France, Germany)?
 - **Global legacy**: How did Reformation categories (Protestant/Catholic) shape colonial missions, indigenous conversions, and modern denominationalism (45,000+ groups)?
+
+Source: adapted from "Reformation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Reformation

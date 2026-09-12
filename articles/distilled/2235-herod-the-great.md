@@ -46,3 +46,5 @@ Augustus divided Herod's kingdom among three sons: Herod Archelaus (ethnarch of 
 - **Historicity of the Massacre of the Innocents:** The event is only recorded in Matthew and is widely considered by scholars to be a theological narrative rather than a historical fact.
 - **Identification of Herod's Tomb:** While the discovery at Herodium is widely accepted, some archaeologists argue the tomb is too modest to be Herod's.
 - **Ethnicity and Religious Identity:** Scholars debate the extent of Herod's Arab versus Jewish identity and the sincerity of his Jewish observance, given his Idumean background and pagan building projects.
+
+Source: adapted from "Herod the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Herod_the_Great

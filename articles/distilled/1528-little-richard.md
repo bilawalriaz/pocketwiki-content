@@ -67,3 +67,5 @@ Richard's fusion of gospel fire, boogie-woogie piano, and a new even-division ro
 - **Jimi Hendrix departure**: Hendrix wrote he quit over unpaid wages ($1,000 for 5.5 weeks); Richard's brother claimed he fired Hendrix. The dispute highlights power dynamics in Richard's band.
 - **Gospel vs. rock reconciliation**: Richard vacillated between renouncing rock as "devil music" and embracing it as a tool for good. His 1980s synthesis ("genre can be used for good or evil") remains a unique theological-artistic stance.
 - **Health narratives (2016)**: Conflicting reports—Bootsy Collins claimed grave illness; Richard and his lawyer insisted he was "vivacious" and singing daily—illustrate media speculation vs. reality in his final years.
+
+Source: adapted from "Little Richard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Little_Richard

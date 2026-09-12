@@ -38,3 +38,5 @@ Victoria became Empress of India in 1876, a title championed by Prime Minister B
 - **Political Influence**: Scholars debate the extent of Victoria's private political influence versus her public role as a symbolic figurehead, especially after the publication of her diaries and letters.
 - **Haemophilia Origin**: The source of the haemophilia mutation in Victoria's lineage is debated; it is most likely a spontaneous mutation, possibly linked to her father's age at her conception, rather than evidence of illegitimacy.
 - **Legacy of Mourning**: The impact of her prolonged seclusion after Albert's death on the development of the modern monarchy and public attitudes toward it remains a subject of analysis.
+
+Source: adapted from "Queen Victoria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Queen_Victoria

@@ -39,3 +39,5 @@ Modern Yiddish literature began in 1864 and was advanced by Sholem Aleichem and 
 
 ## Debates and Open questions
 The source notes that the attribution of an Arabic stanza to the seventh-century Sarah of Yemen is uncertain, as she "may have been Jewish." It also mentions that the prosodic classification of passages from Shabbethai Donnolo's *Sefer Hakhmoni* is debated, as they are sometimes classified as rhymed prose ("saj") rather than quantitatively metered poetry.
+
+Source: adapted from "Jewish literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jewish_literature

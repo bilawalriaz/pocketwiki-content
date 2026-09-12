@@ -39,3 +39,5 @@ The Imperial Chola era was a golden age for Tamil literature, producing works su
 ## Open questions
 
 The internal chronology and succession of the early Chola kings from Sangam literature remain unsettled, and the interregnum between roughly 300 and 848 CE is poorly documented, leaving the dynasty's fate during those centuries largely unknown. A modern debate in which some Tamil film personalities claim the Cholas were not Hindu conflicts with the historical record of their Shaiva patronage and temple construction, including the Brihadeeswarar Temple.
+
+Source: adapted from "Chola dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chola_dynasty

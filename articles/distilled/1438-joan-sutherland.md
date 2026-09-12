@@ -57,3 +57,5 @@ Major honours: CBE (1961), Australian of the Year (1961), AC (1975), DBE (1979),
 - **Wagnerian suitability**: Early mentors and Sutherland herself initially believed she was a dramatic soprano for Wagner; hearing “Wagner sung as it should be” changed her mind. Whether she could have sustained a Wagner career remains hypothetical.
 - **Metropolitan Opera conflict (1978–82)**: The source presents Sutherland’s account (declined *Entführung* early, then *Merry Widow* and *Semiramide* were withdrawn). The Met’s internal rationale is not detailed.
 - **Vocal categorisation**: Critics agree she defies standard Fach labels—“size and sound present definitional problems”—making her a unique case study in voice classification.
+
+Source: adapted from "Joan Sutherland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joan_Sutherland

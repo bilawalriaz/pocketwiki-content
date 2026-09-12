@@ -28,3 +28,5 @@ Beyond algebra, the second chapter covers methods for calculating area and volum
 
 ## Debates and Open Questions
 The source text does not detail specific scholarly debates about the work itself, but it notes that several other authors later published texts under the same title (*Al-Jabr*), indicating its foundational influence and the ongoing development of the discipline it created.
+
+Source: adapted from "Al-Jabr" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Al-Jabr

@@ -43,3 +43,5 @@ The *Encyclopédie* disseminated Enlightenment political theories, such as the s
 - **Subversive Cross-References**: A long-standing claim that the *Encyclopédie* contained a "system" of ironic cross-references to secretly attack authority. Scholar Marie Leca-Tsiomis argues there is no evidence for this, noting similar references existed in its conservative source, the *Cyclopaedia*.
 - **Editorial Control vs. Contributor Independence**: While Diderot aimed for a unified project, contributors often followed their own interests, resulting in a work of "contradictions" rather than a cohesive party statement.
 - **Impact on the French Revolution**: The *Encyclopédie* is strongly associated with the intellectual causes of the Revolution, but the extent of its direct influence on the general populace versus the elite is debated.
+
+Source: adapted from "Encyclopédie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Encyclop%C3%A9die

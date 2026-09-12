@@ -51,3 +51,5 @@ Pairs of enantiomers (nonsuperimposable mirror-image molecules) have essentially
 ## Detection of regime
 
 To test which regime a new reaction occupies, vary the temperature and reaction time. A product distribution that changes with time, inverts with temperature, or shifts more than the kinetic equation predicts indicates equilibration and thermodynamic control. A distribution that shifts more than the thermodynamic equation predicts indicates kinetic control.
+
+Source: adapted from "Thermodynamic and kinetic reaction control" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thermodynamic_and_kinetic_reaction_control

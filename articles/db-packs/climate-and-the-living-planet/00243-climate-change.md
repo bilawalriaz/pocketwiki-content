@@ -25,3 +25,5 @@ Mitigation means cutting greenhouse-gas emissions and strengthening natural carb
 ## What remains uncertain
 
 Three questions dominate. First, feedbacks, especially the behaviour of clouds, still limit the precision of future projections. Second, the feasibility, scalability, and side effects of large-scale CDR and of solar radiation modification are heavily debated. Third, who should pay remains contested: developed nations have emitted the most historically, developing nations face the worst impacts, and "loss and damage" for impacts that cannot be adapted to is still unresolved.
+
+Source: adapted from "Climate change" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_change

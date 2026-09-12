@@ -47,3 +47,5 @@ The Crusader states' military power relied on feudal levies, mercenaries, and th
 - **Nature of Society**: Historians debate whether Frankish society was a segregated colonial elite (as argued by Prawer and Riley-Smith) or showed more integration and cultural exchange with indigenous populations, a view supported by some archaeological evidence (Ellenblum).
 - **Motivations**: The primary motivations for the Crusades and settlement are debated, ranging from religious zeal and pilgrimage to economic opportunity and feudal ambition.
 - **Historiographical Approach**: There is ongoing discussion about whether the Crusader states should be studied as an extension of Western European expansion or as distinct polities within the context of Near Eastern political history.
+
+Source: adapted from "Crusader states" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Crusader_states

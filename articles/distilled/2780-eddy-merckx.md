@@ -46,3 +46,5 @@ Merckx founded the Eddy Merckx Cycles bicycle brand in 1980. He managed the Belg
 - **Greatest of All Time:** While Merckx is almost universally regarded as the greatest cyclist, he himself believes cross-generational comparisons are impractical due to the increased specialization of modern riders.
 - **Doping Controversies:** Merckx's career was marred by three positive tests (1969 Giro, 1973 Giro di Lombardia, 1977 Flèche Wallonne). He claimed innocence in the first case, blamed a prescribed cough medicine in the second, and in the third admitted he was wrong to trust a doctor. These incidents remain a point of historical discussion.
 - **Impact of the Blois Crash:** Merckx stated he was "never the same again" after the 1969 crash that fractured his pelvis, which required constant seat adjustments and likely contributed to later physical decline.
+
+Source: adapted from "Eddy Merckx" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eddy_Merckx

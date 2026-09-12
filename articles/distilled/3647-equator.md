@@ -34,3 +34,5 @@ The equator passes through 11 sovereign nations and the territorial seas of thre
 
 ## Debates and Open Questions
 The precise location of the equator is not fixed. Its plane drifts annually, and geological evidence indicates significant positional shifts over millions of years due to changes in Earth's axis, linked to tectonic events like the collision of the Indian and Eurasian plates. The exact length is also complex to determine due to Earth's irregular geoid shape.
+
+Source: adapted from "Equator" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Equator

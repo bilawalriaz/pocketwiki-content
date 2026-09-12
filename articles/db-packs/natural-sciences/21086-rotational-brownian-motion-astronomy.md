@@ -49,3 +49,5 @@ so t_rel is the e-folding time for the binary's orientation to be randomised by 
 δθ ≈ √(20 m / M₁₂).
 
 The two holes finally merge by emitting gravitational waves, and the spin axis of the resulting black hole aligns with the orbital angular momentum of the pre-merger binary. A process that randomises orbital orientations therefore also randomises final spin directions, helping to explain why observed spins of supermassive black holes appear randomly aligned with respect to their host galaxies.
+
+Source: adapted from "Rotational Brownian motion (astronomy)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rotational_Brownian_motion_%28astronomy%29

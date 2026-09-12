@@ -25,3 +25,5 @@ A priority dispute with Robert Hooke followed publication. Hooke claimed Newton 
 ## Legacy
 
 The *Principia* replaced Cartesian physics with a quantitative mechanics that held for two centuries until Einstein's relativity extended it. Laplace and Lagrange treated it as the model of a scientific achievement. A page from the book was placed on the Voyager Golden Record, sent beyond the solar system in 1977.
+
+Source: adapted from "Philosophiæ Naturalis Principia Mathematica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica

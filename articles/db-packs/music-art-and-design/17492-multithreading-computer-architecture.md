@@ -30,3 +30,5 @@ A final choice is how much state to duplicate. Replicating all software-visible 
 
 Implementations include DEC's EV8 (never completed), Intel's Hyper-Threading Technology, IBM's POWER5 through POWER9, IBM z13/z14/z15 mainframes, Sun Microsystems' UltraSPARC T2, Cray's XMT, and AMD's Bulldozer and Zen microarchitectures.
 ```
+
+Source: adapted from "Multithreading (computer architecture)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Multithreading_%28computer_architecture%29

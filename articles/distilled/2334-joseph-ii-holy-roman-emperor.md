@@ -39,3 +39,5 @@ Joseph's foreign policy was expansionist and belligerent. He allied with Russia 
 
 ## Debates and Open Questions
 Scholars debate whether Joseph II was a genuine reformer inspired by Enlightenment ideals or a power-hungry despot. Some, like Mitrofanov, argue his liberalism was a myth and he was more despotic than his mother. Others, like Padover, celebrate him as a great liberator. Historians like Blanning stress contradictions in his policies, such as encouraging small peasant holdings which retarded modernization. The "false Constantinople letters" have also distorted his historical image, exaggerating his radicalism. A key question remains whether his reforms failed primarily due to his impatience and autocratic methods, or because of deeper economic and social backwardness in the Habsburg Empire.
+
+Source: adapted from "Joseph II, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_II%2C_Holy_Roman_Emperor

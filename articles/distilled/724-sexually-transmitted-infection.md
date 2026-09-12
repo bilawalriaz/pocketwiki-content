@@ -54,3 +54,5 @@ Historical records of STIs date back millennia. Medieval evidence suggests trepo
 - **Effectiveness of School-Based Interventions**: Limited evidence supports school-based programs in improving adolescent sexual health outcomes.
 - **Microbicide Efficacy**: Nonoxynol-9 was found ineffective and potentially harmful; dapivirine shows promise but requires further study.
 - **Asymptomatic Carriage**: The true prevalence and impact of subclinical STIs remain understudied, especially in low-resource settings.
+
+Source: adapted from "Sexually transmitted infection" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sexually_transmitted_infection

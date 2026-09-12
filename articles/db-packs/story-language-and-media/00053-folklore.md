@@ -24,3 +24,5 @@ Folklore items, called **artifacts** or **traditional cultural expressions**, fa
 - **Historic–Geographic Method**: methodology tracking artifacts across space and time; dominated early 20th-century folkloristics.
 - **Living museum**: open-air museum displaying and reenacting use of material artifacts.
 - **Variant**: a single performance of a folklore artifact at a given time and place.
+
+Source: adapted from "Folklore" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Folklore

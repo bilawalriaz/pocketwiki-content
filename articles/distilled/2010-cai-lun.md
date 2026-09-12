@@ -40,3 +40,5 @@ Cai maintained influence under Empress Dowager Deng, overseeing scholarly projec
 - **Inventor vs. Innovator:** Archaeological evidence shows paper existed in China from the 3rd century BCE. Scholars debate whether Cai Lun invented paper or, as the term *zào yì* ("to initiate the idea") suggests, significantly improved an existing process.
 - **Credit and Patronage:** There is speculation that Cai may have taken credit for the work of others, similar to later figures like Feng Dao with printing.
 - **Historical Sources:** The main biography of Cai Lun was written nearly 300 years after his death, leading to questions about its accuracy. Some major historical annals omit his papermaking achievements, possibly due to bias against eunuchs.
+
+Source: adapted from "Cai Lun" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cai_Lun

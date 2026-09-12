@@ -48,3 +48,5 @@ Modern personality emerged during the Renaissance, shifting from collective iden
 - How much personality change is driven by intentional effort versus accumulated life experiences?  
 - Can acting extraverted benefit introverts long-term, or does it incur lasting cognitive costs?  
 - Are cultural differences in personality real or methodological artifacts of translation and sampling?
+
+Source: adapted from "Personality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Personality

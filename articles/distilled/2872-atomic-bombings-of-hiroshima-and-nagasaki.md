@@ -48,3 +48,5 @@ The bombings caused long-term health effects, including increased rates of leuke
 *   **Ethics and Legality**: Some view the bombings as a war crime or state terrorism due to the massive civilian casualties. A 1963 Japanese court ruling called them illegal under international law of the time.
 *   **Geopolitical Motives**: A prominent theory suggests the bombings were intended to intimidate the Soviet Union at the start of the Cold War.
 *   **Role of Soviet Entry**: Historian Tsuyoshi Hasegawa argues the Soviet declaration of war on 9 August was a more decisive factor in Japan's surrender than the atomic bombs.
+
+Source: adapted from "Atomic bombings of Hiroshima and Nagasaki" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki

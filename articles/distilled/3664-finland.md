@@ -45,3 +45,5 @@ After WWII, Finland transformed from an agrarian society to an industrialized on
 *   The exact origins and etymology of the name "Suomi" (Finland) are uncertain and debated.
 *   The nature and impact of the "Finlandisation" policy during the Cold War remain subjects of analysis.
 *   The long-term demographic challenges posed by Finland's low fertility rate (1.26 children per woman) and aging population are a significant concern.
+
+Source: adapted from "Finland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Finland

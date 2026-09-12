@@ -47,3 +47,5 @@ Niamey constitutes the Niamey Urban Community (CUN), a first-level administrativ
 - The etymology of the name "Niamey" is debated, with different oral histories from the Maouri, Zarma, and Songhai peoples offering distinct explanations.
 - The exact chronology of Niamey's early settlement is uncertain, with oral histories differing on the sequence of village foundations.
 - The effectiveness and equity of urban planning and utility provision are ongoing issues, particularly regarding the exclusion of informal settlements from public services and the impact of gentrification projects.
+
+Source: adapted from "Niamey" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Niamey

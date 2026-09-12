@@ -65,3 +65,5 @@ Since the 1990s, scholarship has sharply reduced the canon (Grove 2001 lists <20
 *   **Chronology of works:** Taruskin states modern scholarship is “nowhere near a wholly reliable chronology”; few pre-1500 manuscripts survive; dating relies on contextual guesswork.
 *   **Canon and attribution:** Works dropped from >370 to <200 (Grove 2001) due to confusion with similarly named composers (Josquin Dor, de Stokem) and misattribution by publishers exploiting his fame.
 *   **Historical stature:** Whether Josquin’s modern “greatest of the Renaissance” status reflects contemporary reality or a 19th/20th-century construct (Beethoven analogy) that marginalizes Obrecht, Isaac, and others.
+
+Source: adapted from "Josquin des Prez" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Josquin_des_Prez

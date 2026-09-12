@@ -48,3 +48,5 @@ Historically, steamships built in the UK were transported in pieces and assemble
 - The origin of the name "Titicaca" is debated, with theories linking it to Aymara words for "puma" or "lead," or to a corruption of the name of the Sacred Rock (*thakhsi cala*) on Isla del Sol.
 - The age of the prehistoric Lake Mataro is uncertain and may date back to the Late Pliocene.
 - The lake's biodiversity is under severe threat from pollution and invasive species, with its long-term ecological health a major concern.
+
+Source: adapted from "Lake Titicaca" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Titicaca

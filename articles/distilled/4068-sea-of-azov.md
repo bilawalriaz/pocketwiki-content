@@ -39,3 +39,5 @@ The sea's high biological productivity, historically yielding annual fish catche
 - The theory of a catastrophic flood through the Bosporus around 5600 BC, which may have inspired flood myths, remains debated among archaeologists and geologists.
 - The exact origin of the name "Maeotis" is unclear—whether it was named for the Maeotians or vice versa.
 - The impact of the Crimean Bridge on shipping and the ecological consequences of Russia's control over the Kerch Strait are ongoing geopolitical and environmental concerns.
+
+Source: adapted from "Sea of Azov" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sea_of_Azov

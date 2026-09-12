@@ -39,3 +39,5 @@ Precision scales with digit count. A six-figure UK grid reference identifies a 1
 - **State Plane Coordinate System (SPCS)**: Over 120 zones covering US states or portions thereof, using transverse Mercator or Lambert conformal conic.
 - **Swiss coordinate system (LV95)**: Covers Switzerland with a Mercator projection.
 - **Irish Transverse Mercator (ITM)**: Covers the island of Ireland, jointly defined by Ireland and the UK.
+
+Source: adapted from "Projected coordinate system" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Projected_coordinate_system

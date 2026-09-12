@@ -53,3 +53,5 @@ In his later years, Rogers applied person-centered principles to international c
 
 ## Debates and Open Questions
 Rogers’s emphasis on subjective experience and rejection of diagnostic categorization have been critiqued for lacking structure in severe mental illness. While his therapeutic conditions are empirically supported, debates persist over the universality of empathy and the role of therapist technique versus relationship. His political applications remain influential but contested in terms of scalability and effectiveness in deeply entrenched conflicts.
+
+Source: adapted from "Carl Rogers" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_Rogers

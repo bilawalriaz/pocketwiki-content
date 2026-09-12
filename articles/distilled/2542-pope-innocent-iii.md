@@ -45,3 +45,5 @@ Innocent III convened the Fourth Lateran Council (1215), which defined doctrines
 - Whether his support for the Fourth Crusade’s diversion to Constantinople was strategically beneficial or a long-term setback for Christian unity.
 - The balance between his pastoral reforms and the violent methods used in the Albigensian Crusade.
 - The impact of his imperial interventions on the stability of medieval Europe.
+
+Source: adapted from "Pope Innocent III" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_Innocent_III

@@ -44,3 +44,5 @@ Between the wars, Haber continued weapons research and led a failed project to e
 *   **Moral Responsibility:** Haber's legacy is fiercely debated. Is he a savior who fed billions or a war criminal whose work enabled mass killing? His defense of chemical warfare and the subsequent use of his institute's research for the Holocaust are central to this dilemma.
 *   **Clara Immerwahr's Suicide:** The exact reasons for his wife's suicide are speculated upon. Some accounts suggest she was a pacifist who opposed his chemical weapons work, with her death occurring shortly after the first chlorine gas attack.
 *   **Scientific Ethics:** Haber's life is a case study in the ethical dilemmas of scientists during wartime, famously captured in his statement: "during peace time a scientist belongs to the world, but during war time he belongs to his country."
+
+Source: adapted from "Fritz Haber" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fritz_Haber

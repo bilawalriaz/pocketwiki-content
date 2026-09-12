@@ -42,3 +42,5 @@ A major technological advance was the Levallois technique, a prepared-core metho
 - **Cannibalism**: Was the practice common, and if so, was it for nutritional survival during shortages or for ritual/religious reasons?
 - **Dog domestication**: The controversial claim that dogs were domesticated during the Middle Paleolithic (c. 100,000 BCE or earlier) based on canine DNA analysis.
 - **Sexual division of labor**: Did a strict division of labor by sex exist in the Middle Paleolithic, or did it evolve later in the Upper Paleolithic?
+
+Source: adapted from "Middle Paleolithic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Middle_Paleolithic

@@ -38,3 +38,5 @@ The NCA's unique multi-use mandate faces significant threats. The resident Maasa
 
 ## Debates and Open Questions
 The core debate is whether the NCA's multi-use model is sustainable. The government argues that relocating the growing Maasai population is necessary to preserve the area's natural values. The Maasai and human rights groups contend the relocation is coercive, violates their rights, and undermines the conservation area's founding purpose. The IUCN seeks solutions to improve collaborative conservation with local communities.
+
+Source: adapted from "Ngorongoro Conservation Area" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area

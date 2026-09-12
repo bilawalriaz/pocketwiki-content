@@ -43,3 +43,5 @@ In 2011, mass protests across Cairo's Tahrir Square forced Mubarak to resign. Th
 ## Open Questions
 
 Menes, traditionally credited with unifying Egypt, may be a later literary figure merged with the historically attested Narmer. Akhenaten's Atenism is read by some scholars as true monotheism and by others as monolatry, devotion to one god while not denying others. Genetic studies disagree on the ancestry of ancient Egyptians: a 2017 mummy survey found close affinity to Near Eastern populations, while a 2025 full-genome study of a single Old Kingdom individual proposed a two-source model with major contributions from both the Levant and Mesopotamia.
+
+Source: adapted from "History of Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Egypt

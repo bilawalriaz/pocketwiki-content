@@ -41,3 +41,5 @@ In his 1902 novel *Altneuland*, Herzl envisioned a modern, tolerant, and coopera
 *   **The Dreyfus Affair's Impact:** While Herzl claimed witnessing the Dreyfus affair rallies turned him into a Zionist, some modern scholars argue he exaggerated its influence, suggesting the rise of Karl Lueger in Vienna was more pivotal.
 *   **Herzl's Attitude Toward the Local Population:** Herzl's private diaries contain passages about "spiriting away the penniless population" across borders, while his public writings and novel *Altneuland* envision a tolerant society with equal rights for non-Jews. This discrepancy fuels debate about his true intentions.
 *   **The Uganda Scheme:** The proposal created a deep rift in the Zionist movement between those who saw it as a necessary temporary refuge (especially after the Kishinev pogrom) and those who viewed it as a betrayal of the sole focus on Palestine.
+
+Source: adapted from "Theodor Herzl" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theodor_Herzl

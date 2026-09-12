@@ -46,3 +46,5 @@ The British colonial period (1757–1947) introduced European styles like Neocla
 - The origins of the true arch in Indian architecture are debated. While its use in Hindu temples is rare, archaeological evidence suggests its presence in pre-Islamic structures like the Mahabodhi Temple and Bhitargaon temple, challenging earlier assumptions.
 - The extent of foreign influence on early Indian stone architecture is contested. Some scholars propose direct influence from Lycian rock-cut tombs via the Achaemenid Empire for the *chaitya* arch form, while others argue for an indigenous evolution from local wooden prototypes.
 - The classification and precise chronological boundaries of the *Vesara* temple style remain a subject of scholarly disagreement, with some viewing it as a distinct hybrid and others as a regional variant of the Dravidian style.
+
+Source: adapted from "Architecture of India" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Architecture_of_India

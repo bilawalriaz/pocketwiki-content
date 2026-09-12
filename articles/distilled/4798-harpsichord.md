@@ -47,3 +47,5 @@ The core repertoire was composed during the Renaissance and Baroque eras by comp
 
 ## Debates and Open Questions
 The exact origin and inventor of the harpsichord are unknown, with the earliest instruments being "most likely" from the late 14th century. The precise reasons for its decline are tied to changing musical styles and the piano's rise, but the process was gradual. Modern historically informed performance practice involves ongoing research into historical building techniques, tuning systems, and performance conventions to recreate an authentic Baroque sound.
+
+Source: adapted from "Harpsichord" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harpsichord

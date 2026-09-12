@@ -46,3 +46,5 @@ Blackstone's *Commentaries* became the cornerstone of legal education in England
 - **Judicial Performance**: While respected, Blackstone was considered a poor trial judge, being reversed on appeal more frequently than his peers.
 - **Motivations for Lectures**: His move to give private lectures was partly driven by financial gain and the anticipated creation of the Vinerian Professorship, not solely by benevolence.
 - **Relationship with Mansfield**: The exact nature of Blackstone's relationship with Lord Mansfield and the reasons for his brief transfer from the King's Bench are debated, with Bentham's account of conflict being considered dubious.
+
+Source: adapted from "William Blackstone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Blackstone

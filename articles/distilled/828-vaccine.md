@@ -114,3 +114,5 @@ Since ~2013: Synthetic third-generation vaccines reconstructing viral surfaces t
 *   **Non-infectious targets:** Expanding vaccinology to cancer, autoimmune disorders, and chronic conditions (e.g., hypertension) remains experimental.
 *   **Plant-based production:** Scalability, regulatory approval, and dosage consistency of transgenic plant bioreactors are unproven at scale.
 *   **Delivery innovation:** Microneedle patches and dermal systems promise cold-chain independence and dose-sparing but remain largely experimental.
+
+Source: adapted from "Vaccine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vaccine

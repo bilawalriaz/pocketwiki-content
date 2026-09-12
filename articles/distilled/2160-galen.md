@@ -44,3 +44,5 @@ Galen's prolific writings (possibly 500 treatises) were preserved in the Byzanti
 - **Authenticity of Works**: Many texts attributed to Galen are considered spurious, and forgeries were common in antiquity and the Middle Ages.
 - **Mind-Body Relationship**: Scholarly debate continues over whether Galen was a materialist who identified the soul with bodily mixtures or held a more dualistic view.
 - **Accuracy of Animal Models**: Galen's use of animal anatomy to infer human structure was criticized even in his time and later proven to contain significant errors.
+
+Source: adapted from "Galen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Galen

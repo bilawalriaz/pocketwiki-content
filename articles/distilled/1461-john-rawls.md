@@ -85,3 +85,5 @@ Key critical engagements include:
 5.  **Feasibility of Overlapping Consensus**: Is it realistic to expect deep convergence on a liberal political conception from doctrines that are fundamentally illiberal in structure, or does it exclude too many citizens?
 6.  **Incentives and the Difference Principle**: Does allowing inequalities to incentivize productivity (benefiting the worst off) undermine the ethos of justice and community Rawls seeks? (Cohen).
 7.  **Status of "Decent Peoples"**: Is Rawls’s toleration of non-liberal but rights-respecting "decent" hierarchies a pragmatic necessity or a betrayal of liberal equality?
+
+Source: adapted from "John Rawls" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Rawls

@@ -47,3 +47,5 @@ As of the 2011 Census, Rajasthan had a population of over 68 million, with a sex
 - The exact population percentages of various communities (e.g., Brahmins, Jats, Gurjars, Meenas) are debated, with different reports providing varying figures.
 - The literacy rate, while improving significantly, remains below the national average, and the low female literacy rate is a persistent issue.
 - The historical extent and influence of certain ancient kingdoms, like the Matsya kingdom of the Vedic period, are subjects of scholarly interpretation.
+
+Source: adapted from "Rajasthan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rajasthan

@@ -43,3 +43,5 @@ Nashville has experienced significant population growth and economic expansion, 
 - The article notes that Nashville's 2022 congressional redistricting was a partisan gerrymander that split the Democratic stronghold of Nashville into three districts, diluting the voting power of Black voters.
 - The city's rapid growth has led to debates about affordability, with data showing that by 2020, 99% of Nashville's neighborhoods were considered unaffordable for Black and Hispanic families earning median incomes.
 - Proposals for expanding public transit, including a 2018 light rail plan, have been rejected by voters, highlighting ongoing debates about the city's transportation future.
+
+Source: adapted from "Nashville, Tennessee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nashville%2C_Tennessee

@@ -44,3 +44,5 @@ After the Hohenstaufen dynasty collapsed in the 13th century, emperors were ofte
 - **Origin of "German" Identity**: Historians debate whether the concept of a "German" kingdom dates to the 10th century or emerged later, in the 11th century, partly due to papal terminology during the Investiture Controversy.
 - **Nature of the Stem Duchies**: Scholarly debate exists over whether the stem duchies were truly "tribal" entities with continuous solidarity from the Migration Period or were largely Frankish institutions reshaped after Charlemagne.
 - **Separation from the Empire**: There were persistent proposals, such as a possible discussion between Pope Nicholas III and Rudolf I, to create a hereditary German kingdom independent of the Holy Roman Empire, but these were rejected due to the strong attachment to the imperial title.
+
+Source: adapted from "Kingdom of Germany" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Germany

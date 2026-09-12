@@ -47,3 +47,5 @@ Pankhurst died on 14 June 1928, just weeks before the Equal Franchise Act grante
 
 ## Debates and Open Questions
 Historians disagree on whether the WSPU's militancy helped or hindered the suffrage movement. Some argue it raised public awareness and pressured the government, while others contend it alienated potential supporters and delayed progress. Pankhurst's political shift from socialist to conservative, her autocratic leadership of the WSPU, and her support for the British Empire and eugenic ideas also remain points of scholarly critique and debate.
+
+Source: adapted from "Emmeline Pankhurst" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emmeline_Pankhurst

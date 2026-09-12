@@ -41,3 +41,5 @@ The original Broadway production starred Lee J. Cobb and won multiple awards. Th
 - **Tragic Flaw vs. Illness**: A key scholarly debate is whether Willy Loman's downfall stems from a classical tragic flaw (like pride or infidelity) or from a "biochemical abnormality" (mental illness), which some argue deflects the play from true tragedy.
 - **Critique of the American Dream**: Critics debate whether the play is a Marxist critique of capitalism and the American Dream, or a more universal family tragedy. Eric Bentley saw it as "deflected from its true course by Marxist sympathies."
 - **Accuracy of Memory**: The play's use of flashbacks raises questions about the reliability of Willy's memories and how much of the past is accurately portrayed versus distorted by his delusions.
+
+Source: adapted from "Death of a Salesman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Death_of_a_Salesman

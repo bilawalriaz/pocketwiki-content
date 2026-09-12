@@ -23,3 +23,5 @@ Henry IV could not conquer a Catholic capital as a Protestant king, so on 25 Jul
 ## Why the settlement did not hold
 
 The edict bought a grudging peace, not reconciliation. Huguenot revolts in the 1620s were crushed and their political privileges eroded. In October 1685, Louis XIV revoked the Edict of Nantes with the Edict of Fontainebleau, outlawed Protestant worship, and drove a large, often skilled, Huguenot minority into exile, weakening the French economy along with the Huguenot community. Historians still debate whether the wars were essentially religious, with faith driving the killing, or essentially a noble power struggle in which religion served as a rallying flag, and whether 1629's Peace of Alès, which stripped the last Huguenot political privileges, should mark the real end of the conflict rather than 1598.
+
+Source: adapted from "French Wars of Religion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_Wars_of_Religion

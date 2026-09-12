@@ -38,3 +38,5 @@ Exploration can be systematic, following a flexible plan to accommodate unexpect
 
 ## Debates and Open questions
 The source text does not explicitly outline scholarly debates or open questions regarding the topic of exploration itself.
+
+Source: adapted from "Exploration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Exploration

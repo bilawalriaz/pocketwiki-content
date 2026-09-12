@@ -49,3 +49,5 @@ The Yongle Emperor pursued an active foreign policy to assert Ming hegemony. He 
 - **Strategic impact**: Scholars argue whether his decision to move the capital to Beijing and withdraw forward garrisons from the northern frontier was a strategic mistake that weakened Ming defenses long-term.
 - **Maritime policy**: The discontinuation of Zheng He's voyages after the Yongle era is debated as a turning point, with some viewing it as a lost opportunity for global engagement and others as a pragmatic fiscal decision.
 - **Succession**: The conflict between his sons Zhu Gaochi and Zhu Gaoxu created lasting instability, raising questions about the emperor's handling of the succession.
+
+Source: adapted from "Yongle Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yongle_Emperor

@@ -35,3 +35,5 @@ Swedish psychologist **Gunnar Johansson** documented the phenomenon in 1973, inv
 ## Lesions and what goes wrong
 
 Studies of stroke patients show that damage to the superior temporal sulcus or premotor cortex impairs biological motion perception, with the cerebellum also contributing. A patient with developmental visual agnosia who could not recognise the shape of objects from motion could still recognise a biological figure from PLDs, indicating that the biological-motion pathway is partly independent of the ventral form-vision pathway. The brain treats "moving creature" as a special category: recognised from minimal cues, shaped by the observer's own body and experience, and built from a network that overlaps with the systems for imitation, language, and empathy.
+
+Source: adapted from "Biological motion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_motion

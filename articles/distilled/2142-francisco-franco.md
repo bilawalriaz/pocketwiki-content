@@ -48,3 +48,5 @@ In his final years, Franco named Prince Juan Carlos de Borbón as his successor 
 *   **Fascist or Authoritarian?** Scholars debate whether Franco's regime was fully fascist, a para-fascist regime, or a traditional conservative military dictatorship. The regime exhibited fascist trappings but also relied on the military, the Church, and monarchists.
 *   **World War II Neutrality:** Historians discuss whether Franco deliberately made excessive demands to Hitler in 1940 to avoid entering the war, or if Spain was simply too devastated and weak to join the Axis.
 *   **Legacy and Historical Memory:** Franco remains a deeply divisive figure in Spain. The "Pact of Forgetting" after his death gave way to ongoing debates about exhumation, memorials, and officially acknowledging the victims of his regime.
+
+Source: adapted from "Francisco Franco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Francisco_Franco

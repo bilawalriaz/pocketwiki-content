@@ -40,3 +40,5 @@ Maracaibo's economy is dominated by the petroleum industry; the Lake Maracaibo b
 ## Debates and Open questions
 *   The origin of the name "Maracaibo" is uncertain. One legend attributes it to the cry "¡Mara cayó!" ("Mara fell!") after an indigenous chieftain's death, but this is considered unlikely. An alternative theory suggests it derives from the indigenous term "Maara-iwo," meaning "place where serpents abound."
 *   The city's founding is disputed, with multiple failed attempts before its permanent establishment in 1574.
+
+Source: adapted from "Maracaibo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maracaibo

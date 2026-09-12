@@ -43,3 +43,5 @@ In 1357, a diplomatic mission to arrange a marriage between King Hayam Wuruk and
 - The cause of King Jayanegara's death is disputed; accounts differ on whether he was murdered by a court physician or by Gajah Mada himself.
 - The true nature of Gajah Mada's relationship with the earlier King Kertanegara, and whether he was a grandson, remains speculative.
 - The modern popular depiction of Gajah Mada's appearance, based on a 1945 interpretation of a terracotta fragment, is contested by archaeologists.
+
+Source: adapted from "Gajah Mada" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gajah_Mada

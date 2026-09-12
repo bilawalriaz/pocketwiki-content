@@ -29,3 +29,5 @@ Many memory complaints stem from treatable factors: anxiety, dehydration, depres
 ## Prevention and treatment
 
 Staying mentally active, exercising, socializing, eating well, and managing chronic conditions all support memory. Years of musical training correlate with better nonverbal memory in later life, and early-life education correlates with better memory in old age, especially in women. For Alzheimer's, four FDA-approved drugs act on the cholinergic system (the brain's acetylcholine signaling network, which supports attention and memory): donepezil, galantamine, rivastigmine, and tacrine. They can reduce symptoms for up to eighteen months in mild or moderate cases but do not halt the underlying decline.
+
+Source: adapted from "Memory and aging" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Memory_and_aging

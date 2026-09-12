@@ -52,3 +52,5 @@ San Francisco is a consolidated city-county with a mayor and an 11-member Board 
 *   **Homelessness Policy:** The city's approach to homelessness, including spending levels, sanctioned encampments, and the effectiveness of services, is a subject of ongoing political and public debate.
 *   **Impact of Tech Industry:** The influx of high-paying tech jobs is credited with economic vitality but also blamed for exacerbating inequality, gentrification, and the high cost of living that displaces long-term residents.
 *   **Freeway Removal:** The decision to demolish the Embarcadero Freeway after the 1989 earthquake is seen by many as a success that reclaimed the waterfront, but it remains part of broader discussions about transportation infrastructure and urban design.
+
+Source: adapted from "San Francisco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/San_Francisco

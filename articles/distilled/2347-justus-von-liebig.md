@@ -49,3 +49,5 @@ In *Animal Chemistry* (1842), Liebig proposed a chemical theory of metabolism, c
 *   **Theory vs. Practice in Agriculture:** Liebig's theoretical agricultural chemistry was criticized for lacking practical experience, leading to early failures in fertilizer application.
 *   **Infant Formula Safety:** The fatal outcomes of tests on Liebig's infant formula by Dr. Jean-Anne-Henri Depaul sparked ethical debates and highlighted the risks of early nutritional science.
 *   **Materialism:** Liebig's chemical explanations for physiological processes were embraced by materialist thinkers, though he himself distanced himself from their political implications.
+
+Source: adapted from "Justus von Liebig" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Justus_von_Liebig

@@ -52,3 +52,5 @@ Rwanda is one of Africa's most densely populated countries. The population is yo
 - The origins and historical nature of the Hutu and Tutsi distinction are debated. Some scholars argue they were separate racial groups, while others contend the categories were fluid social classes that were rigidified by colonial policies.
 - The effectiveness and fairness of the *Gacaca* courts used after the genocide are debated, with criticism focusing on whether they met international legal standards.
 - While Rwanda's government is praised for low corruption and economic development, it is criticized by human rights groups for extensive political repression, including arbitrary detention and restrictions on freedoms.
+
+Source: adapted from "Rwanda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rwanda

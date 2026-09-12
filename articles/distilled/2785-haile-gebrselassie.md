@@ -43,3 +43,5 @@ Haile began investing in 1995, building a business empire that included Haile Re
 - The source notes his 2003 World Championship 10,000m silver medal race featured a closing 5000m split (12:57.24) that was the fastest ever in a global championship 10,000m final at the time, sparking debate about race tactics and the limits of human performance.
 - His decision to withdraw from the 2008 Beijing Olympic marathon due to air pollution concerns was later regretted, as conditions were better than feared, raising questions about risk assessment in elite sport.
 - Public skepticism existed regarding his potential entry into politics after retirement, given the unfamiliarity of celebrities holding office in Ethiopia.
+
+Source: adapted from "Haile Gebrselassie" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Haile_Gebrselassie

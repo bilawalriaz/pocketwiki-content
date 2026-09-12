@@ -46,3 +46,5 @@ The 1996 peace accords ended the war, leading to economic growth and democratic 
 - The extent of U.S. support for the Guatemalan military during the civil war is a subject of historical scrutiny, with evidence suggesting aid continued even after official bans.
 - The precise indigenous population percentage is contested; the 2018 census reported 43.6%, while indigenous rights activists claim it is closer to 61%.
 - The effectiveness and legacy of the CICIG's anti-corruption work remain debated, especially after its mandate was terminated in 2019.
+
+Source: adapted from "Guatemala" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guatemala

@@ -79,3 +79,5 @@ Grandfather’s Gothic tales; childhood reading: *One Thousand and One Nights*, 
 - **Father’s illness**: Lovecraft claimed insomnia/overwork caused paralysis; death certificate states general paresis (syphilis). Unknown if Lovecraft was deceived or later misrepresented facts.
 - **Extent of dream transcription**: Popular 1990s notion that stories were dream transcripts is rejected by scholars; dreams provided structural/atmospheric influence, not verbatim content.
 - **Political evolution**: Sincerity and consistency of late socialism debated—elitist, anti-Marxist, anti-democratic, using "fascism" positively for intellectual aristocracy; shift motivated by Depression’s societal harm and observation that wealthy class failed aristocratic ideal.
+
+Source: adapted from "H. P. Lovecraft" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/H._P._Lovecraft

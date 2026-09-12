@@ -37,3 +37,5 @@ The *Duino Elegies* have had a vast influence. They shaped the work of major poe
 *   **Mystical Literature vs. Study of Mysticism:** Critics debate whether the poems should be read as mystical literature themselves or as a philosophical study of mysticism.
 *   **Political Interpretation:** Theodor W. Adorno controversially argued the poems' "theological overtone" reinforced a cultural commitment that could attract people to Nazism.
 *   **Nature of the Angels:** The precise meaning and origin of Rilke's angel symbol—whether influenced by Islam, purely secular, or something else—remains a subject of scholarly discussion.
+
+Source: adapted from "Duino Elegies" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Duino_Elegies

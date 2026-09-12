@@ -41,3 +41,5 @@ Intrinsically linked to music since its inception, the ghazal was performed by p
 
 ## Debates and Open Questions
 The source notes scholarly debate on the precise interpretation of ghazal couplets, which are designed for ambiguity and can support multiple, simultaneous meanings (e.g., secular vs. sacred). The adaptation of the ghazal into English has also been contentious, with debates over whether strict adherence to classical constraints (like the *qafiya* and *radif*) is necessary for a poem to be considered a "real ghazal."
+
+Source: adapted from "Ghazal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ghazal

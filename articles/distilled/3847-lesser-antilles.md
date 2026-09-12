@@ -42,3 +42,5 @@ The islands form a long arc between the Greater Antilles and South America. They
 ## Debates and open questions
 - The exact migration patterns into the southern Lesser Antilles during the Archaic Age are debated, with scenarios ranging from direct colonization from South America to bypassing the region entirely.
 - There are controversies over conflicting stratigraphic data and radiocarbon dates regarding the timing and nature of the transition to the Early Ceramic Age and the interaction between Saladoid migrants and existing Archaic populations.
+
+Source: adapted from "Lesser Antilles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lesser_Antilles

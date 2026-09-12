@@ -45,3 +45,5 @@ Since 1996, the Dominican Republic has held regular elections, transitioning to 
 *   The exact population of Hispaniola at the time of European contact in 1492 is debated, with estimates ranging from tens of thousands to 2 million.
 *   The integration of the large Haitian immigrant population and the status of Dominicans of Haitian descent remain major social and political issues.
 *   The causes and legacy of the 1937 massacre of Haitians by the Trujillo regime continue to be a point of historical and diplomatic sensitivity.
+
+Source: adapted from "Dominican Republic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dominican_Republic

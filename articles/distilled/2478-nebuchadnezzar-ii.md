@@ -39,3 +39,5 @@ Nebuchadnezzar died in 562 BC after a 43-year reign. He was succeeded by his son
 *   **Military Effectiveness:** While celebrated for Carchemish and the destruction of Jerusalem, his failed invasion of Egypt and the subsequent rebellions suggest his military record was mixed.
 *   **Succession:** The reasons for choosing Amel-Marduk as heir over older sons like Marduk-nadin-ahi are unclear, and their relationship appears to have been strained.
 *   **Hanging Gardens:** Tradition credits him with building the Hanging Gardens of Babylon for his wife Amytis, but no archaeological evidence has been found to confirm their existence.
+
+Source: adapted from "Nebuchadnezzar II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nebuchadnezzar_II

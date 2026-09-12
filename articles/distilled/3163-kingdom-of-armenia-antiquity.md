@@ -44,3 +44,5 @@ In the early 4th century, King Tiridates III converted to Christianity, traditio
 - The exact date of Armenia's conversion to Christianity is traditionally 301, but some scholars debate whether it occurred later, around 314.
 - The reliability of ancient sources (like Josephus) regarding the size of Tigranes the Great's army is questioned, with numbers likely being exaggerated.
 - The extent to which the Armenian nobility was divided between pro-Roman and pro-Parthian factions during the Arsacid period is a subject of ongoing historical analysis.
+
+Source: adapted from "Kingdom of Armenia (antiquity)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Armenia_%28antiquity%29

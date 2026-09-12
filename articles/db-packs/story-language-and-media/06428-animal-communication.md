@@ -33,3 +33,5 @@ Bottlenose dolphins broadcast identity through signature whistles whose shape, i
 ## Interpreting animals and signaling back
 
 Reading animals is error-prone because the same gesture can mean different things in different contexts, and anthropomorphism is misleading: an ape's smile often signals aggression. Humans can also send signals animals read. Dogs follow human pointing and gaze to locate hidden food, though pointing denotes a direction rather than an object. Vervet monkeys refine alarm-call use with experience, and the banner-tailed kangaroo rat signals alertness to snakes by foot-drumming. The meaning of a signal depends on context, prior experience, and the sensory system of the receiver.
+
+Source: adapted from "Animal communication" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Animal_communication

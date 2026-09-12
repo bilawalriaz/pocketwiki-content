@@ -28,3 +28,5 @@ The print run sold out quickly. Copies reached as far as England, and at about 3
 The Bible set the pattern for later printed Bibles such as the 36-line Bible and the first Eggestein Bible, and shaped the official Clementine Vulgate commissioned by the Papacy in the late 16th century. As of 2009, 49 copies are known, 25 substantially complete, with fragments representing about 16 more; most now sit in university libraries. A two-volume copy stolen from Moscow State University in 2009 was recovered in 2013, and high-quality digital reproductions, including projects at Keio University, have made the book accessible without handling the originals.
 
 The exact number of copies printed is uncertain: historical sources give 158 or 180, while modern scholars estimate 160–185. The precise duration of the printing is also unknown.
+
+Source: adapted from "Gutenberg Bible" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gutenberg_Bible

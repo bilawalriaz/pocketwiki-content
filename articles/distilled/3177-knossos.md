@@ -46,3 +46,5 @@ Modern archaeology began with Minos Kalokairinos in 1878, but Arthur Evans's exc
 - The purpose of the Throne Room complex is uncertain, with interpretations ranging from a king's seat to a priestly ritual space.
 - The connection between the word "labyrinth," the labrys (double axe), and the palace's complex plan is a subject of scholarly debate.
 - The extent and accuracy of Arthur Evans's early 20th-century reconstructions, which define the visitor experience today, remain a point of discussion in archaeology.
+
+Source: adapted from "Knossos" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knossos

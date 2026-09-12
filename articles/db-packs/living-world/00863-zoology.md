@@ -11,3 +11,5 @@ The field divides by what is studied. Vertebrate zoology splits into mammalogy (
 Two further strands treat behavior and place. Ethology studies behavior in natural settings; behavioral ecology applies Tinbergen's four questions, asking what a behavior is for, how it develops, how it evolved, and what mechanism produces it. Biogeography asks why species live where they do, linking distributions to climate, geography, and evolutionary history.
 
 Contemporary zoology feeds directly into conservation biology, where work on behavior, genetics, and habitat requirements underpins species protection, ecosystem restoration, and responses to climate change and habitat loss. The classification of life continues to shift as molecular data revise traditional groupings, and debates persist over whether animal cognition grades continuously into human intelligence or differs in kind.
+
+Source: adapted from "Zoology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zoology

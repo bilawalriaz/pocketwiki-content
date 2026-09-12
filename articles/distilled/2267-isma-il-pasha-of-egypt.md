@@ -42,3 +42,5 @@ European financial control fueled the Urabi Revolt, a nationalist movement led b
 ## Debates and Open questions
 - The exact date of Isma'il's birth is debated: 25 November or 31 December 1830.
 - The primary cause of his deposition is framed as a result of British and French pressure due to financial insolvency and the Urabi Revolt, but the interplay between his personal ambition, nationalist sentiment, and European imperialism remains a central historical analysis point.
+
+Source: adapted from "Isma'il Pasha of Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Isma%27il_Pasha_of_Egypt

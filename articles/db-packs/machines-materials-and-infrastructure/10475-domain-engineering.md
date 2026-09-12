@@ -29,3 +29,5 @@ The third phase, **domain implementation**, creates the process and tools for ef
 ## Limitation
 
 Domain engineering has been criticised for overemphasising **engineering-for-reuse** and **engineering-with-reuse** of generic features at the expense of **engineering-for-use**, in which an individual user's world-view, language, and context shape the design. Critics argue that the focus on generic, reusable assets can crowd out attention to the specific situation of the people who will actually use the system.
+
+Source: adapted from "Domain engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Domain_engineering

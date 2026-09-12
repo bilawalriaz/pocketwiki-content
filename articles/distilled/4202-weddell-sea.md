@@ -39,3 +39,5 @@ The Weddell Sea supports abundant wildlife, including Weddell seals, killer whal
 ## Debates and Open questions
 - The exact volume transports and dynamics of the deep circulation in the western Weddell Sea remain difficult to quantify due to limited data.
 - The long-term impact of climate change on the Weddell Gyre, ice shelf stability, and deep water formation is a subject of ongoing research.
+
+Source: adapted from "Weddell Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Weddell_Sea

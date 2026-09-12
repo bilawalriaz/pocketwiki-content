@@ -61,3 +61,5 @@ The execution of Thomas Cromwell in 1540 left Holbein without a key patron, but 
 ## Debates and Open Questions
 
 Scholars debate Holbein’s religious convictions, noting his ambiguous stance between Catholic and Protestant patrons. While he produced reformist propaganda, he also served traditional clients, suggesting pragmatic rather than ideological motivations. His personal life remains speculative, particularly regarding his relationship with model Magdalena Offenburg and his long separation from his wife. The attribution of certain works, especially copies and derivatives, continues to evolve with technical analysis. Additionally, interpretations of symbolic elements in paintings like *The Ambassadors* vary widely, reflecting ongoing scholarly engagement with his layered iconography.
+
+Source: adapted from "Hans Holbein the Younger" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger

@@ -42,3 +42,5 @@ Conservation efforts include the Western Honguedo Strait Coral Conservation Area
 ## Debates and Open Questions
 - **Boundary Definition**: There is no consensus on the precise demarcation between the St. Lawrence River and the Gulf of St. Lawrence, nor on whether the Gulf is hydrographically a gulf or an estuary.
 - **Ecological Change**: The cause of hypoxia in the bottom waters of the Laurentian Channel over the 20th century is a significant environmental concern.
+
+Source: adapted from "Gulf of St. Lawrence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_of_St._Lawrence

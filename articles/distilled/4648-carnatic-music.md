@@ -42,3 +42,5 @@ A typical concert (kutcheri) is a three-hour event featuring a small ensemble: a
 
 ## Debates and Open Questions
 The source material does not explicitly detail ongoing scholarly debates. However, it notes historical points of divergence and evolution, such as the relatively recent adoption of the term "Carnatic" (only 150–200 years old) and the shift from oral transmission to written notation in the late 17th/early 18th century. The integration of Carnatic music into modern education and identity, particularly in Sri Lanka, also represents a significant area of cultural adaptation.
+
+Source: adapted from "Carnatic music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carnatic_music

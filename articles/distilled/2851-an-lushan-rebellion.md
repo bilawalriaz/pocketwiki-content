@@ -41,3 +41,5 @@ The rebellion caused catastrophic depopulation, with census figures showing a dr
 - **Death Toll**: The census drop of ~36 million is debated. Historians argue it reflects not only war casualties but also a breakdown in census accuracy, the removal of untaxed classes, and the loss of northern provinces from the tax rolls. Revised estimates of direct war deaths range from 13 million downward.
 - **Role of Foreign Allies**: The extent to which Uyghur and Arab intervention was decisive versus merely helpful is a point of analysis. Their aid came at the cost of significant economic concessions and political influence.
 - **Cause of Tang Decline**: While the rebellion is the clear catalyst, scholars debate whether the subsequent *fanzhen* system was an inevitable outcome or a specific policy failure in how the court managed surrendered generals.
+
+Source: adapted from "An Lushan rebellion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/An_Lushan_rebellion

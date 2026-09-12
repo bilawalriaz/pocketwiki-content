@@ -73,3 +73,5 @@ Birds occupy diverse niches: canopy/insectivores, understory/frugivores, forest 
 - **Phylogeny of Neoaves:** Relationships among the ~40 neoavian orders remain contentious despite genomic-scale data; rapid radiation creates short internodes and incomplete lineage sorting.
 - **Inbreeding avoidance mechanisms:** Relative roles of dispersal, extra-pair mating, and kin recognition across species; demographic constraints on extra-pair mating as inbreeding avoidance.
 - **Conservation prioritization:** Balancing habitat protection, invasive species control (especially cats), climate adaptation, and disease management for 1,200+ threatened species.
+
+Source: adapted from "Bird" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bird

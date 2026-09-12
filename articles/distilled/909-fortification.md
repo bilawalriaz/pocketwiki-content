@@ -52,3 +52,5 @@ Today, large-scale static fortifications are largely obsolete. Field fortificati
 - The effectiveness of traditional fortifications in colonial warfare is questioned, as small garrisons could hold out against indigenous forces but were vulnerable to coordinated modern attacks.
 - The strategic value of permanent fortifications in the nuclear age is widely debated, given their vulnerability to overwhelming firepower.
 - Whether the Maginot Line was strategically successful is disputed—it failed to prevent German invasion but succeeded in forcing Germany to attack through Belgium.
+
+Source: adapted from "Fortification" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fortification

@@ -70,3 +70,5 @@ Concepts supporting systematic or investigative thought are often called "tools"
 - There is considerable discussion about the definition of what constitutes a tool and which animal behaviours qualify as true tool use
 - Whether protective gear items (gloves, safety glasses, biohazard suits) should be considered tools is debated, since they protect rather than directly perform work
 - The full extent of wild tool use in primates remains poorly documented, as many are observed only distantly or briefly in natural environments
+
+Source: adapted from "Tool" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tool

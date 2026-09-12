@@ -45,3 +45,5 @@ The high, remote peaks are relatively undamaged, and much is protected in reserv
 - The exact age of the San rock art is difficult to determine due to the materials used; while the oldest paintings are about 2,400 years old, paint chips suggest human presence over a thousand years earlier.
 - The origin of the Afrikaans name "Drakensberg" ("Dragons' Mountains") is unknown, as is the reason for its selection by early Dutch settlers.
 - The precise status of Tugela Falls as the world's highest waterfall is debated, with Venezuela's Angel Falls also being a candidate.
+
+Source: adapted from "Drakensberg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Drakensberg

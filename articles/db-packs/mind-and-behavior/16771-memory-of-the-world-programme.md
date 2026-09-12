@@ -17,3 +17,5 @@ Established in 2004 with South Korea, the biannual US$30,000 Jikji Prize recogni
 UNESCO's concern for film loss led to the 1980 Recommendation for the Safeguarding and Preservation of Moving Images, which documented that by the mid-1990s more than three-quarters of the earliest film production had been lost. Three periods of large-scale loss are linked to the destruction of early cinema, the silent-to-sound transition, and the shift from nitrate to acetate stock. This produced the programme's first list, *Memory of the World: National Cinematic Heritage* (1995), a survey of representative films from 50 countries.
 
 The programme is not without controversy. In the 2015 cycle, inscription became contested in East Asia, where states viewed registry as implicit approval of disputed historical narratives, particularly regarding the Nanjing Massacre and "comfort women."
+
+Source: adapted from "Memory of the World Programme" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Memory_of_the_World_Programme

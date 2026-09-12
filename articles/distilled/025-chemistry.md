@@ -88,3 +88,5 @@ Pure chemistry studies fundamental principles; applied chemistry uses that knowl
 ## Debates and open questions
 
 The source notes that the definition of chemistry has changed repeatedly over time, from Boyle's "material principles of mixed bodies" (1661) to Chang's "study of matter and the changes it undergoes" (1998), indicating ongoing evolution of the field's scope. The etymology of the word chemistry is debated: *al-kīmīā* may derive from the Ancient Greek *χημία* (from Kemet, the ancient Egyptian name) or from *χημεία* meaning "cast together." Additionally, the distinction between organic and inorganic chemistry is noted as "not absolute," with much overlap, particularly in organometallic chemistry—an area of active interdisciplinary negotiation.
+
+Source: adapted from "Chemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemistry

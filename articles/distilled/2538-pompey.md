@@ -49,3 +49,5 @@ Pompey, though backed by the Senate and superior numbers, was outmaneuvered by C
 *   **The Triumvirate's Nature**: Historians question whether the First Triumvirate was a formal, binding agreement or a series of ad-hoc political deals based on mutual self-interest.
 *   **Responsibility for Civil War**: The extent to which Pompey's political miscalculations and alliance with the *optimates* provoked Caesar's invasion, versus Caesar's own ambition, is a central point of contention.
 *   **Generalship**: While praised as a superb strategist and organizer, Pompey's tactical caution and reluctance to risk open battle, especially against Caesar, are frequently criticized by ancient and modern sources.
+
+Source: adapted from "Pompey" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pompey

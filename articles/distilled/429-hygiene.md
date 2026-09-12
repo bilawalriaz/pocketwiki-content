@@ -110,3 +110,5 @@ First attested in English 1676. From French *hygiène*, Latinization of Greek *h
 - **Sleep Hygiene Efficacy:** As of 2014, evidence for the effectiveness of individual sleep hygiene recommendations is "limited and inconclusive," though clinicians still use assessment-based recommendations.
 - **Antibiotic Resistance and Domestic Hygiene:** Healthy community carriers of resistant strains (MRSA, ESBL/NDM-1 enterobacteria) spread "silently"; laundry effectiveness may define community spread rates, but quantitative domestic transmission data is lacking.
 - **Cultural Relativism vs. Universal Standards:** Hygiene practices vary culturally (e.g., anal cleansing methods, bathing frequency, contact avoidance), raising questions about universal guidelines versus context-specific adaptation, especially in global health (WASH) programs.
+
+Source: adapted from "Hygiene" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hygiene

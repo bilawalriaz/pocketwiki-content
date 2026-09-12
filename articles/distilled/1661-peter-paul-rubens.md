@@ -67,3 +67,5 @@ Rubens’s female nudes—soft-bodied, passive, highly sexualized—embody ferti
 - **Gender and the gaze**: Feminist art historians argue Rubens’s female nudes construct the "male gaze" for aristocratic patrons; others emphasize the continuity with Classical and Renaissance ideals of feminine beauty and fertility.
 - **Caravaggio’s influence**: The extent and duration of Caravaggio’s impact on Rubens’s chiaroscuro and naturalism—versus his enduring Venetian colourism—remains a focus of stylistic analysis.
 - **Lost works reconstruction**: Major losses (e.g., *Crucifixion* for Santa Croce, Whitehall ceiling sketches, works destroyed in the 1731 Coudenberg Palace fire, 1945 Friedrichshain flak tower fire) create gaps in understanding his full oeuvre and diplomatic iconography.
+
+Source: adapted from "Peter Paul Rubens" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peter_Paul_Rubens

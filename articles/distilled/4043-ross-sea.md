@@ -40,3 +40,5 @@ The nutrient-rich waters support a highly diverse ecosystem, including at least 
 - **MPA Effectiveness:** The 35-year sunset provision in the Ross Sea MPA is controversial, as conservation groups argue it undermines the goal of permanent protection.
 - **Fishery Impacts:** There is debate over the sustainability of the Antarctic toothfish fishery, with reports of population declines in some areas conflicting with its sustainability certification.
 - **Geopolitical Authority:** Past failures to establish the MPA highlighted disputes over CCAMLR's authority and the geopolitical interests of member nations like Russia and China.
+
+Source: adapted from "Ross Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ross_Sea

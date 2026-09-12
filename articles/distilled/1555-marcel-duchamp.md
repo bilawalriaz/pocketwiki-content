@@ -74,3 +74,5 @@ Duchamp’s influence lay dormant until the late 1950s, when Rauschenberg, Johns
 - **Fountain’s authorship**: Some scholars (e.g., Irene Gammel) argue Baroness Elsa von Freytag-Loringhoven conceived or contributed to *Fountain*; the source text notes the *Bicycle Wheel* idea came from her, but attributes *Fountain* to Duchamp.
 - **Rrose Sélavy’s inspiration**: The pseudonym may reference Belle da Costa Greene, but this remains speculative; Desnos’s aphorisms independently developed the persona.
 - **The Large Glass’s "Unfinished" status**: Declared unfinished in 1923, yet the crack repair and *Green Box* notes imply a deliberate open-endedness; scholars debate whether it is a ruin, a completed system, or a perpetual generator of interpretations.
+
+Source: adapted from "Marcel Duchamp" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marcel_Duchamp

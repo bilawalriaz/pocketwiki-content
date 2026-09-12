@@ -36,3 +36,5 @@ Advances in technology have been central to contemporary classical music. The de
 
 ## Debates and Open Questions
 The source notes a debate over the definition of **polystylism**, with some authors equating it with eclecticism and others making a sharp distinction. The very definition and boundaries of "contemporary classical music" are fluid, as the field continually absorbs new influences and technologies, leading to ongoing discussions about its scope and future direction.
+
+Source: adapted from "Contemporary classical music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Contemporary_classical_music

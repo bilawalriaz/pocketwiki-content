@@ -56,3 +56,5 @@ Christianity's center shifted to the Global South, particularly sub-Saharan Afri
 - The role of the Crusades is contested: were they primarily religious, or also driven by political, economic, and social factors?
 - The Reformation's impact on European wars of religion is debated, with emphasis on religious liberty versus state-building and economics.
 - The future demographic shift to the Global South raises questions about theological and cultural transformations within the faith.
+
+Source: adapted from "History of Christianity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Christianity

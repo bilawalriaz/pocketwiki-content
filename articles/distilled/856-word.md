@@ -43,3 +43,5 @@ Words belong to grammatical categories based on shared properties. The universal
 
 ## Debates and Open Questions
 The fundamental definition of "word" remains contested across linguistic traditions. Key debates include whether inflected and compounded forms belong to single lexemes, particularly in agglutinative languages. The universality of grammatical categories is questioned, with some languages showing noun-verb fluidity. Orthographic influence on word perception varies dramatically across writing systems. The relationship between phonological, morphological, and syntactic words differs cross-linguistically, with no convergence on unified criteria. Some linguists advocate abandoning the term "word" entirely in favor of more precisely defined concepts like morphemes.
+
+Source: adapted from "Word" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Word

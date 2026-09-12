@@ -50,3 +50,5 @@ The Turkish Grand National Assembly declared itself the legitimate government in
 - Historicity of the Trojan War is uncertain.
 - Huns' ethnic origin is debated (Turkic vs. Mongolic).
 - Extent of gender equality achieved by Atatürk's reforms is analyzed.
+
+Source: adapted from "History of Turkey" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Turkey

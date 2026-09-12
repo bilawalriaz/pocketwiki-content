@@ -49,3 +49,5 @@ Modern conservation biology matured in the mid-20th century. Its ethic is managi
 Citizen-science platforms such as iNaturalist and eBird now supply nearly half of the occurrence records feeding the Global Biodiversity Information Facility.
 
 Internationally, the 1992 UN Convention on Biological Diversity (CBD) grants nations sovereign rights over their biological resources and commits them to conserve, use sustainably, and share benefits. The 2023 UN High Seas Treaty (BBNJ) extends this to marine areas beyond national jurisdiction. The European Union's 2020 Biodiversity Strategy targets 30% protected area, 3 billion trees planted, 50% pesticide reduction, and 25% organic farming by 2030.
+
+Source: adapted from "Biodiversity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biodiversity

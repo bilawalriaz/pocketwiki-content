@@ -43,3 +43,5 @@ The Pali language, used in Theravada Buddhist texts, is identified with Magadhi 
 - **Chronology**: There is significant uncertainty about the exact dates of Magadhan rulers. Scholars debate between a "Long Chronology" and a "Short Chronology," which is linked to the uncertain lifespans of the Buddha and Mahavira.
 - **Kikata Identification**: Whether the Kikata tribe mentioned in the Rigveda are the forefathers of the Magadhas is debated. Some scholars identify them, while others argue the Rigvedic description places the Kikatas far to the west of Magadha.
 - **Cultural Distinctiveness**: The extent and nature of the distinct "Greater Magadha" culture, as proposed by scholars like Johannes Bronkhorst, and its fundamental differences from Vedic culture, remains a subject of scholarly discussion.
+
+Source: adapted from "Magadha" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Magadha

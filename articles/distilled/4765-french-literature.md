@@ -38,3 +38,5 @@ France holds the record for Nobel Prizes in Literature, with fifteen winners as 
 
 ## Debates and Open Questions
 The source text notes that the European prominence of French literature was "eclipsed in part" by Italian literature in the 14th century, suggesting a scholarly debate about the precise timing and nature of this shift in literary dominance. Additionally, the definition of "French literature" itself is a point of discussion, as it can include works by citizens of other nations writing in French (Francophone literature) and by people living in France who speak traditional languages other than French.
+
+Source: adapted from "French literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_literature

@@ -44,3 +44,5 @@ Ibn Saud secured his frontiers through diplomacy and limited conflict, such as t
 - The source notes Ibn Saud's "highly ambivalent opinion of the Jews," where he expressed both antisemitic tropes and, in some instances, considered non-Zionist Jews as "good friends of the Arabs."
 - His views on women's education are presented as encouraging, based on a conversation where he stated, "It is permissible for women to read."
 - The succession was a point of tension; Ibn Saud favored his son Faisal's capabilities but kept Saud as crown prince for stability, leading to rivalry between the brothers.
+
+Source: adapted from "Ibn Saud" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ibn_Saud

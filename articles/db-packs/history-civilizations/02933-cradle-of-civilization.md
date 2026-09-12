@@ -33,3 +33,5 @@ The Olmec civilisation, often called the "mother culture" of Mesoamerica, took s
 ## Open questions
 
 The cradles share a core pattern: agriculture produces a surplus, the surplus supports non-farmers, and non-farmers build states, cities, and scripts. The multi-regional model is dominant, but the balance of independent invention versus cultural diffusion between early societies is still argued. The exact role of climate, the Sahara drying, monsoon shifts, and the drying of Andean rivers, in both the rise and fall of civilisations is still being measured. Whether the Olmec truly seeded later Mesoamerican cultures, whether Caral–Supe leaned more on the sea than the farm, and whether the Erlitou culture is the Xia dynasty, are open questions.
+
+Source: adapted from "Cradle of civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cradle_of_civilization

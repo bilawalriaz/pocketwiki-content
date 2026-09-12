@@ -45,3 +45,5 @@ Reconstruction followed the war, and in 1948, the national government seat moved
 - The exact etymology of "Manila" is debated, with competing theories favoring "may nilà" (indigo) or "may nilad" (a mangrove plant).
 - The demographic composition of historical Manila is complex, with studies showing varying estimates of European, Chinese, and mixed ancestry in the population.
 - The future of Manila Bay is a subject of concern, with debates over the environmental and social impacts of large-scale reclamation projects versus the need for urban development and flood protection.
+
+Source: adapted from "Manila" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Manila

@@ -49,3 +49,5 @@ Amsterdam's cultural life is anchored by world-class museums like the Rijksmuseu
 - The exact date of Amsterdam's founding dam is historically estimated between 1264 and 1275, but not precisely known.
 - The original intentions behind the 17th-century canal layout are speculated by historians to have been practical and defensive rather than ornamental, as the original plans are lost.
 - The city faces ongoing challenges balancing its appeal to tourists with the livability and affordability for its residents, a situation compared to Venice.
+
+Source: adapted from "Amsterdam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amsterdam

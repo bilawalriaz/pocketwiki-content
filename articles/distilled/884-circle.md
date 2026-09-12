@@ -57,3 +57,5 @@ In Cartesian coordinates, a circle with centre (a, b) and radius r satisfies (x�
 - **Squaring the circle**: Proven impossible due to π’s transcendence, yet persists among pseudomath enthusiasts.
 - **Generalised circles**: Whether a locus is a true circle or a line depends on context (e.g., Apollonius condition with midpoint yields a line).
 - **Higher-dimensional analogs**: Extension of circle properties to spheres and hyperspheres remains active in topology and geometry.
+
+Source: adapted from "Circle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Circle

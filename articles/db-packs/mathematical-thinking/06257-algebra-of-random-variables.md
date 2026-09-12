@@ -50,3 +50,5 @@ For a normal variable $X\sim N(\mu,\sigma^2)$, the standard normal $Z\sim N(0,1)
 ## Complex random variables and the algebraic view
 
 In an algebraic axiomatization of probability, the primitive object is the random variable rather than the event. Probabilities are recovered by assigning an expectation to each variable, subject to four axioms: $E[k]=k$ for constants, $E[X^*X]\ge 0$, linearity $E[X+Y]=E[X]+E[Y]$, and homogeneity $E[kX]=kE[X]$. Random variables with commutativity and a conjugation operation $X\mapsto X^*$ (satisfying $(XY)^*=Y^*X^*$ and $X^{**}=X$) form a complex commutative $*$-algebra; a variable with $X=X^*$ is called "real." Relaxing commutativity leads to noncommutative probability, which underpins quantum probability, random matrix theory, and free probability.
+
+Source: adapted from "Algebra of random variables" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algebra_of_random_variables

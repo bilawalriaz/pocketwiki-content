@@ -48,3 +48,5 @@ Observations of rectification, photoconductivity, and thermoelectricity in the 1
 
 ## Debates and Open Questions  
 The extent to which early researchers like Jagadish Chandra Bose anticipated p–n junction physics remains debated. The role of trace impurities in early inconsistent experimental results highlighted the need for ultra-pure materials, spurring advances in refining techniques. Whether amorphous semiconductors can match crystalline performance in mainstream applications is still under investigation.
+
+Source: adapted from "Semiconductor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Semiconductor

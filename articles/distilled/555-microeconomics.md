@@ -51,3 +51,5 @@ Market structure varies by number of firms, product differentiation, entry barri
 *   **Market Failure Remedies:** The optimal policy response to externalities/public goods—direct government provision, Pigouvian taxes/subsidies, regulation, or creating "missing markets" (Coase theorem)—remains contested, especially regarding transaction costs and government failure.
 *   **Behavioral Validity:** The standard assumptions of rationality, transitive preferences, and exponential discounting are challenged by behavioral economics (e.g., hyperbolic discounting, reference dependence), raising questions about the positive vs. normative scope of micro theory.
 *   **Information and Complexity:** How to model the costs of acquiring/processing information (rational inattention) and the stability of equilibria when agents have heterogeneous beliefs or learning dynamics.
+
+Source: adapted from "Microeconomics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Microeconomics

@@ -48,3 +48,5 @@ Wuhan is a critical national transportation hub. The Wuhan Yangtze River Bridge 
 - The exact origin of the SARS-CoV-2 virus and the role of the Huanan Seafood Wholesale Market remain subjects of international scientific investigation and debate.
 - The historical significance and legacy of the 1927 Wuhan Nationalist Government and its split with the Communists is a complex period in modern Chinese history.
 - The effectiveness and long-term impact of the strict COVID-19 lockdown in Wuhan continue to be analyzed.
+
+Source: adapted from "Wuhan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wuhan

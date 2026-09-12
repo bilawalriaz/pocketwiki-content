@@ -43,3 +43,5 @@ The economy relies on subsistence farming, fishing, and significant financial as
 
 ## Debates and Open Questions
 The source notes a historical curiosity: some remote islands like Kapingamarangi were not specifically named in the 1899 German-Spanish treaty, a fact unnoticed until the late 1940s. While Spain acknowledged this in 1949, it has made no modern claims. The FSM's heavy dependence on U.S. aid is cited as a major concern for its long-term economic growth.
+
+Source: adapted from "Federated States of Micronesia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Federated_States_of_Micronesia

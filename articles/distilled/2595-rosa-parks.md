@@ -40,3 +40,5 @@ After the boycott, Parks faced financial ruin and health problems. She moved to 
 
 ## Debates and Open Questions
 Scholars debate the popular narrative of Parks as a quiet, accidental heroine. Biographer Jeanne Theoharis argues this portrayal obscures her lifelong radical activism and political philosophy, calling it a "gendered caricature." Others, like sociologist Barry Schwartz, note that while Parks became the celebrated symbol, earlier protesters like Claudette Colvin and Aurelia Browder played equally important roles. Colvin herself expressed mixed feelings, feeling both glad an adult had stood up and abandoned by the community that did not support her own earlier arrest. The historiography also examines how Parks's image has been used in political discourse, sometimes to reinforce conservative narratives of American history by isolating her act as a singular, legally-focused moment of courage.
+
+Source: adapted from "Rosa Parks" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rosa_Parks

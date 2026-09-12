@@ -44,3 +44,5 @@ Charles IV's reign is remembered as the Golden Age of Bohemia. He rebuilt Prague
 - The image of Charles as a wise, pious, and peace-loving king was partly constructed by Charles himself and remains influential, though its accuracy is debated.
 - His legacy is contentious in some aspects, particularly regarding his dynastic ambitions and the centralizing efforts that met resistance from Bohemian estates.
 - His policy in Italy, which involved virtually abandoning imperial rights there, was criticized by contemporaries like Petrarch but may have been a pragmatic choice to secure the imperial title.
+
+Source: adapted from "Charles IV, Holy Roman Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_IV%2C_Holy_Roman_Emperor

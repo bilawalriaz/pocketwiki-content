@@ -40,3 +40,5 @@ After abdicating, Juan Carlos faced multiple investigations into alleged financi
 - **Role in the 1981 coup**: While Juan Carlos publicly opposed the coup, some theories question his full knowledge of the plot beforehand and whether his actions were purely democratic conviction or a reaction to the coup's failure.
 - **Motives for the transition**: Scholars debate the extent to which Juan Carlos's push for democracy was a long-held personal conviction versus a pragmatic response to political pressures and the unsustainability of the Francoist system.
 - **Legacy**: His historical reputation is contested, balancing his crucial role in establishing Spanish democracy against the damage caused by later corruption scandals and his departure from the country.
+
+Source: adapted from "Juan Carlos I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Juan_Carlos_I

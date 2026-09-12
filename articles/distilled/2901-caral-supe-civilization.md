@@ -39,3 +39,5 @@ The civilization completely lacked ceramics and visual arts like sculpture. Howe
 - **Coastal vs. Inland Primacy**: Scholars dispute whether coastal sites like Aspero developed first and influenced inland sites, or if inland centers like Caral were dominant from the start. Radiocarbon dating suggests contemporaneous development, but the relationship remains contested.
 - **Political Organization**: The exact nature of its government is unclear. While economic and ideological power bases are suggested, the absence of evidence for warfare or physical coercion challenges standard models of state formation.
 - **Credit and Attribution**: The discovery and naming of the civilization have been the subject of a significant academic dispute, particularly between Peruvian archaeologist Ruth Shady and American researchers Jonathan Haas and Winifred Creamer, involving allegations of plagiarism and insufficient credit.
+
+Source: adapted from "Caral–Supe civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caral%E2%80%93Supe_civilization

@@ -47,3 +47,5 @@ The city is predominantly Kurdish, with minorities of Turkmen, Assyrians, Arabs,
 - The claim that Erbil is the "oldest continuously inhabited town in the world" is noted but is a subject of ongoing scholarly discussion.
 - The exact nature and extent of the city's population shifts, particularly the conversion from ancient Mesopotamian religion to Christianity and later to Islam, involve complex historical processes.
 - The demographic impact and integration of large numbers of refugees and IDPs in the modern city present ongoing social and economic challenges.
+
+Source: adapted from "Erbil" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Erbil

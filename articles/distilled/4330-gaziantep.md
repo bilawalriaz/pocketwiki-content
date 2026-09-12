@@ -46,3 +46,5 @@ The city's modern layout was significantly shaped by the 1938 Jansen Plan, which
 *   **Origin of the Name:** The etymology of "Antep" is debated. Theories include derivation from the Arabic/Aramaic *aīn* (spring) and *tab* (praise), or from Aramaic *Ayin dab* (spring of the wolf).
 *   **Economic Records:** The apparent economic growth in Gaziantep in the 1530s, as indicated by Ottoman tax records, may partly reflect more accurate tax assessment or deliberate Ottoman policy of lowering taxes in newly conquered areas before raising them later, rather than purely organic growth.
 *   **Legacy of the 1921 Resistance:** Academic Ümit Kurt argues that the Turkish resistance against the French occupation was also driven by local elites seeking to retain wealth confiscated from Armenians during the genocide, and to prevent Armenian repatriation, thereby shaping the city's post-war demographic and political landscape.
+
+Source: adapted from "Gaziantep" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gaziantep

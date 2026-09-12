@@ -55,3 +55,5 @@ Objection to the state is central to anarchism; many consider it illegitimate re
 ## Debates and open questions
 
 Scholars debate the definition of anarchism itself, as various currents perceive it differently. The compatibility of capitalism, nationalism, and religion with anarchism is widely disputed. Whether anarchism can succeed is questioned by Marxist critics, who argue it is utopian, cannot win, and lacks the ability to implement its ideas. Critics also argue anarchism defies biological inclination to authority and that humans cannot self-govern without a state. Anarchists counter that authority can be challenged without losing its advantages, and that state negatives outweigh benefits. Within anarchism, there is disagreement over violence versus nonviolence, and over whether contemporary individualism in sexual-identity critique drops the cause of social liberation.
+
+Source: adapted from "Anarchism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anarchism

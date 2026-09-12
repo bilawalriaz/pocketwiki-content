@@ -46,3 +46,5 @@ The dome has exhibited cracks since its construction, likely due to its immense 
 *   **Original Façade Appearance:** The exact design of the original medieval façade, dismantled in 1587, is debated, with knowledge based only on later drawings.
 *   **Cause of Cracking:** While the primary cause is identified as the dome's dead weight, the precise contribution of historical earthquakes, thermal cycles, and material fatigue remains a subject of ongoing study.
 *   **Impact of Modern Interventions:** The 1980s decision to fill 48 historical scaffolding holes with concrete was initially theorized to have worsened cracking, but later analysis concluded it had no significant impact on the dome's expansion and contraction.
+
+Source: adapted from "Florence Cathedral" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Florence_Cathedral

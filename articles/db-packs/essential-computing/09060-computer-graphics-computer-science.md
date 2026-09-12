@@ -36,3 +36,5 @@ During the late 1960s and 1970s, research groups such as the University of Utah 
 ## Tools of the trade
 
 By category, common software reflects the same divisions. Bitmap and image editing tools include Adobe Photoshop, Corel Photo-Paint, GIMP, and Krita. Vector drawing tools include Adobe Illustrator, CorelDRAW, Inkscape, Affinity Designer, and Sketch. Architecture tools include AutoCAD, FreeCAD, VariCAD, QCAD, LibreCAD, DataCAD, and Corel Designer. Video editing tools include Adobe Premiere Pro, Sony Vegas, Final Cut, DaVinci Resolve, Cinelerra, and VirtualDub. Sculpting, animation, and 3D modeling tools include Blender 3D, Wings 3D, ZBrush, Sculptris, SolidWorks, Rhino3D, SketchUp, 3ds Max, Cinema 4D, Maya, and Houdini. Digital composition tools include Nuke, Blackmagic Fusion, Adobe After Effects, and Natron. Renderers include V-Ray, RedShift, RenderMan, Octane Render, and Mantra.
+
+Source: adapted from "Computer graphics (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer_graphics_%28computer_science%29

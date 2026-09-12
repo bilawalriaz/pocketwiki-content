@@ -38,3 +38,5 @@ EDP rests on claims drawn from Bjorklund, Blasi, and Ellis's chapter in *The Han
 **Cooperation and prosociality.** Michael Tomasello argues that cooperation and prosociality are evolved human traits, citing helping behavior in 18- to 24-month-old infants. Studies comparing preschool children with both human-raised and semi-free-ranging chimpanzees find that children consistently display greater prosociality.
 
 **Life history strategies.** A life-history strategy is a chain of resource-allocation trade-offs, including how much effort goes into growth versus reproduction. Biologists have long described between-species variation along a fast–slow continuum, and EDP researchers apply the same framework within species, treating early environmental inputs as key shapers of where an individual falls on that continuum.
+
+Source: adapted from "Evolutionary developmental psychology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Evolutionary_developmental_psychology

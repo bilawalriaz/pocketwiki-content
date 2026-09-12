@@ -53,3 +53,5 @@ Chivalry's ideals persisted into modernity, influencing military codes, gentlema
 - **Origins and Timing**: While the code is dated to 1170–1220, its roots in earlier "courtly" conduct and the precise factors leading to its emergence (e.g., the crisis of courtliness, the lifestyle of Henry the Young King) are analyzed by historians like David Crouch.
 - **Social Impact**: Richard Kaeuper contends that chivalry was a problematic guide for knights, who played an ambivalent role in public order, and that its ideals were often contradictory and did not lead to a more peaceful society.
 - **Modern Interpretation**: The term's meaning continues to evolve, with sociological uses noting gender biases in protective instincts, and historical analyses questioning the singular narrative of "the" chivalric code.
+
+Source: adapted from "Chivalry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chivalry

@@ -57,3 +57,5 @@ Gender roles have shifted significantly, especially in the 20th and 21st centuri
 ## Debates and Open Questions
 
 Several contentious issues surround the definition and treatment of women. The inclusion of transgender women in spaces designated for women, such as sports and shelters, generates ongoing debate about fairness and safety. Medical interventions for intersex individuals, particularly non-consensual procedures in infancy, are increasingly criticized by human rights advocates. Disagreements persist over the balance between religious freedom and women's rights, especially regarding reproductive autonomy and dress codes. The extent to which gender roles are biologically determined versus socially constructed remains a subject of scholarly discussion. Additionally, the global variation in women's rights—from suffrage to reproductive freedom—reflects ongoing tensions between tradition, law, and modernity.
+
+Source: adapted from "Woman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Woman

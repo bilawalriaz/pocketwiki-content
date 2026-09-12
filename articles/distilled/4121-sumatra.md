@@ -44,3 +44,5 @@ Sumatra hosts exceptional biodiversity, including 17 endemic plant genera and un
 
 ## Debates and Open questions
 The source notes that the mention of *Suwarnadwipa* in the Hindu epic *Ramayana* is debated among scholars as a possible reference to Sumatra.
+
+Source: adapted from "Sumatra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sumatra

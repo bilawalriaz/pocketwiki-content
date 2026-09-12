@@ -86,3 +86,5 @@ Living organisms use molecules with the same chirality: amino acids are left-han
 - Whether the RNA world was the first self-replicating system or whether other self-replicating and self-catalyzing molecules preceded RNA.
 - The PAH world hypothesis remains untested.
 - The transition from non-life to life has not been observed experimentally; a functional protocell exhibiting Darwinian evolution has not yet been achieved in a laboratory setting.
+
+Source: adapted from "Abiogenesis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abiogenesis

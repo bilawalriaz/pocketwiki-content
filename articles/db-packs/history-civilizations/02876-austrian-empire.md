@@ -23,3 +23,5 @@ From 1852 to 1859, Minister Alexander von Bach imposed neo-absolutism: a central
 ## Defeat and the Compromise of 1867
 
 The decisive blow came in 1866, when Prussia defeated Austria in the Austro-Prussian War, expelled it from German affairs, and dissolved the German Confederation. With the army spent and the German sphere lost, Hungary's demand for constitutional parity became impossible to refuse. The Austro-Hungarian Compromise of 1867 transformed the Austrian Empire into the dual monarchy of Austria-Hungary, in which the Empire of Austria and the Kingdom of Hungary shared a single monarch, foreign policy, and defence budget but kept separate parliaments, governments, and legal systems as constitutionally equal partners.
+
+Source: adapted from "Austrian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Austrian_Empire

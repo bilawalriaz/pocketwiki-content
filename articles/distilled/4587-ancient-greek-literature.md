@@ -52,3 +52,5 @@ Greek scientific writing included Euclid's *Elements*, Archimedes' mathematical 
 - **Homeric Question**: The authorship and composition of the *Iliad* and *Odyssey*—whether they were the work of a single poet (Homer) or compiled from older oral traditions.
 - **Authorship of specific tragedies**: The authorship of *Prometheus Bound* (traditionally Aeschylus) and *Rhesus* (traditionally Euripides) is questioned.
 - **Survival of texts**: The vast majority of ancient Greek literature is lost. The survival of works is heavily skewed by papyrus finds, with Homer dominating the record.
+
+Source: adapted from "Ancient Greek literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Greek_literature

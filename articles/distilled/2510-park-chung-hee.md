@@ -48,3 +48,5 @@ On October 26, 1979, Park was assassinated by KCIA Director Kim Jae-gyu during a
 *   **Nature of the Assassination:** It remains unclear whether Kim Jae-gyu's act was spontaneous to prevent bloodshed or part of a pre-arranged coup.
 *   **Park's Personal Corruption:** While his regime fostered systemic corruption through its ties to *chaebols*, Park himself was often depicted as not personally corrupt, though a half-million dollars was found in his safe after his death.
 *   **Historical Collaboration:** Park's early career in the Japanese-sponsored Manchukuo army and his admiration for Japanese militarism lead critics to label him a pro-Japanese collaborator, a contentious issue in Korean historical memory.
+
+Source: adapted from "Park Chung Hee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Park_Chung_Hee

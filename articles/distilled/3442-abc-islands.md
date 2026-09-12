@@ -38,3 +38,5 @@ The islands have a unique ecology with cactus scrub, flamingos, and sea turtles.
 
 ## Debates and Open Questions
 The source notes that the first European explorer is disputed, with letters of Amerigo Vespucci claiming Alonso de Ojeda landed in 1499, but Vespucci's own exploration is also cited. The political and economic implications of the islands' special status within the EU and the Kingdom of the Netherlands continue to evolve.
+
+Source: adapted from "ABC islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/ABC_islands

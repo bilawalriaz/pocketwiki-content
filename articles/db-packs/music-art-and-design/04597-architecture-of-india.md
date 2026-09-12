@@ -29,3 +29,5 @@ British rule introduced Neoclassical and Gothic Revival, which merged with India
 ## Open questions
 
 The origins of the true arch in India remain debated: its use in Hindu temples is rare, but pre-Islamic examples at the Mahabodhi Temple and Bhitargaon suggest an indigenous tradition. Scholars also disagree on whether the **chaitya** arch form came from Lycian rock-cut tombs through Persia or evolved locally from wooden prototypes. The **Vesara** style is classified by some as a distinct hybrid and by others as a regional branch of Dravidian architecture.
+
+Source: adapted from "Architecture of India" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Architecture_of_India

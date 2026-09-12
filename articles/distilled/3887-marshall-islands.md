@@ -50,3 +50,5 @@ The country consists of 29 atolls and five islands with a total land area of onl
 - There is an ongoing territorial dispute over Wake Island, which the Marshall Islands claims based on oral legends but which has been administered by the U.S. since 1899.
 - The ability of the Marshall Islands to enforce its large shark sanctuary has been questioned.
 - The long-term health and environmental impacts of U.S. nuclear testing remain a significant issue, with compensation from the Nuclear Claims Tribunal unpaid.
+
+Source: adapted from "Marshall Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marshall_Islands

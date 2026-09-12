@@ -51,3 +51,5 @@ Dresden is a major cultural center with the Dresden State Art Collections, the S
 - The February 1945 bombing of Dresden remains controversial. While the Allies described it as a legitimate military operation, researchers have argued the attacks were disproportionate and primarily killed civilians.
 - The construction of the Waldschlösschen Bridge led to the revocation of the Dresden Elbe Valley's UNESCO World Heritage status in 2009, a decision contested by the city.
 - The sale of the city's publicly subsidized housing organization to a US investment firm in 2006 sparked debate over the loss of public control over the housing market.
+
+Source: adapted from "Dresden" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dresden

@@ -36,3 +36,5 @@ The 2011 Church experiment stored a 659 kilobase book by mapping two bases to ea
 A 2021 Newcastle University study implemented a last-in, first-out stack data structure in DNA using strand displacement, showing that operations such as push and pop are possible in the molecular realm.
 
 The bottleneck for routine use is no longer the encoding theory but the chemistry of synthesis and sequencing, which still costs orders of magnitude too much and runs too slowly to replace disk or tape outside of long-term archives.
+
+Source: adapted from "DNA digital data storage" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/DNA_digital_data_storage

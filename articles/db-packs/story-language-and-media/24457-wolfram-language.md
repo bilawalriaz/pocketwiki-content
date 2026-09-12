@@ -58,3 +58,5 @@ Mathematica is the reference implementation and is closed source. Wolfram Resear
 Third-party open-source reimplementations include Richard Fateman's MockMMA (1991, the earliest, and the target of a cease-and-desist), Mathics (Python/SymPy), Symja (Java), and expreduce (Go). They cover the core language and its computer algebra system but not the curated Wolfram knowledge base.
 
 In 2019 Wolfram Research released the freeware Wolfram Engine as a programming library for non-commercial software, requiring signup and online license activation; the Wolfram Kernel for Jupyter lets users drive it from Jupyter notebooks via ZMQ instead of the text-only CLI.
+
+Source: adapted from "Wolfram Language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wolfram_Language

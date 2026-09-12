@@ -30,3 +30,5 @@ The same word can mean very different things across borders. A "city" in Austral
 ## Key trade-offs and constraints
 
 Local governments everywhere face the same tensions. They are closest to constituents yet usually have the least revenue, depending on national transfers for a large share of spending. Their formal powers may be wide on paper yet narrow in practice if higher levels appoint key officials, set binding laws, or audit budgets. Bangladesh illustrates one extreme: there are no directly elected officials at the divisional or district level, only at the union and ward level, while in South Africa municipalities can set far-reaching local bylaws but still operate under provincial and national law.
+
+Source: adapted from "Local government" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Local_government

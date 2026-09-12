@@ -48,3 +48,5 @@ Mencius’s synthesis of Confucian ethics with a theory of innate goodness becam
 - **Regicide vs. tyrannicide:** Whether Mencius’s statement on King Zhou of Shang constitutes a general right of rebellion or a narrow, retrospective judgment on a unique historical tyrant remains a major interpretive dispute in Confucian political theory.
 - **Mencius’s authorship and textual layers:** The *Mencius* comprises long dialogues likely compiled by disciples; the extent to which specific arguments reflect the historical Mencius versus later Warring States or Han editors is unresolved in the source.
 - **Jesuit reception and mistranslation:** The early modern European dismissal of the *Mencius* as "Buddhist/Taoist contamination" and the specific mistranslation regarding celibacy raise questions about how cross-cultural hermeneutics shaped the Western understanding of Confucianism for centuries.
+
+Source: adapted from "Mencius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mencius

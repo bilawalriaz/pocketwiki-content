@@ -58,3 +58,5 @@ The workforce is highly educated but lacks diversity. A significant portion of s
 - The geographic definition of Silicon Valley is debated, with a narrow view focusing on Santa Clara and San Mateo Counties and a broader metonymical view encompassing the entire Bay Area's tech sector.
 - The causes of persistent gender and racial disparities in the tech industry are debated, with factors cited ranging from educational pipelines and lack of role models to workplace culture and bias.
 - The long-term impact of the 2023 collapse of Silicon Valley Bank on the startup ecosystem is a subject of ongoing analysis.
+
+Source: adapted from "Silicon Valley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Silicon_Valley

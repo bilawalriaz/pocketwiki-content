@@ -43,3 +43,5 @@ The city is served by Minangkabau International Airport, which replaced the form
 
 ## Debates and Open Questions
 The source notes that the development of the Ombilin coal field with Padang as its outlet port from 1950 was seen by some observers as reflecting the "economic and political colonisation of Indonesia," suggesting a debate about the legacy of colonial-era infrastructure.
+
+Source: adapted from "Padang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Padang

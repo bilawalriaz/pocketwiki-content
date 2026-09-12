@@ -41,3 +41,5 @@ Gran Colombia was the first Spanish American republic recognized by the United S
 - **Succession of Treaties:** A key diplomatic debate is whether the dissolution of Gran Colombia voided its international treaties (as Peru argued) or whether its successor states inherited those obligations.
 - **Bolívar's Vision:** The failure of Gran Colombia is often cited as the collapse of Simón Bolívar's dream of a unified Spanish American state, raising questions about whether such unity was ever politically viable given regional identities and interests.
 - **Reunification:** Periodic proposals for political reunification, such as one announced by Venezuelan President Hugo Chávez in 2008, continue to be a topic of discussion among "unionistas."
+
+Source: adapted from "Gran Colombia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gran_Colombia

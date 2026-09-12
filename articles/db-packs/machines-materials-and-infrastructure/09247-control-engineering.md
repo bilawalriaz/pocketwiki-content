@@ -27,3 +27,5 @@ Design has evolved from manual calculation to computer-aided design and then to 
 Control engineering is taught mainly within electrical and mechanical engineering, but also appears in mechatronics, aerospace, chemical (where it is called *process control*), and computer science programs. A typical curriculum starts with linear control in the time and frequency domains, then covers digital control and nonlinear control. Dedicated departments exist at institutions such as the University of Sheffield and the United States Naval Academy.
 
 In industry, most control engineering work is embedded in roles like systems design, process engineering, instrumentation, or product development, and applies wherever a system can be modeled dynamically: aerospace, manufacturing, automotive, power, chemical, petroleum, and government.
+
+Source: adapted from "Control engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Control_engineering

@@ -46,3 +46,5 @@ A persistent issue is resource adequacy. Energy-only markets cap offer prices be
 ## Outcomes of deregulation
 
 The record is mixed. Schmalensee finds plausible evidence that restructuring lowered wholesale prices in the US and UK, while MacKay and Mercadal, analyzing 1994–2016, find that deregulated utilities charged higher prices because vertically separated firms extracted profit margins twice. Major failures including the 2001 California electricity crisis and the Enron collapse slowed reforms in some regions, and the 2022 European gas crisis renewed debate over decoupling power prices from natural gas.
+
+Source: adapted from "Electricity market" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electricity_market

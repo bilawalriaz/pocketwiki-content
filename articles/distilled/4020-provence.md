@@ -43,3 +43,5 @@ The historical language is Provençal, a dialect of Occitan, which saw a literar
 
 ## Debates and Open Questions
 The source notes that the earliest Christian legends in Provence are "difficult to verify." It also highlights the ongoing struggle for residents to "reconcile economic development and population growth with their desire to preserve the region's unique landscape and culture."
+
+Source: adapted from "Provence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Provence

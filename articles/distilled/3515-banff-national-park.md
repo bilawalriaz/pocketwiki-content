@@ -50,3 +50,5 @@ Banff is one of North America's most visited national parks, with over three mil
 - **Wildlife Management Efficacy**: Questions persist about the success of strategies like elk population control and the reintroduction of bison, and whether they adequately restore natural predator-prey dynamics.
 - **Climate Change Impact**: The accelerating retreat of glaciers threatens future water supplies and alters the park's landscape and ecosystems.
 - **Indigenous Rights and History**: The park's history includes the displacement of First Nations, and there is a growing movement to reassert their cultural presence and rights within the park.
+
+Source: adapted from "Banff National Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Banff_National_Park

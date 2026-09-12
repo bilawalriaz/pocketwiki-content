@@ -40,3 +40,5 @@ Monge's 1781 memoir on earthworks (*déblais et remblais*) established the theor
 
 ## Debates and Open Questions
 The source notes that Monge's method for *défilement* was initially not accepted because it was too fast, though its value was later recognized. It also states that his results on the production of water by hydrogen combustion had been anticipated by Henry Cavendish, indicating a priority dispute. The exact authorship of the liquefaction work with Clouet is uncertain, as the source lists three possible first names for Clouet.
+
+Source: adapted from "Gaspard Monge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gaspard_Monge

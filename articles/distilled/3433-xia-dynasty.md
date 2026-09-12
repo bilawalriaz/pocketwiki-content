@@ -39,3 +39,5 @@ In 1959, archaeologist Xu Xusheng discovered the Erlitou site, a large Bronze Ag
 - **Archaeological Identification**: Is the Erlitou culture definitively the Xia? The identification is contested due to the absence of inscriptions at Erlitou explicitly naming the Xia.
 - **Chronology**: What are the accurate dates for the Xia? Proposed ranges vary significantly based on different textual interpretations and scientific dating methods.
 - **Cultural Transition**: Is there a clear archaeological transition from the preceding Longshan culture to the Erlitou culture that corresponds to the rise of the Xia state?
+
+Source: adapted from "Xia dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Xia_dynasty

@@ -34,3 +34,5 @@ The jury found Socrates guilty by a narrow margin. When asked to propose a penal
 *   **Historical Reliability**: Scholars debate how accurately Plato's dialogue represents the actual trial and Socrates' words, given it was written after the events and is a literary work.
 *   **Socrates' Guilt**: Philosophers and historians continue to argue whether Socrates was justly convicted under Athenian law or was a martyr for free inquiry.
 *   **The Role of Rhetoric**: The text is interpreted both as a critique of manipulative oratory and as an implicit model for a more ethical, truth-seeking form of rhetoric.
+
+Source: adapted from "Apology (Plato)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Apology_%28Plato%29

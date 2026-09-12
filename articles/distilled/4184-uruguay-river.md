@@ -35,3 +35,5 @@ A major dispute arose between Argentina and Uruguay over the construction of cel
 
 ## Debates and Open Questions
 The source highlights a key scholarly and diplomatic debate: the environmental impact of the pulp mills. Argentina and local protesters claimed the plants would pollute the river, while Uruguay and the subsequent ICJ ruling concluded the mills did not deposit a significant amount of toxins. This disagreement over scientific evidence and treaty obligations was central to the conflict.
+
+Source: adapted from "Uruguay River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Uruguay_River

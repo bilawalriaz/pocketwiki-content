@@ -19,3 +19,5 @@ A **programmable thermostat** stores a schedule of mode, time, and temperature s
 ## Computer programs
 
 A **computer program** (software) is a list of instructions executed by a computer, programmable calculator, or programmable logic controller. The processor fetches each instruction and alters the machine's state according to the instruction's predefined meaning.
+
+Source: adapted from "Program (machine)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Program_%28machine%29

@@ -44,3 +44,5 @@ In her later years, Elizabeth's public engagements reduced due to mobility issue
 *   **Political Influence:** The extent of Elizabeth's private political influence and opinions remains a subject of speculation, as she maintained strict public neutrality. Reports of her views on issues like apartheid South Africa or Scottish independence are based on second-hand accounts.
 *   **Monarchy's Future:** Her death sparked renewed debate about the future of the monarchy in the Commonwealth realms, with some nations considering becoming republics.
 *   **Media and Privacy:** The tension between the royal family's right to privacy and intense public and media interest, which peaked during the 1990s and after Diana's death, remains an ongoing issue for the institution.
+
+Source: adapted from "Elizabeth II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Elizabeth_II

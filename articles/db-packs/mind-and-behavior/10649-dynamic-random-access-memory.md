@@ -31,3 +31,5 @@ The 1T1C cell was invented in 1966 by Robert Dennard at IBM, who realised that t
 ## Variants
 
 The asynchronous DRAM interface dominated until roughly 1997, when SDRAM took over. Successive DDR generations multiplied bandwidth, while specialised variants appeared for graphics: VRAM and WRAM added a second port for simultaneous read/write, SGRAM added block-write commands, and the GDDR family (now up to GDDR7) trades latency for raw bandwidth on GPUs. High-bandwidth memory (HBM) stacks multiple DRAM dies vertically to feed GPUs and accelerators. Pseudostatic RAM (PSRAM) and embedded DRAM (eDRAM) integrate refresh and control logic onto the chip, trading some density for ease of use in microcontrollers and game consoles. Error-correcting (ECC) DRAM adds parity and Hamming-code bits so that single-bit soft errors, mostly from cosmic-ray neutrons, can be detected and corrected.
+
+Source: adapted from "Dynamic random-access memory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dynamic_random-access_memory

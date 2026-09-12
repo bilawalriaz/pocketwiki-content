@@ -95,3 +95,5 @@ Outer space has long been an imagined realm; the space age added material realit
 - **Lunar/resource governance:** Artemis Accords (US-led) vs. Moon Treaty (unratified) reflect competing frameworks for property rights and resource use on celestial bodies.
 - **Bow shock existence:** 2012 data showed the Sun lacks a bow shock, contradicting decades of models; the heliosphere/ISM interaction structure is still refined.
 - **Interstellar travel feasibility:** Energy, propulsion, and life-support requirements for crewed missions to even the nearest stars remain theoretical.
+
+Source: adapted from "Outer space" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Outer_space

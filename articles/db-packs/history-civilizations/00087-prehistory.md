@@ -37,3 +37,5 @@ The Iron Age arrives where ironworking does. Iron requires more heat than copper
 ## Mental model to keep
 
 Prehistory is a category defined by an absence, the lack of writing, bounded at one end by the first stone tools and at the other by the uneven arrival of literacy. The three-age system organises the long stretch between those bookends by the dominant tool material, with most of that stretch being stone, and with agriculture, metallurgy, and writing arriving in a compressed sequence toward the end. Because the boundaries depend on a technology that spread across millennia, every date in prehistory is regional and provisional, and the same person can stand at the start of written history in one culture and deep in protohistory in another.
+
+Source: adapted from "Prehistory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prehistory

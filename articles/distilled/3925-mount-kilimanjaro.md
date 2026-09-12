@@ -41,3 +41,5 @@ As one of the Seven Summits, Kilimanjaro is a major trekking destination with se
 - The origin and meaning of the name "Kilimanjaro" is disputed, with multiple etymologies proposed from Chagga and Swahili languages.
 - The exact age of Kilimanjaro's glaciers is debated; ice core data suggests some may be around 11,700 years old, while other analysis indicates an age of only 800 years.
 - The primary cause of the glaciers' recent shrinkage is debated, with evidence pointing more to decreased specific humidity than to direct temperature increases.
+
+Source: adapted from "Mount Kilimanjaro" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Kilimanjaro

@@ -47,3 +47,5 @@ Piłsudski died in 1935, leaving a power vacuum. His cult of personality endured
 - **Military Strategy:** His Battle of Warsaw plan is praised as genius or criticized as lucky. Credit relative to other commanders and advisors is debated.
 - **Foreign Policy Foresight:** Non-aggression pacts with Germany and the USSR are seen as pragmatic diplomacy or a miscalculation underestimating Hitler.
 - **Legacy of the Coup:** The May Coup's long-term impact on Poland's political development and WWII preparedness remains analyzed.
+
+Source: adapted from "Józef Piłsudski" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski

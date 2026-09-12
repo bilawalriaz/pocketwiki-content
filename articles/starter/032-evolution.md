@@ -3,3 +3,5 @@
 *Change in the heritable traits of populations.*
 
 Evolution is the change in the heritable characteristics of biological populations over successive generations. It occurs when evolutionary processes such as genetic drift and natural selection act on genetic variation, resulting in certain characteristics becoming more or less common within a population over successive generations. The process of evolution has given rise to biodiversity at every level of biological organisation.
+
+Source: adapted from "Evolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Evolution

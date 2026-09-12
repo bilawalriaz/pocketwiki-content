@@ -41,3 +41,5 @@ Initially controversial, *The Prince* was banned by the Catholic Church in 1559.
 
 ## Debates and Open Questions
 Scholars debate whether Machiavelli’s works are internally consistent or contradictory. Some argue *The Prince* and *Discourses* reflect opposing views—tyranny versus republicanism—while others propose a synthesized intent. The extent of his atheism or religious skepticism remains contested. Additionally, interpretations vary on whether his advice was meant for tyrants or general rulers, and whether his writings were ironic or earnest. His legacy as a "teacher of evil" persists, though many modern scholars emphasize his contribution to empirical political analysis and republican theory.
+
+Source: adapted from "Niccolò Machiavelli" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli

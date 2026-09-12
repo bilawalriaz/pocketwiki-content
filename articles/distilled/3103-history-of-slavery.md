@@ -49,3 +49,5 @@ Slavery persists in the 21st century through human trafficking, forced labor, an
 - **African agency in the trade**: Scholars discuss the extent to which African elites were active participants versus victims of the trade, and how the trade altered pre-existing African slavery systems.
 - **Causes of abolition**: Was the end of slavery driven primarily by moral and humanitarian concerns, or by economic shifts that made it less profitable?
 - **Global prevalence today**: The exact scale and nature of modern slavery are debated, with estimates varying and new forms like cyber-slavery emerging.
+
+Source: adapted from "History of slavery" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_slavery

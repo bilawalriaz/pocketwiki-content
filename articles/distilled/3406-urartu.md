@@ -47,3 +47,5 @@ The elite used the Urartian language, an ergative-absolutive language of the Hur
 - **Relationship to Armenians**: The exact nature of the continuity between the Urartian kingdom and the later Armenian people is debated, with theories ranging from direct descent to cultural and genetic absorption.
 - **Cause of final collapse**: Historians disagree on whether Urartu was destroyed by the Medes in 590 BC or survived until conquered by Cyrus the Great in the mid-6th century BC.
 - **Ethnic composition**: The Urartian ruling class may have been a small elite governing a diverse population, with kings possibly from various ethnic backgrounds.
+
+Source: adapted from "Urartu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Urartu

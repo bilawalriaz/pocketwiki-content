@@ -42,3 +42,5 @@ Harmony perception involves tonal fusion (pitches heard as a single tone), rough
 - The extent to which Western harmony theory applies to non-Western music (e.g., Indian raga, which emphasizes melody over vertical harmony).
 - The historical narrative that counterpoint was "replaced" by harmony around 1600, versus the view that both evolved together.
 - How familiarity and cultural context influence the perception of consonance and dissonance over time.
+
+Source: adapted from "Harmony" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harmony

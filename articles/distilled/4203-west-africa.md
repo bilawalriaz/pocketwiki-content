@@ -44,3 +44,5 @@ Ghana was the first to gain independence in 1957, with full regional autonomy ac
 - The exact timeline and nature of the transition from hunter-gatherer societies to agricultural communities in West Africa are subjects of ongoing archaeological research.
 - The precise origins and development dates of cultural elements like Nsibidi script and the "Venus of Thiaroye" statuette are debated, with estimates ranging from 5000 BCE to 2000 BCE.
 - The historical impact of the Atlantic slave trade versus later colonial exploitation on the region's long-term economic development is a complex scholarly discussion.
+
+Source: adapted from "West Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/West_Africa

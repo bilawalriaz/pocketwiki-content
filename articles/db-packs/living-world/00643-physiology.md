@@ -27,3 +27,5 @@ Women were initially excluded from the founding physiological societies. The Ame
 ## Current debates
 
 The field's visibility has fallen since the 19th century because it spawned the now-separate disciplines of neuroscience, endocrinology, and immunology. Whether physiology is "dead or alive" as a named discipline is therefore an open question, even as integrative work continues and the Nobel Prize in Physiology or Medicine is still awarded for discoveries rooted in its traditions.
+
+Source: adapted from "Physiology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Physiology

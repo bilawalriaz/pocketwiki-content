@@ -40,3 +40,5 @@ GIS is used for scientific research and resource management across human and nat
 
 ## Debates and Open Questions
 The source notes ongoing scholarly scrutiny of the social and political implications of GIS, including its potential for misuse to distort reality. It also highlights debates around data quality, accuracy, and the propagation of uncertainty through analysis. The rise of web mapping has sparked discussion about the reliability of crowdsourced geographic data and the erosion of cartographic standards in public-facing maps.
+
+Source: adapted from "Geographic information system" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geographic_information_system

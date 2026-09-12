@@ -46,3 +46,5 @@ The 1907 Anglo-Russian Convention formally ended the Great Game. The empires, no
 - **Reality vs. Legend**: Some scholars, like Gerald Morgan and Malcolm Yapp, argue the "Great Game" was a later legend and that British policy in India was primarily about internal control, not countering Russia.
 - **Russian Intentions**: Debate continues over whether Russia ever seriously planned to invade India or used the threat as a bargaining chip in European diplomacy.
 - **Impact on Partition**: Some research suggests the Great Game influenced the 1947 partition of India, as Britain sought to create a friendly state (Pakistan) to counter Soviet influence.
+
+Source: adapted from "Great Game" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Game

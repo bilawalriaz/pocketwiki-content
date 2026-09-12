@@ -37,3 +37,5 @@ Amin's foreign policy shifted from pro-Western to being backed by Libya, the Sov
 - The exact death toll of Amin's regime is unknown, with estimates ranging from 80,000 to 500,000.
 - The circumstances of the 1978 invasion of Tanzania are debated: some sources state Amin ordered it to distract from domestic problems, while others suggest he lost control of his army and sanctioned it retroactively.
 - Amin's legacy in Uganda is complex; while internationally condemned as a brutal dictator, some Ugandans, particularly in his home region, have viewed him as a patriot who challenged colonial and foreign influence.
+
+Source: adapted from "Idi Amin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Idi_Amin

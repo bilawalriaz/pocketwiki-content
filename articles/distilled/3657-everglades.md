@@ -44,3 +44,5 @@ By the 1970s, degradation was severe, prompting conservation efforts. UNESCO and
 - **Sugar Industry vs. Restoration**: The future of sugarcane farming in the EAA remains contentious, as it is a major economic driver but also a primary source of phosphorus pollution.
 - **Climate Change Adaptation**: How to restore the ecosystem while accounting for sea-level rise, increased hurricane intensity, and changing rainfall patterns is a major ongoing challenge.
 - **Invasive Species Control**: The effectiveness and cost of managing pervasive invasives like pythons, melaleuca, and Brazilian pepper is a continuous struggle.
+
+Source: adapted from "Everglades" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Everglades

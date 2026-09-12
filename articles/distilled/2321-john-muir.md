@@ -45,3 +45,5 @@ In 1880, Muir married Louisa Strentzel and managed her family's large fruit ranc
 - **Muir's Racial Views**: Muir's legacy is complicated by derogatory comments about Native Americans and African Americans in his early writings, though his views reportedly evolved later in life. The Sierra Club has acknowledged this "complex and controversial legacy" and its impact on people of color.
 - **Preservation vs. Conservation**: The fundamental debate between Muir's preservationism and Pinchot's conservationism over the proper human relationship with wilderness remains a central tension in environmental policy.
 - **Impact of Native Americans**: Muir saw wilderness as pristine and free from human influence, not recognizing that landscapes he loved had been shaped by Native American practices like controlled burns for millennia.
+
+Source: adapted from "John Muir" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Muir

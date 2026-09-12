@@ -42,3 +42,5 @@ Vasubandhu contributed to Buddhist logic with works like *Vādavidhi* (Rules for
 - **Two Vasubandhus Theory**: A now largely discredited 20th-century theory proposed by Erich Frauwallner that two different authors named Vasubandhu wrote the Abhidharma and Yogacara texts. Scholarly consensus now favors a single author whose thought evolved.
 - **Interpretation of Consciousness-Only**: Scholars debate whether Vasubandhu's philosophy is a form of phenomenology, epistemological idealism, or transcendental idealism similar to Kant's.
 - **Attribution of Works**: The authorship of some texts, like the *Trisvabhāvanirdeśa* (Exposition on the Three Natures), is questioned by some scholars.
+
+Source: adapted from "Vasubandhu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vasubandhu

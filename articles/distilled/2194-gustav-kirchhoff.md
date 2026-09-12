@@ -44,3 +44,5 @@ Kirchhoff also contributed to mathematics, proving the matrix tree theorem in gr
 
 ## Debates and Open questions
 The source notes that Kirchhoff's laws of spectroscopy described the *pattern* of spectral lines but did not explain their physical origin. The existence of discrete spectral lines was known from Fraunhofer (1814), and their mathematical pattern was described by Johann Balmer in 1885. The explanation of lines as electron transitions came with the Bohr model in 1913, which helped lead to quantum mechanics.
+
+Source: adapted from "Gustav Kirchhoff" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gustav_Kirchhoff

@@ -51,3 +51,5 @@ As Allied forces advanced in 1944-45, the SS evacuated camps in "death marches" 
 - The exact number of subcamps is debated, with estimates ranging from 186 at the end of 1939 to over 1,100 cumulatively by 1945.
 - The precise death toll is uncertain; estimates for registered prisoners who died range from nearly 1 million to at least 1.1 million, with the total including immediate gassing victims reaching over 2 million.
 - The extent of German public knowledge and complicity remains a subject of historical analysis.
+
+Source: adapted from "Nazi concentration camps" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nazi_concentration_camps

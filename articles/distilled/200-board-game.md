@@ -68,3 +68,5 @@ Early taxonomies: H. J. R. Murray (1952) — race, war, hunt, alignment/configur
 - **Research gap**: Extensive literature on classic games (*chess*, *Go*); comparatively little on modern hobby games (*Catan*, *Agricola*, *Pandemic*).
 - **Theme vs. mechanics**: Debate over whether licensed themes mask poor design (Parlett/Edwards criticism) or legitimately broaden appeal.
 - **Digital vs. physical**: Unlicensed asset use on VTTs raises IP questions; impact of digital play on physical sales is unresolved.
+
+Source: adapted from "Board game" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Board_game

@@ -51,3 +51,5 @@ Minsk is a major transport hub with a high-density public transport system, incl
 - The exact founding date of Minsk is debated; while 1067 is widely accepted, city authorities consider 3 March 1067 the exact date.
 - The origin of the city's name is unknown, with theories linking it to a river name or a word for "barter."
 - The use of the Belarusian form "Менск" (Miensk) versus the official "Мінск" (Minsk) is a point of linguistic and political identity, with some viewing the latter as a result of Russification.
+
+Source: adapted from "Minsk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Minsk

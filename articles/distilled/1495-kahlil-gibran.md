@@ -67,3 +67,5 @@ Gibran advocated Syrian independence from Ottoman rule, writing "Pity the Nation
 - **Rihani–Gibran rift:** Ameen Rihani was an early mentor/role model; unexplained enmity arose after May 1912, noted by Haskell and Youssef Howayek.
 - **Literary classification:** Western critics long neglected Gibran, debating whether his English works fit Western traditions or constitute a distinct Arab-American hybrid form.
 - **Political nationalism:** Scholars debate whether Gibran’s nationalism was specifically Syrian, Lebanese, or Pan-Arab; a draft play suggests a distinct "Syrian nationalism" coexisting with internationalism.
+
+Source: adapted from "Kahlil Gibran" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kahlil_Gibran

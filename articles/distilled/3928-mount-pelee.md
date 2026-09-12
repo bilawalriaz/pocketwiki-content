@@ -40,3 +40,5 @@ The volcano hosts endemic species like the Martinique volcano frog (*Allobates c
 
 ## Debates and Open Questions
 The source does not present formal scholarly debates, but it highlights ongoing scientific uncertainty regarding the volcano's future. Key open questions include whether the increased seismicity observed since 2019 indicates the start of a new eruptive period, and the precise timing and nature of any future activity. The volcano's history of long dormancy followed by violent eruption necessitates constant vigilance.
+
+Source: adapted from "Mount Pelée" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Pel%C3%A9e

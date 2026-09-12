@@ -46,3 +46,5 @@ Early 20th-century scholars interpreted paintings as "hunting magic" to ensure p
 - **Purpose:** Theories range from practical hunting magic and shamanic rituals to educational tools or early symbolic communication systems.
 - **Chronology and Style:** The relationship between the age of paintings and their stylistic complexity is debated, as some "advanced" paintings appear older than cruder ones, possibly due to repeated modifications over millennia.
 - **Dating Challenges:** The age of some art, like Australian megafauna depictions, remains uncertain as it relies on estimates of species extinction rather than direct dating.
+
+Source: adapted from "Cave painting" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cave_painting

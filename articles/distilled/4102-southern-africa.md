@@ -47,3 +47,5 @@ Food security is threatened by political instability, drought, poverty, and poor
 
 ## Debates and Open Questions
 The primary debate is the **definition of the region itself**, with no consensus on which countries belong. Scholarly discussions also focus on the **causes of deindustrialization** in countries like Zimbabwe, weighing domestic factors against global economic pressures. The **effectiveness of regional bodies like SADC** in achieving true economic and political integration remains an open question, as does the long-term impact of **climate change** on the region's water resources and food security.
+
+Source: adapted from "Southern Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Southern_Africa

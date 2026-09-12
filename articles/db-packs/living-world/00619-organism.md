@@ -25,3 +25,5 @@ Queller and Strassmann argue that what makes an entity an organism is the balanc
 ## Open questions
 
 The cooperation–conflict metric still needs a way to be measured quantitatively across very different systems, and whether viruses should be reclassified as living remains contested. As engineered chimaeras, cyborgs, and hybrots spread, the distinction between evolved goal-seeking and designed goal-seeking becomes a regulatory and philosophical problem, because both kinds of system correct their own errors and pursue goals.
+
+Source: adapted from "Organism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Organism

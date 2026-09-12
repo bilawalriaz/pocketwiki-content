@@ -47,3 +47,5 @@ Sfumato. Coined by Leonardo; from Italian *sfumare*, "to evaporate." Blending to
 Chiaroscuro. Strong light–dark contrast to model volume, fully exploited in the later Baroque.
 
 Renaissance artists worked across religious commissions, mythological and history painting drawn from Ovid and the *Golden Legend* (1260), and an expanding range of secular portraiture, but the unifying thread was the willingness to use direct observation, classical precedent, and scientific method as the basis for making pictures that looked convincingly like the world they depicted.
+
+Source: adapted from "Renaissance art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Renaissance_art

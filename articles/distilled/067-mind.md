@@ -75,3 +75,5 @@ Epistemology addresses the problem of other minds (how we know others have minds
 ## Debates and open questions
 
 The exact nature of the mind is disputed, including whether the mark of the mental is epistemic access, consciousness, or intentionality. There is no consensus on which non-human animals have minds or whether artificial minds are possible (strong AI is controversial). The hard problem of consciousness—how physical states give rise to subjective experience—remains unsolved. The boundary of the mind is debated: externalism and the extended mind thesis claim the environment is part of mind, while others see it as internal. Whether all mental states are conscious or accessible to consciousness is contested, as is the existence of "deep unconsciousness." The content of norms for mental health is culturally controversial.
+
+Source: adapted from "Mind" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mind

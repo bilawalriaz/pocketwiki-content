@@ -32,3 +32,5 @@ Writing first served commerce: clay tokens and early cuneiform tracked grain, li
 ## Unresolved questions
 
 Several origin debates remain open. Scholars accept four independent inventions, but the degree of "stimulus diffusion," in which the mere idea of writing passed from one culture to another without copying of signs, is still argued for early Mesopotamia and Egypt. The Indus script and Proto-Elamite remain undeciphered, and it is not agreed whether either qualifies as true writing rather than proto-writing.
+
+Source: adapted from "History of writing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_writing

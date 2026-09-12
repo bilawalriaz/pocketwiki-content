@@ -44,3 +44,5 @@ Berzelius advised Gerardus Johannes Mulder on organic analysis and coined the te
 - **Vitalism vs. synthetic chemistry**: Berzelius's advocacy for vitalism was a central scientific debate of his era, ultimately resolved by Wöhler's synthesis of urea and subsequent work.
 - **Electrochemical dualism**: His theory of bonding was influential but proved insufficient to explain all chemical compounds, leading to its eventual replacement by newer theories of chemical bonding.
 - **Prout's hypothesis**: Berzelius's precise atomic weight measurements provided key evidence against the idea that all atomic weights are integer multiples of hydrogen's weight.
+
+Source: adapted from "Jöns Jacob Berzelius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/J%C3%B6ns_Jacob_Berzelius

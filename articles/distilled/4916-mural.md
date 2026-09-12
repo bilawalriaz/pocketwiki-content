@@ -40,3 +40,5 @@ In contemporary design, murals are commissioned for private homes, schools, and 
 
 ## Debates and Open Questions
 The source does not explicitly outline major scholarly debates, but it notes that the artistic merit of politically charged murals, such as Rivera's *Detroit Industry*, has been defended separately from their political content. The role of murals as propaganda versus public art remains an implicit tension.
+
+Source: adapted from "Mural" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mural

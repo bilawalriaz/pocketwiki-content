@@ -46,3 +46,5 @@ Some animals produce sounds or gestures resembling human language, but none exhi
 - **FOXP2 gene**: Its role in speech evolution is noted but not detailed here.
 - **Animal language**: Whether trained apes’ sign use constitutes genuine language or sophisticated imitation.
 - **Neuroplasticity**: How brain circuits for speech adapt dynamically with learning and experience.
+
+Source: adapted from "Speech" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Speech

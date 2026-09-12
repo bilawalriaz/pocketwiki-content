@@ -82,3 +82,5 @@ The scientific community is a network of interacting scientists maintaining qual
 - Whether empiricism or rationalism correctly describes how scientific knowledge is created; Popper's falsificationism versus verification
 - Kuhn's claim that paradigm acceptance or rejection is a social process as much as a logical process, though not relativism
 - The is-ought problem: how scientific evidence and theories can lead to decisions, given that facts alone cannot tell us what we should do
+
+Source: adapted from "Science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Science

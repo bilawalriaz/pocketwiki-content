@@ -42,3 +42,5 @@ The economy is based on agriculture (especially groundnuts), fishing, and touris
 - The precise origin of the name "Gambia" is debated, with possible derivations from Mandinka or Serer languages.
 - The 1996 constitutional reform process, which enabled Yahya Jammeh's long rule, is noted as having been manipulated to benefit him.
 - The long-term success of The Gambia's democratic transition under President Barrow remains uncertain, with challenges including ethnic tensions, restoring public trust, and the need for constitutional reforms like term limits.
+
+Source: adapted from "The Gambia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_Gambia

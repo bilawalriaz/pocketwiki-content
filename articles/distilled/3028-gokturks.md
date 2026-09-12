@@ -42,3 +42,5 @@ The Göktürks practiced a polytheistic religion centered on Tengri, the sky god
 - The exact ethnic origin of the Ashina clan is debated; Chinese sources link them to the Xiongnu, but this may be a literary topos rather than a direct lineage.
 - The meaning of "Kök" in "Göktürk" is uncertain due to limited attestation, with theories ranging from "sky/blue" to "great."
 - The degree of ethnic and linguistic homogeneity within the early Göktürk population is unclear, as their elite adopted non-Turkic titles and the Orkhon inscriptions contain non-Turkic words.
+
+Source: adapted from "Göktürks" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks

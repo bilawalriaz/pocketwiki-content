@@ -54,3 +54,5 @@ The site was excavated extensively in the early 20th century. In the modern era,
 - The interpretation of the name "Babylon" as "gate of the god" is increasingly seen as a later folk etymology for an original name of unknown meaning.
 - The accuracy of classical descriptions, particularly those of Herodotus, is debated, with some viewing them as authentic accounts and others as Greek folklore.
 - The extent of damage caused by the 2003 US military occupation and the long-term impact on the archaeological record remain subjects of concern and study.
+
+Source: adapted from "Babylon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Babylon

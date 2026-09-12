@@ -39,3 +39,5 @@ The first edition was a commercial success, selling out by Christmas Eve and goi
 *   **Secular vs. Christian Allegory:** Scholars debate whether the story is primarily a secular tale of social reform or a Christian allegory about redemption.
 *   **Economic Critique:** Some critics, both contemporary and modern, have questioned the story's economic logic, asking who provides the surplus that enables Scrooge's charity.
 *   **Adaptation vs. Original:** The story has been adapted so frequently that the "remembered version" in popular culture often differs from Dickens's original text, with scenes added or omitted.
+
+Source: adapted from "A Christmas Carol" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/A_Christmas_Carol

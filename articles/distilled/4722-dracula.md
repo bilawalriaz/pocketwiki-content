@@ -45,3 +45,5 @@ Scholars analyze *Dracula* through various lenses. It is frequently read as a st
 *   **Irish Novel?:** Debate exists over whether *Dracula* can be considered an Irish novel, given Stoker's background and potential allegories for Irish politics and famine.
 *   **Sexuality and Gender:** Critics continue to debate the novel's stance on the "New Woman," with some seeing it as a reactionary text and others noting Stoker's ambivalence.
 *   **"Dracula's Guest":** Scholars debate whether the posthumously published short story "Dracula's Guest" was a discarded first chapter of the novel or a separate work.
+
+Source: adapted from "Dracula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dracula

@@ -36,3 +36,5 @@ The St. Lawrence Seaway, a system of locks and canals, was completed in 1959 to 
 
 ## Debates and Open Questions
 The source of the St. Lawrence River is debated; while the North River in Minnesota is considered the hydrological source, the water system changes names frequently as it crosses many lakes. The classification of the St. Lawrence Valley is also physiographically debated: the U.S. considers it part of the Appalachian division, while Canada views it as a distinct St. Lawrence Lowlands division.
+
+Source: adapted from "St. Lawrence River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/St._Lawrence_River

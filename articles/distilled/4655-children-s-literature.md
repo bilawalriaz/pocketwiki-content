@@ -50,3 +50,5 @@ Children's books are critical for language, cognitive, social, and emotional dev
 - To what extent does children's literature construct and perpetuate cultural ideologies about gender, race, and childhood itself?
 - How can the publishing industry improve representation and diversity both in the content of books and among authors and illustrators?
 - What is the appropriate boundary for "children's literature," especially given works like the *Harry Potter* series that appeal to all ages?
+
+Source: adapted from "Children's literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Children%27s_literature

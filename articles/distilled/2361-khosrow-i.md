@@ -50,3 +50,5 @@ A Zoroastrian, Khosrow walked a "fine line" with religious minorities. He mainta
 - The historicity of the story of Khosrow executing the Mazdakite leader Mazdak is uncertain, as it comes from the later *Shahnameh*.
 - The chronological possibility of Khosrow's marriage to a Turkic princess is debated; *Encyclopædia Iranica* states it is "chronologically impossible" given the birth date of his successor.
 - The exact motivations for Khosrow's wars with Byzantium are analyzed by historians; Richard Frye argues they were partly to establish Sasanian dominance over the Silk Road trade.
+
+Source: adapted from "Khosrow I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Khosrow_I

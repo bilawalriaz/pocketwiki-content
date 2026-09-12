@@ -35,3 +35,5 @@ Even the oldest demonstrable family, **Afroasiatic**, is far younger than langua
 The family tree represents languages as splitting cleanly from common ancestors, with no contact between branches after the split. The **wave model** is the main alternative: it uses *isoglosses* (boundaries between linguistic features) to group varieties that can overlap, capturing the fact that neighbouring languages keep influencing each other. *Historical glottometry* is a quantitative version of the wave approach. A third view borrows from microbial evolution, treating linguistic history more like lateral gene transfer than animal speciation, because distantly related languages exchange features across the tree.
 
 Most well-attested languages can still be placed unambiguously in one family or another, even when that family's deeper connections remain unknown.
+
+Source: adapted from "Language family" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Language_family

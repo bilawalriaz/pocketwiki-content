@@ -25,3 +25,5 @@ A worldwide humanitarian response followed, with donations totalling over US$14 
 The lack of an Indian Ocean warning system was a major reason the death toll was so high. The Indian Ocean Tsunami Warning System was formed in early 2005 to fill that gap, and its coverage and effectiveness continue to be evaluated.
 
 Before 2004, scientists thought that giant earthquakes required young, buoyant crust, fast plate convergence, and the absence of back-arc basins (basins formed behind a volcanic arc on the overriding plate). The Sumatra–Andaman event violated all three assumptions, forcing a reassessment of earthquake hazard in similar subduction zones. Sediment records suggest the region last produced a comparable tsunami around A.D. 1300–1450, a recurrence interval of several hundred years.
+
+Source: adapted from "2004 Indian Ocean earthquake and tsunami" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami

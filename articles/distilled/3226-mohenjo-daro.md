@@ -44,3 +44,5 @@ Designated a UNESCO World Heritage Site in 1980, Mohenjo-daro faces severe threa
 - The cause of the city's abandonment is not settled. Theories include catastrophic flooding, gradual environmental degradation from overuse, or a combination of factors.
 - The nature of political or administrative control in Indus cities like Mohenjo-daro remains unclear, despite evidence of standardized layouts and weights.
 - The meaning of the Indus script and the identity of figures on seals (e.g., the Pashupati seal) are unknown.
+
+Source: adapted from "Mohenjo-daro" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mohenjo-daro

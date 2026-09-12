@@ -43,3 +43,5 @@ In 1935, Mustafa Kemal Atatürk secularized the building, turning it into a muse
 - **Architectural Origins**: The exact form of the first two churches on the site is debated, with theories ranging from a U-shaped basilica to a conventional three-aisled plan.
 - **Mosaic Dating**: The precise date of the famous apse mosaic of the Virgin and Child is contested, with scholarly proposals ranging from the late 8th to the 14th century.
 - **UNESCO Status**: Following the 2020 reconversion, UNESCO has expressed "grave concern" and requested conservation reports, questioning whether the change affects the site's "outstanding universal value."
+
+Source: adapted from "Hagia Sophia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hagia_Sophia

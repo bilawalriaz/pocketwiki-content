@@ -45,3 +45,5 @@ Cossack society was heavily militarized and democratic, with leaders (atamans or
 - **Origins**: The ethnic origins of the Cossacks are debated, with theories ranging from purely East Slavic to a hybrid of Slavic, Turkic, and other steppe peoples. Genetic studies show a predominantly East Slavic paternal gene pool for most hosts.
 - **Identity**: There is no consensus on defining modern Cossack identity—whether it is strictly ethnic ("born" Cossacks) or can include initiated members. This affects demographic counts.
 - **Historical Role**: Cossacks are interpreted both as freedom-loving pioneers and as instruments of imperial repression, particularly for their role in suppressing uprisings and pogroms.
+
+Source: adapted from "Cossacks" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cossacks

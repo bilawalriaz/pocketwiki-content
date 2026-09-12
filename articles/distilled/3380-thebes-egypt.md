@@ -51,3 +51,5 @@ The city's ruins span both banks of the Nile. The eastern bank housed the city a
 - The exact etymology of the Greek name "Thebes" is doubtful, as the proposed Demotic Egyptian origin postdates Homer's use of the name.
 - The population estimates for Thebes at its height (e.g., 75,000 in 1500 BC) are scholarly reconstructions.
 - The circumstances surrounding the death of Mentuhotep IV, which ended the 11th Dynasty, are mysterious.
+
+Source: adapted from "Thebes, Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thebes%2C_Egypt

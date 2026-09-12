@@ -49,3 +49,5 @@ Projections for 2100 sea level rise from Greenland range from about 6 cm under o
 - The precise temperature thresholds that will commit the ice sheet to irreversible, large-scale loss.
 - The extent to which increased snowfall from a warmer atmosphere could offset melting losses.
 - The long-term fate of subglacial carbon stores and potential toxic waste from historical military sites like Camp Century.
+
+Source: adapted from "Greenland ice sheet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Greenland_ice_sheet

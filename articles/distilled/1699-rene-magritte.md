@@ -56,3 +56,5 @@ The Magritte Museum opened 30 May 2009 in the Hotel Altenloh, Place Royale, Brus
 - **Forgery as practice**: The Vache-period forgeries (Picasso, Braque, de Chirico, banknotes) blur the line between survival strategy, surrealist provocation, and critique of authenticity—echoing *The Treachery of Images* in life.
 - **Pop art relationship**: Magritte explicitly rejected the pop art label ("their error"), yet his deadpan graphic syntax is foundational to Warhol, Ruscha, and Johns. The tension between his claimed "permanent" poetic reality and pop’s "transitory" commodity culture remains a critical fault line.
 - **Fairground influence**: Allmer’s 2019 argument that panoramas, carousels, and stage magic structure Magritte’s spatial logic is recent; its integration into the mainstream art-historical narrative is ongoing.
+
+Source: adapted from "René Magritte" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte

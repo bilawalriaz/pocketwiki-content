@@ -43,3 +43,5 @@ Since late 2023, Houthi forces in Yemen have attacked commercial and naval vesse
 - The origin of the name "Red Sea" is debated; theories include seasonal blooms of red algae (*Trichodesmium erythraeum*) or a pre-Indo-European linguistic convention where "red" meant "south."
 - The long-term ecological impact of the ongoing Red Sea crisis, including the cumulative effects of oil spills, increased emissions from rerouted ships, and military sonar, is a major concern for scientists and conservationists.
 - The effectiveness of regional environmental governance (like PERSGA) in mitigating damage during active conflict is questioned, highlighting a collapse in conservation capacity.
+
+Source: adapted from "Red Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Red_Sea

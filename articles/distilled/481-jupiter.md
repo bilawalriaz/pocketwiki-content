@@ -76,3 +76,5 @@ Jupiter’s gravity dominates Solar System dynamics. Planetary orbits (except Me
 - **Impact shielding**: Does Jupiter protect or endanger inner planets? Simulations show no net decrease in comet flux; debate continues (Kuiper vs. Oort cloud sources).
 - **Satellite formation**: Did Galilean moons form in a circumplanetary disk (regular) or via capture? Irregular moon groups suggest collisional breakup of captured bodies, but details are unresolved.
 - **Ring age**: Primordial vs. continuously replenished by impacts on inner moons?
+
+Source: adapted from "Jupiter" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jupiter

@@ -43,3 +43,5 @@ Attending a Broadway show is a major tourist activity. The average audience age 
 
 ## Debates and Open Questions
 The article notes ongoing challenges for new musicals in the post-COVID era, with high production costs and a glut of shows competing for audiences. It also highlights the historical tension between commercial Broadway and non-profit or experimental Off-Broadway theatre, and the evolving role of star power from film and television in drawing audiences.
+
+Source: adapted from "Broadway theatre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Broadway_theatre

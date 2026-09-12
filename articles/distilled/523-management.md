@@ -53,3 +53,5 @@ In profitable organizations, management satisfies stakeholders: profit for share
 - **Class and hierarchy:** Historical contrast of "management" vs. "labor"; contemporary debate over workplace democracy vs. command hierarchy.
 - **Fad vs. rigor:** Proliferation of popularized systems (pop psychology) versus scientifically validated theories in late 20th century.
 - **Ethical foundations:** Critiques from business ethics, critical management studies, and anti-corporate activism challenging core assumptions.
+
+Source: adapted from "Management" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Management

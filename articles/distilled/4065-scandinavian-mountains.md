@@ -43,3 +43,5 @@ The landscape has been profoundly shaped by repeated glaciations. Glacial erosio
 - The primary mechanism for the Cenozoic uplift of the Scandinavian Mountains is not settled. Proposed causes include lithospheric folding, isostatic response to erosion, and mantle plume activity.
 - The origin and relationship of the coastal *strandflat* to the uplift of the mountains are points of disagreement among geologists.
 - The exact timing and details of the various uplift phases across the range (e.g., the relative timing in the north vs. south) are still researched.
+
+Source: adapted from "Scandinavian Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scandinavian_Mountains

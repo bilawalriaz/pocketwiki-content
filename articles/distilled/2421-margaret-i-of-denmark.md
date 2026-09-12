@@ -46,3 +46,5 @@ Margaret died suddenly in 1412 while at war with Holstein over Schleswig. Her sa
 *   **Favoritism:** Some Norwegian and Swedish historians criticize her for favoring Denmark and being autocratic, while others note she was generally respected and is celebrated as a unifying figure.
 *   **The Act of Union:** The formal Act of Union resulting from the 1397 Kalmar congress was never completed. Scholars continue to debate the reasons for this omission.
 *   **Cause of Death:** The historical record is silent on her cause of death. Theories include plague, shock, or even poisoning by her successor, Erik.
+
+Source: adapted from "Margaret I of Denmark" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Margaret_I_of_Denmark

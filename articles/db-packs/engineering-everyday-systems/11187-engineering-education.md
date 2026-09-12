@@ -27,3 +27,5 @@ In several countries, working under the title *engineer* without registration is
 ## Work-integrated learning
 
 Classroom study rarely stands alone. Engineering students in the United States typically pursue paid internships over 8–12 weeks in summer, sometimes earning academic credit, and these placements sharpen engineering task self-efficacy and help employers recruit. Cooperative education programmes (*co-ops*) extend this by alternating semesters of full-time work and full-time study; schools such as Northeastern University and Drexel University build co-ops into the degree plan, lengthening the program but strengthening résumés. Service-learning, problem-based learning, and project-based learning are also widely used to bridge academic and professional practice.
+
+Source: adapted from "Engineering education" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Engineering_education

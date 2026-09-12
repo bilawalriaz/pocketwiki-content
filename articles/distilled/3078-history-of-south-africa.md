@@ -45,3 +45,5 @@ Mounting internal resistance, international sanctions, and the end of the Cold W
 *   The **economic legacy of apartheid** remains contested, particularly regarding the extent to which post-1994 neoliberal policies have addressed or exacerbated historical inequalities.
 *   The **effectiveness of the TRC** is debated, with criticism that it prioritized reconciliation over justice and failed to secure meaningful reparations for victims.
 *   The **causes of contemporary challenges** like poverty, corruption, and service delivery failures are attributed variously to the enduring structural legacies of apartheid, post-1994 policy choices, or governance failures.
+
+Source: adapted from "History of South Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_South_Africa

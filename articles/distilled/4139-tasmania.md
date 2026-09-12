@@ -45,3 +45,5 @@ Tasmania has the second-smallest economy of the Australian states. Key sectors i
 - **Genocide Thesis**: Historians debate whether the near-destruction of Tasmania's Aboriginal population constitutes genocide. Some argue colonial authorities intended to destroy the population, while others contend the outcome resulted from frontier warfare and disease without specific intent for total destruction.
 - **Environmental vs. Economic Development**: Ongoing tension exists between conservation efforts (e.g., protecting old-growth forests and the Tarkine) and proposals for economic development through logging, mining, and hydroelectric power.
 - **Political Representation**: There is debate over the size of Tasmania's House of Assembly, with a 2020 committee recommending an increase from 25 to 35 seats to improve democratic representation.
+
+Source: adapted from "Tasmania" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tasmania

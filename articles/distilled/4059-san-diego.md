@@ -50,3 +50,5 @@ San Diego operates under a strong mayor-council government. Politically, the cit
 ## Debates and Open Questions
 - The origins of San Diego's early cultures are debated. Archaeologist Malcolm Rogers hypothesized they were separate from the Kumeyaay, a claim that is disputed and which he later reevaluated.
 - The city's sports teams have historically struggled to win major championships, leading some fans to believe in a "curse" on professional sports in San Diego.
+
+Source: adapted from "San Diego" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/San_Diego

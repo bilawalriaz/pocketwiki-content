@@ -79,3 +79,5 @@ The Cyrus Cylinder (discovered 1879, in the British Museum) is a clay foundation
 *   **Cyrus Cylinder as "Human Rights Charter":** Whether the cylinder represents a unique declaration of universal rights (Shah/UN view) or a standard Mesopotamian royal reform inscription (mainstream historians).
 *   **Jewish Return Historicity:** Whether Cyrus issued a specific decree (Ezra 1) or a general policy; whether the return was a mass event or a slow "trickle" (Grabbe); the authenticity of the biblical text vs. propagandist idiom (Briend/Davies).
 *   **Quranic Identification:** Whether *Dhu al-Qarnayn* refers to Cyrus, Alexander the Great, or a pre-Islamic Arabian king.
+
+Source: adapted from "Cyrus the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cyrus_the_Great

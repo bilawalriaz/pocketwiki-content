@@ -47,3 +47,5 @@ The wars introduced mass conscription and total war, vastly increasing army size
 - **Start Date:** There is no consensus on when the Napoleonic Wars began. Possible dates include Napoleon's coup in 1799, Britain's declaration of war in 1803, or Napoleon's coronation as Emperor in 1804.
 - **Napoleon's Intentions:** Historians debate whether Napoleon sought a stable European peace after 1807 or was driven by an insatiable ambition for conquest. Some argue he could have secured a compromise peace, while others contend his aggressive posture made conflict inevitable.
 - **Role of Ideology:** Scholars debate the primary drivers of the wars' scale and brutality, citing factors like ideological clashes between revolution and absolutism, the rise of nationalism, or broader intellectual shifts in the culture of war during the Enlightenment.
+
+Source: adapted from "Napoleonic Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Napoleonic_Wars

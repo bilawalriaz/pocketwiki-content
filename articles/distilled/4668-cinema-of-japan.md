@@ -47,3 +47,5 @@ Since the 1990s, Japanese cinema has experienced a resurgence, often called a "s
 - The source notes that the "Golden Age" is widely considered the 1950s, but the 1990s and 2000s are also referred to as a "second Golden Age," suggesting ongoing debate about the industry's peak periods.
 - The impact of government censorship, first under SCAP and later through domestic laws like the 1939 Film Law, on artistic expression is a recurring historical theme.
 - The role and recognition of women in Japanese cinema, both as directors and subjects, is highlighted as an important area of study, with a 2009 symposium dedicated to the topic.
+
+Source: adapted from "Cinema of Japan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cinema_of_Japan

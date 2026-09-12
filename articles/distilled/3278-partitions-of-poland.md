@@ -49,3 +49,5 @@ The term "Fourth Partition" is used in historiography to refer to subsequent ann
 - **Economic Motives**: Some scholars emphasize Prussia's goal of controlling Baltic grain trade via Gdańsk and Russia's concern over peasants fleeing to the relatively better conditions in the Commonwealth.
 - **Ethnic and Cultural Claims**: Russian historians stressed annexing "Eastern Slavic" (Ukrainian, Belarusian) lands as a reintegration of historic Kievan Rus', while ignoring the annexation of ethnically Polish and Lithuanian areas.
 - **Impact of Reforms**: More recent studies suggest the last two partitions were a direct reaction to the Commonwealth's strengthening reforms (e.g., Constitution of 3 May 1791), which threatened the neighbors' power.
+
+Source: adapted from "Partitions of Poland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Partitions_of_Poland

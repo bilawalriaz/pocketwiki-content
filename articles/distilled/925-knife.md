@@ -43,3 +43,5 @@ Knives are categorized by function: weapons (daggers, combat knives, switchblade
 
 ## Debates and Open Questions
 The exact timeline of early knife development remains debated, with Oldowan tools representing the earliest evidence but questions about their classification as true knives. The superiority of forging versus stock removal manufacturing methods continues among makers, with forged blades often commanding premium prices despite both methods producing functional knives. Legal restrictions on automatic knives vary significantly by jurisdiction, creating ongoing debates about effectiveness versus civil liberties. The classification of assisted-opening knives versus switchblades remains legally contentious in some regions. Additionally, the optimal steel alloys for specific applications involve trade-offs between hardness, corrosion resistance, and edge retention that manufacturers continue to refine.
+
+Source: adapted from "Knife" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knife

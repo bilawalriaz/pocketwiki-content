@@ -45,3 +45,5 @@ After its 1476 inventory listing, the tapestry survived wars and revolutions. It
 - **The Ælfgyva Scene:** The meaning of the panel showing a cleric and a woman named Ælfgyva is unknown. Speculation links it to a contemporary scandal or a marriage arrangement involving Harold's sister.
 - **Missing Panels:** At least two panels are missing, likely depicting William's coronation. Their absence leaves the narrative incomplete.
 - **Historical Accuracy:** While a Norman apologia, the tapestry's accuracy on specific events (e.g., who crowned Harold) is debated against other contemporary sources.
+
+Source: adapted from "Bayeux Tapestry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bayeux_Tapestry

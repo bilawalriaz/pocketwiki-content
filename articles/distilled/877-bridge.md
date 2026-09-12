@@ -56,3 +56,5 @@ Bridges boost GDP through reduced transport costs and regional connectivity, but
 - **Suicide prevention**: Effectiveness of barriers versus other interventions—do barriers simply displace suicides to other locations?  
 - **Financing models**: Optimal balance between public funding and PPP arrangements—how to ensure value for taxpayers over multi-decade concessions?  
 - **Resilience**: Designing bridges to withstand increasingly severe climate events—should return periods for floods and winds be extended beyond current standards?
+
+Source: adapted from "Bridge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bridge

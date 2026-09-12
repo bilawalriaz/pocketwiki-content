@@ -36,3 +36,5 @@ In his 1738 work on risk measurement, Bernoulli proposed that individuals maximi
 
 ## Debates and Open Questions
 The source notes that Bernoulli's father, Johann, allegedly plagiarized and backdated ideas from Daniel's *Hydrodynamica* in his own work *Hydraulica*, highlighting a family dispute. The text also mentions that Bernoulli's memoir on tides, along with works by Euler and Maclaurin, contained all progress on the subject between Newton and Laplace, suggesting ongoing scholarly assessment of its completeness.
+
+Source: adapted from "Daniel Bernoulli" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Daniel_Bernoulli

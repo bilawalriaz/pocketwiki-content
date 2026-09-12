@@ -46,3 +46,5 @@ Ramanuja reformed the Sri Vaishnava order by challenging caste discrimination. H
 - **Persecution**: The identity and motives of the Chola king who persecuted Ramanuja (Kulothunga II vs. Adhirajendra/Virarajendra) are debated, as is whether the persecution was religious or personal.
 - **Personal Life**: Evidence is uncertain on whether Ramanuja led a married life or was a renunciate monk.
 - **Scriptural Interpretation**: A core scholarly debate is between Ramanuja's method of interpreting the Vedas as a unified corpus versus Shankara's method of identifying a core essence within them.
+
+Source: adapted from "Ramanuja" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ramanuja

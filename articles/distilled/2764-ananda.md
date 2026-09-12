@@ -42,3 +42,5 @@ A key event in Ānanda's life was his role in founding the bhikkhunī order. Whe
 - **Ānanda's Role in the Bhikkhunī Order**: Scholars debate whether the account of Ānanda persuading the Buddha is historical or a later literary device to connect the nun's order to the Buddha. Some argue the order may have been established after the Buddha's death.
 - **Charges Against Ānanda**: The offenses leveled against Ānanda at the council are seen by some scholars as reflecting later sectarian tensions between schools emphasizing monastic discipline versus those emphasizing discourses.
 - **Ānanda's Enlightenment**: The dramatic story of his last-minute enlightenment before the council is viewed with skepticism by some historians as a legendary motif to legitimize his role.
+
+Source: adapted from "Ānanda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C4%80nanda

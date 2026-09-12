@@ -42,3 +42,5 @@ Malthus's ideas were highly influential, read by figures like Thomas Jefferson, 
 - **Relevance in the modern world**: A "strident debate" continues on the applicability of Malthusian theory today, especially regarding global hunger and resource limits.
 - **Flaws in the model**: Critics argue the theory is flawed because it disregards technological advancement (e.g., GMOs), is based narrowly on England's situation, and does not account for social changes affecting family size.
 - **Historical accuracy**: Malthus's failure to foresee the Industrial Revolution, where food production outpaced population growth, is a frequent and major criticism of his theories.
+
+Source: adapted from "Thomas Robert Malthus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Robert_Malthus

@@ -21,3 +21,5 @@ Two forms are common. A combination-type AFCI breaker sits in the panel and prot
 ## Limits and false trips
 
 AFCI sensitivity has a cost. Vacuum cleaners and some laser printers draw current that the breaker can mistake for arcing, and lightning produces similar profiles. AFCIs are also sensitive to radio-frequency energy in the 3–30 MHz band, which includes shortwave broadcasting, amateur radio, and citizens band radio; sensitivities and mitigations have been documented since 2013. An AFCI is built on a standard inverse-time breaker and adds no specific protection against glowing high-resistance connections, sustained overvoltage, or sustained undervoltage. An open neutral on a multiwire 120/240 V branch circuit can push one leg to roughly 240 V without an AFCI noticing, and a relay chattering on low voltage can still arc at its own contacts and start a fire, hazards the device is not designed to catch.
+
+Source: adapted from "Arc-fault circuit interrupter" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arc-fault_circuit_interrupter

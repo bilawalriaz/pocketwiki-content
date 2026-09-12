@@ -52,3 +52,5 @@ Francis saw all creation as reflecting God’s glory, calling animals and elemen
 - **Dietary habits**: Claims that Francis was vegetarian are disputed; early biographies mention he ate meat, including shrimp pie.  
 - **Naked renunciation**: Whether Francis literally stripped naked before the bishop remains debated among historians.  
 - **Orthodox recognition**: Francis is not officially canonized by any Orthodox Church, and some Orthodox theologians criticize hagiographic portrayals as heretical.
+
+Source: adapted from "Francis of Assisi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Francis_of_Assisi

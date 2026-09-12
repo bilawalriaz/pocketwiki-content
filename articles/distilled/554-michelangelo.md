@@ -66,3 +66,5 @@ In old age, Michelangelo carved unfinished *Pietàs* reflecting on mortality. Th
 - **Dome profile**: Whether Michelangelo intended a hemispherical or ovoid dome for St. Peter’s is disputed; della Porta’s steeper execution may alter the structural and visual logic.
 - **Late Pietàs’ meaning**: The *Florentine* and *Rondanini Pietàs* are read variously as penitential self-portraits, theological meditations on the Incarnation, or formal experiments anticipating modern abstraction.
 - **Laurentian Library vestibule dating**: The staircase’s final form (built 1559 by Ammannati from a clay model) may deviate from Michelangelo’s 1520s design, complicating attribution of its Mannerist innovations.
+
+Source: adapted from "Michelangelo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Michelangelo

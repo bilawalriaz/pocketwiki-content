@@ -44,3 +44,5 @@ Lawrence's major work is *Seven Pillars of Wisdom* (1926), a richly detailed, su
 - **The Dera'a Incident**: Lawrence's account of being captured, beaten, and sexually assaulted at Dera'a in 1917 is questioned by some historians. While no independent testimony exists, many biographers find it credible and believe it had profound psychological effects on him.
 - **Sexuality and Masochism**: Lawrence's sexuality is a subject of extensive biographical speculation. He denied personal sexual experience, but evidence of masochism (arranged beatings) is well-established, with theories linking it to childhood experiences or war trauma.
 - **The Aldington Controversy**: Richard Aldington's 1955 biography launched a sustained attack on Lawrence's character, accusing him of chronic lying and Francophobia. While many of Aldington's specific claims have been refuted, the controversy forced a more critical reassessment of the Lawrence legend.
+
+Source: adapted from "T. E. Lawrence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/T._E._Lawrence

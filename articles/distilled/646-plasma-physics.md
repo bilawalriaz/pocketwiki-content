@@ -61,3 +61,5 @@ Plasma behavior exhibits extraordinary complexity due to nonlinear interactions.
 ## Debates and Open Questions
 
 The definition of plasma remains context-dependent: whether a given degree of ionization suffices to classify a substance as plasma depends on the phenomenon under study. The transition from gas to plasma is not a sharp phase transition but a gradual process, making the boundary between partially ionized gas and plasma a matter of interpretation. Additionally, the stability and scalability of advanced plasma technologies, such as MHD converters and impermeable plasmas, remain active areas of research due to instabilities and computational challenges.
+
+Source: adapted from "Plasma (physics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plasma_%28physics%29

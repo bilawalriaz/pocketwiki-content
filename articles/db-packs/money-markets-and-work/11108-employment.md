@@ -45,3 +45,5 @@ Alternatives to formal employment include self-employment (as sole proprietor, i
 ## Globalization
 
 Economist Eddy Lee's 1996 analysis identifies four effects of globalisation on employment: import competition and offshoring shrink manufacturing jobs and suppress wages for unskilled workers in industrialised countries; economic liberalisation in developing countries produces job losses that outstrip new hiring; a global labour market pressures wages and conditions downward in a race to the bottom; and capital mobility weakens the state's ability to regulate. About 70% of workers in industrialised countries now work in services, most of which are non-tradable, pushing demand toward higher skills and reshaping what employment looks like.
+
+Source: adapted from "Employment" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Employment

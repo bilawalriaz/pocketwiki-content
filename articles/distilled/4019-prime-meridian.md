@@ -35,3 +35,5 @@ Prime meridians for other celestial bodies are also arbitrarily defined, often u
 
 ## Debates and Open Questions
 The selection of any prime meridian is fundamentally arbitrary and has been a subject of historical and political debate. At the 1884 conference, the French argued for a neutral line, such as through the Bering Strait. The adoption of the Greenwich meridian was largely due to its practical dominance in maritime navigation. The shift from the historic Greenwich meridian to the IERS Reference Meridian in 1984 reflects an ongoing scientific need for a more precise, Earth-centered coordinate system that accounts for plate tectonics and variations in Earth's rotation.
+
+Source: adapted from "Prime meridian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prime_meridian

@@ -57,3 +57,5 @@ Trees feature prominently in global mythologies—from Yggdrasil in Norse cosmol
 - Uncertainty in global tree counts due to sampling bias toward Europe and North America  
 - Mechanisms behind tree longevity and resistance to disease/pathogens remain under study  
 - Impact of climate change on forest composition and migration patterns is ongoing research
+
+Source: adapted from "Tree" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tree

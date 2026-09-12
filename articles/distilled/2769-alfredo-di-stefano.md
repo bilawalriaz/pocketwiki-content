@@ -45,3 +45,5 @@ Di Stéfano played for Argentina (winning the 1947 Copa América), a non-FIFA sa
 - **The Transfer Dispute**: The exact sequence of events and motivations behind the complex transfer from Millonarios to Real Madrid, bypassing Barcelona, remains a point of historical interest and rivalry between the clubs.
 - **Greatest of All Time Status**: While widely considered one of the greatest, debates persist about his ranking relative to other legends like Pelé, Diego Maradona, and Lionel Messi, often focusing on the different eras and competitive contexts.
 - **World Cup Absence**: His lack of a World Cup appearance is a significant "what if" in his career narrative, as it denies a direct comparison with peers who shone on that stage.
+
+Source: adapted from "Alfredo Di Stéfano" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alfredo_Di_St%C3%A9fano

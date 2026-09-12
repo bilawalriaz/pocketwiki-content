@@ -43,3 +43,5 @@ The population is predominantly mestizo, reflecting a mix of Spanish, Guaraní, 
 
 ## Debates and Open Questions
 The source notes that the history of the area before European arrival is "not well documented" due to the nomadic nature and lack of written language among local tribes. The exact details of early tribal settlements and leadership, such as the reign of the cacique Grigotá, are based on limited Spanish accounts.
+
+Source: adapted from "Santa Cruz de la Sierra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra

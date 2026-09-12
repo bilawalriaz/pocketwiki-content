@@ -47,3 +47,5 @@ Husserl profoundly influenced 20th-century thought through students like Heidegg
 
 ## Debates and Open Questions  
 Scholars debate whether Husserl’s transcendental ego avoids solipsism, particularly in *Cartesian Meditations*, where the ego’s relation to others relies on analogical inference rather than direct access. Another controversy concerns his alleged shift from psychologism to Platonism—some argue it was independent of Frege’s critique, rooted instead in his engagement with Leibniz, Bolzano, and Lotze. Additionally, *The Crisis* raises questions about whether historical context compromises the purity of the phenomenological gaze or enriches it. Finally, the tension between Husserl’s transcendental idealism and Heidegger’s ontological turn remains a central point of contention in interpreting their philosophical legacies.
+
+Source: adapted from "Edmund Husserl" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edmund_Husserl

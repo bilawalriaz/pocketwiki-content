@@ -73,3 +73,5 @@ Roger Dean’s 2013 copyright suit over *Avatar* designs was dismissed in 2014. 
 - **AI in filmmaking:** Cameron opposes AI replacing actors but endorses it for previsualization. The boundary between “beginner” tools and professional displacement remains undefined.
 - **Historical responsibility in *Last Train From Hiroshima*:** Adapting a dual-hibakusha (survivor) narrative raises questions of representation, trauma ethics, and the “uncompromising theatrical epic” framing versus documentary restraint.
 - **Deep-sea safety standards post-*Titan*:** Cameron’s critique of OceanGate highlights a regulatory gap for private deep-submergence vehicles; whether his advocacy leads to binding standards is open.
+
+Source: adapted from "James Cameron" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/James_Cameron

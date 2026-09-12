@@ -40,3 +40,5 @@ The Carpathians are divided into Western, Eastern, and Southern sections, with b
 - The precise etymology of the name "Carpathian" is not clearly established, with competing theories linking it to ancient tribes, words for "rock," or a root meaning "to turn."
 - The exact geological and biological borders between the Western, Eastern, and Southern Carpathians are debated, with different systems placing them along different rivers, towns, or ecological lines.
 - The historical and environmental impact of human activity, particularly deforestation and resource extraction, on the Carpathian ecosystem over centuries is a subject of ongoing research.
+
+Source: adapted from "Carpathian Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carpathian_Mountains

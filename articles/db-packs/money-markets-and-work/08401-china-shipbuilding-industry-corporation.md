@@ -21,3 +21,5 @@ On 26 November 2019, CSIC merged back with CSSC to form a new China State Shipbu
 ## US restrictions
 
 In November 2020, US President Donald Trump issued an executive order prohibiting any American company or individual from owning shares in companies the United States Department of Defense had listed as linked to the People's Liberation Army, a list that included CSIC. In December 2020, the United States Department of Commerce added 25 research institutes affiliated with CSIC to the Bureau of Industry and Security's Entity List, citing their role in territorial disputes in the South China Sea.
+
+Source: adapted from "China Shipbuilding Industry Corporation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/China_Shipbuilding_Industry_Corporation

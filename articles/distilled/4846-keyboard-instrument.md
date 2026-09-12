@@ -37,3 +37,5 @@ The 20th century saw the advent of electromechanical instruments like the Ondes 
 
 ## Debates and Open Questions
 In historical musicology, the term "keyboard" is sometimes used when an instrument's specific identity cannot be firmly established, particularly for 18th-century pieces that could be played on a harpsichord, clavichord, or early piano. This ambiguity reflects the overlapping use and competition between these instruments during that period.
+
+Source: adapted from "Keyboard instrument" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Keyboard_instrument

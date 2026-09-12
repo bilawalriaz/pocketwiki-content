@@ -48,3 +48,5 @@ By the early 18th century, both England and Scotland faced succession crises. Th
 - The precise nature and extent of Alfred the Great's authority over other Anglo-Saxon kingdoms is debated.
 - The conventional dating of dynastic periods (e.g., the start of the Plantagenet era) is a historical simplification rather than a clear-cut break.
 - The motivations behind the Union of 1707 are multifaceted, involving English strategic concerns about succession, Scottish financial incentives, and the removal of English trade sanctions.
+
+Source: adapted from "Kingdom of England" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_England

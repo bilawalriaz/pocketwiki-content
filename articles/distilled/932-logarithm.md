@@ -114,3 +114,5 @@ Modern computers use optimized versions of these methods, including CORDIC algor
 - **Complexity of discrete logarithm**: Whether quantum algorithms (Shor's algorithm) render current cryptographic systems insecure remains an active area of research
 - **Benford's law compliance**: While widely observed, the extent to which real-world datasets follow Benford's distribution and its forensic applications continue to be debated
 - **Convergence of logarithm series**: Optimal methods for high-precision computation balance speed, numerical stability, and implementation complexity
+
+Source: adapted from "Logarithm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Logarithm

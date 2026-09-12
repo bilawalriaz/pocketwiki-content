@@ -46,3 +46,5 @@ The economy is dominated by tourism (about 70% of GDP) and offshore financial se
 *   **Columbus's Landfall:** While it is consensus that Columbus first landed in the Bahamas, the specific island is debated. The traditional site is San Salvador Island (formerly Watling's Island), but an alternative theory based on 1986 calculations suggests Samana Cay.
 *   **Name Etymology:** The origin of the name "Bahamas" is disputed. It is derived from the Lucayan *Bahama* ("large upper middle island"), but a popular folk etymology links it to the Spanish *baja mar* ("shallow sea"), which scholars argue is incorrect. Other theories connect it to *Guanahaní* or *Bimini*.
 *   **Political Future:** There is a growing republican movement in the Bahamas, with recent opinion polls indicating majority support for an elected head of state instead of a monarch.
+
+Source: adapted from "The Bahamas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/The_Bahamas

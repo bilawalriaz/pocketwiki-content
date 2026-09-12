@@ -25,3 +25,5 @@ The source shows a contrived *Hello World* host class that takes two policies: `
 ## The Loki toolkit
 
 Loki is Alexandrescu's accompanying library and doubles as the book's runnable spec. It relies heavily on template metaprogramming and supplies reusable components including **typelist**, **functor**, **singleton**, **smart pointer**, **object factory**, **visitor**, and **multimethods**. Because Loki pushed compilers hard on template conformance, vendors treated it as a benchmark, which raised the baseline of standard-conforming compilers across the industry.
+
+Source: adapted from "Modern C++ Design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Modern_C%2B%2B_Design

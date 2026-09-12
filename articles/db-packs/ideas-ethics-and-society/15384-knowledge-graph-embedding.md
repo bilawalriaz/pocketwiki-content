@@ -42,3 +42,5 @@ Models cluster into three families.
 ## Benchmarks
 
 Link prediction is the standard evaluation, tested on FB15k, WN18, FB15k-237, WN18RR, and YAGO3-10. On FB15k, ComplEx reaches Hits@10 of 0.905 with MR of 34; on the sparser FB15k-237 and WN18RR, the best Hits@10 scores fall to roughly 0.52–0.58, reflecting the difficulty of leakage-resistant splits. These benchmarks have been criticised as far from real-world deployment, motivating newer splits. Open-source libraries such as PyKEEN, AmpliGraph, DGL-KE, Pykg2vec, and OpenKE implement most of these models.
+
+Source: adapted from "Knowledge graph embedding" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knowledge_graph_embedding

@@ -25,3 +25,5 @@ Anonymous sourcing is the classic trade-off: whistleblowers can expose hidden wr
 Generative AI introduces fresh hazards: fabricated text, deepfakes (realistic but fake audio or video), biased training data and opaque "black box" decisions. The Associated Press Stylebook now requires AI-generated material to be clearly labelled. The BBC has published AI-use principles built on transparency, fairness and human oversight, though scholars warn that guidelines can amount to "ethics washing" when enforcement is weak. A 2025 Pressat survey of 2,000 journalists found 80 per cent concerned about bias in AI-generated news.
 
 Algorithmic distribution on Facebook, Google News and publisher apps personalises feeds by engagement metrics, risking filter bubbles that hide opposing views and weaken democratic deliberation.
+
+Source: adapted from "Journalism ethics and standards" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Journalism_ethics_and_standards

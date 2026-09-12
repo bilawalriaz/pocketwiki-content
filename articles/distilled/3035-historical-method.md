@@ -45,3 +45,5 @@ The method evolved from ancient Greek historians like Thucydides to sophisticate
 - Fields like religion, art, and social justice are considered "essentially contested," requiring diverse, field-specific interpretive tools.
 - There is ongoing debate about whether history is a social science (seeking generalizations) or an art (relying on narrative and imagination).
 - Postmodernists challenge the validity of historical study, arguing all history is based on personal interpretation of sources.
+
+Source: adapted from "Historical method" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Historical_method

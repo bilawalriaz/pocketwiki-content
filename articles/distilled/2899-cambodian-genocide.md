@@ -50,3 +50,5 @@ The genocide ended with a Vietnamese invasion in 1978–1979. The subsequent Khm
 - **Role of U.S. Bombing**: Historians debate whether the massive U.S. bombing campaign (1970–1973) was a primary cause of the Khmer Rouge's rise by destabilizing the country and fueling recruitment, or a secondary factor.
 - **China's Responsibility**: China has consistently denied supporting the Khmer Rouge's "wrong policies" and has never apologized for its extensive military and economic aid during the genocide. The full extent of its knowledge and influence remains a point of contention.
 - **Tribunal Limitations**: The ECCC has been criticized for its high cost, slow pace, and limited number of convictions, leaving many perpetrators unaccountable.
+
+Source: adapted from "Cambodian genocide" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cambodian_genocide

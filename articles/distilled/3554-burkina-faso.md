@@ -42,3 +42,5 @@ The population is ethnically diverse, with the Mossi being the largest group. Ov
 - The effectiveness and human rights record of the military junta's campaign against jihadist insurgents are under scrutiny, with reports of mass graves and civilian massacres.
 - The long-term viability of the Alliance of Sahel States (AES) and the country's new geopolitical alignment away from traditional partners is uncertain.
 - The future of democratic governance and constitutional rule in Burkina Faso remains unclear following the suspension of the constitution.
+
+Source: adapted from "Burkina Faso" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Burkina_Faso

@@ -57,3 +57,5 @@ Israel declared independence in 1948, sparking the Arab–Israeli War and Palest
 - The causes of the demographic decline and Islamization after the Muslim conquest are analyzed through migration, conversion, and economic factors.
 - The interpretation of the 1948 Palestinian displacement ( Nakba) remains contested, involving war events, voluntary flight, and expulsion.
 - The ultimate resolution of the Israeli-Palestinian conflict, including borders, refugees, and Jerusalem, is unresolved.
+
+Source: adapted from "History of Israel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Israel

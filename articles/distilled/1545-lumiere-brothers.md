@@ -48,3 +48,5 @@ The Cinématographe succeeded where earlier devices failed by recording and proj
 - **Priority of projected cinema:** The Skladanowsky brothers screened projected films to a paying public in Berlin from 1 November 1895, nearly two months before the Lumière brothers' 28 December 1895 Paris debut. The Lumières are traditionally credited with the "birth of cinema" due to the Cinématographe’s technical superiority, portability, and immediate global commercial impact.
 - **Le Prince’s precedence:** Louis Le Prince patented cameras and projectors in the 1880s and shot *Roundhay Garden Scene* (1888), the oldest surviving film. His 1890 disappearance prevented public demonstration, leaving his claim to "first" unresolved in popular history.
 - **Bouly’s patent:** Léon Bouly patented the name "cinématographe" in 1892 but failed to renew it or develop a working system; the Lumières adopted the name for their distinct, functional device.
+
+Source: adapted from "Lumière brothers" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lumi%C3%A8re_brothers

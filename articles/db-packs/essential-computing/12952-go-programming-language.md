@@ -27,3 +27,5 @@ A `$=` declaration gives a theory label, with the functor `person`, that defines
 ## Conflict with Google
 
 In November 2009, Google released its own language called Go. McCabe objected that Google was "steam-rolling over us" and asked them to rename it. Technology news sites picked up the dispute, and several called Go! "obscure." A Google developer closed the public thread on 12 October 2010 with the custom status "Unfortunate," commenting that in the eleven months since Google's release there had been minimal confusion between the two languages.
+
+Source: adapted from "Go! (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Go%21_%28programming_language%29

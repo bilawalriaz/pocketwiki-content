@@ -52,3 +52,5 @@ The avant-garde is often defined in contrast to the "arrière-garde" (rearguard)
 - **Political Associations:** How should the legacy of avant-garde figures who allied with authoritarian or fascist movements be understood and assessed?
 - **Definition vs. Modernism:** Is "avant-garde" a distinct category from "modernism," defined by its explicit political and social aims rather than just formal innovation?
 - **Postmodern Status:** Has the concept of the avant-garde become redundant in a postmodern era where the boundaries between high art and mass culture have blurred?
+
+Source: adapted from "Avant-garde" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Avant-garde

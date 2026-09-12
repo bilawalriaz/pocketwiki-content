@@ -69,3 +69,5 @@ Abelard composed love songs for Héloïse (lost, save one fragment, "Dull is the
 - **Resting Place**: The Oratory of the Paraclete claims the couple’s bones never left; Père Lachaise asserts they were transferred in 1817; some scholars hold Abelard is at Père Lachaise but Héloïse remains elsewhere.
 - **Extent of Abelard’s Heresy**: Bernard of Clairvaux and the Council of Sens condemned specific propositions; Pope Innocent II ratified the condemnation. Peter the Venerable secured reconciliation, and Abelard died in communion. Historians debate whether his Trinitarian theology was genuinely heterodox or a victim of political-theological rivalry.
 - **Mental Health Diagnosis**: Retrospective diagnoses (bipolar disorder, narcissistic personality) are speculative; the source notes medieval observers attributed his temperament to Breton heritage, overwork, and an "indomitable" personality.
+
+Source: adapted from "Peter Abelard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peter_Abelard

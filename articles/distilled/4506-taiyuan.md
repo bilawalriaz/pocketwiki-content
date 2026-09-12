@@ -43,3 +43,5 @@ Taiyuan's local cuisine includes specialties like dao xiao noodles and "brain" (
 
 ## Debates and Open Questions
 The source notes that the name "Taiyuan" appeared in historical records before 248 BC, potentially referring to different regions in present-day southern and central Shanxi, making the exact early geographical reference a point of scholarly discussion.
+
+Source: adapted from "Taiyuan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taiyuan

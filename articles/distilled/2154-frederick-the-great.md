@@ -47,3 +47,5 @@ Frederick became an influential military theorist, emphasizing speed, mobility, 
 - Historians debate the originality of Frederick's achievements, noting that many of his administrative and military reforms built upon developments already underway in Prussia.
 - The label "enlightened absolutist" is questioned, as his military reputation and actions like the brutal suppression of Polish culture after the partition contrast with Enlightenment ideals of liberty.
 - The extent of his personal relationships, particularly his homosexuality and his marriage, remains a subject of scholarly study and interpretation.
+
+Source: adapted from "Frederick the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frederick_the_Great

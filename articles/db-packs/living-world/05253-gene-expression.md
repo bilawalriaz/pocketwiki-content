@@ -38,3 +38,5 @@ Gene expression is measured either by counting mRNA or by counting protein.
 - **Protein methods.** Western blotting uses antibodies to detect a specific protein on a membrane, giving size as well as identity. ELISA uses antibodies in microplate wells for more accurate quantification. Fusing a protein to green fluorescent protein (GFP) allows live-cell imaging of where and when it appears.
 
 mRNA levels are not a perfect proxy for protein levels, because translation and protein stability also shape the final amount. The most informative studies measure both. Because the same gene can be spliced in several ways, decorated by different modifications, and regulated at many levels, a human genome of roughly 20,000 protein-coding genes can produce a proteome many times larger and a much greater range of cell types than the gene count alone would suggest.
+
+Source: adapted from "Gene expression" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gene_expression

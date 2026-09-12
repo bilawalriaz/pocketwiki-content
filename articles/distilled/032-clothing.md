@@ -101,3 +101,5 @@ EU member states imported €166 billion of clothes in 2018 (51% from outside th
 ## Debates and open questions
 
 The origin date of clothing is debated, ranging from 40,000 to 3 million years ago. Louse-based dating (at least 100,000 years ago) has been challenged by transcriptome analyses showing body and head lice are "almost genetically identical," suggesting body lice emergence may result from regulatory or epigenetic changes rather than clothing adoption. The distinction between clothing and protective equipment remains unclear, and whether textile production in developing nations is exploitative or beneficial is contested.
+
+Source: adapted from "Clothing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Clothing

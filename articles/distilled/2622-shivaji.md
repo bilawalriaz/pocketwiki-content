@@ -49,3 +49,5 @@ Shivaji died in 1680 after a brief illness. A succession dispute followed: his w
 - **Cause of Death**: Contemporary sources conflict, citing bloody flux (dysentery), anthrax, or fever. Allegations of poisoning by his wife Soyarabai are doubted by later scholars.
 - **Lineage and Coronation**: The Brahmin opposition to his coronation centered on his claimed descent. His asserted Rajput (Sisodia) ancestry is considered by historians to be "tenuous at best, or even being purely invented."
 - **Historical Interpretation**: Shivaji's legacy is contested. While celebrated as a national hero and secular ruler by many, some modern Hindu nationalist groups portray him primarily as a "Hindu king" who fought Muslim rulers, a view that contrasts with historical accounts of his alliances and inclusive policies.
+
+Source: adapted from "Shivaji" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shivaji

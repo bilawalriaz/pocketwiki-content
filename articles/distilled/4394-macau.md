@@ -41,3 +41,5 @@ Macau's culture is a blend of Chinese and Portuguese influences, reflected in it
 - **Economic Diversification:** There is ongoing concern about Macau's over-reliance on the gambling industry and the government's efforts to diversify the economy.
 - **Heritage Conservation vs. Development:** Tensions exist between urban development projects and the preservation of Macau's UNESCO World Heritage sites, with criticism that the government prioritizes development over conservation.
 - **Political Autonomy:** While generally congenial, the relationship with Beijing involves debates over jurisdictional independence, national security legislation, and the central government's adherence to the "one country, two systems" principle.
+
+Source: adapted from "Macau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Macau

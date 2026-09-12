@@ -39,3 +39,5 @@ The 20th century brought significant changes, influenced by psychology and socio
 
 ## Debates and Open Questions
 Scholars debate whether all biographies are inherently fictional, as they are shaped by the biographer's contemporary perspective and memory. Hermione Lee argues that "biographical truths are constantly shifting." There are also critical issues regarding the relationship between a subject's private and public life, with Paul James noting that biographies often assume the private realm is foundational, even for public figures who project a persona. The importance of space in life-writing is another area of discussion.
+
+Source: adapted from "Biography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biography

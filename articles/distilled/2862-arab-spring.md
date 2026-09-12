@@ -48,3 +48,5 @@ A new wave of protests in 2018–2019, sometimes called the "Second Arab Spring,
 - **Sectarianism as a Primary Driver**: While often cited, some scholars like Hussein Agha and Robert Malley argue that sectarianism is a "politically expedient fable" used to mask power struggles, noting that the bloodiest conflicts occurred within the Sunni world.
 - **Impact of Foreign Intervention**: The degree to which foreign powers (e.g., Saudi Arabia in Bahrain, international coalitions in Libya) shaped outcomes versus internal dynamics remains a key question.
 - **Long-Term Legacy**: Whether the Arab Spring ultimately advanced democratic ideals or primarily led to repression and conflict is an ongoing assessment, with the "Second Arab Spring" suggesting the struggle for political change continues.
+
+Source: adapted from "Arab Spring" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arab_Spring

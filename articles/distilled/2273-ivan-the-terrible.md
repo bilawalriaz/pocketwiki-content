@@ -48,3 +48,5 @@ Ivan's personal life was marked by multiple marriages and volatile behavior. He 
 *   **The Epithet "Terrible"**: The Russian word *grozny* is more accurately translated as "formidable" or "awe-inspiring." The modern negative connotation of "terrible" was popularized by later historians and Western propaganda.
 *   **Ivan's Mental State**: Contemporary accounts describe him as intelligent but prone to paranoia and rage. Historians debate the extent to which his violent actions, including the killing of his son, were products of mental instability versus calculated policy.
 *   **The Massacre of Novgorod**: While the event is undisputed, casualty figures vary widely, with modern estimates ranging from 2,000 to 3,000 victims, given the city's depleted population at the time.
+
+Source: adapted from "Ivan the Terrible" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ivan_the_Terrible

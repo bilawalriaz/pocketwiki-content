@@ -43,3 +43,5 @@ The Hebrew Bible refers to the Amorites as powerful, tall inhabitants of Canaan,
 *   **Biblical Use:** Scholars debate why biblical writers used the "Amorite" ethnonym, with suggestions including a polemical use of stereotypes or a historical interest in the pre-Israelite past.
 *   **Relationship to Hyksos:** The exact nature and proportion of Amorite involvement in the Hyksos confederation that ruled Egypt is still being clarified by evidence.
 *   **Genetic Identity:** While ancient DNA shows a mixed Levantine-Mesopotamian profile for Amorite-era populations, the genetic distinctiveness of the Amorites as a specific group remains an area of study.
+
+Source: adapted from "Amorites" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amorites

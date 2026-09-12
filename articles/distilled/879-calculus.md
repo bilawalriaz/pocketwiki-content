@@ -47,3 +47,5 @@ Modern calculus emerged in 17th-century Europe from Newton and Leibniz building 
 
 ## Debates and Open Questions
 The priority dispute between Newton and Leibniz over who first developed calculus divided English-speaking and continental European mathematicians for many years. The extent to which they were influenced by predecessors—particularly what Leibniz learned from Isaac Barrow—remains difficult to determine. Additionally, debates continue over foundational approaches: while limits became the standard 19th-century foundation, non-standard analysis and smooth infinitesimal analysis offer alternative rigorous frameworks that more closely align with the original Newton-Leibniz conception.
+
+Source: adapted from "Calculus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Calculus

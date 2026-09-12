@@ -49,3 +49,5 @@ Sceptics such as Yann LeCun argue AGIs will have no desire to dominate, and that
 ## Risks and rewards
 
 In 2023, the CEOs of Google DeepMind, OpenAI, and Anthropic signed a statement that mitigating the risk of extinction from AI should be a global priority alongside pandemics and nuclear war. OpenAI researchers estimated 80% of the US workforce could have at least 10% of work tasks affected by LLMs, with 19% seeing at least 50% affected, most exposed in white-collar roles. Proponents point to improved productivity, high-quality medical diagnostics, personalised education, and rational disaster prevention; critics emphasise mass unemployment, entrenchment of existing values, and the loss of human purpose.
+
+Source: adapted from "Artificial general intelligence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Artificial_general_intelligence

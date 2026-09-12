@@ -47,3 +47,5 @@ Contemporary accounts describe Hooke as "melancholy, mistrustful, and jealous," 
 - **Priority of the inverse-square law**: The extent to which Hooke's ideas influenced Newton's formulation of universal gravitation remains debated. Newton denied Hooke's priority, while Hooke claimed he provided the key "notion."
 - **The lost portrait**: The fate of Hooke's portrait, once shown at the Royal Society, is unknown. Claims that Newton or his allies destroyed it are considered a myth by some biographers, but the disappearance coincides with Newton's presidency.
 - **Hooke's model of memory**: His 1682 mechanical model of human memory, which addressed encoding, retrieval, and forgetting, is noted for its surprisingly modern concepts but its influence is unclear.
+
+Source: adapted from "Robert Hooke" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Hooke

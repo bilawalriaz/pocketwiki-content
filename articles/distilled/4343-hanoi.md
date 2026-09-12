@@ -50,3 +50,5 @@ The city has an extensive road network and is the hub for Vietnam's railway syst
 - The optimal balance between modern urban development and the preservation of Hanoi's historic and cultural heritage remains a point of contention, as seen in public outcry over redevelopment plans.
 - The effectiveness and social impact of policies to ban street vendors and motorbikes in pursuit of a "modern" city image are debated, with vendors seen by some as adding traditional character.
 - The relationship between state and civil society organizations is often strained, influenced by a legacy of statism and differing approaches to social issues compared to southern Vietnam.
+
+Source: adapted from "Hanoi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hanoi

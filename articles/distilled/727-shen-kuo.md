@@ -57,3 +57,5 @@ After retirement, Shen permanently moved to his Dream Brook estate in 1088, comp
 ## Debates and Open Questions
 
 Scholars debate whether Shen Kuo truly originated the compass’s navigational application or merely recorded existing practice. His astronomical collaboration with Wei Pu was politically sabotaged—some argue court resistance stemmed from conservative backlash rather than technical flaws. The extent of his influence on later European science remains contested, particularly regarding optics and magnetism. His philosophical stance—balancing empiricism with Daoist mysticism—is seen by some as progressive, others as inconsistent. Finally, the authenticity and completeness of surviving texts, especially posthumous editions, continue to challenge historians.
+
+Source: adapted from "Shen Kuo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shen_Kuo

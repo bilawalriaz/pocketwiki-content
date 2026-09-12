@@ -41,3 +41,5 @@ The 1770 monsoon brought marginal relief but also disease. The following year, m
 
 ## Debates and Open Questions
 The primary scholarly debate concerns the famine's death toll. Contemporary British estimates of 7-10 million deaths (25-33% of the population) are widely cited but contested. Modern historians like Rajat Dutta and Tim Dyson argue these figures are "inflated" and "barely credible," suggesting a toll closer to 1.2 million. This revisionism is based on the lack of reliable demographic data in 1770 and the mobility of the agrarian population. Another open question is the extent to which the East India Company's policies—such as tax collection methods, grain purchases for the army, and official monopolies—directly caused or merely exacerbated a natural disaster.
+
+Source: adapted from "Great Bengal famine of 1770" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Bengal_famine_of_1770

@@ -41,3 +41,5 @@ The late 20th century saw encyclopedias published on CD-ROMs and DVDs, such as M
 
 ## Debates and Open Questions
 The source text notes the ongoing, blurred distinction between encyclopedias and dictionaries, as both can contain factual information about the subjects they define. The rise of digital and open-source models like Wikipedia has also shifted traditional notions of authority and reliability in encyclopedic knowledge, moving from expert-compiled works to collaboratively edited platforms.
+
+Source: adapted from "Encyclopedia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Encyclopedia

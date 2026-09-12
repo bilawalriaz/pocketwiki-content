@@ -41,3 +41,5 @@ Lorenzo married Clarice Orsini in 1469; they had eight surviving children, inclu
 - The exact nature of Lorenzo's rule—whether he was a tyrant or a benevolent leader—is debated.
 - The cause of his death has been speculated to involve acromegaly, a disorder of excessive growth hormone.
 - The rumour that Savonarola damned him on his deathbed has been refuted by historical research.
+
+Source: adapted from "Lorenzo de' Medici" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lorenzo_de%27_Medici

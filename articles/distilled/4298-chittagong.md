@@ -42,3 +42,5 @@ Chittagong is a historic melting pot, resulting in high religious and ethnic div
 - The etymology of "Chittagong" is uncertain, with multiple theories involving Arabic, Arakanese, and Buddhist origins.
 - The linguistic status of the Chittagonian language is debated, with some classifying it as a dialect of Bengali and others as a distinct language.
 - The 2018 official name change to "Chattogram" was criticized in Bangladeshi media, reflecting ongoing debate about the city's identity.
+
+Source: adapted from "Chittagong" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chittagong

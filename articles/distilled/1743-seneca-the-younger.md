@@ -75,3 +75,5 @@ Ten tragedies are attributed to Seneca; eight are likely authentic (*Hercules Fu
 - **Wealth vs. Stoic integrity:** Suillius’s claim of 300 million sestertii is partisan but reflects Seneca’s documented riches. Scholars debate whether this constitutes hypocrisy or permissible Stoic "preferred indifferent" management.
 - **Philosophical orthodoxy:** Older scholarship labeled Seneca "eclectic"; current consensus sees him as largely orthodox but innovative in applying Stoicism to Roman political life and emotional psychology.
 - **Christian connections:** The Paul correspondence is universally rejected as 4th-century forgery, yet it shaped medieval reception. The extent of genuine Christian influence on Seneca (or vice versa) remains a reception-history question, not a historical one.
+
+Source: adapted from "Seneca the Younger" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seneca_the_Younger

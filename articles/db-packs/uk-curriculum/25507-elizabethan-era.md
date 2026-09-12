@@ -33,3 +33,5 @@ The era's cultural achievement was the English Renaissance theatre. The Globe Th
 ## The end
 
 Elizabeth died in 1603. James VI of Scotland, whom she had subsidised for years through a secret correspondence, succeeded her as James I, uniting the English and Scottish crowns. This made the Elizabethan era the last period of English history before the two kingdoms shared a monarch. The peace she had maintained did not survive her: within a generation, England would descend into civil war.
+
+Source: adapted from "Elizabethan era" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Elizabethan_era

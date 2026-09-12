@@ -42,3 +42,5 @@ After the war, Tubman settled in Auburn, New York, caring for her family and the
 *   **Birth Year:** Tubman's exact birth year is uncertain; sources list 1815, 1820, and 1825, but modern biographers accept c. 1822 based on historical documents.
 *   **Reward for Capture:** A popular legend claims a $40,000 reward was offered for her capture, but historians consider this a manufactured figure with no contemporary evidence.
 *   **"Go or Die" Stories:** Accounts of Tubman threatening to shoot escapees who wanted to turn back are examined by scholars as reflecting the extreme dangers of the journey, though there is no evidence she killed anyone.
+
+Source: adapted from "Harriet Tubman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harriet_Tubman

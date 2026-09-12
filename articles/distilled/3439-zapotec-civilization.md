@@ -54,3 +54,5 @@ The Zapotec heartland was the fertile Central Valleys of Oaxaca. They were a sed
 - The origin of Mesoamerican writing is debated: whether the Zapotec script (c. 500 BC) or earlier Olmec symbols (c. 650 BC) represent the first true writing.
 - The interpretation of the glyphs on Building J at Monte Albán as a record of conquest is a prominent but specific archaeological theory.
 - The exact causes and timeline of the decline of Monte Albán's political dominance around AD 700 are not fully detailed in the source.
+
+Source: adapted from "Zapotec civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zapotec_civilization

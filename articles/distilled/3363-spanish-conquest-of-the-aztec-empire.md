@@ -46,3 +46,5 @@ The conquest led to the establishment of New Spain. The Spanish crown authorized
 - **The Role of Omens**: Indigenous accounts describe eight supernatural omens that foretold the conquest. Scholars debate whether these events actually occurred or were *ex post facto* (retrospective) creations to explain the defeat.
 - **The Quetzalcoatl Myth**: The idea that Moctezuma believed Cortés was the returning god Quetzalcoatl is debated. Some ethnohistorians argue Aztec leaders viewed the Spanish rationally as powerful outsiders, not as supernatural beings. The concept appears mainly in later European writings.
 - **Causation of Conquest**: Historians debate the relative importance of factors like Spanish technological superiority (weapons, cavalry), Indigenous alliances, and the catastrophic impact of smallpox in enabling the Spanish victory.
+
+Source: adapted from "Spanish conquest of the Aztec Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire

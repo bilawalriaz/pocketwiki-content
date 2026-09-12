@@ -68,3 +68,5 @@ GMO regulation varies globally, especially between the U.S. and EU. The EU maint
 - Coexistence of GM and non-GM crops and its impact on farming incentives.
 - Ethical implications of patenting life forms and genetic modifications.
 - Long-term ecological risks of gene flow from transgenic organisms to wild populations.
+
+Source: adapted from "Biotechnology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biotechnology

@@ -97,3 +97,5 @@ Reframes Diophantine equations geometrically: solutions to $f(x_1,\dots,x_n)=0$ 
 *   **ABC Conjecture:** For coprime $a+b=c$, $\text{rad}(abc)^{1+\epsilon} > c$ for all but finitely many triples. Implies Fermat's Last Theorem for large $n$, Mordell conjecture, Szpiro's conjecture. (Mochizuki's claimed proof via Inter-universal Teichmüller theory remains controversial/unverified by consensus).
 *   **Computational Hardness:** Is integer factoring in P? Is discrete log in P? Quantum algorithms (Shor) break both; post-quantum cryptography (lattices, isogenies, codes, hashes) seeks replacements.
 *   **Elementary vs. Analytic Proofs:** Some theorems (e.g., Prime Number Theorem) have both; "elementary" avoids complex analysis but may be longer/less illuminating. Debate on what constitutes "elementary" (e.g., Wiener-Ikehara Tauberian theorem uses Fourier analysis).
+
+Source: adapted from "Number theory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Number_theory

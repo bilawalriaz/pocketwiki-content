@@ -25,3 +25,5 @@ In 539 BC Babylon fell to **Cyrus the Great** of Persia and became part of the *
 The ruin covers about 1,000 hectares and is split by a branch of the Euphrates. The main mounds are **Kasr**, the location of the stepped temple-tower **Etemenanki** (which may have inspired the Tower of Babel story), and **Amran**, the site of the **Esagila** temple of the god **Marduk**. A ziggurat is a stepped temple-tower intended as a link between heaven and earth. Scientific excavation began with the German archaeologist **Robert Koldewey** (1899–1917).
 
 In 2003 a US-led coalition built **Camp Alpha** on the ruins during the Iraq War, causing irreparable damage to archaeological layers. In 2019 the site was inscribed as a UNESCO World Heritage Site, a status that now governs how further damage is prevented, even as the scars of the military base remain part of the site's recent history.
+
+Source: adapted from "Babylon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Babylon

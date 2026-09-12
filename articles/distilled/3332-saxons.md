@@ -52,3 +52,5 @@ Saxon paganism included worship of deities like Thunaer (Thor), Wodan, and the a
 - **Ptolemy's Reference**: Scholars debate whether the "Saxones" in Ptolemy's 2nd-century work refer to the later Saxons or are a manuscript error for another tribe like the Aviones.
 - **Early Identity**: It is unclear when "Saxon" shifted from a general term for northern raiders to a specific ethnic or political identity for the continental people.
 - **Political Unity**: The continental Saxons likely lacked political unity before the 8th-century conflicts with the Franks, but the exact nature of their pre-conquest social organization is debated.
+
+Source: adapted from "Saxons" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saxons

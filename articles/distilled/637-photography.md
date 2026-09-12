@@ -80,3 +80,5 @@ Susan Sontag critiqued photography’s power to objectify and manipulate percept
 - **Artistic Status**: Historically contested whether photography qualifies as fine art; resolved gradually through gallery acceptance and critical discourse.
 - **Ethical Manipulation**: Ongoing tension between documentary integrity and creative freedom in photojournalism and digital editing.
 - **Cultural Representation**: Photography’s role in shaping identity, power dynamics, and cross-cultural perception continues to evolve with technology and globalization.
+
+Source: adapted from "Photography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Photography

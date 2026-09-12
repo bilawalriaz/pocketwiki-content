@@ -65,3 +65,5 @@ Chemical engineering optimizes yield and efficiency using catalysts (heterogeneo
 - **Reaction mechanism elucidation:** Determining precise elementary steps (e.g., SN1 vs SN2, E1 vs E2) requires experimental kinetics and theoretical modeling (transition state theory, RRKM).
 - **Catalyst design:** Optimizing heterogeneous vs. homogeneous catalysts for activity, selectivity, and separation remains an engineering challenge.
 - **Ultrafast dynamics:** Observing transition states on femtosecond scales pushes the limits of laser spectroscopy.
+
+Source: adapted from "Chemical reaction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemical_reaction

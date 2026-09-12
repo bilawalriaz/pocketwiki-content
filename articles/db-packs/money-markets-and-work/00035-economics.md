@@ -36,3 +36,5 @@ There is no single agreed definition of economics. Ha-Joon Chang argues that Rob
 - **Labour theory of value**: a commodity's value is determined by the labour required to produce it.
 - **Pareto efficiency**: no change can make one person better off without making another worse off.
 - **Market failure**: problems including information asymmetries, natural monopoly, public goods, and externalities.
+
+Source: adapted from "Economics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Economics

@@ -46,3 +46,5 @@ Sicilian culture is a blend of its many rulers. The Sicilian language, a distinc
 - The ethnic origins of the pre-Greek inhabitants, particularly the Sicani, are debated, with theories suggesting Iberian or Illyrian roots.
 - The extent and nature of cultural assimilation during the Arab and Norman periods remain subjects of scholarly study, especially regarding language and religion.
 - The ongoing effectiveness of the Italian state's efforts to fully dismantle the Mafia's political and economic influence is a persistent question.
+
+Source: adapted from "Sicily" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sicily

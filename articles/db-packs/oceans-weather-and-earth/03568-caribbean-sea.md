@@ -17,3 +17,5 @@ The Caribbean holds about 9% of the world's coral reef, including the Mesoameric
 ## People, Economy, and Pressure
 
 Humans have reshaped the basin since 1492, when Columbus reached these waters. Sixteenth-century European cartographers named the body the "North Sea" to set it apart from the Pacific, the "South Sea," and the name stuck. The sea now supports three large industries: oil production, fishing, and tourism, with cruise ships and reef diving the largest earners. Rum distilling is a smaller but culturally defining product. The economic weight carries costs. As of 1993, only about 10% of sewage from Central American and Caribbean island states was treated before reaching the sea, a figure that captures the scale of nutrient and pathogen pollution still feeding the reefs. Heavy metals, untreated sewage, oil, and steadily warming water now act together on a reef system that supports the region's largest source of income.
+
+Source: adapted from "Caribbean Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caribbean_Sea

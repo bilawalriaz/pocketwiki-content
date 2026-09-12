@@ -43,3 +43,5 @@ Casgevy works by CRISPR-editing the BCL11A gene to lift the natural brake on foe
 ## Prognosis and burden
 
 In high-income countries, median life expectancy now reaches roughly 43 years in the US and 67 years in the UK. In low-resource settings, 50–90% of affected children still die before age 5. As of 2021, an estimated 7.7 million people live with SCD, directly causing about 34,000 deaths annually and contributing to a further 376,000. Roughly 150,000 affected children are born each year in Nigeria alone, where carrier frequency reaches 24%, and gene therapies such as Casgevy remain accessible only to a small fraction of patients worldwide.
+
+Source: adapted from "Sickle cell disease" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sickle_cell_disease

@@ -48,3 +48,5 @@ Allegations of electoral fraud in the November 2003 parliamentary election spark
 *   **Effectiveness of anti-corruption campaigns:** While Shevardnadze's early campaigns in Georgia were celebrated, his rule as president was marked by systemic corruption, raising questions about his commitment or ability to tackle it at the highest levels.
 *   **Balancing nationalism and centralism:** His stance against "national narrow-mindedness" in Soviet Georgia contrasted with his later role as a Georgian nationalist leader, highlighting the complex political navigation required in the multi-ethnic Soviet and post-Soviet space.
 *   **Legacy in state-building:** Scholars debate whether his presidency established fragile state institutions or merely diffused power among informal, competing centers, contributing to later instability.
+
+Source: adapted from "Eduard Shevardnadze" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eduard_Shevardnadze

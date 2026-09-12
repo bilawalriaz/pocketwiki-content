@@ -43,3 +43,5 @@ The culture is strongly linked to the broader "Paisa" culture, known for its Spa
 - The effectiveness and fairness of the "Banco de las Opportunidades" microloan program is debated, with critics arguing its interest rates are too high and loan terms too short.
 - Significant socioeconomic inequality persists, with crime rates remaining high in the poorest communities despite overall citywide improvements.
 - The city's model of development, while lauded, faces ongoing challenges in fully integrating all communities and sustaining economic growth equitably.
+
+Source: adapted from "Medellín" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Medell%C3%ADn

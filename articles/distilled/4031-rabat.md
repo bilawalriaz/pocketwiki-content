@@ -46,3 +46,5 @@ Major educational institutions include Mohammed V University (founded 1957). Rab
 
 ## Debates and open questions
 The existence of a Phoenician settlement in the area of Rabat has been debated by archaeologists. The exact location of the 10th-century ribat founded by the Umayyads of Cordoba or their allies has not been confirmed by historians.
+
+Source: adapted from "Rabat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rabat

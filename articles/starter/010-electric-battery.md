@@ -3,3 +3,5 @@
 *Power supply with electrochemical cells.*
 
 An electric battery is a source of electric power consisting of one or more electrochemical cells with external connections for powering electrical devices. When a battery is supplying power, its positive terminal is the cathode and its negative terminal is the anode. The terminal marked negative is the source of electrons. When a battery is connected to an external electric load, those negatively charged electrons flow through the circuit and reach the positive terminal, thus causing a redox reaction by attracting positively charged ions, or cations. Thus, higher energy reactants are converted to lower energy products, and the free-energy difference is delivered to the external circuit as electrical energy. Historically the term "battery" specifically referred to a device composed of multiple cells; however, the usage has evolved to include devices composed of a single cell.
+
+Source: adapted from "Electric battery" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electric_battery

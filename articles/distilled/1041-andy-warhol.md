@@ -72,3 +72,5 @@ Warhol avoided gallbladder surgery for years due to hospital phobia. Admitted Fe
 - **Film authorship**: After 1968, Paul Morrissey directed most Warhol-branded films (*Flesh*, *Trash*, *Heat*, *Bad*). The division of creative control between Warhol (producer/brand) and Morrissey (director) complicates the filmography’s authorship.
 - **Market valuation drivers**: Warhol’s auction records ($195M for *Shot Sage Blue Marilyn*, 2022) reflect celebrity subject matter, scarcity of early paintings, and generational collector cycles. Dealers describe his market as a "seesaw being pulled uphill," but the relative weight of provenance, condition, and subject remains debated.
 - **Religious sincerity**: Warhol’s devout Catholic practice (weekly Mass, papal audience, funding seminary) contrasts with his public persona and erotic work. The 2021–22 Brooklyn Museum exhibition *Andy Warhol: Revelation* reopened discussion of how faith informed his art.
+
+Source: adapted from "Andy Warhol" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andy_Warhol

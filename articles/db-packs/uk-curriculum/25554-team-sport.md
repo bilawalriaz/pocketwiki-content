@@ -23,3 +23,5 @@ The modern Olympics codified team sports into a global framework. As of the 2024
 ## Modern scale
 
 Professional leagues draw massive live audiences. In the 2024–25 season, American football led with university teams averaging over 100,000 spectators (Michigan, Penn State, Texas A&M, Ohio State, Texas). Association football clubs in Europe and South America averaged 73,000–85,000 (River Plate, Borussia Dortmund, Bayern München, Manchester United, Real Madrid). Australian football, baseball (MLB and NPB), basketball (NBA and NCAA), Canadian football, cricket (IPL), ice hockey (NHL), rugby league (NRL), and rugby union (URC, Top 14) all sustained multiple clubs above 20,000 average attendance, confirming team sport as the dominant form of mass spectator athletics worldwide.
+
+Source: adapted from "Team sport" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Team_sport

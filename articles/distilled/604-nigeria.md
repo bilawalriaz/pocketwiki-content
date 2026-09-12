@@ -53,3 +53,5 @@ Nigeria’s population is religiously divided, with approximately 50% Muslim and
 
 ## Debates and Open Questions  
 Several contentious issues persist in Nigeria. The legitimacy of the 2023 presidential election remains disputed, with opposition candidates challenging the results in court. The effectiveness of Nigeria’s anti-corruption efforts, particularly under the Economic and Financial Crimes Commission (EFCC), is debated amid allegations of political bias. The future of the Niger Delta remains uncertain, as oil extraction continues to fuel environmental destruction and conflict despite government initiatives. Additionally, the role of traditional rulers in modern governance and the integration of Sharia law in northern states raise questions about secularism and human rights. Finally, Nigeria’s ability to diversify its economy away from oil dependence and address its growing population’s needs will determine its trajectory in the 21st century.
+
+Source: adapted from "Nigeria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nigeria

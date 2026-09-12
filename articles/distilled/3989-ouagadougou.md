@@ -43,3 +43,5 @@ Key sites include the Bangr-Weoogo urban park (formerly a sacred forest), the L'
 
 ## Debates and Open Questions
 The exact founding date of Ouagadougou is uncertain, with sources stating it was "possibly as early as 1050." The city's name and its precise etymology from the Soninke "Wagadugu" are noted, but the historical details of its early governance are presented as legend (e.g., its capture by Oubri). The ongoing jihadist insurgency, with major attacks in 2016, 2017, and 2018, represents a current security challenge for the city.
+
+Source: adapted from "Ouagadougou" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ouagadougou

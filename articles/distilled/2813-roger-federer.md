@@ -48,3 +48,5 @@ Federer was an all-court player known for his fluid movement, powerful forehand,
 - **Greatest of All Time (GOAT)**: A persistent debate among fans, players, and analysts. While many considered Federer the greatest for years, the subsequent records of Nadal (22 Grand Slams) and Djokovic (24 Grand Slams) have intensified the discussion. Some, like Richard Gasquet, argue aesthetics and grace should weigh as heavily as title counts.
 - **Impact of Rivalries**: Scholars debate how the rivalries with Nadal and Djokovic both challenged Federer's dominance and ultimately elevated his legacy and the sport's popularity.
 - **Longevity and Adaptation**: Analysts study how Federer successfully adapted his game and managed his schedule to remain competitive into his late 30s, especially after major knee surgeries.
+
+Source: adapted from "Roger Federer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Roger_Federer

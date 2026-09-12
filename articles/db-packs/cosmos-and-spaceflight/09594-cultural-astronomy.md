@@ -28,3 +28,5 @@ The traditions studied under this umbrella include Ancient Greek, medieval Islam
 ## Publication
 
 Research appears in the *Journal of Astronomy in Culture*, established in 2016 by the International Society for Archaeoastronomy and Astronomy in Culture (ISAAC).
+
+Source: adapted from "Cultural astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cultural_astronomy

@@ -50,3 +50,5 @@ Smith's teachings evolved from establishing a church to complex cosmology. He ta
 - **Polygamy's Introduction**: The exact timing and manner in which Smith introduced polygamy are debated, with evidence suggesting private teachings began as early as 1831.
 - **Succession Crisis**: Smith never clearly designated a successor, leading to multiple claimants and the permanent split of the movement.
 - **Book of Abraham Authenticity**: Egyptologists have determined the papyri Smith used are from the Egyptian Book of Breathing, not writings of Abraham, sparking debate about the text's nature and translation.
+
+Source: adapted from "Joseph Smith" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Smith

@@ -43,3 +43,5 @@ The invasion's legality was widely questioned. UN Secretary-General Kofi Annan s
 - **Causation of Sectarian Violence**: Scholars debate whether the CPA's policies (de-Ba'athification, disbanding the army) were the primary cause of the insurgency and civil war, or if deeper sectarian divisions were the main driver.
 - **Impact of the Surge**: Analysts disagree on whether the 2007 troop surge was the primary reason for the subsequent drop in violence, or if other factors like the Sunni Awakening and Sadr's ceasefire were more decisive.
 - **Long-Term Geopolitical Consequences**: The war's role in destabilizing the region, empowering Iran, and creating the conditions for the rise of ISIL is a major point of historical and political analysis.
+
+Source: adapted from "Iraq War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iraq_War

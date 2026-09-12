@@ -46,3 +46,5 @@ In 2005, the South African Geographical Names Council approved changing the city
 
 ## Debates and Open Questions
 The most significant ongoing debate is the proposed official name change from Pretoria to Tshwane. Approved by the South African Geographical Names Council in 2005, it has faced strong opposition, legal challenges, and political delays, remaining unresolved. The controversy highlights tensions between historical Afrikaner heritage and post-apartheid transformation.
+
+Source: adapted from "Pretoria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pretoria

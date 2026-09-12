@@ -68,3 +68,5 @@ Niemeyer joined the Brazilian Communist Party in 1945, sheltered militants, and 
 - **Late-work quality**: Critic Nicolai Ouroussoff (*New York Times*) argued Niemeyer’s advanced age degraded his legacy, citing the Niterói Museum as inferior and claiming the architect "marred" his own Brasília icons with later interventions.
 - **Brasília’s urban legacy**: The plan’s socialist ideals (mixed-income housing, car-free streets, ground-level integration) were largely abandoned by subsequent governments, raising questions about the viability of top-down utopian planning.
 - **Curves as signature vs. limitation**: Niemeyer’s lifelong obsession with the "sensual curve" produced iconic works but also repetitive formal vocabulary; the *Depoimento* itself acknowledged the risk of decorative excess by less talented imitators.
+
+Source: adapted from "Oscar Niemeyer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oscar_Niemeyer

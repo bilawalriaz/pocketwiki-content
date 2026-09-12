@@ -48,3 +48,5 @@ The education system follows a 2-4-4-4 structure and is considered progressive, 
 - The exact location of the ancient "Land of Punt" mentioned in Egyptian sources is unknown, with Somalia being one proposed location.
 - The status of the Sool, Sanaag, and Ayn (SSC) regions is disputed between Puntland and Somaliland.
 - The implications and sustainability of Puntland's 2024 declaration to "act independently" amid Somalia's constitutional crisis are unclear.
+
+Source: adapted from "Puntland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Puntland

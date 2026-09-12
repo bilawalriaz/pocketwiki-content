@@ -40,3 +40,5 @@ The war was a strategic defeat for the Qing, costing over 70,000 soldiers and 9.
 - **Interpretation of the Treaty**: The Qing court viewed the resumption of diplomatic relations in 1790 as Burmese submission, while Burma considered it an exchange between equals. The terms of the 1769 field commander's treaty were never honored by either side.
 - **Impact on Regional Power**: Historians debate the war's role in shaping Southeast Asian geopolitics, particularly how it enabled Siam's resurgence and may have limited Qing expansion into the region, potentially saving the independence of other states.
 - **Military Assessment**: The war is studied as a case of a smaller power successfully defending against a larger empire by exploiting terrain, climate, and guerrilla tactics, neutralizing the enemy's numerical advantage.
+
+Source: adapted from "Sino-Burmese War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sino-Burmese_War

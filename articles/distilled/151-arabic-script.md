@@ -64,3 +64,5 @@ Most languages using Arabic-based alphabets share the same base shapes. Addition
 - Use of Arabic script for Berber languages carries political connotations versus competing Latin and Tifinagh scripts.
 - Yoruba's earliest attested use is 17th century, but earliest verifiable use dates to the 19th century.
 - Ottoman Turkish is held by many to be a different language from modern Turkish due to its higher percentage of Persian and Arabic loanwords.
+
+Source: adapted from "Arabic script" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabic_script

@@ -64,3 +64,5 @@ The Mevlevi Order, founded in 1273, became a major Sufi brotherhood in the Ottom
 ## Debates and Open Questions
 
 Scholars debate the nature of Rumi’s relationship with Shams-e Tabrīzī, ranging from spiritual mentorship to romantic or homoerotic love. The circumstances of Shams’s disappearance remain uncertain, with theories including murder by Rumi’s son, blasphemy charges, or voluntary departure. The authenticity of Rumi’s claimed descent from Abu Bakr is disputed by modern scholars. Additionally, while Rumi is often portrayed as a universal mystic in Western popular culture, debates persist about the extent to which his Islamic identity and the political context of his time should inform interpretations of his work. The hagiographical accounts in Aflāki’s *Manāqib al-Ārifīn* are also treated critically, as they blend legend with historical fact.
+
+Source: adapted from "Rumi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rumi

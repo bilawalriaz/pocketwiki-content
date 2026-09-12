@@ -44,3 +44,5 @@ Post-independence, Malang grew into an educational hub, hosting major universiti
 - The exact location of the legendary temple **Malangkuçeçwara**, from which one theory derives the city's name, is debated between the Mount Buring area and the Tumpang area.
 - The origin of the name "Malang" is uncertain, with competing theories linking it to the Malangkuçeçwara temple or to a Javanese word meaning "to block" from a 1614 Mataram conquest story.
 - There is scholarly debate over whether **Singhasari Temple** was built during the Singhasari or the subsequent Majapahit kingdom, as it was intended to honor the last Singhasari king.
+
+Source: adapted from "Malang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Malang

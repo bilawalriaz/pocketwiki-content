@@ -43,3 +43,5 @@ Etna is in a near-constant state of activity. Notable 20th-century eruptions inc
 
 ## Debates and Open Questions
 The etymology of "Etna" is debated, with Greek, Siculian, and Phoenician origins proposed. The cause of a famine in 43 BCE, once linked to an Etna eruption in 44 BCE, is now more likely attributed to an eruption of Mount Okmok. The exact number of fatalities from the 1669 eruption is uncertain, with modern research suggesting the commonly cited figures of 15,000–20,000 may be confused with the 1693 Sicily earthquake.
+
+Source: adapted from "Mount Etna" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Etna

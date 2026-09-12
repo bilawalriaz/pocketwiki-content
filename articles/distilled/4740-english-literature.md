@@ -54,3 +54,5 @@ Modernism, emerging from disillusionment with Victorian certainty, was influence
 - The beginning of the novel in English is impossible to satisfactorily date, with candidates ranging from works in the Restoration period to the 18th century.
 - The transition from modernism to postmodernism in English literature is contested, with no agreement on when it occurred.
 - The definition, scope, and importance of postmodern literature are subjects of ongoing debate.
+
+Source: adapted from "English literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/English_literature

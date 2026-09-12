@@ -47,3 +47,5 @@ The disaster led to internal party criticism, most notably from Marshal Peng Deh
 *   **Death Toll:** Estimates vary widely from 15 to 55 million. Scholars use different methods and adjust for data errors, leading to significant disagreement. The most commonly cited range is 15-45 million.
 *   **Causes and Responsibility:** While policies are universally seen as the primary cause, the relative contribution of weather is debated. Some historians argue Mao's policies and totalitarianism bear direct responsibility, while others emphasize structural governance challenges.
 *   **Intentionality:** There is debate over whether the famine constituted "terror-starvation" or manslaughter due to negligent policies, versus being an unintended catastrophic failure. The 1981 CCP Resolution blamed "errors of the Great Leap Forward" and natural calamities.
+
+Source: adapted from "Great Leap Forward" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Leap_Forward

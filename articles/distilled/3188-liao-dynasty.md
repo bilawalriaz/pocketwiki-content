@@ -42,3 +42,5 @@ Khitan society exhibited a synthesis of nomadic and sedentary cultures. Women he
 - The exact meaning of the word "Liao" (Hura) in the Khitan language is uncertain, with theories including "black," "broad," or a reference to the Liao River.
 - The extent of Liao cultural influence on subsequent dynasties, particularly in music and theater, remains a subject of scholarly inquiry.
 - The precise nature of the relationship between the Liao and its successor state, the Qara Khitai, is debated, as the latter considered itself the legitimate continuation of the Liao.
+
+Source: adapted from "Liao dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liao_dynasty

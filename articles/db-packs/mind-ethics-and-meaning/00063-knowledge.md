@@ -37,3 +37,5 @@ Plato's *Meno* argues knowledge is more valuable than mere true belief because i
 ## A short historical arc
 
 Knowledge was transmitted orally until writing emerged around 3000 BCE in Mesopotamia, Egypt, India, and China. Ancient Greeks from the 6th century BCE formalised mathematics, astronomy, and medicine. The Islamic Golden Age from the 8th to 13th centuries preserved and extended this inheritance through institutions like Al-Qarawiyyin and Al-Azhar. The 15th-century printing press multiplied literacy, the 16th–17th-century Scientific Revolution shaped physics, chemistry, and biology, the 18th–19th-century Industrial Revolution applied that knowledge, and the 20th century added computers and the Internet. In epistemology, the 20th century is marked by Gettier, whose brief paper reopened a question Plato had thought settled two millennia earlier.
+
+Source: adapted from "Knowledge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knowledge

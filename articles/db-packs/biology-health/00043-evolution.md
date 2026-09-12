@@ -25,3 +25,5 @@ Artificial selection has shaped domestication for thousands of years and now gui
 ## History of evolutionary thought
 
 Evolutionary ideas trace to Anaximander, Empedocles, and Lucretius. Linnaeus classified species hierarchically in 1735 but treated them as fixed. Lamarck's 1809 transmutation theory proposed inheritance of acquired characteristics. Darwin, influenced by Malthus, developed natural selection from 1838; Wallace independently conceived it in 1858. *On the Origin of Species* (1859) brought wide acceptance, supported by Marsh's horse and toothed-bird fossils. Mendel's 1865 inheritance laws and Weismann's germ-soma distinction clarified heredity. The 1920s–1930s modern synthesis unified natural selection, population genetics, and Mendelian inheritance, later extended by DNA structure (1953) and evolutionary developmental biology.
+
+Source: adapted from "Evolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Evolution

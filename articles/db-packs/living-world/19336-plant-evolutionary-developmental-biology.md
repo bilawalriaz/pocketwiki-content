@@ -54,3 +54,5 @@ Secondary metabolites defend against herbivores, attract pollinators, and mediat
 ## Domestication
 
 Maize derives from teosinte, a wild Mexican grass with small, hard cobs and a branched stem; molecular-clock analysis dates the key genetic changes to roughly 9,000 years ago. Cauliflower arose from a single mutation in the *CAL* gene, which controls meristem differentiation, causing floral meristems to remain as undifferentiated cell masses (the curd), a trait selected since at least the Greek empire.
+
+Source: adapted from "Plant evolutionary developmental biology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_evolutionary_developmental_biology

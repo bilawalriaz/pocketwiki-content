@@ -44,3 +44,5 @@ The pilgrimage, or *yatra*, is one of the world's oldest. It involves trekking t
 
 ## Debates and Open Questions
 The exact geological formation of the mountain is described with terms like "might be," indicating some scholarly uncertainty. The precise start date of pilgrimages is unknown. The impact of accelerated climate change on the region's water resources and fragile ecosystem is a major ongoing concern, prompting conservation initiatives like the Kailash Sacred Landscape Conservation and Development Initiative.
+
+Source: adapted from "Mount Kailash" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Kailash

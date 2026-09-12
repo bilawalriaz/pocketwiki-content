@@ -51,3 +51,5 @@ Critical history spans centuries. Early critics like Samuel Pepys (1662) dismiss
 - **Role of Theseus**: Scholars debate whether Theseus represents rational order and patriarchal authority or if his speech on "the lunatic, the lover, and the poet" validates imagination over reason.
 - **The Changeling Boy**: The nature of Oberon's desire for Titania's Indian ward is ambiguous, leading to interpretations ranging from a political power struggle to psychosexual readings.
 - **Time Scheme**: The play's internal chronology is inconsistent, leading to ongoing discussion about whether this is a flaw, a deliberate dream-like effect, or a reference to a specific "dark of the moon" period.
+
+Source: adapted from "A Midsummer Night's Dream" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream

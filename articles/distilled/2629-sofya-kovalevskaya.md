@@ -42,3 +42,5 @@ Kovalevskaya's personal life was complex. Her marriage to Vladimir Kovalevsky wa
 
 ## Debates and Open Questions
 The source notes that Kovalevskaya's decision to pursue a fictitious marriage was partly a dramatic choice fashionable among radicals of her generation, rather than a strict necessity. The exact details of her 1870 debate with Herbert Spencer on "woman's capacity for abstract thought" are not recorded, though it may have involved the Euler equations for rigid body motion.
+
+Source: adapted from "Sofya Kovalevskaya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sofya_Kovalevskaya

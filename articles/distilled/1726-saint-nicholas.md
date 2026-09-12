@@ -68,3 +68,5 @@ Eastern Orthodox: elderly bishop, white fluffy beard, balding, omophorion, Gospe
 - **Manna origin**: Miraculous exudate vs. capillary seawater infiltration (tomb below sea level in harbor city).
 - **Gemile vs. Myra as first burial**: Archaeological evidence (4th-century church, name painted, "St. Nicholas Island" toponym) challenges traditional Myra-first view.
 - **Legendary borrowing**: Extent to which Nicholas’s *Life* adapts Apollonius of Tyana stories (dowry gift, saving condemned, demon tree) vs. independent Christian tradition.
+
+Source: adapted from "Saint Nicholas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saint_Nicholas

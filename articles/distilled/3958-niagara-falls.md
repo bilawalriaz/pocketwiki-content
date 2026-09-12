@@ -47,3 +47,5 @@ Tourism became the area's main industry in the 19th century, with the falls beco
 - The precise location of Horseshoe Falls is disputed; some sources state it is now entirely in Canada, while others say "most of" it is.
 - The impact of tall buildings on the Canadian side on local weather patterns, such as increasing mist days, is debated among studies.
 - The long-term future of the falls is a subject of scientific projection; at the current erosion rate, they could cease to exist in about 50,000 years.
+
+Source: adapted from "Niagara Falls" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Niagara_Falls

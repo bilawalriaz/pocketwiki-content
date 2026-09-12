@@ -48,3 +48,5 @@ Playing the harmonica requires strong, resisted breathing, which can aid pulmona
 - **Comb Material Effect**: There is dispute among players about whether the material of the comb (wood, plastic, metal) significantly affects the harmonica's tone, with some arguing it does not vibrate enough to matter.
 - **Tuning Origins**: While Buschmann is often cited as the inventor in 1821, other inventors developed similar instruments concurrently, making definitive attribution difficult.
 - **Plastic vs. Traditional Sound**: The development of plastic harmonicas during WWII made them more accessible but is often considered by players to produce an inferior sound compared to traditional metal and wood models.
+
+Source: adapted from "Harmonica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harmonica

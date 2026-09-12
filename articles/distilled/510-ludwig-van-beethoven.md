@@ -74,3 +74,5 @@ Beethoven favored pianos by J.A. Stein, then Nannette Streicher (Stein’s daugh
 - **Cause of death**: Cirrhosis/liver failure is primary (autopsy: severe liver damage); contributing factors include heavy alcohol use, lead exposure (recent hair analysis), and possible infectious hepatitis.
 - **Karl’s guardianship**: Beethoven’s legal battle and overbearing treatment of his nephew Karl are viewed variously as noble devotion or destructive obsession; Karl’s 1826 suicide attempt underscores the tragedy.
 - **Late style interpretation**: Whether the late works reflect spiritual transcendence, compositional necessity driven by deafness, or a deliberate "late style" project remains a central musicological question.
+
+Source: adapted from "Ludwig van Beethoven" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ludwig_van_Beethoven

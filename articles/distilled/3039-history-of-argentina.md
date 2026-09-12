@@ -51,3 +51,5 @@ Democracy was restored under Raúl Alfonsín (1983-89), who addressed human righ
 - **The "Dirty War" and its Legacy**: Debates continue over the exact number of victims (officially around 30,000 "disappeared"), civilian complicity, and the balance between justice and reconciliation.
 - **Economic Model**: A persistent debate exists between proponents of neoliberal policies (like Macri's) and those favoring state intervention and social welfare (like the Kirchners').
 - **Role of the Military**: Argentina's history of frequent military coups raises ongoing questions about the armed forces' proper role in a democratic society.
+
+Source: adapted from "History of Argentina" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Argentina

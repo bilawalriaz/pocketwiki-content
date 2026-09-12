@@ -50,3 +50,5 @@ By 1964, Khrushchev's erratic policy-making, agricultural failures, and the humi
 - **Impact of Agricultural Policies**: The long-term effects of his agricultural reforms, like the Virgin Lands Campaign and corn promotion, are debated—some see them as well-intentioned but flawed experiments, others as reckless disruptions.
 - **Role in the Cuban Missile Crisis**: Analysis continues on whether his decision to place missiles in Cuba was a desperate gamble to redress the strategic balance or a defensive move to protect a communist ally.
 - **Reasons for His Ouster**: While official reasons cited age and health, historians point to policy failures, erratic leadership, and the resentment of the party elite he had alienated with his reforms.
+
+Source: adapted from "Nikita Khrushchev" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nikita_Khrushchev

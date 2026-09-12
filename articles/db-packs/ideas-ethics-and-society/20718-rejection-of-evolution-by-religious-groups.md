@@ -35,3 +35,5 @@ Falsifiability, the principle that scientific claims must be testable, was artic
 ## Distinguishing science from religion
 
 Science operates by methodological naturalism, the convention that observable events are explained by natural causes without asserting or denying the supernatural. Science never claims evolution disproves God, only that it does not need supernatural explanations. Some scientists and clergy frame science and religion as separate domains of inquiry, sometimes called non-overlapping magisteria, while creationist groups reject this separation and treat evolution as an attack on faith.
+
+Source: adapted from "Rejection of evolution by religious groups" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rejection_of_evolution_by_religious_groups

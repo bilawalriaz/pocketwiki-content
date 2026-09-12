@@ -41,3 +41,5 @@ The style permeated all visual arts. In architecture, it adorned skyscrapers lik
 
 ## Debates and Open Questions
 The source highlights a central tension within Art Deco between **traditionalism and modernism**. Traditionalists, like furniture designer Paul Follot, defended ornament and luxury, arguing the "superfluous is indispensable." Modernists, led by Le Corbusier, attacked this as elitist and promoted affordable, mass-produced design for all. This debate over whether decorative arts should serve the wealthy few or the general public was a defining conflict of the era. Additionally, the term "Art Deco" itself is a retrospective label; during its heyday, the style was known by many names (e.g., Style Moderne, Zigzag Moderne) and was not recognized as a single, homogeneous movement.
+
+Source: adapted from "Art Deco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Art_Deco

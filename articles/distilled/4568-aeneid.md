@@ -44,3 +44,5 @@ The *Aeneid* was an immediate success and became central to Latin education. Its
 - **Aeneas's Character**: Does Aeneas's final, rage-filled killing of Turnus undermine his role as the embodiment of pietas?
 - **Allegory**: What is the significance of Aeneas exiting the underworld through the "gate of false dreams"? Does it imply the history of Rome is a lie?
 - **Unfinished State**: Did Virgil intend to revise the ending, or is the abrupt conclusion a purposeful artistic choice?
+
+Source: adapted from "Aeneid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aeneid

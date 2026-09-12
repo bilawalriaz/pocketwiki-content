@@ -57,3 +57,5 @@ Reactive autonomy handles immediate responses such as collision avoidance, wall 
 Simultaneous localization and mapping (SLAM) combines odometry (movement measured by sensors like IMUs) with external observations to build a 3D map of the world and the aircraft's place in it. High-altitude outdoor navigation usually relies on GPS and is simple mapping rather than true SLAM. SLAM matters most at low altitude and indoors, where photogrammetry (reconstructing 3D shape from photographs) and lidar are active research areas.
 
 Swarming draws on swarm robotics: networks of agents that reconfigure as members enter or leave, often using bio-inspired steering and flocking behaviours.
+
+Source: adapted from "Autonomous aircraft" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Autonomous_aircraft

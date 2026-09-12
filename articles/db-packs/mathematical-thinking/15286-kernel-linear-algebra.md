@@ -46,3 +46,5 @@ The idea extends to homomorphisms of modules (generalised vector spaces where sc
 ## Computation
 
 A basis for the kernel of A is computed by stacking the identity below A to form [A | I], reducing by Gaussian elimination to column echelon form, and reading off the columns of the lower block that align with zero columns of the upper block. A nonhomogeneous system Ax = b has a solution exactly when b lies in the column space of A; whenever solutions exist, any two differ by an element of the kernel, so the full solution set is {v + x : Av = b, x ∈ ker(A)}, a translate of the kernel.
+
+Source: adapted from "Kernel (linear algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kernel_%28linear_algebra%29

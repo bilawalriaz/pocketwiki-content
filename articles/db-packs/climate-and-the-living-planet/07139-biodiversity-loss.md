@@ -33,3 +33,5 @@ Biodiversity underpins the ecosystem services humans depend on: crop pollination
 ## What is being done
 
 The 2010 Aichi Biodiversity Targets under the UN Convention on Biological Diversity largely failed: only six of twenty goals were partially achieved by 2020. In December 2022, every country except the United States and the Holy See signed the Kunming-Montreal Global Biodiversity Framework, which sets a "30 by 30" goal of protecting 30% of land and sea by 2030. The targets are not legally binding, and as of signing, only 17% of land and 10% of ocean were formally protected.
+
+Source: adapted from "Biodiversity loss" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biodiversity_loss

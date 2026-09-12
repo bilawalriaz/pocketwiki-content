@@ -42,3 +42,5 @@ Tourism, primarily via guided jeep and elephant safaris, provides economic benef
 
 ## Debates and Open Questions
 The park's conservation strategy is debated, particularly the use of lethal force against poachers. While authorities argue it is necessary to protect endangered species, critics question its human cost and effectiveness. The long-term impact of climate change on flood patterns and the park's ecology is another major concern, as is balancing tourism revenue with the needs of local communities and wildlife protection.
+
+Source: adapted from "Kaziranga National Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kaziranga_National_Park

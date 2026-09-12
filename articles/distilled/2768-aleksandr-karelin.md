@@ -46,3 +46,5 @@ After his sole international loss to Rulon Gardner at the 2000 Olympics, Karelin
 - **Controversial Losses**: Both of Karelin's senior-level losses (1987 USSR Championships to Igor Rostorotsky and 2000 Olympics to Rulon Gardner) are considered controversial. Some, like Finnish wrestler Tuomo Karila, argue Gardner should not have been awarded the decisive point.
 - **Gardner Upset**: The magnitude of Karelin's loss to Gardner is debated as one of the greatest upsets in sports history, given Karelin's prior dominance and his previous 5-0 victory over Gardner.
 - **"The Experiment" Nickname**: The origin of this nickname is debated; it is linked to speculation about performance-enhancing drugs, which Karelin denied, attributing his physique to extreme training.
+
+Source: adapted from "Aleksandr Karelin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aleksandr_Karelin

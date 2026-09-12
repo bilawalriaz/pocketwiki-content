@@ -40,3 +40,5 @@ Beckenbauer's post-playing career was marred by financial investigations. He was
 ## Debates and Open Questions
 - **Origin of Nickname:** The popular story that his nickname "der Kaiser" (the Emperor) originated from a photo with a bust of Emperor Franz Joseph I is disputed. An alternative account links it to a defiant act in a 1969 cup final.
 - **2006 World Cup Allegations:** The full circumstances of payments and potential bribery related to Germany's 2006 World Cup bid remain unclear, as the official investigation was closed without a verdict.
+
+Source: adapted from "Franz Beckenbauer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Franz_Beckenbauer

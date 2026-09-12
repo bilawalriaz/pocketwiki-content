@@ -41,3 +41,5 @@ Tajiks are the ethnic majority, with minorities of Uzbeks and Russians. The stat
 - The **unemployment rate** is a subject of debate, with a large discrepancy between official registered figures and higher international estimates, reflecting a vast informal economy.
 - The **political stability** of the country is often characterized as "profoundly averse to risk" due to the trauma of the civil war, which may hinder genuine political reform.
 - The **long-term economic vulnerability** of Tajikistan is a key concern, as its growth is heavily tied to remittance flows from Russia and global commodity prices, with diversification remaining a major challenge.
+
+Source: adapted from "Tajikistan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tajikistan

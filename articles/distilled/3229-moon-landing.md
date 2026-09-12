@@ -44,3 +44,5 @@ Initial uncrewed landers used direct ascent. However, crewed missions required a
 - The Soviet lunar program was secretive, hiding mission failures by assigning public mission numbers only after success.
 - The long hiatus in crewed lunar landings after 1972 is attributed to high costs and shifting political priorities.
 - The recent surge in commercial and international uncrewed landings signals a new era, but the sustainability and scientific return of these missions are still being evaluated.
+
+Source: adapted from "Moon landing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moon_landing

@@ -43,3 +43,5 @@ The total Outback population was estimated at 607,000, with 17% identifying as I
 
 ## Debates and Open Questions
 The source does not explicitly outline major scholarly debates, but it notes the Outback's identity is tied to concepts like "beyond the Black Stump," whose location is variable and based on local folklore. The environmental impact of feral animals versus the protection of fragile rangelands is an ongoing management challenge.
+
+Source: adapted from "Outback" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Outback

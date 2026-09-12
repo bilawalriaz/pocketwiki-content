@@ -40,3 +40,5 @@ The Greek cause attracted widespread sympathy in Europe, known as Philhellenism,
 *   The historicity of the traditional story of Metropolitan Germanos raising the banner of revolution at the Monastery of Agia Lavra on 25 March 1821 is debated by historians.
 *   The extent to which the "barbarisation project"—the alleged Ottoman-Egyptian plan to deport the Greek population—was a real plan or a propaganda tool used to spur European intervention remains unclear.
 *   Scholars debate whether massacres committed by Greek revolutionaries were retaliatory responses to prior Ottoman actions or simultaneous atrocities that marked the violent birth of the new nation.
+
+Source: adapted from "Greek War of Independence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Greek_War_of_Independence

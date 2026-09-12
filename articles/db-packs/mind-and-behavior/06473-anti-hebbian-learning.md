@@ -41,3 +41,5 @@ and a threshold step
 $$\Delta t_i = \gamma\,(y_i - p)$$
 
 keeps each output firing at a target rate $p$. Common inputs are pushed toward sparse, efficient codes that resemble a Huffman code emerging from the statistics of the data.
+
+Source: adapted from "Anti-Hebbian learning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anti-Hebbian_learning

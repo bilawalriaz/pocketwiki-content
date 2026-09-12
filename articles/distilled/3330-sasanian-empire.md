@@ -47,3 +47,5 @@ The empire was severely weakened by the devastating Byzantine–Sasanian War of 
 - The exact nature and extent of religious tolerance within the empire is debated, with policies varying significantly between rulers.
 - The degree of continuity between Sasanian administrative practices and those of the early Islamic caliphates is a subject of scholarly discussion.
 - The precise causes for the rapid collapse of the empire in the face of the Arab invasions, beyond the exhaustion from the Byzantine war, are analyzed in terms of social, economic, and political fragmentation.
+
+Source: adapted from "Sasanian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sasanian_Empire

@@ -48,3 +48,5 @@ Often called Australia's cultural capital, Melbourne is renowned for its music, 
 - The nature of John Batman's 1835 "treaty" with Wurundjeri elders is heavily disputed; it may have been a gift exchange or a *tanderrum* ceremony allowing temporary access, not a permanent land sale.
 - The boundaries between the traditional lands of the Wurundjeri and Bunurong peoples, agreed in 2021, remain contested by some individuals on both sides.
 - The exact meaning and application of the Indigenous names Narrm and Naarm are debated; sources differ on whether they refer specifically to the city area or the wider Port Phillip Bay region.
+
+Source: adapted from "Melbourne" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Melbourne

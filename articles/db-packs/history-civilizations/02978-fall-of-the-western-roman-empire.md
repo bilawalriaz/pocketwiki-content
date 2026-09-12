@@ -23,3 +23,5 @@ Modern scholarship, drawing on archaeology and climate science, sees no single c
 ## Aftermath
 
 The deposition of Romulus Augustulus is a conventional endpoint, not a clean break. Roman political theory still treated the empire as one state under a single emperor, now the Eastern ruler in Constantinople. Small rump regimes, such as the Domain of Soissons and the Kingdom of Dalmatia, persisted briefly. The **Eastern Roman (Byzantine) Empire** survived for another thousand years. In the West, the new Germanic kingdoms adopted Roman institutions, laws, and the Latin language, laying the groundwork for medieval Europe. Archaeology shows continuity in material culture and settlement patterns in many regions long after 476, evidence that ordinary life persisted even as the imperial framework above it gave way.
+
+Source: adapted from "Fall of the Western Roman Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire

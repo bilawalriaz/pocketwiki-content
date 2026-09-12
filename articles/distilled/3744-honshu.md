@@ -36,3 +36,5 @@ The island is divided into five nominal regions and contains 34 prefectures, inc
 
 ## Debates and open questions
 The source text does not present specific scholarly debates or open questions about Honshu.
+
+Source: adapted from "Honshu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Honshu

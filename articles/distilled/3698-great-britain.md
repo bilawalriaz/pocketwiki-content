@@ -42,3 +42,5 @@ The population was about 61 million in 2011. London is the capital of England an
 - The precise meaning of "Great Britain" in common and political usage is fluid; it is often used loosely to refer to the entire United Kingdom, though this is technically incorrect.
 - The origin of the name "Britain" from Pytheas's term is debated, with theories ranging from "painted ones" to other Celtic roots.
 - The extent and nature of population replacements during the Bronze Age (Bell Beaker Culture) and Anglo-Saxon periods are subjects of ongoing genetic and archaeological research.
+
+Source: adapted from "Great Britain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Britain

@@ -40,3 +40,5 @@ The culture reflects its settlement history, with strong Roman Catholic traditio
 ## Debates and Open Questions
 - **Pre-Portuguese Settlement:** Archaeological structures (hypogea) and biological evidence (mouse DNA, pollen from lake sediments) suggest possible human presence before the 15th century, possibly by Norse or other groups, but this is not conclusively proven.
 - **Discovery Date:** The exact date and discoverer of the Azores in 1427 are uncertain, with multiple historical accounts offering different names.
+
+Source: adapted from "Azores" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Azores

@@ -94,3 +94,5 @@ Earth is personified as a mother goddess in many cultures; creation myths involv
 - Earth's fate during the Sun's red-giant phase is unclear (vaporization versus survival; a 2026 study suggests survival)
 - "Snowball Earth" hypothesis: whether much of Earth was ice-covered during the Neoproterozoic
 - Inner core rotation rate: proposed 0.1–0.5° per year advance, though higher and lower rates have also been proposed
+
+Source: adapted from "Earth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Earth

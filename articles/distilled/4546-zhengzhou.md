@@ -45,3 +45,5 @@ Zhengzhou is a major research city, ranking among the world's top 60 per the Nat
 ## Debates and Open Questions
 *   The exact location of the early Shang capitals (Áo, Bó, or Yan) in the Zhengzhou area is debated among archaeologists.
 *   The source notes that Zhengzhou's administrative subdivisions are "likely to undergo significant changes in the near future due to increasingly rapid urban expansion," indicating ongoing planning and potential reorganization.
+
+Source: adapted from "Zhengzhou" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zhengzhou

@@ -40,3 +40,5 @@ Fibonacci authored several other mathematical works, including *Practica Geometr
 - The exact dates of Fibonacci's birth and death are uncertain, given as "c. 1170" and "c. 1240-50."
 - The origin of the name "Fibonacci" is modern, first appearing in an 1838 text, though he was referred to as "Lionardo Fibonacci" as early as 1506.
 - While Fibonacci introduced the Fibonacci sequence to Europe, the sequence was described by Indian mathematicians centuries earlier, raising questions about potential transmission of knowledge.
+
+Source: adapted from "Fibonacci" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fibonacci

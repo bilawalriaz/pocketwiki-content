@@ -32,3 +32,5 @@ The audit market is dominated by the Big Four accounting firms: Deloitte, Ernst 
 ## Fraud, error, and regulation
 
 Accounting fraud is an intentional misstatement, a criminal act that may also breach civil law and often involves collusion. An accounting error is unintentional and may instead breach civil duties such as negligence. The primary duty to prevent and detect both rests with management, not the auditor. The string of U.S. reporting scandals around 2001, including Enron, WorldCom, Qwest, and Sunbeam, exposed how weak standards and incentives could produce manipulated results. The response was the U.S. Sarbanes–Oxley Act of 2002, which sharply raised criminal penalties for securities fraud, for destroying or fabricating records, and for schemes to defraud shareholders.
+
+Source: adapted from "Accounting" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Accounting

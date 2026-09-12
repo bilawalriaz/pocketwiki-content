@@ -45,3 +45,5 @@ The city is a cultural hub with monasteries like Gandantegchinlen, museums, and 
 - The exact reason for the 1924 renaming to Ulaanbaatar is debated; it was possibly in honor of Damdin Sükhbaatar, but the name was pushed by a Soviet official.
 - The effectiveness of the government's 2019 ban on raw coal burning in favor of coke briquettes to reduce pollution is inconclusive, as smoke remains a major concern.
 - The demolition of historic buildings since 2013, despite public outcry, raises ongoing questions about balancing development with cultural preservation.
+
+Source: adapted from "Ulaanbaatar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ulaanbaatar

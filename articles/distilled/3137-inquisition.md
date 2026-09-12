@@ -45,3 +45,5 @@ Inquisitorial proceedings began with a "period of grace" for voluntary confessio
 
 ## Debates and Open Questions
 Historical scholarship on the Inquisition has evolved significantly, especially with the opening of Spanish and Roman archives. Revisionist historians argue that earlier views were based on Protestant "Black Legend" propaganda and that the tribunals were often more procedurally fair and less bloody than popularly believed. They point to the use of legal technicalities that saved many defendants and the relatively low number of executions compared to secular courts. However, other scholars maintain that the Inquisition's use of torture, secret proceedings, and the climate of terror it created had profound and damaging social effects, regardless of the exact statistics. The debate continues over the institution's overall brutality, its role in state-building, and the sincerity of the Catholic Church's modern apologies for its actions.
+
+Source: adapted from "Inquisition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Inquisition

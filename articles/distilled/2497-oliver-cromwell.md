@@ -52,3 +52,5 @@ Cromwell died in 1658 and was succeeded by his son Richard, whose weakness led t
 *   **The brutality of the Irish campaign:** Historians debate whether massacres at Drogheda and Wexford were standard military practice, deliberate terror, or ethnic cleansing, and Cromwell's personal responsibility.
 *   **His religious motivation:** Was his rule driven by sincere Puritan vision or was this a justification for ambition?
 *   **The nature of his power:** Was the Protectorate a military dictatorship, a constitutional experiment, or a failed attempt at stable non-monarchical government?
+
+Source: adapted from "Oliver Cromwell" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Oliver_Cromwell

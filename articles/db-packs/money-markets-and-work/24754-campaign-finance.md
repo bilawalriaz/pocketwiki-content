@@ -19,3 +19,5 @@ Many countries, especially across South America and Europe, use public money to 
 ## Regulation and consequences
 
 Because campaign finance touches free and fair elections, effective governance, and the regulation of corruption, the United Nations Convention Against Corruption urged members to enhance transparency in the funding of political parties and candidacies. Researchers at the International Foundation for Electoral Systems identified several common understandings: money is necessary for democratic politics but is never unproblematic; regulation must not kill healthy competition; strategy has to fit local context; effective regulation and disclosure help control the worst effects of money in politics when well designed; and oversight works only when regulators, civil society, and the media act together in the open. Campaign finance regulations can reduce political corruption.
+
+Source: adapted from "Campaign finance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Campaign_finance

@@ -66,3 +66,5 @@ Nonfood products from plants include essential oils, natural dyes, pigments, wax
 ## Debates and open questions
 
 The placing of algal groups in the 2019 phylogeny is supported by phylogenies based on genomes from the Mesostigmatophyceae and Chlorokybophyceae. Both "chlorophyte algae" and "streptophyte algae" are treated as paraphyletic in this analysis, as land plants arose from within those groups. The classification of Bryophyta is supported both by Puttick et al. 2018 and by phylogenies involving hornwort genomes. The rapid adaptive radiation of flowering plants in the Cretaceous remains what Charles Darwin called "an abominable mystery."
+
+Source: adapted from "Plant" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant

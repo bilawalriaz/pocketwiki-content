@@ -30,3 +30,5 @@ Satellite phones connect through orbiting satellites rather than ground-based to
 ## Who invented it
 
 The invention of the telephone is disputed. Charles Bourseul published a theoretical design for a make-and-break transmitter in 1854; Antonio Meucci built a working voice-communication device around 1849 and filed a patent caveat in 1871; Johann Philipp Reis demonstrated a voice-carrying device publicly in 1861 with the sentence "Das Pferd frisst keinen Gurkensalat"; Elisha Gray filed a caveat on the same day Bell filed his patent in 1876. Bell was the first to receive a U.S. patent and to transmit clear speech, and he is still the figure the legal and scientific consensus credits. The U.S. House of Representatives passed a resolution in 2002 recognising Meucci's earlier work, but the broader credit has not shifted.
+
+Source: adapted from "Telephone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Telephone

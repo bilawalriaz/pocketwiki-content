@@ -45,3 +45,5 @@ Ancient Hawaiians revered Mauna Loa and built trails like the ʻAinapō Trail to
 - The effectiveness of the 1935 bombing operation to divert lava flows from Hilo is heavily disputed by volcanologists.
 - The cause of a period of near-inactivity at Mauna Loa between about 7,000 and 6,000 years ago is unknown and not observed at other Hawaiian volcanoes.
 - The precise nature and mechanics of the interaction between Mauna Loa's and Kīlauea's magma systems, including whether pulses from one can trigger eruptions at the other, remains an area of study.
+
+Source: adapted from "Mauna Loa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mauna_Loa

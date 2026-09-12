@@ -67,3 +67,5 @@ The semi-cursive typeface used for Rashi's commentaries in printed Talmud and Ta
 - **Ancestry claims:** Later sources claim 33rd-generation descent from Johanan HaSandlar/Gamaliel/Davidic line; Rashi himself never claimed this, and the early responsum of Solomon Luria omits it.
 - **Jarchi/Yarhi error:** The evolution of this misnomer (Christian origin vs. Hebrew usage) is traced but illustrates medieval scholarly transmission errors.
 - **Supercommentary proliferation:** Why Rashi's commentary—among many—became the singular "canonized" base for 300+ supercommentaries remains a subject of scholarly analysis (e.g., Eran Viezel).
+
+Source: adapted from "Rashi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rashi

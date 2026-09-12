@@ -43,3 +43,5 @@ Nelson's death secured his status as a national hero. Monuments like Nelson's Co
 - **Naples Campaign**: Nelson's role in the reoccupation of Naples and the subsequent reprisals against Jacobins is debated. Some view his actions, including the execution of Caracciolo, as a breach of honour, while others argue he was restoring order and acting under the authority of the Neapolitan monarchy.
 - **Slavery**: Nelson's opposition to the abolitionist movement, influenced by his friendships with Caribbean slaveholders, is a controversial aspect of his legacy, contrasting with his heroic public image.
 - **Tactical Innovation**: While celebrated for his unorthodox tactics at Trafalgar, some historians debate the extent to which his "pell-mell" battle plan was a radical departure from existing naval doctrine.
+
+Source: adapted from "Horatio Nelson, 1st Viscount Nelson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Horatio_Nelson%2C_1st_Viscount_Nelson

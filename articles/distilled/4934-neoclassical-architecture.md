@@ -48,3 +48,5 @@ The style adapted to local contexts. In the United States, it evolved into Feder
 - The precise boundaries of Neoclassicism are debated; the term is often used loosely for any building using classical vocabulary.
 - The relationship between Neoclassicism and later revival styles (post-1840) is a point of scholarly classification, with the former considered a specific movement and the latter a series of revivals.
 - The Empire style is sometimes seen not as the culmination but as the decline of the Neoclassical movement, drained of its original high-minded ideals.
+
+Source: adapted from "Neoclassical architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neoclassical_architecture

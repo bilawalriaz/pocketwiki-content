@@ -34,3 +34,5 @@ Scientists study the world as it is; engineers create what has never been. Engin
 - **Factor of safety**: Margin in designs to reduce unexpected failure.
 - **Forensic engineering**: Study of failed products to find causes and prevent recurrence.
 - **Puddling process**: Henry Cort's 1784 method for large-scale wrought iron.
+
+Source: adapted from "Engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Engineering

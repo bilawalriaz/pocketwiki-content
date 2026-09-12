@@ -44,3 +44,5 @@ The book was an immediate bestseller but also drew criticism for its perceived m
 - **Political Satire**: The specific political targets, especially in Part I (Lilliput), are debated, though parallels to English politics (Whigs/Tories, England/France) are widely accepted.
 - **The "Lindalino" Passage**: The omission of this allegorical episode about Dublin's rebellion against British currency in early editions raises questions about censorship and Swift's intended political message.
 - **Gender and Misogyny**: Critics analyze whether Gulliver's misogynistic descriptions are Swift's own views or a satirical device to mock such attitudes.
+
+Source: adapted from "Gulliver's Travels" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulliver%27s_Travels

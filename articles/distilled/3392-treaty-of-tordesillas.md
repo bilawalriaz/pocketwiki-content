@@ -44,3 +44,5 @@ The Treaty of Tordesillas was effectively voided by the Treaty of Madrid (1750),
 - **Portuguese Knowledge of Brazil:** Some historians argue Portugal knew of Brazil's eastern bulge before Cabral's 1500 landing, suggesting his arrival was not accidental.
 - **Enforcement in Asia:** Spain claimed the Tordesillas line divided the entire world, but Portugal successfully limited it to the Atlantic via papal bulls, leading to the Zaragoza agreement.
 - **Legacy in Antarctica:** Chile invoked the treaty in the 20th century to defend Antarctic territorial claims, arguing it granted sovereignty to the pole.
+
+Source: adapted from "Treaty of Tordesillas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Treaty_of_Tordesillas

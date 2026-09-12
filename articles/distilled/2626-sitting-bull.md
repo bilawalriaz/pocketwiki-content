@@ -46,3 +46,5 @@ In 1889–90, the Ghost Dance movement, which prophesied a Native American reviv
 - **Leadership Role:** Historians debate the extent of Sitting Bull's formal authority. While some sources from the 1870s called him "Supreme Chief of the whole Sioux Nation," this is contested, as Lakota society was decentralized, with individual bands making their own decisions.
 - **Role at Little Bighorn:** His precise military versus spiritual role in the 1876 battle is a point of scholarly discussion; he is generally described as a spiritual leader rather than a tactical commander.
 - **Ghost Dance Involvement:** The degree to which Sitting Bull actively supported or merely tolerated the Ghost Dance movement at Standing Rock is unclear, though his presence was seen as a threat by U.S. agents.
+
+Source: adapted from "Sitting Bull" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sitting_Bull

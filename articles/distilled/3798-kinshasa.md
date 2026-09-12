@@ -45,3 +45,5 @@ Kinshasa generates approximately 85% of the DRC's GDP despite housing only about
 *   The exact origin of the name "Kinshasa" is debated, with theories linking it to words for "salt bag" or "place of exchange" in local languages.
 *   The city's rapid, largely unplanned expansion presents ongoing challenges for governance, service provision, and environmental sustainability.
 *   The long-term impact of the massive Chinese infrastructure loan (2007-2008) on Kinshasa's development and local markets is a subject of analysis.
+
+Source: adapted from "Kinshasa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kinshasa

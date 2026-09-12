@@ -42,3 +42,5 @@ The *Divan* has had a wide-reaching influence. It inspired American Transcendent
 - **Interpretation of Love**: A key debate centers on whether Rumi's poetry advocates for a personal, longing love (for Shams as a divine mirror) or a universal, impersonal "Religion of Love" that transcends Islamic theology.
 - **Authenticity and Translation**: The accuracy and fidelity of popular English translations, particularly those by Coleman Barks, are contested by scholars. The process of selecting and interpreting poems for translation raises questions about preserving Rumi's original intent and context.
 - **Arrangement of the Text**: The historical shift in how the poems are organized—alphabetically in Persian editions versus by metre in Turkish editions—reflects different editorial and cultural priorities in presenting Rumi's work.
+
+Source: adapted from "Divan-i Shams-i Tabrizi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Divan-i_Shams-i_Tabrizi

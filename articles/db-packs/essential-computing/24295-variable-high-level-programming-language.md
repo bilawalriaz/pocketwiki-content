@@ -52,3 +52,5 @@ Variables can be grouped by when their storage is bound and released:
 - Stack-dynamic: bound when the declaration is executed and released when the procedure returns, like local variables in C functions and Java methods.
 - Explicit heap-dynamic: allocated and freed by explicit run-time instructions, like C++ objects created with `new` and destroyed with `delete`, and all objects in Java.
 - Implicit heap-dynamic: bound to heap storage only on assignment, with allocation and release on each reassignment, like variables in JavaScript and PHP, and all variables in APL.
+
+Source: adapted from "Variable (high-level programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Variable_%28high-level_programming_language%29

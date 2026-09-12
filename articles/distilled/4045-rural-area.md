@@ -35,3 +35,5 @@ Some communities have successfully encouraged economic development through polic
 
 ## Debates and Open Questions
 The source highlights ongoing scholarly and administrative debates about how to define "rural," noting that "different countries have varying definitions... for statistical and administrative purposes." There is no single global standard, with definitions based on population density, settlement size, economic activity, or administrative boundaries.
+
+Source: adapted from "Rural area" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rural_area

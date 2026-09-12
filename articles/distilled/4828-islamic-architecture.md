@@ -43,3 +43,5 @@ Islamic cities were organized around principles of privacy and hierarchy, with p
 
 ## Debates and Open Questions
 Scholars debate whether "Islamic architecture" constitutes a unified style or simply architecture produced in Muslim-majority regions, given its vast geographic and cultural diversity. The origins of certain elements, like the minaret and muqarnas, are uncertain and may have developed independently in multiple regions. There is also discussion about the extent to which pre-Islamic Arabian architecture influenced early mosque design versus the dominant influence of conquered Byzantine and Sasanian traditions. Finally, the role of religious symbolism versus purely functional or aesthetic drivers in shaping architectural forms remains a topic of scholarly interpretation.
+
+Source: adapted from "Islamic architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Islamic_architecture

@@ -55,3 +55,5 @@ Axiomatic thermodynamics, pioneered by Constantin Carathéodory in 1909, formula
 - Non-equilibrium thermodynamics lacks general principles for predicting approach rates to equilibrium, especially in systems far from equilibrium.
 - The interpretation of entropy—as disorder, information, or a statistical measure—remains philosophically debated.
 - Quantum thermodynamics explores thermodynamic behavior at quantum scales, raising questions about the applicability of classical laws.
+
+Source: adapted from "Thermodynamics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thermodynamics

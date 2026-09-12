@@ -92,3 +92,5 @@ Greek and Roman writers (323 BCE – 2nd century CE) portray Moses as a foundati
 4. **YHWH’s Origin:** Was YHWH originally a Midianite/Edomite deity (Kenite hypothesis, per Cornelis Tiele 1872) introduced by Moses via his father-in-law Jethro, or native to Israel?
 5. **Pentateuch Composition:** To what extent does the Torah preserve genuine Mosaic tradition vs. Persian-period (538–332 BCE) editorial construction using Moses as a "narrative bracket"?
 6. **Ethics of Conquest:** How should modern readers judge the biblical accounts of *herem* (total destruction) and the Midianite war (Numbers 31) attributed to Moses—divine command, symbolic fable, or historical atrocity?
+
+Source: adapted from "Moses" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moses

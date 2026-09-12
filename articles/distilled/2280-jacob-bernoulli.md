@@ -43,3 +43,5 @@ Bernoulli married Judith Stupanus in 1684. He was a member of the Royal Academie
 
 ## Debates and Open Questions
 The source notes that Bernoulli's proof of the divergence of the harmonic series (∑1/n) was not new, having been proved earlier by Nicole Oresme in the 14th century and Pietro Mengoli. His work on infinite series also could not find a closed form for ∑1/n², a problem later solved by Euler in 1737. The relationship between Jacob and his brother Johann is highlighted as a significant shift from collaboration to bitter rivalry.
+
+Source: adapted from "Jacob Bernoulli" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jacob_Bernoulli

@@ -31,3 +31,5 @@ Whether a circularly polarized wave is "left" or "right" depends on convention. 
 ## Why metamaterials matter
 
 Natural chiral media, from amino acids to quartz, produce weak effects because their chiral building blocks are far smaller than the wavelength of light. Metamaterials solve this by making the building blocks themselves comparable to the wavelength, boosting optical activity by orders of magnitude. At optical frequencies, extrinsic 3D chirality in metasurfaces has yielded nonlinear optical activity (an effect whose strength scales with light intensity) about 30 million times stronger than in lithium iodate, the natural benchmark. At microwave frequencies, an intrinsically 3D-chiral structure exceeded the same benchmark by roughly twelve orders of magnitude.
+
+Source: adapted from "Chiral media" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chiral_media

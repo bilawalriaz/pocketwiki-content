@@ -39,3 +39,5 @@ Uthman's final years were marred by growing opposition, fueled by accusations of
 - **Causes of the Revolt:** The reasons for the anti-Uthman movement are disputed. Sunni tradition often attributes it to the personal ambition of rebels and external agitators, while Shia and some modern historians emphasize Uthman's nepotism, centralized policies, and deviations from the precedents of his predecessors.
 - **Legacy and Assessment:** Uthman is revered in Sunni tradition as the third Rightly Guided Caliph and a martyr. In Shia tradition, he is often viewed less favorably for consolidating Umayyad power and altering the governance established by Muhammad and the first caliphs.
 - **Compilation of the Quran:** While Uthman's role in standardizing the Quran is central to Sunni belief, Shia sources hold that the Quran was compiled during Muhammad's lifetime, and Uthman's work was merely a preservation effort.
+
+Source: adapted from "Uthman" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Uthman

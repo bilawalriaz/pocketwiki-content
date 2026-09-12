@@ -45,3 +45,5 @@ The era of conflict spurred intellectual flourishing known as the Hundred School
 - **Start Date**: The traditional date of 475 BC (from Sima Qian) is most cited, but scholars debate other possible starting points.
 - **Scale of Warfare**: Historical records report enormous army sizes and casualties (e.g., 240,000 killed at Yique). Scholars like Michael Loewe and Edward L. Shaughnessy suggest these numbers may be exaggerated due to inadequate records, payment systems based on enemy kills, and later Han dynasty interests.
 - **Philosophical Influence**: While philosophies like Confucianism and Mohism offered pacifistic ideals, rulers were primarily driven by pragmatic survival, raising questions about the direct impact of these schools on state policy during the period itself.
+
+Source: adapted from "Warring States period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Warring_States_period

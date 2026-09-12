@@ -40,3 +40,5 @@ Today, São Paulo has a strong, diversified economy with the highest GDP among B
 - The role and legacy of the *bandeirantes* are debated; they are remembered both for their atrocities in enslaving Indigenous people and for their role in exploring and expanding Brazil's borders.
 - The long-term economic and social consequences of the "café com leite" political dominance and the state's rapid, immigration-fueled industrialization are subjects of ongoing historical analysis.
 - The causes and effects of the dramatic drop in São Paulo's homicide rate since the late 1990s (from 39.7 to 6.27 per 100,000 inhabitants by 2019) are studied for potential lessons in public security.
+
+Source: adapted from "São Paulo (state)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_%28state%29

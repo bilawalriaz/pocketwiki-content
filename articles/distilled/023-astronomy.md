@@ -54,3 +54,5 @@ Astrochemistry overlaps astronomy and chemistry, studying molecular abundances a
 
 ## Debates and open questions
 Important unanswered questions remain in 21st-century astronomy. Cosmic-scale puzzles include the nature of dark matter and dark energy that dominate cosmic evolution, the ultimate fate of the universe, and why lithium abundance is four times lower than the standard Big Bang model predicts. More specific questions concern whether the Solar System is normal or atypical, the origin of the stellar mass spectrum (initial mass function) regardless of initial conditions, the formation of the first galaxies, the origin of supermassive black holes, the source of ultra-high-energy cosmic rays, and whether other life—especially intelligent life—exists in the universe.
+
+Source: adapted from "Astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomy

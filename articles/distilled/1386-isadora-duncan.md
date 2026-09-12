@@ -56,3 +56,5 @@ On September 14, 1927, in Nice, Duncan rode in an open Amilcar CGSS automobile o
 *   **Eleonora Duse Relationship:** Speculation exists regarding the nature of their intimacy during Duncan’s grief in Viareggio, but no confirmation exists.
 *   **Legal Adoption of Isadorables:** Duncan did not legally adopt all six pupils, though three used her surname; the extent of formal guardianship remains unclear.
 *   **Soviet School Support:** The reasons for the Soviet government’s failure to fulfill promises to Duncan’s Moscow school are not fully detailed in the source.
+
+Source: adapted from "Isadora Duncan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Isadora_Duncan

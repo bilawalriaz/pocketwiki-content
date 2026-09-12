@@ -42,3 +42,5 @@ The discovery of oil in 1938 transformed Saudi Arabia's economy and geopolitical
 *   The exact nature and extent of pre-Islamic religious practices in Arabia remain a subject of archaeological and historical study.
 *   The long-term social and political consequences of the centralization of power under Crown Prince Mohammed bin Salman are debated.
 *   The balance between economic modernization (Vision 2030) and the preservation of the traditional religious-social order continues to be a key challenge.
+
+Source: adapted from "History of Saudi Arabia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Saudi_Arabia

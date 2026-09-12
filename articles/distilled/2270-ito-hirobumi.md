@@ -46,3 +46,5 @@ Itō served as the first Resident-General of Korea (1906–1909), initially advo
 *   **Gradualism vs. Opportunism:** Scholars debate whether Itō's political evolution—from anti-Western radical to constitutional monarchist to party founder—reflected a consistent, pragmatic gradualism or a flexible opportunism.
 *   **Legacy in Korea:** Itō is viewed in Japan as a modernizer and statesman, but in Korea as a primary architect of imperialism and colonization. His role in the process leading to annexation remains deeply controversial.
 *   **Constitutional Intent:** There is debate over the true nature of the Meiji Constitution: was it a sincere step toward limited government and popular sovereignty, or primarily a tool to legitimize oligarchic and imperial power?
+
+Source: adapted from "Itō Hirobumi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/It%C5%8D_Hirobumi

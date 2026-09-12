@@ -42,3 +42,5 @@ Singh won re-election in 2009, but his second term was dominated by political sc
 - **Economic Legacy vs. Scandals**: Scholars debate whether the high growth and social welfare achievements of Singh's tenure are overshadowed by the corruption scandals of his second term.
 - **Leadership Style**: A persistent debate concerns whether Singh was a decisive, independent leader or a "weak" figurehead controlled by Congress President Sonia Gandhi (referred to as "10 Janpath").
 - **Effectiveness of Reforms**: The long-term impact and inclusivity of the 1991 liberalization and his government's welfare schemes continue to be analyzed by economists.
+
+Source: adapted from "Manmohan Singh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Manmohan_Singh

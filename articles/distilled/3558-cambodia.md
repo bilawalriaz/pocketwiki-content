@@ -51,3 +51,5 @@ Agriculture is the dominant economic sector, but growth is driven by textiles, c
 - The exact death toll of the Cambodian genocide under the Khmer Rouge remains debated, with estimates ranging from 1 to 3 million.
 - The function and precise age of prehistoric "circular earthworks" discovered near Memot are still debated by archaeologists.
 - The long-term impact of upstream Mekong River dams on Cambodia's Tonle Sap fisheries and food security is a major ongoing concern.
+
+Source: adapted from "Cambodia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cambodia

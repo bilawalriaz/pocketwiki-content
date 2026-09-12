@@ -58,3 +58,5 @@ An ongoing debate concerns whether the nation-state framework will persist. Samu
 - **Continuity of Identity:** Whether recurring names (e.g., "English," "Bulgarian") signify genuine continuity of national meaning or adaptation to new circumstances (Breuilly, Geary).
 - **Elite vs. Popular Identity:** Whether medieval chronicles and laws reflect mass national consciousness or only elite self-definition (Lawrence).
 - **Future Trajectory:** Whether the nation-state will persist, fracture into a "clash of civilizations" (Huntington), dissolve into postnational supranational governance, or transform into a neo-medieval order of overlapping sovereignties (Zielonka).
+
+Source: adapted from "Nation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nation

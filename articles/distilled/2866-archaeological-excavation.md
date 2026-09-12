@@ -41,3 +41,5 @@ Artifacts are primarily recovered by hand during excavation. To maximize recover
 - The use of mechanical excavation is controversial, as it can result in less discrimination in recording the archaeological sequence.
 - New terminology like "strip, map and sample" has been criticized within the profession as jargon that may cover up for falling standards of practice.
 - Processual archaeologist Lewis Binford highlighted that the archaeological record may not fully reflect primary historical activities, as secondary "boredom reducer" tasks leave more visible traces.
+
+Source: adapted from "Archaeological excavation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Archaeological_excavation

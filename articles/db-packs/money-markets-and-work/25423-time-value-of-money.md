@@ -41,3 +41,5 @@ Compound interest and the comparison of payments at different dates long predate
 ## Continuous compounding
 
 When interest compounds continuously rather than per period, the discount factor becomes an exponential: PV = FV × e^(−rt), where e is the base of the natural logarithm and r is the continuously compounded rate. With a discount rate that varies over time as r(t), present value generalises to PV = FV × exp(−∫₀ᵀ r(t) dt). Continuous compounding smooths analysis, approximates daily compounding, and is the natural setting for time-varying rates; equivalent formulas for annuities and perpetuities replace (1 + i) with e and sums with integrals.
+
+Source: adapted from "Time value of money" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Time_value_of_money

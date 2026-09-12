@@ -26,3 +26,5 @@ Behaviorism's hold loosened after Noam Chomsky's 1959 review of Skinner's *Verba
 ## Unresolved questions
 
 The imageless-thought controversy pitted Wundt against the Würzburg School over whether higher thought could be studied by introspection at all. Structuralism and functionalism disagreed on whether psychology's job was to analyse the contents of consciousness or to explain its adaptive purpose. The nature-versus-nurture debate, anticipated by the 12th-century philosopher Ibn Tufail, recurs in every era in new form. The scientific status of psychoanalysis, and of concepts like the unconscious, remains contested. Integration of the biological, cognitive, social, and clinical approaches into one coherent science of mind and behavior is still an open project.
+
+Source: adapted from "History of psychology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_psychology

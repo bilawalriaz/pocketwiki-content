@@ -63,3 +63,5 @@ The Andes form a north–south axis of cultural influence, culminating in the In
 - Whether the Leeward Antilles represent submerged Andean peaks is now questioned by geological studies.
 - The patchy distribution of Polylepis forests is unclear—natural or the result of clearing beginning in the Incan period.
 - The Venezuelan Coastal Range's status as an Andean extension is debatable.
+
+Source: adapted from "Andes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Andes

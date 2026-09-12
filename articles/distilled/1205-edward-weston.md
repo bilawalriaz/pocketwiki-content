@@ -54,3 +54,5 @@ A major retrospective at MoMA in 1946 affirmed Weston’s status as a leading fi
 - **Personal Relationships**: Weston’s relationships with women—Flora, Mather, Modotti, Wilson—are interpreted variously as muses, collaborators, or exploitative dynamics. Some biographers question the emotional cost of these partnerships.
 - **Authorship and Collaboration**: Though Weston rarely shared credit, his collaborations with Modotti and Wilson raise questions about authorship and creative input in his work.
 - **Color Photography**: Weston’s late experiments with Kodachrome remain understudied compared to his black-and-white oeuvre, prompting debate over their significance in his overall career.
+
+Source: adapted from "Edward Weston" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edward_Weston

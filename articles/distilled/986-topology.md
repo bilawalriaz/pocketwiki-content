@@ -42,3 +42,5 @@ Topology finds broad application. In **biology**, knot theory studies DNA enzyme
 
 ## Debates and open questions  
 The source notes that some authorities regard Euler’s polyhedron formula as the first theorem signaling the birth of topology, though this characterization is debated. Additionally, the extent to which topology should be viewed as originating in the early 20th century versus having deeper historical roots (e.g., Leibniz’s *geometria situs*) remains a matter of scholarly interpretation.
+
+Source: adapted from "Topology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Topology

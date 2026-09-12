@@ -39,3 +39,5 @@ Thomas Aquinas was canonized as a saint in 1323 and declared a Doctor of the Chu
 * **The relationship between faith and reason**: Thomas Aquinas' integration of faith and reason has been the subject of ongoing debate and discussion in the history of Catholic theology and Western philosophy.
 * **The nature of God**: Thomas' concept of God as a simple, perfect, and infinite being has been the subject of ongoing theological and philosophical debate.
 * **The problem of evil**: Thomas' discussion of the nature of evil and its relationship to God's existence has been the subject of ongoing philosophical and theological debate.
+
+Source: adapted from "Thomas Aquinas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Aquinas

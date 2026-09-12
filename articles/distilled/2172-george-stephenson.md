@@ -44,3 +44,5 @@ Stephenson became the most sought-after railway engineer in Britain, working on 
 ## Debates and Open Questions
 - The priority and originality of the safety lamp invention remains a historical debate between the claims of George Stephenson and Humphry Davy.
 - Stephenson's conservative engineering philosophy, which favored longer, more expensive routes to avoid steep gradients, is contrasted with the more direct approaches of successors like Joseph Locke.
+
+Source: adapted from "George Stephenson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_Stephenson

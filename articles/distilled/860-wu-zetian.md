@@ -66,3 +66,5 @@ Scholars debate the extent of Wu’s personal involvement in atrocities. Traditi
 Her political reforms, particularly the expansion of the examination system, are widely praised, yet some argue they were motivated primarily by necessity—she needed loyal officials outside the Li clan. The legitimacy of her Zhou dynasty is also contested; while contemporaries accepted it, later historians often dismissed it as an illegitimate interruption of Tang rule.
 
 Her use of Buddhism and Daoism for political legitimacy remains a subject of analysis, with some viewing it as pragmatic and others as syncretic manipulation. The long-term impact of her social policies—particularly the weakening of aristocratic power—is still evaluated differently by scholars, with some seeing it as progressive and others as destabilizing.
+
+Source: adapted from "Wu Zetian" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wu_Zetian

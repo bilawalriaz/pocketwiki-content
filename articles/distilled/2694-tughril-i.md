@@ -47,3 +47,5 @@ Tughril died in 1063 without a direct heir. He had designated his younger nephew
 *   **Succession Model:** Scholars debate the extent to which Tughril successfully imposed a centralized, hereditary Persianate model of kingship versus the traditional Turkic system of shared leadership among elite family members.
 *   **Character Assessment:** Historical sources offer conflicting portrayals of Tughril, describing him as both a pious, just ruler who avoided bloodshed and as an oppressive leader whose army engaged in widespread plunder.
 *   **Motives for Baghdad Intervention:** The precise sequence of events and motivations surrounding Tughril's entry into Baghdad in 1055—whether it was primarily a response to the Caliph's invitation or a calculated move to eliminate the Buyids and expand his own power—is detailed differently across sources.
+
+Source: adapted from "Tughril I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tughril_I

@@ -60,3 +60,5 @@ Satellites, reconnaissance aircraft, and Doppler radar track cyclones. The Dvora
 - **Intensity attribution**: While Category 4–5 increases are linked to warming, quantifying human influence on individual storms (e.g., Hurricane Ida) involves probabilistic assessments.
 - **Paleostorm records**: Proxy data suggest centuries-long activity cycles, but linking these to modern anthropogenic trends is debated.
 - **Extraterrestrial cyclogenesis**: Theoretical models suggest tropical cyclones could form on tidally locked exoplanets, but observational evidence is lacking.
+
+Source: adapted from "Tropical cyclone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tropical_cyclone

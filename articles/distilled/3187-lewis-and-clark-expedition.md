@@ -44,3 +44,5 @@ Sacagawea, a Shoshone woman, served as an interpreter and her presence with an i
 - The role and contributions of Sacagawea are often exaggerated in popular culture; scholars note she was important as an interpreter and in diplomatic relations, but not the guide for the expedition.
 - The last years of York's life are disputed; one account suggests he lived as a chief with Native Americans in Wyoming in the 1830s.
 - The expedition's journals were not fully published until the 20th century, meaning many of their scientific discoveries were unknowingly rediscovered later.
+
+Source: adapted from "Lewis and Clark Expedition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition

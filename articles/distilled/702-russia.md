@@ -61,3 +61,5 @@ The USSR collapsed in 1991, leaving Russia economically devastated and political
 - **Nature of Putinism**: Analysts disagree on whether Russia constitutes a full dictatorship, competitive authoritarian regime, or hybrid system.  
 - **Future of Russian Democracy**: Whether democratic institutions can recover amid ongoing repression and war remains uncertain.  
 - **Ethnic Identity vs. Civic Nationalism**: Tensions persist between ethnic Russian identity and the multiethnic character of the Russian state.
+
+Source: adapted from "Russia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Russia

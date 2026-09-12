@@ -62,3 +62,5 @@ Described extant species are split roughly evenly between non-tetrapod "fish" (p
 - **Conodont affinity:** The relationship of conodonts (known from tooth-like elements) to other vertebrates remains uncertain; they inform the debate on whether mineralized tissue evolved first in teeth or the dermal skeleton.
 - **Traditional ranks vs. clade names:** Whether to retain Linnaean ranks (class, order) for paraphyletic groups like "Agnatha" and "Reptilia" or adopt a purely rank-free phylogenetic nomenclature is an ongoing methodological debate.
 - **Drivers of current decline:** While the five main drivers of population loss are identified, their relative contributions and synergistic interactions across different biomes and clades require further quantification to prioritize conservation.
+
+Source: adapted from "Vertebrate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vertebrate

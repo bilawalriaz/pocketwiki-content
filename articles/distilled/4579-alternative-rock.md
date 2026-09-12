@@ -42,3 +42,5 @@ Following the peak of grunge and Britpop, the genre diversified. Post-grunge ban
 
 ## Debates and Open Questions
 The definition of "alternative rock" is inherently paradoxical and debated. The term describes music that is both "fiercely iconoclastic, anticommercial, and antimainstream" and, simultaneously, a marketable category used by the music industry to sell products. This tension was acute in the 1990s, when the genre's mainstream success was celebrated as a revolution and denounced as a "gigantic sellout." Scholars also debate the precise boundaries of the genre, as its musical styles are incredibly diverse and have continuously evolved, making it "ever harder to define."
+
+Source: adapted from "Alternative rock" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alternative_rock

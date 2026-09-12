@@ -29,3 +29,5 @@ Direct on-camera flash gives harsh, frontal light and produces the *red-eye effe
 Small built-in flashes reach only a few metres before output falls off, after which pictures become dark and noisy. On-camera flash flattens shadows and irritates subjects, and in crowded venues the combined firing of many cameras can distract performers while illuminating nothing useful. Some museums prohibit flash outright. Studio units require mains power and careful rigging, including sandbagged stands, because an umbrella-topped lightstand is easily toppled by a breeze.
 
 High-current LEDs are now used as flashes in smartphones and some cameras. They run on low voltage, are smaller and more efficient than xenon tubes, and double as autofocus aids, video lights, or ordinary torches, though they remain dimmer than xenon flashes.
+
+Source: adapted from "Flash (photography)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Flash_%28photography%29

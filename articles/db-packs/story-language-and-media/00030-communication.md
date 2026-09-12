@@ -33,3 +33,5 @@ Language emerged tens of thousands of years ago from calls, gestures, and expres
 ## Open questions
 
 Whether communication requires intent or success, whether it transmits or creates meaning, whether animal signals are truly referential or recursive, how to weigh innate versus learned signaling, and how to periodize communication history all remain unsettled.
+
+Source: adapted from "Communication" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Communication

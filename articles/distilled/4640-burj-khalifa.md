@@ -45,3 +45,5 @@ The construction relied heavily on migrant labor from South Asia and East Asia, 
 - The classification of the spire as "vanity height" is noted in a Council on Tall Buildings and Urban Habitat study, which states the empty spire "could be a skyscraper on its own."
 - The conditions and treatment of the migrant labor force used in construction have been a subject of criticism from reports by the BBC and Human Rights Watch.
 - The true cause of the 2015 death of tourist Laura Vanessa Nunes is disputed, with Dubai police and Portuguese embassy documents providing conflicting accounts.
+
+Source: adapted from "Burj Khalifa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Burj_Khalifa

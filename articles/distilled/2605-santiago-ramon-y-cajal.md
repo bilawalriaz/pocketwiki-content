@@ -39,3 +39,5 @@ Ramón y Cajal's hundreds of detailed drawings of brain cells remain foundationa
 
 ## Debates and Open Questions
 The primary controversy during Ramón y Cajal's career was the debate between the neuron doctrine and the reticular theory. His work provided the key evidence for the neuron doctrine, which is now the accepted model. A noted omission in his work was his failure to cite earlier work by Fridtjof Nansen, who had also established the contiguous nature of nerve cells in marine life. His political views, described as liberal and agnostic, were later interpreted by some during the Spanish Civil War to align with nationalist positions.
+
+Source: adapted from "Santiago Ramón y Cajal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal

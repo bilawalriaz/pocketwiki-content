@@ -46,3 +46,5 @@ Religious difference sharpened but did not cause the wars. Zoroastrian Persia an
 ## The cost: a power vacuum for Islam
 
 The Byzantine–Sasanian war of 602 to 628 was the most destructive of all. Decades of total mobilisation drained treasuries, depopulated villages, and left veteran armies dead. The Sasanian state collapsed into civil war after 628 and fell to the Arab Rashidun Caliphate within a generation. Byzantium survived, but lost Syria, Egypt, and North Africa, shrinking to a smaller, poorer state centred on Anatolia.
+
+Source: adapted from "Roman–Persian wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Roman%E2%80%93Persian_wars

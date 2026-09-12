@@ -47,3 +47,5 @@ Ramakrishna died of throat cancer in 1886. Before his death, he transferred spir
 - **Psychoanalytic Readings**: Some psychoanalysts, like Jeffrey Kripal, have interpreted Ramakrishna's mystical experiences and practices through the lens of repressed sexuality, a view strongly contested by traditional scholars and the Ramakrishna Order.
 - **Biographical Transformation**: Historians note that Ramakrishna's image was significantly shaped and "mythologized" by his followers, particularly Vivekananda, who presented him as a calm Vedantin, downplaying aspects of his ecstatic and tantric practices.
 - **Source Reliability**: The primary source, the *Kathamrita*, is based on diary notes and has been criticized for potential editorial manipulation and for reflecting the perspectives of urban, educated devotees rather than Ramakrishna's own unfiltered voice.
+
+Source: adapted from "Ramakrishna" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ramakrishna

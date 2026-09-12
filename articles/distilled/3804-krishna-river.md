@@ -48,3 +48,5 @@ The Krishna is sacred to Hindus, who believe bathing in it removes sins. The Kri
 - The Brijesh Kumar tribunal award (2013) on water sharing is challenged by Andhra Pradesh, and Telangana demands a fresh hearing, leaving the legal framework contested.
 - The river’s ecological death is debated, as it rarely reaches the sea due to overuse, leading to saline soils and loss of aquatic ecosystems.
 - The proposal to build a coastal reservoir on the Bay of Bengal to utilize floodwaters from Krishna and Godavari is a potential but unimplemented solution to water scarcity.
+
+Source: adapted from "Krishna River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Krishna_River

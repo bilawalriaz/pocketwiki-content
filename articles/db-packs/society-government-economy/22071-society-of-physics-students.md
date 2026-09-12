@@ -21,3 +21,5 @@ Alongside *The SPS Observer*, SPS and Sigma Pi Sigma publish the online *Journal
 ## SPS Congress
 
 SPS holds a national undergraduate physics meeting. The congress was originally scheduled every four years, and by 2025 the 18th meeting had taken place, with the interval having shifted to every three years. The next congress is planned for Minneapolis, Minnesota in 2028.
+
+Source: adapted from "Society of Physics Students" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Society_of_Physics_Students

@@ -41,3 +41,5 @@ The legacy of modern dance is seen in its direct lineage to postmodern and conte
 
 ## Debates and Open Questions
 The article notes that while modern dance is often framed as a direct rejection of ballet, historians suggest socioeconomic changes were equally important in initiating its development. The precise boundaries between the "Late Modern" period and the emergence of postmodern dance are also fluid, as artists like Merce Cunningham are seen as bridging both eras.
+
+Source: adapted from "Modern dance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Modern_dance

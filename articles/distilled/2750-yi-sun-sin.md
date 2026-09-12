@@ -45,3 +45,5 @@ Posthumously honored with the title Chungmugong (Duke of Loyalty and Warfare), Y
 
 ## Debates and Open Questions
 The exact number of naval engagements Yi Sun-sin fought is a subject of historical debate, though it is generally accepted he fought in at least 23 battles, winning all of them. The precise design and number of turtle ships used in specific battles are also topics of scholarly discussion.
+
+Source: adapted from "Yi Sun-sin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yi_Sun-sin

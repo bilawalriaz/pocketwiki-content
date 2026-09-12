@@ -17,3 +17,5 @@ A second construction method uses pure cantilever arms to build a steel arch fro
 The longest cantilever spans remain steel trusses, but prestressed concrete balanced cantilevers built by segmental construction, in which the bridge is assembled from short factory-made pieces stressed together, have become the standard for medium and long road spans. They share the same shape as a steel cantilever and transfer internal forces through prestressed concrete box girders rather than steel trusses.
 
 The Quebec Bridge at 1,800 feet (549 m), the Forth Bridge at 1,710 feet (521 m), the Minato Bridge in Osaka at 1,673 feet (510 m), the Commodore Barry Bridge in Pennsylvania at 1,644 feet (501 m), and the Howrah Bridge in Kolkata at 1,500 feet (457 m) are the five longest cantilever spans in the world, and the Quebec record has stood for more than a century.
+
+Source: adapted from "Cantilever bridge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cantilever_bridge

@@ -35,3 +35,5 @@ Shays's Rebellion in 1786 convinced nationalists like Washington and Alexander H
 ## What it changed
 
 The Revolution made democratic self-government thinkable as a working system rather than a theoretical idea. The U.S. Constitution is the world's oldest written constitution still in use. The example directly inspired the French Revolution, the Haitian Revolution, and the Latin American wars of independence. By 1804, every northern state had begun abolishing slavery; no southern state did. Women gained some property and divorce rights but remained legally subordinate under coverture, unable to vote or hold office. The democratic promise of 1776 was real, partial, and contested from the start, and it set the terms on which later Americans would keep arguing.
+
+Source: adapted from "American Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/American_Revolution

@@ -39,3 +39,5 @@ end
 ## Implementations, standards, and influence
 
 EiffelStudio is the main IDE, compiling to C, .NET CIL, or running directly. Other implementations include LibertyEiffel, SmartEiffel, Visual Eiffel, Gobo Eiffel, and "The Eiffel Compiler" tecomp. The language became an ISO standard in 2005 through ECMA-367, with a second edition in 2006, though some implementations, notably SmartEiffel, diverged from the standard. Many ideas first introduced in Eiffel were later adopted by Java, C#, D, Ruby, Scala, and Sather, and Eiffel itself was influenced by Ada, Simula, and Z. SCOOP (Simple Concurrent Object-Oriented Programming) provides a contract-based concurrency model available in EiffelStudio but not yet part of the official standard.
+
+Source: adapted from "Eiffel (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eiffel_%28programming_language%29

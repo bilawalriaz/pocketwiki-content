@@ -44,3 +44,5 @@ From the mid-1970s, Brezhnev's health deteriorated severely, leading to a growin
 - **Economic Policy**: There is debate over the extent to which the economic stagnation was caused by Brezhnev's conservative policies versus inherent flaws in the Soviet command economy.
 - **Afghanistan Decision**: Historians question Brezhnev's personal role in the 1979 invasion decision, with some suggesting his deteriorating health allowed hardliners to push the policy through.
 - **Legacy in Russia**: The stark contrast between Brezhnev's negative reputation in Western historiography (for stagnation) and his high approval ratings in modern Russian public opinion polls remains a subject of analysis.
+
+Source: adapted from "Leonid Brezhnev" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leonid_Brezhnev

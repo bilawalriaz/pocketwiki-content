@@ -41,3 +41,5 @@ The central debate concerns the painting's purpose and the identity of its subje
 2.  **Who are the sitters?** The specific Arnolfini and his wife remain uncertain, with the memorial theory hinging on the identification of the woman as the deceased Costanza Trenta.
 3.  **What is the role of symbolism?** Scholars debate the extent and nature of "disguised symbolism." Panofsky saw pervasive hidden meanings; Bedaux argued such symbolism cannot be proven if it aligns with contemporary reality; Harbison advocates for a "multivalent reading" where objects have multiple associations.
 4.  **Is the woman pregnant?** Art historians generally agree her pose reflects contemporary fashion and ideals of fertility, not pregnancy, though the memorial theory gives new weight to the possibility of a symbolic reference to childbirth.
+
+Source: adapted from "Arnolfini Portrait" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arnolfini_Portrait

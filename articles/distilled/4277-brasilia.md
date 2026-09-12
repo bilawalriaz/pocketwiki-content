@@ -46,3 +46,5 @@ Brasília's international airport is the third-busiest in Brazil. The city's roa
 - **Social Segregation**: The superquadra design, while intended to integrate classes, has been accused of fostering spatial segregation and alienation.
 - **Growth vs. Plan**: The city's rapid, unplanned growth in satellite cities contrasted sharply with the controlled utopian vision of the original Plano Piloto, creating a "fantasy island" effect of inequality.
 - **Symbolism**: The airplane-shaped plan is interpreted variously as an homage to aviation, a symbol of modernity, and a Cold War-era statement aligning Brazil with the victorious Allies.
+
+Source: adapted from "Brasília" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bras%C3%ADlia

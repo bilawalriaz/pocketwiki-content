@@ -49,3 +49,5 @@ Han Yu’s prose "reversed the literary decline of eight dynasties" (Su Shi). Hi
 - **Indebtedness to Buddhism:** Scholars note the structural irony that Han Yu’s *daotong* (lineage transmission) and *shi* (teacher/mentor) concepts closely mirror Buddhist *dharma* transmission and guru-disciple relationships, which he virulently denounced.
 - **Assessment of intolerance:** His *Memorial on Bone-relics* is cited as a landmark of religious intolerance. Historians debate whether this reflects genuine Confucian universalism, political calculation (attacking the Emperor’s favorites), or xenophobia.
 - **Poetry vs. Prose:** The vast disparity between his canonical prose status and his minor poetry status raises questions about genre hierarchies in Chinese literary criticism and whether his verse is undervalued due to the shadow of his prose.
+
+Source: adapted from "Han Yu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Han_Yu

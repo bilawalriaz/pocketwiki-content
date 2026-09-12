@@ -17,3 +17,5 @@ Climate-driven ecosystem disruption, including deforestation, habitat fragmentat
 ## Unequal vulnerability
 
 Nearly one in three people globally lacks safe drinking water, a structural weakness that amplifies climate-driven outbreaks. Low-income countries with weak sanitation and health infrastructure bear the greatest burden, and the World Health Organization lists climate change among the top threats to global health. Beyond physical disease, the climate crisis raises chronic stress and cortisol levels, which suppress immune defence. Effective responses combine greenhouse-gas mitigation with stronger surveillance, vector control, vaccination, water and sanitation investment, and "One Health" programmes that link human, animal, and environmental health.
+
+Source: adapted from "Climate change and infectious diseases" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_change_and_infectious_diseases

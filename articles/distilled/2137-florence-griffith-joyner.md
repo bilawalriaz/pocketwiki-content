@@ -43,3 +43,5 @@ She died unexpectedly in her sleep on September 21, 1998, at age 38. The cause w
 - **The 10.49 World Record:** The legitimacy of her 100m world record is debated. Scientific studies commissioned after the race suggested an illegal tailwind of +5.0 to +7.0 m/s, but the IAAF never annulled it. The record is listed as "probably strongly wind assisted" by statisticians.
 - **Performance-Enhancing Drugs:** Her dramatic improvement in 1988 and increased musculature led to persistent allegations of drug use from fellow athletes. She denied all allegations, passed all competitive tests, and an IOC official later stated exhaustive testing found no banned substances.
 - **Retirement Timing:** Her retirement in February 1989, just before mandatory random drug testing was implemented, has fueled speculation, though she cited business opportunities as the reason.
+
+Source: adapted from "Florence Griffith Joyner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Florence_Griffith_Joyner

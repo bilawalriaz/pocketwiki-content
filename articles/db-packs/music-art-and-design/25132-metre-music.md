@@ -31,3 +31,5 @@ Several extensions of basic metre appear frequently in modern music:
 - **Changing metre** and **metric modulation**, switching the prevailing metre mid-piece, became common in 20th-century music; Stravinsky's *The Rite of Spring* is a landmark example.
 
 Meshuggah's metal, Frank Zappa's "Toads of the Short Forest" (with simultaneous metres of 7/8, 3/4, 5/8, and more), and Balkan folk dance music all demonstrate that the metric framework need not be uniform across players or even within a single line.
+
+Source: adapted from "Metre (music)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metre_%28music%29

@@ -21,3 +21,5 @@ A supernova shock or a spiral density wave compresses the gas from the warm phas
 ## Core equations in brief
 
 The continuity equation expresses conservation of mass in a flowing fluid. For steady flow through a fixed volume, the mass flow rate is $\dot{m} = \rho v A$, where $\rho$ is density, $v$ is velocity, and $A$ is cross-sectional area. Equating the flow at two points gives $\rho_1 v_1 A_1 = \rho_2 v_2 A_2$. For an incompressible fluid ($\rho_1 = \rho_2$) this reduces to $v_1 A_1 = v_2 A_2$, the familiar rule that constricted flow speeds up. The same conservation principle, written in differential form, underlies calculations ranging from accretion onto neutron stars to the large-scale circulation of gas in galaxies, and serves as the starting point from which the Navier–Stokes and Euler equations are derived.
+
+Source: adapted from "Astrophysical fluid dynamics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astrophysical_fluid_dynamics

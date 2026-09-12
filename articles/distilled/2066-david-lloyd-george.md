@@ -50,3 +50,5 @@ Lloyd George reunited the Liberal Party and became its leader in 1926. He propos
 *   **Paris Peace Conference:** His role is contested. Some view him as a pragmatic peacemaker who moderated French demands, while others, following John Maynard Keynes, argue he was outmaneuvered and contributed to the punitive Treaty of Versailles.
 *   **Irish Policy:** His negotiation of the Anglo-Irish Treaty is seen by some as a statesmanlike compromise that averted further bloodshed, and by others as a betrayal that partitioned Ireland and sowed the seeds of future conflict.
 *   **Political Legacy:** Scholars debate whether his "presidential" style of leadership permanently changed the office of Prime Minister and whether his coalition tactics fatally split the Liberal Party, paving the way for the Labour Party's rise.
+
+Source: adapted from "David Lloyd George" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/David_Lloyd_George

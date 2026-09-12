@@ -15,3 +15,5 @@ Quantum cryptography devices are the first commercial result. The one-time pad, 
 Quantum programming languages such as Qiskit, Cirq, and Q# exist, though few skills transfer from classical programming. OpenQASM (Open Quantum Assembly Language) is a machine-independent language that describes quantum circuits as ordered sequences of gates, measurements, resets, and real-time classical computations, useful for implementing algorithms and debugging processors.
 
 The field's signature algorithmic result is Peter Shor's 1994 prime factorisation algorithm. A fault-tolerant quantum computer with roughly 4,000 logical qubits could break widely used ciphers like RSA and ECC. This threat has spurred investment in post-quantum cryptography, classical algorithms designed to remain secure once large quantum computers arrive.
+
+Source: adapted from "Quantum information science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Quantum_information_science

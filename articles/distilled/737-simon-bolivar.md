@@ -59,3 +59,5 @@ By the late 1820s, Bolívar faced growing opposition from regional caudillos and
 - **Race and Governance**: His vision of racial unity clashed with actions like executing General Piar, a pardo leader, fueling debate over his racial attitudes.
 - **Poisoning Conspiracy**: Claims by Hugo Chávez that Bolívar was poisoned remain unproven; exhumation results were inconclusive.
 - **Constitutional Legacy**: His constitutional models were rejected by many regions, contributing to post-independence fragmentation.
+
+Source: adapted from "Simón Bolívar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar

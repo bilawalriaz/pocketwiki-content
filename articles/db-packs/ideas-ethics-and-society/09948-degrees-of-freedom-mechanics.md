@@ -30,3 +30,5 @@ A system whose controls cover all of its DOF is **holonomic**; one whose control
 ## Exact constraint design
 
 A device can be under-constrained (wobbly, with uncontrolled motion) or over-constrained (jamming, with stress in the structure). Linkages are designed using the **exact constraint method**, which matches the number and direction of constraints precisely to the DOF that should remain.
+
+Source: adapted from "Degrees of freedom (mechanics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Degrees_of_freedom_%28mechanics%29

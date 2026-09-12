@@ -46,3 +46,5 @@ Sanger staunchly opposed abortion, viewing it as a dangerous societal ill that c
 - **Sanger's Eugenics:** Scholars debate whether Sanger's support for eugenics was a sincere belief or a strategic alliance to gain legitimacy for her birth control activism.
 - **Racial Intentions:** A persistent controversy, amplified by anti-abortion activists, claims Sanger's work was a racist population control program. Most historians find no evidence she was racist, interpreting her eugenic language as targeting "unfit" individuals, not ethnicities, and her actions as serving diverse communities.
 - **Abortion Stance:** While publicly anti-abortion, some historians suggest Sanger may have privately viewed it as an ethical last resort, creating a tension with her public advocacy.
+
+Source: adapted from "Margaret Sanger" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Margaret_Sanger

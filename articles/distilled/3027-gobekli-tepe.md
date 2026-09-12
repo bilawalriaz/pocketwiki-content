@@ -42,3 +42,5 @@ Klaus Schmidt initially interpreted Göbekli Tepe as a ritual sanctuary built by
 - **Labor and Social Organization**: Estimates for the workforce needed to build the site vary widely, from hundreds (suggesting a large, coerced labor force) to a dozen or two (within the capacity of a single community). This debate impacts theories about social hierarchy and the origins of complex society.
 - **Cause of the Neolithic Revolution**: Does Göbekli Tepe support the idea that the desire to build monumental structures for ritual gatherings drove the adoption of agriculture, or did settled life precede and enable such projects?
 - **Intentional Burial**: Were the large enclosures intentionally backfilled as part of a ritual, or were they buried by natural processes like landslides and subsequent human activity? The latter interpretation is now favored.
+
+Source: adapted from "Göbekli Tepe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe

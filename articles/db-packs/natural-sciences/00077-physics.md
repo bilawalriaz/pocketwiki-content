@@ -34,3 +34,5 @@ The Standard Model accounts for twelve known particles of matter, six quarks and
 ## Research method and open frontiers
 
 Physics advances by the scientific method: theorists build mathematical models, experimentalists test predictions, and phenomenologists connect messy data to underlying theory. Active frontiers include high-temperature superconductivity, evidence for physics beyond the Standard Model (notably that neutrinos have mass), and the nature of dark matter and dark energy. Many familiar phenomena, including sandpile formation, water droplet shapes, and turbulent flow, remain poorly understood despite seeming tractable, and have drawn growing attention since the 1970s through new mathematics and computing.
+
+Source: adapted from "Physics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Physics

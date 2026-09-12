@@ -48,3 +48,5 @@ De Valera's legacy is contested. Biographer Tim Pat Coogan characterizes his rul
 *   **Easter Rising Conduct:** There are conflicting accounts of his bravery and mental state during the 1916 Rising, with detractors claiming he suffered a nervous breakdown and supporters highlighting his leadership.
 *   **Historical Reputation:** A major historiographical debate exists between assessments like Coogan's, which view his legacy negatively, and Ferriter's, which seeks to reassess and contextualize his actions within the constraints of his time.
 *   **Constitutional Legacy:** Scholars continue to analyze the motivations behind the 1937 Constitution, particularly its incorporation of Catholic social teaching and its claim to the whole island, and its long-term impact on Irish society.
+
+Source: adapted from "Éamon de Valera" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C3%89amon_de_Valera

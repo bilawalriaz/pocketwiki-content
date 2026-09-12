@@ -48,3 +48,5 @@ As an ancient capital, Nanjing is a major cultural center with numerous heritage
 - The exact locations and chronologies of the earliest named urban foundations, Yuecheng and Yecheng, attributed to the 5th century BCE, remain subjects of academic debate.
 - The total death toll of the Nanjing Massacre is a subject of historical and political contention, with estimates ranging from 300,000 to 350,000 according to post-war tribunals.
 - During the early Ming, the court was divided over whether Nanjing should remain the permanent capital, with proposals to relocate to other cities abandoned in 1375 and 1392.
+
+Source: adapted from "Nanjing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nanjing

@@ -38,3 +38,5 @@ A confidence vote in the legislature can bring down the entire cabinet. In presi
 ## Why the split matters
 
 The core tension the executive manages is the trade-off between acting decisively and being held accountable. A president with a fixed term and a separate legislature can act independently but can also deadlock with it. A prime minister fused with the legislature can pass a budget quickly but can be removed by a single vote of no confidence. Each country's institutional design is its answer to that trade-off.
+
+Source: adapted from "Executive (government)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Executive_%28government%29

@@ -46,3 +46,5 @@ Daegu is a major inland transportation hub. Dongdaegu Station is a key stop for 
 
 ## Debates and open questions
 - The historical record notes that in 689, Silla's King Sinmun considered moving the capital from Gyeongju to Daegu but was unable to do so. The single source for this event suggests it indicates an attempt to reinforce royal authority and entrenched resistance from Gyeongju elites as the cause of failure.
+
+Source: adapted from "Daegu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Daegu

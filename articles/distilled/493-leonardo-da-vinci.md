@@ -71,3 +71,5 @@ Vasari (1568) called him divinely endowed; 19th-century writers (Fuseli, Taine, 
 - **Authenticity of remains:** 1863 excavation yielded "Leonardus Vinci" fragments, but skeleton height (1.73m), foot orientation, and large skull raise doubts. DNA tests (announced 2016) and 2021 genealogical study (14 living male relatives) aim to resolve.
 - **Scientific influence:** Notebooks unpublished until 1651 (*Treatise on Painting*); Capra argues Leonardo’s integrated art-science method differs fundamentally from later experimental science (Galileo, Newton).
 - **Chronology of *Virgin of the Rocks*:** Two versions (Louvre, London); debate over which was painted first and whether the London version is wholly autograph or workshop-assisted.
+
+Source: adapted from "Leonardo da Vinci" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leonardo_da_Vinci

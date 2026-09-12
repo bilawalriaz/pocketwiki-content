@@ -52,3 +52,5 @@ In 2021, following a US troop withdrawal, the Taliban rapidly seized control of 
 - Scholars debate whether the Soviet-Afghan War constitutes a genocide, given the scale of civilian casualties and destruction.
 - The effectiveness and legacy of the 2001–2021 international intervention are heavily disputed, with arguments focusing on state-building failures versus gains in education and women's rights.
 - The future of the Taliban's unrecognized government and the prospects for an inclusive political settlement in Afghanistan remain uncertain.
+
+Source: adapted from "History of Afghanistan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Afghanistan

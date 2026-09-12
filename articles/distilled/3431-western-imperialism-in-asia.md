@@ -48,3 +48,5 @@ After World War II, European powers lacked resources to maintain their empires. 
 *   **Economic Impact:** Scholars debate whether colonialism was ultimately profitable for the colonizing powers or if the costs of administration and military control often outweighed the economic gains.
 *   **Legacy of Borders:** The arbitrary borders drawn by colonial powers, particularly in the Middle East and South Asia, are widely seen as a root cause of enduring ethnic and political conflicts.
 *   **Role of Nationalism:** Historians analyze the extent to which anti-colonial nationalism was a homegrown response to oppression versus an ideology imported from the West.
+
+Source: adapted from "Western imperialism in Asia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_imperialism_in_Asia

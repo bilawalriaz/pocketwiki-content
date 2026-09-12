@@ -57,3 +57,5 @@ Beirut is a cultural hub with numerous museums, universities, and a vibrant nigh
 - The function of archaeological site BEY194, claimed to be a Phoenician port, is disputed; an international committee dismissed the port theory, and its exact purpose may never be known.
 - The reconstruction of the Beirut Central District by Solidere is controversial, criticized for destroying architectural heritage, displacing residents, and creating a privatized, inaccessible space.
 - The causes and responsibility for the 2020 Port of Beirut explosion, linked to stored ammonium nitrate, remain subjects of investigation and public protest.
+
+Source: adapted from "Beirut" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Beirut

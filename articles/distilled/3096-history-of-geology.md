@@ -50,3 +50,5 @@ Geology now adopts an integrative Earth systems approach, studying the atmospher
 - The primary historical debate was between **Neptunists** (water-formed rocks) and **Plutonists** (heat-formed rocks) in the late 18th and early 19th centuries.
 - The age of the Earth was a major point of contention, with scientific estimates (from Buffon's 75,000 years to Kelvin's millions) clashing with biblical chronology until radiometric dating provided a consensus of billions of years.
 - **Continental drift** was hotly debated for decades until the mechanism of plate tectonics was established in the 1960s.
+
+Source: adapted from "History of geology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_geology

@@ -42,3 +42,5 @@ Performers may experience stage fright or tour-related stress. Audience engageme
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes that the first public concerts in France (and "arguably the world") are attributed to Anne Danican Philidor's Concerts Spirituels, implying a historical point of discussion about origins.
+
+Source: adapted from "Concert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Concert

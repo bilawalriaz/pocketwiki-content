@@ -36,3 +36,5 @@ Rolf Pfeifer and Christian Scheier distilled design principles for situated robo
 ## Critical exchange
 
 Traditionalists object that eyeglasses aid vision without becoming part of the visual system, so external aids to thought should not count as cognition either. Embodied theorists reply that the criterion is functional role: anything that plays the role of a mental state in the cognitive loop is part of the cognitive system, whether it sits inside the skull or on the desk. Lars Ludwig extends this logic in a theory of "extended artificial memory," updating Richard Semon's memory theory for a technological age. The dispute is about where the boundary of the cognitive system is drawn.
+
+Source: adapted from "Embodied cognitive science" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Embodied_cognitive_science

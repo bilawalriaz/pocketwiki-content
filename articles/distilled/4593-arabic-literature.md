@@ -47,3 +47,5 @@ Women's literary expression was historically limited, with early poetesses like 
 - The genre of the Qur'an is a matter of debate; it is considered by some to be a form of homily or compared to pre-Islamic *saj'*.
 - The origins of the Arabic novel are contested, with multiple works from the 19th century claimed as the "first," suggesting it emerged from both European influence and the revival of traditional narrative genres.
 - The critical reception of women's poetry in the Arab world has often been lukewarm, with debates ongoing about its adherence to traditional poetic principles and its place in the literary canon.
+
+Source: adapted from "Arabic literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabic_literature

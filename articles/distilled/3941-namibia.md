@@ -45,3 +45,5 @@ Namibia's economy relies on mining (especially diamonds and uranium), tourism, a
 - The effectiveness of Namibia's post-independence policies in addressing deep-rooted poverty and inequality despite economic growth.
 - The impact of the push for English as the sole official language on education and social cohesion in a multilingual society.
 - The future economic transformation promised by potential offshore oil discoveries in the Orange Basin.
+
+Source: adapted from "Namibia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Namibia

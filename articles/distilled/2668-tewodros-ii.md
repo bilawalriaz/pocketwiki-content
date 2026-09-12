@@ -40,3 +40,5 @@ Tewodros II sought British assistance against internal and external threats, wri
 *   The extent of his Solomonic lineage is noted as a "slim margin" compared to rivals, though he claimed descent from Emperor Fasilides.
 *   His personal character is described variously by contemporaries as both "terribly wrathful" and "generous to excess," highlighting his complex and often brutal personality.
 *   The fate of his first wife's alleged child with Menelik II and the legitimacy of certain descendants remain subjects of rumor and speculation.
+
+Source: adapted from "Tewodros II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tewodros_II

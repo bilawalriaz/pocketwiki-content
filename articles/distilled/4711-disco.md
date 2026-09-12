@@ -38,3 +38,5 @@ Disco was intrinsically linked to the sexual liberation of the 1970s and provide
 
 ## Debates and Open Questions
 The source material highlights the scholarly debate surrounding disco's social impact, particularly its role in sexual liberation and queer expression. It also notes the genre's complex legacy, including the intense backlash it faced (e.g., Disco Demolition Night) and its subsequent, often cyclical, revivals in mainstream pop music. The precise origins of the genre are described as a mixture from various urban communities, suggesting its development was a collaborative, multicultural evolution rather than a single-point invention.
+
+Source: adapted from "Disco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Disco

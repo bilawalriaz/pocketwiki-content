@@ -73,3 +73,5 @@ Hus is a Czech national hero (voted greatest in a 2015 survey). The Unitas Fratr
 - **Theological alignment**: While traditionally viewed as proto-Protestant, some Eastern Orthodox argue Hus’s theology (e.g., ecclesiology, liturgy) aligns closer to Orthodoxy; several Orthodox jurisdictions now venerate him as a saint.
 - **Extent of Wycliffe dependence**: *De Ecclesia*’s first ten chapters are an epitome of Wycliffe; scholars debate how much Hus innovated versus transmitted.
 - **Safe conduct violation**: Whether Sigismund bears moral/legal responsibility for Hus’s arrest despite the safe conduct remains a point of historical contention.
+
+Source: adapted from "Jan Hus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jan_Hus

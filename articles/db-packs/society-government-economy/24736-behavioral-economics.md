@@ -33,3 +33,5 @@ Thaler and Sunstein's *Nudge* (2008) turns these insights into policy. A *nudge*
 ## Criticisms and limits
 
 Three serious objections recur. First, neoclassical defenders (Alchian 1950; Becker 1962) argue the law of demand and profit-maximization results hold even when individuals behave irrationally, because market-level selection pressure washes out individual mistakes. Second, experiments often rely on *WEIRD* samples (Western, Educated, Industrialized, Rich, Democratic), limiting cross-cultural validity. Third, the field has a *replication crisis*: a 2024 *Wall Street Journal* review reported that fewer than half of nudging experiments sustain effects when re-tested at scale. Critics like David Gal also argue the field catalogs *how* behavior deviates without building a unified alternative theory to replace neoclassical economics.
+
+Source: adapted from "Behavioral economics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Behavioral_economics

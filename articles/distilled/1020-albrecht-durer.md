@@ -58,3 +58,5 @@ Dürer’s diary (1520) expresses desire to portray Martin Luther, and he receiv
 - **Viennese murals**: A 2020 discovery of handwriting at St. Stephen’s Cathedral, Vienna, and a 19th-century legend (depicted by August Siegert) suggest Dürer painted murals there c. 1505, possibly for Maximilian before documented service (1512).
 - **Workshop attribution**: The extent of Dürer’s hand in block-cutting versus design, and the authorship of workshop productions like the *Berlin Picture Book* (fencing manual), remain uncertain.
 - **Aesthetic theory**: Scholars debate whether Dürer’s "selective inward synthesis" represents a coherent epistemology or an evolving, unresolved struggle to define beauty without classical authority.
+
+Source: adapted from "Albrecht Dürer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer

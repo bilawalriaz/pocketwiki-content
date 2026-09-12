@@ -46,3 +46,5 @@ Wood serves as fuel, construction material, pulp source, and raw material for en
 
 ## Debates and Open Questions
 The exact mechanisms determining earlywood and latewood formation remain unclear, with growth rate alone insufficient to explain variations. Whether heartwood cells truly die during formation is debated, as they can still chemically react to decay organisms. The relationship between growth rate and wood quality differs between ring-porous and diffuse-porous species, with optimal growth rates varying by type. The role of symbiotic bacteria in cellulose degradation remains poorly understood.
+
+Source: adapted from "Wood" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wood

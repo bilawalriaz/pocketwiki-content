@@ -79,3 +79,5 @@ Australian culture reflects Indigenous traditions, British and Irish heritage, a
 - The precise scope of the governor-general's reserve powers is unclear; their most notable exercise was the dismissal of the Whitlam government in the 1975 constitutional crisis.
 - What "Australian values" mean, and whether Australians uphold them, has been debated since before Federation.
 - A 2011–2012 report found 44% of the population lacks high literacy and numeracy competence, interpreted by some as lacking "skills needed for everyday life."
+
+Source: adapted from "Australia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Australia

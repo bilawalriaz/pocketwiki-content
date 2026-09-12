@@ -51,3 +51,5 @@ India accounts for 75% of global spice production. The International Organizatio
 
 ## Debates and Open Questions  
 Whether spices originated exclusively in tropical regions remains debated, given examples like caraway from temperate zones. The extent of their use as preservatives versus flavorings in medieval times is contested, with evidence suggesting limited preservative value. The classification of certain plant parts (e.g., garlic, horseradish) as spices or non-spices lacks consensus. Additionally, the validity of many traditional health claims awaits rigorous clinical testing.
+
+Source: adapted from "Spice" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spice

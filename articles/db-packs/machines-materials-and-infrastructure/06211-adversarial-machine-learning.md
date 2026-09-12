@@ -35,3 +35,5 @@ Applying machine learning to malware detection, intrusion detection, or biometri
 ## Where the field stands
 
 Industry has responded with open-source robustness toolkits from Google, Microsoft, and IBM. Researchers such as Nicholas Frosst at Google Brain have pointed out that adversarial examples are easier to produce in laboratory conditions than in the physical world, where small rotations, lighting changes, and real physics can destroy a perturbation. Frosst also argues that the field incorrectly assumes a model trained on one data distribution will still perform well on a very different one, a gap current defenses do not close.
+
+Source: adapted from "Adversarial machine learning" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Adversarial_machine_learning

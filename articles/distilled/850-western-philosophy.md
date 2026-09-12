@@ -63,3 +63,5 @@ Process philosophy, initiated by Whitehead, redefines reality as fundamentally d
 ## Debates and Open Questions
 
 Several enduring debates shape Western philosophy. The mind-body problem remains unresolved, with physicalist, dualist, and panpsychist approaches competing. The analytic-continental divide persists despite efforts to bridge it. Questions about moral objectivity, free will versus determinism, and the role of science in understanding reality continue to generate controversy. In epistemology, internalism versus externalism debates how justification and knowledge operate. Political philosophy grapples with justice, rights, and the role of the state. Additionally, the influence of Eastern thought on Western philosophy, particularly in areas like personal identity and consciousness studies, raises questions about cross-cultural philosophical dialogue and synthesis.
+
+Source: adapted from "Western philosophy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_philosophy

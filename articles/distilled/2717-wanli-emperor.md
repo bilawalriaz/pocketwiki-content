@@ -52,3 +52,5 @@ The Wanli era saw major military efforts. The Ming successfully quelled the Ning
 - **Imperial Responsibility vs. Systemic Failure:** Traditional historiography blames the Wanli Emperor's laziness and greed for the Ming decline. Modern scholars debate whether his withdrawal was a rational response to an unworkable system where Confucian moralism paralyzed effective governance.
 - **The "Trapped" Emperor:** Historian Ray Huang famously portrayed Wanli as a ruler "trapped" by his bureaucracy, unable to enact his will. Others argue he retained significant power, as seen in his military funding and the mine tax episode.
 - **Assessment of Military Policy:** While the reign ended with the defeat at Sarhu, the Ming military was active and largely successful in earlier campaigns (Ningxia, Korea, Bozhou). Scholars debate whether the later failures were due to imperial neglect or the overwhelming challenge posed by the unified Jurchen state.
+
+Source: adapted from "Wanli Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wanli_Emperor

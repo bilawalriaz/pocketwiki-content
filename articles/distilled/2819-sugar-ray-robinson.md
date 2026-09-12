@@ -45,3 +45,5 @@ Robinson's skills declined in the 1960s. He lost his final title bid to Paul Pen
 *   **Amateur Record:** Robinson's amateur record is commonly listed as 85–0, but it has been reported he lost to Billy Graham and Patsy Pesca as a teenager.
 *   **Fight of the Year Slight:** Robinson considered being passed over for the 1955 "Fight of the Year" award (given to Carmen Basilio) the biggest disappointment of his career.
 *   **Cause of Death:** While the source states he died of heart disease, it also notes he was diagnosed with Alzheimer's disease and diabetes mellitus in his last years.
+
+Source: adapted from "Sugar Ray Robinson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sugar_Ray_Robinson

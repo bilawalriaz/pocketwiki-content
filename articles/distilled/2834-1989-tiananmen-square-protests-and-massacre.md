@@ -44,3 +44,5 @@ The suppression ended a period of political opening and accelerated a shift towa
 - **Violence in the Square**: Foreign journalists and diplomats present reported no mass killing *inside* Tiananmen Square during the final clearance. The vast majority of violence and deaths occurred on Beijing's streets, particularly along Chang'an Avenue.
 - **International Involvement**: The Chinese government alleges the protests were instigated by Western powers as a "color revolution." This claim is rejected by most independent scholars and participants.
 - **Legacy and Reassessment**: Calls for the government to officially reassess its verdict have been made by figures like Zhao Ziyang's aide Bao Tong, but the CCP maintains the crackdown was necessary and correct.
+
+Source: adapted from "1989 Tiananmen Square protests and massacre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre

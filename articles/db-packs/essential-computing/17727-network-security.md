@@ -25,3 +25,5 @@ Attacks fall into two categories. A passive attack intercepts data in transit, u
 An active attack sends commands against the network or its resources to disrupt normal operation, perform reconnaissance, or move laterally to reach other assets. Active attacks include eavesdropping, data modification, denial-of-service, DNS spoofing, man-in-the-middle, ARP poisoning, VLAN hopping, smurf attacks, buffer and heap overflows, format string attacks, SQL injection, phishing, cross-site scripting and CSRF. Passive techniques include wiretapping, port scanning, idle scans, encryption-based interception and traffic analysis.
 
 Passively intercepted traffic can still be read if it is unencrypted, which is why transport-layer encryption is treated as a baseline control alongside firewalls and authentication.
+
+Source: adapted from "Network security" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Network_security

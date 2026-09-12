@@ -47,3 +47,5 @@ From the 18th century, fables were widely adapted into European regional languag
 *   **Authorship and Origins:** The modern view is that Aesop did not originate all fables attributed to him. The corpus is a collection from diverse sources, with any fable ascribed to Aesop if no other author was known.
 *   **Direction of Influence:** There is scholarly debate over whether the shared fables between Greek and Indian traditions indicate Greek borrowing from India, Indian borrowing from Greece, or mutual influence. Ben E. Perry argued strongly against Indian origins, but this absolute position is contested.
 *   **Historical Aesop:** Ancient accounts of Aesop's life contradict each other, making his historicity and biography a subject of ongoing debate.
+
+Source: adapted from "Aesop's Fables" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aesop%27s_Fables

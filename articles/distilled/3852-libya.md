@@ -48,3 +48,5 @@ Libya's economy is overwhelmingly dependent on oil, which accounts for over half
 - The primary ongoing debate concerns the path to holding national elections and forming a unified, permanent government to replace the current dual-power structure.
 - The role and influence of external foreign powers and militias in perpetuating Libya's division remains a critical issue for stability.
 - The management and equitable distribution of Libya's vast oil wealth amid political fragmentation is a central challenge for any future unified state.
+
+Source: adapted from "Libya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Libya

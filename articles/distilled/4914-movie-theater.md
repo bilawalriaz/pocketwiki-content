@@ -51,3 +51,5 @@ Common controversies include the volume of trailers and films, the cost of conce
 - The uniform pricing of movie tickets, despite varying production costs and demand, is noted as an economics puzzle, often attributed to the unpredictability of a film's success.
 - The impact of simultaneous theatrical and streaming releases on the traditional movie-going experience and theater revenue is a ongoing concern.
 - The rise of home theater systems with large screens and high-quality sound presents a persistent competitive challenge to the theatrical experience.
+
+Source: adapted from "Movie theater" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Movie_theater

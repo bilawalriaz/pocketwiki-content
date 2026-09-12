@@ -59,3 +59,5 @@ The economy is characterized by low GDP per capita. A vast, undocumented cross-b
 - The precise location of the ancient land of Punt is debated, though the Horn of Africa is considered the most likely region.
 - The timing, scale, and exact routes of the ancient back-migrations that created the "Ethio-Somali" genetic component are subjects of ongoing research.
 - The long-term impacts of recurring severe droughts and the effectiveness of mitigation strategies like rangeland management remain critical concerns.
+
+Source: adapted from "Horn of Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Horn_of_Africa

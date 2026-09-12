@@ -44,3 +44,5 @@ Panel and wall painting were highly valued but almost entirely lost. Knowledge c
 - The relationship between vase painting and other arts is contested; some scholars now view it as a secondary medium copying lost metalwork designs.
 - The existence and characteristics of a distinct "Alexandrian style" in Hellenistic sculpture are questioned.
 - The extent of continuity between Bronze Age (Minoan/Mycenaean) wall painting and later Greek traditions is unclear.
+
+Source: adapted from "Ancient Greek art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Greek_art

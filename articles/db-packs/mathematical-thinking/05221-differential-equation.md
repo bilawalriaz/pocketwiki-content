@@ -30,3 +30,5 @@ The subject began with calculus. In 1671 Newton listed three forms in *Methodus 
 ## Why the same equation shows up everywhere
 
 Sound in air, light, and ripples on a pond are all described by the same second-order partial differential equation, the wave equation, which is why they are grouped as wave phenomena. Heat conduction and a wide class of diffusion processes are all governed by Fourier's heat equation. When a single equation captures superficially different systems, its mathematics acts as a shared explanatory backbone, and the methods developed for it transfer from one field to the next.
+
+Source: adapted from "Differential equation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Differential_equation

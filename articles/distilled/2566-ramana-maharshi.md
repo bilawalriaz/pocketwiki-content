@@ -47,3 +47,5 @@ Though his authority came from direct experience, he engaged with Hindu scriptur
 - **Neo-Advaita Interpretation**: The Western neo-Advaita movement, influenced by students of H.W.L. Poonja, emphasizes insight alone and is criticized for omitting the preparatory practices Ramana Maharshi sometimes recommended.
 - **Scriptural Authority vs. Direct Experience**: While his teachings align with Advaita Vedanta, he emphasized personal experience over philosophical argumentation and scripture, leading some scholars to classify him as a neo-Vedantin rather than a traditional Advaitin.
 - **Reincarnation**: He taught that reincarnation is a concept based on the illusion of a separate self; when the Self is realized, notions of birth and death become inapplicable.
+
+Source: adapted from "Ramana Maharshi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ramana_Maharshi

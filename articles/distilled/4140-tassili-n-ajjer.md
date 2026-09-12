@@ -56,3 +56,5 @@ A controversial theory, proposed by Giorgio Samorini and popularized by Terence 
 *   **Dating and Chronology:** The exact dating of the rock art periods is flexible and subject to ongoing reconstruction as new archaeological technology and interpretation develop.
 *   **Fungoid Art Interpretation:** The theory that certain paintings depict the use of psychedelic mushrooms remains highly debated, with critics arguing the imagery is not a clear representation of fungi.
 *   **Lhote's Methods:** The work of archaeologist Henri Lhote is criticized for potential damage to original paintings during tracing and photography, and accusations of faking some images.
+
+Source: adapted from "Tassili n'Ajjer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tassili_n%27Ajjer

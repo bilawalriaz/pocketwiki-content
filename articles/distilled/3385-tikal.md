@@ -49,3 +49,5 @@ The ruins were first explored by a Guatemalan expedition in 1848. Tikal National
 - **Population Estimates:** Figures for Tikal's peak population vary widely, from 10,000 to as high as 90,000 inhabitants, with some archaeologists believing the higher estimates are too extreme.
 - **Cause of Collapse:** While overpopulation and agrarian failure are primary theories, recent research suggests a meteorological drought and the contamination of water reservoirs with mercury and cyanobacteria may have been critical factors.
 - **Nature of Earthworks:** The purpose of Tikal's extensive earthworks is debated; originally thought to be defensive, recent research suggests they may have primarily served as a water collection system.
+
+Source: adapted from "Tikal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tikal

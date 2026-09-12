@@ -41,3 +41,5 @@ Mandalay is located in the central Dry Zone on the east bank of the Irrawaddy Ri
 
 ## Debates and Open Questions
 The exact Pali root word for the name "Mandalay" is unclear, with speculation pointing to *maṇḍala* (circular plains) or *Mandara* (a mythical mountain). The long-term social and political impact of the large-scale Chinese immigration on Mandalay's identity and stability remains a significant ongoing issue.
+
+Source: adapted from "Mandalay" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mandalay

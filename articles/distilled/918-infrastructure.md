@@ -64,3 +64,5 @@ Smart cities leverage technology and integrated planning to boost sustainability
 - Is concrete—a major emitter—replaceable at scale given current alternatives?  
 - Can green infrastructure deliver sufficient performance compared to traditional gray infrastructure?  
 - Will smart city models like Masdar City achieve long-term viability and scalability?
+
+Source: adapted from "Infrastructure" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Infrastructure

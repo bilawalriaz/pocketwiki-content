@@ -31,3 +31,5 @@ The speed of light used by the IAU is the SI defined value c₀ = 299 792 458 m/
 ## Other distance units and redshift
 
 Different scales suit different regimes: kilometres for satellites, lunar distance for near-Earth objects, astronomical units for planetary distances, parsecs and light-years for nearby stars, kiloparsecs for galactic-scale distances, and megaparsecs for nearby galaxies. Distances to remote galaxies are usually quoted as redshift rather than as a length, because converting redshift to distance requires the Hubble constant, which was not accurately measured until the early 21st century, and because at cosmological distances the curvature of spacetime permits several inequivalent definitions of distance, so a single number does not capture separation.
+
+Source: adapted from "Astronomical system of units" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomical_system_of_units

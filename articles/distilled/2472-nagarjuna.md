@@ -51,3 +51,5 @@ Nāgārjuna's Madhyamaka developed as an internal critique of Nyāya-Vaiśeṣik
 - **Interpretation of Emptiness:** Scholars debate whether Nāgārjuna is a semantic anti-dualist (Garfield, Siderits), a Kantian idealist (Murti), a nihilist, a relativist, or a pragmatist (Kalupahana).
 - **Relationship to Earlier Buddhism:** Some scholars (e.g., Choong Mun-keat) argue Nāgārjuna defended a doctrine already present in early sources, while others see him as an innovator.
 - **Influence and Connections:** Debates continue about possible influences from Greek Pyrrhonism (McEvilley, Beckwith) and the extent of his engagement with specific Buddhist sects (e.g., Mahāsāṃghikas).
+
+Source: adapted from "Nagarjuna" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nagarjuna

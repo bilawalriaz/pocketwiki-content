@@ -57,3 +57,5 @@ Akhmatova’s oeuvre divides into early lyric miniatures (1912–25) and the lat
 - **Lost works**: *Requiem* was memorized and burnt; *Enûma Elish* (play) and other pieces were destroyed or suppressed. The full extent of lost manuscripts is unknown.
 - **Berlin visit significance**: The 1945 meeting’s content is reconstructed from memory; its role in triggering the 1946 purge is documented but the precise political calculus is debated.
 - **Canon formation**: *Requiem*’s absence from Soviet editions until 1987 and its status as a dissident symbol complicate its reception history versus her "official" lyric legacy.
+
+Source: adapted from "Anna Akhmatova" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anna_Akhmatova

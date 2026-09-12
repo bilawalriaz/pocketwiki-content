@@ -42,3 +42,5 @@ Suryavarman II died around 1150, possibly during a campaign against Champa. He w
 - Scholars disagree on whether an inscription describing Suryavarman killing an enemy king on an elephant refers to the death of a southern rival or of his great-uncle, King Dharanindravarman I.
 - The reason Suryavarman II chose to focus court religious life on Vishnu, rather than the more traditional Shiva, is unknown.
 - There is debate over whether his association with Vishnu explains why Angkor Wat faces west (Vishnu's direction) instead of the more common eastward orientation for Khmer temples.
+
+Source: adapted from "Suryavarman II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Suryavarman_II

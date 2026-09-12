@@ -25,3 +25,5 @@ Pre‑industrial air held about 280 ppm of CO₂; in July 2025 it reached about 
 ## Industrial use
 
 Most CO₂ is emitted, not used. Captured CO₂ finds applications that exploit the same properties nature exploits: carbonation of drinks, fire suppression (CO₂ smothers flames and does not support combustion), refrigeration as R‑744 in solid or supercritical form, enhanced oil recovery (injecting CO₂ to thin residual oil and raise pressure), and urea fertiliser manufacture.
+
+Source: adapted from "Carbon dioxide" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carbon_dioxide

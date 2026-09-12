@@ -49,3 +49,5 @@ C = 1 − 1 / (d_i + 2·c_i + d_o + 2·c_o + g_d + 2·g_c + w + r)
 ```
 
 `d_i` and `d_o` count input and output data parameters, `c_i` and `c_o` count input and output control parameters, `g_d` and `g_c` count global variables used for data and control, `w` is fan-out (modules called), and `r` is fan-in (modules calling this one). Control and global variables are weighted by 2 because they couple more strongly than plain data parameters. The result ranges from about 0.67 for a module with one input, one output, and a fan-out of 1, toward 1.0 as parameters, globals, and call relationships accumulate.
+
+Source: adapted from "Coupling (computer programming)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29

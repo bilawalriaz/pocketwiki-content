@@ -45,3 +45,5 @@ Today, St. Louis has a diverse economy with strengths in services, manufacturing
 - **Causes of Population Decline:** The relative importance of factors like "white flight," industrial job loss, and the city's fixed geographic boundaries in its post-1950 population loss is a subject of ongoing analysis.
 - **Racial Segregation and Inequality:** The legacy and ongoing effects of historical policies like racial covenants and discriminatory housing practices on the city's current social and economic geography are widely studied.
 - **Urban Revitalization:** The effectiveness and equity of downtown-focused revitalization efforts versus neighborhood-based investment remain topics of local policy debate.
+
+Source: adapted from "St. Louis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/St._Louis

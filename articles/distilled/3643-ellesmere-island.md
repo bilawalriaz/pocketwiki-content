@@ -51,3 +51,5 @@ As of 2021, the population was 144, all in Grise Fiord. Alert is the world's nor
 - The exact nature of contact between Norse Greenlanders and Thule peoples on Ellesmere Island is uncertain; Norse artifacts found could be from direct visits, trade networks, or shipwrecks.
 - The research on the island's archaeological record is considered incomplete, with only a small proportion of excavation details published.
 - The causes and timeline of the breakup of the Ellesmere Ice Shelves are linked to climate change, but the precise mechanisms and future projections are subjects of ongoing study.
+
+Source: adapted from "Ellesmere Island" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ellesmere_Island

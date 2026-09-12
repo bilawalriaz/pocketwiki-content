@@ -34,3 +34,5 @@ McCormick married Nancy "Nettie" Fowler in 1858; they had seven children. A devo
 
 ## Debates and Open Questions
 The source notes that McCormick "always claimed credit as the single inventor" of the reaper, but he was "one of several designing engineers" in the 1830s. His work also built on his father's 28 years of development and the aid of Jo Anderson. This challenges the narrative of a lone inventor. Additionally, his brother Leander later tried to "emphasize the contributions of others in the family to the reaper invention, especially their father," creating a family dispute over credit.
+
+Source: adapted from "Cyrus McCormick" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cyrus_McCormick

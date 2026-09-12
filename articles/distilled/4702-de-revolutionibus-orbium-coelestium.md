@@ -43,3 +43,5 @@ Initial demand for the book was low, and its technical nature limited its audien
 - **Osiander's Motives**: Was Osiander's addition of the *Ad lectorem* a protective measure to avoid religious persecution, or a betrayal that misrepresented Copernicus's scientific intent?
 - **Copernicus's Scientific Impact**: Did Copernicus's model represent a true physical revolution, or was it primarily a mathematical reform that retained the ancient commitment to circular motion?
 - **Reception Among Scholars**: How widely was the book actually read and understood in its time? Historian Owen Gingerich's census of surviving copies shows it was owned by leading astronomers, but many focused on its computational tables rather than its cosmology.
+
+Source: adapted from "De revolutionibus orbium coelestium" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium

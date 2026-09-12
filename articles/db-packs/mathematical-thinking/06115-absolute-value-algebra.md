@@ -39,3 +39,5 @@ For any non-Archimedean absolute value and any base b > 1, define ν(x) = −log
 An absolute value defines a distance d(x, y) = |x − y|, and therefore a notion of Cauchy sequence: (xₙ) is Cauchy if |xₘ − xₙ| → 0 as m, n grow. Cauchy sequences form a ring under pointwise operations, and the **null sequences** (those with |aₙ| → 0) form a prime ideal in this ring. The quotient is an integral domain that contains D, called the **completion** of D with respect to |·|. Taking ℚ with the p-adic absolute value gives the p-adic numbers ℚₚ, while taking ℚ with the usual absolute value gives ℝ, the same idea that fills the gaps of ℚ with limits of Cauchy sequences.
 
 A second theorem of Ostrowski states that any field complete with respect to an Archimedean absolute value is isomorphic to ℝ or ℂ, with the absolute value equivalent to the usual one.
+
+Source: adapted from "Absolute value (algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Absolute_value_%28algebra%29

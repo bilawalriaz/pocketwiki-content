@@ -48,3 +48,5 @@ Munich lies on the Isar River in the Alpine Foreland, about 50 km north of the A
 - The exact founding date of Munich is debated; archaeological evidence suggests a settlement older than the 1158 Augsburg Arbitration.
 - The city's future Olympic bid (for 2036, 2040, or 2044) is a current topic, with citizens voting in favor in 2025.
 - Munich's ongoing housing crisis and strategies for urban densification (the LaSie plan) are significant policy challenges.
+
+Source: adapted from "Munich" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Munich

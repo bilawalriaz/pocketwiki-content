@@ -71,3 +71,5 @@ In life, Shelley’s works sold poorly (editions of 250); only *The Cenci* reach
 - **Sincerity of free-love practice**: Did Shelley’s relationships (with Claire, Jane Williams, encouragement of Mary–Hogg) reflect principle or self-justification?
 - **Cause of death**: Boat design defect (Mary Shelley) vs. severe storm and poor seamanship (consensus).
 - **Heart relic**: The organ retrieved from the cremation—heart calcified by tuberculosis, or liver? Disposition (Bournemouth vs. Christchurch Priory) uncertain.
+
+Source: adapted from "Percy Bysshe Shelley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley

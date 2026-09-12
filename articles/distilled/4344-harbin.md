@@ -51,3 +51,5 @@ Harbin's culture blends Han, Manchu, and Russian influences. It is famed for its
 *   The etymology of "Harbin" is debated; proposed origins include the Jurchen word for "swan" or a Manchu term meaning "a place for drying fishing nets."
 *   The exact death toll of the 1910–1911 pneumonic plague outbreak in Harbin is given as 1,500 residents, but the broader Manchurian plague pandemic claimed 60,000 victims.
 *   The number of victims of Unit 731's experiments at the Pingfang camp is estimated between 3,000 and 12,000.
+
+Source: adapted from "Harbin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Harbin

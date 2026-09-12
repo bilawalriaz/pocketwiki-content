@@ -52,3 +52,5 @@ Bolivia is multiethnic, with a large indigenous population (including Aymara and
 - **Democratic Backsliding:** The political tenure of Evo Morales sparked debate over democratic backsliding, with his government accused of authoritarian tendencies despite popular support and economic growth.
 - **Coca Cultivation:** The legal cultivation of coca for traditional and medicinal purposes versus its use in cocaine production is a persistent and contentious issue, involving domestic policy, indigenous rights, and international drug enforcement.
 - **Lithium Development:** Bolivia holds the world's largest lithium reserves, but its extraction poses a dilemma between economic development and environmental protection of the unique Salar de Uyuni ecosystem.
+
+Source: adapted from "Bolivia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bolivia

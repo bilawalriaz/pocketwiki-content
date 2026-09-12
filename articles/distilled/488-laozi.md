@@ -66,3 +66,5 @@ The text is a treatise on Chinese cosmogony, often called the *Laozi*. It uses p
 *   **Philosophy vs. Religion:** Is the *Dào Dé Jīng* primarily a political/ethical manual (advocating *wu wei* governance) or a metaphysical/mystical text (referencing *gushen*, *po*, immortality)?
 *   **Political Appropriation:** Are modern libertarian and anarchist readings anachronistic projections, or valid interpretations of the text’s anti-statist implications?
 *   **Confucian Influence:** To what extent are "Taoist" political ideas (e.g., limited government) actually borrowed from or reactive to Confucian thought, as Roderick Long suggests?
+
+Source: adapted from "Laozi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Laozi

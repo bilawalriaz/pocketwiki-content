@@ -46,3 +46,5 @@ The Dust Bowl intensified the Great Depression's economic impact, causing widesp
 - **Causal Mechanism**: The drought's cause is linked to ocean temperature anomalies, with Pacific sea surface temperatures having the most direct influence.
 - **Historical Significance**: Historians debate whether the era's legacy is primarily one of unsustainable exploitation (as argued by Donald Worster) or of human resilience and triumph (as argued by Mathew Bonnifield).
 - **Long-Term Lessons**: A 2023 study found the Dust Bowl had enduring impacts on agricultural land but only modest impacts on average wage incomes, suggesting complex economic adaptation.
+
+Source: adapted from "Dust Bowl" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dust_Bowl

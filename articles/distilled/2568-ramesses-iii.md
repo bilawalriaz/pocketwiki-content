@@ -39,3 +39,5 @@ Ramesses III commissioned the Great Harris Papyrus, which records his vast donat
 *   **Exact Reign Dates:** Scholars debate the precise dates of Ramesses III's reign (e.g., 1185–1154 BC vs. 1187–1156 BC), which affects the chronology of the entire Late Bronze/Iron Age transition in the Levant.
 *   **Hekla 3 Eruption Timing:** The date of the Hekla 3 eruption is contested. If it occurred c. 1159 BC, it could explain the economic troubles in Ramesses III's Year 29. However, alternative dates place it well after his reign, disconnecting it from his rule.
 *   **Identity of "Unknown Man E":** While genetic and contextual evidence strongly suggests the mummy "Unknown Man E" is the conspirator prince Pentawere, the precise cause of his death remains undetermined.
+
+Source: adapted from "Ramesses III" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ramesses_III

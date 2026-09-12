@@ -50,3 +50,5 @@ Some machines are **self-locking**: friction is high enough that the load cannot
 ## Modern Machine Theory
 
 Modern mechanics treats machines as **kinematic chains** — systems of rigid links connected by joints called **kinematic pairs** that transmit forces and motion. Hinges are revolute joints (used in levers, wheels, pulleys); sliding surfaces form sliding joints (inclined planes, wedges); screws use helical joints. In the late 1800s, Franz Reuleaux classified over 800 machine elements and argued that the six classical categories oversimplify reality: levers, pulleys, and wheels share rotational principles, while inclined planes, wedges, and screws share sliding mechanics. **Kinematic synthesis** uses this framework to design linkages, cams, and gears that produce a desired motion or force.
+
+Source: adapted from "Simple machine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Simple_machine

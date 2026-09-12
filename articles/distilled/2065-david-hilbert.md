@@ -49,3 +49,5 @@ Hilbert developed pernicious anemia around 1925, which severely limited his work
 - **Hilbert's Program**: Gödel's theorems showed the program's original goals were unattainable, but it spurred the development of proof theory and recursion theory.
 - **Einstein–Hilbert priority**: Both derived the field equations of general relativity nearly simultaneously in 1915; Hilbert acknowledged Einstein's priority, and no public dispute arose.
 - **Solvability of Hilbert's problems**: Some problems remain open (e.g., Riemann hypothesis), while others are considered too vaguely stated for definitive resolution.
+
+Source: adapted from "David Hilbert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/David_Hilbert

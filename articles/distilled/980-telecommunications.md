@@ -64,3 +64,5 @@ Digital broadcasting replaced analog systems, offering clearer reception and eff
 - Net neutrality: Should broadband be classified as a telecommunications service?  
 - Transition from legacy protocols (ATM) to newer ones (MPLS) in large networks.  
 - Balancing privacy/security in LAN/WAN design against connectivity needs.
+
+Source: adapted from "Telecommunications" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Telecommunications

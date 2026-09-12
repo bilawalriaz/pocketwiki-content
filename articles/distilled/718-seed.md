@@ -66,3 +66,5 @@ Seed size ranges dramatically from dust-like orchid seeds (0.81 μg, ~1 million 
 ## Debates and Open Questions
 
 The origin of seed plants remains unsolved, though evidence increasingly points to a middle Devonian origin. The 2004 discovery of *Runcaria heinzelinii* in Givetian Belgium suggests an ancient origin, while the earliest definitive fossil seeds (*Elkinsia polymorpha*) date to the Late Devonian of West Virginia (~365 mya). The relative timing and mechanisms of seed size, shape, and dispersal evolution during the radiation of gymnosperms and angiosperms continue to be investigated. Additionally, the mechanisms underlying secondary dormancy and DNA repair during germination, particularly the role of DNA ligases and PARP enzymes, remain active areas of research.
+
+Source: adapted from "Seed" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seed

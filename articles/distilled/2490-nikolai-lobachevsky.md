@@ -38,3 +38,5 @@ Lobachevsky's work was initially met with rejection, such as when his 1829 paper
 ## Debates and Open Questions
 - **Independent Discovery:** Lobachevsky developed his geometry independently of János Bolyai. While Carl Friedrich Gauss also explored similar ideas, he never published them. Some have incorrectly claimed Lobachevsky was influenced by Gauss, but there is no evidence of personal correspondence before Lobachevsky's publication.
 - **Initial Reception:** His work was initially rejected by major academic institutions, highlighting the resistance to challenging long-held mathematical axioms.
+
+Source: adapted from "Nikolai Lobachevsky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nikolai_Lobachevsky

@@ -41,3 +41,5 @@ A Hittite document records a letter from an Egyptian queen ("Dakhamunzu") whose 
 *   **Identity of Neferneferuaten:** While many scholars now identify the female pharaoh as Nefertiti, some argue it could be her daughter Meritaten.
 *   **The Dakhamunzu Letter:** The identity of the Egyptian queen who wrote to the Hittites remains uncertain, with Nefertiti being a strong candidate.
 *   **Burial and Remains:** The location of Nefertiti's tomb and the identity of her mummy are unresolved mysteries.
+
+Source: adapted from "Nefertiti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nefertiti

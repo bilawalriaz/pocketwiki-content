@@ -115,3 +115,5 @@ EU Biodiversity Strategy 2030 (May 2020): core of climate mitigation. Targets: p
 
 #### National Level Laws
 Law-ecosystem links ancient (property rights, threatened ecosystem protection, hunting/fishing rights). Species protection laws recent (e.g., US Endangered Species Act). Gene pool laws ~century old; genetic engineering → tighter GMO/gene patent laws. Uniform legal standard for biodiversity not achieved; Bosselman argues scientific uncertainty causes administrative waste/l
+
+Source: adapted from "Biodiversity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biodiversity

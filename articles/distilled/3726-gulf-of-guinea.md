@@ -43,3 +43,5 @@ IUU fishing operations are linked to forced labor. Reports indicate workers are 
 ## Debates and open questions
 - The precise etymological origin of the name "Guinea" is debated, with theories linking it to the name Ghana, the city of Jenne, or the Berber word for Negro.
 - The exact geographic boundaries of the Gulf of Guinea are defined differently by various sources, though the International Hydrographic Organization provides a specific definition.
+
+Source: adapted from "Gulf of Guinea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gulf_of_Guinea

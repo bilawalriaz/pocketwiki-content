@@ -39,3 +39,5 @@ His rule was marked by severe natural disasters: a locust swarm (1446), a flood 
 ## Debates and Open Questions
 *   The exact nature of Moctezuma's succession is debated. Sources indicate he was succeeded by his daughter Atotoztli, who may have ruled as tlatoani or as regent for her son, Axayacatl.
 *   The role of his brother Tlacaelel is complex; some sources suggest he opposed Moctezuma's early leadership, while others state he was offered the throne and refused it.
+
+Source: adapted from "Moctezuma I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Moctezuma_I

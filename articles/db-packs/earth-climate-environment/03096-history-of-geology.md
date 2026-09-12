@@ -29,3 +29,5 @@ In 1912, Alfred Wegener proposed continental drift, arguing that today's contine
 ## Modern geology
 
 Contemporary geology treats Earth as a coupled system of atmosphere, biosphere, hydrosphere, and solid Earth. Satellite programmes such as Landsat, begun in 1972, supply global data for mapping rock units, tracking plate motions, and forecasting hazards like earthquakes and volcanic eruptions. Geological methods are also applied to other planetary bodies, including the Moon, extending the same principles of stratigraphy, process inference, and deep time beyond Earth.
+
+Source: adapted from "History of geology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_geology

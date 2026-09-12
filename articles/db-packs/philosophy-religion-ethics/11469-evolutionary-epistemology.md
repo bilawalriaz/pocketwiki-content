@@ -35,3 +35,5 @@ Two criticisms recur. First, the problem with which the cycle begins is not defi
 `L₁ → P₁ → TT → EE → L₂ → P₂`
 
 L₁ is the language that lets a problem become visible at all; L₂ is the new language that opens new spaces of problems. The example used is Planck units, which can only be described in the language of quantum mechanics, not by correcting errors inside classical mechanics. Popper's original four-step cycle cannot represent such qualitative transitions, because it has no slot for the language that makes a new kind of problem available in the first place.
+
+Source: adapted from "Evolutionary epistemology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Evolutionary_epistemology

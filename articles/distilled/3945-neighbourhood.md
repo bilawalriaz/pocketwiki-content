@@ -32,3 +32,5 @@ In urban design, the neighbourhood is a key unit of analysis. Clarence Perry's e
 
 ## Debates and Open Questions
 Researchers have not agreed on an exact definition of a neighbourhood, with debates centering on whether it is primarily a spatial area or a functional set of social networks. The boundaries of neighbourhoods are often unclear, especially where they lack official status, leading to questions about where one ends and another begins. The effectiveness and evolving role of neighbourhood-based organizations and service delivery models continue to be studied and discussed.
+
+Source: adapted from "Neighbourhood" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neighbourhood

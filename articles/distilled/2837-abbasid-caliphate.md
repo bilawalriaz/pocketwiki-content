@@ -44,3 +44,5 @@ The caliphate experienced a late revival under al-Nasir (r. 1180–1225). Howeve
 - The exact legal status and degree of enslavement of the early Turkic Mamluk soldiers under al-Mu'tasim is a subject of scholarly debate.
 - The reasons for Caliph Harun al-Rashid's sudden and ruthless purge of the powerful Barmakid family in 803 remain unclear and are discussed by contemporary and later historians.
 - The claim that the last Abbasid caliph in Cairo "transferred" the caliphate to the Ottoman sultan Selim I in 1517 is a later legend not supported by contemporary accounts.
+
+Source: adapted from "Abbasid Caliphate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abbasid_Caliphate

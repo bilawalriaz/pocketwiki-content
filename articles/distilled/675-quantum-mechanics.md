@@ -69,3 +69,5 @@ Interpretations abound due to quantum mechanics' counter-intuitive nature. The C
 ## Debates and Open Questions
 
 The interpretation of quantum mechanics remains unresolved. Debates center on wave function collapse, the measurement problem, and quantum nonlocality. Einstein's quest for a deterministic theory led to hidden variable proposals, but Bell's theorem and experimental violations of Bell inequalities have constrained such approaches. Bohmian mechanics and many-worlds offer deterministic alternatives, yet face challenges in deriving the Born rule and explaining perceived probabilities. The reconciliation of quantum mechanics with general relativity—quantum gravity—remains an open frontier, with string theory and loop quantum gravity as leading candidates. Whether quantum effects can manifest macroscopically (beyond superconductors and superfluids) and the role of decoherence in classical emergence are active areas of research.
+
+Source: adapted from "Quantum mechanics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Quantum_mechanics

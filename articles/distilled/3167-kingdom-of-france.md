@@ -50,3 +50,5 @@ The monarchy was restored in 1814 under Louis XVIII of the Bourbon dynasty, who 
 - The precise demographic impact of the Black Death on 14th-century France is debated, with estimates of population loss ranging from 50% or more.
 - Historians continue to analyze the relative importance of religious, social, and political factors in causing the French Wars of Religion.
 - The degree to which Louis XIV's policies of centralization and religious uniformity ultimately weakened the monarchy by creating lasting resentment is a key historiographical question.
+
+Source: adapted from "Kingdom of France" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_France

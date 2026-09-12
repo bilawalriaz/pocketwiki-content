@@ -45,3 +45,5 @@ A statement is *undecidable* from a set of axioms if neither it nor its negation
 ## Debates and Open Questions
 
 Whether mathematical proofs are analytic or synthetic remains debated, with Kant arguing synthetic and Quine challenging the distinction. The validity of computer-assisted proofs is contested due to potential programming or runtime errors. Some philosophers argue that probabilistic evidence (e.g., Rabin's primality test) can constitute genuine proof, while most mathematicians reject this. The role of experimental mathematics and heuristic arguments in establishing mathematical truth continues to evolve with computing power.
+
+Source: adapted from "Mathematical proof" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematical_proof

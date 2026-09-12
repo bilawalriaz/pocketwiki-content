@@ -50,3 +50,5 @@ Justinian inherited a surplus treasury. He reformed tax collection to fund his w
 - **Plague's Impact**: The scale of mortality from the Plague of Justinian is disputed; recent evidence questions the traditional estimate of tens of millions dead.
 - **Long-term Consequences**: Historians debate whether Justinian's conquests were a strategic overextension that weakened the empire or a profitable expansion that paid for itself through taxation of wealthy provinces like North Africa and Italy.
 - **Procopius's Bias**: The historian Procopius wrote both a panegyric (*Buildings*) and a hostile *Secret History*, making his accounts a complex and sometimes contradictory source.
+
+Source: adapted from "Justinian I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Justinian_I

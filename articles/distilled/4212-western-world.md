@@ -42,3 +42,5 @@ In the 20th century, the concept of the West was redefined during the Cold War a
 - The exact scope of the West is debated, with varying perspectives on whether to include Latin America, Orthodox Europe, or parts of the former Soviet Union.
 - Scholars disagree on whether Western civilization was born around AD 500 after the fall of Rome or earlier, with its roots in classical antiquity.
 - There is debate over whether the concept of "the West" is a useful or accurate framework, with some scholars opposing a categorical "West and the Rest" division.
+
+Source: adapted from "Western world" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_world

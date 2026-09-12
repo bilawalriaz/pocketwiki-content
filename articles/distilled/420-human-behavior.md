@@ -116,3 +116,5 @@ Humans interact with ecosystems (natural and human-made: urban, agricultural). G
 *   **Antisocial Behavior Etiology:** The precise gene-environment interactions (e.g., MAOA gene × childhood maltreatment) producing psychopathy or extreme violence are not fully mapped; prediction and prevention remain limited.
 *   **Gender/Sex Complexity:** The biological substrates of gender identity (prenatal hormones, brain structure) are incompletely understood; the clinical and social management of gender diversity in minors is intensely debated.
 *   **Consciousness and Free Will:** Philosophy of mind questions (mind-body problem, determinism vs. libertarian free will) remain unresolved by neuroscience, affecting concepts of moral responsibility.
+
+Source: adapted from "Human behavior" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_behavior

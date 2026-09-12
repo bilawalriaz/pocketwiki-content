@@ -85,3 +85,5 @@ Anti-abortion violence has included murder, assault, arson, and bombing. Over 8,
 ## Debates and open questions
 
 The central debate concerns whether an embryo or fetus is a person with a right to life (equating abortion with murder) versus whether abortion is a woman's reproductive right. Public health researchers frame legal access as a public health measure given its association with reduced maternal mortality. Scholars debate whether the Hippocratic Oath forbade abortion in Ancient Greece. The mental-health outcome of a woman's second or greater abortion is less certain than the first. Studies linking prior surgical uterine evacuation to preterm birth did not control for unrelated factors, leaving causation undetermined. Research gaps remain on whether self-administered medical abortion is as safe as provider-administered, and on methods to support women taking medication at home.
+
+Source: adapted from "Abortion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abortion

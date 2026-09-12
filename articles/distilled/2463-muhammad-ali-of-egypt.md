@@ -47,3 +47,5 @@ He implemented legal reforms, passing the first penal legislation in 1829 and es
 - **Legacy**: He is viewed by some as the "Father of Modern Egypt" for building a modern state, while others see him as a foreign conqueror who exploited Egyptian resources for personal and dynastic gain.
 - **Reforms**: Historians debate whether his social reforms, like the women's medical school, were genuine modernization or primarily tools to strengthen his military and state control.
 - **Health**: The cause of his late-life senility is debated, possibly due to natural aging or the effects of silver nitrate treatment for dysentery.
+
+Source: adapted from "Muhammad Ali of Egypt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt

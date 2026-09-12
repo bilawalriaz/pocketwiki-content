@@ -13,3 +13,5 @@ The Atlantic slave trade. Beginning in the 15th century, European traders along 
 The Scramble. Between 1870 and 1914, European powers—armed with quinine, machine guns, and mutual rivalry—partitioned almost the entire continent. The 1884–1885 Berlin Conference formalised these claims, drawing the borders that largely survive today. Colonial rule disrupted existing institutions, often governed through traditional leaders (indirect rule), and spread Christianity.
 
 Independence. After the Second World War, African nationalism surged. Decolonisation peaked in 1960, the "Year of Africa," when 17 nations became independent. The Organisation of African Unity, founded in 1963, preserved the colonial borders to avoid border wars. Namibia's independence in 1990 was among the last. Post-independence states have inherited those borders and face internal conflict, neocolonial economic dependence, and climate stress.
+
+Source: adapted from "History of Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Africa

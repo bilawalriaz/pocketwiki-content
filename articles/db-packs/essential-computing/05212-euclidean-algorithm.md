@@ -52,3 +52,5 @@ A key advantage is that the algorithm stays efficient on very large numbers, whi
 ## Generalizations
 
 In the 19th century the algorithm was extended from natural numbers to Gaussian integers and polynomials, leading Dedekind to define a Euclidean domain: any number system with a division-with-remainder operation where the same descent argument gives a GCD.
+
+Source: adapted from "Euclidean algorithm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Euclidean_algorithm

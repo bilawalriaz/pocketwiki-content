@@ -51,3 +51,5 @@ The city is served by Port Harcourt International Airport and a Nigerian Air For
 
 ## Debates and Open Questions
 The source highlights ongoing debates and concerns regarding the causes and solutions to Port Harcourt's severe air pollution, with suspected sources ranging from industrial operations to illegal refineries. The effectiveness of government interventions, such as shutting down specific companies, in resolving the crisis remains a critical open question. Furthermore, the success of the Greater Port Harcourt development plan in managing the city's congestion and growth is an ongoing project.
+
+Source: adapted from "Port Harcourt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Port_Harcourt

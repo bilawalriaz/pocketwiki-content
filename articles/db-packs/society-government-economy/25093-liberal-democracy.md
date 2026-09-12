@@ -23,3 +23,5 @@ Relative to authoritarian regimes, liberal democracies correlate with greater po
 ## Criticisms and vulnerabilities
 
 Persistent criticisms focus on campaign costs favouring the wealthy, concentrated media ownership narrowing public debate, low turnout undermining legitimacy, short electoral cycles discouraging long-term thinking, and the tyranny of the majority, where a numerical majority oppresses minorities. Marxists describe liberal democracy as "bourgeois democracy" that masks capitalist class rule. Since V-Dem Institute indices peaked around 2012, democratic decline has accelerated, with backsliding documented in the United States, Poland, Hungary, and Israel. Freedom House reports a fall in free countries between 2005 and 2021. Populism exploits a core tension: suppressing anti-democratic movements appears illiberal, yet tolerating them risks dismantling the liberal component.
+
+Source: adapted from "Liberal democracy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liberal_democracy

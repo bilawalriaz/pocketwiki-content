@@ -49,3 +49,5 @@ Spaceflight supports Earth observation, communications, navigation, space touris
 
 ## Debates and Open Questions  
 The cost and sustainability of spaceflight are debated, especially regarding space tourism and colonization. Radiation exposure limits long-duration missions, and space debris threatens orbital access. Ethical questions surround planetary protection and equitable access to space resources. Whether reusable systems can fully replace expendable ones remains uncertain. The feasibility of interstellar travel hinges on breakthroughs in propulsion technology.
+
+Source: adapted from "Spaceflight" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Spaceflight

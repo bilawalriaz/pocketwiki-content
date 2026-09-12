@@ -78,3 +78,5 @@ Disoriented by late 1973, Warner retired. A 1974 stroke left him blind and mute.
 - **Strategic vision vs. opportunism**: Did Warner’s shift from resisting TV to embracing it, and from anti-Nazi to anti-communist films, reflect coherent strategy or reactive pragmatism?
 - **Legacy of the cartoon sale**: The 1956–57 sale of pre-1948 cartoons for $3,000 each is often cited as a catastrophic error; did Warner understand the long-term value of library assets?
 - **Family dynamics**: The 1956 secret takeover—described by Harry as selling their "heritage"—remains a case study in dynastic business betrayal; to what extent did the brothers’ immigrant trauma drive their ruthlessness?
+
+Source: adapted from "Jack L. Warner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jack_L._Warner

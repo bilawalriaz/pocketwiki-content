@@ -52,3 +52,5 @@ Orwell married Eileen O'Shaughnessy in 1936; she died suddenly in 1945. They had
 
 ## Debates and Open Questions
 Orwell’s legacy is contested. Some view him as a champion of democratic socialism and free speech, while others argue his views were inconsistent or overly pessimistic. Critics debate whether his portrayal of working-class life was authentic or patronizing. His personal relationships, including allegations of infidelity and homophobia, have sparked controversy. Additionally, scholars question how his works should be interpreted in contemporary contexts—particularly regarding their relevance to modern surveillance states and authoritarian trends. The extent to which his private papers reveal a more complex figure than his public persona remains a topic of scholarly discussion.
+
+Source: adapted from "George Orwell" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_Orwell

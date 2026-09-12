@@ -47,3 +47,5 @@ Mahmud sought to modernize Ottoman society through standardization and cultural 
 
 ## Debates and Open Questions
 The source material does not present explicit scholarly debates, but it frames Mahmud II's legacy within the broader narrative of Ottoman decline and modernization. His reign is pivotal in discussions about whether internal reforms could have reversed the empire's territorial disintegration or merely delayed it. The effectiveness and social impact of his top-down reforms, particularly the forced adoption of the fez and the suppression of traditional institutions like the Janissaries, remain points of historical analysis regarding their acceptance and long-term consequences.
+
+Source: adapted from "Mahmud II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mahmud_II

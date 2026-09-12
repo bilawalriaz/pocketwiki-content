@@ -21,3 +21,5 @@ Mass extinctions periodically wiped out a large share of species in a geological
 ## Mammals, humans, and the species yet to be found
 
 After the dinosaur extinction, mammals diversified, and hominins (the lineage of modern humans and their immediate ancestors after the split from chimpanzees) appear in the fossil record over 6 Ma ago. The genus *Homo* emerged around 2.5 Ma, with significant brain-size growth over the last 3 million years. *Homo sapiens* evolved in Africa less than 200,000 years ago and then spread across the globe. One unresolved debate is whether modern humans descend largely from a single African population that later replaced other hominin species, or whether genetic contributions from multiple regional populations were substantial. Only a small fraction of an estimated 1 trillion species has been formally described, so the count of living kinds remains far from complete.
+
+Source: adapted from "History of life" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_life

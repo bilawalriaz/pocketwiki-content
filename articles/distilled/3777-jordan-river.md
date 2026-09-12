@@ -40,3 +40,5 @@ In the Hebrew Bible, the Jordan is the river the Israelites crossed into the Pro
 ## Debates and Open Questions
 - The precise etymology of the river's name is debated, with hypotheses linking it to Semitic roots meaning "to flow down" or to an Egyptian word for "big river."
 - The ecological rescue of the Jordan River is considered a decades-long challenge due to ongoing pollution and political complexities in water management among Israel, Jordan, Syria, and Palestine.
+
+Source: adapted from "Jordan River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jordan_River

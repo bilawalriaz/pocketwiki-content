@@ -15,3 +15,5 @@ Temples often predated the cities around them, evolving from small shrines into 
 Landscape mattered. Open space was deliberately reserved for orchards and gardens, and irrigation agriculture produced some of the earliest enclosed garden forms, including the quadrangular *sar*, a precursor to later Persian paradise gardens. A carved water basin from Girsu, c. 3000 BC, shows fountains and water features were already part of the designed landscape.
 
 Two points remain genuinely uncertain. The exact symbolic purpose of ziggurats is debated; a popular hypothesis that they imitated mountains has limited textual or archaeological support. The daily life of poorer inhabitants, who likely built with perishable materials, is poorly documented because such remains rarely survive in the archaeological record.
+
+Source: adapted from "Architecture of Mesopotamia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Architecture_of_Mesopotamia

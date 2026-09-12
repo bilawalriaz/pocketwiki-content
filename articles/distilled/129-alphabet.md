@@ -61,3 +61,5 @@ When an alphabet is adopted for a language, an orthography develops mapping lett
 ## Debates and open questions
 
 Scholars debate whether the earliest alphabets had a defined sequence; some scripts today, like Hanuno'o, are learned in no particular order. Orly Goldwasser has connected the "illiterate turquoise miner graffiti" theory to the origin of the alphabet, suggesting the first alphabet may have been developed by workers rather than scribes. The Proto-Sinaitic script was originally probably a syllabary, and whether it or the Wadi el-Hol script should be considered the first alphabet depends on how one defines "alphabet" in the narrow sense. The categorisation of scripts into alphabets, abjads, and abugidas is not always clear-cut, as some scripts shift categories depending on language use, and no established names yet exist for distinguishing how scripts treat tone.
+
+Source: adapted from "Alphabet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alphabet

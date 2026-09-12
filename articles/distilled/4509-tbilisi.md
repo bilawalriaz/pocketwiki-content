@@ -47,3 +47,5 @@ Following the dissolution of the Soviet Union, Tbilisi endured civil war, crime,
 
 ## Debates and Open Questions
 The source presents the city's founding legend as "one widely accepted variant," implying other versions exist. The precise ethnic composition of Tbilisi during different historical periods, such as when Armenians formed a large portion of the population in the 19th century, is noted but not deeply explored. The long-term impact of the city's frequent destructions and rebuildings on its cultural continuity is an implicit theme.
+
+Source: adapted from "Tbilisi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tbilisi

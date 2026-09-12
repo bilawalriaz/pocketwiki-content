@@ -41,3 +41,5 @@ Weissmuller was married five times and had three children with his third wife, B
 
 ## Debates and Open Questions
 The source notes a discrepancy regarding Weissmuller's birthplace, citing a 2007 *New York Times* article that states he was born in Serbia, while the main text gives Szabadfalva in the Kingdom of Hungary. The author Edgar Rice Burroughs' dissatisfaction with the studio's depiction of Tarzan as inarticulate, which led him to create a competing film series, highlights a creative conflict between the author's vision and Hollywood's interpretation.
+
+Source: adapted from "Johnny Weissmuller" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johnny_Weissmuller

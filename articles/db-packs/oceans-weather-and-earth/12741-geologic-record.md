@@ -28,3 +28,5 @@ Pairing a physical layer with its corresponding slice of geologic time turns a s
 ## Discordances and incomplete preservation
 
 Discordances, the gaps left when erosion, non-deposition, or tectonic activity removed layers that exist elsewhere, appear throughout the record. Cyclic sediments such as the Oxfordian limestones and marls near Tavannes, Switzerland, record repeated 200,000-year environmental cycles visible as alternating colour bands. A million-year South Atlantic sediment core taken by the research vessel Polarstern shows light and dark layers driven by Quaternary climate swings.
+
+Source: adapted from "Geologic record" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geologic_record

@@ -47,3 +47,5 @@ Bolt retired after the 2017 World Championships, where he won 100 m bronze and s
 *   **The 2008 Relay Disqualification:** Bolt's "triple-triple" was compromised when the 2008 relay gold was stripped due to Nesta Carter's doping violation, raising questions about team legacy.
 *   **Impact of Scoliosis:** Bolt has scoliosis, causing a ½-inch leg length discrepancy. Biomechanics researchers have studied whether this asymmetry aided or hindered his sprinting, with no firm conclusions.
 *   **Performance in the Context of Doping:** Bolt's career occurred amid high-profile drug scandals in sprinting. While he vehemently denied doping and passed all tests, his dominance inevitably invites scrutiny and debate within the sport's history.
+
+Source: adapted from "Usain Bolt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Usain_Bolt

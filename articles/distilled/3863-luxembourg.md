@@ -43,3 +43,5 @@ Luxembourg is a multilingual and multicultural society. The 1984 Language Regime
 *   **Language Future:** There is ongoing debate about the long-term status of Luxembourgish and German due to the strong influence of French in administration, business, and daily life, with concerns about potential "francization."
 *   **Tax Haven Status:** Despite reforms, Luxembourg continues to face international scrutiny and debate over its role as a financial center and its corporate tax practices, as highlighted by the LuxLeaks scandal.
 *   **Economic Model:** The country's economic growth model, heavily reliant on cross-border workers and the financial sector, raises questions about sustainability, tax revenue sharing with border regions, and social cohesion.
+
+Source: adapted from "Luxembourg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Luxembourg

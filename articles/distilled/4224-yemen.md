@@ -48,3 +48,5 @@ Yemen's population is about 34.7 million, predominantly Arab Muslims. The main M
 *   The exact etymology of "Yemen" is debated, with theories linking it to "south," "right," or "blessed."
 *   The political future of Yemen remains uncertain, with competing governments (PLC and SPC) and the role of external powers like Saudi Arabia, the UAE, and Iran being central issues.
 *   The long-term impact of the civil war on Yemen's social fabric, tribal structures, and state institutions is a subject of ongoing analysis.
+
+Source: adapted from "Yemen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yemen

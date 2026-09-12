@@ -60,3 +60,5 @@ Vasari records Giotto buried in Florence Cathedral beside the entrance, marked b
 - **Santa Croce chapel dating**: Bardi and Peruzzi Chapel frescoes’ chronology is disputed due to stylistic variations.
 - **Stefaneschi Triptych**: Designed c. 1320, but style seems unlikely for Giotto or his normal Florentine assistants.
 - **Baroncelli Chapel**: Completed 1328 but now believed to be mostly by assistants including Taddeo Gaddi.
+
+Source: adapted from "Giotto" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Giotto

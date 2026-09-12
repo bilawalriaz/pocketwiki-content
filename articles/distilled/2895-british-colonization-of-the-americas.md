@@ -47,3 +47,5 @@ Several territories remain British Overseas Territories, including Bermuda, the 
 - The legacy of slavery and its role in shaping colonial economies and societies remains contested.
 - The process of decolonization in the Caribbean is analyzed for its relative peacefulness compared to other empires.
 - The status and rights of citizens in remaining British Overseas Territories continue to evolve, with debates over self-determination and citizenship.
+
+Source: adapted from "British colonization of the Americas" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/British_colonization_of_the_Americas

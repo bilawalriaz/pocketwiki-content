@@ -48,3 +48,5 @@ The war ended with no territorial changes and no reparations. The UN identified 
 - **Who won?** Most analysts consider the war a stalemate, though some argue Iraq emerged as the victor due to its late-war successes, while Iran claims victory for thwarting Iraq's territorial aims and later securing the Shatt al-Arab.
 - **Chemical weapons use**: While Iraq's extensive use is well-documented, allegations of Iranian chemical attacks are disputed and lack conclusive evidence. The international community's response, particularly U.S. support for Iraq despite knowledge of its chemical use, remains controversial.
 - **U.S. role**: The extent and motivation of U.S. support for Iraq, including during its use of chemical weapons, and the causes of incidents like the downing of Iran Air Flight 655, are subjects of ongoing historical analysis.
+
+Source: adapted from "Iran–Iraq War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War

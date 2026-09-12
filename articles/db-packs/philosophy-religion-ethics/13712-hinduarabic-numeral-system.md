@@ -25,3 +25,5 @@ The place-value system is independent of the glyphs used to write it; only ten d
 ## Adoption in East Asia
 
 Counting rods gave China a working decimal positional system long before Hindu numerals arrived, and when the Indian scholar Gautama Siddha introduced Hindu numerals with zero in 718 CE, Chinese mathematicians found no use for them. The character 〇, the hollow circle now read as zero, appears in Qin Jiushao's 1247 *Mathematical Treatise in Nine Sections*, but its origin is disputed. Some historians trace it to Indian influence, others to a Chinese text-filler symbol, and still others argue the resemblance to Indian forms is coincidental.
+
+Source: adapted from "Hindu–Arabic numeral system" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system

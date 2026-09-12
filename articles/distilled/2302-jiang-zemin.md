@@ -48,3 +48,5 @@ In 2000, Jiang introduced the "Three Represents" theory, which broadened the CCP
 - **Power Transition**: His retention of the military chairmanship after 2002 created an unusual period of dual leadership with Hu Jintao, seen by some as an attempt to maintain influence "from behind the curtain."
 - **Corruption and Cronyism**: His tenure is associated with the rise of powerful interest groups and corruption, exemplified by the later downfall of his military allies, Xu Caihou and Guo Boxiong.
 - **Self-Deification**: Historian Yang Jisheng argued Jiang's push to enshrine the "Three Represents" in the constitution was an attempt at "self-deification," placing himself alongside Mao and Deng.
+
+Source: adapted from "Jiang Zemin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jiang_Zemin

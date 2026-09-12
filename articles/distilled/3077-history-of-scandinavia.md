@@ -54,3 +54,5 @@ Scandinavian countries remained neutral in World War I. In World War II, Denmark
 - The exact origins and social role of the creators of Bronze Age petroglyphs versus the makers of high-quality metalwork are debated.
 - The extent and nature of interaction between Slavic and Viking cultures in the Baltic region is noted as not "adequately investigated."
 - The primary motivations behind the large-scale 19th-century Scandinavian emigration are analyzed as a combination of economic opportunity, population pressure, and social factors.
+
+Source: adapted from "History of Scandinavia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Scandinavia

@@ -52,3 +52,5 @@ Any linear functional $f$ on $n \times n$ matrices satisfying $f(XY) = f(YX)$ is
 ## Generalisations
 
 On a Hilbert space, the trace extends to trace-class compact operators via $\operatorname{tr}(K) = \sum_n \langle e_n, K e_n \rangle$ for any orthonormal basis, with the Hilbert–Schmidt norm playing the role of the Frobenius norm. The partial trace handles operators on tensor product spaces: $\operatorname{tr}_A(\operatorname{tr}_B(Z)) = \operatorname{tr}_B(\operatorname{tr}_A(Z)) = \operatorname{tr}(Z)$. Stochastic estimation uses Hutchinson's trick: for random $u$ with $\mathbb{E}[uu^{\intercal}] = I$, $\mathbb{E}[u^{\intercal}Wu] = \operatorname{tr}(W)$.
+
+Source: adapted from "Trace (linear algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Trace_%28linear_algebra%29

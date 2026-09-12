@@ -29,3 +29,5 @@ Applied ethics tests universal principles in concrete cases through top-down rea
 ## History
 
 Ethics arose in ancient Egypt (Maat: truth and balance), India (Vedas, Buddhism), China (Confucianism, Daoism), and Greece (Socrates, Plato, Aristotle, Stoicism, Epicureanism). Medieval ethics absorbed religious influence: Aquinas developed natural law, and Islamic philosophers synthesized Greek and Islamic thought. The modern period turned secular through Hobbes (self-interest, social contract), Hume (moral sentiments), Kant (reason), Hegel (social institutions), and Nietzsche's critique of Christian and Kantian morality. The 20th century saw metaethics emerge (Moore, Hare, Mackie, Parfit, Williams), virtue ethics revive through Foot, Rawls's Kantian political philosophy, and feminist ethics.
+
+Source: adapted from "Ethics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ethics

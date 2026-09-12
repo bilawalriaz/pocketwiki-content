@@ -54,3 +54,5 @@ Pre-20th century analysis was **diachronic** (historical comparison). Saussure i
 - **Applied linguistics scope**: Whether the field merely "applies" theoretical findings or independently engineers solutions drawing on multiple disciplines.
 - **Asylum interview reliability**: Validity and ethics of linguistic analysis for nationality determination in refugee adjudication.
 - **Writing vs. speech primacy**: Balancing the theoretical primacy of speech with the practical necessity of written corpora for large-scale computational work.
+
+Source: adapted from "Linguistics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Linguistics

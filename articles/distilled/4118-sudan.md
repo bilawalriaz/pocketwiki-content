@@ -49,3 +49,5 @@ Mass protests in 2018–2019 led to Bashir's ouster. A transitional government w
 *   The precise death toll of the Darfur genocide (estimated 300,000–400,000) and the ongoing civil war (estimates vary widely) remain subjects of investigation and dispute.
 *   The future of disputed areas like the Abyei Region, which was to hold a referendum on its status, remains unresolved.
 *   The role of external actors, particularly the United Arab Emirates' alleged support for the RSF, is a point of international contention and investigation.
+
+Source: adapted from "Sudan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sudan

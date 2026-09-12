@@ -42,3 +42,5 @@ Dhaka is a center of Bengali culture, known for its culinary heritage (especiall
 - The etymology of the name "Dhaka" is uncertain, with multiple theories involving the dhak tree, the goddess Dhakeshwari, or a drum instrument.
 - The exact population of Bihari refugees in Bangladesh is ambiguous, with estimates ranging from 40,000 to over 300,000.
 - The long-term sustainability of Dhaka's growth model is a critical question, given its severe congestion, pollution, and infrastructure deficits.
+
+Source: adapted from "Dhaka" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dhaka

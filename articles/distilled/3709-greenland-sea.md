@@ -45,3 +45,5 @@ Water from the Atlantic flows through the Greenland Sea into the Arctic Ocean vi
 - The precise definition and classification of the Greenland Sea (as part of the Arctic or Atlantic Ocean) is noted as imprecise or arbitrary.
 - The future impact of changes in water flow through the Greenland Sea on global climate patterns is unclear.
 - The potential for recovery of whale populations, particularly the bowhead whale, after historical depletion is an ongoing area of study.
+
+Source: adapted from "Greenland Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Greenland_Sea

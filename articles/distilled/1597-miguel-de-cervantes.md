@@ -59,3 +59,5 @@ Cervantes died 22 April 1616 (NS) of probable diabetes; 23 April (burial date) i
 - **Captivity in Istanbul**: Turkish historian Rasih Nuri İleri claims Cervantes worked on Kılıç Ali Pasha Complex; no published evidence; unproven.
 - **Authentic portrait**: None confirmed. Juan de Jáuregui attribution and El Greco candidates (*Retrato de un caballero desconocido*, *Nobleman with Hand on Chest*) are speculative; Prado favors Second Marquis of Montemayor.
 - **Avellaneda’s identity**: The unauthorized 1614 *Quixote* sequel author (Alonso Fernández de Avellaneda) remains unidentified.
+
+Source: adapted from "Miguel de Cervantes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Miguel_de_Cervantes

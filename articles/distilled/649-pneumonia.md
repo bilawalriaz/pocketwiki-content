@@ -73,3 +73,5 @@ Ancient Greeks described pneumonia. The 19th century saw bacterial identificatio
 - Use of corticosteroids in hospital-acquired pneumonia lacks sufficient evidence.
 - Vitamin C and D supplementation for pneumonia prevention/treatment remains under investigation.
 - Whether to routinely follow up with chest X-rays after pneumonia resolution varies between guidelines.
+
+Source: adapted from "Pneumonia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pneumonia

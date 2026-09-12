@@ -73,3 +73,5 @@ In the early modern period, the Renaissance and Enlightenment shifted education 
 - The distinction between education and indoctrination is debated, with some arguing that a clear line cannot be drawn because some indoctrination may be necessary in early childhood.
 - It is controversial whether the educational systems of developed countries are superior and should be exported to less developed countries.
 - The effectiveness of learning styles is criticized for ambiguous empirical evidence, and educational research has been found to have low reproducibility.
+
+Source: adapted from "Education" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Education

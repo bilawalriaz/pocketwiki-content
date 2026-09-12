@@ -48,3 +48,5 @@ Tacitus used official Roman records like the *Acta Senatus* (Senate minutes) and
 - **Interpretation of His Politics**: His works have been interpreted both as supporting and rejecting the imperial system, leading to the scholarly divide between "Black" (pessimistic) and "Red" (optimistic) Tacitists.
 - **Completeness of the *Annals***: It is unknown whether Tacitus completed the *Annals*; the work breaks off in AD 66, and he died before writing his planned histories of Nerva and Trajan.
 - **Authenticity of the *Dialogus***: Its distinct Ciceronian style has led to periodic questions about its authorship, though it is now generally accepted as an early work of Tacitus.
+
+Source: adapted from "Tacitus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tacitus

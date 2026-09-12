@@ -46,3 +46,5 @@ As childless, Elizabeth needed a secure successor. She chose her nephew, Peter o
 - **Paternity of Paul I**: There is considerable speculation that Elizabeth's grandson, Paul I, was not the biological son of her heir Peter III but of Sergei Saltykov, with Elizabeth's consent.
 - **Legitimacy of Elizabeth's birth**: Her parents' marriage was not official until 1712, after her birth, which was used by political opponents to challenge her right to the throne.
 - **Role of foreign powers in her coup**: The involvement of the French ambassador and Swedish interests in planning her 1741 coup highlights the extent of foreign interference in Russian succession politics.
+
+Source: adapted from "Elizabeth of Russia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Elizabeth_of_Russia

@@ -25,3 +25,5 @@ The seventeenth century drained the state. Shah Soltan Hoseyn (r. 1694–1722) p
 ## Lasting consequences
 
 The state-sponsored conversion of Iran to Shi'ism hardened a Sunni–Shia divide across the Middle East, often compared in regional effect to the Protestant Reformation in Europe. The Safavid state also modelled a patrimonial kingship, rule organised around the household and person of the Shah, that shaped Iranian governance into the twentieth century, and it left an administrative and territorial template for modern Iran.
+
+Source: adapted from "Safavid dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Safavid_dynasty

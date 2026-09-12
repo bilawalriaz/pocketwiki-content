@@ -49,3 +49,5 @@ With over 20 million people and low population density, ethnic Kazakhs form a ma
 - **Role of the Golden Horde:** Historiography debates its role in Kazakh state formation. Soviet narratives minimized it, while modern Kazakh and some Western historians view it as a crucial predecessor to the Khanate.
 - **Assessment of Kenesary Qasymov:** The leader of the last major armed resistance against Russian rule (1837–1847) is contested, portrayed variously as a national hero or a reactionary.
 - **Political Reform Trajectory:** The extent and sincerity of reforms under President Tokayev are debated. While some steps have been taken (e.g., term limits), Kazakhstan remains classified as an authoritarian regime by international observers.
+
+Source: adapted from "Kazakhstan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kazakhstan

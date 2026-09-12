@@ -45,3 +45,5 @@ The city's tourism is anchored by its 80 km of coastline along the Bay of All Sa
 
 ## Debates and Open Questions
 The restoration of the Pelourinho neighborhood in the 1990s is a major point of debate. While it created a tourist attraction, the process involved the forced removal of thousands of working-class, predominantly Afro-descendant residents to the city's periphery, separating them from work and amenities. This has sparked significant political debate about the equitable distribution of economic benefits from heritage tourism. Additionally, despite its majority Black population, Salvador's political and economic elites have historically been dominated by a mostly European-descended upper class, leading to ongoing discussions about racial representation and inequality.
+
+Source: adapted from "Salvador, Bahia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Salvador%2C_Bahia

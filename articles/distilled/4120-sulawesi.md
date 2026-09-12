@@ -47,3 +47,5 @@ The primary environmental threat is deforestation, with 80% of lowland forests l
 - The traditional view of Sulawesi's formation via multiple micro-continental collisions has been challenged by a newer hypothesis involving a single Miocene collision and subsequent fragmentation.
 - The original purpose of the hundreds of granite megaliths in Central Sulawesi remains unknown.
 - The precise timing and routes of early human migrations into and through Sulawesi are still being refined by new archaeological and genetic evidence.
+
+Source: adapted from "Sulawesi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sulawesi

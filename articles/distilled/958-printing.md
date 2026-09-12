@@ -101,3 +101,5 @@ By 2005, digital printing accounted for ~9% of 45 trillion pages printed annuall
 - **Disappearance of Islamic block printing**: Why *ṭarsh* printing vanished after 1436/1444 without explanation; possible role of migrating Ghurabā' in European transmission.
 - **Quantitative impact estimates**: European book output rise from "a few million to around one billion copies within less than four centuries" is an estimate; precise figures debated.
 - **3D printing industrial viability**: As of 2019, some processes considered viable for industrial production, but scope, materials, and economic thresholds remain evolving.
+
+Source: adapted from "Printing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Printing

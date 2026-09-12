@@ -52,3 +52,5 @@ In his final decades, Shaw continued writing plays and political treatises, incl
 
 ## Debates and Open Questions
 Scholars continue to debate the extent of Shaw’s paternal uncertainty, particularly regarding George John Lee. His political legacy remains contentious—while praised for advancing socialist thought, his admiration for dictators and support for eugenics have tarnished his reputation. Critics also question whether his plays are timeless classics or products of their era. The interpretation of his religious views—from atheism to mysticism—remains fluid, as does the significance of his unconsummated marriage to Charlotte Payne-Townshend. Finally, the enduring relevance of his theatrical innovations versus accusations of didacticism fuel ongoing scholarly discourse.
+
+Source: adapted from "George Bernard Shaw" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_Bernard_Shaw

@@ -46,3 +46,5 @@ In 1855, following Gauss's death, Dirichlet accepted a professorship at the Univ
 
 ## Debates and Open Questions
 The attribution of the modern concept of a function to Dirichlet is debated. While he is commonly credited, mathematician Imre Lakatos argued that Dirichlet had "no idea of this concept," citing his discussion of piecewise continuous functions where he noted a function could have two values at points of discontinuity. The Dirichlet divisor problem, concerning the error term in the asymptotic formula for the divisor function, remains an unsolved problem in number theory.
+
+Source: adapted from "Peter Gustav Lejeune Dirichlet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet

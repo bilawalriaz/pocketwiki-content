@@ -87,3 +87,5 @@ Since the Assumption/Dormition implies no bodily remains, relics are limited to 
 - **Quranic "Sister of Aaron":** Whether this denotes literal kinship, tribal affiliation, or typological identification with Miriam (Moses' sister) is debated; a Hadith clarifies it as metaphorical naming.
 - **House of Mary in Ephesus:** Based on 19th-century visions of Anne Catherine Emmerich; archaeological support is lacking, but it is a major Catholic pilgrimage site.
 - **Collyridianism:** The 4th-century Arabian sect offering *bread* to Mary raises questions about early boundaries between veneration and worship.
+
+Source: adapted from "Mary, mother of Jesus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mary%2C_mother_of_Jesus

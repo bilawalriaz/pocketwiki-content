@@ -41,3 +41,5 @@ The novel was an immediate commercial success, sparking public debates about its
 - **Authorship**: The novel was published anonymously, and while Madame de La Fayette is generally held to be the author, this was a subject of early debate.
 - **The Princess's Confession**: A major contemporary debate concerned the wisdom and morality of the Princess's decision to confess her adulterous feelings to her husband, a central and controversial plot point.
 - **Historical Fidelity**: While the novel is praised for its precise recreation of the era, scholars examine the balance between its historical accuracy and its fictional narrative.
+
+Source: adapted from "La Princesse de Clèves" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/La_Princesse_de_Cl%C3%A8ves

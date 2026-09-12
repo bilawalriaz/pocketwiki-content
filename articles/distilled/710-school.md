@@ -47,3 +47,5 @@ Critics argue schools stifle creativity, enforce conformity, and rely on extrins
 ## Debates and Open Questions
 
 Key debates center on whether schools enhance or hinder natural learning. Critics contend that rigid schedules, standardized testing, and behavioral control suppress creativity and intrinsic motivation. Proponents highlight schools' role in transmitting culture, developing critical thinking, and preparing students for professional life. Questions remain about optimal organizational models (e.g., departmental vs. small learning communities), the balance between public and private oversight, and how to address persistent inequities in global access to quality education.
+
+Source: adapted from "School" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/School

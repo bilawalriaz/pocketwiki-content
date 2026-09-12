@@ -44,3 +44,5 @@ The architecture is characterized by the Persian column and grand reliefs. Key s
 - **Cause of the Fire**: Was the destruction in 330 BC a deliberate act of revenge by Alexander, an accident during a drunken celebration, or a calculated political move?
 - **Royal Quarters**: The location of the king's private living quarters within the complex remains unclear.
 - **Sivand Dam Impact**: There is ongoing concern and debate about whether the nearby Sivand Dam threatens the archaeological sites of Persepolis and Pasargadae.
+
+Source: adapted from "Persepolis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Persepolis

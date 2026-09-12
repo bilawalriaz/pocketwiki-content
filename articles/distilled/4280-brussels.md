@@ -48,3 +48,5 @@ Brussels is Belgium's economic capital and a top financial centre in Western Eur
 - **Municipal structure**: There is debate over merging Brussels' 19 municipalities into a single city council to reduce costs and centralize power.
 - **Brusselisation**: The tension between modern development and historic preservation remains a concern.
 - **Economic disparity**: While Brussels has the highest GDP per capita in Belgium, it also has the lowest available income per household and high unemployment.
+
+Source: adapted from "Brussels" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brussels

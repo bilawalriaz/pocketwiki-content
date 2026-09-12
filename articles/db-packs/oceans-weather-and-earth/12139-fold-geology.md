@@ -49,3 +49,5 @@ Fold geometry reflects the stress field at the time of deformation and the **rhe
 ## Economic importance
 
 In the hinge zone of a fold, layers must accommodate large deformations, opening voids where water pressure drops. These voids trigger mineral deposition, and over millions of years this concentrates trace minerals into veins, which is why mining geologists target highly folded rock. In petroleum geology, a porous sandstone capped by low-permeability shale and folded into an anticline forms an **anticlinal trap**, with oil and gas accumulating at the crest.
+
+Source: adapted from "Fold (geology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fold_%28geology%29

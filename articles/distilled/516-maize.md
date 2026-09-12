@@ -66,3 +66,5 @@ In Mesoamerica, maize was deified (often as a female maize god) and central to O
 - **Biofuel vs. Food Trade-offs:** The diversion of maize to ethanol production increases demand and prices, indirectly raising food costs; the net energy balance and land-use change impacts of maize ethanol remain contested.
 - **GM Trait Durability:** Evolution of resistance in target pests (e.g., corn rootworm to *Bt* traits) and weeds (to herbicide tolerance) threatens the long-term efficacy of dominant GM technologies.
 - **Mycotoxin Management:** Climate change may expand the range and severity of *Aspergillus* and *Fusarium* ear rots, complicating food/feed safety and requiring new resistance breeding or post-harvest strategies.
+
+Source: adapted from "Maize" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maize

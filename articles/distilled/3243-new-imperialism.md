@@ -47,3 +47,5 @@ Colonial competition intensified great power tensions. France's seizure of Tunis
 - **Motivations:** Was imperialism driven primarily by economic interests (as argued by Lenin and Hobson), geopolitical rivalry, or sincere (if misguided) humanitarianism?
 - **Economic Impact:** Did colonialism provide net economic benefits to the colonizers, or did the costs of administration and military often exceed financial returns?
 - **Theories:** How well do theories like "accumulation theory" or "World-Systems theory" explain the actions of less industrialized imperial powers like Italy or Japan?
+
+Source: adapted from "New Imperialism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/New_Imperialism

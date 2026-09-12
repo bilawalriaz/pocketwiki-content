@@ -87,3 +87,5 @@ The series *∑ 1/k!* converges rapidly. Modern computation uses **binary splitt
 2.  **Normality of *e*:** It is conjectured but unproven that the digits of *e* are uniformly distributed in every base (i.e., *e* is a normal number).
 3.  **Period status:** It is conjectured that *e* is **not** a period (an integral of an algebraic function over an algebraic domain), unlike *π*.
 4.  **Reason for Euler's notation:** It is unknown why Euler chose the letter *e* (possibly "exponential," or simply the next vowel after *a* used for other constants).
+
+Source: adapted from "E (mathematical constant)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/E_%28mathematical_constant%29

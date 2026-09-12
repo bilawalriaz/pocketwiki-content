@@ -47,3 +47,5 @@ As of 2023, Shanghai had a population of 24,874,500, with a significant number o
 ## Debates and Open Questions
 - The exact origin and interpretation of the name "Shanghai" are disputed, with some historical records suggesting a much earlier reference than the 11th century.
 - The city's population control policies, implemented since 2017, aim to manage growth but have resulted in population declines, raising questions about long-term demographic and economic impacts.
+
+Source: adapted from "Shanghai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Shanghai

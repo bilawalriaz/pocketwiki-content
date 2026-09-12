@@ -34,3 +34,5 @@ The Tigris holds deep religious importance. In Sumerian mythology, it was create
 
 ## Debates and Open Questions
 The primary debate concerns the geopolitical and environmental impact of Turkish dam construction on downstream water flow and quality in Iraq. Another open question is the long-term sustainability of the river given climate change, poor water management, and regional instability. The risk of a Mosul Dam collapse remains a critical, unresolved safety concern.
+
+Source: adapted from "Tigris" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tigris

@@ -61,3 +61,5 @@ In *Walden Two* (1948) and *Beyond Freedom and Dignity* (1971), Skinner envision
 - **Air crib controversy**: Public backlash stemmed from conflation with laboratory animal research; Skinner denied using his daughter in experiments.  
 - **Ethical concerns**: Critics question whether applying operant principles to humans risks manipulation, especially in education and social policy.  
 - **Superstition experiment reinterpretation**: Later studies suggest pigeons’ behaviors may reflect classical conditioning rather than adventitious reinforcement, complicating Skinner’s original interpretation.
+
+Source: adapted from "B. F. Skinner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/B._F._Skinner

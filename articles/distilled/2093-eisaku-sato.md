@@ -45,3 +45,5 @@ Satō's popularity collapsed in 1971 due to the "Nixon Shocks"—the U.S. presid
 
 ## Debates and Open questions
 The central debate concerns the contradiction between Satō's public anti-nuclear stance and his secret agreements with the U.S. Scholars question the extent to which he was a genuine advocate for non-proliferation versus a pragmatist making hidden concessions. His Nobel Prize remains controversial in light of these revelations. Another point of analysis is whether his foreign policy, particularly his staunch anti-China position, ultimately left Japan diplomatically isolated and unprepared for the "Nixon Shocks."
+
+Source: adapted from "Eisaku Satō" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eisaku_Sat%C5%8D

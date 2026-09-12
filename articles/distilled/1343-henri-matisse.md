@@ -44,3 +44,5 @@ Diagnosed with duodenal cancer in 1941, Matisse turned to paper cut-outs (decoup
 
 ## Debates and Open Questions
 Scholars debate the extent to which Matisse’s cut-outs represent a culmination of his artistic philosophy versus a pragmatic response to physical limitation. While some view the late works as evidence of continued innovation, others question whether they dilute the painterly concerns of his earlier career. Additionally, the interpretation of his orientalist odalisques remains contested, with critics divided between viewing them as aesthetic explorations and dismissing them as shallow exoticism. The provenance of several Matisse works looted during the Nazi era continues to prompt restitution claims, raising ongoing questions about museum ethics and ownership.
+
+Source: adapted from "Henri Matisse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henri_Matisse

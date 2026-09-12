@@ -51,3 +51,5 @@ The population is about 30 million, with a density of roughly three people per k
 - The exact territorial boundaries of Siberia are not fixed, varying between historical, geographic, and administrative definitions, which can be a politically sensitive topic.
 - The scale, scope, and human cost of the Gulag system continue to be subjects of research and debate.
 - The potential environmental impact of thawing permafrost in Siberia, particularly the release of methane, is a major concern in climate science.
+
+Source: adapted from "Siberia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Siberia

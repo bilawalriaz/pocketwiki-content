@@ -66,3 +66,5 @@ The definition of a wave remains debated—no single definition captures all cas
 3. **"The recorder equation" corrected** — Changed to "The sound pressure inside a recorder playing a 'pure' note is typically a standing wave, modeled by F(A, L, n, c; x, t)" to accurately reflect the source's description without inventing a named "recorder equation."
 
 4. **Missing wave types added** — Added "heat diffusion waves" and "plasma waves" to the Overview section, noting plasma waves combine mechanical deformations and electromagnetic fields, as stated in the source.
+
+Source: adapted from "Wave" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wave

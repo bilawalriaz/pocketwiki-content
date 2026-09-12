@@ -65,3 +65,5 @@ In Cairo, Khaldun found the stability lacking in the Maghreb. Sultan Barquq appo
 - **Direct influence on Europe:** No evidence Khaldun’s works were known in Europe before the 17th-century Ottoman intermediaries (Kâtip Çelebi, Mustafa Naima) and 19th-century Orientalist translations (Silvestre de Sacy). Parallels with Machiavelli, Vico, Smith, Marx, and Comte are treated as convergent precedent, not transmission.
 - **Reception in Egypt:** Contemporary critics (notably Ibn Hajar al-ʿAsqalānī) accused him of historical inaccuracy, disorganization, and violating judicial customs. Only Ibn al-Azraq engaged substantively with his theory. Al-Maqrīzī praised the *Muqaddimah* but may have misunderstood its methodology.
 - **Autobiography’s reliability:** Muhsin Mahdi argues Khaldun’s silence on his conflict with Ibn al-Khaṭīb reveals later self-recognition of misjudging Muhammad V; others read it as political discretion.
+
+Source: adapted from "Ibn Khaldun" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ibn_Khaldun

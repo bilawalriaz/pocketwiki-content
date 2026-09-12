@@ -42,3 +42,5 @@ Reports of atrocities, investigated by British consul Roger Casement and publici
 - **Death Toll**: The exact population decline in the Congo under Leopold's rule is debated, with estimates ranging from 1 million to 15 million. Historians cite the lack of reliable pre-colonial censuses as a key difficulty.
 - **Leopold's Motives**: While his exploitation was for personal enrichment, some historians argue his imperialism was also driven by a desire to ensure Belgium's prosperity and embellishment.
 - **Legacy and Statues**: Leopold's legacy remains highly controversial. In Belgium, debates continue over the removal of statues erected during the colonial era, while in the Congo, his role is a point of historical contention.
+
+Source: adapted from "Leopold II of Belgium" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leopold_II_of_Belgium

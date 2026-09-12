@@ -46,3 +46,5 @@ Films, television, and the internet have globalized hip-hop dance. Early films l
 - **Authenticity vs. Commercialization:** There is ongoing debate about what constitutes "true" hip-hop dance. Purists argue that commercial "new style" taught in studios is a watered-down form that lacks the improvisational and cultural roots of street styles.
 - **Classification of Funk Styles:** Historically, funk styles like locking and popping were created independently of hip-hop and to funk music. Their inclusion under the "hip-hop dance" umbrella is debated, with some scholars and pioneers asserting they are separate genres adopted by hip-hop culture.
 - **Pedagogical Standards:** There is concern about the lack of standardized instruction in commercial hip-hop classes, where teachers may not know the foundational elements or history of the art form.
+
+Source: adapted from "Hip-hop dance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hip-hop_dance

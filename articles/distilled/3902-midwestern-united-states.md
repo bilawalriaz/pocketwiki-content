@@ -45,3 +45,5 @@ The Midwest is a key political battleground. The Republican Party was founded he
 - **Defining the Midwest**: The exact composition of the region is debated. While the Census Bureau defines 12 states, other organizations include or exclude states like Missouri, Kentucky, or Oklahoma based on cultural or geographic criteria.
 - **Cultural Identity**: There is debate over whether the industrial Great Lakes cities or the agricultural Great Plains better represent the "core" Midwestern identity.
 - **Political Shifts**: The region's political landscape is in flux, with former swing states like Iowa and Ohio trending Republican, while others like Michigan and Wisconsin remain highly contested.
+
+Source: adapted from "Midwestern United States" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Midwestern_United_States

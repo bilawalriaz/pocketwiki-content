@@ -71,3 +71,5 @@ Biographers remain divided. Allan Nevins argued Rockefeller offered fair terms t
 - **Breakup consequences**: Did the 1911 dissolution restore competition, or did the 34 “Baby Standards” maintain oligopolistic coordination through interlocking directorates and shared infrastructure?
 - **Religion and business**: How did Baptist theology (stewardship, tithing, “make all you can, give all you can”) genuinely shape his commercial ruthlessness and philanthropic strategy, versus serving as post-hoc justification?
 - **Environmental legacy**: Standard Oil’s early dumping of waste into rivers and its later pivot to gasoline (once a waste product) for automobiles set patterns for petroleum’s environmental footprint still debated today.
+
+Source: adapted from "John D. Rockefeller" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_D._Rockefeller

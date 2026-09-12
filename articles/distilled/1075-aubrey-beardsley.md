@@ -42,3 +42,5 @@ A public eccentric, Beardsley dressed meticulously in dove-grey suits and yellow
 
 ## Debates and Open Questions
 Beardsley’s sexuality remains contested. While closely associated with Oscar Wilde and the homosexual clique of the Aesthetic movement, W.B. Yeats asserted he was not homosexual. Rumors of an incestuous relationship with his sister Mabel—including speculation about a pregnancy and miscarriage—persist without definitive evidence. Additionally, questions surround the authenticity of works attributed to him posthumously, such as those in Leonard Smithers’ *Fifty Drawings by Aubrey Beardsley* (1897), later revealed to be forgeries distinguished by more overtly pornographic content than Beardsley’s subtle eroticism.
+
+Source: adapted from "Aubrey Beardsley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aubrey_Beardsley

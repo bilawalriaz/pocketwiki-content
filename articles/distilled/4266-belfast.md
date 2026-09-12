@@ -42,3 +42,5 @@ Since the 1990s, Belfast has seen a service-sector boom in financial technology,
 *   The target date of 2023 for removing all peace walls passed with only a small number dismantled, indicating the enduring nature of physical division.
 *   The electoral balance in Belfast has shifted, with no single community holding an overall majority, raising questions about future governance and identity.
 *   The unique post-Brexit trading status of Belfast under the Windsor Framework is presented as both a critical economic opportunity and a point of political contention.
+
+Source: adapted from "Belfast" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Belfast

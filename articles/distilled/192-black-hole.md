@@ -65,3 +65,5 @@ Black holes are categorized by mass/origin:
 *   **Cosmic Censorship:** Does the weak cosmic censorship hypothesis hold—i.e., are naked singularities (extremal or over-extremal Kerr) forbidden in realistic collapse?
 *   **Intermediate-Mass Black Holes:** Do they exist as a distinct population? What are their formation channels (runaway collisions, hierarchical mergers)?
 *   **Black Hole Thermodynamics Microscopics:** What are the quantum microstates accounting for Bekenstein–Hawking entropy? String theory counts D-brane states; loop quantum gravity counts horizon punctures.
+
+Source: adapted from "Black hole" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Black_hole

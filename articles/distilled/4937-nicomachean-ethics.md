@@ -63,3 +63,5 @@ In Book X, Aristotle concludes the highest happiness is the activity of contempl
 *   **The Role of Contemplation**: The conclusion that the highest happiness is contemplative seems to conflict with the earlier emphasis on practical virtue and political life, creating a tension in the work's structure.
 *   **The Scope of Justice**: How justice, described as a "complete virtue," relates to the other specific virtues discussed as "means" is not fully resolved.
 *   **Modern Applicability**: The virtue ethics revival (e.g., Anscombe, MacIntyre) debates whether Aristotle's teleological framework can be updated for modern philosophy, which has largely abandoned his concept of a human *telos*.
+
+Source: adapted from "Nicomachean Ethics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nicomachean_Ethics

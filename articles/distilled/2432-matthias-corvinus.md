@@ -47,3 +47,5 @@ Matthias established the "Black Army," a professional standing army funded by ex
 - The cause of Matthias's death is debated; while a stroke is suggested, poisoning has not been excluded.
 - The extent of Josquin des Prez's presence and work at Matthias's court is uncertain, based on a single late remark.
 - The long-term impact of Matthias's high taxation is debated: it funded his achievements but burdened the peasantry and contributed to instability after his death.
+
+Source: adapted from "Matthias Corvinus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Matthias_Corvinus

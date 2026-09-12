@@ -40,3 +40,5 @@ Alkaline cells made before 1996 are still classified as hazardous waste because 
 ## History
 
 Waldemar Jungner patented an alkaline electrolyte battery in 1899 and Thomas Edison developed his nickel–iron cell, also using KOH, in 1901. The modern zinc/MnO₂ alkaline dry cell was invented in the 1950s by Canadian engineer Lewis Urry, who later worked at Union Carbide's Eveready division in Cleveland; he, Karl Kordesch and P. A. Marsal filed US patent 2,960,558 on 9 October 1957, granted in 1960. The cell reached consumers in the late 1960s and, by 2011, accounted for about 80% of manufactured primary batteries in the United States and more than 10 billion units produced worldwide each year.
+
+Source: adapted from "Alkaline battery" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alkaline_battery

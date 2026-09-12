@@ -50,3 +50,5 @@ Orthography uses the Latin alphabet and reflects the language's layered borrowin
 ## Open questions
 
 English's relationship to Frisian is debated: they share unusual sound changes, but the changes occurred at different times, so whether they descend from a special common ancestor or merely converged is unclear. AAVE's origins are also disputed, with competing accounts tracing it to Southern American English dialects or to an English-based creole. English's future trajectory is similarly open: use continues to grow, but concerns about linguistic imperialism and language death persist, and the language keeps evolving through contact and internal change.
+
+Source: adapted from "English language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/English_language

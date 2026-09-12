@@ -29,3 +29,5 @@ Disruptions in biological pathways can lead to disease. Abnormal signaling is as
 ## Reconstructing and storing pathways
 
 Because pathways branch and interact, researchers reconstruct them by combining experimental data with computational models that infer which molecules are linked. Several databases make this knowledge reusable, including KEGG, Reactome, and WikiPathways for curated reference maps; PhosphoSitePlus for protein modifications; BioCyc for organism-specific pathways; PANTHER for protein family classification; TRANSFAC for transcription factors; MiRTarBase for microRNA–target interactions; DrugBank for drug–target links; the Comparative Toxicogenomics Database for chemical–gene–disease links; and Pathway Commons, which integrates many resources through a shared format called BioPAX. Tools such as esyN let researchers visualise networks and overlay drug interactions.
+
+Source: adapted from "Biological pathway" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_pathway

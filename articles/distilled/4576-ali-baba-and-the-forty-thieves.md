@@ -35,3 +35,5 @@ The tale has been adapted into countless forms worldwide, including stage pantom
 
 ## Debates and Open Questions
 Scholars debate the tale's ultimate origin. While its first appearance is in Galland's 18th-century literary collection, folklorists like Ulrich Marzolph and Ton Dekker suggest an "independent strand" of oral tradition may have existed earlier, based on the story's Eastern elements and widespread variants. The authenticity of the Arabic manuscript discovered by Duncan Black MacDonald is settled; it was a counterfeit.
+
+Source: adapted from "Ali Baba and the Forty Thieves" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ali_Baba_and_the_Forty_Thieves

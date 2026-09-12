@@ -48,3 +48,5 @@ Horror provokes fear, disgust, or psychological disturbance. H. P. Lovecraft fam
 - **Why do people enjoy horror?** Theories include the "excitement" of a controlled thrill, the personality trait of "openness to experience," and the value of confronting uncomfortable ideas.
 - **Metaphorical interpretations:** Horror works are often analyzed as metaphors for societal issues. For example, *Dracula* has been interpreted as a metaphor for repressed sexuality, corrupt aristocracy, or antisemitism.
 - **Impact on children:** The appeal of "children's horror" and its internalized impact on young audiences is noted as under-researched and inconclusive.
+
+Source: adapted from "Horror fiction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Horror_fiction

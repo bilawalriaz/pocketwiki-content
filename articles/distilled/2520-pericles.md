@@ -47,3 +47,5 @@ Convinced war with Sparta was inevitable, Pericles refused to rescind the Megari
 *   **Pericles's Strategy:** Scholars disagree on whether his defensive strategy in the Peloponnesian War was brilliant or a failure. Critics like Donald Kagan argue it was wishful thinking that ignored Athens's financial limits, while defenders like Platias and Koliopoulos state Athens only lost when it abandoned this strategy.
 *   **Thucydides's Speeches:** It is uncertain how accurately the historian Thucydides recorded Pericles's actual words, especially in the Funeral Oration, as he likely paraphrased or embellished them.
 *   **Pericles's Role:** Some modern historians question whether Pericles was an all-powerful "first citizen" or a charismatic figurehead guided by advisors or the will of the people.
+
+Source: adapted from "Pericles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pericles

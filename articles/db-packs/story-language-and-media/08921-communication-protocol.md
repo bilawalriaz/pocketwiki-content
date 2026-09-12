@@ -29,3 +29,5 @@ Protocols can become **de facto standards** through market dominance, which can 
 ## Wire image and ossification
 
 The **wire image** of a protocol is everything an outside observer can infer from on-the-wire messages, including unencrypted metadata and timing. The IETF declared in 2014 that large-scale surveillance of the wire image is an attack, and protocol design now deliberately hides signals from intermediaries. **Protocol ossification** is the loss of evolvability that happens when middleboxes such as firewalls, NATs, and load balancers make assumptions about a protocol's wire image and drop or block messages they do not recognize, violating the end-to-end principle. Ossification is why TCP and UDP remain the only practical Internet transport choices, and why QUIC was the first IETF transport designed with explicit anti-ossification properties.
+
+Source: adapted from "Communication protocol" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Communication_protocol

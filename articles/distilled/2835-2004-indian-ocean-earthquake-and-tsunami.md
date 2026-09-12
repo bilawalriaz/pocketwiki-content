@@ -37,3 +37,5 @@ The disaster killed an estimated 227,898 people, with Indonesia suffering the mo
 - **Future Hazard Assessment**: Before 2004, it was thought that giant earthquakes required young, buoyant crust, fast plate convergence, and the absence of back-arc basins. The 2004 event challenged these assumptions, requiring a reassessment of earthquake hazard in similar regions.
 - **Warning Systems**: The lack of an Indian Ocean tsunami warning system was a major factor in the high death toll. The subsequent creation of the Indian Ocean Tsunami Warning System in 2005 was a direct response, but its effectiveness and coverage remain subjects of ongoing evaluation.
 - **Historical Precedent**: Scientific evidence suggests major tsunamis in the region occur every few hundred years, with the last comparable event around A.D. 1300–1450, indicating a long recurrence interval for such catastrophes.
+
+Source: adapted from "2004 Indian Ocean earthquake and tsunami" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami

@@ -46,3 +46,5 @@ The summit's height varies due to its ice cap. Official measurements have fluctu
 - The precise location of the Franco-Italian border at the summit remains officially disputed between the two nations.
 - The exact summit elevation is not permanent due to the ice cap and is subject to change from year to year, influenced by weather and climate.
 - The impact of climate change on the mountain's glaciers, rock stability, and the long-term viability of classic climbing routes is a major ongoing concern.
+
+Source: adapted from "Mont Blanc" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mont_Blanc

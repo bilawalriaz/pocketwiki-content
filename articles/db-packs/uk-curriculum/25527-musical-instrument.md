@@ -72,3 +72,5 @@ Today, synthesis and sampling run on phones; the distinction between “instrume
 **Interfaces** shape technique. Keyboards—organ (wind), piano (hammers), harpsichord (plucks), synthesizer (voltage)—map pitch to a linear grid. The **theremin** uses space itself. **MIDI controllers** decouple gesture from sound: a keyboard can trigger drums, a breath controller can play a violin sample.
 
 From a vulture-bone flute in a Paleolithic cave to a laptop running a granular synthesizer, the pattern holds: humans find a physical phenomenon—vibrating string, air column, electric current—and shape it into a tool for organized sound. Each era’s technology sets the palette; each culture chooses its colors. The instrument is not the music, but without instruments, music as we know it—layered, sustained, precisely pitched, widely shared—would not exist.
+
+Source: adapted from "Musical instrument" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Musical_instrument

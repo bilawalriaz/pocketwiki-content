@@ -58,3 +58,5 @@ Electrical engineers work in power stations, fabrication plants, consulting offi
 ## Relationship with other fields
 
 Electrical engineering overlaps with electronic engineering, computer engineering, and mechanical engineering through mechatronics, the design of combined electrical and mechanical systems, and through microelectromechanical systems (MEMS), which sense, actuate, and communicate at microscopic scales. Machine learning is now applied across smart grids, adaptive control, and electronic design automation, drawing on techniques first developed for signal processing.
+
+Source: adapted from "Electrical engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electrical_engineering

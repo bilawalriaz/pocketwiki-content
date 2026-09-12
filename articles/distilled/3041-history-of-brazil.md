@@ -48,3 +48,5 @@ Democracy was restored in 1985. Subsequent governments, including those of Ferna
 - Historians debate the precise political power of coffee growers during the First Republic.
 - The true number of deaths and disappearances during the military dictatorship (1964–1985) is contested, with official figures at 434 killed or missing, while activists suggest it could be much higher.
 - The causes of the 2002 currency devaluation before Lula's first term are disputed, with some blaming his election and others pointing to low foreign reserves left by the previous administration.
+
+Source: adapted from "History of Brazil" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Brazil

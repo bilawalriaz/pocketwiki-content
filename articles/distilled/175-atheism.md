@@ -84,3 +84,5 @@ Quantification is difficult due to varying definitions of "atheism" vs. "non-rel
 *   **Causality of demographics:** Whether correlations between atheism and intelligence/education/wealth reflect analytical reasoning overriding intuition, nonconformity traits, cultural factors, or economic security reducing existential anxiety.
 *   **Historical responsibility:** Whether 20th-century atrocities by officially atheist regimes (USSR, China) were caused by atheism itself or by dogmatic totalitarian ideologies that happened to be atheistic.
 *   **Global trajectory:** Whether atheism is declining as a global percentage due to demographic shifts (lower birth rates in secular nations) despite rising absolute numbers or visibility in specific regions.
+
+Source: adapted from "Atheism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atheism

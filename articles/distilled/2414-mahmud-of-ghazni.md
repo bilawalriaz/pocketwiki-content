@@ -47,3 +47,5 @@ Mahmud's religious views evolved from the Hanafi school to the Shafi'i school, i
 - **Treatment of Conquered Peoples**: While Mahmud is known for destroying temples, accounts vary on his general conduct. Some sources state his expeditions involved "no slaughter or molestation of women," and he employed Hindu soldiers and administrators in his empire.
 - **Impact on Indian History**: The long-term impact of his invasions is debated. Some view them as devastating raids that weakened Indian polities, while others emphasize the resilience of local kingdoms that often remained as vassals.
 - **Succession and Empire Stability**: Mahmud's failure to establish a clear succession plan led to immediate conflict between his sons, Mas'ud and Muhammad, raising questions about his administrative foresight despite his military genius.
+
+Source: adapted from "Mahmud of Ghazni" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mahmud_of_Ghazni

@@ -47,3 +47,5 @@ Collective farming also exists outside communist states. In Israel, kibbutzim (v
 - **Voluntary vs. Forced**: Scholars debate whether collectivization in places like China was largely voluntary and smooth, unlike the brutal Soviet model, or if coercion was still present.
 - **Causes of Famine**: In China, the Great Chinese Famine is attributed to flawed policies (e.g., Lysenkoism, Four Pests Campaign), natural disasters, and political radicalism/career incentives within the party.
 - **Long-term Viability**: After the fall of communism, many collective farms in Eastern Europe collapsed due to loss of subsidies and inability to compete, leading to significant drops in agricultural employment.
+
+Source: adapted from "Collective farming" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Collective_farming

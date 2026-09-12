@@ -45,3 +45,5 @@ The Taiping Kingdom gradually lost ground after a failed attack on Shanghai in 1
 - The exact cause of Hong Xiuquan's death is debated; while likely from illness related to eating weeds, suicide by poison has also been suggested.
 - The nature of Hong's visions and his sincerity in believing his divine mission are subjects of scholarly analysis.
 - The legacy of Hong and the Taiping Rebellion is contested, with views ranging from admiration by Chinese revolutionaries like Sun Yat-sen and Mao Zedong to condemnation as a destructive cult.
+
+Source: adapted from "Hong Xiuquan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hong_Xiuquan

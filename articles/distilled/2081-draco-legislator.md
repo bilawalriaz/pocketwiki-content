@@ -35,3 +35,5 @@ Scholars debate Draco's historicity. The 10th-century *Suda* records a folkloric
 *   **Scope of Laws:** While his homicide law is partially known, the specific content and penalties of Draco's other laws are entirely unknown.
 *   **Homicide Law Details:** The preserved inscription of the homicide law is fragmentary and ambiguous. It is unclear whether it specified a punishment for intentional homicide or if the exile penalty applied only to unintentional cases.
 *   **Political Reforms:** Aristotle's claim that Draco extended the franchise and created the Council of Four Hundred is not based on authentic tradition and is disputed by modern scholarship.
+
+Source: adapted from "Draco (legislator)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Draco_%28legislator%29

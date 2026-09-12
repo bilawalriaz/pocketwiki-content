@@ -38,3 +38,5 @@ In mathematics, he introduced the Sieve of Eratosthenes, an efficient algorithm 
 - The method he used to determine the obliquity of the ecliptic is not recorded and remains speculative.
 - The authenticity of a letter attributed to him on doubling the cube is disputed.
 - The full content and structure of his lost *Geographica* are reconstructed only from fragments in later authors like Strabo.
+
+Source: adapted from "Eratosthenes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eratosthenes

@@ -23,3 +23,5 @@ Plants therefore hold about 82% of all living carbon, and the combined biomass o
 **Global net primary production** runs at about **105 Gt C per year**, split nearly evenly between land (56.4) and ocean (48.5). Productivity per unit area tells a different story: swamps and marshes, tropical rainforests, and coral reefs each fix around 2,000 gC/m²/yr, while open ocean fixes only about 125, and deserts almost nothing. Shallow aquatic systems (wetlands, estuaries, coral reefs) can therefore be as productive per hectare as forests, even though open ocean dominates total production through sheer area.
 
 By 2020 the mass of human-made materials (technomass) was projected to exceed all living biomass, with plastic alone heavier than every land and marine animal combined.
+
+Source: adapted from "Biomass (ecology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biomass_%28ecology%29

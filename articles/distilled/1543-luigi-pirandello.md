@@ -57,3 +57,5 @@ Pirandello died in 1936, refusing a state funeral. His 1930 BBC broadcast of *Th
 - **Autobiography in *Mattia Pascal* and *One, No One***: Critics argue over the extent to which Mattia Pascal’s fake death and Moscarda’s mirror-crisis transpose Pirandello’s 1903 crisis and marital trauma, versus serving as universal philosophical constructs.
 - **Misogyny in the wife’s portrayal**: Antonietta’s institutionalization (1919) and depiction in fiction (e.g., *Her Husband*, withheld in life due to references to Grazia Deledda) raise questions about Pirandello’s gender politics and use of her madness as literary material.
 - **Sicilian language plays**: Several early works (e.g., *Liolà*, *A birrita cu' i ciancianeddi*) were written in Sicilian; scholars debate whether this reflects regional identity, a private linguistic space, or a deliberate distancing from standard Italian literary norms.
+
+Source: adapted from "Luigi Pirandello" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Luigi_Pirandello

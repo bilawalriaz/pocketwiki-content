@@ -38,3 +38,5 @@ Salk was known as the "Father of Biophilosophy," which he defined as applying a 
 
 ## Debates and open questions
 The source material highlights the historical debate between the "killed" virus vaccine developed by Salk and the "live" oral vaccine later developed by Albert Sabin. The Salk vaccine was used first and was instrumental in controlling polio, while the Sabin vaccine, coming into use in 1961, was easier to administer and helped in global eradication efforts. The text does not present a current scientific debate but notes this as the key contemporaneous alternative approach.
+
+Source: adapted from "Jonas Salk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jonas_Salk

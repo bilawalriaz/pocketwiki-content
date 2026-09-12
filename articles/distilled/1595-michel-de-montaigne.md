@@ -65,3 +65,5 @@ Montaigne’s Latin quotations draw heavily on Erasmus’s *Adagia*; Plutarch (5
 - **Shakespeare’s indebtedness**: While *The Tempest* closely follows Florio’s translation of "Of Cannibals," scholars debate whether other parallels reflect direct influence or shared classical sources (Seneca, Horace, Ovid, Virgil).
 - **Identification of remains**: Human remains found at Musée d'Aquitaine (2019) show strong DNA and facial reconstruction matches, but cannot be 100% confirmed until descendant DNA is available.
 - **Nature of Montaigne’s Catholicism**: He was a Roman Catholic who respected Protestant Henry of Navarre, apologized to the Vatican for pagan/heretical references, yet supported a *politique* peace—scholars debate the sincerity and consistency of his religious posture.
+
+Source: adapted from "Michel de Montaigne" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Michel_de_Montaigne

@@ -48,3 +48,5 @@ Qing society was hierarchical, with a scholar-gentry class recruited through civ
 *   **New Qing History:** A historiographical school emphasizing the distinct Manchu character of the dynasty, arguing rulers maintained a separate identity and used Central Asian models of rule alongside Confucianism, rather than simply sinicizing.
 *   **Definition of "China":** Scholars debate when and how the Qing transformed the concept of "China" from a primarily ethnic Han state to a multi-ethnic empire that included Manchuria, Mongolia, Xinjiang, and Tibet as integral parts.
 *   **Causes of Declow:** Historians weigh the relative importance of internal factors (corruption, fiscal crisis, rebellions) versus external pressures (Western imperialism, technological gap) in the dynasty's collapse.
+
+Source: adapted from "Qing dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Qing_dynasty

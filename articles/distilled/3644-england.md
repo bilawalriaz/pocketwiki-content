@@ -48,3 +48,5 @@ With over 56 million inhabitants, England is 84% of the UK's population. English
 - The scale and nature of the Anglo-Saxon settlement of Britain are subject to considerable disagreement, with debate over whether it was a large-scale migration or a more limited elite takeover.
 - There is ongoing debate about how to counterbalance the lack of a devolved government for England, given that Scotland, Wales, and Northern Ireland have their own parliaments or assemblies.
 - The etymology of the tribal name "Angles" is disputed by scholars.
+
+Source: adapted from "England" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/England

@@ -37,3 +37,5 @@ In 1974 the WHO launched a universal childhood immunisation programme against me
 ## A note on opposition
 
 Resistance to vaccination is as old as vaccination itself and rests on scientific, ethical, political, religious, and safety objections, though no major religion forbids it. The 1998 claim by Andrew Wakefield that the MMR vaccine causes autism was later shown to rest on falsified data; *The Lancet* retracted it in 2010, and Wakefield lost his medical licence in 2011. Every validated study since has found no link.
+
+Source: adapted from "Vaccination" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vaccination

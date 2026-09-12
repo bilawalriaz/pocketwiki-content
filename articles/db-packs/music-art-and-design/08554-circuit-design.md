@@ -22,3 +22,5 @@ Designers use electronic design automation (EDA) tools to capture schematics, si
 ## Why the process loops
 
 The defining feature of circuit design is iteration. A specification tightens once feasibility is known; a block's constraints shift when a neighbouring block cannot be built; a simulation failure forces a redesign before any hardware exists; a prototype test invalidates an assumption made months earlier. The cost of catching an error rises sharply at each later stage, so designers keep options open as long as practical, because removing an unused element is cheap while retrofitting a missing one late in the project is not.
+
+Source: adapted from "Circuit design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Circuit_design

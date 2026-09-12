@@ -43,3 +43,5 @@ Notre-Dame's west façade is adorned with sculptures illustrating biblical stori
 - **Original Design of Buttresses:** Art historian Andrew Tallon argued, based on laser scans, that flying buttresses were part of the cathedral's original 12th-century design, not a later addition.
 - **Post-Fire Restoration Philosophy:** The 2019 fire sparked debate about restoration versus innovation. While a law mandated preserving the historic character, proposals for contemporary elements, like new stained-glass windows by Claire Tabouret, have been controversial among preservationists.
 - **Ownership and Maintenance:** Since 1905, the French state owns Notre-Dame, while the Catholic Church has exclusive rights to use it. The state is responsible for maintenance, a model that applies to all French cathedrals.
+
+Source: adapted from "Notre-Dame de Paris" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Notre-Dame_de_Paris

@@ -25,3 +25,5 @@ In type II superconductors placed in a field between the first and second critic
 ## Measuring and using flux quanta
 
 The Josephson effect relates the voltage across a Josephson junction to a frequency, with the Josephson constant K_J = 1/Φ₀ = 2e/h = 483 597.848 416 98… GHz/V as the constant of proportionality. Before the 2019 SI revision, flux quantization and the quantum Hall effect were used to measure h with extreme precision. Since then, h and e have fixed values, so K_J and the von Klitzing constant R_K = h/e² are fixed too; the Josephson and quantum Hall effects now serve as the practical realisation of electrical units. SQUIDs, among the most sensitive magnetometers available, sense the discrete jumps in flux that occur when a superconducting loop crosses from one Φ₀ to the next.
+
+Source: adapted from "Magnetic flux quantum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Magnetic_flux_quantum

@@ -42,3 +42,5 @@ The territory's rich fishery and strategic location made it highly contested by 
 
 ## Debates and Open questions
 The source notes that the presence of highly coastal whale species like the North Atlantic right whale and the now-extinct Atlantic grey whale in the area is only "possibly" historical, indicating uncertainty. The primary ongoing debate concerns the conservation challenge of illegal shark and ray fishing, which threatens the park's ecosystem despite regulations.
+
+Source: adapted from "Banc d'Arguin National Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Banc_d%27Arguin_National_Park

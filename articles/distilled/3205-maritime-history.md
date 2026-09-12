@@ -58,3 +58,5 @@ Modern issues include piracy (annual losses of $13–$16 billion), Arctic resour
 - The extent and impact of pre-Columbian transatlantic contact is debated.
 - The authorship and veracity of Amerigo Vespucci's published accounts are disputed.
 - The effectiveness and morality of historical naval blockades, such as Britain's in WWI, are subjects of ongoing analysis.
+
+Source: adapted from "Maritime history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maritime_history

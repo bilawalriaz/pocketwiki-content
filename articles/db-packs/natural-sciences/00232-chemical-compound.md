@@ -33,3 +33,5 @@ A chemical reaction rearranges the atoms in compounds by breaking some bonds and
 ## Exceptions to fixed ratios
 
 Not every solid fits the fixed-ratio rule. Non-stoichiometric compounds, such as palladium hydride (PdHₓ, where x ranges between 0.02 and 0.58), have reproducible but non-integer atomic ratios. Many crystalline minerals once classified this way are now thought to be stoichiometric compounds with foreign atoms trapped in defects of the crystal lattice rather than truly variable bonding, and such minerals make up most of Earth's crust and mantle. Whether these materials count as true compounds or only as chemical substances remains an open debate, as does the broader inconsistency in how chemists use the two terms for solids that lack simple formulas.
+
+Source: adapted from "Chemical compound" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chemical_compound

@@ -41,3 +41,5 @@ To resolve the situation, John II granted the duchy to his youngest son, Philip 
 ## Debates and Open Questions
 - The legal basis for the 1361 succession was complex, pitting primogeniture against proximity of blood. The outcome was determined more by political allegiance during the Hundred Years' War than by strict legal precedent.
 - The Burgundian estates' successful resistance to King John II's attempt to merge the duchy into the French crown in 1361 is a key moment in asserting the duchy's distinct political identity.
+
+Source: adapted from "Duchy of Burgundy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Duchy_of_Burgundy

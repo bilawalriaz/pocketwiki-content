@@ -21,3 +21,5 @@ Both ends of the weather distribution are intensifying. Climate models project l
 ## Responses
 
 Strategies centre on climate-smart agriculture, sustainable water management, ecosystem conservation, and stronger health and infrastructure systems, supported by climate finance and community participation. Continental and national frameworks, including the 2015 Africa Adaptation Initiative and Kenya's 2016 Climate Change Act, coordinate action. Community-level adaptation often blends modern tools with traditional ecological knowledge, including Sahelian zaï pits and stone bunds for water harvesting, agroforestry with Faidherbia albida, native seed banks, and local weather indicators drawn from wildlife and flowering patterns. Despite progress, 78% of 1990–2020 research funding on African climate change went to European and North American institutions, a "parachute science" pattern that limits local research capacity.
+
+Source: adapted from "Climate change in Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Climate_change_in_Africa

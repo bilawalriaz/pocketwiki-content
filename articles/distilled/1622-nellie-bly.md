@@ -52,3 +52,5 @@ Bly was inducted into the National Women’s Hall of Fame (1998) and honored on 
 - **Authorship of the 55-gallon drum**: Popular accounts often credit Bly with inventing the standard oil drum, but the patents (808,327 and 808,413) belong to Henry Wehrhahn; Bly’s own patents cover a milk can and a stacking garbage can.
 - **Lost novels**: Between 1889 and 1895 Bly wrote eleven serial novels for *New York Family Story Paper*; thought lost, they were rediscovered in a British archive in 2021, raising new questions about her literary output and its relationship to her journalism.
 - **Financial competence vs. exploitation**: Biographers differ on whether Bly’s business failure stemmed from her own “hopeless” financial naivety (Kroeger) or primarily from systematic embezzlement by trusted employees during protracted bankruptcy litigation.
+
+Source: adapted from "Nellie Bly" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nellie_Bly

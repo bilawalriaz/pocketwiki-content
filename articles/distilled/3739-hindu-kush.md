@@ -48,3 +48,5 @@ The 2019 Hindu Kush Himalaya Assessment found the region has warmed by 0.1°C pe
 - The exact origin and meaning of the name "Hindu Kush" is debated, with multiple scholarly theories.
 - The precise impact of future climate change on regional water resources and glacier meltwater timing is uncertain due to complex topography and model limitations.
 - The effectiveness and coordination of current adaptation efforts against climate change in the HKH region are questioned, with a need for urgent strengthening.
+
+Source: adapted from "Hindu Kush" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hindu_Kush

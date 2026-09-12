@@ -69,3 +69,5 @@ The Mark Rothko Foundation donated its holdings to 35 museums globally. David An
 - **Spiritual vs. aesthetic experience**: Rothko insisted his work evoked religious emotion, not color relationships; critics debate whether the chapel paintings function as universal spiritual objects or remain tied to their Catholic origins.
 - **Technique secrecy**: Rothko’s experimental paint mixtures (egg, glue, resins) were partly secret; conservation challenges persist, especially for Harvard and Chapel works.
 - **Market vs. intent**: The explosion of auction prices ($186M in 2014) contrasts sharply with Rothko’s fear that collectors misunderstood his work’s purpose and his refusal to sell to those he deemed unworthy.
+
+Source: adapted from "Mark Rothko" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mark_Rothko

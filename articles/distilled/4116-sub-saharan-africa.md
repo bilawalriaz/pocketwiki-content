@@ -52,3 +52,5 @@ Sub-Saharan African cultures are communal, with strong extended family ties. Art
 - The term "sub-Saharan Africa" is debated as a potentially artificial and racist construct that ignores deep historical and cultural connections across the entire African continent.
 - The exact number of countries considered part of the region varies between international organizations like the UN, WHO, and World Bank.
 - The causes of persistently low agricultural productivity are debated, with recent research focusing on the role of poor-quality inputs and market failures rather than just access to credit.
+
+Source: adapted from "Sub-Saharan Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sub-Saharan_Africa

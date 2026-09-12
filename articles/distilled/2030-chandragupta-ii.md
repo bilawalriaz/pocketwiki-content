@@ -39,3 +39,5 @@ Chandragupta II was a devout Vaishnavite (devotee of Vishnu) but tolerant of oth
 - **Date of Reign:** The exact start of Chandragupta's reign is debated. Earlier scholars placed it c. 376–381 CE based on the Mathura pillar inscription, but Indologist Harry Falk's 2004 theory on the dating system suggests the inscription cannot be used to determine the reign's start.
 - **Vikramaditya Legends:** The extent to which the legendary Vikramaditya is based on Chandragupta II (versus other kings) is a subject of scholarly discussion.
 - **Navaratnas:** The tradition of the "nine gems" at Chandragupta's court is considered by many historians to be a later literary invention with no historical basis.
+
+Source: adapted from "Chandragupta II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chandragupta_II

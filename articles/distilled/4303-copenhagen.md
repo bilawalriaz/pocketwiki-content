@@ -50,3 +50,5 @@ The 2000 opening of the Øresund Bridge integrated Copenhagen with Malmö, formi
 *   The exact founding date of Copenhagen is debated; while 1167 is traditional, archaeological evidence points to earlier settlements in the 11th century.
 *   The city's role and the extent of its involvement in the transatlantic slave trade during the 18th century is a subject of historical study and public discourse.
 *   The future of Freetown Christiania, an autonomous neighborhood since 1971, remains a topic of debate regarding its legal status and governance.
+
+Source: adapted from "Copenhagen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Copenhagen

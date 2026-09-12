@@ -43,3 +43,5 @@ After William's death in 1822, Caroline returned to Hanover, where she verified 
 ## Debates and Open Questions
 - The source notes that while Herschel is often credited as the first woman to discover a comet, Maria Kirch discovered one in the early 1700s, though the discovery was attributed to her husband.
 - The exact nature of the tension in the sibling relationship after William's 1788 marriage is complex; Caroline destroyed her journals from 1788 to 1798, leaving her feelings during that period partially unknown.
+
+Source: adapted from "Caroline Herschel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caroline_Herschel

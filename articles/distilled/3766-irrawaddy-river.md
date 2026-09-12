@@ -42,3 +42,5 @@ In 2007, the junta agreed to build seven hydroelectric dams totaling 15,160 MW, 
 
 ## Debates and Open Questions
 The primary debate centers on the proposed Myitsone Dam and similar hydroelectric projects. Key open questions involve balancing national energy needs and export revenue against irreversible ecological damage, displacement of communities, and threats to the agricultural productivity of the Irrawaddy Delta. The long-term impact of suspended dam projects and the effectiveness of mitigation for river pollution from mining remain critical issues.
+
+Source: adapted from "Irrawaddy River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Irrawaddy_River

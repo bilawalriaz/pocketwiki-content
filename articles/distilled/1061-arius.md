@@ -57,3 +57,5 @@ Arianism flourished under Constantius II, reaching its peak at the Third Council
 ## Debates and Open Questions
 
 Modern scholarship debates whether Arius was an innovator or a conservative theologian. Richard Hanson and Rowan Williams argue that “Arianism” was a construct shaped by Nicene polemics, not Arius’s original teaching. The reliability of sources—especially Athanasius—is questioned, as they may reflect doctrinal agendas rather than historical accuracy. The exact cause of Arius’s death remains uncertain, with theories ranging from natural illness to political assassination. Additionally, the extent of Origen’s influence on Arius and the continuity of subordinationist thought prior to 318 are ongoing areas of scholarly inquiry.
+
+Source: adapted from "Arius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arius

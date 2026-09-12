@@ -60,3 +60,5 @@ The 1957 Nobel Prize surprised Camus, who felt his work incomplete. He used the 
 - **The "Prefer My Mother" Quote:** His 1957 Stockholm remark rejecting FLN terrorism is cited either as a defense of innocent life against revolutionary abstraction or as a reactionary prioritization of colonial kinship over justice.
 - **Cause of Death:** The 2011 claim by Giovanni Catelli that the KGB engineered the 1960 car crash lacks documentary evidence and is rejected by most biographers.
 - **Political Legacy:** Neoliberals (e.g., Nicolas Sarkozy) have attempted to claim Camus for anti-communist liberalism, angering the Left and his family, who emphasize his anarcho-syndicalism and anti-capital punishment stance.
+
+Source: adapted from "Albert Camus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Albert_Camus

@@ -51,3 +51,5 @@ Dikshitar died on Deepavali (21 October 1835) in Ettayapuram, where a *samadhi* 
 - **Authorship of *Rama Ashtapadi*:** Tradition holds Dikshitar co-composed a *Rama Ashtapadi* with Upanishad Brahmendral at Kanchipuram, but the work is lost; its existence and scope remain unverified.
 - **C.P. Brown commission myth:** The source refutes the claim that *nottusvara* pieces were commissioned by Collector C.P. Brown, citing irreconcilable chronology (Dikshitar left Madras by 1799; Brown arrived 1817), yet the misconception persists in secondary literature.
 - **Exact composition count:** While "around 500" is the accepted estimate, Subbarama Dikshitar’s 1904 *Pradarshini* records only 229; the total relies on oral transmission and manuscript discovery, leaving the definitive canon open.
+
+Source: adapted from "Muthuswami Dikshitar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muthuswami_Dikshitar

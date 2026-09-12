@@ -50,3 +50,5 @@ Tourism accounts for ~8% of global emissions, prompting shifts toward sustainabl
 
 ## Debates and Open Questions  
 Scholars debate whether tourism inherently exploits or empowers local communities. Critics argue voluntourism undermines labor markets and imposes Western values, while proponents stress its potential for cultural exchange and development. Pro-poor tourism’s effectiveness remains contested, with research showing less than 25% of tourist spending reaching the poor. The role of technology in democratizing access versus enabling overtourism is under scrutiny. Additionally, the environmental cost of “last chance tourism” raises ethical questions about whether visiting fragile sites accelerates their decline. Security measures post-9/11 and pandemic-era restrictions also prompt ongoing discussion about balancing safety with openness in global mobility.
+
+Source: adapted from "Tourism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tourism

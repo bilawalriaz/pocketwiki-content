@@ -21,3 +21,5 @@ Dispersal has consequences beyond the individual. It links sub-populations into 
 ## Quantifying dispersal
 
 Ecologists measure dispersal in two ways. The dispersal rate is the probability that an individual leaves a patch. The dispersal kernel is the probability distribution of distances travelled by those that do; empirical data are usually best fit by leptokurtic, fat-tailed distributions (curves with a sharp central peak and heavy tails, meaning most movements are short but a few are very long), often modelled with inverse power or exponential power functions. These long tails are what allow occasional individuals to colonise distant habitat and drive rapid range expansion.
+
+Source: adapted from "Biological dispersal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_dispersal

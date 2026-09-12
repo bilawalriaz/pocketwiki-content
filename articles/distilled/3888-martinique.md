@@ -47,3 +47,5 @@ The population is predominantly of African descent, mixed with European, Amerind
 - **Constitutional Status**: The core political debate remains between assimilationists (favoring integration under Article 73) and autonomists/independentists (seeking more self-governance under Article 74 or independence), though a 2010 referendum strongly rejected a move to Article 74.
 - **Chlordecone Contamination**: There is ongoing controversy over the French state's responsibility for authorizing the pesticide, the adequacy of its response plans, and the long-term health and environmental consequences for the population.
 - **Identity and Language**: The role and status of Martinican Creole versus French continues to evolve, with efforts to promote bilingual education and greater use of Creole in public life to preserve cultural identity.
+
+Source: adapted from "Martinique" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Martinique

@@ -48,3 +48,5 @@ To support irrigation and navigation, the river was extensively regulated. The 1
 - There is ongoing disagreement between states and groups over water allocation and environmental management.
 - The proposed Wellington Weir in South Australia has been controversial.
 - The effectiveness of dredging at the Murray Mouth versus restoring natural flow is a point of discussion.
+
+Source: adapted from "Murray River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Murray_River

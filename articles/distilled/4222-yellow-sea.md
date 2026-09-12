@@ -36,3 +36,5 @@ The densely populated coasts rely on the sea for fishing, navigation, and oil re
 
 ## Debates and Open Questions
 The primary debate concerns the balance between economic development and environmental conservation. The extensive land reclamation projects, such as the Saemangeum dam, are defended for providing land for agriculture and industry but are heavily criticized for destroying irreplaceable ecosystems and migratory bird habitats. The future of the sea's fisheries and the effectiveness of international cooperation to manage pollution and overfishing remain critical open questions.
+
+Source: adapted from "Yellow Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yellow_Sea

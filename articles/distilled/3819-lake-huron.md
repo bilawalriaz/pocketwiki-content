@@ -46,3 +46,5 @@ Lake Huron's ecology has undergone drastic change. Its native deepwater fish com
 ## Debates and open questions
 - The exact location of the wreck of the *Le Griffon* is disputed, with competing claims from Manitoulin Island and Russell Island in Georgian Bay.
 - The precise causes of the profound 2003 food web change and the ongoing collapse of the demersal fish community are linked to invasive species but remain an active area of study.
+
+Source: adapted from "Lake Huron" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Huron

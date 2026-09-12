@@ -63,3 +63,5 @@ Mendel's 1865 work outlined inheritance principles, but its significance was unr
 ## Debates and open questions
 
 Schleiden and Schwann initially opposed the idea that all cells come from division of other cells, continuing to support spontaneous generation; Remak and Virchow later reified this tenet. Some fields of evolutionary research try to explain phenomena poorly accounted for in the modern evolutionary synthesis, including speciation, the evolution of sexual reproduction, cooperation, ageing, and evolvability. Conservation biology is driven by contested estimates suggesting up to 50% of all species will disappear within the next 50 years.
+
+Source: adapted from "Biology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biology

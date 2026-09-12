@@ -50,3 +50,5 @@ After severe destructions c. 1450 BC, Crete came under Mycenaean control, creati
 - **Cause of Destructions**: Were the c. 1450 BC destructions caused by Mycenaean invasion, internal revolt, or natural disasters?
 - **"Minoan Peace"**: Did the Minoans avoid warfare, or is the evidence simply not preserved?
 - **Language Identity**: To which language family does the Minoan language belong?
+
+Source: adapted from "Minoan civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Minoan_civilization

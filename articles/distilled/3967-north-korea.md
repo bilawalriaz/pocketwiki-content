@@ -46,3 +46,5 @@ North Korea has been widely condemned for systematic, widespread, and gross huma
 *   **Economic Viability:** Scholars debate the long-term sustainability of North Korea's command economy, especially after the loss of Soviet aid and the growth of informal markets (*jangmadang*).
 *   **Nuclear Intentions:** There is ongoing debate about whether North Korea's nuclear program is primarily for regime survival and deterrence or if it has offensive strategic goals.
 *   **Reunification:** The future of the Korean Peninsula is uncertain, with North Korea's 2024 abandonment of reunification marking a significant shift in its official stance.
+
+Source: adapted from "North Korea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/North_Korea

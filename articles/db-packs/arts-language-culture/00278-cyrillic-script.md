@@ -33,3 +33,5 @@ Several currency signs derive from Cyrillic: the Ukrainian hryvnia (₴) from cu
 Unicode 17.0 distributes Cyrillic across seven blocks, headed by Cyrillic at U+0400–U+04FF, with Supplement, Extended-A through Extended-D, and two phonetic and combining ranges. Precomposed accented letters appear mainly where they are distinct alphabet letters, such as Й, Ў, Ё, Ї, Ѓ, and Ќ, or where they distinguish homonyms such as Ѐ and Ѝ in Bulgarian and Macedonian. Legacy 8-bit encodings (Windows-1251, KOI8-R, KOI8-U, CP866, ISO/IEC 8859-5, MIK) remain in use.
 
 Transliteration systems convert Cyrillic to Latin: a Scientific system based on Serbo-Croatian, per-language UN recommendations, ISO 9:1995, ALA-LC for North American libraries, BGN/PCGN for geographic names, and GOST 7.79-2000. The reverse process, writing a non-Cyrillic system with Cyrillic letters, is *cyrillization*.
+
+Source: adapted from "Cyrillic script" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cyrillic_script

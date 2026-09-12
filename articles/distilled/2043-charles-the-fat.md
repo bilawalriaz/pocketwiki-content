@@ -38,3 +38,5 @@ Charles's authority collapsed in 887. After personal scandals involving his wife
 - **Competence vs. Illness**: Modern historians debate whether Charles's failures were due to inherent incompetence or were an excusable result of near-constant illness and infirmity.
 - **Contemporary vs. Later Reputation**: Contemporary sources like the *Annales Fuldenses* praise his piety, while later historiography, influenced by the nickname "the Fat," is far more critical.
 - **Cause of Empire's Collapse**: Scholars question whether the empire's rapid disintegration after his death was a direct result of his deposition, his death, or deeper structural weaknesses in late Carolingian rule.
+
+Source: adapted from "Charles the Fat" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_the_Fat

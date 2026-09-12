@@ -67,3 +67,5 @@ Posthumous recognition includes the Harry Ransom Center's 2011 centennial exhibi
 ## Debates and Open Questions
 
 The 1955 Pulitzer Prize for *Cat on a Hot Tin Roof* was controversial: the jury preferred Clifford Odets's *The Flowering Peach*, and *Cat* was initially considered the weakest of five nominees. Board chairman Joseph Pulitzer Jr. overruled the jury after considerable discussion. Additionally, biographers debate whether Blanche DuBois in *A Streetcar Named Desire* was based on Williams's sister Rose, though the character's mental deterioration is widely seen as inspired by Rose's struggles.
+
+Source: adapted from "Tennessee Williams" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tennessee_Williams

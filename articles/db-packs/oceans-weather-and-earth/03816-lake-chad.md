@@ -17,3 +17,5 @@ Open water covered roughly 25,000 km² in 1960, near the end of a relatively wet
 ## Human and ecological cost
 
 Shrinkage has reduced biodiversity, altered vegetation, and displaced the people who fish and farm the shore. Scarcity of water and grazing land has fed local conflict, deepened economic hardship, and worsened regional insecurity, with groups such as Boko Haram exploiting the destabilisation. Four states responded in 1964 by creating the Lake Chad Basin Commission to coordinate management, and a long-debated inter-basin transfer from the Congo River has been proposed to refill the lake, though its feasibility and ecological effects remain contested.
+
+Source: adapted from "Lake Chad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Chad

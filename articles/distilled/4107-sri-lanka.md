@@ -45,3 +45,5 @@ Sri Lanka is a democratic republic with a semi-presidential system. Its populati
 - The causes and responsibility for the severe 2022 economic crisis are debated, with factors including policy mismanagement, global shocks, and debt from large infrastructure projects.
 - Accountability for human rights violations and alleged war crimes committed by both the government and the LTTE during the final stages of the civil war remains a contentious international issue.
 - The effectiveness and social impact of post-war reconciliation efforts and the devolution of power to provincial councils are ongoing political questions.
+
+Source: adapted from "Sri Lanka" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sri_Lanka

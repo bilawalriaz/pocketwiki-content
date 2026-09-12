@@ -39,3 +39,5 @@ $$\operatorname{tr} e^{A+B+C} \le \operatorname{tr}(e^A \mathcal{T}_{e^{-B}} e^C
 where $\mathcal{T}_f(g) = \int_0^\infty (f+t)^{-1} g (f+t)^{-1}\, dt$ is the Fréchet derivative of the matrix logarithm. When $f$ and $g$ commute, $\mathcal{T}_f(g) = g f^{-1}$, and the three-matrix bound reduces to the original two-matrix inequality.
 
 *Lie groups.* Bertram Kostant (1973) used the Kostant convexity theorem to lift the inequality from Hermitian matrices to all compact Lie groups.
+
+Source: adapted from "Golden–Thompson inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Golden%E2%80%93Thompson_inequality

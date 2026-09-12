@@ -46,3 +46,5 @@ Barth's long-time theological collaborator was Charlotte von Kirschbaum, who liv
 *   **Doctrine of Election:** Critics, such as Emil Brunner, charge that Barth's Christ-centered revision of predestination amounts to a "soft universalism," departing from traditional Calvinism.
 *   **Scripture and Revelation:** Barth's view of revelation and the Word of God has been criticized by confessional Reformed theologians like Cornelius Van Til for not upholding a traditional doctrine of biblical inspiration.
 *   **Personal Ethics:** The revelation of his decades-long love triangle with Charlotte von Kirschbaum has prompted debate about the consistency between his theological statements on marriage and his personal life.
+
+Source: adapted from "Karl Barth" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Karl_Barth

@@ -52,3 +52,5 @@ The post-Suharto "Reformasi" era has seen a transition to democracy, including d
 - The "Act of Free Choice" in West Papua (1969), where 1,025 representatives unanimously voted for integration with Indonesia, is widely criticized as not reflecting the will of the Papuan people.
 - The causes and responsibility for the violence during the May 1998 riots, including allegations of systematic sexual violence, are subjects of ongoing calls for investigation.
 - The long-term social and economic impacts of the Transmigration program on indigenous populations and regional conflicts are contested.
+
+Source: adapted from "History of Indonesia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Indonesia

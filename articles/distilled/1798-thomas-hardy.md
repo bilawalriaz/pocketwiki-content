@@ -45,3 +45,5 @@ Raised Anglican, Hardy questioned traditional Christian doctrine, influenced by 
 - Scholars have long debated Hardy's precise religious leanings, as he rejected orthodox Christianity but retained a fascination with spiritual and supernatural themes.
 - There is discussion about why Hardy stopped writing novels after *Jude the Obscure*. While public criticism was severe, Hardy himself later stated he "never cared very much about writing novels" and had "written quite enough."
 - The survival of only 12 of his notebooks after his executors burned many of his papers has limited full scholarly understanding of his creative process.
+
+Source: adapted from "Thomas Hardy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Hardy

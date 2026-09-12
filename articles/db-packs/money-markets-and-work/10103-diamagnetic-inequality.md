@@ -41,3 +41,5 @@ with conserved energy
 $$\frac{\|F(t)\|_{L^2_x}^2}{2} + \frac{\|\mathbf{D}\phi(t)\|_{L^2_x}^2}{2}.$$
 
 The kinetic term $\|\mathbf{D}\phi\|_{L^2}^2$ depends on $A$, and turning off electromagnetism (taking $A = 0$) minimises this energy because $|\nabla |\phi|| \le |\mathbf{D}\phi|$.
+
+Source: adapted from "Diamagnetic inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diamagnetic_inequality

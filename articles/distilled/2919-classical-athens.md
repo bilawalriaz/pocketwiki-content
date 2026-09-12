@@ -41,3 +41,5 @@ The period from the Persian Wars to the Macedonian conquest was the zenith of At
 
 ## Debates and Open Questions
 The source notes that Athenian democracy's creation by Cleisthenes may have been motivated by his personal ambition to gain power, suggesting its origins could be "tainted." The population of classical Athens is uncertain, with estimates ranging from 120,000 to 180,000 inhabitants.
+
+Source: adapted from "Classical Athens" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Classical_Athens

@@ -60,3 +60,5 @@ The cavity magnetron, developed in the UK, generated high-power microwaves, enab
 - **Quantum Noise Floor:** Ultimate detection limit set by thermal noise ($k_B T B$) and quantum nature of current (electron shot noise); matched filtering compresses energy but cannot overcome single-electron quantization.
 - **Automotive Radar Standardization:** As driverless vehicles proliferate, interference between dense automotive radars and spectrum allocation (77–81 GHz) remain unresolved regulatory/technical challenges.
 - **Over-the-Horizon Radar (OTH) Viability:** Ionospheric propagation enables beyond-line-of-sight detection but suffers from clutter, geomagnetic disturbances, and low resolution; operational utility for strategic vs. tactical use debated.
+
+Source: adapted from "Radar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Radar

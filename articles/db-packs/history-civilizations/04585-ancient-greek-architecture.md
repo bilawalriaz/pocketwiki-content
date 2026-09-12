@@ -33,3 +33,5 @@ Decoration was part of the structural vocabulary rather than applied ornament. E
 ## Open questions
 
 The function of the great Minoan palaces on Crete remains debated, since their scale and layout are unlike those of a purely residential building, and it is unclear whether they were domestic in any simple sense. The orientation of some Greek temples appears to track astronomical events, but the consistency and intent of that alignment are still under discussion.
+
+Source: adapted from "Ancient Greek architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Greek_architecture

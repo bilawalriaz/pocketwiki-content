@@ -62,3 +62,5 @@ Strauss died in 1899 of pleuropneumonia, buried in Vienna's Zentralfriedhof. His
 - **Motivation for archive destruction**: While the stated reason was a pact with Josef to prevent plagiarism, the source notes this "may also have been fueled by Strauss's rivalry with... Carl Michael Ziehrer," leaving the primary motive open to interpretation.
 - **Political opportunism vs. conviction**: The source describes Strauss's 1848 revolutionary stance as "professionally disadvantageous," yet his later patriotic marches for Franz Josef I were "probably to ingratiate himself," raising questions about the sincerity of his political allegiances.
 - **Paternity of the "Waltz King" title**: While the source attributes the popularization of the waltz to Johann II, the foundational role of Johann I and Joseph Lanner (whose regimental post Johann II inherited) suggests a more complex lineage for the genre's dominance.
+
+Source: adapted from "Johann Strauss II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johann_Strauss_II

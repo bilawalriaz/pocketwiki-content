@@ -45,3 +45,5 @@ On 15 March 1206, while returning from the Khokhar campaign, Muhammad was assass
 - **Motives for Assassination**: Sources differ on whether the assassins were primarily Khokhars avenging their defeat, Ismāīlīs fearing his expansion, or acting in concert.
 - **Scale of Armies**: Chroniclers' accounts of army sizes (e.g., 120,000-130,000 for Muhammad at Tarain) are considered likely exaggerations.
 - **Legacy in India**: While his conquests were transformative, the short-lived nature of the Ghurid empire itself means his direct rule was brief; the lasting impact came through the successor states founded by his slaves.
+
+Source: adapted from "Muhammad of Ghor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muhammad_of_Ghor

@@ -67,3 +67,5 @@ Nicolaus Copernicus developed the first mathematically predictive heliocentric s
 ## Debates and Open Questions
 
 Whether the Solar System is embedded in the Local Interstellar Cloud or just outside its edge remains unclear. The exact causes of the planets' nearly circular orbits compared to other systems are undetermined, with attempts to explain it via detection bias or planetary interactions. Statistical clustering in extreme trans-Neptunian object orbits may indicate a hypothetical Planet Nine, but could also result from observational biases or coincidence. The actual shape of the heliosphere's outer edge remains unknown. The Shiva hypothesis controversially suggests the Solar System's galactic position could explain periodic extinction events on Earth.
+
+Source: adapted from "Solar System" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Solar_System

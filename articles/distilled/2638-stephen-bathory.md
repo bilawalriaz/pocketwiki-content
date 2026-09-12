@@ -39,3 +39,5 @@ Báthory's greatest achievement was the war against Ivan the Terrible's Russia, 
 - **Internal vs. External Focus**: Historians debate whether Báthory's primary interest was the Commonwealth or his native Hungary. His plans for a Polish-led liberation of Ottoman Hungary never materialized.
 - **Impact on Nobility**: His execution of Samuel Zborowski and centralizing policies were seen by contemporaries as attempts to curtail the nobility's Golden Freedoms, a charge that shaped his early posthumous reputation.
 - **Historical Reputation**: His image evolved from being criticized after his death for favoritism toward Hungarians to becoming a celebrated national hero in the 19th century during the partitions of Poland, and remains a complex figure in modern historiography.
+
+Source: adapted from "Stephen Báthory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stephen_B%C3%A1thory

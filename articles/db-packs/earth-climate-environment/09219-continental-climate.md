@@ -29,3 +29,5 @@ Continental climates exist where cold air masses build in winter under short day
 Köppen places D climates between milder and drier neighbours. Equator-ward, they grade into temperate climates where winters are less severe. Pole-ward and into dry interiors, they give way to semi-arid and arid climates where rainfall can no longer support tall-grass prairie and shrubland. In Europe, the western edge of the D zone transitions into oceanic (Cfb) or subpolar oceanic (Cfc) climates as the Atlantic influence grows. In central and eastern Asia and the central United States, the southern boundary shifts into humid subtropical (Cfa or Cwa), subtropical highland (Cwb), or Mediterranean (Csa or Csb) climates.
 
 Because continentality is a continuous property, the boundaries between D and its neighbours are fuzzy on any real map, and small changes in the cold-month threshold can move a station from one category to the next.
+
+Source: adapted from "Continental climate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Continental_climate

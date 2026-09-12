@@ -49,3 +49,5 @@ Modi's economic policies favored privatization, liberalization, and attracting f
 *   **Economic Impact:** Assessments are divided on whether Gujarat's economic growth accelerated under his chief ministership and whether his national policies (like demonetization) helped or harmed the economy.
 *   **Democratic Health:** There is significant debate over whether his tenure has strengthened or weakened India's democratic institutions, press freedom, and secular fabric.
 *   **Social Agenda:** His government's policies, such as the CAA and the revocation of Kashmir's autonomy, are debated as either necessary reforms or steps toward a majoritarian, exclusionary social order.
+
+Source: adapted from "Narendra Modi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Narendra_Modi

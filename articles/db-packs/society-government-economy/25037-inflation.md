@@ -37,3 +37,5 @@ The dominant tool is monetary policy. Most central banks practice inflation targ
 Earlier regimes included the gold standard (abandoned during the Great Depression), the Bretton Woods fixed-exchange-rate system (collapsed in the 1970s), and monetarist money-growth targeting (abandoned because the link between monetary aggregates and prices proved unstable). Fixed exchange rates remain common in emerging economies; they import the anchor currency's inflation rate but sacrifice independent monetary policy. Price controls have a poor historical record outside wartime rationing.
 
 High government debt raises inflation risk through fiscal dominance, because governments face pressure to erode its real value via inflation, and a permanent 1% of GDP rise in the primary deficit has been linked, after five years, to several hundred to about $1,250 in lost purchasing power per U.S. household.
+
+Source: adapted from "Inflation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Inflation

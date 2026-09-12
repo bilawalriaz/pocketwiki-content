@@ -21,3 +21,5 @@ Space transport rests on liquid-propellant rocket work by Konstantin Tsiolkovsky
 ## Navigation: finding the way
 
 Seamen steered by landmarks and stars before the 13th century. The magnetic compass, adopted in that century, let navigators plot courses by magnetic north, sail in poor visibility, and take more direct routes, producing detailed portolan charts. The 1761 marine chronometer, a clock accurate enough to fix longitude at sea, completed the toolkit that made long ocean voyages routine.
+
+Source: adapted from "History of transport" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_transport

@@ -33,3 +33,5 @@ The innate system has two branches. The first uses pattern recognition receptors
 ## Consequences
 
 Through 2013, invasive tree diseases had killed roughly 100 million elm trees across the United Kingdom and United States, and 3.5 billion American chestnut trees. The potato late blight epidemic caused by *Phytophthora infestans* drove the Great Irish Famine, and Dutch elm disease showed how an introduced pathogen can functionally eliminate a tree species.
+
+Source: adapted from "Plant disease epidemiology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_disease_epidemiology

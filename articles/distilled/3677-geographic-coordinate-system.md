@@ -41,3 +41,5 @@ To simplify communication, latitude-longitude pairs can be encoded into alphanum
 
 ## Debates and Open Questions
 The source notes that while the Greenwich meridian is the international standard, some organizations, like France's Institut national de l'information géographique et forestière, continue to use other meridians for internal purposes. The choice of datum remains critical, as using a global datum makes small, continuous movements of the Earth's surface (like continental drift) statistically significant.
+
+Source: adapted from "Geographic coordinate system" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geographic_coordinate_system

@@ -38,3 +38,5 @@ After Charles XII's return, Hanover and Prussia joined the coalition. Sweden los
 
 ## Debates and Open Questions
 The source notes that the exact size of Cossack and Kalmuck forces fighting for Russia is debated, with estimates ranging widely from 40,000 to 200,000 men. The outcome of the Battle of Grengam (1720) is also described as "contested."
+
+Source: adapted from "Great Northern War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Northern_War

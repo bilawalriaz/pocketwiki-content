@@ -41,3 +41,5 @@ Scheme is standardized by the IEEE and through the *Revised n Report on the Algo
 ## Influence
 
 Scheme's ideas shaped Common Lisp, JavaScript, Python, Ruby, Haskell, Clojure, Rust, and Scala. It is used in education through SICP-based courses, including at MIT and Berkeley, and in industry as an embedded scripting language: Guile inside GnuCash and GNU LilyPond, TinyScheme inside GIMP, and Kawa inside Google App Inventor for Android, where it compiles to JVM bytecodes.
+
+Source: adapted from "Scheme (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scheme_%28programming_language%29

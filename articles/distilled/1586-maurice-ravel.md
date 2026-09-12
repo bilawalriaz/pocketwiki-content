@@ -65,3 +65,5 @@ Ravel was an early advocate for recording technology. His playing was captured o
 - **Sexuality and personal life**: Ravel was a lifelong bachelor; contemporaries speculated on homosexuality or romantic attachments to Misia Edwards or Hélène Jourdan-Morhange, but biographers (Nichols, Orenstein) conclude his sexuality remains a mystery.
 - **Artistic merit of *Boléro***: Ravel dismissed it as having "no music," yet it became his most famous work; debate persists whether its popularity obscures his more structurally complex achievements.
 - **Piano vs. orchestral versions**: Critics disagree on whether Ravel’s orchestrations improve the piano originals (e.g., *Alborada del gracioso*, *Le Tombeau de Couperin*); some find the piano versions sharper and more persuasive.
+
+Source: adapted from "Maurice Ravel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maurice_Ravel

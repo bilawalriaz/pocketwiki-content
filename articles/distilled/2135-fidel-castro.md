@@ -46,3 +46,5 @@ In 2006, failing health led Castro to transfer power to his brother Raúl, who w
 *   **Economic impact:** Assessments vary on whether his policies brought net social progress or economic ruin. Supporters point to world-class healthcare and education, while critics emphasize chronic shortages and low living standards.
 *   **Role in Africa:** The scale and motivation of Cuba's military interventions in Africa, particularly Angola, are debated—whether they were primarily ideological internationalism or served Soviet strategic interests.
 *   **Personal wealth:** Despite official denials, reports (e.g., from *Forbes*) have alleged Castro accumulated significant personal wealth, a claim his family and the Cuban government have vehemently rejected.
+
+Source: adapted from "Fidel Castro" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fidel_Castro

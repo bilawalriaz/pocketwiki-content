@@ -47,3 +47,5 @@ Since about 10,000 years ago, humans have continued to evolve through natural se
 ## How the field learned this
 
 Linnaeus placed humans in *Homo* within Primates in 1758 on morphological grounds. Darwin supplied natural and sexual selection (1859, 1871); Huxley argued for ape ancestry in 1863. African fossils closed the "missing link" debate: *Australopithecus africanus* (Taung Child, 1925), Leakey discoveries at Olduvai, Lucy (1974), and *Ardipithecus* (1990s). In 1967 Sarich and Wilson used immunological distances to date the human–chimp split at 4–5 Ma, far younger than the fossil estimate. Whole‑genome sequencing after 2010 overturned strict replacement models by revealing pervasive Neanderthal and Denisovan admixture.
+
+Source: adapted from "Human evolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_evolution

@@ -34,3 +34,5 @@ Until the early 2000s, the Prado's annual income was about $18 million, with 80%
 
 ## Debates and Open Questions
 The source does not detail ongoing scholarly debates about the collection or its interpretation. It does note historical periods of focus, such as the Second Spanish Republic's emphasis on developing provincial museums (1931-1936).
+
+Source: adapted from "Museo del Prado" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Museo_del_Prado

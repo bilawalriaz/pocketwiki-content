@@ -35,3 +35,5 @@ Solar fuel research aims to turn sunlight into storable chemical energy. Artific
 Solar technology surged in the late 19th century: Augustin Mouchot demonstrated a solar steam engine at the 1878 Paris Universal Exposition, and Frank Shuman built the first solar thermal power station in Maadi, Egypt, in 1912–1913. Progress then stalled as coal and oil became cheap, and only revived after the 1973 oil embargo. Government programmes in the United States and Japan drove down costs, and by 2007 global solar water heating had reached 154 GW.
 
 The IEA has projected that solar could supply one-third of global energy by 2060, but only with sustained political commitment to climate limits and the build-out of storage and grid infrastructure to handle the Sun's variability.
+
+Source: adapted from "Solar energy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Solar_energy

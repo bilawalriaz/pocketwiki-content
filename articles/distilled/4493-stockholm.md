@@ -48,3 +48,5 @@ Stockholm has an extensive public transport system, including the Stockholm Metr
 - The origin of the name "Stockholm" is debated, with theories referring to logs, fortifications, or pile barrages.
 - The city's rapid population growth has led to proposals for dense high-rise buildings in the city center, which face opposition from various groups.
 - The implementation of the congestion tax was politically contentious, with different municipalities voting differently in a 2006 referendum.
+
+Source: adapted from "Stockholm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stockholm

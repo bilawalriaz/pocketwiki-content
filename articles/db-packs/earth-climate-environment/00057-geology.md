@@ -48,3 +48,5 @@ Early observations appear in ancient Greece: Theophrastus wrote *Peri Lithon* (3
 - **Boudins**: lens-shaped pinches from ductile stretching.
 - **Stereonet**: stereographic projection used to plot structures.
 - **Orogenic wedge**: mountain-building zone at a convergent plate boundary.
+
+Source: adapted from "Geology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geology

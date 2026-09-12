@@ -62,3 +62,5 @@ In Western culture, an illuminated light bulb above a head signifies sudden insp
 - **Light pollution vs. utility**: Outdoor lighting growth (3–6%/year late 20th century) conflicts with astronomical research and ecological health; low-pressure sodium is favored by astronomers for filterability but rejected for general use due to monochromatic output.
 - **Mercury in fluorescents**: CFLs save energy but introduce hazardous waste streams; recycling mandates vary by jurisdiction, creating disposal compliance gaps.
 - **Thermal management for LEDs**: High internal temperatures drastically shorten LED life, creating a design tension between compact form factors, high output, and longevity.
+
+Source: adapted from "Electric light" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electric_light

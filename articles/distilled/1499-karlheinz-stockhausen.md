@@ -74,3 +74,5 @@ Stockhausen's *Texte zur Musik* (10 volumes) contain analyses of Webern, Mozart,
 - **Formula composition's rigidity:** Critics argue *Licht*'s superformula constrains surface variety; defenders hear it as a "genetic code" enabling maximal diversity from minimal material.
 - **9/11 remarks:** Whether Stockhausen's "Lucifer's greatest work of art" was a theological metaphor (Lucifer = cosmic rebellion) or an aestheticization of terror remains contested; the fallout damaged his late public reception.
 - **Sirius cosmology:** His claims of education on/from Sirius—metaphor, mystical conviction, or neurological condition?—complicate biographical interpretation of *Licht* and *Sirius* (1975–77).
+
+Source: adapted from "Karlheinz Stockhausen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Karlheinz_Stockhausen

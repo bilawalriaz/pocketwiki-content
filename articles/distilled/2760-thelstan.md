@@ -39,3 +39,5 @@ When Edward the Elder died in 924, Æthelstan was accepted as king in Mercia but
 - **Battle of Brunanburh's Significance**: Some historians view it as a "pyrrhic victory" with limited long-term gains, while others see it as crucial for securing Anglo-Saxon hegemony.
 - **"First King of England"**: While a common modern title, some scholars argue Æthelstan's claimed authority was over the whole island of Britain, not a defined "England," and that his hegemony was fragile.
 - **Law Code Effectiveness**: Historians disagree on whether Æthelstan's frequent and harsh legislation was a sign of effective governance or an admission of failure to control social disorder.
+
+Source: adapted from "Æthelstan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C3%86thelstan

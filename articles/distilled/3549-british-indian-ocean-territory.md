@@ -43,3 +43,5 @@ Chagossians have consistently fought for their right of return, winning legal vi
 - **Chagossian Right of Return:** While the 2024 deal permits return to outer islands, Chagossians are excluded from Diego Garcia. The UN has criticized this as insufficient for protecting their cultural rights.
 - **Fate of the Transfer Treaty:** The treaty is signed but not ratified. Its future is uncertain due to US opposition and ongoing legal challenges from Chagossian groups.
 - **Status of Asylum Seekers:** Sri Lankan Tamils stranded on Diego Garcia since 2021 live in a fenced camp. A court ruled their detention unlawful, but their long-term status remains unresolved as the 1951 Refugee Convention does not apply to BIOT.
+
+Source: adapted from "British Indian Ocean Territory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory

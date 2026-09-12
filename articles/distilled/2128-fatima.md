@@ -43,3 +43,5 @@ Fatima is the progenitor of all of Muhammad's surviving descendants. Her childre
 - **Inheritance of Fadak**: Whether Fadak was a personal gift to Fatima from Muhammad or part of his public estate is a core dispute, hinging on the interpretation of Quranic verses and the authenticity of the hadith of prophetic non-inheritance.
 - **Composition of the Ahl al-Bayt**: A key theological difference: Shia restrict it to the "People of the Cloak" (Muhammad, Ali, Fatima, Hasan, Husayn), while many Sunni views include Muhammad's wives.
 - **Fatima's Reconciliation**: Whether Fatima reconciled with Abu Bakr and Umar before her death is debated, with Sunni reports of reconciliation often viewed by Shia as later inventions.
+
+Source: adapted from "Fatima" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fatima

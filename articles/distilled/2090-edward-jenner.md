@@ -43,3 +43,5 @@ Jenner's work brought him international fame and financial support from Parliame
 ## Debates and Open Questions
 - The "milkmaid story"—that Jenner's idea came solely from observing unblemished milkmaid complexions—is widely repeated but appears to be a myth; his work built on prior observations by others like Fewster and Jesty.
 - While Jenner's conclusions were partly correct and partly erroneous, the core principle of vaccination was sound and became widely accepted despite initial deliberation by the medical establishment.
+
+Source: adapted from "Edward Jenner" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edward_Jenner

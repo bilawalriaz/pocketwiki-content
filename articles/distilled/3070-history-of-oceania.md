@@ -46,3 +46,5 @@ From the 1960s onward, many Oceanian nations gained independence, starting with 
 *   **Easter Island Settlement Date:** Estimates for the first human settlement vary widely, from as early as 300–400 CE to as late as 1200 CE, based on different archaeological and genetic evidence.
 *   **Captain Cook's Death:** Scholarly debate continues over whether Hawaiians initially perceived Cook as the god Lono, a theory challenged by some historians.
 *   **Colonial Impact:** The long-term social, economic, and cultural consequences of colonialism and the legacy of nuclear testing remain critical areas of study and political discourse.
+
+Source: adapted from "History of Oceania" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Oceania

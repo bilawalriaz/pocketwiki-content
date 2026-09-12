@@ -47,3 +47,5 @@ The asymptotic statement itself yields only an "ineffective" bound, with no expl
 ## An analogue over finite fields
 
 Over a finite field F with q elements, the monic irreducible polynomials of degree n play the role of primes. The Möbius-inversion formula N_n = (1/n) Σ_{d|n} μ(n/d) q^d, classical and known to Gauss, gives the exact count and yields the analogue N_n ∼ q^n / n. A cleaner version states N_n = q^n / n + O(q^{n/2} / n), which is the finite-field Riemann hypothesis and whose proof is short and combinatorial.
+
+Source: adapted from "Prime number theorem" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prime_number_theorem

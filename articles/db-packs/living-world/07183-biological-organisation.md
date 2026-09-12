@@ -43,3 +43,5 @@ Biological organisation is thought to have arisen in the early RNA world, when R
 ## Why hierarchies are stable
 
 Hierarchical structure is empirically widespread in biology, and on theoretical grounds expected: complex systems that evolve from simpler ones tend to become hierarchies. The theoretical underpinning comes from thermodynamics. Modelled as physical systems, biological systems are open, self-organising thermodynamic systems whose dissipative structures form set/subset relations that can be described as a hierarchy. System-hierarchy analysis in the 1950s laid the empirical groundwork for what became, from the 1980s, the field of hierarchical ecology. Herbert Simon's hierarchical principle states that hierarchical structures are stable, so complexity built from stable, nearly decomposable sub-systems is far more likely to evolve than complexity built from tangled, interdependent parts.
+
+Source: adapted from "Biological organisation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_organisation

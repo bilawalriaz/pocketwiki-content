@@ -46,3 +46,5 @@ Marconi's companies were initially conservative, favoring spark transmitters ove
 - **Attribution of the 1901 Detector:** The receiving detector used in the historic Newfoundland experiment is associated with work by Jagadish Chandra Bose, leading to a controversy over its origin and attribution.
 - **Evidential Basis of the 1901 Reception:** Technical historians have questioned the evidential basis for the first transatlantic reception, noting the lack of an automatic record and uncertainties about signal wavelength and daytime propagation.
 - **Patent Priorities:** Marconi's foundational British patent was later claimed by Oliver Lodge to contain his own unpatented ideas. A 1943 U.S. Supreme Court ruling invalidated broad claims in one of Marconi's patents, finding they had been anticipated by John Stone Stone, though it did not invalidate his earlier radio transmission patent.
+
+Source: adapted from "Guglielmo Marconi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guglielmo_Marconi

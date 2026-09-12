@@ -120,3 +120,5 @@ Chastity vital; divine spark (*Waheguru*) resides in the body. Sex limited to ma
 - **Prostitution legalization**: Criminalization (moral objection) vs. decriminalization (harm reduction); feminist debate over inherent exploitation vs. worker agency.
 - **Sexual privacy as legal framework**: Whether privacy rights are too narrow to address private coercion (FGM, forced marriage, marital rape) and state duty to intervene.
 - **Religious doctrine vs. LGBT rights**: Tension between conservative religious views (behavior-based, changeable, pathological) and liberal/secular views (attraction-based, fixed, neutral) regarding same-sex marriage and anti-discrimination law.
+
+Source: adapted from "Human sexuality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_sexuality

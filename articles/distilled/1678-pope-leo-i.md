@@ -74,3 +74,5 @@ Leo died 10 November 461, requesting burial near St. Peter’s tomb in the porti
 *   **Chalcedon’s reception:** The "two natures" formula split the Church permanently. Scholars debate whether the schism was primarily theological (Cyril’s *mia physis* vs. Leo’s *duo physeis*) or political (Alexandria vs. Rome/Constantinople rivalry), with Coptic historians emphasizing the latter.
 *   **Coercion of heretics:** Leo’s endorsement of the death penalty for heretics (447) and use of torture against Manichaeans raise questions about the continuity between his theology of unity and his praxis of force.
 *   **Authenticity of the *Tome* at Ephesus II:** The council’s acts claim the *Tome* was not read; Leo’s legates protested. Historians debate whether this was procedural suppression or a genuine oversight, affecting the legitimacy of the "Robber Synod" label.
+
+Source: adapted from "Pope Leo I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_Leo_I

@@ -56,3 +56,5 @@ Directions relating to abstraction in the second half of the 20th century includ
 ## Debates and Open Questions
 
 Theodor W. Adorno's socio-historical explanation holds that abstraction in modern art responds to and reflects the growing abstraction of social relations in industrial society. Frederic Jameson similarly sees modernist abstraction as a function of money's abstract power, equating all things as exchange-values; abstract art's social content is then the abstract nature of social existence—legal formalities, bureaucratic impersonalization, information/power—in late modernity. By contrast, Post-Jungians see quantum theories, with their disintegration of conventional ideas of form and matter, as underlying the divorce of the concrete and abstract in modern art.
+
+Source: adapted from "Abstract art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abstract_art

@@ -50,3 +50,5 @@ The autonomous community is administered through four insular councils, one for 
 
 ## Debates and open questions
 The etymology of the ancient names *Gymnesiai* and *Baleares* is debated, with classical sources offering different explanations (e.g., nudity vs. light equipment for *Gymnesiai*; Greek vs. Phoenician origin for *Baleares*).
+
+Source: adapted from "Balearic Islands" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Balearic_Islands

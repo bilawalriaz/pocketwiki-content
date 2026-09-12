@@ -34,3 +34,5 @@ The Altiplano was home to pre-Columbian cultures such as the Chiripa, Tiwanaku, 
 
 ## Debates and Open questions
 The primary scholarly debate concerns the precise geological mechanisms that formed the Altiplano's high, low-relief topography within the Andean orogen. Multiple hypotheses involving crustal weaknesses, magmatic processes, climate, and lithospheric removal are proposed. Additionally, the future of the recently dried Lake Poopó is uncertain; it is unclear whether this former second-largest lake in Bolivia can be restored.
+
+Source: adapted from "Altiplano" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Altiplano

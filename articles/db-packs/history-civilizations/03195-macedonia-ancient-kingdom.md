@@ -33,3 +33,5 @@ Macedonia's rivalry with Rome produced four wars. The First Macedonian War (215â
 ## Open questions
 
 Two debates remain active. First, ethnic identity: the dominant view treats ancient Macedonians as Greeks with an unusually archaic, rural culture, but ancient sources contradict each other, and some label them as "barbarians" alongside Thracians and Illyrians. Second, the royal tombs at Vergina, including one widely attributed to Philip II after forensic work in 1977â€“78, continue to attract competing identifications, and the exact extent of Philip's military originality, given his exposure to the Theban general Epaminondas during a hostage period, is also disputed.
+
+Source: adapted from "Macedonia (ancient kingdom)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Macedonia_%28ancient_kingdom%29

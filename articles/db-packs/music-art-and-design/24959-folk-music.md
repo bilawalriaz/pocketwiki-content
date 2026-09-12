@@ -33,3 +33,5 @@ Folk music exists in every inhabited region, each with distinctive instruments a
 ## Decline and revival
 
 Industrialisation and mass media have eroded traditional folk music fastest where commercialisation is most advanced, though loss occurs everywhere. Traditional folk music survives best where it remains a badge of cultural or national identity, and UNESCO's Intangible Cultural Heritage programme is the main international instrument for protecting regional traditions. Folk festivals from the National Folk Festival in the United States (1934), Newport (1959), and Cambridge (1965) to Australia's National Folk Festival sustain the tradition by gathering tens of thousands of performers and audiences each year.
+
+Source: adapted from "Folk music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Folk_music

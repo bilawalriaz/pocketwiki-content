@@ -47,3 +47,5 @@ Dacian society was divided into an aristocracy (*tarabostes*) and commoners (*co
 - **Ethnic Composition of Tribes**: The ethnic identity of certain tribes like the Costoboci (Dacian, Celtic, or mixed) and the Carpi (Dacian or Slavic) is debated.
 - **Impact of Roman Conquest**: The extent of population loss, displacement, and cultural Romanization after the Dacian Wars is uncertain. Evidence suggests both conflict and continuity.
 - **Post-Roman Continuity**: The degree of cultural and demographic continuity between the Roman province of Dacia and the later formation of Romanians is a subject of significant historical and political debate.
+
+Source: adapted from "Dacians" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dacians

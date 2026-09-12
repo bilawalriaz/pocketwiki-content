@@ -41,3 +41,5 @@ Vasari’s *Lives* revolutionized art writing by compiling biographical sketches
 
 ## Debates and Open Questions
 Scholars continue to debate the reliability of Vasari’s *Lives*. His pro-Florentine bias leads him to attribute major innovations—such as the invention of engraving—to Florentine artists while marginalizing Venetian and northern European achievements. Many of his chronological claims and anecdotal stories have been disproven by modern archival research. However, his firsthand knowledge of contemporary artists and access to documents make his later biographies more credible. The extent to which his fictionalized tales influenced popular understanding of Renaissance art remains a subject of scholarly inquiry.
+
+Source: adapted from "Giorgio Vasari" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Giorgio_Vasari

@@ -41,3 +41,5 @@ The Apennines preserve intact ecosystems with high biodiversity. Vegetation zone
 - The precise etymology of "Apennines" is uncertain, with multiple linguistic derivations proposed but none universally accepted.
 - The paradox of how compressional and extensional forces can act simultaneously to build the same mountain range is described as a "fundamental and largely unresolved problem in continental dynamics."
 - The exact nature and boundaries of the "Adriatic plate" or lithosphere involved in the subduction are subjects of ongoing research.
+
+Source: adapted from "Apennine Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Apennine_Mountains

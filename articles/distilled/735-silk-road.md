@@ -61,3 +61,5 @@ The decline of the Silk Road was gradual, accelerated by the Black Death, politi
 - **Role of Nomads**: Traditional narratives marginalize steppe peoples; recent scholarship emphasizes their agency in facilitating and controlling trade.  
 - **Religious Transmission**: While Buddhism’s spread is well-documented, the extent of Jewish and Manichaean presence along the routes remains understudied.  
 - **Modern Revival**: The BRI’s invocation of Silk Road heritage raises questions about historical accuracy versus geopolitical branding.
+
+Source: adapted from "Silk Road" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Silk_Road

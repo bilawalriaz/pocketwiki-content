@@ -76,3 +76,5 @@ After his death, the school continued under Hermarchus, Polystratus, and others.
 - **Marriage and family**: Whether the Epicurean sage should marry and have children is ambiguous, with textual variants suggesting situational ethics.
 - **Political engagement**: While Epicurus generally advised withdrawal, some later interpreters allowed conditional political participation for maximizing pleasure.
 - **Free will and determinism**: The swerve solves logical determinism but raises questions about randomness versus genuine agency.
+
+Source: adapted from "Epicurus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Epicurus

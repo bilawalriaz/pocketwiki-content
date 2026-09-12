@@ -63,3 +63,5 @@ A straight line on standard Cartesian axes always represents a linear function, 
 ## Linear in polar coordinates
 
 In polar coordinates $(r, \theta)$, the equation $r = a\theta + b$ has the algebraic shape of a linear function but its graph is not a straight line. When $a \neq 0$ it traces an Archimedean spiral, winding outward at a constant rate; when $a = 0$ it is $r = b$, a circle of radius $b$ centred at the origin.
+
+Source: adapted from "Linear function (calculus)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Linear_function_%28calculus%29

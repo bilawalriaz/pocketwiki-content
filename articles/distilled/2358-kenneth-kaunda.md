@@ -42,3 +42,5 @@ Mounting economic problems and public unrest in 1990 forced Kaunda to reverse hi
 *   The article notes that Kaunda's ideology of Zambian Humanism has been criticized for showing similarities to fascism.
 *   His economic management is described as "inept," with socialist policies leading to "disastrous results," though the text also acknowledges the external shock of the 1973 oil crisis and copper price slump.
 *   His legacy is contested: he is remembered as a liberation hero and anti-apartheid champion, but also as a dictator who oversaw economic collapse and established a repressive one-party state.
+
+Source: adapted from "Kenneth Kaunda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kenneth_Kaunda

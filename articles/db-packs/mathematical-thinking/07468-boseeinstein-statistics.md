@@ -31,3 +31,5 @@ The discovery hinged on a similar indistinguishability argument: if coins behave
 ## Where the rule shows up
 
 B–E statistics governs photons, phonons, and helium-4 atoms in thermal equilibrium, and is the prerequisite for Bose–Einstein condensation, a phase transition in which a macroscopic fraction of bosons collapses into the single lowest quantum state below a critical temperature. The same distribution has been adopted in information retrieval as a "Divergence From Randomness" term-weighting model, and in network science it describes condensation-like phenomena such as winner-takes-all dynamics in growing networks.
+
+Source: adapted from "Bose–Einstein statistics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_statistics

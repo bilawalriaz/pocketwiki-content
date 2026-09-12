@@ -44,3 +44,5 @@ After retiring as archbishop in 1996, Tutu remained a prominent global voice. He
 *   **The TRC's Legacy:** There is ongoing debate about whether the TRC successfully achieved reconciliation or if it prioritized peace over justice by allowing perpetrators to avoid full criminal punishment.
 *   **Tutu's Political Stance:** Tutu was frequently criticized as being "too moderate" by militant anti-apartheid activists and "too radical" by white conservatives and government officials, placing him in a perpetual middle ground that satisfied neither side.
 *   **Theological Influence:** The extent to which Tutu successfully fused black theology and African theology, versus simply advocating for both, remains a point of scholarly discussion.
+
+Source: adapted from "Desmond Tutu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Desmond_Tutu

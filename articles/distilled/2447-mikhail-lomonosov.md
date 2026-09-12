@@ -40,3 +40,5 @@ Beyond science, Lomonosov shaped the modern Russian literary language. He develo
 
 ## Debates and Open questions
 The primary scholarly debate concerns Lomonosov's 1761 observation of Venus. While long credited with discovering its atmosphere, modern research suggests he likely saw a bright flash of the solar photosphere, not the thin arc caused by atmospheric refraction. His original sketches are lost, and his written descriptions do not clearly match the atmospheric phenomenon. The first confirmed observations of the Venusian atmospheric arc were made by other astronomers during the 1769 transit.
+
+Source: adapted from "Mikhail Lomonosov" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mikhail_Lomonosov

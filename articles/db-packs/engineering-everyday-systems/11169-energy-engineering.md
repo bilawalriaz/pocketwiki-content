@@ -25,3 +25,5 @@ Becoming an energy engineer usually requires a bachelor's degree in energy engin
 ## Emerging technologies
 
 New technologies are reshaping production, storage, and consumption. Next-generation solar panels, modern wind turbines, flow batteries, hydrogen fuel cells, and smart grids improve the reliability and reach of renewables. Artificial intelligence and machine learning now optimize energy use in real time, while carbon capture and storage (CCS) systems aim to reduce emissions from existing fossil-fueled power plants. Global frameworks such as the Paris Agreement and the European Green Deal shape national standards and steer engineering practice toward lower-carbon, more equitable energy systems.
+
+Source: adapted from "Energy engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Energy_engineering

@@ -92,3 +92,5 @@ Postwar hyperinflation, Nazi suppression, and academic exile delayed Weber’s r
 - **Comparative religion generalisations**: The accuracy of Weber’s portrayals of Confucianism, Hinduism, and Judaism; charges of Orientalism and reliance on outdated secondary sources.
 - **Methodological individualism vs. structuralism**: Whether Weber’s focus on subjective meaning can accommodate structural constraints (class, institutions) without reductionism.
 - **Editorial integrity of *Economy and Society***: The extent to which Marianne Weber’s and later editors’ organisation reflects Max’s intended architecture versus their own theoretical priorities.
+
+Source: adapted from "Max Weber" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Max_Weber

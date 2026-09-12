@@ -38,3 +38,5 @@ The score, composed by Max Steiner, is built around the song "As Time Goes By" b
 *   **Character Motivation:** Scholars debate the consistency and complexity of the characters' transformations, particularly Rick's shift from cynicism to heroism and Ilsa's emotional conflict.
 *   **Political Allegory:** Some critics, like screenwriter Howard Koch, view the film as a political allegory for America's entry into WWII, with Rick representing the isolationist United States.
 *   **Enduring Popularity:** The film's lasting appeal is often analyzed through its use of archetypes, its balance of romance and politics, and its embodiment of wartime sacrifice, which resonated with audiences then and continues to do so.
+
+Source: adapted from "Casablanca (film)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Casablanca_%28film%29

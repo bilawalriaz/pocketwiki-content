@@ -45,3 +45,5 @@ Until 2023, the mayor was elected by residents. In 2023, direct elections were a
 
 ## Debates and open questions
 The source does not present specific scholarly debates or open questions about Novosibirsk.
+
+Source: adapted from "Novosibirsk" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Novosibirsk

@@ -35,3 +35,5 @@ Experiments by Jeff Schimel and colleagues support this. Highly patriotic Canadi
 ## Religion and worldview
 
 Religious practices tie closely to a religion's worldview. James W. Sire defines a worldview as a commitment, a fundamental orientation of the heart, expressed as a story or as a set of presuppositions about the basic construction of reality, held consciously or not, that provides the foundation on which people live. David Naugle argues that conceiving of Christianity as a worldview has been one of the most significant developments in the recent history of the church. David Bell has extended the question to designers of superintelligences, asking what religious worldviews imply for machines much smarter than humans.
+
+Source: adapted from "Worldview" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Worldview

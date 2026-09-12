@@ -37,3 +37,5 @@ The defeat was catastrophic for the Ottomans, who lost tens of thousands of men.
 - **Ottoman Army Size**: Estimates vary widely, from 90,000 to 300,000. Scholarly analysis suggests a strength of around 120,000 soldiers at the siege's start, declining significantly due to casualties, disease, and desertion.
 - **Tatar Participation**: The role of the Crimean Tatar cavalry, who were tasked with guarding the Ottoman rear, is debated. Some sources indicate they were ineffective and did not fully engage the relief army.
 - **Kara Mustafa's Strategy**: Some historians speculate the Grand Vizier avoided an all-out assault to capture Vienna intact with its riches, which may have delayed the siege and allowed the relief force to arrive.
+
+Source: adapted from "Battle of Vienna" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Battle_of_Vienna

@@ -48,3 +48,5 @@ The Italo-Turkish War (1911) resulted in the loss of Libya. The Balkan Wars (191
 - The exact date of the fall of Gallipoli is disputed due to changes in the Byzantine calendar (1354 or 1356).
 - The impact of the Battle of Lepanto is debated: while a major tactical victory for the Holy League, it did not prevent the Ottoman conquest of Cyprus or significantly alter the long-term balance of naval power.
 - The role of internal Ottoman weaknesses versus external military pressure in causing the empire's 19th-century decline is a subject of ongoing historical analysis.
+
+Source: adapted from "Ottoman wars in Europe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe

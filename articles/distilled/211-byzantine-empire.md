@@ -83,3 +83,5 @@ Geography and maritime dominance lowered transport costs, driving growth. Mature
 *   **Military Decline:** Whether the 11th-century collapse resulted from systemic fiscal failure, the *theme* system’s obsolescence, civil war, or the structural shift to mercenary *tagmata* is debated.
 *   **1204 as Turning Point:** Scholars dispute whether the Fourth Crusade’s sack was a recoverable catastrophe or the definitive structural break making 1453 inevitable.
 *   **Scientific Originality:** The empire’s role is framed either as passive preservation/transmission or as active innovation (e.g., Philoponus’ physics, hospital medicine), complicated by applying modern "science" definitions.
+
+Source: adapted from "Byzantine Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Byzantine_Empire

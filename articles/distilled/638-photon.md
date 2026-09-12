@@ -59,3 +59,5 @@ Photons enable numerous technologies: photomultiplier tubes and CCDs detect sing
 ## Debates and Open Questions
 
 The fundamental nature of wave-particle duality remains conceptually challenging, particularly regarding photon localization and the proper formulation of uncertainty principles for photons. While photon-correlation experiments since the 1970s have definitively demonstrated quantum behavior, some semiclassical models persist. The exact mechanism of photon mass generation (if via Higgs mechanism) affects experimental mass limits. Additionally, the unification of photons with other gauge bosons in grand unified theories remains unverified, with proton decay yet to be observed.
+
+Source: adapted from "Photon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Photon

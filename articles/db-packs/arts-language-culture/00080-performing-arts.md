@@ -33,3 +33,5 @@ Africa hosts more than 3,000 ethnic groups, nearly all with traditions that fuse
 ## Industry and technology
 
 Popular music runs on commercial models; orchestras, opera houses, and ballet companies depend on nonprofit funding and state subsidies. Performers train in conservatories focused on vocational craft, or in universities that pair practice with academic study. Digital tools, especially motion capture, computer-driven sound, and online streaming, have expanded creation and distribution, though uneven internet access and short home-viewing attention remain real limits. Live performance survives because performer and audience need each other: the art is the shared moment, not the sounds and images that record it.
+
+Source: adapted from "Performing arts" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Performing_arts

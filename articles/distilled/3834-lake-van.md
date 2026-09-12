@@ -42,3 +42,5 @@ The lake has been a historical heartland. The Urartian capital of Tushpa was loc
 - The precise causes of the lake's dramatic historical level changes are debated, with researchers weighing the relative impacts of regional climate (precipitation), volcanic activity (tephra/lahar deposition), and tectonic forcing.
 - The existence and nature of the "Lake Van Monster" are subjects of popular myth but lack scientific evidence, with claimed sightings attributed to misidentification.
 - The exact age and construction details of the submerged fortress discovered in 2017 are based on visual assessment and await further archaeological confirmation.
+
+Source: adapted from "Lake Van" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Van

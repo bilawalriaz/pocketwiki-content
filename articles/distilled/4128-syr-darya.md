@@ -36,3 +36,5 @@ Soviet-era expansion of irrigation canals for cotton and rice fields massively d
 
 ## Debates and open questions
 The source text does not present explicit scholarly debates, but it highlights the unresolved political issue of water management. After the Soviet system collapsed, Central Asian nations have failed to reinstate a cooperative framework, with inadequate infrastructure and poor water management exacerbating conflicts over this vital resource.
+
+Source: adapted from "Syr Darya" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Syr_Darya

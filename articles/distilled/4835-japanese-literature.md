@@ -56,3 +56,5 @@ Female writers enjoyed success in the Heian period (e.g., Murasaki Shikibu, Sei 
 - The classification of Haruki Murakami's works as "true literature" versus pop fiction remains contentious, with critics like Kenzaburō Ōe opposing them.
 - The status and recognition of female authors have fluctuated historically, with ongoing discussions about their contributions and societal challenges.
 - The impact of new media (e.g., cell phone novels, manga) on traditional literary forms and quality is a subject of ongoing debate.
+
+Source: adapted from "Japanese literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Japanese_literature

@@ -34,3 +34,5 @@ The economy rested on farming and trade, with slave labour critical. Slaves were
 ## Why the Fall Is Still Debated
 
 Historians have proposed loss of republican virtue, moral decay, military tyranny, class conflict, slavery, economic stagnation, climate change, disease, lead plumbing, and the natural life-cycle of civilisations. No single cause is accepted, because the Western Empire did not fall in one event but eroded over two centuries, while its Eastern half endured.
+
+Source: adapted from "Ancient Rome" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Rome

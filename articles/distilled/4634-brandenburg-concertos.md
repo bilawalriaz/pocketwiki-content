@@ -36,3 +36,5 @@ The concertos are defined by their varied and innovative scoring. Concerto No. 1
 
 ## Debates and Open Questions
 Scholars debate the intended performers and occasion for the concertos. One view, noted by Heinrich Besseler, is that the instrumentation matches the 17 players Bach had in Köthen. Christoph Wolff contradicts this, arguing the collection does not reflect a specific ensemble. Another debate concerns the "fiauti d'echo" in Concerto No. 4, with theories suggesting they were recorders, transverse flutes, or flageolets. The purpose of the single-measure second movement in Concerto No. 3 is also uncertain, with performance practices ranging from simple chords to elaborate improvised cadenzas.
+
+Source: adapted from "Brandenburg Concertos" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brandenburg_Concertos

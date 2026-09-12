@@ -63,3 +63,5 @@ The volume analyzes the division of profit into **interest** (paid to money-capi
 - **Feminist Critique:** Critics like Silvia Federici argue Marx's analysis ignores the crucial role of women's unpaid domestic labour in reproducing labour-power.
 - **Ecological Critique:** Early critics saw a "Promethean" bias, but later ecosocialists highlight Marx's concept of the "metabolic rift" as an ecological critique.
 - **Political Legacy:** The association with 20th-century communist states leads to debates about whether they represented a failure of Marx's ideas or a distortion of them.
+
+Source: adapted from "Das Kapital" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Das_Kapital

@@ -53,3 +53,5 @@ Classical authors like Herodotus (5th century BC) and Diodorus Siculus (1st cent
 - **The ScanPyramids Big Void**: The purpose and nature of the large cavity detected above the Grand Gallery in 2017 are not yet understood.
 - **Original entrance and looting**: The exact sequence of early entries and resealing of the pyramid before al-Ma'mun is uncertain.
 - **Alignment methods**: How the Egyptians achieved the precise cardinal alignment of the base (within 3'38" of arc) is still explored, with proposed methods including solar and stellar observations.
+
+Source: adapted from "Great Pyramid of Giza" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza

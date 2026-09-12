@@ -41,3 +41,5 @@ The peaceful Velvet Revolution began on 17 November 1989, leading to the end of 
 ## Debates and open questions
 - The legacy and validity of the Beneš Decrees, which abrogated citizenship and confiscated property from ethnic Germans and Hungarians, remain controversial among nationalist groups in the Czech Republic, Germany, Austria, and Hungary.
 - The policy of "Czechoslovakism" and the political subordination of Slovaks within the state are cited as central issues that weakened the country and contributed to its eventual dissolution.
+
+Source: adapted from "Czechoslovakia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Czechoslovakia

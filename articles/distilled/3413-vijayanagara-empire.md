@@ -50,3 +50,5 @@ Vijayanagara architecture is a synthesis of earlier South Indian styles (Chaluky
 - The ethnolinguistic origins of the founders, Harihara I and Bukka Raya I, are debated: one theory holds they were Kannadigas from the Hoysala army, another that they were Telugu people from the Kakatiya kingdom.
 - The role of the saint Vidyaranya in inspiring the empire's founding is noted in tradition but is considered uncertain by historians.
 - The interpretation of the term "Hinduraya Suratrana" found in inscriptions is debated, with scholars disagreeing on whether it signifies the adoption of Islamic political traditions or simply means "protector among Hindu kings."
+
+Source: adapted from "Vijayanagara Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vijayanagara_Empire

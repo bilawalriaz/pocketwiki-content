@@ -43,3 +43,5 @@ The lake supports a major sport and commercial fishery. Native species like lake
 
 ## Debates and Open Questions
 The source notes that the warming of Lake Michigan's surface temperature is a subject of study, with a 2018 report indicating steady increases since 1980. This trend is likely to adversely affect native species and habitats. The ecological impact of ongoing invasive species introductions, such as the round goby and quagga mussels, remains a major concern for the lake's ecosystem health.
+
+Source: adapted from "Lake Michigan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Michigan

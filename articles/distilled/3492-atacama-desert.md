@@ -44,3 +44,5 @@ The desert's high altitude, dry air, and lack of light pollution make it one of 
 - The precise southern boundary of the Atacama Desert is debated, with some sources including coastal areas of southern Peru.
 - The exact timing and causes of the desert's hyper-aridity are studied, with evidence suggesting it predates the rise of the Andes but was intensified by it.
 - The potential for finding signs of past or present life on Mars is actively investigated using the Atacama as a terrestrial analog, with ongoing research into its "dark microbiome."
+
+Source: adapted from "Atacama Desert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atacama_Desert

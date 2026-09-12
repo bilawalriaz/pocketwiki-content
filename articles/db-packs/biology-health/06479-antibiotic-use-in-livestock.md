@@ -21,3 +21,5 @@ Sweden banned growth-promoter antibiotic use in 1986; the European Union followe
 ## Alternatives and substitutes
 
 Researchers are testing probiotics, prebiotics such as fructooligosaccharides and mannanoligosaccharides, bacteriophages, bacteriocins, antimicrobial peptides, competitive exclusion cultures, vaccines, and improved biosecurity and husbandry. The Scottish salmon sector's 1994 introduction of a furunculosis vaccine (*Aeromonas salmonicida*) sharply cut antibiotic treatments, showing that disease control without routine antibiotics is feasible where effective vaccines exist.
+
+Source: adapted from "Antibiotic use in livestock" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antibiotic_use_in_livestock

@@ -89,3 +89,5 @@ Personality: youthful "explosive" confrontationalism ("any musician who has not 
 - **Unfinished opera**: Multiple libretto projects (Genet, Aeschylus/Müller, Bond, Beckett) reached only discussion; no music was written. Whether an opera was ever feasible late in life remains speculative.
 - **Personal life and sexuality**: Biographers (Peyser, Merlin) note speculation (affair with María Casares 1946; long-term relationship with Hans Messner); Merlin concludes no evidence Messner was a life partner, but the record is incomplete.
 - **Institutional power**: IRCAM’s state funding and Boulez’s control drew criticism for monopolizing French contemporary music resources; defenders cite its unique technological achievements and international influence.
+
+Source: adapted from "Pierre Boulez" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pierre_Boulez

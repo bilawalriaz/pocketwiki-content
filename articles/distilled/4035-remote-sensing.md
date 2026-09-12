@@ -43,3 +43,5 @@ The discipline evolved from early balloon photography to systematic military aer
 
 ## Debates and Open Questions
 The source text does not explicitly detail ongoing scholarly debates. However, it notes challenges such as the complexity of interpreting data, the need for accurate "ground truth" for validation, and the persistent knowledge gap between public use of satellite imagery (e.g., Google Earth) and understanding of the underlying data and its limitations.
+
+Source: adapted from "Remote sensing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Remote_sensing

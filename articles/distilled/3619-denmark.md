@@ -54,3 +54,5 @@ Danish culture is progressive and egalitarian. It was the first country to legal
 - The etymology of "Denmark" and the relationship between the "Danes" and the emergence of a unified kingdom are subjects of continuous scholarly debate.
 - The exact meaning of the morpheme "Dan" and the "-mark" ending in the country's name are not definitively settled.
 - The historical role and migration patterns of the Jutes versus the Danes in early Denmark are topics of ongoing research.
+
+Source: adapted from "Denmark" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Denmark

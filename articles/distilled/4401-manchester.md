@@ -49,3 +49,5 @@ Manchester is a UNESCO City of Literature with a radical literary history. It is
 - **Second City Status:** Manchester is in an ongoing dispute with Birmingham over the title of the UK's unofficial "second city."
 - **Name Origin:** The etymology of the Brittonic name is debated, with theories referencing a "breast-shaped hill" (*mamm-*) or a "mother" river goddess (*mamma*).
 - **Urban Boundaries:** The name "Manchester" is informally applied to various areas (e.g., post town, congestion charge zone) that do not match the official metropolitan borough boundaries.
+
+Source: adapted from "Manchester" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Manchester

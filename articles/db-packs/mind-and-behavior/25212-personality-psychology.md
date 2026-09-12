@@ -33,3 +33,5 @@ Personality theorists divide on five recurring questions:
 ## Assessment methods
 
 Personality is measured two ways. **Projective tests**, such as the Rorschach inkblot test and the Thematic Apperception Test, assume unconscious motives and use ambiguous stimuli to elicit projection. **Objective tests** use self-report questionnaires and generally show higher validity and reliability, though critics cite the Forer effect to warn that vague descriptions can feel personally accurate. Major objective tools include the MBTI and Big-Five inventories.
+
+Source: adapted from "Personality psychology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Personality_psychology

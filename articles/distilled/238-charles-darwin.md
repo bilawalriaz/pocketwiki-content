@@ -68,3 +68,5 @@ Darwin moved from orthodox Anglicanism (quoting the Bible on the *Beagle*) to ag
 - **Rate and mode**: Gradualism vs. punctuated equilibrium (Eldredge/Gould, 1972) revisits Darwin’s insistence on "natura non facit saltum."
 - **Origin of life**: Darwin’s "warm little pond" speculation (1871 letter to Hooker) remains an open research area.
 - **Social Darwinism vs. Darwin’s views**: Post-1880s ideologies (laissez-faire, eugenics, imperialism) invoked his name; Darwin himself cautioned against deriving social policy from natural struggle.
+
+Source: adapted from "Charles Darwin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_Darwin

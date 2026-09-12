@@ -42,3 +42,5 @@ The Greek War of Independence (1821–1829) created a modern Greek state along t
 
 ## Debates and Open Questions
 The primary open question is the resolution of the **Aegean dispute** between Greece and Turkey. Key debated issues include the legal width of territorial waters, the extent of national airspace, the delimitation of continental shelves and EEZs, and the status of various islands and islets. These unresolved issues remain a major source of tension and a potential flashpoint in the region.
+
+Source: adapted from "Aegean Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aegean_Sea

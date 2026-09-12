@@ -41,3 +41,5 @@ Mosaic art declined in Western Europe after the early Middle Ages, replaced by f
 
 ## Debates and Open Questions
 The source notes that the exact dating and attribution of some early mosaics, like those at the Bizere Monastery, are debated between Orthodox and Catholic origins. The function and symbolism of certain elements, such as the zodiac wheels in synagogues, are interpreted as either a fusion with pagan culture or a representation of Jewish calendar months. The reasons for the decline of figural mosaics in the Islamic world after the 8th century are also a subject of historical discussion.
+
+Source: adapted from "Mosaic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mosaic

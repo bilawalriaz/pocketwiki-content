@@ -43,3 +43,5 @@ Goodall's methodology, particularly the use of feeding stations to attract chimp
 - **Methodological Impact**: A central debate concerns whether Goodall's use of feeding stations artificially inflated aggression and conflict among Gombe chimpanzees, potentially distorting observations of "natural" behavior. Goodall argued the effect was limited to intensity and necessary for study.
 - **Anthropomorphism vs. Insight**: Her early use of human-like terms (e.g., "personality," "emotion") was initially criticized as unscientific anthropomorphism but is now more widely accepted as a valid lens for understanding complex animal minds.
 - **Generalizability**: Findings from Gombe, a small, provisioned population, are sometimes questioned regarding their applicability to all chimpanzee populations, though subsequent studies have confirmed many behaviors, like inter-group aggression.
+
+Source: adapted from "Jane Goodall" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jane_Goodall

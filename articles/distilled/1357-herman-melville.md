@@ -63,3 +63,5 @@ Several scholarly debates surround Melville’s life and work:
 - **Religious meaning in *Moby-Dick***: Whether Ahab symbolizes defiance of God or human hubris remains contested. Some view the whale as a symbol of divine mystery, others as nature itself.
 - **Autobiographical readings**: Many early biographers interpreted Melville’s fiction through a Freudian lens, seeing characters as projections of his psyche. Modern critics question this approach, advocating instead for textual analysis over biographical speculation.
 - **Poetry vs. Prose**: While *Moby-Dick* dominates popular perception, some scholars argue Melville’s poetry—especially *Clarel*—represents his mature artistic vision, challenging the hierarchy that privileges his novels.
+
+Source: adapted from "Herman Melville" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Herman_Melville

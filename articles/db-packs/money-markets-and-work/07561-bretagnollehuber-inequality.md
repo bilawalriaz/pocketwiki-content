@@ -59,3 +59,5 @@ The same machinery, Bretagnolle–Huber plus a hypothesis-testing argument, give
 ## History
 
 Jean Bretagnolle and Catherine Huber proved the inequality in 1979 in the proceedings of the Strasbourg Probability Seminar. Tsybakov's textbook republishes it as an early, less general version of Assouad's lemma, and a 2014 extension of Fano's inequality yields a constant improvement.
+
+Source: adapted from "Bretagnolle–Huber inequality" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bretagnolle%E2%80%93Huber_inequality

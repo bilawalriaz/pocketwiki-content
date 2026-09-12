@@ -23,3 +23,5 @@ Modernism broke realism apart. Bertolt Brecht's **epic theatre** used non-realis
 ## What remains genuinely uncertain
 
 The claim that theatre evolved directly out of ritual is plausible but unproven; the similarities may be parallel responses to similar needs rather than descent. Whether early Italian theatre grew out of late Roman practice or out of medieval liturgical functions is still debated, and the **elegiac comedies** of late antiquity are of disputed status, possibly rhetorical exercises never meant to be staged.
+
+Source: adapted from "History of theatre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_theatre

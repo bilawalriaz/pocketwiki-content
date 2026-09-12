@@ -46,3 +46,5 @@ Abolition was a gradual, uneven process. European nations began banning the trad
 - **Economic Effect**: There is debate on whether the slave trade devastated African economies by disrupting production and political stability, or whether it also stimulated certain trade and brought in goods that raised living standards.
 - **Role in European Industrialization**: The "Williams thesis" argues that profits from the slave trade and slavery were crucial to financing Britain's Industrial Revolution. This is contested by historians who claim the profits were a small fraction of the British economy.
 - **Abolition Motives**: Historians debate whether abolition was primarily driven by humanitarian moralism or by changing economic incentives and imperial strategies.
+
+Source: adapted from "Slavery in Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Slavery_in_Africa

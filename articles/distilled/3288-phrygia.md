@@ -45,3 +45,5 @@ After Alexander, northern Phrygia was overrun by Celts (becoming Galatia), while
 - **Language Relationship:** While Greek is now seen as Phrygian's closest relative, the exact nature of their relationship and the existence of a common proto-language are subjects of ongoing research.
 - **Relation to Armenians:** Herodotus claimed Armenians were Phrygian colonists, but this is contested due to linguistic (Phrygian is centum, Armenian is satem) and archaeological discrepancies.
 - **Ecstatic Cults:** The idea that Phrygia was the origin of ecstatic cults in Greece is now largely rejected by scholars as a Greek and Roman projection onto a perceived "oriental" land.
+
+Source: adapted from "Phrygia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Phrygia

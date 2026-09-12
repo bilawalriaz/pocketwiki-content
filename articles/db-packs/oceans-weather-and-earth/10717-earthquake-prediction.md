@@ -33,3 +33,5 @@ The 1975 Haicheng earthquake (M 7.3) is the most cited "success," yet a 2006 stu
 ## The current picture
 
 Most seismologists treat short-term prediction as unachieved and possibly unachievable. Some hold that prediction might emerge from sustained study of non-seismic precursors, and machine-learning work since 2017 (neural networks predicting aftershock locations, random forests forecasting fault failure from acoustic signals) represents a developing frontier. The decisive evidence against the "intrinsically impossible" claim would be a single reproducible, tightly specified, validated prediction, a demonstration the field has been unable to produce.
+
+Source: adapted from "Earthquake prediction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Earthquake_prediction

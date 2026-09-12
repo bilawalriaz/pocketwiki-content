@@ -44,3 +44,5 @@ The painting has survived for over 500 years in a remarkable state of preservati
 - **Date and Number of Versions**: Scholars debate the exact years of creation (1503–1517) and whether Leonardo painted one or two versions of the portrait.
 - **Landscape Location**: The background landscape has been linked to various Italian regions, including the Montefeltro area and Lecco on Lake Como, but no definitive identification exists.
 - **Intentional Use of Golden Ratio**: While features of the golden ratio are identified in the composition, there is little evidence Leonardo intentionally used it.
+
+Source: adapted from "Mona Lisa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mona_Lisa

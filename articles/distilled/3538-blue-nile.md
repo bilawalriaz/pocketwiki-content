@@ -39,3 +39,5 @@ Control of the Blue Nile has been a key element in Ethiopian-Egyptian relations 
 
 ## Debates and Open Questions
 The primary ongoing debate concerns the filling and operation of the Grand Ethiopian Renaissance Dam. Sudan and Egypt have voiced concerns over potential reductions in their water supply, while Ethiopia views the dam as essential for its economic development. The historical interdependence between Ethiopia and Egypt, where Ethiopia controlled the water source and Egypt held religious authority, is a key context for modern water politics.
+
+Source: adapted from "Blue Nile" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Blue_Nile

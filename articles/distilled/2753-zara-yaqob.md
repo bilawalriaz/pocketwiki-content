@@ -45,3 +45,5 @@ In his later years, Zara Yaqob became increasingly despotic and paranoid, punish
 - The details of Zara Yaqob's early life are disputed. While tradition holds he was raised secretly in Tigray, the scholar Taddesse Tamrat argues this is improbable, noting Zara Yaqob's own writings state he was imprisoned on Mount Gishen until just before his accession.
 - The extent of his literary output is debated. Richard Pankhurst attributes three major works to him, while Edward Ullendorff attributes only two.
 - The long-term success of his appointments of daughters and nieces as provincial governors is noted as unsuccessful in the source, but the specific reasons and consequences are not detailed.
+
+Source: adapted from "Zara Yaqob" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zara_Yaqob

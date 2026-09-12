@@ -66,3 +66,5 @@ Bourdieu is ranked with Foucault, Barthes, and Lacan as a leading French intelle
 - **Public Intellectual Role**: The tension between Bourdieu’s early insistence on sociology as a rigorous, detached science ("martial art") and his later high-profile political activism raises questions about the compatibility of scientific objectivity and political engagement.
 - **Universality of Distinction**: *Distinction*’s findings on taste-class homology are rooted in 1960s–70s France; debate continues on whether the specific mappings (e.g., "legitimate culture" vs. "popular culture") hold in contemporary, globalized, digital media landscapes.
 - **Reflexivity in Practice**: While reflexivity is widely endorsed in principle, there is little consensus on how to operationalize it systematically in research design without paralyzing analysis or falling into infinite regress.
+
+Source: adapted from "Pierre Bourdieu" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pierre_Bourdieu

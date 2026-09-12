@@ -43,3 +43,5 @@ Engineering solved navigation and flood control but created new problems. Sedime
 Agricultural runoff of nitrogen and phosphorus drives a seasonal Gulf of Mexico dead zone where oxygen collapses. A 2015 assessment gave the basin a "D+" grade for aging infrastructure and unresolved environmental problems. Invasive species compound the challenge: Asian carp threaten to enter the Great Lakes through the Chicago Area Waterway System, prompting closure of the Upper St. Anthony Falls Lock in 2015 as a barrier.
 
 The basin supports roughly 375 fish species, the highest diversity in the temperate Northern Hemisphere except for the Yangtze, including relict species such as paddlefish, sturgeon, gar, and bowfin. About 40% of U.S. migratory birds (326 species) use the Mississippi corridor as a flyway, alongside alligators, turtles, and crayfish in the lower reaches.
+
+Source: adapted from "Mississippi River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mississippi_River

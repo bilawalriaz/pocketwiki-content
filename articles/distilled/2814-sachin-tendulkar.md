@@ -49,3 +49,5 @@ Described as a "wholesome batsman," Tendulkar was known for his technical perfec
 - **The "Nervous Nineties":** Tendulkar was dismissed in the 90s 27 times in his career, leading to occasional discussion about a specific mental hurdle during that phase of an innings.
 - **Monkeygate Incident:** During the 2007-08 tour of Australia, Tendulkar's changing testimony in the hearing regarding alleged racist comments by Harbhajan Singh towards Andrew Symonds caused controversy and strained relations with some Australian players.
 - **Post-Retirement Political Career:** His tenure as a nominated Member of Parliament (2012-2018) was criticized for extremely low attendance (8% overall), raising questions about the role of celebrity nominations in politics.
+
+Source: adapted from "Sachin Tendulkar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sachin_Tendulkar

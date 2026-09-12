@@ -45,3 +45,5 @@ Gabon has a population of about 2.3 million, making it one of Africa's least den
 - The fairness of elections under both Omar and Ali Bongo was frequently disputed by opposition groups and some international observers, with allegations of fraud and irregularities.
 - The long-term success of the "Gabon Emergent" program to diversify the economy away from oil is uncertain, given persistent challenges like poor infrastructure and a small domestic market.
 - The political stability of the post-2023 coup transitional government and its promised return to democracy remain open questions.
+
+Source: adapted from "Gabon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gabon

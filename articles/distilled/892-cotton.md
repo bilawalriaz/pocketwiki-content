@@ -69,3 +69,5 @@ Textiles: terrycloth (towels), denim (jeans), cambric (work shirts), corduroy, s
 *   **Subsidy distortion:** Heavy US/EU/China subsidies depress global prices, harming unsubsidized African smallholders; WTO dispute settlement (Brazil case, Cotton-4 initiative) has not fully resolved trade distortions.
 *   **GM vs. Organic trade-offs:** GM cotton reduces insecticide use but raises seed costs, corporate dependency, and gene-flow concerns; organic cotton avoids synthetics but yields are typically lower, requiring more land per unit of fiber.
 *   **Genome complexity:** Sequencing tetraploid cotton (*G. hirsutum*, *G. barbadense*) remains challenging due to duplicated A and D subgenomes; complete high-quality assemblies are recent (post-2014) and essential for precision breeding.
+
+Source: adapted from "Cotton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cotton

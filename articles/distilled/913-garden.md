@@ -49,3 +49,5 @@ Gardening can harm or benefit the environment. Damage includes habitat destructi
 
 ## Debates and Open Questions
 The environmental impact of gardening remains contested, with ongoing debate over the balance between aesthetic preferences and ecological responsibility. Climate change effects on gardens are projected to be predominantly negative, though specific regional impacts vary. The distinction between gardens and farms continues to evolve as urban agriculture and market gardening blur traditional boundaries. Eastern garden traditions, particularly Korean gardens, remain understudied in Western scholarship despite their historical significance.
+
+Source: adapted from "Garden" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Garden

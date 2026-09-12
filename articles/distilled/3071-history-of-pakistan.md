@@ -48,3 +48,5 @@ The British East India Company conquered Sindh (1843) and Punjab (1849), followe
 - The extent and nature of the Indo-Aryan migration into the subcontinent during the Vedic Period is a subject of ongoing scholarly debate.
 - The motivations behind the British decision to advance the date of independence and partition from June 1948 to August 1947 are debated, with factors including the deteriorating law and order situation and Lord Mountbatten's personal timeline.
 - The scale of casualties during the 1947 Partition violence is disputed, with estimates ranging from 200,000 to 2,000,000 deaths.
+
+Source: adapted from "History of Pakistan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Pakistan

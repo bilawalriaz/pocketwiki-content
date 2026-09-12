@@ -45,3 +45,5 @@ By the mid-1970s, premarital sex was widely accepted in the U.S. However, the re
 - Did the revolution primarily benefit men, as some feminist critics like Sheila Jeffreys argue, or did it advance women's sexual autonomy?
 - Scholars debate the timing and nature of earlier "first sexual revolutions," such as during the Christianization of Rome, the Enlightenment, or the Roaring Twenties.
 - The impact and commercialization of pornography during the revolution remain contested, with debates between anti-pornography feminists and pro-sex feminists.
+
+Source: adapted from "Sexual revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sexual_revolution

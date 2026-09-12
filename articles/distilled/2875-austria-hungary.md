@@ -48,3 +48,5 @@ The economy was predominantly rural but modernized after 1867. It developed a si
 - The viability of proposed reforms like "trialism" (adding a South Slav component) as a potential solution to nationalist tensions before the war.
 - The relative responsibility of Austria-Hungary versus other Great Powers in the outbreak of World War I.
 - The long-term impact of the empire's dissolution on the political and ethnic conflicts of 20th-century Central and Eastern Europe.
+
+Source: adapted from "Austria-Hungary" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Austria-Hungary

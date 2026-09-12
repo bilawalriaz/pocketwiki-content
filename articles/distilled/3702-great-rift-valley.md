@@ -34,3 +34,5 @@ The Great Rift Valley/Red Sea flyway is the world's second-most important route 
 
 ## Debates and Open Questions
 The source notes that the term "Great Rift Valley" is now rarely used in geology, where "Afro-Arabian Rift System" is preferred, indicating a disciplinary distinction in terminology. The article also states that in the "broadly rifted zone" south of the Main Ethiopian Rift, the GRV becomes "indistinct," suggesting ongoing geological complexity in defining its exact boundaries.
+
+Source: adapted from "Great Rift Valley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Rift_Valley

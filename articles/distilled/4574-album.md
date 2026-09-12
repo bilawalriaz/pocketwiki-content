@@ -54,3 +54,5 @@ Beyond standard studio and live albums, common types include:
 *   The early 21st century has been described by some observers as experiencing the "death of the album" due to the shift toward single-track digital consumption and streaming.
 *   There are mixed opinions on the merits of posthumous albums, with debates centering on artistic intent versus the desire to hear an artist's unpublished work.
 *   The formal definition of an "album" varies by chart and award organization (e.g., minimum track count or playing time).
+
+Source: adapted from "Album" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Album

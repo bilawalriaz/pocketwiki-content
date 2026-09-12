@@ -45,3 +45,5 @@ Pizarro founded Lima in 1535 as the new capital. The conquest led to the destruc
 - The exact date of Pizarro's birth is uncertain, with sources placing it in the 1470s, probably 1475.
 - The decision to execute Atahualpa after he had paid the ransom remains controversial. Pizarro and Hernando de Soto reportedly opposed it, but Pizarro consented due to pressure from his soldiers, particularly Almagro. King Charles I later expressed displeasure with the execution.
 - The limits of the governorates awarded to Pizarro and Almagro were ambiguously defined, leading directly to their fatal conflict.
+
+Source: adapted from "Francisco Pizarro" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Francisco_Pizarro

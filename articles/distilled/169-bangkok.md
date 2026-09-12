@@ -71,3 +71,5 @@ Bangkok has long been Thailand's education centre, with the country's five oldes
 ## Debates and open questions
 
 The origin of the name "Bangkok" is debated: it may derive from *Bang Ko* ("island village") or *Bang Makok* (after the olive-fruit-bearing plant *Elaeocarpus hygrophilus*). The city faces existential questions about its future: subsidence, flooding, and sea-level rise have prompted calls to move the capital—proposed unsuccessfully during World War II to Phetchabun, studied for Nakhon Nayok in the 2000s, and for Chachoengsao in 2017. There are fears the city may be submerged by 2030, though a 2019 *Nature Communications* study corrected earlier elevation models and concluded up to 12 million Thais face annual flooding. The balance between development and preserving the city's character—evident in the street vendor crackdown—remains contested.
+
+Source: adapted from "Bangkok" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bangkok

@@ -29,3 +29,5 @@ Average seasonal **primary productivity**, the rate at which phytoplankton conve
 ## Human History
 
 The sea's geography has shaped human prehistory. During the last glacial period, lowered sea levels exposed the Bering land bridge, a land connection between Asia and North America, allowing the migration of humans and animals between the continents; this route is accepted by most, though not all, scientists as the first entry point for people into the Americas. In 1728 the Danish-born Russian navigator Vitus Bering became the first European to systematically explore the sea, and on 18 December 2018 a large meteor exploded above it at an altitude of 25.6 km, releasing 49 kilotons of energy.
+
+Source: adapted from "Bering Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bering_Sea

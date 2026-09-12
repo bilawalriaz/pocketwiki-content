@@ -47,3 +47,5 @@ Sendai's most famous festival is the Tanabata Festival, the largest in Japan, he
 ## Debates and Open Questions
 - The origin of *robatayaki* (Japanese-style barbecue) is debated; while it originated in Sendai, it was later popularized and developed in Kushiro, Hokkaido, leading many to associate it with that city.
 - The 2005 Miyagi earthquake (magnitude 7.2) was initially studied to see if it was the long-expected "Miyagi Oki earthquake." The Headquarters for Earthquake Research Promotion concluded it was not, as its magnitude was too small and its source area did not cover the entire expected region.
+
+Source: adapted from "Sendai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sendai

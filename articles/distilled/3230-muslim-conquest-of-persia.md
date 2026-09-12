@@ -40,3 +40,5 @@ Under the Rashidun Caliphate, the administrative system of the late Sasanian per
 - **Timeline of the Conquest**: Pourshariati argues the Arab conquest of Mesopotamia began between 628 and 632, during the Sasanian civil war, contradicting the traditional view that it started after 632.
 - **Nature of the Sasanian State**: Pourshariati's thesis that the Sasanian Empire was a decentralized confederation with the Parthians, whose withdrawal caused its collapse, challenges the traditional view of a centralized monarchy.
 - **Muhammad's Letter to Khosrow II**: The traditional account that the prophet Muhammad sent a letter to Khosrow II inviting him to Islam is disputed by some modern historians as unlikely given the Sasanian court's complexity.
+
+Source: adapted from "Muslim conquest of Persia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia

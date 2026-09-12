@@ -44,3 +44,5 @@ Bismarck's authority was undermined by the accession of the young, ambitious Kai
 *   **Annexation of Alsace-Lorraine:** Scholars question whether Bismarck willingly annexed the territories to create a permanent buffer or was pressured into it by German military and public opinion.
 *   **Colonial Motives:** The exact reasons for his sudden reversal and acquisition of colonies in the 1880s are debated, with theories ranging from domestic political maneuvering to responding to elite and popular pressure.
 *   **Legacy for the 20th Century:** Historians like Henry Kissinger argue that Bismarck's undermining of liberalism and reliance on personal rule created a fragile political system that contributed to the rise of extremism after his death.
+
+Source: adapted from "Otto von Bismarck" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Otto_von_Bismarck

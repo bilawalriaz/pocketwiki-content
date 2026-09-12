@@ -52,3 +52,5 @@ Astana is home to several universities, including the L.N. Gumilyov Eurasian Nat
 ## Debates and open questions
 - The etymology of the city's original name, Akmola ("white grave" or "white tomb"), is noted as a theory that is "not universally accepted."
 - The decision to move the capital from Almaty was based on several stated advantages, but the long-term socio-economic impacts of this massive relocation continue to unfold.
+
+Source: adapted from "Astana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astana

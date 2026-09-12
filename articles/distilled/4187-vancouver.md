@@ -46,3 +46,5 @@ Vancouver is governed under a unique charter and has a political landscape that 
 - **Housing Affordability**: Vancouver is consistently ranked as one of the most expensive cities in the world, with ongoing debates about causes (e.g., foreign investment, "snow washing") and solutions (e.g., increased density, cooperative housing).
 - **Media Ownership**: There is concern about the concentration of media ownership, with major newspapers owned by Postmedia Network, which has spurred the growth of independent online media alternatives.
 - **Economic Future**: Since the COVID-19 pandemic, some economists have warned of a potential long-term "economic doom loop" for Vancouver, drawing comparisons to the decline of San Francisco.
+
+Source: adapted from "Vancouver" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vancouver

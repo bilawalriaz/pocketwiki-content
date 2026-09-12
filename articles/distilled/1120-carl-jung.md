@@ -54,3 +54,5 @@ Jung held professorships, traveled widely, and continued publishing into his fin
 
 ## Debates and Open Questions  
 Jung’s legacy is contested. Critics question the empirical validity of archetypes and the collective unconscious, while defenders argue they offer valuable insights into human symbolism and myth. His views on race, particularly the "Aryan unconscious" remarks, have sparked debate about whether they reflect genuine prejudice or misunderstood context. The authenticity of his relationship with Sabina Spielrein and his alleged Nazi sympathies remain topics of scholarly scrutiny. Additionally, the interpretation of his *Red Book* and its role in shaping his theories continues to evolve with ongoing research.
+
+Source: adapted from "Carl Jung" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_Jung

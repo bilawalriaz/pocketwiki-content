@@ -41,3 +41,5 @@ Marcus wrote his *Meditations* in Greek during his later campaigns as a personal
 *   **Succession to Commodus:** Historians debate whether Marcus Aurelius's decision to succeed him with his biological son, Commodus, was a tragic mistake that ended the era of the "Five Good Emperors" or an unavoidable choice to prevent civil war.
 *   **Persecution of Christians:** The extent of Marcus Aurelius's personal involvement in or awareness of increased Christian persecutions during his reign is unclear and debated, as he is not directly blamed in contemporary Christian sources.
 *   **The "Rain Miracle":** A letter attributed to Marcus Aurelius crediting Christian prayer for a battlefield victory is widely considered inauthentic by modern scholars, who attribute the event to other causes in non-Christian sources.
+
+Source: adapted from "Marcus Aurelius" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marcus_Aurelius

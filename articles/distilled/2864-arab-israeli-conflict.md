@@ -55,3 +55,5 @@ The Abraham Accords (2020) normalized relations between Israel and several Arab 
 - **Responsibility for ongoing conflict**: Disagreements persist over the roles of occupation, settlement expansion, security concerns, and political leadership on both sides.
 - **Two-state solution viability**: Scholars question whether a separate Palestinian state remains feasible given current political and territorial realities.
 - **Role of external powers**: The influence of the U.S., Soviet Union/Russia, and regional actors like Iran and Saudi Arabia is continually assessed.
+
+Source: adapted from "Arab–Israeli conflict" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict

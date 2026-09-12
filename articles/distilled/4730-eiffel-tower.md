@@ -44,3 +44,5 @@ Originally intended to stand for 20 years, the tower was saved by its utility fo
 - The original artistic controversy: Was the tower a "monstrous" blot on the Parisian skyline or a masterpiece of modern engineering? This debate reflected a broader conflict between traditional architecture and industrial engineering.
 - The tower's financing: A portion of the construction funds came from loans to Haiti connected to a controversial indemnity, raising questions about the ethical foundations of the monument.
 - Copyright of the illuminated tower: The operating company claims copyright over nighttime lighting displays, making commercial use of such images potentially illegal, a claim that remains legally untested and controversial.
+
+Source: adapted from "Eiffel Tower" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eiffel_Tower

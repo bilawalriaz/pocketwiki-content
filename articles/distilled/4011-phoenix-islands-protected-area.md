@@ -36,3 +36,5 @@ A key threat is the introduction of iron from shipwrecks and anchor gear into th
 
 ## Debates and Open Questions
 The primary debate centers on the conflict between conservation and economic development. The 2015 fishing ban was criticized by some for allowing too much fishing prior to full closure. The 2021 government decision to terminate the protected area to boost tuna fishing directly pits short-term economic gains against long-term ecological preservation. The effectiveness of the PIPA Trust and the future of its conservation goals under the new fishing regime remain open questions.
+
+Source: adapted from "Phoenix Islands Protected Area" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Phoenix_Islands_Protected_Area

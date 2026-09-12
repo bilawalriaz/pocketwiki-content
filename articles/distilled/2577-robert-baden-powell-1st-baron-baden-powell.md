@@ -45,3 +45,5 @@ Baden-Powell retired from the army in 1910 to lead the Scout Association. He mar
 - **Political Views**: Biographers and historians analyze his political leanings, noting his distrust of communism and some comments that have been interpreted as naive support for fascism, though this is contested.
 - **Sexuality**: Some biographers, notably Tim Jeal, have suggested Baden-Powell was a repressed homosexual, based on his relationships and views. This conclusion is dismissed by other scholars as unsubstantiated "amateur psychoanalysis."
 - **Statue Controversy**: In 2020, a statue of Baden-Powell in Poole, UK, was temporarily boarded up due to fears it could be targeted by protestors who perceived him as holding homophobic and racist views, sparking public debate about his legacy.
+
+Source: adapted from "Robert Baden-Powell, 1st Baron Baden-Powell" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Baden-Powell%2C_1st_Baron_Baden-Powell

@@ -69,3 +69,5 @@ Brahms directly influenced his circle (Herzogenberg, Fuchs, Röntgen) and sole p
 - **Programmatic allusions in absolute music**: Despite rejecting *Gesamtkunstwerk*, Brahms embedded cryptic references (Beethoven, Bach, Clara's cryptograms, Minnesang, possible Wagner allusions in Symphony No. 3). The extent and intent of these "hidden programs" are debated.
 - **Religious stance in *A German Requiem***: Brahms selected Luther Bible texts avoiding Christian dogma (rejecting John 3:16), stating he would replace "German" with "Human." Scholars debate whether this reflects agnosticism, humanism, or a universalist spirituality.
 - **Influence on Second Viennese School**: Schoenberg's "Brahms the Progressive" is acknowledged as partly polemical/self-serving. The precise lineage—via Zemlinsky, developing variation, and passacaglia technique—remains a musicological focus.
+
+Source: adapted from "Johannes Brahms" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johannes_Brahms

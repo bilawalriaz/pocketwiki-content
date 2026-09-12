@@ -52,3 +52,5 @@ Gravitational wave astronomy, initiated by LIGO in 2016, opens new probes of bla
 - **Cosmic inflation vs. alternatives:** Inflation is widely accepted but unconfirmed; string theory and brane cosmology offer alternatives.
 - **Fate of the universe:** Will expansion continue indefinitely (Big Freeze), accelerate into a Big Rip, or reverse?
 - **Validity of general relativity on cosmic scales:** Some propose modified gravity (e.g., MOND) to explain observations without dark matter.
+
+Source: adapted from "Physical cosmology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Physical_cosmology

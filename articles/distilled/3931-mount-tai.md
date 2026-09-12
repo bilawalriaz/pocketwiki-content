@@ -35,3 +35,5 @@ Mount Tai is central to Chinese religion, hosting deities like the Dongyue Emper
 ## Debates and Open questions
 - The exact date of the first recorded earthquake at Mount Tai is debated, with sources citing either 1831 BC or 1652 BC.
 - The purpose of the Wordless Stele (Wúzì Bēi) is uncertain; theories suggest the inscription was either intentionally left blank or eroded by weather.
+
+Source: adapted from "Mount Tai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mount_Tai

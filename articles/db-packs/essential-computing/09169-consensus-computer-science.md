@@ -39,3 +39,5 @@ Traditional consensus algorithms such as **Paxos** and **Raft** assume a fixed, 
 ## Where consensus shows up
 
 Google's Chubby lock service builds high availability on a Paxos-backed replicated log, so a small set of files representing locks survives failures. Many peer-to-peer real-time strategy games run a lockstep protocol in which every action is broadcast with a hash of the new game state; if hashes disagree, players in the minority are desynced and removed. In control theory, **MSR-type** algorithms reach agreement among UAVs and other multi-agent systems under noise and faults. The solvable thresholds differ sharply across these settings: `n > 3f` for classical oral Byzantine protocols, `n > f+1` when signatures are available, and no deterministic solution in fully asynchronous systems with even one crash.
+
+Source: adapted from "Consensus (computer science)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Consensus_%28computer_science%29

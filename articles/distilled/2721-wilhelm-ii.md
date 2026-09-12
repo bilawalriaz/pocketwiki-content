@@ -46,3 +46,5 @@ In exile at Huis Doorn, Wilhelm wrote his memoirs, hunted extensively, and follo
 *   **Degree of Personal Rule:** Historians debate the extent of Wilhelm's "personal rule" versus the influence of his chancellors and the military bureaucracy.
 *   **Responsibility for World War I:** The "Bismarck myth" argues that dismissing Bismarck destroyed the balance of power and made war inevitable. Others, like historian Modris Eksteins, contend Bismarck's dismissal was overdue and that his policies had already left Germany divided and isolated.
 *   **Impact of Personality:** Scholars emphasize how Wilhelm's unstable personality—marked by insecurity, impulsiveness, and a love-hate relationship with Britain—directly shaped his erratic and damaging foreign policy.
+
+Source: adapted from "Wilhelm II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wilhelm_II

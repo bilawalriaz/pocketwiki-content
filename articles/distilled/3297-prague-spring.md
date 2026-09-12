@@ -39,3 +39,5 @@ Following the invasion, a period of "normalization" began under Gustáv Husák. 
 - The extent of internal Czechoslovak complicity in the invasion remains debated. While the official KSČ stance was that no leadership member invited intervention, later evidence suggests conservative party members sent a request to the Soviets.
 - The long-term legacy of the Prague Spring is contested. It is remembered both as a symbol of crushed hope and as a vital cultural and intellectual renewal that prefigured the end of communism.
 - The memory of the event is conflicted in modern Czech and Slovak societies, sometimes viewed as a painful defeat and at other times as a necessary precursor to freedom.
+
+Source: adapted from "Prague Spring" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prague_Spring

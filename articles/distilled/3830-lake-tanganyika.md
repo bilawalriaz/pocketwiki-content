@@ -42,3 +42,5 @@ The lake supports a major fishery providing 25–60% of the animal protein for t
 - The precise historical patterns of the lake's inflows and outflows are debated, with proposals that it once had connections to Lake Rukwa, Lake Malawi, or the Nile.
 - The taxonomic classification of Tanganyika's cichlids is debated, with proposals to split them into 12–16 tribes rather than the more commonly cited 5–10.
 - The survival mechanisms of certain deep-water cichlid genera in virtually anoxic zones are unclear.
+
+Source: adapted from "Lake Tanganyika" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Tanganyika

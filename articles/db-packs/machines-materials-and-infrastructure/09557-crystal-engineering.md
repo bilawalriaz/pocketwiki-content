@@ -29,3 +29,5 @@ The same interactions that govern packing also govern function. Strong hydrogen 
 ## Characterisation
 
 X-ray diffraction gives atomic positions from the diffraction pattern produced when X-rays scatter off a crystal's lattice. Microscopy reveals dislocations and grain boundaries. Calorimetric methods such as differential scanning calorimetry track the enthalpy and entropy changes of melting and fusion, from which lattice energy and percent crystallinity are extracted. Raman spectroscopy probes vibrational modes to identify which bonds and intermolecular contacts are present, and Hirshfeld surfaces offer a quantitative fingerprint of intermolecular contacts.
+
+Source: adapted from "Crystal engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Crystal_engineering

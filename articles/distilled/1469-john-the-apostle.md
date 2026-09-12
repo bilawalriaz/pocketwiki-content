@@ -66,3 +66,5 @@ John is depicted in two distinct modes: as a beardless youth (common in Western 
 5.  **Date and Place of Death:** Natural death at Ephesus c. 100 AD (majority tradition) vs. martyrdom by Jews (Papias tradition) vs. non-death/translation (LDS, medieval "sleeping" legends).
 6.  **Identity of John the Elder:** Is he a distinct historical figure from the Apostle, the author of 2–3 John, the seer of Revelation, or a conflation of these?
 7.  **Reliability of Extrabiblical Legends:** Boiling oil (Tertullian), Cerinthus bathhouse (Irenaeus), manna miracle (Augustine, Muntaner)—historical kernels or hagiographic embellishment?
+
+Source: adapted from "John the Apostle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_the_Apostle

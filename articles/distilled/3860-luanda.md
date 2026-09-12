@@ -50,3 +50,5 @@ Luanda's economy is dominated by the oil industry, though it has a manufacturing
 - The source notes that the slave trade involved "local merchants and warriors who profited," indicating a complex internal dynamic beyond simple victimization.
 - The city's future is tied to climate change vulnerability. Projections for sea-level rise and associated damages vary widely based on emission scenarios (RCP 4.5 vs. RCP 8.5) and potential ice sheet instability, with costs potentially reaching hundreds of billions of dollars.
 - The effectiveness of government efforts to overcome poverty through job creation and housing is an ongoing challenge, given the scale of inequality and infrastructure deficits.
+
+Source: adapted from "Luanda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Luanda

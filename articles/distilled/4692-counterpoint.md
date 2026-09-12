@@ -37,3 +37,5 @@ Theorized by Charles Seeger, dissonant counterpoint reverses traditional rules, 
 
 ## Debates and Open Questions
 Scholars debate the origins and precise rules of counterpoint. For example, while Fux's rules are seminal, later theorists introduced small modifications. The application of counterpoint principles to non-Western and microtonal music is an area of ongoing theoretical extension, as seen in the work of Octavio Agustín. The balance between strict linear independence and harmonic effect remains a central aesthetic consideration in compositional practice.
+
+Source: adapted from "Counterpoint" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Counterpoint

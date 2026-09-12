@@ -48,3 +48,5 @@ Grand Canyon National Park attracts about five million visitors annually. The So
 - **Groundwater Contamination Risk:** Research is ongoing to map vulnerability regions for the aquifers, with about half of the Kaibab Plateau's surface associated with high vulnerability for the C-aquifer.
 - **Ecosystem Restoration:** The effectiveness of Glen Canyon Dam's "adaptive management" and High-Flow Experiments in restoring native species and sandbars is continually monitored and debated.
 - **Water Sustainability:** The long-term sustainability of the South Rim's water supply, sourced via the Transcanyon Pipeline from the North Rim, is in question due to increasing visitation and climate change impacts on aquifer recharge.
+
+Source: adapted from "Grand Canyon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Grand_Canyon

@@ -21,3 +21,5 @@ The SEP was initially developed with U.S. public funding from the National Endow
 ## The logo
 
 The SEP logo renders the letters "SEP" in the shape of Rodin's sculpture *The Thinker*. An original cast of the sculpture is co-owned by Stanford and appears across the university's wider iconography.
+
+Source: adapted from "Stanford Encyclopedia of Philosophy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy

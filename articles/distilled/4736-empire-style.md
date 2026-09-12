@@ -35,3 +35,5 @@ Empire ornamentation was governed by strict symmetry. Common motifs included imp
 
 ## Debates and Open Questions
 The source does not present explicit scholarly debates, but it notes that the Empire style's life span is debated, lasting officially until 1815 but continuing in use until the late 1820s. Its adaptation into various national styles (e.g., Karl Johan, Biedermeier, Regency) also implies ongoing discussion about its precise influence and regional variations.
+
+Source: adapted from "Empire style" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Empire_style

@@ -54,3 +54,5 @@ Run-DMC transformed hip-hop musically, aesthetically, and commercially. Musicall
 - **Creative direction conflict (Simmons vs. McDaniels):** The friction during *Crown Royal* (2001) reflected a fundamental split: Simmons favored the group’s signature aggressive rap-rock; McDaniels sought introspective, singer-songwriter-inspired material. This tension arguably prevented further group recordings after 2001.
 - **Def Jam association misconception:** Despite being managed by Russell Simmons, produced by Rick Rubin, and touring with Def Jam acts, Run-DMC remained signed to Profile Records throughout their career. The source notes this is a "common misconception."
 - **Biopic development:** A film written by Cheo Hodari Coker was announced in 2009 but never entered production; reasons are unspecified in the source.
+
+Source: adapted from "Run-DMC" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Run-DMC

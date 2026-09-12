@@ -38,3 +38,5 @@ The civilization collapsed around 1200–1050 BC in a series of destructions, le
 - **Collapse**: There is no consensus on the primary cause of the Bronze Age collapse; it likely involved a combination of invasions, internal strife, and environmental factors.
 - **Political Structure**: Whether a single "Great King" ruled a unified Mycenaean state or if the palaces were independent but allied is unclear from the fragmentary Linear B records.
 - **Gender Roles**: The extent of women's social and economic autonomy, particularly outside religious roles, is debated based on limited textual and archaeological evidence.
+
+Source: adapted from "Mycenaean Greece" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mycenaean_Greece

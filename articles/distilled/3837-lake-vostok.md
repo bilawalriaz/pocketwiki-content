@@ -46,3 +46,5 @@ Analysis of accretion ice (ice formed from lake water) has yielded conflicting b
 - **Drilling Methodology:** There is significant disagreement over the environmental safety of using kerosene and Freon versus alternative methods like hot-water drilling.
 - **Connectivity of Subglacial Lakes:** It is hypothesized that Lake Vostok and other subglacial lakes may be interconnected by a network of rivers, which has implications for their ecology and the impact of drilling.
 - **Astrobiological Implications:** If confirmed, life in Lake Vostok would strongly support the possibility of life in similar environments on icy moons in our solar system.
+
+Source: adapted from "Lake Vostok" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Vostok

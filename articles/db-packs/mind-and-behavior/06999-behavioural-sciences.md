@@ -25,3 +25,5 @@ Applied behavioural science exploits known cognitive biases, heuristics, and dec
 - Robert Sapolsky: stress physiology, primate behaviour, and neuroendocrinology.
 
 Behavioural science's distinctive value lies in tracing behaviour continuously from neural mechanisms to real-world decisions, then turning that understanding into interventions that measurably shift how people act.
+
+Source: adapted from "Behavioural sciences" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Behavioural_sciences

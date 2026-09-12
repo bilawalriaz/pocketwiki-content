@@ -73,3 +73,5 @@ Potatoes feature in global cuisines—from Peruvian chuño to British fish and c
 - **GM acceptance**: Despite regulatory approval and agronomic benefits, public resistance to GM potatoes remains high in the U.S. and EU, limiting commercial deployment.
 - **Climate adaptation efficacy**: While shifting cultivation to cooler regions may offset some losses, competition for land and water resources poses unresolved challenges.
 - **Nutritional classification**: UK NHS excludes potatoes from 5-A-Day recommendations despite their nutritional value, reflecting ongoing dietary guideline debates.
+
+Source: adapted from "Potato" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Potato

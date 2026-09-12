@@ -65,3 +65,5 @@ Berkeley’s ideas profoundly influenced later philosophers, including Hume and 
 - **Calculus Critique**: Modern interpretations suggest Berkeley misunderstood Leibnizian calculus; nonetheless, his concerns contributed to later formalizations by Cauchy and Weierstrass.
 - **Political Philosophy**: Berkeley’s defense of passive obedience clashes with emerging liberal democratic ideals, prompting debate over the compatibility of divine-right theory with secular governance.
 - **Legacy of Slavery**: Recent reassessments highlight Berkeley’s ownership of enslaved people and defense of slavery, complicating his moral and intellectual legacy.
+
+Source: adapted from "George Berkeley" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_Berkeley

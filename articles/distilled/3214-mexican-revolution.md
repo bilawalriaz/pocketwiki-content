@@ -49,3 +49,5 @@ Emiliano Zapata led the southern revolution from Morelos. His peasant army focus
 *   **Was it a true revolution?** Some argue it was a series of regional conflicts, not a unified social revolution.
 *   **The role of foreign powers:** U.S. involvement is documented, but influence from Germany and Britain is studied.
 *   **Historical memory:** Popular heroes (Villa, Zapata) often differ from the official post-revolutionary narrative.
+
+Source: adapted from "Mexican Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mexican_Revolution

@@ -42,3 +42,5 @@ Pagan literature had a final flourish in the 3rd–5th centuries. Christian writ
 
 ## Debates and Open Questions
 The traditional dating of the "Golden Age" (81 BC–AD 17) is questioned by recent scholarship, which challenges the assumption that works from this period are inherently superior to those from earlier or later eras. The completeness and authorship of some major works, like Virgil's *Aeneid* (which he left unfinished), are subjects of ongoing scholarly discussion.
+
+Source: adapted from "Latin literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Latin_literature

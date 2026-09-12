@@ -39,3 +39,5 @@ Pombal ordered a systematic inquiry, sending questionnaires to parishes across P
 - The exact location of the earthquake's epicenter remains a subject of debate among seismologists and geologists.
 - The precise death toll is uncertain due to vague contemporary reports and the difficulty of separating casualties from a subsequent earthquake series on 18–19 November.
 - The long-term philosophical impact is analyzed differently; for example, Werner Hamacher argues it shook the foundational certainty of Western philosophy.
+
+Source: adapted from "1755 Lisbon earthquake" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/1755_Lisbon_earthquake

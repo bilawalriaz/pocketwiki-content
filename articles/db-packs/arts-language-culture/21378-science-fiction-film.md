@@ -37,3 +37,5 @@ Science fiction offers a remote vantage for discussing sensitive issues without 
 ## Influence of science fiction authors
 
 Jules Verne (1828-1905) was the first major author adapted to screen, beginning with Méliès's 1902 Moon film. H. G. Wells, Arthur C. Clarke, Ray Bradbury, Kurt Vonnegut, and especially Philip K. Dick have supplied source material; Dick's paranoid fiction fed *Blade Runner*, *Total Recall*, *Minority Report*, and *The Adjustment Bureau*. Clarke's third law, "any sufficiently advanced technology is indistinguishable from magic," captures why so much screen technology, from communicators as smartphones to gesture recognition and autonomous cars, was once fictional.
+
+Source: adapted from "Science fiction film" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Science_fiction_film

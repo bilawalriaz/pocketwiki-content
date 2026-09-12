@@ -47,3 +47,5 @@ The simplex occupies a thin $(n-1)$-dimensional slice of the $n$-dimensional uni
 $$V_{n-1} = \frac{\sqrt{n}}{(n-1)!},$$
 
 obtained by taking $e_n$ as a base point, forming edge vectors $v_i = e_i - e_n$, and computing the Gram matrix $G_{ij} = v_i \cdot v_j$ with determinant $n$, then dividing the parallelepiped content $\sqrt{\det G}$ by $(n-1)!$. Because $V_{n-1}$ shrinks factorially as $n$ grows while the enclosing unit hypercube keeps unit volume, the fraction of the hypercube occupied by the simplex becomes super-exponentially small in high dimensions.
+
+Source: adapted from "Probability vector" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Probability_vector

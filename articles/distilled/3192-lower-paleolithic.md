@@ -37,3 +37,5 @@ By about 600,000 years ago, *Homo heidelbergensis* appeared, potentially develop
 - Whether the earliest control of fire by hominins dates to the Lower or Middle Paleolithic remains an open question.
 - The exact hominin species responsible for the Lomekwian tools (3.3 million years ago) is not definitively known.
 - The relationship between *Homo heidelbergensis*, Neanderthals, and *Homo sapiens* is debated, with some evidence suggesting Neanderthals evolved from *H. erectus* or *H. heidelbergensis*.
+
+Source: adapted from "Lower Paleolithic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lower_Paleolithic

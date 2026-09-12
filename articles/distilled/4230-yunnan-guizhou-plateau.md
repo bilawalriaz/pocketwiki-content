@@ -36,3 +36,5 @@ The plateau has historically been home to many minority peoples. Today, it is on
 
 ## Debates and Open Questions
 The source notes a common discrepancy in the plateau's definition: while the strict definition is geographically precise, the term "Yunnan–Guizhou Plateau" is often used more broadly to refer to surrounding highland areas that lack plateau-like characteristics.
+
+Source: adapted from "Yunnan–Guizhou Plateau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yunnan%E2%80%93Guizhou_Plateau

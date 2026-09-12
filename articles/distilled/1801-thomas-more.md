@@ -45,3 +45,5 @@ After refusing the 1534 Oath of Supremacy, More was imprisoned. At his trial, he
 *   **Torture Allegations:** Stories of More personally torturing heretics, popularized by John Foxe's *Book of Martyrs*, are largely doubted by modern historians like Diarmaid MacCulloch, who find no independent proof.
 *   **The Nature of *Utopia*:** Scholars question whether More's description of an ideal society was a sincere proposal, a satirical critique, or a complex blend of both. The name itself (Greek for "no place") suggests irony.
 *   **Conscience vs. Loyalty:** More's life is often framed as a conflict between his duty to the state and his duty to God. His resignation and silent refusal to swear the oath highlight this tension, which remains a central theme in his legacy.
+
+Source: adapted from "Thomas More" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_More

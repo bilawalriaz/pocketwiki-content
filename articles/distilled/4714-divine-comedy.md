@@ -45,3 +45,5 @@ The poem is a synthesis of classical, Christian, and Islamic thought. Dante's pr
 - **Letter to Cangrande**: The authenticity of this letter, in which Dante allegedly explains how to read the poem, is disputed.
 - **Original Manuscript**: No original manuscript written by Dante has survived, though hundreds of 14th and 15th-century copies exist.
 - **Title's Adjective**: The adjective "Divina" was not part of Dante's original title (*Comedìa*) and was added later, likely by Boccaccio, to denote the poem's profound subject.
+
+Source: adapted from "Divine Comedy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Divine_Comedy

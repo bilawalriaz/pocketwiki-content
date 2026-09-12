@@ -40,3 +40,5 @@ Governments worldwide deployed massive bailouts and stimulus. In the U.S., the T
 
 ## Debates and Open Questions
 Scholars and official reports disagree on the primary cause of the crisis. The majority report of the U.S. Financial Crisis Inquiry Commission (FCIC) blamed "widespread failures in financial regulation and supervision," corporate governance, and risky behavior by financial institutions. A dissenting view, notably from FCIC member Peter Wallison, argued that government affordable housing policies and the actions of Fannie Mae and Freddie Mac were the primary drivers. Other analyses point to the role of global capital flows, the "paradox of deleveraging," or systemic flaws in capitalism itself. The effectiveness of the post-crisis regulations, like Dodd-Frank (which was partially weakened in 2018), and whether the "too big to fail" problem has been solved remain open questions.
+
+Source: adapted from "2008 financial crisis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/2008_financial_crisis

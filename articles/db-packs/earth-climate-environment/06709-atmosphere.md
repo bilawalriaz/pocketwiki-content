@@ -44,3 +44,5 @@ Three processes shrink an atmosphere over time. Thermal escape leaks the high-ve
 ## Why atmospheres matter
 
 An atmosphere redistributes heat from equator to pole, allows liquid water to exist at the surface, shields the surface from meteoroids and radiation, and drives weathering and erosion that resurface a planet. Without one, every impact leaves its crater and no liquid can persist. Atmospheric composition is the main remote signature of life: biosignatures such as Earth's oxygen-methane disequilibrium are what telescopes read off exoplanets using transit spectroscopy, a method that first detected sodium in the atmosphere of HD 209458 b in 2002.
+
+Source: adapted from "Atmosphere" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atmosphere

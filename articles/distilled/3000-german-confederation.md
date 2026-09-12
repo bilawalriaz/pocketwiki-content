@@ -42,3 +42,5 @@ Rivalry between Austria and Prussia intensified after 1859. The decisive Austro-
 - Historians debate whether the Confederation was a loose association of states (*Staatenbund*) or had elements of a true federal state (*Bundesstaat*). Its law was superior to state law, and membership was permanent, suggesting more than a loose tie.
 - The Confederation's weakness is often seen as intentional, designed by conservative powers like Austria to prevent the emergence of a liberal, nationalist German nation-state that could threaten the European balance of power.
 - The role of the Zollverein is debated: while it strengthened Prussia and fostered economic unity, some argue its primary goal was to enhance Prussian power and diminish Austrian influence, rather than to promote German nationalism directly.
+
+Source: adapted from "German Confederation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/German_Confederation

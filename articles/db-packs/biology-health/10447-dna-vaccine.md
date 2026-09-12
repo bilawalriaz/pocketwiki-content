@@ -38,3 +38,5 @@ Disadvantages include limited effectiveness for non-protein antigens such as bac
 Because DNA vaccines alone often produce modest responses in humans, researchers combine a DNA prime with a recombinant viral boost, such as a poxvirus or canarypox vector. This approach achieved partial protection against *Plasmodium knowlesi* malaria in rhesus monkeys, with higher antibody levels, CTL activity, and IFN-γ secretion than DNA-only regimens. A trial in chronic hepatitis B carriers found that a DNA vaccine encoding HBV envelope proteins induced specific IFN-γ-producing T cells, but the response was too weak to control the established infection.
 
 Most immunostimulatory CpG data comes from murine studies and may not transfer directly to humans or livestock; ruminants show reduced sensitivity, likely because of their large gastrointestinal microbial load.
+
+Source: adapted from "DNA vaccine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/DNA_vaccine

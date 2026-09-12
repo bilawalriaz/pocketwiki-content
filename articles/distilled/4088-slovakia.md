@@ -44,3 +44,5 @@ Since independence, Slovakia has transitioned to a market economy and integrated
 - The exact borders and territorial extent of Great Moravia under King Svätopluk I remain disputed by modern historians.
 - The precise date of Great Moravia's collapse is debated, with some historians placing it at 902 and others at 907.
 - Slovakia's current political direction is a subject of debate, with concerns raised about democratic backsliding, corruption, and its pro-Russia stance under the Fico government, contrasted with its EU and NATO commitments.
+
+Source: adapted from "Slovakia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Slovakia

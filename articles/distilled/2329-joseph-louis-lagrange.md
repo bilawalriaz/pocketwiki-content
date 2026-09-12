@@ -43,3 +43,5 @@ Lagrange moved to Paris in 1787, where he initially fell into a depression. The 
 - The source notes a "chivalric view" that Euler withheld a paper to let Lagrange claim priority in the calculus of variations, but states this "has been disputed."
 - Lagrange's algebraic proof of Taylor's theorem in *Théorie des fonctions analytiques* is noted as having "validity... open to question."
 - His lectures at the École Polytechnique were described as "almost perfect in form and matter," yet he was considered an unsuccessful teacher with students unable to appreciate him.
+
+Source: adapted from "Joseph-Louis Lagrange" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange

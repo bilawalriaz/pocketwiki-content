@@ -37,3 +37,5 @@ To come back, a craft must lose most of its orbital speed. Crewed vehicles fire 
 ## A short history
 
 Sputnik 1, launched by the Soviet Union on 4 October 1957, was the first human-made object to reach orbit. The first human to do so was Yuri Gagarin aboard Vostok 1 on 12 April 1961, followed by Valentina Tereshkova aboard Vostok 6 on 16 June 1963, the first woman in orbit. Crew Dragon Demo-2, launched on 30 May 2020 by SpaceX and the United States, was the first crewed orbital flight operated by a private company. Nine orbital crewed spacecraft programmes have flown, from Vostok (1961–1963) to Crew Dragon (2020 onward), for a combined 333 launches.
+
+Source: adapted from "Orbital spaceflight" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Orbital_spaceflight

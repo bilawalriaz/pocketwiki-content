@@ -51,3 +51,5 @@ Post-war decolonization led to the island's current political division. The sout
 - The extent of pre-colonial political control by the Sultanates of Brunei and Sulu over Borneo's interior is unclear.
 - The Philippine claim to Sabah, based on the inheritance of the Sultanate of Sulu's territorial rights, remains a point of diplomatic contention.
 - The long-term ecological and social impacts of large-scale deforestation and the relocation of Indonesia's capital to the island are subjects of ongoing concern and study.
+
+Source: adapted from "Borneo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Borneo

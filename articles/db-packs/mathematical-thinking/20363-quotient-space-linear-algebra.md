@@ -43,3 +43,5 @@ is well-defined and an isomorphism. In finite dimensions this gives the rank–n
 ## Quotients of Banach and Hilbert spaces
 
 If X is a Banach space, a complete normed vector space, and M is a closed subspace, X/M inherits a Banach space structure with norm ‖[x]‖_{X/M} = inf_{m ∈ M} ‖x − m‖_X. A concrete instance: C[0,1], the continuous real-valued functions on [0,1] with the sup norm, modulo the closed subspace M = {f : f(0) = 0} is isomorphic to ℝ, because two functions are equivalent exactly when they share the value at 0. If X is a Hilbert space, then X/M is isomorphic to the orthogonal complement of M.
+
+Source: adapted from "Quotient space (linear algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Quotient_space_%28linear_algebra%29

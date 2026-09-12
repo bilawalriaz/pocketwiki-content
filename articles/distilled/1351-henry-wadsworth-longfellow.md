@@ -51,3 +51,5 @@ Longfellow achieved unprecedented popularity during his lifetime, with his works
 
 ## Debates and Open Questions  
 Scholars debate whether Longfellow’s popularity reflected genuine artistic merit or merely public taste for sentimental verse. His critics argue he lacked innovation compared to contemporaries like Whitman, while defenders highlight his influence on American culture and his mastery of form. The extent to which his personal tragedies shaped his poetry remains contested, especially regarding the emotional depth of his elegiac works. Additionally, the motivations behind Poe’s attacks—whether personal rivalry or calculated publicity—are still discussed among literary historians.
+
+Source: adapted from "Henry Wadsworth Longfellow" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow

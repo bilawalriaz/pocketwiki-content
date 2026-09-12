@@ -46,3 +46,5 @@ The 1989 elections initiated a peaceful transition to democracy and a market eco
 - The degree of Polish collaboration versus resistance during the Nazi occupation, particularly regarding the fate of the Jewish population.
 - The historical assessment of Józef Piłsudski's legacy: was his 1926 coup a necessary stabilization or a damaging blow to democracy?
 - The interpretation of the Yalta Conference agreements: whether the Western Allies "betrayed" Poland to Soviet domination or acted within the constraints of military reality.
+
+Source: adapted from "History of Poland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Poland

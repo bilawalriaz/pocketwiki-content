@@ -38,3 +38,5 @@ The sea's ecosystem is relatively simple, starting with phytoplankton and ice al
 - The primary debate is the unresolved U.S.-Canada maritime boundary dispute, centered on whether the 1825 treaty's 141st meridian extends into the sea or if equidistance should apply.
 - The potential impact of climate change on the sea's ice cover, ecosystem, and future resource accessibility is a major ongoing concern.
 - The sustainability of beluga whale hunting in the eastern Beaufort Sea is considered, with the 2016 assessment finding it sustainable, but long-term effects of offshore oil exploration on the population are monitored.
+
+Source: adapted from "Beaufort Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Beaufort_Sea

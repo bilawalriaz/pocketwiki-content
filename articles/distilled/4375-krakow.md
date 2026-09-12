@@ -41,3 +41,5 @@ Kraków is a key economic hub for southern Poland, with a strong private sector 
 
 ## Debates and open questions
 - The true origin of the city's name is disputed. While traditionally derived from the legendary founder Krakus, other theories, such as a link to the word for "crow" (*kruk*), exist, with no unanimous consensus among historians.
+
+Source: adapted from "Kraków" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Krak%C3%B3w

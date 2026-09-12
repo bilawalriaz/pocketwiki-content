@@ -31,3 +31,5 @@ Two turning points show how these factors interacted. The Cuban Missile Crisis d
 ## Competing Explanations
 
 Historians divide over who bears primary responsibility. The **orthodox** school places it on Soviet expansionism and communist ideology. **Revisionists** argue US economic and diplomatic policies after 1945 provoked the conflict. **Post-revisionists** emphasize mutual misperception, domestic politics, and the self-reinforcing cycle of actions by both sides, a view consistent with how the rivalry actually unfolded.
+
+Source: adapted from "Cold War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cold_War

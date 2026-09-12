@@ -43,3 +43,5 @@ The environmental legacy is mixed. On one hand, higher yields per hectare reduce
 - **Food Security vs. Production:** Did increased cereal production truly enhance food security, or did it neglect nutritional quality and dietary diversity, as argued by critics like Amartya Sen?
 - **Environmental Sustainability:** Can the model of high-input agriculture be sustained, or does it cause irreversible damage to soil, water, and biodiversity?
 - **Social Equity:** Did the Green Revolution exacerbate inequality by favoring large landowners with access to credit and inputs over small-scale farmers?
+
+Source: adapted from "Green Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Green_Revolution

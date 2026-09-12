@@ -50,3 +50,5 @@ Though perhaps less ideologically antisemitic than others, Göring was instrumen
 *   **Reichstag Fire:** While the consensus is that Marinus van der Lubbe acted alone, some historians accuse the Nazis of staging a false flag attack. At Nuremberg, a witness testified Göring admitted responsibility, which Göring denied.
 *   **Göring's Knowledge of the Holocaust:** At his trial, Göring claimed ignorance of the extermination camps, stating he only intended to remove Jews from positions of influence. Evidence presented, including the minutes of a post-Kristallnacht meeting he chaired, contradicted this claim.
 *   **Source of Suicide Capsule:** How Göring obtained the cyanide is debated. Theories include a hidden stash, a gift from a U.S. Army guard (Herbert Lee Stivers) who claimed he was tricked, or assistance from a deceased officer (Jack G. Wheelis).
+
+Source: adapted from "Hermann Göring" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring

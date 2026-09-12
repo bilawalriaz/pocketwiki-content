@@ -62,3 +62,5 @@ Ligeti’s public fame derives largely from Stanley Kubrick. *2001: A Space Odys
 - **Late-style periodization**: Sources debate whether the rhythmic turn begins with *Continuum* (1968) / *Clocks and Clouds* (1972) or only post-*Le Grand Macabre* (1977); Ligeti himself cited Reich/Riley (1972) as affirmation, not initiation.
 - **Unfinished second opera**: Ligeti planned operas on *The Tempest* and *Alice’s Adventures in Wonderland*; sketches exist but the extent of musical material and reasons for abandonment (health? aesthetic impasse?) remain unclear.
 - **Kubrick lawsuit settlement terms**: The source notes Ligeti "successfully sued for having had his music distorted" and settled out of court; the legal and financial details are undisclosed, leaving the precedent for "distortion" of concert music in film ambiguous.
+
+Source: adapted from "György Ligeti" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti

@@ -50,3 +50,5 @@ Lullabies exist in countless regional forms. In Brazil, "Dorme neném" reference
 - The folk etymology linking "lullaby" to "Lilith-Abi" is a tradition but not the confirmed linguistic origin.
 - While lullabies are universally recognized, the specific emotional content can vary; some, like the Gaelic "Ba, Ba, Mo Leanabh Beag" or Spanish lullabies studied by Lorca, are noted for their mournful or dark qualities, serving as a vocalization of a mother's worries.
 - The precise mechanisms by which live lullabies enhance parent-child bonding and physiological regulation in premature infants are areas of ongoing research.
+
+Source: adapted from "Lullaby" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lullaby

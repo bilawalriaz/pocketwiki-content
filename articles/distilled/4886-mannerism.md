@@ -47,3 +47,5 @@ Mannerist sculpture, exemplified by Benvenuto Cellini and Giambologna, featured 
 - **Definition and Periodization**: Historians debate whether Mannerism is a distinct style, movement, or period, and some label it the "Late Renaissance." Its phases and boundaries remain contested.
 - **Origins**: The cause of the shift from High Renaissance to Mannerism is debated. Once seen as a reaction to social and religious upheaval (e.g., the Reformation, Sack of Rome), this explanation has fallen out of favor, though the stylistic contrast is clear.
 - **Scope**: The term is applied analogously to literature, music, and even late Gothic Northern European painting (Antwerp Mannerism), leading to debates about its precise application across disciplines.
+
+Source: adapted from "Mannerism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mannerism

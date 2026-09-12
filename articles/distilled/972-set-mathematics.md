@@ -66,3 +66,5 @@ The axiom of choice (AC) states that for any family of nonempty sets, one can se
 ## Debates and Open Questions
 
 The **continuum hypothesis** (CH) remains unresolved within ZFC: Cohen's 1963 independence proof shows it cannot be proved or disproved from the standard axioms, assuming their consistency. Whether to adopt CH, its negation, or alternative axioms (such as large cardinal axioms) is a matter of ongoing philosophical and mathematical debate. The **axiom of choice** itself was historically controversial due to its non-constructive nature, though it is now widely accepted; some areas of mathematics explore what remains true without AC. The broader question of finding new axioms to settle independent statements like CH continues to drive research in set theory.
+
+Source: adapted from "Set (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Set_%28mathematics%29

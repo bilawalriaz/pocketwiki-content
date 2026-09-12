@@ -48,3 +48,5 @@ The modern period brought challenges like colonialism and competition from other
 - The exact causes and timing of the first schism in the saṅgha (between Sthavira and Mahāsāṃghika) are debated.
 - The extent of Buddhist influence on early Western thought and the historical reality of Buddhist communities in the Hellenistic world are subjects of scholarly discussion.
 - The scale and nature of persecution under rulers like Pushyamitra Shunga are disputed, with Buddhist textual accounts often considered hyperbolic.
+
+Source: adapted from "History of Buddhism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Buddhism

@@ -43,3 +43,5 @@ The *Campbell's Soup Cans* are widely considered one of the most influential bod
 - **Inspiration**: The exact inspiration for the series is debated. Stories include advice from Muriel Latow, Warhol's personal nostalgia for the soup from his childhood, and possible influences from artists like Yves Klein or Frank Stella.
 - **Interpretation**: Scholars debate whether the work is a celebration of consumer culture, a critique of it, or a neutral, deadpan observation. Some see it as a Marxist commentary, while Warhol himself claimed an apolitical stance.
 - **Authenticity and Confusion**: The original 32 canvases are often confused with later screen print sets. The creation of unauthorized "Sunday B Morning" prints and the dissolution of the Andy Warhol Art Authentication Board in 2012 have contributed to ongoing issues of authentication.
+
+Source: adapted from "Campbell's Soup Cans" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans

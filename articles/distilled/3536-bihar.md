@@ -46,3 +46,5 @@ Bihar is the second most populous state in India, with a young population (58% u
 - **Historical Destruction of Universities**: Historians debate the nature of the 12th-century destruction of Nalanda and Vikramashila. While traditionally attributed to Bakhtiyar Khalji's invasion, some scholars like D. N. Jha suggest it may have resulted from Buddhist–Brahmin skirmishes.
 - **Impact of Prohibition**: The state's 2016 alcohol ban is debated for its linked effects, including a reported drop in tourism and a rise in substance abuse.
 - **Caste Politics Evolution**: Political scientists analyze whether the dominant political divide in Bihar has shifted from Forward vs. Backward Castes to conflicts between different groups within the OBC category itself, as seen in the 1995 election.
+
+Source: adapted from "Bihar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bihar

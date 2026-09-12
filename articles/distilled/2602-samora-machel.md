@@ -42,3 +42,5 @@ Machel died on October 19, 1986, when his plane crashed in South Africa after a 
 *   **Cause of the 1986 Plane Crash:** The official cause is pilot error, but alternative theories suggest sabotage by a false navigation beacon (possibly by South Africa) or a conspiracy involving the Soviet Union, which had grown wary of Machel's perceived shift toward the West.
 *   **Machel's Authoritarian Legacy:** Scholars debate the extent to which Machel's "salvationist stance" and the creation of reeducation centers were a necessary response to instability versus a deliberate turn toward repression that violated his own promises of amnesty.
 *   **Effectiveness of the Nkomati Accord:** The accord is widely seen as a failure, as South Africa continued to support RENAMO while Mozambique only partially expelled ANC members, raising questions about its strategic purpose and Machel's diplomatic leverage.
+
+Source: adapted from "Samora Machel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samora_Machel

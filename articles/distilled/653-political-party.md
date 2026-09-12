@@ -53,3 +53,5 @@ Parties adopt ideologies to signal policy intentions, differentiate from competi
 
 ## Debates and Open Questions
 Scholars debate whether social cleavages truly cause parties or merely correlate with them, and whether parties instead shape cleavages over time. The empirical validity of Duverger's law remains contested, with some arguing institutional restrictiveness—not just electoral rules—determines party numbers. Whether multi-party systems are inherently more democratic than two-party systems is disputed, as is whether they produce better policy outcomes. The decline of mass party membership since the 1980s raises questions about parties' future intermediary role. Additionally, the extent to which catch-all and cartel parties have eroded democratic representation remains unresolved.
+
+Source: adapted from "Political party" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Political_party

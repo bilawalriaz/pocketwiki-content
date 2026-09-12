@@ -53,3 +53,5 @@ In most animals, females are larger because eggs demand so much nutrition (a bla
 ## Open questions
 
 Sperm and eggs leave no fossil trace, so whether anisogamy first led to separate sexes or to combined-sex ancestors is unresolved. What pushes a lineage to switch between XY, ZW, XO, temperature-dependent, and haplodiploid systems remains unclear. The twofold cost of producing males, whose cheap sperm can flood a population, against the long-term benefits of genetic mixing is a long-standing evolutionary problem. And in species with genetic sex determination, how often the chromosomal, gonadal, gametic, and anatomical layers fail to align, and what that costs in fitness, is only partly measured.
+
+Source: adapted from "Biological sex" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biological_sex

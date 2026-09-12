@@ -51,3 +51,5 @@ In the early 1990s, the end of the Cold War and pressure from donors and domesti
 *   **Legacy:** His legacy is contested, balancing infrastructure development and independence leadership against extreme repression and human rights abuses.
 *   **Apology Authenticity:** The sincerity and authorship of a 1996 statement of apology issued in his name remain controversial.
 *   **Personal Wealth:** The extent and origins of his personal fortune, estimated at over US$320 million, are subjects of ongoing scrutiny.
+
+Source: adapted from "Hastings Banda" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hastings_Banda

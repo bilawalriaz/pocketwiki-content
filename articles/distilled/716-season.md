@@ -44,3 +44,5 @@ Some traditional calendars count a fifth season. In Europe, this relates to the 
 
 ## Debates and Open Questions  
 Scholars debate whether axial tilt alone sufficiently explains all seasonal variations, particularly in tropical zones where precipitation shifts dominate. The role of orbital eccentricity remains contested, with some arguing it contributes more significantly under different planetary configurations. Additionally, the alignment of calendar-based seasons with ecological realities raises questions about the adequacy of fixed-date systems in capturing true environmental transitions, especially under climate change scenarios.
+
+Source: adapted from "Season" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Season

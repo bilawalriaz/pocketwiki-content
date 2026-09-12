@@ -37,3 +37,5 @@ Van 't Hoff held academic positions at the Veterinary School in Utrecht, the Uni
 
 ## Debates and open questions
 The source notes that Van 't Hoff's theory of the tetrahedral carbon atom was initially "largely ignored" and "sharply criticized" by prominent chemists like Hermann Kolbe before gaining acceptance. The text also states that he shares credit for the theory with Joseph Le Bel, who "independently came up with the same idea."
+
+Source: adapted from "Jacobus Henricus van 't Hoff" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff

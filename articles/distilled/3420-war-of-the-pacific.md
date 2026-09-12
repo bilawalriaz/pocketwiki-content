@@ -45,3 +45,5 @@ The war concluded with the Treaty of Ancón (1883), where Peru ceded the Tarapac
 
 ## Debates and Open Questions
 Historians debate the war's primary causes. Some emphasize economic motives, arguing Chilean nitrate interests pressured the government into war. Others stress geopolitical rivalry and the "inevitable" clash between a stable, expanding Chile and weaker neighbors. The role and intentions behind the secret 1873 Peru-Bolivia alliance are also contested—whether it was a defensive pact or an aggressive move to curb Chilean influence. The extent of foreign involvement, particularly alleged British support for Chile, is a persistent myth, though evidence shows European powers maintained official neutrality while selling arms to both sides. The looting of Peruvian cultural artifacts by Chilean forces remains a source of historical grievance.
+
+Source: adapted from "War of the Pacific" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/War_of_the_Pacific

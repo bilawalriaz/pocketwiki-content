@@ -47,3 +47,5 @@ The shogunate faced internal crises, including famines, peasant unrest, and fina
 - **Causes of Sakoku**: While the suppression of Christianity is the stated motive, scholars also emphasize the goal of preventing regional lords from gaining independent foreign contacts and wealth.
 - **Economic Impact of Isolation**: Historical records indicate trade volume with the Dutch and Chinese actually increased after the expulsion of the Portuguese, challenging the assumption that *sakoku* caused economic decline.
 - **Decline of the Shogunate**: Historians debate the relative importance of internal factors (financial crises, social unrest) versus external pressure (Western intrusion) in causing the Tokugawa collapse.
+
+Source: adapted from "Edo period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edo_period

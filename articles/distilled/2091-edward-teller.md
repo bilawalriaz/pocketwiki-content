@@ -46,3 +46,5 @@ Despite professional isolation, Teller remained influential in government and mi
 *   **Credit for the H-Bomb:** The precise contributions of Edward Teller versus Stanisław Ulam to the Teller–Ulam design are classified and disputed. Teller claimed primary credit, while others, including Ulam, asserted Teller generalized Ulam's initial idea.
 *   **Role in Oppenheimer's Downfall:** Historians debate the extent to which Teller's testimony was the decisive factor in revoking Oppenheimer's security clearance, or whether the outcome was predetermined by the political climate and AEC leadership.
 *   **Scientific Judgment vs. Advocacy:** Teller was often criticized by colleagues like Hans Bethe for championing technically dubious projects (e.g., the early "classical Super," uranium hydride bombs, aspects of SDI) with excessive optimism, leading to the joke of the "teller" as a unit of unfounded optimism.
+
+Source: adapted from "Edward Teller" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edward_Teller

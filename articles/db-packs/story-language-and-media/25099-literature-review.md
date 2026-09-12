@@ -30,3 +30,5 @@ Shields and Rangarajan (2013) distinguish the ongoing **process** of reviewing t
 ## Artificial intelligence in literature reviews
 
 AI is reshaping how literature reviews are produced. Generative pre-trained transformers such as ChatGPT are now used by both students and academics to assist with reviews, and since 2023 a growing number of tools powered by large language models have been developed to help automate or generate them. The central problem with using ChatGPT in academic reviews is its tendency to "hallucinate," producing plausible but fabricated citations or claims. Efforts to mitigate this include integrating plugins; Rad et al. (2023), for example, used ScholarAI for reviews in cardiothoracic surgery.
+
+Source: adapted from "Literature review" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Literature_review

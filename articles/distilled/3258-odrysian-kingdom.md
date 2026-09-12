@@ -43,3 +43,5 @@ Odrysian rule was decentralized and based on personal loyalty. Kings legitimized
 - The identity and Odrysian affiliation of later Thracian kings, such as Cotys IV (fought in the Third Macedonian War), is debated; some sources may use "Odrysian" as a synonym for "Thracian."
 - The cause and precise date of Seuthopolis's destruction are uncertain, with theories pointing to either Celtic raids or a campaign by the Seleucid king Antiochus II.
 - The survival and nature of a specifically "Odrysian" state after the early 3rd century BC is considered debatable by historians.
+
+Source: adapted from "Odrysian kingdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Odrysian_kingdom

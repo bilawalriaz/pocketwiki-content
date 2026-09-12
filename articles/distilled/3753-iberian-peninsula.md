@@ -49,3 +49,5 @@ The 17th century was marked by economic recession and the end of the Iberian Uni
 - The exact origin and meaning of the name "Iber" remain unknown, as the ancient Iberian language is undeciphered.
 - The nature of the relationship between the Phoenician colony of Gadir and Carthage is debated, ranging from Carthaginian hegemony to greater Phoenician autonomy.
 - The concept of the "Reconquista" is noted by some scholars as a product of later nationalist claims, potentially oversimplifying the complex centuries of interaction between Muslim and Christian kingdoms.
+
+Source: adapted from "Iberian Peninsula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iberian_Peninsula

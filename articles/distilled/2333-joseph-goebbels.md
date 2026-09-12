@@ -50,3 +50,5 @@ In the final days of the war, Goebbels remained with Hitler in the Berlin bunker
 *   Historians speculate whether Goebbels' lifelong pursuit of women was a compensation for his physical disability.
 *   The exact circumstances of the suicides of Joseph and Magda Goebbels on 1 May 1945 are subject to conflicting eyewitness accounts.
 *   The extent to which Goebbels' propaganda successfully shaped German public opinion, especially regarding the war's progress and the Holocaust, is analyzed through his diaries and other sources.
+
+Source: adapted from "Joseph Goebbels" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Goebbels

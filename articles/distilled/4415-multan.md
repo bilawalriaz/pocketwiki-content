@@ -38,3 +38,5 @@ Following Mughal decline, Multan was invaded by Nader Shah (1739) and Ahmad Shah
 
 ## Debates and open questions
 The exact origin of the name "Multan" is debated, with theories linking it to the Malli tribe, a sun deity, or Persian/Sanskrit words for "frontier land." The city's precise location during Alexander's siege is uncertain, as it was then on an island in the Ravi River, which has since shifted course.
+
+Source: adapted from "Multan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Multan

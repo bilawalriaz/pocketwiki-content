@@ -125,3 +125,5 @@ The 2020 market was ~$159B (Mobile 48%, Console 28%, Personal computer 23%). Key
 *   **Preservation vs. Copyright:** Legal barriers to archiving server-dependent games (MMOs, live-service), proprietary hardware, and defunct publisher IP. Current exemptions are narrow and temporary.
 *   **Labor Ethics:** "Crunch" normalized as industry standard; unionization efforts growing but face structural resistance.
 *   **Monetization Ethics:** Loot boxes, battle passes, and "games as a service" models blur line between design and gambling regulation; governments (Belgium, Netherlands) have banned specific mechanics.
+
+Source: adapted from "Video game" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Video_game

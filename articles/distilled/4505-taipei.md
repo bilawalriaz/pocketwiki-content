@@ -44,3 +44,5 @@ Taipei is a special municipality governed by a mayor elected by direct popular v
 ## Debates and Open Questions
 - The political status of Taiwan and its relationship with the People's Republic of China remains internationally ambiguous, leading to the use of terms like "Chinese Taipei."
 - The source notes that the name "Taipei" can refer either to the municipality alone or the entire metropolitan area, creating potential ambiguity.
+
+Source: adapted from "Taipei" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Taipei

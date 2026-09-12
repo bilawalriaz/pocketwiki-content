@@ -62,3 +62,5 @@ The city is a major transport hub with an international airport, extensive rail 
 *   The exact location of the medieval settlement "Brezalauspurc" mentioned in 907 is under scholarly debate.
 *   The identification of Bratislava and Devín castles as the fortresses of Great Moravia is debated due to a lack of convincing archaeological evidence.
 *   The etymology of the city's name remains a subject of scholarly discussion, with competing theories linking it to personal names like "Bratislav," "Božan," or "Poson."
+
+Source: adapted from "Bratislava" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bratislava

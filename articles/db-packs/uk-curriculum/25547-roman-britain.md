@@ -47,3 +47,5 @@ With imperial military and civil structures gone, **municipal authorities** and 
 The Romans built **~8,000 miles of engineered roads**, many still underlying modern routes. They founded **Londinium, Mamucium (Manchester), Eboracum (York),** and dozens of *civitates* capitals. Water supply, sanitation, and hypocaust heating introduced urban infrastructure unknown before.
 
 Unlike Gaul or Spain, Britain did not adopt a Romance language. **Common Brittonic** survived, later splitting into **Welsh, Cornish, Cumbric,** and **Breton**, absorbing ~800 Latin loanwords. **English** derives from the Germanic dialects of the 5th-century migrants. Place names (Chester, Lincoln, Winchester—from *castra*; *strat* from *strata*, road) and the **Roman road network** remain the most visible physical inheritance.
+
+Source: adapted from "Roman Britain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Roman_Britain

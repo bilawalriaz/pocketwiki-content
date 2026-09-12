@@ -50,3 +50,5 @@ The *Khamsa* became the supreme model for Persianate narrative poetry. It was im
 *   **Identity of first wife:** Modern scholars (Vahid Dastgerdi) proposed her name was Afaq based on a verse; others (Said Nafisi) argue *afaq* means "horizon" in context, not a proper name.
 *   **Nature of *Khalwat* (spiritual vigils):** In *Makhzan al-Asrar*, Nizami describes solitary vigils; scholars debate whether these reflect actual Sufi practice or a "literary fantasy" of the spiritually inclined poet.
 *   **Sufi influence:** While Nizami uses Sufi terminology and themes (especially in *Makhzan al-Asrar* and *Haft Peykar*), he is not a systematic Sufi theorist; the extent and orthodoxy of his mysticism remain interpretive questions.
+
+Source: adapted from "Nizami Ganjavi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nizami_Ganjavi

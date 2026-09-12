@@ -43,3 +43,5 @@ Berners-Lee has held prestigious academic positions at MIT and the University of
 - **DRM and EME**: Berners-Lee's decision as W3C director to approve the Encrypted Media Extensions (EME) specification, which supports digital rights management (DRM), was controversial. Critics, including the Electronic Frontier Foundation, argued it compromised the web's open philosophy and could force users into specific browsers.
 - **Web's Evolution**: Berners-Lee has expressed concern that the web is being misused by those who "exploit, divide and undermine," leading to initiatives like the Contract for the Web to establish protective principles.
 - **Centralization vs. Decentralization**: His current work on Solid is a direct response to the growing centralization of data by large corporations, seeking to restore user control and privacy.
+
+Source: adapted from "Tim Berners-Lee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tim_Berners-Lee

@@ -50,3 +50,5 @@ Football is the most popular sport. The main teams are Fortaleza Esporte Clube a
 
 ## Debates and open questions
 The source notes that genetic ancestry studies of Fortaleza's population show differing results: a 2011 study found about 70% European ancestry in Pardos and Whites, while a 2015 study found 48.9% European, 35.4% Native American, and 15.7% African ancestry. The text does not resolve this discrepancy.
+
+Source: adapted from "Fortaleza" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fortaleza

@@ -66,3 +66,5 @@ Camões was celebrated abroad early: two Spanish translations (1580) under Phili
 - **Canon of *Rimas***: Massive apocryphal accretion (65 to 352 sonnets) and editorial "embellishment" since 1685; no definitive critical edition exists despite 19th/20th-century efforts.
 - **Pension adequacy**: 15,000 réis/year—viewed as miserly by romantics, but comparable to court ladies-in-waiting (10,000 réis) and honorable for a veteran; irregular payment caused hardship.
 - **Burial site**: Convent of Santa Ana (Faria e Sousa) vs. hospital paupers’ cemetery (Teófilo Braga); remains lost after 1755 earthquake; Jerónimos tomb (1880) likely inauthentic.
+
+Source: adapted from "Luís de Camões" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es

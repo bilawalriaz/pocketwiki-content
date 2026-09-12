@@ -46,3 +46,5 @@ The 32-bit O32 ABI passes arguments in $a0–$a3 and returns values in $v0. The 
 ## Applications and decline
 
 Through the 1990s MIPS powered SGI and NEC workstations and servers, the Nintendo 64, PlayStation, PlayStation 2, and PlayStation Portable. After MIPS Technologies was spun out of SGI in 1998, the market shifted to embedded systems: residential gateways, routers, automotive controllers, and LTE modems. Wave Computing opened the ISA in December 2018, made Release 6 royalty-free in March 2019, then shut the open programme down later that year. Loongson continues to extend MIPS-compatible ISAs and won a rights case over the architecture in January 2024.
+
+Source: adapted from "MIPS architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/MIPS_architecture

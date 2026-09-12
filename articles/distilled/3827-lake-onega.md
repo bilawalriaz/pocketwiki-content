@@ -41,3 +41,5 @@ The lake's shores host major historical sites. Petrozavodsk, founded in 1703, fe
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates, but it notes the lake's pollution is "gradually increasing," implying ongoing environmental concern. The exact impact of historical water level changes from hydropower construction on the lake's ecology is also an implicit area of study.
+
+Source: adapted from "Lake Onega" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Onega

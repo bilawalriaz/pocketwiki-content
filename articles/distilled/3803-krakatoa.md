@@ -42,3 +42,5 @@ The 1883 eruption provided a unique case study in island biogeography—the stud
 - **The 535 AD eruption hypothesis:** Some researchers have postulated a violent eruption of Krakatoa in 535 AD caused global climate changes, but drilling projects in the Sunda Strait have found no geological evidence for this event.
 - **The "Krakatoa problem":** A central debate in biogeography is whether the 1883 eruption completely sterilized the islands or if some indigenous life survived, which affects models of ecological recolonization.
 - **The 416 AD event:** The historical reliability of the *Pustaka Raja*'s account of a catastrophic eruption of "Kapi" is highly dubious, and no geological evidence substantiates it.
+
+Source: adapted from "Krakatoa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Krakatoa

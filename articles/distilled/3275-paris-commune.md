@@ -45,3 +45,5 @@ The suppression was devastating. Historians debate the death toll, with estimate
 *   **Thiers' Strategy:** Historians debate whether Adolphe Thiers deliberately provoked the Commune to have a pretext for crushing Parisian radicalism and consolidating the Third Republic.
 *   **Marxist Interpretation:** While Marx and Engels praised the Commune as a prototype for proletarian government, they also criticized its strategic errors, such as its failure to seize the Bank of France and its "excessive magnanimity" towards enemies. Lenin later echoed these critiques.
 *   **Role of Women:** The extent of women's participation, particularly the myth of the *pétroleuses* (female arsonists), is contested. While women were active in support roles and fighting, evidence for widespread organized arson by women is considered weak.
+
+Source: adapted from "Paris Commune" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paris_Commune

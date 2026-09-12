@@ -25,3 +25,5 @@ The universal distribution is the optimal prior among computable hypotheses, but
 ## Hutter's AIXI
 
 Marcus Hutter extended Solomonoff's framework to sequential decisions as AIXI, an agent that picks actions to maximise expected reward summed over futures, weighted by their algorithmic probabilities. AIXI is optimal among all agents in any computable environment, but is itself incomputable and needs exponential time in the worst case. Time-bounded variants such as AIXItl preserve most of its theoretical properties while remaining feasible. The framework assumes the environment is computable, so genuinely chaotic or non-computable systems fall outside its scope, and the modelling of non-computable universes remains an open question.
+
+Source: adapted from "Algorithmic probability" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algorithmic_probability

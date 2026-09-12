@@ -48,3 +48,5 @@ After leaving office, Sirleaf founded a center for women's development. She serv
 - **Corruption Allegations:** Critics argued her administration failed to fully deliver on its "zero tolerance" corruption pledge, while Sirleaf pointed to institutional reforms and the need for political compromise.
 - **Gay Rights Stance:** Sirleaf's position—refusing to repeal the existing anti-sodomy law while also vetoing proposed harsher penalties—was seen by some as defending discrimination and by others as a pragmatic stance to avoid political suicide in a conservative society.
 - **Family in Government:** The appointment of her sons and stepson to government positions raised concerns about nepotism and conflicts of interest.
+
+Source: adapted from "Ellen Johnson Sirleaf" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf

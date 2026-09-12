@@ -45,3 +45,5 @@ Recognition of the Sierra's tourism and ecological value led to early conservati
 - **Uplift Timing**: Some geologists argue the Sierra's current elevation is due to recent tectonic uplift, while others claim the overall bedrock topography has changed little since 30-40 million years ago.
 - **Fire and Climate**: Studies indicate human-induced climate change may be increasing wildfire risk in California. It is debated whether it is possible to recreate presettlement forest structures in a warmer future.
 - **Conservation vs. Development**: Ongoing tensions exist between preserving wilderness and allowing activities like logging, grazing, and infrastructure development, such as the historical debate over damming Hetch Hetchy Valley.
+
+Source: adapted from "Sierra Nevada" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sierra_Nevada

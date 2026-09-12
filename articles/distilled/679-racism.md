@@ -80,3 +80,5 @@ Gobineau (1853–55): *Essay on Inequality of Human Races*—essentialist race, 
 
 ### Theories on Origins of Racism
 **Evolutionary Psychology** (Tooby, Cosmides): Race used as proxy for coalition membership (ancestral humans rarely met other races). Kurzban experiment: memory confusion protocol; subjects misattributed statements to same-race speakers (race as visual guide to "side"); effect vanished when clothing color signaled sides. **Cooperation Simulation** (Hammond, Axelrod): Ethnocentric strategies (favor own color)
+
+Source: adapted from "Racism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Racism

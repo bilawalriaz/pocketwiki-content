@@ -44,3 +44,5 @@ A 2015 incident involved a non-radioactive sediment leak from a uranium mine, wh
 - **Lake Age**: While traditionally considered 1-2 million years old, newer evidence suggests the basin began forming about 8.6 million years ago, with deep water appearing 4.5 mya.
 - **Cichlid Speciation**: The exact number of cichlid species is uncertain (700-1,000) due to undescribed species and complex variation. The timing of their rapid radiations is an active area of study.
 - **Bilharzia Transmission**: The endemic snail *B. nyassanus* recently became an intermediate host for bilharzia, possibly due to the decline of snail-eating cichlids from overfishing.
+
+Source: adapted from "Lake Malawi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Malawi

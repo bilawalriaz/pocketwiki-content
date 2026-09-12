@@ -45,3 +45,5 @@ Kandahar was occupied by British forces in 1839 and 1879. It remained relatively
 ## Debates and Open Questions
 - The exact etymology of "Kandahar" is debated, with derivation from Gandhara being the most accepted scholarly view, while links to Alexander the Great or the Indo-Parthian king Gondophares are considered less plausible.
 - The city's role as the "de facto capital" of Afghanistan under the Taliban is noted, as the supreme leader and spiritual advisers are based there, even though Kabul remains the official capital.
+
+Source: adapted from "Kandahar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kandahar

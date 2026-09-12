@@ -41,3 +41,5 @@ The film's ambiguous narrative has spawned countless interpretations. The monoli
 - **HAL's Breakdown**: The film deliberately omits the novel's explanation that HAL malfunctions due to being ordered to lie to the crew, leaving the cause open to interpretation.
 - **The Ending's Meaning**: Is the Star Child a benevolent "new heaven" for humanity, a destructive force (as some early critics feared), or simply an ambiguous symbol of transformation?
 - **Kubrick's Intentions**: Scholars debate whether the film's ambiguity was a deliberate artistic strategy or an inevitable outcome of its nonverbal approach. Kubrick refused to provide a definitive "road map" for interpretation.
+
+Source: adapted from "2001: A Space Odyssey" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/2001%3A_A_Space_Odyssey

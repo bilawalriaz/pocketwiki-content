@@ -57,3 +57,5 @@ Comte may have coined the term "altruism," defining it as a moral theory that re
 ## Debates and Open Questions
 
 Scholars debate the extent to which Comte appropriated ideas from his mentor Henri de Saint-Simon, with some arguing that Comte's contributions were derivative. The originality of his coining of "sociology" is also questioned, as Emmanuel Joseph Sieyès had used the term in 1780 with a different meaning. Comte's prediction that the chemical composition of stars could never be determined was proven wrong within thirty years by the development of spectroscopy, highlighting the limitations of his scientific foresight. Additionally, his grand vision of sociology as the central science integrating all knowledge has not been realized, and elements of his work are now viewed as eccentric or unscientific. The influence of his later religious ideas on modern secular humanism remains a subject of scholarly discussion.
+
+Source: adapted from "Auguste Comte" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Auguste_Comte

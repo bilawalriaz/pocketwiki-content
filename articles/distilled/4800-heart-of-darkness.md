@@ -35,3 +35,5 @@ The novella was not a major success during Conrad's lifetime but became a standa
 
 ## Debates and Open Questions
 The central debate concerns whether *Heart of Darkness* is a profound anti-colonial critique or a racist text. Chinua Achebe's 1975 lecture argued it dehumanizes Africans and uses Africa as a mere symbol for European decay. Critics of Achebe's view, such as Cedric Watts, contend that Conrad's narrative voice (Marlow) condemns colonial brutality and that the novella's ambiguity is its strength. A related question is whether the novella's psychological focus, as noted by Adam Hochschild, overshadows its accurate depiction of the historical atrocities committed in the Congo Free State under Leopold II.
+
+Source: adapted from "Heart of Darkness" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Heart_of_Darkness

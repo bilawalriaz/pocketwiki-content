@@ -56,3 +56,5 @@ Philosophical roots run through phenomenology, especially Merleau-Ponty, who arg
 - **Clinical.** Phantom-limb pain is treated through sensorimotor retraining; autism interventions use action-based methods; body-oriented psychotherapies treat mental illness as partly bodily.
 - **Sport.** Judges who have performed the actions they score judge better; simulating sport actions while reading improves comprehension and memory.
 - **Music.** Embodied music cognition holds that listeners and performers bodily entrain to rhythm, and that tonal-temporal structures shape motor behavior and emotional response. In Parkinson's therapy, music cues restore movement timing that metronome beeps do not.
+
+Source: adapted from "Embodied cognition" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Embodied_cognition

@@ -49,3 +49,5 @@ Dirac worked on uranium enrichment during WWII and later contributed to **canoni
 - **Renormalisation:** Dirac never accepted the method, calling it an arbitrary neglect of infinities, which placed his later work outside the mainstream development of QED.
 - **Large Numbers Hypothesis:** Dirac's speculative cosmological model linking large dimensionless numbers in physics remains a topic of discussion.
 - **Magnetic Monopoles:** Despite Dirac's theoretical prediction, no magnetic monopole has been empirically detected.
+
+Source: adapted from "Paul Dirac" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paul_Dirac

@@ -41,3 +41,5 @@ The tower has survived at least four strong earthquakes since 1280. A 2018 study
 ## Debates and Open Questions
 - The identity of the original architect remains controversial, with attributions to Guglielmo, Bonanno Pisano, and Diotisalvi.
 - The primary source for Galileo's famous experiment dropping cannonballs from the tower is a biography written long after his death, leaving the story's historicity open to question.
+
+Source: adapted from "Leaning Tower of Pisa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa

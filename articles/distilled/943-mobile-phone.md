@@ -46,3 +46,5 @@ Mobile phones transformed communication, commerce, and culture. In developing co
 - **Environmental Impact**: Manufacturing accounts for 40–50% of phones’ environmental footprint; recycling efforts like Apple’s Liam robot exist but face scalability challenges  
 - **Conflict Minerals**: Demand for rare earth metals fuels conflicts in the DRC; initiatives like Fairphone aim for ethical sourcing but remain niche  
 - **Digital Divide**: While mobile adoption is near-universal in many regions, disparities persist in access to smartphones and reliable networks in rural and low-income areas
+
+Source: adapted from "Mobile phone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mobile_phone

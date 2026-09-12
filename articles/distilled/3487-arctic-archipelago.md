@@ -36,3 +36,5 @@ Human settlement is extremely thin and scattered, consisting mainly of coastal I
 ## Debates and open questions
 - **Northwest Passage Status**: Canada claims the waterways are internal waters, while most maritime nations consider them international. This affects environmental enforcement, security, and sovereignty.
 - **Climate Change Impact**: While melting is occurring, the precise contribution to global sea level rise (estimated at 3.5 cm by 2100) and its broader effects are subjects of ongoing study.
+
+Source: adapted from "Arctic Archipelago" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arctic_Archipelago

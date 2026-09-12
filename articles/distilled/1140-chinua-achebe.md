@@ -44,3 +44,5 @@ Achebe’s fiction draws on Igbo oral traditions—proverbs, folktales, and comm
 
 ## Debates and Open Questions
 Achebe’s portrayal of gender has drawn criticism for reinforcing patriarchal norms, though scholars like Ajoke Mimiko Bestman argue his work critiques misogyny through characters like Okonkwo. His rejection of the “father of African literature” label reflects ongoing debates about authorship, authenticity, and Western categorization. The controversy surrounding his critique of Conrad highlights tensions in interpreting colonial-era texts. Additionally, his stance on writing in English versus indigenous languages remains debated among African writers and scholars. Finally, his political activism and support for Biafra continue to influence discussions on literature’s role in postcolonial resistance.
+
+Source: adapted from "Chinua Achebe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinua_Achebe

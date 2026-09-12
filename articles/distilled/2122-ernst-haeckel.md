@@ -43,3 +43,5 @@ Contrary to Darwin's Africa hypothesis, Haeckel claimed the origin of humanity w
 - **Embryo Drawings:** Were Haeckel's embryological illustrations intentionally falsified to support his theory, or were they schematic simplifications made in good faith? Recent analyses suggest both legitimate criticisms and unfounded accusations.
 - **Influence on Nazism:** To what extent did Haeckel's scientific racism and Social Darwinism directly inspire Nazi ideology? Historians are divided, noting both his influence on Nazi thinkers and the fact that the Nazi regime ultimately banned his books.
 - **Legacy of Recapitulation:** While the strong "Biogenetic Law" is rejected, how much do weaker forms of recapitulation and the concept of heterochrony still inform modern evolutionary developmental biology (evo-devo)?
+
+Source: adapted from "Ernst Haeckel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ernst_Haeckel

@@ -43,3 +43,5 @@ In 278 BC, Pyrrhus sailed to Sicily to aid Greek cities against Carthage. He qui
 *   **Casualty Figures**: Ancient sources provide conflicting numbers for battles like Heraclea and Asculum, making precise losses for Pyrrhus and the Romans difficult to ascertain.
 *   **Legacy and Ranking**: While Hannibal reportedly ranked Pyrrhus among the greatest generals, his strategic judgment is debated. His constant warfare drained his kingdom's resources and ultimately failed to secure a lasting empire.
 *   **Impact on Rome**: Pyrrhus's campaign is seen as a critical test for the early Roman Republic. His failure to halt Roman expansion in Italy is considered a pivotal moment that allowed Rome to eventually dominate the Mediterranean.
+
+Source: adapted from "Pyrrhus of Epirus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus

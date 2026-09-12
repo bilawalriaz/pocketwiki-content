@@ -48,3 +48,5 @@ Dakar is a transport hub, with the Autonomous Port of Dakar and the terminus of 
 ## Debates and open questions
 - The exact death toll of the 1944 Thiaroye mutiny is debated, with official French accounts citing around 35 deaths and army veterans claiming over 300.
 - The historical significance and scale of the slave trade on Gorée Island versus the mainland are subjects of ongoing scholarly discussion.
+
+Source: adapted from "Dakar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dakar

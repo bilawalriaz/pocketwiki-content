@@ -38,3 +38,5 @@ Before electroplating existed, amalgam gilding was a common technique for coatin
 ## Detection of mercury ions
 
 Mercury salts are far more water-soluble and toxic than the metal itself. A simple probe uses the readiness of Hg²⁺ to form an amalgam with copper foil: a nitric-acid solution of the unknown salt is applied to copper, and any mercury ions deposit as silvery spots of amalgam. Silver ions leave similar marks, but the silver spots wash away, allowing the two to be distinguished. The underlying reaction is Hg²⁺ + Cu → Hg + Cu²⁺.
+
+Source: adapted from "Amalgam (chemistry)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Amalgam_%28chemistry%29

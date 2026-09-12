@@ -52,3 +52,5 @@ Sydney is governed by multiple layers: the state government of New South Wales, 
 - The exact date and extent of the first human habitation in the Sydney region is debated, with evidence suggesting occupation from 30,000 to potentially 45,000-50,000 years ago.
 - There is scholarly debate about the specific language groups and territorial boundaries of the Aboriginal clans living in the Sydney area prior to British colonisation.
 - The effectiveness and social impact of the lockout laws (2014-2020) in curbing violence remain a topic of discussion.
+
+Source: adapted from "Sydney" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sydney

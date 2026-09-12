@@ -48,3 +48,5 @@ Carson died in 1964, but her work had lasting impact. *Silent Spring* inspired t
 - **Scientific accuracy**: While the chemical industry attacked her science, the academic community and a presidential science committee largely backed her claims. Debate continues over the balance of her scientific evidence versus her rhetorical approach.
 - **Gender and credibility**: Carson faced gendered attacks, being dismissed as an "amateur" and "hysterical." Scholars debate whether this was a deliberate tactic to undermine a woman challenging a powerful, male-dominated industry.
 - **Political and economic motivations**: Carson questioned the "financial inducements behind certain pesticide programs," raising ongoing questions about corporate influence on government policy and scientific research.
+
+Source: adapted from "Rachel Carson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rachel_Carson

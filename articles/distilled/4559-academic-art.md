@@ -49,3 +49,5 @@ Since the late 20th century, academic art has been partially rehabilitated. Muse
 - To what extent did the hierarchy of genres reflect genuine aesthetic values versus social and political biases?
 - How should the recent "rehabilitation" of academic art be viewed—as a balanced historical correction or a revisionist backlash against modernism?
 - Did the academy's emphasis on tradition ultimately delay the development of modern art, or did it provide a necessary foundation from which innovation could react?
+
+Source: adapted from "Academic art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Academic_art

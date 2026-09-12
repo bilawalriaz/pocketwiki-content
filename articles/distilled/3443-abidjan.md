@@ -50,3 +50,5 @@ Known as the "Manhattan of the tropics," Abidjan is a vibrant cultural center. I
 - The city's official status remains a point of discussion: while Yamoussoukro is the political capital, Abidjan is universally recognized as the economic capital and hosts all major government institutions and foreign embassies.
 - The impact of climate change, particularly sea-level rise, poses a significant long-term threat to the city's infrastructure and population, with projected damages in the tens of billions of dollars.
 - Urban planning challenges persist, including managing rapid population growth, infrastructure rehabilitation, and addressing issues like urban squalor and traffic congestion.
+
+Source: adapted from "Abidjan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Abidjan

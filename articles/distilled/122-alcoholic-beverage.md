@@ -51,3 +51,5 @@ Alcohol laws regulate manufacture, packaging, labelling, distribution, sale, con
 
 ## Debates and open questions
 The source notes several scholarly uncertainties: whether the 13,000-year-old beer from Haifa was used for ritual feasts is suggested but not confirmed, and whether ancient barley beer at a 3100–2900 BCE site was meant for intoxication or nourishment is unclear. The source also highlights the debate over alcohol's health effects, noting that while a 2023 meta-analysis found no health benefits from low daily intake, public awareness of the alcohol-cancer link remains low in the U.S., and the WHO states risk starts from the first drop.
+
+Source: adapted from "Alcoholic beverage" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alcoholic_beverage

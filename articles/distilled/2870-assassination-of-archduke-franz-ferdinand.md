@@ -37,3 +37,5 @@ The Sarajevo trial (October 1914) prosecuted 25 people. The young assassins, inc
 
 ## Debates and Open Questions
 Scholarly debate centers on the degree of official Serbian state responsibility. Evidence shows Serbian military intelligence (led by Apis) provided crucial support, but whether this constituted a state-sponsored operation or a rogue conspiracy is debated. The role of the Black Hand versus Serbian military intelligence is blurred, as the organizations overlapped. Serbia's vague warning to Austria-Hungary and its failure to arrest key conspirators like Milan Ciganović suggest at least tacit knowledge at high levels. The legacy of Princip remains deeply divided along ethnic lines in the former Yugoslavia, viewed as either a terrorist or a freedom fighter.
+
+Source: adapted from "Assassination of Archduke Franz Ferdinand" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand

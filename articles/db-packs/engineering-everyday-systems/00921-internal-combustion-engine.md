@@ -48,3 +48,5 @@ John Barber sketched a gas turbine in 1791; Thomas Mead patented a gas engine an
 ## Open questions
 
 The long-term role of the ICE is unsettled. Battery electric vehicles are gaining road market share, and hydrogen fuel cells beat hydrogen ICEs on efficiency, but batteries are heavy and hydrogen storage remains hard, so piston and turbine engines are likely to remain in heavy transport, aviation, and remote power. Advanced concepts such as homogeneous charge compression ignition (HCCI) and split-cycle engines have shown higher efficiency and lower emissions in prototypes but face commercialization barriers.
+
+Source: adapted from "Internal combustion engine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Internal_combustion_engine

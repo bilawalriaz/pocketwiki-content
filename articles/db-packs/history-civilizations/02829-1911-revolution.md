@@ -27,3 +27,5 @@ Yuan's republicanism was thin. In December 1915 he declared himself Emperor, pro
 The revolution changed the symbol at the top of the state from emperor to president, and it did so permanently: no one seriously tried to restore the dynasty afterward. It made republican language, constitutions, and elections part of Chinese political vocabulary, and both the Republic of China, on Taiwan, and the People's Republic of China, on the mainland, still claim Sun Yat-sen as a founding figure.
 
 It did not transform the underlying social order. Landholding, the gentry, and the military-bureaucratic elite survived largely intact, and real power passed from one set of strongmen to another. That gap between political form and social reality is why historians disagree about whether the revolution succeeded: by 1916 the country had a republican flag, a constitutional vocabulary, and no republican government.
+
+Source: adapted from "1911 Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/1911_Revolution

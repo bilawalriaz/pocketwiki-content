@@ -47,3 +47,5 @@ The two Koreas have diverged dramatically. South Korea is a developed, capitalis
 *   The legality of the 1910 Japan–Korea Annexation Treaty is disputed, with claims it was signed under duress and without proper imperial ratification.
 *   The ownership of the Dokdo islets is contested by both Korea and Japan.
 *   The future of Korean reunification remains an open question, with ongoing diplomatic efforts and significant political, economic, and cultural barriers between the two states.
+
+Source: adapted from "Korea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Korea

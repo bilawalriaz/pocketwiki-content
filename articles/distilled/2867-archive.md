@@ -45,3 +45,5 @@ Physical archives are increasingly digitizing materials for greater accessibilit
 
 ## Debates and Open Questions
 The source highlights a debate about what is considered "archivable." Conventional archives may prioritize tangible items over ephemeral experiences, actions, and bodies, which can limit the content available and alienate marginalized populations. This has led to counter-archiving efforts that challenge traditional conceptions of history and aim to preserve narratives often absent from institutional archives. The destruction of archives, as seen in the lack of a Palestinian state archive, also forces historians to rely on alternative sources and methods.
+
+Source: adapted from "Archive" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Archive

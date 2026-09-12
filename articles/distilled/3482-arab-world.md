@@ -46,3 +46,5 @@ Arabic is the official language, with Modern Standard Arabic used formally and l
 - The precise definition of the "Arab world" is debated, particularly regarding the inclusion of non-Arab League states with Arabic-speaking populations or official recognition of the language.
 - The feasibility and desirability of Pan-Arabism as a unifying political project remain contested, having largely been superseded by nationalism and Islamism since the 1980s.
 - The impact of European colonialism in drawing modern state borders, often without local consultation, continues to influence regional instability and identity.
+
+Source: adapted from "Arab world" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arab_world

@@ -23,3 +23,5 @@ Stream of consciousness is a technique that attempts to replicate a character's 
 The unreliable narrator is one whose account may be biased, incomplete, or false, a device that creates suspense or mystery. Holden Caulfield in J.D. Salinger's *The Catcher in the Rye* is the classic example. Margaret Atwood's *The Handmaid's Tale* instead uses a fragmented first-person voice.
 
 Multiple narratives can frame stories within stories, a device with roots in oral traditions such as *One Thousand and One Nights*, where each tale contains another. N.K. Jemisin's *The Fifth Season* shifts into second person in parts. No single definition of point of view is settled; different theoretical approaches define it through person, perspective, voice, consciousness, or focus, and the ideological plane in particular resists formalisation, relying partly on intuitive analysis.
+
+Source: adapted from "Narration" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Narration

@@ -53,3 +53,5 @@ EDM culture is centered on festivals and clubs, which evolved from illegal raves
 - **Commercialization vs. Artistry**: There is criticism that the over-commercialization of EDM has led to a homogenized "big room" sound and a decline in DJing skill, with some artists arguing it prioritizes entertainment over artistry.
 - **Safety and Drug Culture**: The association of EDM with recreational drug use, particularly MDMA, has led to drug-related deaths at festivals, prompting legal bans and increased regulation in some regions.
 - **Economic Bubble**: Following corporate consolidation, there have been concerns about an EDM "bubble," with questions about the sustainability of high festival costs and market oversaturation.
+
+Source: adapted from "Electronic dance music" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electronic_dance_music

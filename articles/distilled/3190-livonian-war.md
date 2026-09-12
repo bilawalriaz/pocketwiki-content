@@ -44,3 +44,5 @@ The Truce of Jam Zapolski (1582) forced Russia to surrender all its Livonian hol
 - Whether Ivan IV's primary goal was a permanent Baltic trade corridor or merely a temporary outlet for trade and military pressure.
 - The impact of the oprichnina on Russia's military capacity and political will during the prolonged conflict.
 - The degree to which the Northern Seven Years' War (1563–1570) among the western powers enabled Russia's initial dominance in Livonia.
+
+Source: adapted from "Livonian War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Livonian_War

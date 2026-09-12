@@ -41,3 +41,5 @@ Originally, natural numbers were simply "numbers." The need to distinguish them 
 
 ## Debates and Open Questions
 The primary debate concerns whether 0 is a natural number. Early authors mostly excluded 0, but inclusion gained acceptance in the 1960s, formalized by ISO standards. Another foundational question involves the equivalence of different formal definitions—Peano arithmetic and set theory are consistent but differ in philosophical implications. Additionally, some theorems (like Goodstein's theorem) are provable in ZFC set theory but not in Peano arithmetic, highlighting limitations in formal systems.
+
+Source: adapted from "Natural number" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Natural_number

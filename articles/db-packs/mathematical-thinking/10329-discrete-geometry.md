@@ -25,3 +25,5 @@ Polyhedra and tessellations were studied for centuries, by Kepler and Cauchy amo
 **Digital geometry** treats discrete point sets as digitised models of objects in 2D or 3D Euclidean space, so that a digital image is a finite set of sampled points and digitising means replacing an object by a discrete subset of its points; TV screens, computer displays, and printed photographs all work this way. The main applications are computer graphics and image analysis.
 
 **Discrete differential geometry** studies discrete counterparts of differential-geometric notions, replacing smooth curves and surfaces with polygons, meshes, and simplicial complexes. It supports computer graphics and topological combinatorics through the discrete Laplace operator, discrete exterior calculus, discrete calculus, discrete Morse theory, and spectral shape analysis.
+
+Source: adapted from "Discrete geometry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Discrete_geometry

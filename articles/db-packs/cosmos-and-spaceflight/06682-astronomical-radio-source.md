@@ -31,3 +31,5 @@ Fast Radio Bursts (FRBs) are millisecond-long, highly energetic radio flashes fr
 ## Hypothetical and unconfirmed sources
 
 According to the Big Bang model, density fluctuations in the early universe could have created primordial black holes, smaller than known stellar black holes, that would survive cosmic expansion. Martin Rees theorised that a black hole evaporating via Hawking radiation would not radiate radio waves directly but would produce an expanding fireball of gamma rays and particles that pushes on surrounding magnetic fields and so generates a radio signal, which the Astropulse project aims to detect. SETI projects, beginning with Project Ozma, have traditionally searched for narrow-band signals analogous to human broadcasts, and Astropulse's broader transient search can run in parallel with them.
+
+Source: adapted from "Astronomical radio source" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Astronomical_radio_source

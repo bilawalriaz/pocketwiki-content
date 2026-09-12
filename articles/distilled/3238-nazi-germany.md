@@ -48,3 +48,5 @@ Hitler's aggressive foreign policy, starting with the remilitarisation of the Rh
 *   **Hitler's Role**: Scholars like Ian Kershaw emphasise Hitler's central, ideological role, while others stress the autonomous, radicalising actions of the Nazi elite and state apparatus.
 *   **German Knowledge and Complicity**: The extent to which ordinary Germans were aware of and complicit in the regime's crimes remains a central question, with evidence showing varying levels of knowledge, from direct participation to wilful ignorance.
 *   **Economic Motivations**: There is debate over whether territorial expansion and war were primarily driven by ideological goals (*Lebensraum*) or by economic necessity to sustain the rearmament program and resolve structural weaknesses.
+
+Source: adapted from "Nazi Germany" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nazi_Germany

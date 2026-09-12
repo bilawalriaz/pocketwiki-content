@@ -39,3 +39,5 @@ Scotland was the persistent northern problem. Mary, Queen of Scots, a Catholic w
 The period produced the English Madrigal School (Byrd, Dowland). Portraiture flourished under Holbein and Hilliard. Practical science advanced through craftsmen and explorers: Drake’s circumnavigation (1577–1580), Frobisher and Gilbert’s Northwest Passage attempts, and the mathematical work of Thomas Digges and Thomas Harriot. Francis Bacon articulated the empirical method; John Dee blended mathematics, navigation, and alchemy.
 
 The Tudor myth—later historiography casting the 15th century as anarchic and the 16th as golden—obscures the period’s violence, fiscal strain, and religious coercion. Yet by 1603 England possessed a sovereign church, a professional bureaucracy, a navy capable of oceanic projection, and a demographic and commercial momentum that would drive the next century’s expansion.
+
+Source: adapted from "Tudor period" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tudor_period

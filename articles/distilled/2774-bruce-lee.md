@@ -49,3 +49,5 @@ Lee is regarded as the most influential martial artist of all time and a pop cul
 - **Match with Wong Jack-man**: Accounts differ on the fight's duration (3 minutes vs. 20–25 minutes) and outcome. Lee's dissatisfaction with the fight reportedly spurred his philosophical evolution.
 - **Role in *Kung Fu* TV Series**: Lee pitched a series called *The Warrior*, which Warner Bros. redeveloped as *Kung Fu* and cast David Carradine, citing Lee's accent and ethnicity as barriers.
 - **Grace Ho's Parentage**: Lee's mother's ancestry is contested, with theories involving German, Dutch-Jewish, English, or Chinese heritage.
+
+Source: adapted from "Bruce Lee" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bruce_Lee

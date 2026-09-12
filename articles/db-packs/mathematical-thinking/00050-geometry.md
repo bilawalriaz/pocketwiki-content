@@ -40,3 +40,5 @@ In applications, perspective inspired projective geometry; tessellations and hyp
 - **Erlangen programme**: geometry defined by its symmetry group.
 - **Scheme theory**: Grothendieck's framework enabling topological methods in algebraic geometry.
 - **Geodesic**: a generalization of a straight line to curved spaces.
+
+Source: adapted from "Geometry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Geometry

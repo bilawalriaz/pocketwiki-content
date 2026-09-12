@@ -67,3 +67,5 @@ In **symmetric-key cryptography**, sender and receiver share the same secret key
 *   **Legal Boundaries**: Does forced decryption violate rights against self-incrimination (US Fifth Amendment, similar protections elsewhere)?
 *   **DRM vs. Research**: Does the DMCA (and global equivalents) legitimately protect copyright or unconstitutionally suppress security research and fair use?
 *   **Provable Security**: Few systems are unconditionally secure; most rely on unproven hardness assumptions (P vs NP, factoring difficulty). A breakthrough in algorithms or math could collapse current infrastructure.
+
+Source: adapted from "Cryptography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cryptography

@@ -39,3 +39,5 @@ The North Island's sub-national GDP was NZ$282.355 billion in 2021, representing
 
 ## Debates and Open Questions
 The 2013 official naming resolved a formal debate about the island's lack of an official name. A historical naming debate involved the use of "Aotearoa" for the North Island versus the entire country. The ongoing demographic trend of "Northern drift" is noted, though its pace has slowed and internal migration patterns have recently reversed.
+
+Source: adapted from "North Island" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/North_Island

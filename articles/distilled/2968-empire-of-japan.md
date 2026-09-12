@@ -45,3 +45,5 @@ Following surrender, Japan was occupied by Allied forces, primarily led by U.S. 
 
 ## Debates and open questions
 Scholars debate the precise political classification of the Empire of Japan, particularly during the 1930s and 1940s. While some historians use terms like "fascist" or "totalitarian," others argue these are inadequate due to the absence of a single dictator with absolute power and a mass fascist party. Alternative terms proposed include "militarism," "authoritarianism," "police state," or "para-fascism." The role of Emperor Hirohito—whether he was a figurehead or an active war leader—remains a significant historical debate.
+
+Source: adapted from "Empire of Japan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Empire_of_Japan

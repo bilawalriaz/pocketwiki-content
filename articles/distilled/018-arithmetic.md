@@ -68,3 +68,5 @@ Arithmetic education is one of the first forms of mathematics education, startin
 - Whether the Lebombo bone (c. 43,000 years ago) and Ishango bone (c. 22,000–30,000 years ago) are the oldest arithmetic artifacts is disputed; a basic sense of numbers may predate these findings and might even have existed before language.
 - Some mathematicians do not distinguish between natural and whole numbers, including 0 in the set of natural numbers.
 - In philosophy, there is debate over whether arithmetic truths are knowable a priori (by thinking alone) or, as naturalist philosophers like Quine argue, grounded in the sensory world described by empirical sciences.
+
+Source: adapted from "Arithmetic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arithmetic

@@ -68,3 +68,5 @@ West's secret 1911 marriage to Frank Wallace was exposed in 1935; they divorced 
 *   **Age Ambiguity**: West actively obscured her age throughout her career; Paramount publicity often listed her birth year as 1900 or later, though the 1893 date is confirmed by census and birth records.
 *   **Censorship Strategy**: Historians debate whether West's practice of "baiting" censors with extreme lines was a calculated survival tactic or a genuine expression of her artistic limits.
 *   **Authorship of Late Works**: The extent of West's sole authorship versus collaboration (e.g., with Ian Whitcomb on *Great Balls of Fire* or ghostwriters on autobiographies) remains unclear for her 1960s–70s output.
+
+Source: adapted from "Mae West" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mae_West

@@ -62,3 +62,5 @@ Electronic media enabled global delivery of entertainment by the second half of 
 - The negative effects of screen-based entertainment on children's imagination, adult cognition, and psychological well-being, including the "remarkable collapse of children's engagement with nature."
 - Whether banning dances (e.g., Nazi Germany, Ireland, the US) reduces or increases their popularity—banning often made "the dance craze" greater.
 - Whether online entertainment would completely replace television—expected by some by the mid-2010s, which did not happen.
+
+Source: adapted from "Entertainment" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Entertainment

@@ -40,3 +40,5 @@ In the 1970s, innovation focused on electronics and extended range. Alembic pion
 
 ## Debates and Open Questions
 The source notes that the proper terminology for the instrument is debated, with some authors insisting "electric bass" is the historically accurate term, while common usage includes "bass guitar," "electric bass guitar," and simply "bass."
+
+Source: adapted from "Bass guitar" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bass_guitar

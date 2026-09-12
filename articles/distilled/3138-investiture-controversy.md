@@ -41,3 +41,5 @@ A parallel, earlier dispute in England between King Henry I and Archbishop Ansel
 - The Concordat of Worms was ambiguous, leading scholars to debate whether it truly achieved the papacy's reform goals or was a pragmatic compromise that preserved significant imperial influence.
 - The long-term impact is debated: some argue it permanently weakened imperial authority and delayed the formation of nation-states in Germany and Italy until the 19th century, while others see it as establishing a model for limiting secular power over the church.
 - The political scientist Bruce Bueno de Mesquita argues the Concordat created incentives for northern European rulers to foster prosperity and liberty to gain leverage against the papacy, potentially enabling the later Protestant Reformation.
+
+Source: adapted from "Investiture Controversy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Investiture_Controversy

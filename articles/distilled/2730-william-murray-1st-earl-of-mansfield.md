@@ -46,3 +46,5 @@ In *Millar v Taylor* (1769), Mansfield ruled for perpetual copyright, a decision
 *   **Intent in *Somersett's Case*:** Scholars debate whether Mansfield intended to free all slaves in England or only to rule narrowly against forcible removal. The prevailing view is that he did not intend general emancipation, citing his private comments and the narrow wording of the judgment.
 *   **Legacy and Criticism:** While praised as a legal genius who modernized English law, Mansfield has been criticized for his resistance to press freedom, alleged nepotism, and his role in a government seen as antagonistic to the American colonies.
 *   **Impact of Reforms:** The effectiveness and long-term acceptance of some of his commercial law reforms, like the attempt to minimize the role of consideration, are subjects of ongoing legal academic discussion.
+
+Source: adapted from "William Murray, 1st Earl of Mansfield" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Murray%2C_1st_Earl_of_Mansfield

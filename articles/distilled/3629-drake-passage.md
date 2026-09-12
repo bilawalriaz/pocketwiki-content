@@ -39,3 +39,5 @@ The Drake Passage's constrained geography makes it a key location for oceanograp
 - The exact timing of the Drake Passage's opening is debated, with estimates ranging from 49 to 17 million years ago.
 - The precise role of the passage's opening in causing Antarctic glaciation and global climate change is a subject of ongoing research and modeling.
 - The relative importance of the Drake Passage's bathymetry versus wind forcing in driving the ACC and global circulation is studied through various models.
+
+Source: adapted from "Drake Passage" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Drake_Passage

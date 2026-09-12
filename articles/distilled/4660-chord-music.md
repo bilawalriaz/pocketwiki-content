@@ -38,3 +38,5 @@ Chords are often analyzed by their relationship to the tonic and dominant scale 
 
 ## Debates and Open Questions
 The source notes that chords can be "spelled and analyzed in a dizzying number of ways," with the most essential aspect being "how they sound." This implies an ongoing tension between theoretical analysis and aural perception in understanding harmony.
+
+Source: adapted from "Chord (music)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chord_%28music%29

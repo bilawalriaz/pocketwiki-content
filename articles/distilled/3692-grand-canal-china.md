@@ -38,3 +38,5 @@ After the 1855 Yellow River flood and the rise of railways, the canal declined. 
 - The exact date and origin of the earliest canal sections, like the Hong Canal, are uncertain and debated by historians.
 - The long-term environmental impact of the South-North Water Transfer Project on the canal's ecosystem and local fisheries remains a concern.
 - The feasibility and cost of fully restoring navigation on the northern section of the canal to Beijing are ongoing subjects of planning and debate.
+
+Source: adapted from "Grand Canal (China)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Grand_Canal_%28China%29

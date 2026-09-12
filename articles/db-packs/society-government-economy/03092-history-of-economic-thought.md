@@ -37,3 +37,5 @@ The 2008 global financial crisis revived Keynesian policy debates. With interest
 Four unresolved questions structure modern economics. First, the role of the state: how far should governments intervene to correct market failures, redistribute income, or stabilise the cycle? Second, the theory of value: labour, marginal utility, scarcity, and social estimation each anchor a different school. Third, the causes of crises: internal dynamics such as debt cycles and asset bubbles, external shocks, or policy error. Fourth, what to measure: GDP per capita, broader human development as Sen proposed, or environmental sustainability, with each metric implying different policy priorities.
 
 What divides the tradition is how much weight to give markets, mathematics, and moral purpose when analysing wealth, exchange, and policy.
+
+Source: adapted from "History of economic thought" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_economic_thought

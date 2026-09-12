@@ -45,3 +45,5 @@ Today, Fez consists of the historic medinas (Fes el-Bali and Fes Jdid) and the l
 *   The exact etymology of the name "Fez" is debated, with theories linking it to a pickaxe, an ancient city name, or a local region.
 *   The precise date and circumstances of the formation of the Mellah (Jewish quarter) in Fes Jdid are not firmly established, though many scholars date it to the 15th century.
 *   The impact of French colonial "policy of association" is debated; scholar Janet Abu-Lughod argued it created a form of urban "apartheid" between stagnant indigenous areas and expanding European cities.
+
+Source: adapted from "Fez, Morocco" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fez%2C_Morocco

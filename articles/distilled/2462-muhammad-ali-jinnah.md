@@ -45,3 +45,5 @@ As Pakistan's first governor-general, Jinnah oversaw the massive migration of mi
 - **Religious Affiliation**: Controversy persists over whether Jinnah was a Shia Muslim, a Sunni Muslim, or simply a non-sectarian Muslim, with legal cases and conflicting testimonies.
 - **Intent for Partition**: Some historians argue Jinnah used the Pakistan demand as a bargaining chip for Muslim rights within a united India, while others see it as a genuine, non-negotiable goal.
 - **Legacy in India**: Jinnah is viewed negatively by many in India as the architect of partition, though some Indian politicians have praised his statesmanship.
+
+Source: adapted from "Muhammad Ali Jinnah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah

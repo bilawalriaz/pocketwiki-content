@@ -66,3 +66,5 @@ Conversely, a literal reading of the *rubāʿiyāt* suggests **agnosticism, fata
 3.  **Transmission of Geometry**: Did Khayyam’s work on the parallel postulate (via Tusi and Wallis) directly influence Girolamo Saccheri and the European development of non-Euclidean geometry, or was the similarity independent? Saccheri used Tusi’s lemma and figure lettering, but the extent of causal influence is debated.
 4.  **Binomial Theorem**: Did Khayyam possess a general proof for $(a+b)^n$, or only the specific root-extraction algorithms mentioned in his lost *Difficulties of Arithmetic*? The evidence is inferential.
 5.  **Observatory Fate**: The Isfahan observatory was disused after 1092; the extent to which its instruments or data survived to influence later Islamic astronomy (e.g., Maragheh) is unclear.
+
+Source: adapted from "Omar Khayyam" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Omar_Khayyam

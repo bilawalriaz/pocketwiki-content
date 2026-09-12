@@ -19,3 +19,5 @@ A tertiary source consolidates and indexes primary and secondary sources without
 ## Why the distinction matters
 
 The classification is not a hierarchy of reliability. A primary source can be biased, incomplete, or mistaken; a secondary source can be rigorous and illuminating. The categories describe the relationship between source and event: primary sources are the raw material; secondary sources are the first layer of scholarly processing; tertiary sources are the reference map. Historians move among all three, but their arguments must ultimately rest on primary evidence interpreted through secondary scholarship.
+
+Source: adapted from "Historical source" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Historical_source

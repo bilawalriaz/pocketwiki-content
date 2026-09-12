@@ -49,3 +49,5 @@ Bavarian culture is heavily influenced by its Catholic heritage, especially in t
 - **Cultural Uniformity**: Bavaria is not culturally uniform; the regions of Altbayern, Franconia, and Swabia have distinct dialects and traditions.
 - **Political Dominance**: The long-standing dominance of the CSU is a subject of political analysis, as is its relationship with the national CDU.
 - **Human Rights Legislation**: A 2017 law allowing preventive detention has been criticized by some as violating human rights conventions.
+
+Source: adapted from "Bavaria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bavaria

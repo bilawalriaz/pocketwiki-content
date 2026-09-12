@@ -36,3 +36,5 @@ The Kuomintang government established the National Flood Relief Commission, led 
 
 ## Debates and Open Questions
 The exact death toll remains highly contested, with estimates ranging from hundreds of thousands to several million, reflecting challenges in historical data and the indirect effects of famine and disease. The long-term impact of the disaster on Chinese politics and society, and its role in shaping later infrastructure projects like the Three Gorges Dam, is also a subject of historical analysis.
+
+Source: adapted from "1931 China floods" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/1931_China_floods

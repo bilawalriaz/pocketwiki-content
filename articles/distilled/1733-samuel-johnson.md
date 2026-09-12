@@ -80,3 +80,5 @@ Johnson was a celebrity in life; his health and conversation were reported in jo
 *   **Political consistency**: Johnson’s early Jacobite sympathies vs. later Hanoverian acceptance; his opposition to slavery vs. defense of colonial taxation (*Taxation No Tyranny*); his anti-Scottish prejudice vs. Scottish biographer Boswell.
 *   **Dictionary’s methodology**: Johnson’s etymologies were criticized even then (Macaulay: "wretched etymologist"); his reliance on literary quotations privileged "high" usage over spoken language, a tension in lexicography.
 *   **Shakespeare edition’s textual theory**: Johnson aimed for the author’s final intention but lacked a coherent textual bibliography; later editors (Malone) refined his principles.
+
+Source: adapted from "Samuel Johnson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samuel_Johnson

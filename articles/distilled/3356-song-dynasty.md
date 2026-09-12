@@ -44,3 +44,5 @@ Technological innovation was prolific. The Song was the first government to issu
 
 ## Debates and Open Questions
 Scholars debate the extent of social mobility enabled by the civil service examination system. While some historians argue it created a meritocratic society, others contend that wealthy, land-owning families maintained a disproportionate advantage in affording the education needed to pass the exams, limiting true equality of opportunity. The role and influence of the gentry class in local governance versus the central state's authority is also a subject of ongoing analysis.
+
+Source: adapted from "Song dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Song_dynasty

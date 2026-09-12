@@ -49,3 +49,5 @@ The city's architecture is a mix of historical styles, communist-era blocks, and
 - The quality of life in Bucharest is a subject of concern, with international surveys ranking it low among European capitals and local reports describing its urban management as "critical."
 - The historical city centre's status as "endangered" highlights ongoing tensions between preservation and modern development.
 - The impact of rapid suburbanization in surrounding Ilfov County on the city's infrastructure and social fabric is a continuing issue.
+
+Source: adapted from "Bucharest" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bucharest

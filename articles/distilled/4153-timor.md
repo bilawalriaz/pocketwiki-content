@@ -45,3 +45,5 @@ The Timor and Wetar deciduous forests ecoregion supports endemic species like th
 ## Debates and Open Questions
 - The geological deformation of Timor is debated: some researchers advocate for shallow, "thin-skinned" deformation, while others argue for deformation involving the deeper basement rock.
 - There is no evidence of popular support in West Timor for a proposed "Great Timor" union with Timor-Leste, and the current Timor-Leste government recognizes the existing boundary.
+
+Source: adapted from "Timor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Timor

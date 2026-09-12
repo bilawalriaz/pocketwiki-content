@@ -45,3 +45,5 @@ Switzerland has a highly developed, stable economy with one of the world's highe
 - **EU Membership:** Switzerland has consistently rejected EU membership in referendums, but maintains close ties through bilateral agreements. The future direction of this relationship remains a key political question.
 - **Immigration and Free Movement:** Initiatives to restrict immigration and end the free movement of people from the EU have been put to popular votes, reflecting ongoing tension between economic integration and national sovereignty.
 - **Banking Secrecy:** International pressure has led to reforms, but Switzerland's status as a financial center and its tradition of banking secrecy continue to be subjects of global debate.
+
+Source: adapted from "Switzerland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Switzerland

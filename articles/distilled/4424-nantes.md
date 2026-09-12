@@ -45,3 +45,5 @@ Key landmarks include the Gothic Castle of the Dukes of Brittany and the 15th-ce
 
 ## Debates and open questions
 The primary ongoing debate concerns the administrative status of Nantes and the Loire-Atlantique department. A significant portion of the population supports reunification with the Brittany region, but this is opposed by officials in the Pays de la Loire region, who argue the region would be economically weakened without Nantes. The city council acknowledges its Breton cultural ties but maintains a position of openness, considering Nantes an independent metropolis.
+
+Source: adapted from "Nantes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nantes

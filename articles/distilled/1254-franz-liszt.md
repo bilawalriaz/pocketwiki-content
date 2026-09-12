@@ -71,3 +71,5 @@ Liszt published essays ("De la situation des artistes," 1835), program notes for
 - **Late works’ influence timeline**: Many radical late pieces (*Nuages gris*, *Via crucis*) were unpublished until 1927 (José Vianna da Motta edition); thus their direct impact on early modernists (Debussy, Schoenberg, Bartók) is debated—some argue anticipation, others delayed reception.
 - **Carolyne’s annulment failure**: Vatican intervention (Cardinal Hohenlohe, Tsar Alexander II) blocked the 1861 marriage; the precise political/financial machinations remain partially opaque.
 - **Cause of death (1886)**: Official cause was pneumonia contracted before Bayreuth; biographers note possible heart attack; no autopsy was performed.
+
+Source: adapted from "Franz Liszt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Franz_Liszt

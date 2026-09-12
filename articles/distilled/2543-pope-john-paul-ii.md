@@ -54,3 +54,5 @@ His health declined in the 1990s due to Parkinson's disease. He died on 2 April 
 *   **Handling of Sexual Abuse:** His papacy is criticized for its response to the clerical sexual abuse crisis. A 2023 report alleged he concealed abuse cases as Archbishop of Kraków, though this is contested. His handling of cases like Theodore McCarrick remains controversial.
 *   **Relationship with Anna-Teresa Tymieniecka:** The nature of his decades-long friendship with the philosopher has been scrutinized, though both denied romantic involvement.
 *   **Beatification Controversy:** Some opposed his beatification and canonization, citing his social stances and the scandals during his pontificate.
+
+Source: adapted from "Pope John Paul II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pope_John_Paul_II

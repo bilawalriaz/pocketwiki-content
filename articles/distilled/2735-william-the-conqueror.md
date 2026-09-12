@@ -46,3 +46,5 @@ William's later years were troubled by conflicts with his continental enemies, h
 - **Harold's Oath**: Whether Harold Godwinson swore a binding oath to support William's claim to the English throne is a central point of contention between Norman and English sources.
 - **Impact of the Conquest**: Historians disagree on the radicalism of the changes brought by the Conquest. Some, like Richard Southern, see it as a profound transformation, while others, like H. G. Richardson, view the changes as less abrupt.
 - **The New Forest**: The extent to which William depopulated the area to create his hunting ground is debated; modern studies suggest the region was already sparsely settled.
+
+Source: adapted from "William the Conqueror" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_the_Conqueror

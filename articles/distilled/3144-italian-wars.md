@@ -43,3 +43,5 @@ The wars were a crucible for military innovation. Charles VIII's 1494 invasion i
 - **Spanish Hegemony:** While 20th-century historians often viewed the post-1559 settlement as establishing clear Spanish hegemony in Italy, 21st-century scholarship contests this, arguing that Spain's power was limited and that other entities, especially the Papacy and the Holy Roman Empire, retained significant influence.
 - **Impact on State Formation:** Historian Charles Tilly argued the Italian Wars were a key part of his theory of state formation, demonstrating the value of large armies and superior military technology in creating a "comprehensive European state system."
 - **Franco-Ottoman Alliance:** The nature and impact of the alliance between Christian France and the Muslim Ottoman Empire, which shocked contemporaries, is a subject of ongoing study regarding its diplomatic and military significance.
+
+Source: adapted from "Italian Wars" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Italian_Wars

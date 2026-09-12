@@ -83,3 +83,5 @@ In 1890, Gilbert sued D'Oyly Carte over production expenses, particularly a carp
 ## Debates and Open Questions
 
 The "carpet quarrel" of 1890 remains debated among scholars regarding whether Gilbert's financial concerns were justified or merely symptomatic of personality conflicts. The extent to which Sullivan's serious musical ambitions were compromised by the partnership continues to generate discussion, particularly given his expressed desire for grand opera. The influence of their works on subsequent musical theatre development, while acknowledged, varies in assessment among cultural historians regarding its precise scope and mechanism.
+
+Source: adapted from "Gilbert and Sullivan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gilbert_and_Sullivan

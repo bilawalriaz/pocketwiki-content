@@ -37,3 +37,5 @@ Aladdin is classified as tale type ATU 561 in the Aarne–Thompson–Uther Index
 - **Authorship**: Was Hanna Diyab the original author of the Aladdin story, or merely a source for Galland? Scholars Bottigheimer and Horta argue for Diyab's authorship based on autobiographical parallels.
 - **Authenticity of Arabic Manuscripts**: Are the discovered Arabic manuscripts original sources or later "back-translations" of Galland's French version? Muhsin Mahdi's analysis supports the latter theory.
 - **Setting**: Is the Chinese setting a literal geographic reference or a literary device for an exotic land? The historical presence of Muslim communities in China and the use of "China" as a generic term in Arabic literature are key points in this debate.
+
+Source: adapted from "Aladdin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Aladdin

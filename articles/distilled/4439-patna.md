@@ -46,3 +46,5 @@ Patna is governed by the Patna Municipal Corporation (PMC) and is the seat of th
 ## Debates and Open Questions
 - The exact age of Patna is debated; while traditional accounts cite 490 BCE, some scholars suggest its wooden fortifications indicate it may be much older, pending archaeological confirmation.
 - The origin of the modern name "Patna" has multiple theories, including derivation from the goddess Patan Devi or the *patli* tree.
+
+Source: adapted from "Patna" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Patna

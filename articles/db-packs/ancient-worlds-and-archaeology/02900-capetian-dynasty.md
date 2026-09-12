@@ -17,3 +17,5 @@ The succession crisis of 1328 turned on a legal question, not a military one. Th
 ## Decline and modern survival
 
 The French monarchy was abolished during the Revolution in 1792, and Louis XVI was executed the following year. The Bourbon restoration of 1814 briefly revived the line, but the July Revolution of 1830 replaced Charles X with Louis Philippe I of the Orléans branch, the last Capetian to sit on the French throne, and the monarchy finally ended in 1848. Capetians survive in two ways today. First, through cadet branches still reigning: the Spanish and Luxembourg Bourbons. Second, through pretenders to defunct thrones, most prominently Louis Alphonse, Duke of Anjou, the Legitimist claimant to France, along with others in Brazil, Portugal, and Italy. Philip IV, who brought the papacy under French control, shows the dynasty's reach even at its peak.
+
+Source: adapted from "Capetian dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Capetian_dynasty

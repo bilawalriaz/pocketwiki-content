@@ -42,3 +42,5 @@ The mountains have historically been a barrier to east-west travel, shaping U.S.
 - The precise origin of Appalachian balds is debated; they may result from a combination of Pleistocene climate, megafauna grazing, Native American burning, and later livestock grazing.
 - The exact pronunciation of "Appalachian" is a point of regional debate and identity.
 - The ecological future of the range is uncertain due to ongoing threats from invasive species, climate change, and the legacy of extractive industries.
+
+Source: adapted from "Appalachian Mountains" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Appalachian_Mountains

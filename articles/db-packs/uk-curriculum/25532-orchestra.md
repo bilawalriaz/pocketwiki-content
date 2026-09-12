@@ -78,3 +78,5 @@ Core repertoire: symphonies (multi-movement orchestral works), concertos (solois
 - **Percussion assignment**: Principal percussionist distributes parts; players specialize (timpanist plays only timpani).
 
 The orchestra remains a living institution: its instrumentation reflects technological history, its hierarchy balances individual artistry with collective precision, and its repertoire spans four centuries while continually absorbing new sounds.
+
+Source: adapted from "Orchestra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Orchestra

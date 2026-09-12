@@ -58,3 +58,5 @@ Williams is credited with setting the agenda for contemporary country songcraft�
 - **Paternity claims**: Lewis Fitzgerald (born 1943) claimed to be Williams’s son via cousin Marie McNeil; family denied it, though Billy Walker recalled Williams referencing men visiting his mother’s boarding house. No DNA resolution is noted in the source.
 - **Mother’s Best Flour recordings ownership**: Acetates rescued from trash in the 1960s sparked lawsuits among PolyGram, Legacy Entertainment, and Williams’s heirs. A 2006 Tennessee Court of Appeals ruling granted sole rights to Hank Jr. and Jett Williams, enabling the 2010 box set release.
 - **Artistic assessment**: Ken Tucker (*Entertainment Weekly*) called Williams "possibly the least likable—least warm and sympathetic—figure in modern music," citing misogyny and self-pity, while Hank Jr. noted the stark contrast between his father’s lifetime vilification in Nashville and posthumous sainthood.
+
+Source: adapted from "Hank Williams" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hank_Williams

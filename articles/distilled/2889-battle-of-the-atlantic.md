@@ -43,3 +43,5 @@ Germany developed new technologies like the snorkel (allowing submerged diesel o
 
 ## Debates and Open Questions
 Historians debate the primary cause of the German defeat. Some, like Max Hastings, argue that breaking the Enigma code ("Ultra") was decisive, saving millions of tons of shipping. Others, citing German archives, contend that the development of centimetric radar and the massive increase in Allied escorts and aircraft were more critical. A related debate concerns whether Germany ever came close to winning. While some historians suggest the U-boat threat nearly starved Britain, others, like Alan Levine, argue this is a misperception, noting that over 99% of ships sailing to Britain arrived safely and that Allied shipbuilding consistently outpaced sinkings after 1941.
+
+Source: adapted from "Battle of the Atlantic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Battle_of_the_Atlantic

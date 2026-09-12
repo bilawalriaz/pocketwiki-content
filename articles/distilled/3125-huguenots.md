@@ -44,3 +44,5 @@ Persecution ended officially with the Edict of Versailles (1787), and full right
 
 ## Debates and Open Questions
 The exact origin of the term "Huguenot" is debated, with hypotheses ranging from a reference to Swiss politician Besançon Hugues to a corruption of the name of King Hugues Capet or a derogatory term linking Protestants to ghosts. Historians also debate the precise demographic impact of the exodus, with estimates of the number of refugees varying widely. The long-term economic effect of the "brain drain" on France versus the technological and industrial benefits gained by receiving nations like Prussia and England remains a subject of study.
+
+Source: adapted from "Huguenots" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Huguenots

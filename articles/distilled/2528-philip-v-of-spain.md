@@ -38,3 +38,5 @@ Philip's second wife, Elisabeth Farnese, became influential in government, espec
 *   **Motivation for Abdication:** The text notes that Philip's 1724 abdication was believed by some to be a tactic to circumvent the Treaty of Utrecht and claim the French throne, but states the actual reason was his declining mental health.
 *   **Historical Assessment:** Historians are generally critical of Philip V. One view, cited from historian John Lynch, is that he advanced Spanish government only marginally and was more of a liability than his Habsburg predecessor, Charles II, often favoring French interests over Spanish ones.
 *   **Effectiveness of Reforms:** While Philip initiated centralizing reforms, the text indicates that below the elite level, the inefficiency and corruption of the previous era persisted, and his reforms were only fully realized under his later successor, Charles III.
+
+Source: adapted from "Philip V of Spain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philip_V_of_Spain

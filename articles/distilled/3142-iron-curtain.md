@@ -47,3 +47,5 @@ The curtain's collapse began with Mikhail Gorbachev's reforms (glasnost and pere
 ## Debates and Open Questions
 *   The precise origin of the term "iron curtain" is debated, with earlier uses by figures like Queen Elisabeth of Belgium (1914) and Vasily Rozanov (1918) preceding Churchill's famous speech.
 *   The role and intent of the Pan-European Picnic in precipitating the fall of the Iron Curtain are analyzed as either a planned catalyst or an opportunistic event that exposed the weakening resolve of Eastern Bloc regimes.
+
+Source: adapted from "Iron Curtain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Iron_Curtain

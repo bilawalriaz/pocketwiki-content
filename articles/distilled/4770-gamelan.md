@@ -47,3 +47,5 @@ Gamelan instruments are primarily made of bronze or brass, with a five-stage cra
 - The precise origins and development of gamelan before the 8th-century Borobudur reliefs are debated, as it predates written records.
 - The extent of Indian influence on gamelan is contested; the source states the only obvious influence is in singing styles and *wayang* themes.
 - The claim by ethnomusicologist Colin McPhee that "there are as many scales as there are gamelans" due to tuning variations is noted as contested by some gamelan teachers.
+
+Source: adapted from "Gamelan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gamelan

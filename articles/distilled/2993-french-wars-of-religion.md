@@ -48,3 +48,5 @@ The Edict of Nantes provided a grudging peace but did not end religious strife. 
 *   **Periodization:** Historians debate the exact start and end of the wars. While 1562–1598 is the core period, some extend the conflict to the Peace of Alès in 1629, which ended Huguenot political privileges.
 *   **Causes of Violence:** Explanations for the turn to widespread violence vary, from the influence of radical leaders and eschatological preaching to the politicization of factions and peasant responses to seigneurial pressures.
 *   **Nature of the Conflict:** Scholars debate whether the wars were primarily about religion or were driven by political power struggles among the nobility, with religion serving as a mobilizing force.
+
+Source: adapted from "French Wars of Religion" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_Wars_of_Religion

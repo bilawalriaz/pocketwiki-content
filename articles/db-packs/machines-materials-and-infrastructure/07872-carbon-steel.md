@@ -60,3 +60,5 @@ Higher carbon narrows the safe forging window. The table lists the maximum recom
 | 0.9% carbon | 1,121 | 1,221 |
 | 0.5% carbon | 1,249 | 1,349 |
 | 0.2% carbon | 1,321 | 1,471 |
+
+Source: adapted from "Carbon steel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carbon_steel

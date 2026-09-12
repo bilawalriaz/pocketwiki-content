@@ -43,3 +43,5 @@ The lake is a key part of the Great Lakes Waterway, connected to the Atlantic vi
 
 ## Debates and Open Questions
 The source notes ongoing ecological challenges, such as the impact of stabilized water levels on wetland diversity and the invasion of cattails. It also highlights the tension between development and environmental protection, as seen in the legal dispute over offshore wind power generation in the Canadian portion of the lake.
+
+Source: adapted from "Lake Ontario" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Ontario

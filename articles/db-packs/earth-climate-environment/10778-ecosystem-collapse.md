@@ -23,3 +23,5 @@ Ecosystems currently on the brink include the Kimberley and Cape York Peninsula 
 ## Can collapse be reversed?
 
 Sometimes, but rarely easily. Where reversal has succeeded, it demands active intervention and long timescales, conditions far costlier than preventing collapse in the first place. Conservation must therefore act on early warning signals before visible crisis, the same logic that obliges biologists to protect a species before it falls below a viable population and an extinction debt is locked in. The IUCN Red List of Ecosystems is younger and less comprehensive than its species counterpart, and criteria for assessing collapse risk are still being refined.
+
+Source: adapted from "Ecosystem collapse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ecosystem_collapse

@@ -78,3 +78,5 @@ Heinlein made spaceflight seem practical, not "gee whiz." *Destination Moon* (19
 - **Race in *Sixth Column* and *Farnham’s Freehold*:** *Sixth Column*’s race-specific weapons (Campbell’s idea) and *Farnham’s Freehold*’s cannibalistic Black rulers are cited as either failed anti-racist satire or evidence of unconscious bias.
 - **Incest and pedophilia in late work:** Depictions of adult-child and intra-familial sex (*Time Enough for Love*, *To Sail Beyond the Sunset*) are defended as thought experiments voiding genetic taboos via technology, and attacked as normalization of abuse.
 - **Literary merit of late novels:** The post-1980 *World as Myth* books (*The Number of the Beast*, *The Cat Who Walks Through Walls*, etc.) are polarizing: some see didactic self-indulgence; others, a culmination of his metaphysical project.
+
+Source: adapted from "Robert A. Heinlein" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_A._Heinlein

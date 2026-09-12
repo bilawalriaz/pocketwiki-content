@@ -71,3 +71,5 @@ Burns’s style combines spontaneity, directness, and sincerity, ranging from te
 *   **Mary Campbell ("Highland Mary"):** The nature of their 1786 relationship is conjectural. Burns wrote she "plighted their troth" over the Water of Fail (a traditional marriage rite) and planned to emigrate together; she died of typhus months later.
 *   **Number of skull casts:** Following the 1834 phrenological exhumation, it is unknown how many plaster casts were made by plasterer James Fraser; six are documented in museums, but some may be copies of an original.
 *   **Authorship of "The Merry Muses of Caledonia":** This collection of bawdy songs bears a title not chosen by Burns; the extent of his authorship versus collection/adaptation of existing folk material remains unclear.
+
+Source: adapted from "Robert Burns" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Burns

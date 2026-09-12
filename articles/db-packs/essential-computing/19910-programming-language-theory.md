@@ -29,3 +29,5 @@ The 1970s added denotational semantics (Dana Scott, 1970), logic programming and
 Research appears mostly at conferences: POPL (Principles of Programming Languages), PLDI (Language Design and Implementation), ICFP (Functional Programming), OOPSLA (Object-Oriented Programming), and ASPLOS (Architectural Support for Programming Languages). Peer-reviewed journals include *ACM TOPLAS*, the *Journal of Functional Programming*, the *Journal of Functional and Logic Programming*, and *Higher-Order and Symbolic Computation*.
 
 PLT draws heavily on computability theory, category theory, and set theory to formalise what languages can express and what proofs about them are valid.
+
+Source: adapted from "Programming language theory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Programming_language_theory

@@ -39,3 +39,5 @@ The Grand Duchy was ethnically diverse. While ethnic Lithuanians were the majori
 
 ## Debates and open questions
 The article notes a long-running historical debate among Lithuanian, Belarusian, and Ukrainian historians about the essential character of the state: whether it was fundamentally a Lithuanian empire or a Ruthenian-Lithuanian state where Ruthenian culture played a central role. The state's multi-ethnic nature and the use of Ruthenian in administration are key points in this discussion.
+
+Source: adapted from "Grand Duchy of Lithuania" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania

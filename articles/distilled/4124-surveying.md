@@ -61,3 +61,5 @@ Surveyors require knowledge of mathematics, law, and engineering. Qualification 
 
 ## Debates and Open Questions
 The source does not present specific ongoing scholarly debates. However, it notes historical inaccuracies, such as Snellius's 1615 triangulation survey underestimating a distance by 3.5%, highlighting the perpetual challenge of improving measurement accuracy. The evolution from manual chains to satellite systems represents a continuous, technology-driven effort to minimize the inherent errors in all measurements.
+
+Source: adapted from "Surveying" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Surveying

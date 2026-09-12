@@ -13,3 +13,5 @@ The silver mines at Laurium were a major source of wealth that helped Athens gro
 ## War as a driver of invention
 
 A torsion catapult is a siege weapon that stores energy in twisted ropes, and it shows how Greek engineering absorbed military pressure. The same culture that built self-cleaning drains and quiet watermills also produced the catapult and other weapons, and many of the most notable inventions appeared late in the period, after military pressure had already pushed engineers toward better tools. Mathematics and surveying sat behind both halves of this record.
+
+Source: adapted from "Ancient Greek technology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Greek_technology

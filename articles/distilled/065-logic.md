@@ -46,3 +46,5 @@ Logic developed independently in several cultures. Aristotle's term logic was hi
 - There is no general agreement on the precise definition of informal logic; characterizations include the study of natural language arguments, non-deductive arguments, informal fallacies, or the normative standards of argumentation.
 - Whether higher-order logics qualify as logics in the strict sense is disputed, with some theorists arguing only logically complete systems like first-order logic qualify.
 - Whether logic is knowable a priori is debated; some argue logical truths depend on the empirical world, citing quantum mechanics as evidence for quantum logic replacing classical logic.
+
+Source: adapted from "Logic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Logic

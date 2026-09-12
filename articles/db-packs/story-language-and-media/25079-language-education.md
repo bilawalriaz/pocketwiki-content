@@ -19,3 +19,5 @@ Language learning varies by life stage. Infants recognize phonological elements 
 Minority language education is promoted for three reasons: a multilingual workforce, intellectual and cultural benefits, and inclusion in the global information society, and access to minority-language schooling is recognized as a human right under instruments such as the European Charter for Regional or Minority Languages. Bilingual education is used in many countries, including the United States, to support both minority and majority languages, though suitable teaching materials are often scarce.
 
 Despite heavy spending on language teaching worldwide, the share of students who actually use the target language outside the classroom remains unclear, a gap that matters because nine out of ten U.S. employers rely on employees with languages other than English, and roughly a third of those employers report a high level of dependence.
+
+Source: adapted from "Language education" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Language_education

@@ -34,3 +34,5 @@ Non-fiction genres are classified by authorial intention or content purpose: ins
 
 ## Debates and Open Questions
 The boundary between fiction and non-fiction remains contested, particularly in biography, where the tension between factual fidelity and narrative artistry raises questions about representation and truth. The legitimacy of blending imaginative reconstruction with factual content in non-fiction narratives is debated, especially regarding the use of unverified supposition to enhance readability. The classification of hybrid works—those that could be either fiction or non-fiction—challenges rigid genre distinctions. Additionally, the role of persuasion in ostensibly objective non-fiction raises questions about the extent to which advocacy compromises truth claims. The definition and scope of "creative nonfiction" continues to evolve, reflecting ongoing negotiations between literary craft and factual integrity.
+
+Source: adapted from "Non-fiction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Non-fiction

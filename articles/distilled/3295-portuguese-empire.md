@@ -40,3 +40,5 @@ After losing Brazil, Portugal focused on expanding its African colonies into ter
 - The exact discovery of Brazil in 1500 is debated; some historians speculate the Portuguese may have known of its existence earlier, given the Treaty of Tordesillas.
 - The economic impact of the empire on Portugal is analyzed as substantial, with colonial trade accounting for roughly a fifth of per-capita income during its heyday (1500–1800), though it did not prevent Portugal's relative decline within Europe.
 - The motivations and effectiveness of Portugal's late-colonial policy under Salazar are debated, particularly the use of the "pluricontinentalism" ideology to justify holding onto colonies against the global trend of decolonization.
+
+Source: adapted from "Portuguese Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Portuguese_Empire

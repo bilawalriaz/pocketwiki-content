@@ -44,3 +44,5 @@ A notable patron of learning, Casimir founded the University of Kraków in 1364,
 - The exact motivations and details behind Casimir's multiple marriages and divorces, which were often considered bigamous, are subjects of historical analysis.
 - The legendary figure of his Jewish mistress, Esterka, remains unconfirmed by direct historical evidence.
 - The long-term impact of his legal reforms on the development of Polish social structures, particularly the balance between nobility and peasantry, is debated.
+
+Source: adapted from "Casimir III the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Casimir_III_the_Great

@@ -54,3 +54,5 @@ Jinan is famed for its springs, particularly Baotu Spring, and Daming Lake, whic
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates or open questions about Jinan.
+
+Source: adapted from "Jinan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jinan

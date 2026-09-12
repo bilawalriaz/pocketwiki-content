@@ -42,3 +42,5 @@ Accra is Ghana's tourist hub, with hotels, museums, and the Accra International 
 
 ## Debates and Open Questions
 The source does not explicitly outline major scholarly debates, but it notes ongoing challenges and planning issues, such as the review of plans for a second airport to relieve pressure on Kotoka International Airport and the impediments to developing drainage infrastructure, including inadequate planning regulation and perceived corruption.
+
+Source: adapted from "Accra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Accra

@@ -27,3 +27,5 @@ Ecodesign has social consequences that designers cannot ignore. Green or environ
 ## Research directions
 
 Current ecodesign research clusters around three questions: what barriers slow adoption of environmental design practices, what tools and methods make adoption tractable, and how ecodesign interacts with adjacent fields such as industrial ecology, which studies material and energy flows through industrial systems the way ecology studies them through natural ones. Review studies of this literature trace a shift from product-level fixes toward system-level design for sustainable transitions.
+
+Source: adapted from "Ecological design" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ecological_design

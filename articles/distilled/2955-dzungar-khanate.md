@@ -45,3 +45,5 @@ The Dzungars were Tibetan Buddhists who created a sophisticated nomadic state. T
 - **Scale of Genocide**: Historians debate the exact Dzungar population before the conquest (estimates range from 400,000 to 600,000+) and the precise causes of their destruction, weighing the roles of deliberate Qing policy, disease (smallpox), and flight.
 - **Qing Motives**: Scholars analyze whether the Qing invasion was primarily a defensive response to Dzungar aggression or an opportunistic expansionist move to eliminate a rival nomadic empire.
 - **Amursana's Role**: The motivations and actions of Amursana, who allied with the Qing before rebelling, are central to understanding the final collapse and the subsequent genocide.
+
+Source: adapted from "Dzungar Khanate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dzungar_Khanate

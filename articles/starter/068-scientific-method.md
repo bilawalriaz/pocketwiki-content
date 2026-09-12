@@ -3,3 +3,5 @@
 *Interplay between observation, experiment, and theory in science.*
 
 The scientific method is an empirical method for acquiring knowledge through careful observation, rigorous skepticism, hypothesis testing, and experimental validation. Developed from ancient and medieval practices, it acknowledges that cognitive assumptions can distort the interpretation of the observation. The scientific method has characterized science since at least the 17th century. Scientific inquiry includes creating a testable hypothesis through inductive reasoning, testing it through experiments and statistical analysis, and adjusting or discarding the hypothesis based on the results.
+
+Source: adapted from "Scientific method" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scientific_method

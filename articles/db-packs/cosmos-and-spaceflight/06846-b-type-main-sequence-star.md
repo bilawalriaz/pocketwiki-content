@@ -31,3 +31,5 @@ Some B0–B3 stars show anomalously strong neutral helium lines and are called h
 ## Standards
 
 The MK classification is anchored by long-stable reference stars whose types have not changed since the 1940s: Upsilon Orionis (B0 V), Eta Aurigae (B3 V) and Alkaid (B3 V). Later catalogues added further standards such as Tau Scorpii, Omega Scorpii, 42 Orionis, 22 Scorpii, Rho Aurigae, 18 Tauri, Acrab, 29 Persei, HD 36936, HD 21071, Omega Fornacis, HR 2328, and the sole B4 V standard, 90 Leonis. Because they are massive and luminous, B-type main-sequence stars exhaust their core hydrogen in only millions to tens of millions of years, a small fraction of the Sun's ten-billion-year main-sequence lifetime.
+
+Source: adapted from "B-type main-sequence star" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/B-type_main-sequence_star

@@ -27,3 +27,5 @@ Across these domains the field has shifted from deterministic functional equatio
 Mathematical models now appear in clinical, social, educational, and music psychology. Developmental psychology uses three frameworks: symbolic models, connectionist neural networks, and dynamical systems models. Nonlinear dynamical systems have been applied to affect, second-language acquisition, and locomotion, showing how interacting components produce emergent developmental change.
 
 Key outlets are the *Journal of Mathematical Psychology*, *Computational Brain & Behavior*, and the *British Journal of Mathematical and Statistical Psychology*. The field meets annually through the Society for Mathematical Psychology (US), the European Mathematical Psychology Group, and the Australasian Mathematical Psychology conference.
+
+Source: adapted from "Mathematical psychology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mathematical_psychology

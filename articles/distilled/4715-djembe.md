@@ -46,3 +46,5 @@ Traditional gender roles are evolving. While historically a male instrument, fem
 - The exact age of the djembe is unclear due to a lack of written records; it may predate or postdate the Mali Empire (c. 1230 CE).
 - There is no firm consensus on whether the benefits of the three-ring mounting system (introduced in the 2000s) justify its extra weight and complexity.
 - The impact of djembe tourism and Western demand is debated, with concerns about the commodification and change of traditional djembe culture.
+
+Source: adapted from "Djembe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Djembe

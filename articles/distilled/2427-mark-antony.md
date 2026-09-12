@@ -44,3 +44,5 @@ The Triumvirate expired in 33 BC, and open conflict became inevitable. In 34 BC,
 *   **Antony's Motives at the Lupercalia:** The source notes uncertainty over whether Antony's offer of a diadem to Caesar in 44 BC was a scripted test of public opinion, a spontaneous act to flatter or embarrass Caesar, or a plot by Caesar's enemies.
 *   **The Authenticity of Antony's Will:** Octavian claimed to have found Antony's will, which named Caesarion as heir and requested burial in Alexandria. The source states that while some modern scholars suggest it was partially forged, "the ancient sources" do not describe it as such.
 *   **Responsibility for the Parthian Defeat:** Ancient historians like Strabo and Plutarch blamed the Armenian king Artavasdes II for betraying Antony during his 36 BC campaign. However, the source notes that "modern sources note Antony's poor management" as a key factor.
+
+Source: adapted from "Mark Antony" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mark_Antony

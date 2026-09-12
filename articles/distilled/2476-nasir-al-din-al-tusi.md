@@ -43,3 +43,5 @@ Building on Aristotle's and Ibn Sina's work, al-Tusi proposed that color space i
 
 ## Debates and Open Questions
 Scholars debate whether Copernicus was influenced by al-Tusi's work. The Tusi couple appears in Copernicus's heliocentric model with identical geometric construction and lettering, but no direct transmission of al-Tusi's texts to Copernicus has been proven. Possible intermediaries include Jewish scholars like Abner of Burgos or transmission through the Maragheh observatory to Muslim Spain and then to Europe. Some scholars argue Copernicus could have independently derived the Tusi couple using Euclid's methods, given his known dissatisfaction with Ptolemaic equants. There is also debate about whether al-Tusi's biological writings suggest an evolutionary theory, though he never explicitly stated that species change over time.
+
+Source: adapted from "Nasir al-Din al-Tusi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi

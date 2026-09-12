@@ -43,3 +43,5 @@ Whether the traits that enable creation of secondary knowledge overlap with thos
 ## Motivational conflict
 
 Children's inherent bias is to seek activities that adapt folk systems to local conditions, mainly social play and physical exploration. Schooling demands activities that yield secondary learning. This motivational conflict is a recurring source of difficulty in formal education.
+
+Source: adapted from "Evolutionary educational psychology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Evolutionary_educational_psychology

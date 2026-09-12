@@ -38,3 +38,5 @@ A recurring pattern in algebraic geometry: one wants to describe the locus where
 If, in addition, the morphisms involved are **flat** (the fibres vary continuously, with locally constant dimension), the locally constructible loci in these results are in fact open. EGA IV §12 develops this. So constructibility is the coarse layer, and flatness upgrades it to an open condition.
 
 Constructible sets also feed into **constructible sheaves** and **intersection cohomology**, where the stratification of a space into constructible pieces controls how perverse and intersection cohomology theories are built.
+
+Source: adapted from "Constructible set (topology)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Constructible_set_%28topology%29

@@ -37,3 +37,5 @@ The Pearl River system has numerous tributaries, including the Bei, Dong, Xi, Yu
 
 ## Debates and Open Questions
 The source of the Pearl River is debated. While the Nanpan River is often cited as the source of the longest channel, some definitions place the source in the Hongshui River. The exact length of the system varies depending on which source and channel are measured. The environmental impact of rapid industrialization and urbanization in the Pearl River Delta on water quality and ecosystems is a ongoing concern.
+
+Source: adapted from "Pearl River" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pearl_River

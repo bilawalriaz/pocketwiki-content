@@ -44,3 +44,5 @@ As emperor, Kublai patronized arts and sciences, employing Muslim astronomers, m
 - Scholars debate the extent to which Kublai's adoption of Chinese administrative and cultural models was a pragmatic necessity versus a genuine sinicization.
 - The economic impact of his paper currency policies is analyzed as both an innovative fiscal tool and a cause of destabilizing inflation.
 - The reasons for the repeated failures of his invasions of Japan are attributed to factors like poor ship design, rushed preparation, and weather, but their relative importance is still discussed.
+
+Source: adapted from "Kublai Khan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kublai_Khan

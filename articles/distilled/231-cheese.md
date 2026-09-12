@@ -69,3 +69,5 @@ Cheese is marginal in traditional East/Southeast Asian cuisines (paneer, yak-mil
 - **Raw-milk safety vs. tradition**: Regulators mandate pasteurization or long aging to prevent disease; artisans argue raw milk preserves microbial diversity and terroir, with some jurisdictions granting exceptions (e.g., Australian allowances for Gruyère, Roquefort).
 - **Classification**: No universal taxonomy exists; moisture, fat, method, milk source, and geography compete as primary criteria.
 - **Sleep effects**: Folklore and Dickens link cheese to nightmares; limited studies variously report vivid dreams, sleep disruption from saturated fat, or reduced dreaming—no consensus.
+
+Source: adapted from "Cheese" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cheese

@@ -43,3 +43,5 @@ The Lê period solidified Confucianism as the state ideology, replacing earlier 
 - The exact causes and nature of Lê Thánh Tông's policies toward captured Chinese sailors and Malaccan envoys, including forced castration, are debated. Some historians suggest these individuals were involved in illegal trade rather than being accidental castaways.
 - The degree to which the Revival Lê emperors retained any symbolic or cultural authority, versus being entirely powerless under the Trịnh, is a point of scholarly nuance.
 - The long-term impact of the Trịnh–Nguyễn partition on the development of distinct northern and southern Vietnamese identities remains a subject of historical analysis.
+
+Source: adapted from "Lê dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/L%C3%AA_dynasty

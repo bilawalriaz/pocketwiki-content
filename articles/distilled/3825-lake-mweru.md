@@ -39,3 +39,5 @@ The lake's shores are dotted with fishing villages and main towns like Nchelenge
 
 ## Debates and Open Questions
 The source notes a historical border dispute where about 33 square kilometres of Zambian territory near Pweto was ceded to the DRC (then Zaire) following the relocation of a British boma. The long-term ecological and economic impacts of overfishing and the shift to "chisense" fishing methods on Lake Mweru's ecosystem and communities remain open questions. The future development potential of the lake's tourism and fisheries is contingent on regional stability and conservation efforts.
+
+Source: adapted from "Lake Mweru" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Mweru

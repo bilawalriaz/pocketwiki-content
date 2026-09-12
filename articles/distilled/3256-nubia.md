@@ -43,3 +43,5 @@ After Meroë's collapse, three Christian kingdoms arose: Nobatia, Makuria, and A
 
 ## Debates and Open Questions
 Scholars debate the origins of the 25th Dynasty Kushite kings, with theories ranging from them being Egyptianized Nubian officials to descendants of elite families. The relationship between the A-Group culture and early Egyptian civilization is contested, particularly regarding the origin of pharaonic iconography found at Qustul. The cause of Meroë's collapse is also debated, with theories including invasion by Aksum, economic decline, or internal rebellion. Finally, the precise linguistic identity of the ancient Kerma culture remains uncertain, with proposals for both Cushitic and Eastern Sudanic affiliations.
+
+Source: adapted from "Nubia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nubia

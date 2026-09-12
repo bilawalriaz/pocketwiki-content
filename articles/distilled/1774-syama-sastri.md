@@ -31,3 +31,5 @@ Syama Sastri had several disciples who went on to become notable musicians and c
 
 ## Debates and Open Questions
 There is ongoing debate among scholars about the exact nature and extent of Syama Sastri's contributions to Carnatic music. Some argue that his compositions were more formal and less accessible to the general public, while others see his works as a testament to the richness and diversity of the genre. Additionally, there is some uncertainty about the exact number and nature of his compositions, as many of his works were not widely disseminated during his lifetime.
+
+Source: adapted from "Syama Sastri" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Syama_Sastri

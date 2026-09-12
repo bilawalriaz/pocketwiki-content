@@ -43,3 +43,5 @@ The Trần economy was based on agriculture, supported by a system of levees alo
 - The role and agency of the child empress Lý Chiêu Hoàng in the dynasty's founding is often overshadowed by the actions of Trần Thủ Độ.
 - The extent to which the Trần dynasty's cultural achievements, particularly the use of chữ Nôm, represented a deliberate policy of "Sinicization" versus the development of a distinct Vietnamese identity is a subject of scholarly discussion.
 - The precise causes of the famines that ravaged Đại Việt from 1290 to 1292 are not recorded, though war neglect, labor mobilization, and climate events are proposed factors.
+
+Source: adapted from "Trần dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_dynasty

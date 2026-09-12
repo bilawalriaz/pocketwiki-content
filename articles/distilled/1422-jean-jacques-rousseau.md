@@ -66,3 +66,5 @@ Hounded from Geneva, Bern, and France, Rousseau found temporary refuge in Prussi
 - **Religious indifferentism vs. civil religion**: Does the civil religion’s coercive minimalism contradict his plea for toleration in *Émile*?
 - **Autobiographical reliability**: The *Confessions* is the primary source for his youth; scholars note chronological confusion and self-mythologizing, though archives largely corroborate key events.
 - **Economic thought**: Interpretations range from agrarian autarkist (Schumpeter) to theorist of regulated commerce (Hont, Hanley, Li).
+
+Source: adapted from "Jean-Jacques Rousseau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau

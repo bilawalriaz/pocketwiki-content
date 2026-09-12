@@ -61,3 +61,5 @@ India and Pakistan have engaged in their own arms race since India's 1974 "peace
 - The actual size of the "bomber gap" and "missile gap" in the 1950s and 1960s was a subject of political accusation and intelligence failure, with later evidence showing the gaps were largely exaggerated or non-existent.
 - The strategic necessity and technological feasibility of the Strategic Defense Initiative (SDI) were highly contested during the 1980s.
 - The current trajectory of the nuclear arms race is uncertain, with concerns about a "Second Cold War" driven by US-Russia tensions, China's expansion, and the breakdown of arms control treaties.
+
+Source: adapted from "Nuclear arms race" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nuclear_arms_race

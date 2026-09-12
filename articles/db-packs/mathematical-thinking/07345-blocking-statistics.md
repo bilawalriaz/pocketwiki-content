@@ -39,3 +39,5 @@ An engineer compares four dosage levels of a wafer implant, with three wafers pe
 ## Generalizations
 
 Latin square designs extend blocking to two nuisance factors simultaneously, such as row and column, under the assumption that the two blocking factors do not interact. Graeco-Latin and hyper-Graeco-Latin squares push this further by adding additional orthogonal blocking factors. Generalized randomized block designs relax the no-interaction assumption so that block-by-treatment interactions can be estimated. Across all of these, the principle is identical: group the units so that the comparison of interest is made on a background that is as uniform as possible.
+
+Source: adapted from "Blocking (statistics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Blocking_%28statistics%29

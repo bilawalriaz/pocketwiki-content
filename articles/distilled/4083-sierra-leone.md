@@ -47,3 +47,5 @@ Since 2002, Sierra Leone has experienced relative stability and returned to mult
 - The effectiveness of post-war recovery efforts is debated, given persistent high poverty, corruption, and the 2014 Ebola crisis and 2022 protests.
 - The historical impact of the dual Colony/Protectorate administration and the Hut Tax War on modern ethnic and regional political divisions is a subject of scholarly analysis.
 - The role of "blood diamonds" in fueling the civil war and the success of subsequent international certification schemes to regulate the trade remain significant topics.
+
+Source: adapted from "Sierra Leone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sierra_Leone

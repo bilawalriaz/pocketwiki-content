@@ -45,3 +45,5 @@ The deposition in 476 is a conventional endpoint, but Roman political theory sti
 - **Role of Christianity:** Gibbon famously argued it sapped Roman civic virtue. Modern views are more nuanced, noting its role in preserving literacy and administration, but also its internal conflicts.
 - **Continuity vs. Catastrophe:** Was the end a dramatic collapse or a gradual transformation? Archaeology suggests significant continuity in material culture and settlement patterns in some regions long after 476.
 - **Primary Cause:** Was the decisive factor internal decay (military, financial, social) or external pressure (migrations, climate change)? Most scholars now see it as a synergistic combination.
+
+Source: adapted from "Fall of the Western Roman Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire

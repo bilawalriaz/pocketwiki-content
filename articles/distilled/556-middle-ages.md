@@ -94,3 +94,5 @@ The Roman Empire reached its greatest extent in the 2nd century AD but faced the
 - **Black Death mortality and agency:** Exact death tolls debated (30–60%); debate continues on whether peasant revolts were reactive or proactive drivers of serfdom’s decline in the West.
 - **Byzantine "decline":** Whether the 1204 Fourth Crusade sack or structural weaknesses (fiscal, military, dynastic) were the primary cause of the empire’s inability to recover before 1453.
 - **Continuity vs. rupture:** The extent to which medieval institutions (parliaments, universities, common law, banking) directly founded modern Europe versus representing distinct medieval solutions.
+
+Source: adapted from "Middle Ages" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Middle_Ages

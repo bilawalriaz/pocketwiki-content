@@ -39,3 +39,5 @@ The Acropolis was repaired and added to during the Hellenistic and Roman periods
 
 ## Debates and Open Questions
 The source notes that the exact purpose of the Hekatompedon—whether it replaced an older temple or just a sacred precinct—is unknown. The fate of the Old Temple of Athena (Arkhaios Neōs) after its probable reconstruction in 454 BC is uncertain; it may have burned down in 406/405 BC, but the 2nd-century AD traveler Pausanias does not mention it. The original interior plan of the Erechtheion is little known, as it was destroyed by fire in the 1st century BC.
+
+Source: adapted from "Acropolis of Athens" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Acropolis_of_Athens

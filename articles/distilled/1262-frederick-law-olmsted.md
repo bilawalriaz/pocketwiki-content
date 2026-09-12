@@ -77,3 +77,5 @@ Olmsted retired in 1895 due to senility; he died in 1903 at McLean Hospital (who
 - **Olmsted’s Southern reporting**: Historians (e.g., Arthur Schlesinger Sr.) have questioned whether Olmsted’s antislavery journalism was fully objective or shaped by Northern biases, though its vivid first-person detail remains valued.
 - **Conservation vs. development tension**: Olmsted opposed artificial intrusion in wild places (Presque Isle) yet designed intensive urban parks and private estates (e.g., Biltmore), raising questions about the boundaries of his preservation ethic.
 - **Social equity in practice**: While Olmsted championed parks for all classes, his designs often served elite suburbs (Riverside) and wealthy private clients; scholars debate how fully his egalitarian ideals were realized versus compromised by patronage.
+
+Source: adapted from "Frederick Law Olmsted" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Frederick_Law_Olmsted

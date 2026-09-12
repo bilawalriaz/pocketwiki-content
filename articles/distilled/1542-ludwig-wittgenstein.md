@@ -75,3 +75,5 @@ Wittgenstein’s legacy is immense but contested. Russell called him the "most p
 - **Religious stance**: Wittgenstein expressed sincere religious sympathy, read Christian texts devotionally, and desired a Catholic burial, yet rejected dogma and institutional religion. Was he a believer, an agnostic, or a "cultural" religious thinker?
 - **Influence on Vienna Circle**: Did the *Tractatus* inspire logical positivism, or did the Circle appropriate it for pre-existing empiricist views? Carnap and Schlick were deeply impressed; Grayling argues influence was limited.
 - **Ethics of his teaching**: The Haidbauer incident and routine corporal punishment of girls remain a stain; his 1936 apologies were framed as philosophical "confessions" to dismantle pride—does this mitigate or compound the moral issue?
+
+Source: adapted from "Ludwig Wittgenstein" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ludwig_Wittgenstein

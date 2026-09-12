@@ -48,3 +48,5 @@ Situated in the Appalachian foothills at an elevation of 1,050 feet, Atlanta has
 - Atlanta's **demographic shift** is ongoing, with the Black population declining from a high of 67% in 1990 to 47% in 2020, raising questions about the city's identity as a "Black mecca."
 - The city's **transportation model** remains heavily car-dependent, leading to severe traffic congestion, though investments in transit, cycling, and the Beltline aim to provide alternatives.
 - **Gentrification**, which began in the 1970s and accelerated after the Olympics, continues to reshape neighborhoods, politics, and culture, presenting both revitalization and displacement challenges.
+
+Source: adapted from "Atlanta" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Atlanta

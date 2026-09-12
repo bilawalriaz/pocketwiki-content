@@ -44,3 +44,5 @@ Four theoretical models dominate quantitative work in HBE:
 ## Position in the field
 
 HBE overlaps with evolutionary psychology, cultural ecology, and decision theory, and is most visible in anthropology and psychology, where evolutionary reasoning is treated as essential to a complete account of human behavior. Adjacent fields include biocultural evolution, dual inheritance theory, evolutionary developmental psychology, and human reproductive ecology.
+
+Source: adapted from "Human behavioral ecology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_behavioral_ecology

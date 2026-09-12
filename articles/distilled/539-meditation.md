@@ -85,3 +85,5 @@ Documented in East Asian traditions (*zouhuorumo* "fire possession," *Zenbyō* "
 - **Adverse Effects:** Prevalence estimates vary (8.3% to 25%); difficulty distinguishing "challenging" experiences that are constitutive of the path (per traditional texts) from genuine adverse events requiring intervention; lack of accessible support frameworks for novices.
 - **Secularization:** Tension between extracting techniques for health (psychotherapy, workplace, schools) and preserving traditional ethical/soteriological contexts; Vatican warnings on mixing Christian and Eastern/New Age practices.
 - **Research Quality:** Historical methodological weaknesses; ongoing need for higher-quality RCTs, active controls, and clearer operational definitions of meditation types in clinical studies.
+
+Source: adapted from "Meditation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Meditation

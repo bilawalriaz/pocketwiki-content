@@ -49,3 +49,5 @@ Since 1989, Panama has experienced peaceful transfers of power. Its economy is a
 *   The size of Panama's Indigenous population at the time of European colonization is debated, with estimates varying widely.
 *   The precise number of Panamanian civilian casualties during the 1989 U.S. invasion is disputed, with estimates ranging from 200 to 4,000.
 *   While Panama has made progress in financial transparency, the IMF and others note ongoing needs to strengthen its fiscal structure and fully combat its reputation as a tax haven.
+
+Source: adapted from "Panama" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Panama

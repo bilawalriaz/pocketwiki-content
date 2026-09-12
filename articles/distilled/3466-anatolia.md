@@ -48,3 +48,5 @@ The Ottoman Turks emerged as a dominant power in the 14th century, absorbing the
 - The cause of urban decline in Byzantine Anatolia between the 6th and 7th centuries is debated, with theories including the Plague of Justinian, the Byzantine–Sasanian War, and Arab invasions.
 - The use of the term "Eastern Anatolia" for the historical Armenian Highlands is contested by scholars as an "ahistorical imposition" that obscures the region's Armenian past.
 - The origin of the Indo-European language family is debated, with some proposals placing it in Anatolia, though linguists often favor a later origin in the Pontic-Caspian steppe.
+
+Source: adapted from "Anatolia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anatolia

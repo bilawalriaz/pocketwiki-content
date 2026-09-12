@@ -57,3 +57,5 @@ A lifelong bachelor, Amundsen had a long-term secret relationship with Kristine 
 - **Inuit Descendancy Claims**: Oral history from Gjoa Haven identifies Amundsen as the father of Luke Ikuallaq (born c. 1903–1905). While 2012 Y-DNA testing ruled out Amundsen’s direct paternal line, not all claimants have been tested, and a match to other European crew members has not been investigated.
 - **Cause of 1928 Disappearance**: The exact crash site and mechanism of the Latham 47 flying boat remain unknown; wreckage has never been located despite modern sonar searches.
 - **Scott vs. Amundsen Ethics**: Historians debate Amundsen’s secrecy in switching from the North to South Pole (misleading Scott and backers) and his consumption of sled dogs, versus Scott’s reliance on man-hauling and ponies.
+
+Source: adapted from "Roald Amundsen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Roald_Amundsen

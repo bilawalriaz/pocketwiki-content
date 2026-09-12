@@ -48,3 +48,5 @@ A committed eugenicist, Pearson applied Social Darwinism to nations, viewing war
 - **Biometrics vs. Mendelism**: A major early 20th-century debate over the mechanism of heredity. Pearson's biometric school emphasized continuous variation and statistical description, while Mendelians focused on discrete, particulate inheritance. The Mendelian view ultimately prevailed.
 - **Pearson's Scientific Racism**: His eugenic views and opposition to immigration are now widely condemned as scientific racism. Institutions like UCL have taken steps to distance themselves from this aspect of his legacy.
 - **Influence on Einstein**: The extent to which Pearson's philosophical ideas in *The Grammar of Science* directly influenced Einstein's theories of relativity is a subject of historical interest.
+
+Source: adapted from "Karl Pearson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Karl_Pearson

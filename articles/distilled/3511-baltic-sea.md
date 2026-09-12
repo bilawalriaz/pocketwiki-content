@@ -46,3 +46,5 @@ The Baltic Sea is a vital corridor for energy (oil, gas, wind power) and data vi
 - The origin of the name "Baltic" is uncertain, with multiple competing etymological theories.
 - The future impact of climate change on the Baltic's unique brackish ecosystem, ice cover, and stratification is a subject of ongoing scientific modeling and concern.
 - The effectiveness and legal frameworks for protecting critical undersea infrastructure against hybrid threats remain a developing challenge for NATO and the EU.
+
+Source: adapted from "Baltic Sea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baltic_Sea

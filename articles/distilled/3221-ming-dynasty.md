@@ -52,3 +52,5 @@ Ming culture saw the peak of vernacular literature with novels like *Water Margi
 - **Population Figures:** Official census data is unreliable due to underreporting. Late Ming population estimates vary from 160 to 200 million.
 - **Causes of Collapse:** The relative importance of fiscal crisis, natural disasters, peasant rebellions, and Manchu invasion is debated.
 - **Social Mobility:** Historians question whether the examination system expanded or contracted upward mobility, noting it practically favored the wealthy gentry.
+
+Source: adapted from "Ming dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ming_dynasty

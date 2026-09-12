@@ -44,3 +44,5 @@ The dissolution caused a catastrophic economic decline across the post-Soviet st
 - **Role of Chernobyl**: Gorbachev himself later suggested the 1986 Chernobyl disaster, more than his reforms, was a real cause of the collapse by exposing systemic failures.
 - **Legality of Dissolution**: The legal basis for the dissolution is debated, particularly the ratification of the Belavezha Accords by the Russian parliament, which some argued was unconstitutional under both Soviet and Russian law.
 - **Impact on Global Order**: Scholars continue to analyze whether the collapse allowed neoliberal capitalism to become the dominant global system and contributed to rising global inequality.
+
+Source: adapted from "Dissolution of the Soviet Union" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union

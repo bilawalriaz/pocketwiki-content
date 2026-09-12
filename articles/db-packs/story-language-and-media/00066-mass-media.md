@@ -39,3 +39,5 @@ Critics note that mass outlets often skip local stories to serve broad demograph
 - **Agenda setting**: The influence of media groups' selective choices on how the public thinks about issues.
 - **Cultivation**: The degree to which prolonged media exposure shapes audience perceptions over time.
 - **Persistence of vision**: The effect by which the eye retains a visual image briefly after its source disappears, enabling the illusion of motion in film.
+
+Source: adapted from "Mass media" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mass_media

@@ -45,3 +45,5 @@ Lombard society was hierarchical, with a noble class, free warriors (*exercitale
 - The historicity of the legendary name-change story involving Odin and Frigg is debated; it may be a later etiological myth.
 - The precise nature and extent of Lombard religious practices during their pagan and Arian Christian periods are reconstructed from limited and often hostile sources.
 - The degree of genetic continuity between the Lombards in Central Europe and those who settled in Italy is supported by recent studies but the scale of the migration population remains a subject of research.
+
+Source: adapted from "Lombards" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lombards

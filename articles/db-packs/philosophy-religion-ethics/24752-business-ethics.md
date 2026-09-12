@@ -29,3 +29,5 @@ Property is a bundle of rights among people, not a thing-owner relationship. Cus
 ## Implementation
 
 Many firms adopt ethics codes and appoint ethics officers. The Defense Industry Initiative was created in the mid-1980s after defense-industry scandals. The Federal Sentencing Guidelines for Organizations (1991) rewarded firms that maintained effective compliance programmes. Sustainability has expanded the scope to include environmental stewardship and social issues such as workers' rights, child labour, and human trafficking. In 2025, some companies began reducing or eliminating diversity, equity, and inclusion (DEI) commitments. Critics note a frequent gap between written codes and actual practice, raising the question of whether codes are genuine guidance or reputational cover.
+
+Source: adapted from "Business ethics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Business_ethics

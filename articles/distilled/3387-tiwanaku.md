@@ -47,3 +47,5 @@ The site has suffered from looting and quarrying since its fall. Early scientifi
 *   The original name of the city for its inhabitants is unknown, as they had no written language.
 *   The purpose and meaning of specific iconography, such as the carvings on the Gateway of the Sun, are speculative; theories include a calendar system, but there is no definitive evidence.
 *   The precise methods and systems of measurement used in its monumental architecture remain unclear.
+
+Source: adapted from "Tiwanaku" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tiwanaku

@@ -37,3 +37,5 @@ Wallonia is landlocked and divided into three main geographical zones: the ferti
 ## Debates and Open questions
 - The economic and political inequalities between Wallonia and Flanders remain a major source of conflict, fueling Flemish separatism and ongoing debates about the future of the Belgian federal state.
 - The relationship between the Walloon Region and the French Community of Belgium is complex; while constitutionally separate, they are governed by the same political individuals, and the French Community has controversially begun calling itself the "Wallonia-Brussels Federation."
+
+Source: adapted from "Wallonia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wallonia

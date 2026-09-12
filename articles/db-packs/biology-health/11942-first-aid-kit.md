@@ -49,3 +49,5 @@ Activated charcoal absorbs ingested toxins. Syrup of ipecac, an emetic that indu
 Kits should be kept clean, dry, easily accessible, and clearly marked. Routine inspection replaces missing, damaged, or expired items, especially medications and sterile supplies.
 
 Kit contents have changed as medical understanding has advanced. Older US federal specifications included incision-and-suction snakebite kits and mercurochrome antiseptic; the snakebite kit is no longer recommended, and the FDA removed mercurochrome from the generally-recognized-as-safe category in 1998 over its mercury content. Modern additions include CPR face shields and body-fluid barriers that protect against bloodborne pathogens such as HIV during rescue breathing.
+
+Source: adapted from "First aid kit" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/First_aid_kit

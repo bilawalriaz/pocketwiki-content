@@ -31,3 +31,5 @@ Sanitation choices carry environmental costs. On-site systems release methane as
 ## Open debates
 
 Scope remains contested: should sanitation officially include solid waste, stormwater, and industrial waste, or stay focused on excreta? Approach is also debated: CLTS shows that communities can sometimes build their own toilets once they recognise the contamination problem, while subsidised hardware often goes unused, so the relative weight of infrastructure versus behaviour change is unsettled. Finally, reuse of treated waste (nutrients, water, energy) has to be balanced against the public-health and environmental risks of recycling material that may still contain pathogens.
+
+Source: adapted from "Sanitation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sanitation

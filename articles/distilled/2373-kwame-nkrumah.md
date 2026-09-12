@@ -47,3 +47,5 @@ Nkrumah's government faced economic difficulties, partly due to falling cocoa pr
 - **CIA Involvement**: The extent of U.S. Central Intelligence Agency complicity in the 1966 coup that overthrew Nkrumah is debated. Former agents have claimed a pivotal role, but these accounts have never been fully verified.
 - **Economic Legacy**: Scholars debate whether Nkrumah's rapid industrialization and socialist policies were a necessary foundation for development or whether they mismanaged the economy, leading to debt and the coup.
 - **Authoritarian Turn**: There is discussion over whether Nkrumah's shift to a one-party state and repression was a pragmatic response to threats or an inevitable corruption of his initial democratic ideals.
+
+Source: adapted from "Kwame Nkrumah" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kwame_Nkrumah

@@ -45,3 +45,5 @@ Silk weaving, particularly for Banarasi saris, is the dominant industry, employi
 - The precise age and continuous habitation of Varanasi are subjects of archaeological study, with artefacts found dating to 1800 BCE but the city's legendary antiquity often cited as far older.
 - The historical narrative of temple destruction and reconstruction under different rulers (e.g., Mughal and Maratha periods) reflects ongoing scholarly debate about cultural and religious syncretism and conflict.
 - The severe pollution of the Ganges in Varanasi and the effectiveness of cleanup initiatives like the Namami Gange project remain critical and debated environmental and public health issues.
+
+Source: adapted from "Varanasi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Varanasi

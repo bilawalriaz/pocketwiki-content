@@ -44,3 +44,5 @@ Public transportation is vital, with 81.9% of residents using it. The system inc
 - The city's name is a subject of cultural debate. In 2017, former President Evo Morales suggested renaming it to its Aymara name, "Chuquiago Marka."
 - The future of La Paz's colonial architecture is uncertain due to a lack of funds for restoration, leading to the demolition or decay of historic buildings.
 - The city's water supply is threatened by climate change-induced glacier melt, with studies indicating the El Alto water system is particularly vulnerable.
+
+Source: adapted from "La Paz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/La_Paz

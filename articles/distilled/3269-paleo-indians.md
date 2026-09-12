@@ -42,3 +42,5 @@ Genetic studies show that the founding population of the Americas diverged from 
 - **Megafauna Extinction**: The cause of the Late Pleistocene megafauna extinctions is controversial. While human hunting is a proposed factor, many scholars argue for a combination of causes, including climatic change. A 2012 survey found 63% of archaeologists favored a "combination of factors."
 - **Clovis First Hypothesis**: The long-held belief that the Clovis culture represented the first Americans has been challenged by numerous pre-Clovis sites across the Americas.
 - **Number of Migration Waves**: Evidence suggests there were likely multiple waves of ancient settlers from Beringia to the American continent.
+
+Source: adapted from "Paleo-Indians" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paleo-Indians

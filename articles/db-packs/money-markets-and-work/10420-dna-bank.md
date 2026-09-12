@@ -21,3 +21,5 @@ Two techniques dominate. Restriction fragment length polymorphism (RFLP), introd
 ## Examples of large banks
 
 The UK Biobank holds DNA from 500,000 individuals aged 40 to 69 when their samples were taken between 2006 and 2010. The Human DNA Bank in Lucknow, India, founded by Dr. Saeed Ahmad under IQRA Biotech Services in a public–private partnership with Biotech Park, stores members' DNA for 50 years alongside biometrics and issues a UID DNA card. The same organization runs a cord blood and stem cell bank whose stored cells could later treat spinal cord injuries, cerebral palsy, leukemia, Parkinson's disease, anemia, and cancer. Some funeral homes now offer DNA banking capsules so the genetic material of the deceased can be preserved.
+
+Source: adapted from "DNA bank" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/DNA_bank

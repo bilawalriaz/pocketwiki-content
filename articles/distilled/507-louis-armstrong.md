@@ -62,3 +62,5 @@ Armstrong’s aggressive trumpet technique and narrow mouthpieces caused chronic
 - **Civil rights legacy**: Critics then and now debate whether Armstrong’s entertainer persona undermined the movement or whether his 1957 outburst and quiet integration of white venues (e.g., integrated bands, hotel suites) constituted effective activism.
 - **Paternity of Sharon Preston-Folta**: DNA testing has not been conducted; Armstrong’s 1955 letter to Glaser affirms belief in paternity and orders support, but the claim remains unproven.
 - **Freemasonry claim**: Often cited as a Prince Hall Mason; the Louis Armstrong House Museum states no such lodge existed and Armstrong identified as a Knight of Pythias.
+
+Source: adapted from "Louis Armstrong" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_Armstrong

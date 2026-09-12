@@ -58,3 +58,5 @@ If P holds of a specific a, then there exists an x with P(x).
 ## Proving an existential
 
 An existential claim can be proved in two ways. A **constructive proof** exhibits an explicit witness, such as n = 5 for ∃n ∈ ℕ : n × n = 25. A **nonconstructive proof** shows that a witness must exist without identifying it, for example by the pigeonhole principle or proof by contradiction. Both styles are accepted; only the witness, not the method of finding it, is required by ∃.
+
+Source: adapted from "Existential quantification" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Existential_quantification

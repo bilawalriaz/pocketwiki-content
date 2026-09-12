@@ -48,3 +48,5 @@ Oppenheimer continued as director of the Institute for Advanced Study until 1966
 - **Motivations for the security hearing**: The 1954 hearing is widely seen as motivated by a combination of political enmity (especially from AEC commissioner Lewis Strauss), Oppenheimer's opposition to the hydrogen bomb, and the anti-communist climate of the era.
 - **Scientific legacy**: While not awarded a Nobel Prize, his early work on gravitational collapse and neutron stars is now considered a major contribution to astrophysics, potentially warranting recognition had he lived to see it confirmed.
 - **Ethical responsibility**: His story continues to spark debate about the moral responsibility of scientists for the applications of their research, particularly regarding weapons of mass destruction.
+
+Source: adapted from "J. Robert Oppenheimer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/J._Robert_Oppenheimer

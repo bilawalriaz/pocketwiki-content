@@ -50,3 +50,5 @@ Sculpture evolved from the elongated, wall-attached figures of early Gothic port
 *   The precise origins of the Gothic style are debated, with scholars considering possible influences from Lombard, Frankish, and Norse traditions, as well as deeper psychological roots.
 *   The transition from Romanesque to Gothic painting is described as "very imprecise and not at all a clear break," making it difficult to define a sharp starting point for the style in painting.
 *   The term "Gothic" was initially used pejoratively by Renaissance critics like Giorgio Vasari to mean "barbaric," and its eventual acceptance as a neutral art-historical term was a gradual process.
+
+Source: adapted from "Gothic art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gothic_art

@@ -32,3 +32,5 @@ Machine translation is called "AI-complete" because it would in principle requir
 Three trends appear in long-running shared evaluation tasks: targets move toward more abstract problems, from shallow parsing in 1999 to semantic parsing in 2019; coverage expands across languages, from English alone to more than 60 by 2018; and systems drop symbolic representations in favor of weakly supervised, end-to-end learned models. Early symbolic NLP had close ties to cognitive linguistics, and those ties are reviving as researchers seek explainability and multimodal models.
 
 The persistent limit is data. NLP is most powerful where large annotated or raw corpora exist and weakest where they do not, which is why low-resource languages and ancient texts remain hard.
+
+Source: adapted from "Natural language processing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Natural_language_processing

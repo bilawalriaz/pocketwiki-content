@@ -35,3 +35,5 @@ The Byzantine–Sasanian War of 602–628 was the turning point. After initial S
 - **Ctesiphon**: The Sasanian capital on the Tigris, in modern Iraq.
 
 Its four-class social model, bureaucratic offices, and *shahanshah* idiom were inherited and adapted by the Umayyad and Abbasid caliphates, while Zoroastrian, Christian, and Greek intellectual traditions fed directly into early Islamic scholarship.
+
+Source: adapted from "Sasanian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sasanian_Empire

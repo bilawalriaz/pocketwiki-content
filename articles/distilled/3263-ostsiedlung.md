@@ -44,3 +44,5 @@ The Ostsiedlung was reversed in the 20th century. After World War I, Germans in 
 - The precise demographic impact is debated: scholars question whether population growth in Eastern Europe was primarily due to migration or increased agricultural productivity and urbanization.
 - The nature of Slavic-German interaction is contested; while often framed as colonization, evidence shows significant cooperation, intermarriage, and mutual assimilation in many regions.
 - The end of the Ostsiedlung is not clearly defined; it is linked to the 14th-century crisis (climate change, Black Death) but may have continued in some areas into the 15th century.
+
+Source: adapted from "Ostsiedlung" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ostsiedlung

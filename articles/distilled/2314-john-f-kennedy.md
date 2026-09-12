@@ -52,3 +52,5 @@ Kennedy was assassinated in Dallas on November 22, 1963. Lee Harvey Oswald was a
 - **Vietnam Policy**: Historians debate whether Kennedy would have escalated U.S. involvement in Vietnam after 1964 or withdrawn, based on conflicting statements from his advisers and a 1963 withdrawal order (NSAM 263).
 - **"Camelot" Legacy**: The mythic, idealized image of the Kennedy presidency is often contrasted with the more complex reality of his legislative struggles and personal life, raising questions about how historical memory is shaped.
 - **Health and Medication**: Kennedy's severe chronic health problems and use of various medications, including steroids and amphetamines, were concealed during his lifetime and raise questions about their potential impact on his decision-making.
+
+Source: adapted from "John F. Kennedy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_F._Kennedy

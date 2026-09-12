@@ -38,3 +38,5 @@ When the truce expired in 1621, war resumed within the broader context of the Th
 
 ## Debates and Open Questions
 The source notes that the general rebellion initially failed to sustain itself, highlighting the challenge of uniting disparate Catholic and Protestant groups. The ratification of the Peace of Münster was contentious, with the province of Zeeland refusing to sign and the treaty being finalized without its consent. The peace was a separate agreement from the broader Peace of Westphalia treaties, which annoyed France and contravened its 1635 alliance with the Republic.
+
+Source: adapted from "Eighty Years' War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eighty_Years%27_War

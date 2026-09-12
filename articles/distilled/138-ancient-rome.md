@@ -69,3 +69,5 @@ Roman life revolved around the city of Rome, with monumental structures like the
 ## Debates and open questions
 
 Various reasons for Rome's fall have been proposed, including loss of Republicanism, moral decay, military tyranny, class war, slavery, economic stagnation, environmental change, disease, the decline of the Roman race, and the inevitable ebb and flow all civilizations experience. Some historians consider Julius Nepos, who ruled from Dalmatia until 480, the last Western emperor instead of Romulus Augustus. Some historians speculate that lead pipes in plumbing led to widespread lead poisoning contributing to the fall, though lead content would have been minimised. The primary sources themselves are problematic: Livy and Dionysius of Halicarnassus wrote 500 years after the founding of the republic, and gaps in Roman history are filled by unreliable works such as the Historia Augusta.
+
+Source: adapted from "Ancient Rome" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Rome

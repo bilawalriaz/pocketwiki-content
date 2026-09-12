@@ -21,3 +21,5 @@ Tsunamis cannot be precisely predicted even when an earthquake's magnitude and l
 ## History
 
 The Greek historian Thucydides argued in the 5th century BC that submarine earthquakes cause tsunamis, and the oldest human record dates to 479 BC at Potidaea. The 2004 Indian Ocean event killed around 230,000 people across 14 countries. The 1755 Lisbon and 1908 Messina events, each killing tens of thousands, show that tsunamis remain a serious, often underestimated hazard in the Mediterranean.
+
+Source: adapted from "Tsunami" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tsunami

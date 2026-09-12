@@ -58,3 +58,5 @@ Sōseki bridged the 19th and 20th centuries, bending Japanese into an instrument
 - **Status of *Light and Dark***: Critics disagree on whether the unfinished novel represents the culmination of his psychological method or a structural failure caused by his declining health; Minae Mizumura’s 2011 completion (*Light and Darkness*) reignited debate over authorial intent.
 - **London’s precise impact**: While Sōseki called London "the most miserable time," scholars argue whether his breakdown was a prerequisite for his literary voice or a near-fatal derailment from which he only partially recovered.
 - **Marriage and gender dynamics**: The source describes Kyōko as unprepared and Sōseki as abusive during manic phases; feminist readings question how much his fiction’s gender relations reflect personal pathology versus Meiji patriarchal norms.
+
+Source: adapted from "Natsume Sōseki" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki

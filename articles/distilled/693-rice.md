@@ -61,3 +61,5 @@ Rice holds deep cultural significance across religions and traditions. In Hindu 
 - The extent to which genetically modified rice varieties like Golden Rice will be adopted amid public skepticism and regulatory hurdles continues to evolve.
 - Balancing intensive Green Revolution practices with agroecological approaches like rice-duck systems raises questions about scalability and sustainability.
 - The role of rice as a model organism in plant biology research versus its practical agricultural applications presents ongoing tension in funding priorities.
+
+Source: adapted from "Rice" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rice

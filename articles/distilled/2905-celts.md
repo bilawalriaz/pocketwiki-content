@@ -52,3 +52,5 @@ Following the Roman period, Celtic culture survived in Ireland, Scotland, Wales,
 - **Insular Celtic Identity**: Debate over whether Iron Age people of Britain and Ireland should be called "Celts," as classical writers often did not use the term.
 - **Tartessian Language**: Hypothesis that Tartessian was Celtic is widely rejected; it is often regarded as unclassified.
 - **Genetic Continuity**: Genetic studies show links between modern Celtic-speaking populations and Iron Age groups, but also indicate primary genetic makeup was established by Bronze Age migrations, complicating a simple genetic definition.
+
+Source: adapted from "Celts" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Celts

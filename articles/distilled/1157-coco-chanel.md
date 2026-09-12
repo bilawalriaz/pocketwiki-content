@@ -69,3 +69,5 @@ After fleeing to Switzerland during the war's end, Chanel returned to Paris in 1
 **Motivations for Closing Shops**: Whether Chanel closed her couture house in 1939 for patriotic reasons or to retaliate against striking workers remains unclear, with biographer Hal Vaughan suggesting the latter motivation.
 
 **Financial Arrangement with Wertheimers**: The 1947 renegotiation of the Parfums Chanel contract, which granted Chanel significant wartime profits and lifetime financial support, raises questions about whether this represented genuine reconciliation or exploitation of post-war circumstances.
+
+Source: adapted from "Coco Chanel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Coco_Chanel

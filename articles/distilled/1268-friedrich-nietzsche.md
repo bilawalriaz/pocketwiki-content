@@ -88,3 +88,5 @@ The fundamental drive explaining behavior—superior to "struggle for existence"
 - **Status of *The Will to Power***: Elisabeth’s compilation long treated as magnum opus; post-1960 consensus (Montinari) deems it a forgery not reflecting Nietzsche’s intent. Debate persists on value of *Nachlass* (posthumous notes) vs. published works.
 - **Political appropriation**: Nazis selectively used *Übermensch* and "will to power" for racial ideology. Scholars (Kaufmann, Hollingdale, Bataille) vs. earlier interpreters (Baeumler) on whether Nietzsche’s aristocratic/anti-egalitarian rhetoric *enabled* fascism or was fundamentally incompatible (explicit anti-antisemitism, anti-nationalism).
 - **Antisemitism vs. Anti-Judaism**: Nietzsche attacked ancient Jewish priesthood as source of slave morality but condemned modern antisemitism
+
+Source: adapted from "Friedrich Nietzsche" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Friedrich_Nietzsche

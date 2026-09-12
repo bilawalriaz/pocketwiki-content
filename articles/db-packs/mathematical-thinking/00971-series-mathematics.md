@@ -38,4 +38,4 @@ Several **summation methods** assign finite values to series that do not converg
 
 The convergence of the **Flint Hills series** $\sum_{n=1}^{\infty} 1/(n^3 \sin^2 n)$ remains unknown, because the size of its terms depends on how well $\pi$ is approximated by rationals, with continued-fraction convergents such as 22/7, 355/113, and 103993/33102 producing large spikes.
 
-The current lesson is approximately 720 words and well within the 1000-word target.
+Source: adapted from "Series (mathematics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Series_%28mathematics%29

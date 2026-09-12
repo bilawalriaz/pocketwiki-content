@@ -47,3 +47,5 @@ Notable sites include the colonial Plaza Bolívar, the Valencia Atheneum cultura
 
 ## Debates and Open Questions
 The source notes that the fusion of pre-existing settlements with migrations from the Orinoco area around 1000 AD "gave rise to the Valencioide culture," implying a scholarly interpretation of cultural development. It also states that Valencia's population explosion after 1935 was due to "oil revenues and industrialization," linking economic factors directly to demographic change.
+
+Source: adapted from "Valencia, Venezuela" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Valencia%2C_Venezuela

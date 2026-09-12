@@ -46,3 +46,5 @@ Under Section 102(a)(4) of the U.S. Copyright Act, "choreographic works" created
 
 ## Debates and Open Questions
 The source does not explicitly outline scholarly debates, but it implies ongoing discussions about what qualifies for copyright protection, as seen in the Hanagami v. Epic Games case. The distinction between protectable "choreographic works" and unprotectable "commonplace movements" or "social dances" remains a legal and artistic boundary.
+
+Source: adapted from "Choreography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Choreography

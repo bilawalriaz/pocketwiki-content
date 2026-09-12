@@ -52,3 +52,5 @@ The Met has faced criticism and legal challenges regarding collection provenance
 *   **Repatriation Ethics:** Ongoing discussions center on the museum's responsibility for objects with contested or incomplete provenance, particularly looted antiquities and Indigenous cultural items.
 *   **Deaccessioning Practices:** The museum's history of selling collection items to fund acquisitions, especially during the tenure of director Thomas Hoving, remains a point of ethical and professional debate.
 *   **Indigenous Art and NAGPRA:** The handling of the Diker Collection has raised questions about compliance with NAGPRA and the ethical display of funerary and sacred objects.
+
+Source: adapted from "Metropolitan Museum of Art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art

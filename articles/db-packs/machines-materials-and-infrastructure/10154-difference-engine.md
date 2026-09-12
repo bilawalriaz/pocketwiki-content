@@ -49,3 +49,5 @@ A working No. 2 was finally constructed at the London Science Museum from 1985 t
 ## Other engines
 
 J. H. Müller described the basic principles in 1786 but never obtained funding. Per Georg Scheutz and his son Edvard built the first working printing calculator, sold to the Dudley Observatory in Albany, New York in 1857, with a second British-government machine following in 1859. Later implementations include Martin Wiberg (c. 1859), Alfred Deacon (c. 1862), George B. Grant (1876), Christel Hamann (1909), a 1912 Burroughs machine for the Nautical Almanac Office (replaced in 1929 by a Burroughs Class 11), and Alexander John Thompson's 1927 machine, made of four modified Triumphator calculators, which produced his 20-decimal *Logarithmetica Britannica*. Leslie Comrie showed in 1928 and 1931 that ordinary commercial calculators could be repurposed as difference engines.
+
+Source: adapted from "Difference engine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Difference_engine

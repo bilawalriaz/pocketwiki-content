@@ -54,3 +54,5 @@ Post-war Japan experienced an "economic miracle." Since 1980, the economies of S
 *   **Historical interpretation of Goguryeo:** While some Chinese narratives describe Goguryeo as a regional minority state within Northeast China, this is widely disputed in Korean and international scholarship, which recognizes it as an independent kingdom central to Korean history.
 *   **Scope of East Asia:** Scholars debate the region's exact boundaries. Some argue East and Southeast Asia form a single ethno-cultural area, while others define it by shared adherence to Confucianism, Buddhist influences, and chopstick use.
 *   **Decline of religion:** While cultural institutions of religions like Confucianism remain, actual belief has declined across the region due to factors like the abolition of the examination system in 1905, modernization, and the rise of secular ideologies.
+
+Source: adapted from "History of East Asia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_East_Asia

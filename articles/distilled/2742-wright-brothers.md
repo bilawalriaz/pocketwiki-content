@@ -58,3 +58,5 @@ Wilbur died of typhoid fever in 1912, worn out by business and legal struggles. 
 - **Smithsonian feud:** The decades-long dispute centered on the Smithsonian's claim that the Langley Aerodrome was capable of flight, based on modified 1914 tests. The conflict was resolved with strict conditions for displaying the 1903 Flyer.
 - **Impact of legal battles:** Scholars debate how much the Wrights' patent lawsuits against Glenn Curtiss stifled early American aviation development.
 - **Wilbur's leadership:** While the brothers presented a unified front, biographers note Wilbur was the driving force in the early years of their research.
+
+Source: adapted from "Wright brothers" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wright_brothers

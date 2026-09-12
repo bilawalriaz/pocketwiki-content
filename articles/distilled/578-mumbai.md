@@ -87,3 +87,5 @@ Blend of Gothic Revival (Victoria Terminus/CSMT, University), Indo-Saracenic (Ga
 
 ### Media
 Bollywood (Hindi film industry) produces 150–200 films/year; overseas growth in
+
+Source: adapted from "Mumbai" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mumbai

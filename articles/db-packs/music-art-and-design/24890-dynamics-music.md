@@ -29,3 +29,5 @@ In the Classical period Haydn and Mozart specified six levels (*pp* to *ff*). Be
 ## Dynamics in recording and notation software
 
 Modern recording uses dynamic range compression, which narrows the difference between loud and soft at both micro and macro scales, so the same notation can produce a different listening experience than the composer intended. To separate the two ideas, scholars use *performed dynamics* for the loudness shaping the performer controls directly. Notation programs translate dynamics into MIDI key velocity on a 0–127 scale, and the mappings differ between programs, which is one reason the same marking can sound different depending on the software; a grand piano covers a far wider volume range than a recorder.
+
+Source: adapted from "Dynamics (music)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dynamics_%28music%29

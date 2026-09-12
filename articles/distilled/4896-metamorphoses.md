@@ -43,3 +43,5 @@ No pre-medieval manuscripts survive; the earliest complete texts date from the 1
 - **Genre Classification**: Scholars continue to debate whether the *Metamorphoses* is an epic, anti-epic, or a unique form that resists categorization.
 - **Thematic Unity**: While love and transformation are clear themes, critics propose various unifying principles, such as a shift from male to female desire or from violent to consensual love.
 - **Ovid's Intent**: The poem's tone—whether playful, subversive, or serious—and its ultimate purpose remain subjects of scholarly interpretation.
+
+Source: adapted from "Metamorphoses" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Metamorphoses

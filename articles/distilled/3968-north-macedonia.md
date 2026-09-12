@@ -44,3 +44,5 @@ Since independence, North Macedonia has transitioned to an open market economy, 
 - **Historical Narrative:** The interpretation of figures and events from the medieval Bulgarian and Serbian empires remains a point of contention, particularly in relations with Bulgaria, which has blocked EU accession talks over issues of historical recognition and minority rights.
 - **Ethnic Relations:** While the Ohrid Agreement established a framework for peace, the balance of power and representation between ethnic Macedonians and Albanians remains a central and sometimes tense aspect of domestic politics.
 - **EU Accession:** The path to EU membership is uncertain. While accession talks have begun, progress is contingent on resolving bilateral disputes with Bulgaria and implementing further constitutional changes to recognize a Bulgarian minority.
+
+Source: adapted from "North Macedonia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/North_Macedonia

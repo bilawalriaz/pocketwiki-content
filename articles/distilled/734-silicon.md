@@ -72,3 +72,5 @@ Diatoms, radiolarians, and sponges build silica skeletons. Plants absorb orthosi
 - **Silicon vs. carbon biochemistry**: Astrobiology debates whether silicon could support alternative life; its weaker catenation and bond energies limit complex molecule stability compared to carbon.
 - **Oceanic silicon cycling**: While riverine input dominates coastal silicon flux, the role of aeolian dust in open-ocean productivity and its isotopic signature evolution remain active research areas.
 - **Silicon quantum dot toxicity**: Despite being metal-free and non-toxic, long-term biocompatibility and environmental impact of silicon nanomaterials require further study.
+
+Source: adapted from "Silicon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Silicon

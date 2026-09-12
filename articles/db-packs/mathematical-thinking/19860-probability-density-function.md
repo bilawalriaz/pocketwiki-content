@@ -71,3 +71,5 @@ p(y) = 1 / (π (y² + 1)),
 which is the standard Cauchy distribution: heavy-tailed enough that its mean does not exist.
 
 This is shorter than the original, preserves all the working ideas, fixes the missing gloss on "absolutely continuous," and ends naturally on a fact.
+
+Source: adapted from "Probability density function" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Probability_density_function

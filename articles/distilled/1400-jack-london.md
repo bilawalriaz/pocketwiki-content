@@ -74,3 +74,5 @@ A "Jack London Credo" was quoted by literary executor Irving Shepard in an intro
 - **The Crowd**: Bohemian literary circle in Oakland/Piedmont (formed post-1898), including George Sterling, Ambrose Bierce, Anna Strunsky, and Xavier Martinez; met Sundays at Martinez’s, Wednesdays at London’s.
 - **"Mother-Girl" / "Mate-Woman"**: London’s archetypes contrasting domestic purity (Bessie Maddern) with adventurous, sexual partnership (Charmian Kittredge); central to *The Kempton-Wace Letters*.
 - **Beauty Ranch**: London’s 1,000-acre Sonoma County property (1905–1916), intended as a sustainable agriculture showcase and funded by writing
+
+Source: adapted from "Jack London" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jack_London

@@ -49,3 +49,5 @@ The African music industry faces challenges like piracy and weak copyright enfor
 ## Debates and Open Questions
 - The precise classification and boundaries of regional musicological areas within Sub-Saharan Africa are subject to scholarly debate.
 - The extent to which specific contemporary genres are direct evolutions of traditional forms versus new creations influenced by global exchange is often discussed.
+
+Source: adapted from "Music of Africa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Music_of_Africa

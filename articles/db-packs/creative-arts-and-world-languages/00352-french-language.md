@@ -41,3 +41,5 @@ French is a federal official language in Canada and Quebec's sole official one, 
 ## International standing
 
 French is one of two UN Secretariat working languages, one of three EU procedural languages (and the sole working language of the EU Court of Justice), and a working language of NATO, the IOC, the WTO, and the Red Cross. Post-1995 and post-2004 EU enlargements favoured English inside EU institutions, and Brexit reopened the debate without overturning English's working dominance. OIF membership has grown beyond its Francophone core: Rwanda, Ethiopia, Ghana, Moldova, and the UAE have joined for diplomatic and economic access. About 65.5% of Francophones had internet access in 2025, so French ranks fourth online, but the digital corpus skews toward northern and urban usage, leaving rural African varieties underrepresented.
+
+Source: adapted from "French language" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/French_language

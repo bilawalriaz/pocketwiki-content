@@ -47,3 +47,5 @@ The city is a core center of Mexican culture, associated with mariachi, tequila,
 ## Debates and Open questions
 - The investigation into the 1992 Guadalajara explosions, which killed 206 people, lasted over 11 years and was closed without assigning clear responsibility, attributing the disaster to an accident.
 - The city's economic shift toward high-tech manufacturing has been less favorable for the unskilled working class, highlighting ongoing socioeconomic inequality.
+
+Source: adapted from "Guadalajara" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Guadalajara

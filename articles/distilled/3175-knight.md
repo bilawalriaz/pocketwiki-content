@@ -44,3 +44,5 @@ By the mid-16th century, standing armies equipped with firearms made knights obs
 
 ## Debates and Open Questions
 The exact origins of knighthood are debated, with possible inspiration from ancient Greek and Roman mounted classes. The extent to which the Crusades, rather than internal European social and military developments, shaped the chivalric code is also a subject of scholarly discussion. The precise moment when the knight's military role became obsolete is not fixed, as iconic battles of military orders like the Knights Hospitaller occurred after the rule of Holy Roman Emperor Maximilian I (1459–1519), often called the "last knight."
+
+Source: adapted from "Knight" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knight

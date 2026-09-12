@@ -44,3 +44,5 @@ In 1988, the Morris Worm infected an Internet of about 60,000 machines and slowe
 
 No global legal framework governs cybercrime; attackers exploit the gap by routing through jurisdictions that will not prosecute. Governments respond with national strategies and computer emergency response teams (CERTs). The European Union's GDPR, in force since 2018, requires data protection by design and by default. The United States built the NIST Cybersecurity Framework after a 2013 executive order, and Executive Order 14028 in 2021 tightened software standards for federal suppliers. Cybersecurity is now treated by militaries as a warfighting domain, with US Cyber Command (created 2009) and the UK's National Cyber Force (launched 2020) as examples. The field grows faster than the talent pool: 46% of organizations reported a problematic cybersecurity skills shortage in 2016, up from 28% in 2015.
 ```
+
+Source: adapted from "Computer security" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer_security

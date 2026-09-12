@@ -41,3 +41,5 @@ Cosimo spent over 600,000 florins on art and culture, viewing spending as more p
 
 ## Debates and Open Questions
 The source notes that Cosimo's power, while immense, was not absolute and was constantly resisted by Florence's legislative councils. His intervention in Milan to install Sforza was unpopular among his fellow citizens, who resented financing it. The text also highlights the scholarly debate on the extent of his personal influence versus that of his grandson, Lorenzo the Magnificent, who is often deemed the greatest Medici patron.
+
+Source: adapted from "Cosimo de' Medici" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cosimo_de%27_Medici

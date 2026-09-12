@@ -38,3 +38,5 @@ The Peace of Thorn (1411) saw the Knights cede Dobrzyń Land to Poland and renou
 ## Debates and Open Questions
 - The reason for the Lithuanian light cavalry's retreat during the Battle of Grunwald is debated: scholars question whether it was a genuine defeat or a preconceived tactical maneuver.
 - The delay of the Polish–Lithuanian forces after the battle, which allowed the defense of Marienburg to be organized, has been speculated by some historians to be an intentional strategy to preserve a balance of power, but a lack of primary sources prevents a definitive explanation.
+
+Source: adapted from "Polish–Lithuanian–Teutonic War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian%E2%80%93Teutonic_War

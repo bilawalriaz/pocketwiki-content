@@ -51,3 +51,5 @@ Thoreau traveled extensively in New England and Canada, producing works such as 
 - **Autism**: Some modern readers speculate that Thoreau exhibited traits consistent with Asperger’s Syndrome, though no formal diagnosis exists.
 - **Hypocrisy**: Critics accuse Thoreau of inconsistency—for example, relying on his family’s pencil business while advocating simplicity—but defenders argue his critique was systemic, not personal.
 - **Legacy**: Thoreau’s influence spans movements from environmentalism to civil rights, yet his reception during his lifetime was mixed, with many contemporaries dismissing him as impractical or self-righteous.
+
+Source: adapted from "Henry David Thoreau" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Henry_David_Thoreau

@@ -46,3 +46,5 @@ Traditionally, drawings were manually produced on drafting tables with tools lik
 *   A debate exists around **parametric design**, questioning whether its complex forms properly respond to user needs and practical requirements.
 *   The move to digital tools like **BIM** and **CAD** has separated skilled operators from the design process, as many architects have little knowledge of the software.
 *   The **COVID-19 pandemic** accelerated digital collaboration, raising questions about the reduced role of physical review (e.g., touching materials, reviewing printed drawings together).
+
+Source: adapted from "Architectural drawing" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Architectural_drawing

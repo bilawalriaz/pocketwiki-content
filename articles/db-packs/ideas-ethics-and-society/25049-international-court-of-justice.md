@@ -27,3 +27,5 @@ Cases follow written pleadings, oral hearings, then deliberation and judgment. P
 ## Seat and working languages
 
 The court sits in the Peace Palace in The Hague, Netherlands, the only principal UN organ not based in New York. Its official languages are English and French.
+
+Source: adapted from "International Court of Justice" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/International_Court_of_Justice

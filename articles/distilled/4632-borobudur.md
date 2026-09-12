@@ -51,3 +51,5 @@ Borobudur contains approximately 2,670 bas-relief panels, one of the world's lar
 - The "three realm" cosmological division of the temple's terraces, while conventional, is questioned by some scholars for lacking direct textual or narrative support in the monument itself.
 - The purpose of encasing the "hidden foot" reliefs is debated, with explanations ranging from structural concerns to symbolic or religious reasons.
 - The design of the original pinnacle (*chattra*) atop the main stupa is unknown, as the reconstructed version was later dismantled.
+
+Source: adapted from "Borobudur" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Borobudur

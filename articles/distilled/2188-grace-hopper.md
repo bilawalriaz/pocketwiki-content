@@ -46,3 +46,5 @@ Hopper retired from the Naval Reserve in 1966 but was repeatedly recalled to act
 
 ## Debates and Open Questions
 The source notes that the term "debugging" was in use in other fields before Hopper's team famously logged a moth in the Mark II in 1947, though she is credited with popularizing it in computing. The exact origin of the term "compiler" is also noted, as Hopper's A-0 system was initially called a compiler but functioned as a linker/loader.
+
+Source: adapted from "Grace Hopper" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Grace_Hopper

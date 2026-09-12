@@ -76,3 +76,5 @@ A subset of electrical, computer, and IT engineering covering the entire **airch
 *   **Spectrum allocation:** The shift from analog to digital (2000s) and the rise of wireless broadband create ongoing contention for finite VHF/UHF spectrum.
 *   **Public vs. commercial funding:** The sustainability of public broadcasting models (license fees vs. government allocation vs. underwriting) remains a policy debate, particularly regarding editorial independence.
 *   **Propaganda and control:** The historical use of prerecording for state propaganda (1940s Germany, 1980s Radio Moscow) raises enduring questions about content integrity in live vs. recorded formats.
+
+Source: adapted from "Broadcasting" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Broadcasting

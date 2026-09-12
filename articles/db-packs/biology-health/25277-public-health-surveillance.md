@@ -37,3 +37,5 @@ The Vermedx Diabetes Information System, funded by NIH, held years of laboratory
 The New York City A1C Registry covers an estimated 600,000 diabetic patients; by early 2012 it held over 10 million test results on 3.6 million individuals, and the NYC Department of Health and Mental Hygiene used it to route patients to information and services. Unlike Vermedx, it offers no opt-out. A similar A1C registry launched in Bexar County, Texas in May 2008 through the San Antonio Metropolitan Health District, drawing from every major clinical lab in the city, but was discontinued in 2010 for lack of funds.
 
 Laboratory surveillance sees only patients already in care and getting tested. That makes it well suited to quality management and care improvement for known patients, but poorly suited to tracking an entire population or catchment area.
+
+Source: adapted from "Public health surveillance" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Public_health_surveillance

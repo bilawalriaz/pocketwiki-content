@@ -35,3 +35,5 @@ The shallow waters, reefs, and small islands make the strait impassable for larg
 
 ## Debates and Open Questions
 The primary debate concerns the proposed Sethusamudram Shipping Canal Project and other dredging or bridge-building plans. These proposals face opposition on religious grounds, as the shoals of Ram Setu are considered sacred in Hinduism, believed to be the bridge built by Rama's army as described in the epic Ramayana. The environmental and economic impacts of altering the strait's natural geography are also subjects of ongoing discussion.
+
+Source: adapted from "Palk Strait" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Palk_Strait

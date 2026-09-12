@@ -74,3 +74,5 @@ The dynasty’s founders were **Chagatai Turks** descended from **Timur** (pater
 - **18th-Century Sovereignty:** Whether the post-1707 emperor was a mere figurehead or retained legitimate sovereign authority acknowledged by Marathas, Sikhs, and regional Nawabs.
 - **Economic Trajectory:** Whether the economy was stagnating before British rule (per "deindustrialization" thesis) or remained dynamic until colonial disruption.
 - **Legal Pluralism:** Extent to which *fiqh* governed non-Muslims vs. reliance on custom (*riwaj*), administrative decree, and village *panchayats* (poorly documented).
+
+Source: adapted from "Mughal Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mughal_Empire

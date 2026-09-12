@@ -37,3 +37,5 @@ Hürrem was a major patron of public works, funding complexes across the empire.
 *   **Origin:** Her exact birth name and place are unknown. European sources called her "Roxelana" (from Ruthenia), while later Ukrainian and Polish traditions name her Anastasia or Aleksandra Lisowska, but these names appear in literature centuries after her death.
 *   **Role in Political Intrigues:** Hürrem is traditionally blamed for the executions of Ibrahim Pasha and Şehzade Mustafa. However, historians note these accounts are based on hearsay and later chronicles, not first-hand sources from within the secluded harem.
 *   **Date of Marriage:** The exact year of her legal marriage to Suleiman is debated, with scholarly estimates ranging from before 1534 to around 1534.
+
+Source: adapted from "Hürrem Sultan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/H%C3%BCrrem_Sultan

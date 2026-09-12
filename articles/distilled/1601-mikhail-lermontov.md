@@ -82,3 +82,5 @@ Lermontov’s romantic life was turbulent and often cruel. His first love (1825)
 - **Caucasus representation**: Lermontov idealized mountain tribes’ "centuries-proven customs" and freedom, contrasting Pushkin’s view of European influence as progressive. Critics argue whether this reflects genuine ethnographic respect or Romantic exoticism.
 - **Duel circumstances**: Lermontov’s alleged intent to fire in the air (deloping) relies on second-hand accounts; Martynov’s motive—humiliation versus honor—remains contested.
 - **Literary legacy**: Russian tradition canonizes him as Pushkin’s direct heir; Western scholars (e.g., Lewis Bagby) stress the "unfinished," contradictory persona blurring life and Byronic performance.
+
+Source: adapted from "Mikhail Lermontov" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mikhail_Lermontov

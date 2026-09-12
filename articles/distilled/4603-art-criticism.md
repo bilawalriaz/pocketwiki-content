@@ -45,3 +45,5 @@ Today, art critics work in print, online, on television, and in museums. The ris
 - It notes the "uneasy relationship" between artists and critics, as critical opinions are often revised by later generations.
 - The text highlights the subjective nature of judgment, which can be based on personal preference, design principles, or social acceptance.
 - The boundaries between art history and art criticism are described as no longer firmly drawn.
+
+Source: adapted from "Art criticism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Art_criticism

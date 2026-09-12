@@ -37,3 +37,5 @@ Collation, the ordering of letters in a dictionary, is not uniform across Latin-
 ## Romanization
 
 Non-Latin languages are routinely transliterated into Latin for international use, a process called romanization. It mattered most in early computing, when 7-bit ASCII was the only widely supported encoding; Unicode reduced that pressure, but keyboards in countries like China and Japan still frequently restrict input to romanized forms, so the habit persists.
+
+Source: adapted from "Latin script" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Latin_script

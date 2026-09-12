@@ -40,3 +40,5 @@ In early 1945, Allied forces fought through the Rhineland, taking roughly 280,00
 ## How the war ended in the West
 
 As Allied forces closed on the Rhine, the Red Army was approaching Berlin from the east, raising the question of whether the Western Allies should race for the capital. Supreme Commander Eisenhower judged that capturing Berlin would be costly, that German forces in the south and west still had to be destroyed, and that the post-war division of Germany would be settled politically. He halted the Western advance along the Elbe and Mulde rivers, leaving the capital to the Soviets; Churchill and others had urged a dash for Berlin, and the choice remains debated between military prudence and political opportunity. Germany signed unconditional surrender on 7 May 1945, with operations ceasing on 8 May.
+
+Source: adapted from "Western Front (World War II)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_Front_%28World_War_II%29

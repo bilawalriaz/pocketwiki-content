@@ -65,3 +65,5 @@ Samuelson described himself as a "Cafeteria Keynesian"—accepting Keynesian ins
 - **Textbook politics:** *Economics* was attacked as "socialist heresy" (Buckley, 1951; trustee/donor campaigns against Tarshis’s similar 1947 text), illustrating Cold War ideological battles over economic pedagogy.
 - **Neoclassical synthesis durability:** While the synthesis dominated for decades, its assumptions (e.g., stable Phillips curve, rational expectations) were later challenged by monetarists, new classical economists, and behavioral economists—debates Samuelson engaged in but did not resolve.
 - **Market efficiency vs. regulation:** Samuelson’s insistence that "zero regulating is vastly suboptimal" and his critique of Friedman/Hayek as "paranoid" reflect a normative divide on state intervention that remains central to policy discourse.
+
+Source: adapted from "Paul Samuelson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Paul_Samuelson

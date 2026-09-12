@@ -40,3 +40,5 @@ Methods belong to generic functions, and the method to run is chosen by multiple
 ## Influence
 
 Dylan has been cited as an influence on later dynamic languages including Lasso, Python, Ruby, and Julia.
+
+Source: adapted from "Dylan (programming language)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dylan_%28programming_language%29

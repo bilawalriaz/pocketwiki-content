@@ -41,3 +41,5 @@ From 1652 to 1658, Nikon wielded immense political power, often acting as co-rul
 *   **Authenticity of Reforms:** Scholars debate whether Nikon's reforms truly restored ancient practices or simply imposed newer Greek models onto an older, venerable Russian tradition. Research suggests the unrevised Muscovite books were actually older than the Greek books Nikon used as a model.
 *   **Nature of Nikon's Power:** Historians analyze the precise nature of the relationship between Nikon and Tsar Alexei, debating whether Nikon was a true co-ruler or an overreaching subordinate.
 *   **Motives for Condemnation:** The synod's reasons for deposing Nikon are complex; while he was accused of personal misconduct, the underlying conflict was a profound struggle over the relationship between church and state authority in Russia.
+
+Source: adapted from "Patriarch Nikon of Moscow" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Patriarch_Nikon_of_Moscow

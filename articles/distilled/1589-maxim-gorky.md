@@ -82,3 +82,5 @@ As "founder of Socialist Realism," Gorky enforced party control but resisted bur
 *   **Political Alignment:** Was Gorky ever a "Stalinist"? Armin Knigge argues "never"; he enforced Socialist Realism but fought party bureaucratization and defended oppositionists (Kamenev, Bukharin) until his death.
 *   **Literary Canon:** Why are major works (*Klim Samgin*, *Artamonov Business*, post-revolutionary plays) unavailable in English? Cold War politics? Soviet-era editorial neglect? Aaron Lake Smith calls the absence "almost suspicious."
 *   **Anti-Homosexuality Law (1934):** Gorky’s vigorous support ("exterminate all homosexuals and fascism will vanish")—was it genuine conviction, political survival, or both? His biographers note the Nazi SA context but also his rigid cultural conservatism.
+
+Source: adapted from "Maxim Gorky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maxim_Gorky

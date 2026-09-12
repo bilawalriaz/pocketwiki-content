@@ -76,3 +76,5 @@ Beneath accessible melodies, their works addressed serious themes: domestic viol
 - **Cultural representation**: *The King and I* and *Flower Drum Song* are re-examined for Orientalist tropes; the 2002 *Flower Drum Song* revival rewrote the book to address stereotypes.
 - **Authorship balance**: Scholars debate the division of dramatic vs. musical initiative—Hammerstein typically wrote the book and lyrics first, Rodgers set them to music, but the collaboration was unusually fluid.
 - **Canon hierarchy**: The "big five" (*Oklahoma!*, *Carousel*, *South Pacific*, *The King and I*, *The Sound of Music*) dominate revivals and scholarship; *Allegro* (1947), *Me and Juliet* (1953), and *Pipe Dream* (1955) are rarely staged and their artistic merit remains contested.
+
+Source: adapted from "Rodgers and Hammerstein" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rodgers_and_Hammerstein

@@ -27,3 +27,5 @@ The 2006 International Astronomical Union (IAU) definition requires an object to
 ## Planetary Properties
 
 Orbits are ellipses. Eccentricity measures how stretched the orbit is, the semi-major axis sets its average size, and inclination is its tilt relative to a reference plane. Axial tilt drives seasons. Rotation periods range from under 10 hours (Jupiter) to 243 days (Venus), and Venus rotates backward relative to its orbital motion. A magnetic field requires a convecting, electrically conducting fluid in the interior; Earth, Jupiter, Saturn, Uranus, and Neptune generate fields through motion in molten iron or metallic hydrogen. Atmospheres depend on gravity and temperature: Titan holds a nitrogen atmosphere with Earth-like surface pressure, while low-gravity Mars lost most of its.
+
+Source: adapted from "Planet" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Planet

@@ -52,3 +52,5 @@ Biological molecules like myosin, kinesin, and dynein function as molecular mach
 
 ## Debates and Open Questions  
 The classification of simple machines remains debated; while traditionally six are listed, some scholars emphasize joint-based categorization over elemental devices. The boundary between machine and organism is blurred in molecular biology, where biological nanomachines rival engineered systems in complexity. Additionally, the definition of "machine" in computing—whether mechanical calculators or abstract models like Turing machines qualify—remains contested among historians and theorists.
+
+Source: adapted from "Machine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Machine

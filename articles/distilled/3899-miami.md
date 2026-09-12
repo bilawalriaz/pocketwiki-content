@@ -47,3 +47,5 @@ Miami's economy is driven by international trade, finance, tourism, and media. I
 - The political shift in Miami-Dade County, traditionally Democratic, toward Republican candidates in recent elections (2020, 2022, 2024) is a significant transformation, with Trump nearly flipping the city of Miami in 2024.
 - The long-term impact of climate change and sea-level rise on Miami's infrastructure, real estate values, and water supply remains a critical and ongoing concern.
 - The causes and effects of the decline in Miami's non-Hispanic Black population, attributed to gentrification and rising costs, are subjects of demographic and social analysis.
+
+Source: adapted from "Miami" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Miami

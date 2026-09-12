@@ -42,3 +42,5 @@ After the Mongol conquest, Volga Bulgaria was divided into vassal principalities
 - The precise origins of the Bulgars and their relationship to the Huns remains a topic of scholarly debate.
 - The linguistic and ethnic relationship between the Volga Bulgars and the modern Chuvash is a key question, with evidence supporting a direct link.
 - The exact nature of the transition from Volga Bulgaria to the Kazan Khanate, and the degree of cultural continuity, is discussed by historians.
+
+Source: adapted from "Volga Bulgaria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Volga_Bulgaria

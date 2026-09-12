@@ -46,3 +46,5 @@ The Long Parliament impeached Charles's chief minister, Strafford, and passed la
 *   The extent to which Charles's religious policies (Arminianism) were a deliberate plot to restore Catholicism is contested.
 *   The causes of the English Civil War are complex, involving long-term constitutional, religious, and economic tensions, not just Charles's personality.
 *   The legality of Charles's trial and execution remains a point of historical and legal debate, as it challenged the established concept of sovereign immunity.
+
+Source: adapted from "Charles I of England" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Charles_I_of_England

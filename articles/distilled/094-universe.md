@@ -80,3 +80,5 @@ Early astronomy came from Egypt and Mesopotamia (c. 3000–1200 BCE). Greek mode
 ## Debates and open questions
 
 Many competing hypotheses exist about the ultimate fate of the universe and about what, if anything, preceded the Big Bang. The nature of both dark energy and dark matter is unknown. The cause of the observed baryon asymmetry (10 billion times more matter than antimatter) is not known. The fine-tuned universe hypothesis—that life requires fundamental constants to lie within a narrow range—is debated, including whether the question is even logically meaningful. The physical basis of multiverse ideas has been challenged. Whether the total universe is finite or infinite remains unknown.
+
+Source: adapted from "Universe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Universe

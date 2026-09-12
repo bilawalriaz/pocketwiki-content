@@ -44,3 +44,5 @@ Brunei's economy is dominated by extensive petroleum and natural gas fields, whi
 - **Historical Extent of the Empire:** The precise territorial control of the Bruneian Empire at its peak, including claims over parts of the Philippines and Borneo, is a subject of scholarly debate.
 - **Impact of the Sharia Penal Code:** The implementation of the Sharia Penal Code, particularly its later phases, has been a source of significant international controversy and debate regarding human rights and religious law.
 - **Economic Diversification:** A key ongoing challenge is Brunei's efforts to diversify its economy away from heavy reliance on oil and gas to ensure long-term sustainability.
+
+Source: adapted from "Brunei" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Brunei

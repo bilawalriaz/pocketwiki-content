@@ -47,3 +47,5 @@ In his final years, Nasser appointed himself prime minister, launched the War of
 - **Decision for War in 1967**: Analysis focuses on whether Nasser was maneuvered into war by Amer's actions or made a deliberate, if miscalculated, strategic choice.
 - **Economic Legacy**: Assessments vary on whether Nasser's socialist policies laid a foundation for development or created inefficiencies that led to later economic stagnation.
 - **Authoritarianism vs. Popular Mandate**: Historians discuss whether Nasser's rule was a necessary phase of state-building or a missed opportunity for democratic development, given his genuine popular support.
+
+Source: adapted from "Gamal Abdel Nasser" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser

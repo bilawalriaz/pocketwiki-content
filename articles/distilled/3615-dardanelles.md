@@ -38,3 +38,5 @@ For most of history, the strait was crossed only by ferry. The first fixed land 
 
 ## Debates and Open questions
 The source does not explicitly outline ongoing scholarly debates, but it highlights the enduring tension between international freedom of navigation and the coastal state's (Turkey's) right to control the straits for security, a balance codified in the Montreux Convention and tested during events like the 2022 closure to warships.
+
+Source: adapted from "Dardanelles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Dardanelles

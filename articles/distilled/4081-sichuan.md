@@ -46,3 +46,5 @@ The majority Han population speaks Sichuanese Mandarin, a divergent dialect of M
 - The etymology of "Sichuan" is commonly misinterpreted as "four rivers." Historical geographer Tan Qixiang argues it is a contraction of "Four Plain Circuits," referring to a Song dynasty administrative division.
 - The origin of the Minjiang dialects is debated; some linguists consider them a direct descendant of the extinct Old Sichuanese (Ba-Shu Chinese), while others see them as a branch of Southwestern Mandarin.
 - The population collapse in Sichuan during the Mongol conquest (from 2.64 million families in 1162 to 120,000 in 1282) is attributed to multiple factors, including war deaths, forced deportations, evacuations, and possible census inaccuracies.
+
+Source: adapted from "Sichuan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sichuan

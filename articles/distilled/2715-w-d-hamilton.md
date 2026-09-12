@@ -40,3 +40,5 @@ Hamilton extended his framework to explain spiteful behavior—harming others at
 - **Peer review delay**: Hamilton believed John Maynard Smith's review of his 1964 papers delayed publication, allowing Maynard Smith to publish similar ideas first, causing lasting friction.
 - **Origin of HIV**: Hamilton supported the now-discredited "OPV AIDS hypothesis," which claimed HIV originated from contaminated polio vaccines. This remains a controversial episode in his career.
 - **Cause of death**: While officially due to gastrointestinal hemorrhage, reports linked his death to complications from malaria contracted during his final research trip to the Congo, a connection the coroner called "entirely indirect."
+
+Source: adapted from "W. D. Hamilton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/W._D._Hamilton

@@ -46,3 +46,5 @@ The shōgun was the supreme military ruler, though the Emperor was a nominal fig
 - The extent to which the rigid class system caused the shogunate's financial decline versus other factors like inflation and peasant unrest.
 - The primary cause of the Shimabara Rebellion: whether it was mainly a Christian uprising or a peasant revolt against misrule.
 - The degree to which the tozama daimyō's long-standing resentment, rather than immediate post-Perry politics, was the decisive factor in the shogunate's overthrow.
+
+Source: adapted from "Tokugawa shogunate" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tokugawa_shogunate

@@ -90,3 +90,5 @@ Gaseous nitrogen is non-toxic but can cause asphyxiation by displacing oxygen in
 - **Nitrogen's role in astrobiology**: The presence of solid nitrogen on Pluto and Triton raises questions about its role in prebiotic chemistry on outer Solar System bodies.
 - **Eutrophication thresholds**: The precise relationship between fertilizer application rates, nitrogen leaching, and marine dead zone formation remains debated, particularly under climate change scenarios.
 - **¹⁵N fractionation mechanisms**: While δ¹⁵N ratios are widely used as proxies in paleoclimatology, the exact controls on isotopic fractionation during denitrification and assimilation are still being refined.
+
+Source: adapted from "Nitrogen" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nitrogen

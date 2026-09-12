@@ -27,3 +27,5 @@ Some researchers build on highly modular symbol-processing cognitive architectur
 ## Open questions
 
 Two fundamental questions remain unsettled. First, how much human programming should, or can, support the learning processes at all. Second, how should progress be quantified, and what forms of reward and punishment are effective for a robot, given that the analogies to candy or encouragement used with children do not transfer directly.
+
+Source: adapted from "Cognitive robotics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cognitive_robotics

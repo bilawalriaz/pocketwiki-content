@@ -75,3 +75,5 @@ Lacking context, folklore artifacts are uninspiring; only through performance do
 ## Debates and open questions
 
 The divided alliance of folkloristics—between humanities in Europe and social sciences in America—continues to be a point of discussion within the field. The classification of folklore into genres is necessary but misleading in oversimplification, as artifacts are never self-contained. The question of whether user-generated content on the internet should be considered folklore is a recent open question, as is how electronic communications modify performance and transmission. The theory of Anderson's law of auto-correction, while influential, is acknowledged as not simplistic, with multiple redundancies in the active folklore process.
+
+Source: adapted from "Folklore" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Folklore

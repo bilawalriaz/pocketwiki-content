@@ -42,3 +42,5 @@ The primary source for Theodora's life is Procopius, whose works present conflic
 - **The Nika Riots speech**: Scholars question whether Theodora's famous speech as recorded by Procopius is a literal transcript or a dramatized literary device meant to comment on power and morality.
 - **Religious sincerity**: Some historians suggest that the apparent conflict between Justinian's Chalcedonianism and Theodora's Miaphysitism was a deliberate political strategy to manage religious factions, rather than a genuine personal disagreement.
 - **Early life details**: The exact date and place of her birth, and the full extent of her early career, remain uncertain and are reconstructed from contested sources.
+
+Source: adapted from "Theodora (wife of Justinian I)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theodora_%28wife_of_Justinian_I%29

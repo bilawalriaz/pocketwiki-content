@@ -33,3 +33,5 @@ Disease burden is measured by financial cost, mortality, morbidity, or other ind
 Medical sociology studies how society responds to disease. A condition may be considered a disease in some cultures but not others: obesity was associated with prosperity in parts of Africa, and epilepsy is seen as a spiritual gift among the Hmong. Language shapes the experience of disease through military metaphors (disease as enemy) and journey metaphors (the "road to recovery"). Diseases are also used as metaphors for social ills.
 
 The classification of predisease remains contested: there is seldom a clear line between legitimate concern for subclinical status and over-medicalization driven by conflicts of interest. One review proposed three criteria for predisease: high risk of progression, actionability for risk reduction, and benefit outweighing harm.
+
+Source: adapted from "Disease" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Disease

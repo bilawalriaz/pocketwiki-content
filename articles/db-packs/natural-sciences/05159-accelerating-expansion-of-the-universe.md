@@ -37,3 +37,5 @@ A 2019 reanalysis using ten times as many Type Ia supernovae as the 1998 studies
 ## Consequences
 
 A cosmological-constant-dominated universe asymptotically approaches a de Sitter universe, one expanding exponentially forever. The cosmic microwave background is steadily redshifted to longer wavelengths until it is absorbed by the interstellar medium when the universe is less than 50 times its present age, after which distant objects become unobservable. In the far future, structures disintegrate into isolated stable particles, a scenario called heat death. Alternatives for the ultimate fate include the Big Rip, a Big Bounce, or a Big Crunch.
+
+Source: adapted from "Accelerating expansion of the universe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Accelerating_expansion_of_the_universe

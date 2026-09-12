@@ -61,3 +61,5 @@ Leif is widely accepted as a historical figure and the first known European in c
 - **Historicity of Supporting Characters:** The existence and roles of Freydís (Leif’s sister) and Tyrker (foster father) are contested; they may be literary devices.
 - **Missionary Mandate:** Whether Leif was formally commissioned by King Olaf Tryggvason to Christianize Greenland, or if this narrative was constructed by later saga writers to legitimize the church’s presence.
 - **Duration of Norse Activity:** The extent and duration of post-Leif voyages to Markland for timber—sporadic trips possibly lasting centuries versus a brief, concentrated effort—remains unresolved.
+
+Source: adapted from "Leif Erikson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leif_Erikson

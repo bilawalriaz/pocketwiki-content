@@ -48,3 +48,5 @@ Cultural institutions like the Mercury Music Prize and Costa Book Awards span th
 ## Debates and Open Questions
 - **Terminology:** The term "British Isles" is politically sensitive and not used by the Irish government, which prefers "these islands" or "Britain and Ireland." Alternatives like "Atlantic Archipelago" or "Anglo-Celtic Isles" have limited academic use.
 - **Political Status of Northern Ireland:** The Good Friday Agreement allows for a future vote on reunification with Ireland, a question that remains a central, unresolved issue in the region's politics.
+
+Source: adapted from "British Isles" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/British_Isles

@@ -37,3 +37,5 @@ In infinite-dimensional spaces, such as those of functional analysis, the flag i
 From the perspective of the field with one element, a set can be regarded as a vector space over that field. An ordering on a set corresponds to a maximal flag: ordering the elements 0, 1, 2, … is the same as taking the flag {0} ⊂ {0,1} ⊂ {0, 1, 2} ⊂ ⋯. This formalises several parallels between Coxeter groups and algebraic groups.
 
 **Changes summary:** Trimmed "on its pole" and "routine" editorial; corrected the unit-scalar list to match source scope; replaced the speculative "leaves only length and phase" gloss with the source's one-dimensional intersection claim; removed the redundant "so k ≤ n" second clause; tightened the partial/complete relationship to one sentence.
+
+Source: adapted from "Flag (linear algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Flag_%28linear_algebra%29

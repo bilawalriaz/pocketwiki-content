@@ -68,3 +68,5 @@ Released in 1958, Pound returned to Italy, where he was photographed giving the 
 ## Debates and Open Questions
 
 Pound’s legacy remains one of the most contentious in modern literature. Scholars continue to debate whether his antisemitism and fascist affiliations can be separated from his poetic achievements. Some, like Hugh Kenner, have emphasized his technical mastery and influence on modernism, while others, including Robert Conquest, argue that his political views fundamentally undermine his artistic credibility. The question of mental competence—whether his actions stemmed from genuine conviction or psychological disturbance—remains unresolved. Additionally, the role of his supporters in rehabilitating his image raises ethical questions about the responsibilities of critics and institutions in confronting artists’ political legacies.
+
+Source: adapted from "Ezra Pound" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ezra_Pound

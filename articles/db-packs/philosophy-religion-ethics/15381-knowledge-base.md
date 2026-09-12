@@ -25,3 +25,5 @@ Modern knowledge bases split by audience. Internal ones act like a corporate wik
 ## Examples
 
 Public, large-scale knowledge bases include Cyc, ConceptNet, DBpedia, YAGO, Wikidata, and Freebase, ranging from curated commonsense rules to structured extractions from web data.
+
+Source: adapted from "Knowledge base" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Knowledge_base

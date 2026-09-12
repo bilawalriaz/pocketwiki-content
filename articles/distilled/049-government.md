@@ -60,3 +60,5 @@ Governments are often organized into three branches—legislature, executive, ju
 ## Debates and open questions
 
 Scholars debate how to classify governments because self-identification is not objective and practice often deviates from ideal forms. Defining regimes is tricky when both government and economy deviate in practice, as with the Soviet Union under Stalin. Political ideologies are subject to non-consensus or deliberate "distortion or bias," making terms like "conservatism" mean different things across countries. There is also debate over whether governments can be "pigeonholed" into narrow categories, given that liberal democracies limit rival political activity and dictatorships must organize broad support. Some question whether the United States is a plutocracy rather than a democracy, and others argue government should be reconceptualized to address climate change by reshaping individual needs for sufficiency.
+
+Source: adapted from "Government" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Government

@@ -48,3 +48,5 @@ A bitter struggle among his sons, known as the "Nine Lords' War," dominated his 
 ## Debates and Open Questions
 - The primary historical debate concerns the succession: whether Kangxi legitimately chose his fourth son Yinzhen (the Yongzheng Emperor) as heir, or whether Yinzhen forged the will to seize the throne from his brother Yinti.
 - The long-term fiscal impact of Kangxi's 1712 decision to freeze the land tax is debated; while it provided stability, it is seen as a policy that prevented necessary modernization of the Qing fiscal system.
+
+Source: adapted from "Kangxi Emperor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kangxi_Emperor

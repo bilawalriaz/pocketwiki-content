@@ -39,3 +39,5 @@ Due to Cold War restrictions, Tharp and Heezen initially published their maps in
 
 ## Debates and Open Questions
 The primary debate Tharp faced was the scientific resistance to continental drift. Her initial hypothesis of a rift valley was rejected by her collaborator, Bruce Heezen, because it supported this controversial theory. The acceptance of her discovery required corroboration from independent data (earthquake epicenters). A secondary issue was the systematic exclusion of her name from early major publications, reflecting the gender biases of the era. The source notes her name did not appear on key papers between 1959 and 1963.
+
+Source: adapted from "Marie Tharp" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marie_Tharp

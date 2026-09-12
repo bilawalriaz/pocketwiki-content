@@ -42,3 +42,5 @@ Scottish culture is marked by distinct traditions in literature, music (includin
 
 ## Debates and Open Questions
 The central ongoing debate is over Scottish independence. The 2014 referendum resulted in a "No" vote, but the issue remains prominent, especially following the UK's exit from the European Union, which Scotland largely voted against. The legality and timing of a potential second independence referendum are contested between the Scottish and UK governments.
+
+Source: adapted from "Scotland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scotland

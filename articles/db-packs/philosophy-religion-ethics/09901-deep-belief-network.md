@@ -35,3 +35,5 @@ After pretraining, the DBN can be further trained with labelled data to perform 
 ## Applications
 
 DBNs have been applied to electroencephalography analysis and to drug discovery tasks such as quantitative structure–activity relationship (QSAR) modelling, where learning useful molecular representations from unlabelled data is valuable.
+
+Source: adapted from "Deep belief network" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Deep_belief_network

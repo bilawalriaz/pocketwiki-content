@@ -46,3 +46,5 @@ Skanderbeg's later years were marked by repeated Ottoman sieges of Krujë (1450,
 - **Role in the Battle of Kosovo (1448)**: Historians disagree on why Skanderbeg did not join the Hungarian-led crusade at Kosovo Polje, with some blaming the Serbian despot Đurađ Branković.
 - **Nature of the Treaty of Gaeta**: Scholars debate whether the treaty made Skanderbeg a true vassal or if he retained full independence, with evidence suggesting he remained the de facto ruler.
 - **Cause of death**: While malaria is the likely cause, rumors of poisoning by Venetian agents persist.
+
+Source: adapted from "Skanderbeg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Skanderbeg

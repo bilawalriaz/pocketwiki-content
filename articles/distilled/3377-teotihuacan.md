@@ -44,3 +44,5 @@ The site was never fully lost and was a pilgrimage destination for the Aztecs, w
 - **Nature of Governance**: The absence of royal palaces or depictions of individual rulers suggests a possible collective or bureaucratic political system, contrasting with other Mesoamerican states.
 - **Cause of Collapse**: Theories include internal uprising, invasion, ecological disaster from drought, or a combination of these factors.
 - **Extent of Influence**: Whether Teotihuacan was a direct imperial power controlling distant regions like the Maya area, or its influence was primarily through prestige and cultural diffusion, remains debated.
+
+Source: adapted from "Teotihuacan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Teotihuacan

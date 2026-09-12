@@ -47,3 +47,5 @@ Post-independence politics were dominated by Arab-Muslim elites, leading to the 
 *   The exact objectives of the rebel groups in the 2003 Darfur conflict are debated—whether they sought greater autonomy within Sudan or outright secession.
 *   The number of casualties in the Darfur conflict is highly uncertain, with estimates ranging from under twenty thousand to several hundred thousand dead.
 *   The long-term viability of any peace agreement in Sudan is questioned, given the history of broken promises and the deep-seated political, ethnic, and religious divisions.
+
+Source: adapted from "History of Sudan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_Sudan

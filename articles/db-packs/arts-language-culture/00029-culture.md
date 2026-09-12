@@ -41,3 +41,5 @@ Scholars dispute whether culture can be objectively ranked: cultural relativism 
 - **Kulturbrille**: "culture glasses" shaping insider perception
 - **Acculturation**: replacement of one culture's traits by another's
 - **High culture/low culture**: elite versus popular or folk culture
+
+Source: adapted from "Culture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Culture

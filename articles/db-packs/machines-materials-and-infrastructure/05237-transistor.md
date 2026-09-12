@@ -26,3 +26,5 @@ In 1955 Carl Frosch and Lincoln Derick accidentally grew a layer of silicon diox
 ## Why it matters
 
 Transistors replaced vacuum tubes because they are far smaller, need no heater, run on low voltages compatible with small batteries, are mechanically rugged, cost almost nothing per device, and can be mass-produced by the billions in integrated circuits. Their limitations matter only in narrow niches: vacuum tubes still serve in some very-high-frequency and high-power applications like travelling-wave tubes, and solid-state devices are vulnerable to electrostatic discharge, radiation, and certain transient events. By 2018, more than 13 sextillion MOSFETs had been manufactured, more than any other artificial object, and a single chip can now hold tens of billions of transistors, a density that underpins the digital age.
+
+Source: adapted from "Transistor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Transistor

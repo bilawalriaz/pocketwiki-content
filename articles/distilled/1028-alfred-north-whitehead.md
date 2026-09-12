@@ -72,3 +72,5 @@ Whitehead viewed education as the cultivation of living wisdom, not the accumula
 *   **Panexperientialism's Plausibility:** Critics question the coherence of attributing "experience" to electrons or vacuum fluctuations. Defenders argue it solves the "hard problem" of consciousness by making experience fundamental rather than emergent.
 *   **Political Classification:** Whether Whitehead’s preference for persuasion over force constitutes a libertarian political philosophy or a metaphysical foundation for social liberalism remains contested.
 *   **China’s Appropriation:** The Chinese state’s endorsement of "ecological civilization" via Whitehead raises questions about the compatibility of his pluralistic, freedom-centered metaphysics with authoritarian governance structures.
+
+Source: adapted from "Alfred North Whitehead" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alfred_North_Whitehead

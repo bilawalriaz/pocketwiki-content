@@ -46,3 +46,5 @@ Composers have incorporated carols into classical works, such as Ralph Vaughan W
 - The exact origin of the word "carol" is unclear, with possible roots in French or Latin terms for dance.
 - The melody of "Adeste Fideles" ("O Come, All Ye Faithful") has a disputed origin.
 - Sociological studies suggest carol singing is not solely related to Christian beliefs but also reinforces national customs and family traditions.
+
+Source: adapted from "Christmas carol" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Christmas_carol

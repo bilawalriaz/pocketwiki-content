@@ -49,3 +49,5 @@ Post-WWII, jet engines revolutionized both military and civilian aviation. The d
 - **Claims to first flight**: The Wright brothers are officially recognized, but claims persist for earlier flights by figures like Gustave Whitehead (1901) and Richard Pearse (1903), though evidence is disputed.
 - **Impact of the Wright patent war**: Historians disagree on whether the Wright brothers' aggressive patent litigation significantly impeded the development of the American aviation industry compared to Europe.
 - **Future of supersonic travel**: After the Concorde's retirement, there is renewed interest in developing new, economically viable supersonic passenger aircraft.
+
+Source: adapted from "History of aviation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_aviation

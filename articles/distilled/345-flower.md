@@ -54,3 +54,5 @@ Floral morphology used since classical Greece. Linnaeus (1753): 24 classes based
 - **Evolutionary mode**: Gradual transformation of sporophylls vs. sudden homeotic mutations; which floral organ originated first.
 - **Coevolution stability**: Specialization increases pollination efficiency but creates extinction vortices; climate change impact on mutualisms.
 - **Taxonomic weight**: Balancing genomic data against traditional floral morphology in classification.
+
+Source: adapted from "Flower" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Flower

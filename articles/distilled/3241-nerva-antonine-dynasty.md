@@ -33,3 +33,5 @@ The dynasty's adoptive system ended when Marcus Aurelius was succeeded by his bi
 
 ## Debates and open questions
 The source material presents a clear scholarly consensus on the "Five Good Emperors" as a period of exceptional governance, a view originating with Machiavelli and Gibbon. The primary open question implied is whether the adoptive system itself was the cause of this stability, or if it was coincidental to the personal virtues of those specific rulers. The text also notes that family connections often persisted through the adoptions, complicating a purely merit-based interpretation.
+
+Source: adapted from "Nerva–Antonine dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty

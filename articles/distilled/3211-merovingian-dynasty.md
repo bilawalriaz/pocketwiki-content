@@ -51,3 +51,5 @@ Key contemporary sources include Gregory of Tours' *Decem Libri Historiarum* (co
 - The legendary origin of the Merovingians from a sea-beast (quinotaur) is debated. It is now commonly seen as an etymological explanation for the name Merovech ("sea-bull") rather than evidence of a claimed supernatural lineage.
 - The extent and nature of the transition from spoken Frankish to Vulgar Latin in Merovingian Gaul is debated, with some evidence suggesting Germanic was used as a second language by officials into the 9th century.
 - The characterization of later Merovingians as entirely powerless *rois fainéants* is an oversimplification, as only the last two kings were truly inactive.
+
+Source: adapted from "Merovingian dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Merovingian_dynasty

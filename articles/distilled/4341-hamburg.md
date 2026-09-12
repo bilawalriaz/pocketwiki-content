@@ -42,3 +42,5 @@ Hamburg sits at the confluence of the Alster and Elbe rivers, with a sheltered n
 
 ## Debates and Open Questions
 The source notes scholarly uncertainty regarding the etymology of the "Hamma" part of Hamburg's name. It also mentions that the precise number of civilian deaths in the 1943 firebombing is not known, though at least 42,600 is the established figure. The origin of the American "hamburger" is linked to Hamburg's *Frikadeller*, but the exact path of culinary influence is a matter of historical discussion.
+
+Source: adapted from "Hamburg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hamburg

@@ -35,3 +35,5 @@ two genuinely different factorisations. Here the element 2 is **irreducible** (n
 ## History
 
 Euclid's *Elements* contains the necessary ingredients: Propositions 30, 31, and 32 of Book VII, including Euclid's lemma and the fact that every composite number has a prime divisor (proved by infinite descent), and Proposition 14 of Book IX, which shows that the least common multiple of given primes is not a multiple of any other prime, though it handles only exponents equal to one. Kamāl al-Dīn al-Fārisī later stated the full theorem for the first time, and Article 16 of Gauss's *Disquisitiones Arithmeticae* (1801) gave the first proof of uniqueness.
+
+Source: adapted from "Fundamental theorem of arithmetic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic

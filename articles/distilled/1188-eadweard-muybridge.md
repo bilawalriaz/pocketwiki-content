@@ -71,3 +71,5 @@ Muybridge's sequential vision permeates modern culture: Marcel Duchamp's *Nude D
 - **Neurological basis of creativity**: The hypothesis that Muybridge's orbitofrontal cortex injury disinhibited his creativity (Shimamura, UC Berkeley) is plausible but unprovable post-mortem; it remains a compelling case study in neuroaesthetics.
 - **Paternity of Florado**: Flora's inscription "Harry" on a photo of their son suggested she believed Larkyns was the father; adult photos show strong resemblance to Muybridge. The biological paternity is unresolved.
 - **Priority in motion-picture invention**: Muybridge's zoopraxiscope projected painted discs, not photographic film. His role as a "father of cinema" is debated relative to Marey, Edison, the Lumière brothers, and Louis Le Prince, each contributing distinct technical steps.
+
+Source: adapted from "Eadweard Muybridge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eadweard_Muybridge

@@ -52,3 +52,5 @@ Kelvin remained active in science and industry until his death. He was the first
 *   **Limits of Classical Physics**: Kelvin's "two clouds" lecture highlighted unresolved problems in classical physics that ultimately led to relativity and quantum mechanics.
 *   **Compass Design**: Biographical accounts differ on whether Kelvin's compass innovations were brilliant improvements or a commercial monopoly achieved by leveraging his reputation.
 *   **False Attributions**: The statement "There is nothing new to be discovered in physics now" is widely but incorrectly attributed to Kelvin; it is a paraphrase of Albert A. Michelson.
+
+Source: adapted from "Lord Kelvin" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lord_Kelvin

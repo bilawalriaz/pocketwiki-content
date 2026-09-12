@@ -135,3 +135,5 @@ Heavy machinery for exploration, overburden removal (bulldozers, trucks, shovels
 1. **Energy Transition vs. Extraction Impacts**: Projected 7B tons metal demand (2022–2050) for decarbonization will increase mining energy expenditure beyond coal; can "sustainable extraction" and circular economy (recycling, urban mining) scale fast enough to avoid replicating fossil fuel harms?
 2. **Artisanal Mining Formalization**: ASM produces critical minerals (e.g., 90% DRC cobalt) but operates in "medieval conditions" with child labor. Can formalization, fair pricing, and safety regulation coexist with the poverty that drives ASM, or will corporate industrialization simply displace artisanal miners?
 3. **Tailings Management**: With 3,500+ impoundments and 2–
+
+Source: adapted from "Mining" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mining

@@ -46,3 +46,5 @@ The Volga is deeply embedded in Russian culture, often personified as "Mother Vo
 *   The existence and nature of the Rus' Khaganate, which arose along the Volga c. 830 AD, is a subject of scholarly debate.
 *   The origin and meaning of the ancient Turkic name for the river, Itil/Atil, are unclear, though it may connect to the hydronym Irtesh.
 *   The ecological impact of the Soviet dam cascade is ongoing, with studies showing significant invasion by alien fish species and range regression of native northern species due to climate warming.
+
+Source: adapted from "Volga" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Volga

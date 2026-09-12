@@ -62,3 +62,5 @@ Critics including W. H. Auden, Evelyn Waugh, and Ian Fleming praised Chandler’
 - **Social attitudes**: Scholars contest the extent to which Chandler’s depictions of Black, female, and homosexual characters reflect period-typical prejudice versus authorial malice, with Patrick Anderson calling him a "rather nasty man at times."
 - **Literary status**: The tension remains between Chandler’s pulp origins and his acceptance into the literary canon; Pauline Kael argued he remained "locked in the conventions of pulp writing," while others cite *The Long Goodbye* as a breakthrough into "serious" literature.
 - **Marlowe’s morality**: Readers debate whether Marlowe’s "knight-errant" code is a genuine moral compass or a romanticized facade for a cynical operator, a tension Parker summarized as "an innocent who knows better, a Romantic who is tough enough to sustain Romanticism."
+
+Source: adapted from "Raymond Chandler" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Raymond_Chandler

@@ -47,3 +47,5 @@ The service sector dominates the economy, but agriculture is vital; Hokkaido has
 - The origin of the name "Hokkaido" is debated; it may derive from the Ainu word *Kai* or be influenced by the Sino-Japanese reading of *Emishi*.
 - Theories differ on the ethnic origins of the Ainu and the people of northern Honshu (Emishi), with the "transformation" theory suggesting gradual change from Jomon peoples and the "replacement" theory positing their displacement by Yayoi immigrants.
 - The classification of Hokkaido's colonization as "settler colonialism" is a subject of academic analysis, focusing on the state-sponsored dispossession of the Ainu and importation of Japanese settlers.
+
+Source: adapted from "Hokkaido" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hokkaido

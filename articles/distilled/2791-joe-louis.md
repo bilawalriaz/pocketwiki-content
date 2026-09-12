@@ -47,3 +47,5 @@ Despite earning over $4.6 million, Louis received only about $800,000 due to man
 - The exact cause of Louis's 1969 collapse was initially reported as a "physical breakdown" but was later revealed by Louis to be cocaine use.
 - The racial dynamics of his fights, particularly the Schmeling bouts, are analyzed as complex intersections of sport, nationalism, and propaganda.
 - The fairness of his financial management and the subsequent IRS debt remains a point of discussion regarding the exploitation of athletes.
+
+Source: adapted from "Joe Louis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joe_Louis

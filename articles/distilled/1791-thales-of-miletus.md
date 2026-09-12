@@ -61,3 +61,5 @@ Thales profoundly influenced later Greek thinkers, though the extent is debated 
 - Whether Thales produced formal mathematical proofs is doubted; modern scholars see such attributions as speculative rationalization by later authors.
 - The extent of Thales's influence on later philosophers and mathematicians is debated due to the scarcity and discrepancies of sources.
 - Thales's ancestry is uncertain: Phoenician, Greek, or mixed, with conflicting ancient accounts.
+
+Source: adapted from "Thales of Miletus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thales_of_Miletus

@@ -45,3 +45,5 @@ The Seleucid economy was primarily agricultural, with 80–90% of the population
 *   The nature of the Seleucid economy is debated. While once characterized as either "modernist" (market-driven) or "primitivist" (autarchic), current scholarship views it as a hybrid system with partial market orientation but significant non-market production.
 *   The exact outcome and details of the Seleucid–Mauryan War are unclear. Ancient sources do not definitively name a victor, and the treaty terms are reconstructed from later accounts.
 *   The status and definition of "royal land" versus land owned by temples and cities (*poleis*) remain contested, affecting our understanding of state revenue and power.
+
+Source: adapted from "Seleucid Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Seleucid_Empire

@@ -78,3 +78,5 @@ Time discipline refers to social and economic rules governing time measurement a
 - **Arrows of time**: The relationships between radiative, entropic, quantum, weak, and cosmological arrows are hotly debated; Brian Greene's symmetric-entropy theory lacks empirical local support.
 - **Time travel**: Whether backward time travel is possible remains unresolved; closed timelike curves require a rotating universe (contradicted by observations, though a slowly rotating model may solve the Hubble tension), and paradoxes (grandfather paradox) remain theoretically problematic.
 - **Age-related time perception**: Whether time speeds up with age is supported by some but remains controversial in the literature.
+
+Source: adapted from "Time" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Time

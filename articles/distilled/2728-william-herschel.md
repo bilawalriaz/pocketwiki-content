@@ -50,3 +50,5 @@ Herschel pioneered astronomical spectrophotometry. In 1800, while testing filter
 *   **Sunspot-climate correlation:** Herschel's hypothesis linking low sunspot numbers to high wheat prices was ridiculed by contemporaries. The significance of this correlation remains debated, though some studies find support over specific historical periods.
 *   **Life on other worlds:** Herschel's confident assertions of life on the Moon and other planets were in line with contemporary scientific thought but were speculative and not based on empirical evidence.
 *   **Galactic model:** His model of the Milky Way as a disk with the Sun at the center was incorrect, later replaced by 20th-century work showing a galactic center far from our solar system.
+
+Source: adapted from "William Herschel" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Herschel

@@ -43,3 +43,5 @@ The later years were marked by Mongol invasions, which forced Cuman tribes to fl
 - **Siege of Tarnovo**: The 13th-century historian George Akropolites claimed the siege lasted seven years, but most modern historians believe he confused months for years. One scholar, Genoveva Cankova-Petkova, accepts the seven-year chronology.
 - **Ivan Asen's First Wife**: There is scholarly debate about whether his first wife, Anna (later the nun Anisia), was a legitimate spouse or a concubine, and whether she was the widow of his uncle Kaloyan.
 - **Children by Irene Komnene Doukaina**: Primary sources give conflicting lists of his children with his third wife, leading to uncertainty about their names and identities.
+
+Source: adapted from "Ivan Asen II" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ivan_Asen_II

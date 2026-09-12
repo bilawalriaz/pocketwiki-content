@@ -43,3 +43,5 @@ Robert's conquests brought Latin Christianity to areas previously under the Byza
 - The exact size of Robert's armies is debated, with sources giving wildly different numbers (e.g., 1,300 knights vs. 10,000 troops for the 1081 expedition).
 - The primary motivation for his attack on the Byzantine Empire is unclear; it was launched under the pretext of supporting a false claimant, but may have been driven by ambition or a perceived right through a broken betrothal.
 - The long duration and setbacks of the Sicilian conquest (e.g., the failed 1064 expedition) highlight the challenges of the campaign, which is sometimes oversimplified as a straightforward victory.
+
+Source: adapted from "Robert Guiscard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Guiscard

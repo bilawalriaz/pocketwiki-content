@@ -36,3 +36,5 @@ The style spread throughout Europe, developing distinct national characteristics
 
 ## Debates and Open Questions
 The source notes a scholarly debate regarding Ottoman Baroque, challenging the view that it was merely derivative and inauthentic. Instead, it is explained as a conscious endeavor to refashion Istanbul into a modern city with a globally resonant architectural mode, part of a larger move to reaffirm the empire’s status.
+
+Source: adapted from "Baroque architecture" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Baroque_architecture

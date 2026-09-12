@@ -45,3 +45,5 @@ Muhammad Ahmad died of typhus on 22 June 1885, just five months after capturing 
 - **Legitimacy of the Mahdi Claim**: Orthodox Sudanese Ulema loyal to the Turco-Egyptian government rejected Muhammad Ahmad's claim, arguing it did not conform to prophecies in Hadith literature, particularly regarding the "time of troubles" required for the Mahdi's appearance.
 - **Nature of the Revolution**: While rooted in religious prophecy, the revolt drew support from diverse tribes and regions, including non-Muslims, leading to its characterization as a national rather than purely religious revolution.
 - **Political Legacy**: Muhammad Ahmad is sometimes considered a precursor of Sudanese nationalism. His political and religious movement, through the Umma Party and the Ansar community, remained a significant force in Sudanese politics long after the Mahdist State's fall.
+
+Source: adapted from "Muhammad Ahmad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muhammad_Ahmad

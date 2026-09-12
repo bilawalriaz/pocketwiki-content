@@ -57,3 +57,5 @@ No original work by Phidias survives; knowledge depends on Roman copies, literar
 - **Golden ratio use**: No ancient source links Phidias to φ; Mark Barr’s 1910 naming was honorific, not historical.
 - **Workshop cup inscription**: The Olympia cup reading *Pheidíou eimí* is disputed—genuine ownership mark or later forgery?
 - **Appearance of the *Athena Lemnia***: Furtwängler’s Bologna/Dresden reconstruction is influential but unproven; other 5th-c. Athena torsos exist.
+
+Source: adapted from "Phidias" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Phidias

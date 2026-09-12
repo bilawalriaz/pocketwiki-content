@@ -47,3 +47,5 @@ The movement faced fierce resistance, from "massive resistance" in the South to 
 - The extent to which the movement's successes were driven by grassroots organizing versus the leadership of prominent figures like Martin Luther King Jr. is debated.
 - Scholars examine the complex and sometimes strained alliances between the civil rights movement and other groups, such as Jewish Americans and the political left.
 - The movement's legacy is contested, with ongoing debates about whether its goals of true equality have been achieved or if systemic racism persists in new forms.
+
+Source: adapted from "Civil rights movement" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Civil_rights_movement

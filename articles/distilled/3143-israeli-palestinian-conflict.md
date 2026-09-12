@@ -50,3 +50,5 @@ In 2005, Israel withdrew settlers and soldiers from Gaza but maintained control 
 - **Nature of the Gaza blockade**: Israel frames its blockade as a security measure against a hostile entity. The UN and many NGOs consider it a form of collective punishment and part of an ongoing occupation.
 - **Genocide allegations**: Some international law experts and human rights organizations have described Israel's actions in the 2023 Gaza war as genocide. Israel and its supporters strongly dispute this.
 - **Viability of a two-state solution**: Public support for a two-state solution has declined among both Israelis and Palestinians. The expansion of Israeli settlements and the political split between Fatah and Hamas are major obstacles.
+
+Source: adapted from "Israeli–Palestinian conflict" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict

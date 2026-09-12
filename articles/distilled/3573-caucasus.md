@@ -40,3 +40,5 @@ The Caucasus features prominently in Greek mythology as the site of Prometheus's
 *   **Europe-Asia Boundary:** There is no single agreed-upon boundary. The Greater Caucasus watershed, the Kuma-Manych Depression, and the Kura and Rioni rivers are all proposed as the dividing line.
 *   **Etymology of "Caucasus":** The name's origin is debated. Theories connect it to Scythian words for "snow," Ancient Greek for "seagull mountain," or words for "high" in other Indo-European languages.
 *   **Political Status:** The post-Soviet territorial disputes, particularly over Abkhazia, South Ossetia, and Nagorno-Karabakh, remain unresolved and are sources of ongoing conflict.
+
+Source: adapted from "Caucasus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caucasus

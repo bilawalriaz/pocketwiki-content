@@ -37,3 +37,5 @@ The strait was the site of the pivotal 1905 Battle of Tsushima during the Russo-
 ## Debates and Open Questions
 - The exact timing and frequency of land bridges connecting Japan to the continent during the Pleistocene are debated.
 - The feasibility, cost, and political will for constructing a Japan–Korea Undersea Tunnel remain open questions.
+
+Source: adapted from "Korea Strait" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Korea_Strait

@@ -44,3 +44,5 @@ Robespierre's stance on slavery was complex. He consistently denounced the slave
 
 ## Debates and Open Questions
 Historians remain deeply divided on Robespierre's legacy. One school of thought, influenced by historians like Albert Mathiez, views him as a principled defender of the poor and the Republic, whose actions were a necessary response to existential threats. Another, represented by revisionists like François Furet, argues that the Terror was an inherent outcome of the Revolution's radical ideology, with Robespierre as its key enforcer. A central debate concerns his personal responsibility: was he the dictatorial mastermind of the Terror, or was he one member of a collective Committee government, later scapegoated by his Thermidorian successors? His role in the abolition of slavery and his vision for a "Republic of Virtue" continue to be subjects of scholarly reassessment.
+
+Source: adapted from "Maximilien Robespierre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Maximilien_Robespierre

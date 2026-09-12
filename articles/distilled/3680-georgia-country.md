@@ -46,3 +46,5 @@ Georgia has transitioned from a Soviet command economy to a free-market system. 
 *   **EU Integration:** The future of Georgia's EU membership bid is uncertain following the government's 2024 decision to pause the accession process until 2028, citing "blackmail" from the EU.
 *   **Occupied Territories:** The status of Abkhazia and South Ossetia remains a core unresolved conflict. Georgia and most of the international community consider them occupied by Russia, while Russia and a few other UN member states recognize them as independent states.
 *   **Name Origin:** While the modern name "Georgia" is generally derived from the Persian term *Gurj*, the ultimate origin of that term is debated, with theories connecting it to "land of wolves."
+
+Source: adapted from "Georgia (country)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Georgia_%28country%29

@@ -89,3 +89,5 @@ For precision alloy production, intermediate "master alloy" ingots or powder are
 ## Debates and open questions
 
 The source notes that steel was not generally considered an alloy until the decades between 1930 and 1970, primarily due to the work of scientists like William Chandler Roberts-Austen, Adolf Martens, and Edgar Bain—implying a historical debate over classification. Additionally, the explanation for precipitation hardening (age hardening) was not provided until 1919, well after Wilm's 1906 discovery, indicating an open scientific question that was later resolved.
+
+Source: adapted from "Alloy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Alloy

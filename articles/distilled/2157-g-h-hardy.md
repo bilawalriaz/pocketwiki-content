@@ -41,3 +41,5 @@ Hardy was intensely shy, eccentric, and socially awkward, often covering mirrors
 
 ## Debates and Open Questions
 The source material does not detail specific scholarly debates about Hardy's work or life, focusing instead on his established contributions and personal narrative.
+
+Source: adapted from "G. H. Hardy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/G._H._Hardy

@@ -48,3 +48,5 @@ The Serbian army employed wedge-shaped heavy cavalry attacks with horse archers 
 - **Relations with Ottomans**: The nature of Dušan's dealings with Ottoman Sultan Orhan remains unclear, including whether his daughter Theodora's marriage was intended to secure peace
 - **Cause of death**: His sudden death at Prizren in 1355 remains unexplained in sources
 - **Legacy interpretation**: Serbian folk tradition often portrayed Dušan negatively under church influence, contrasting with his historical achievements
+
+Source: adapted from "Stefan Dušan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Stefan_Du%C5%A1an

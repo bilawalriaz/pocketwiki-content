@@ -42,3 +42,5 @@ Thomson was an influential teacher at Cambridge. Seven of his students and resea
 - **Nature of Cathode Rays:** Before Thomson, physicists debated whether cathode rays were waves in the "aether" or material particles. Thomson's experiments definitively showed they were negatively charged particles.
 - **Atomic Structure:** Thomson's plum pudding model was the leading atomic model until it was disproven by Ernest Rutherford's gold foil experiment (1911), which revealed a dense, positively charged nucleus.
 - **Terminology:** Thomson resisted the term "electron" for years, preferring "corpuscle" to avoid confusion with a hypothetical "positive electron." The name was popularized by other physicists like George FitzGerald and Hendrik Lorentz.
+
+Source: adapted from "J. J. Thomson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/J._J._Thomson

@@ -44,3 +44,5 @@ Population density and ethnic composition vary across the peninsula. The most po
 - The proper etymology of the word "Yucatán" is widely debated, with theories ranging from a misinterpretation of a Mayan phrase ("I don't understand") to a connection with the yuca crop.
 - The skull of the 9,900-year-old woman from Chan Hol cave shows trauma and deformities possibly caused by a bacterial relative of syphilis, leading to speculation about the circumstances of her death.
 - The existence of at least two morphologically diverse early human groups in the region during the Pleistocene-Holocene transition is suggested by the distinctive features of early skeletons found in the peninsula's caves.
+
+Source: adapted from "Yucatán Peninsula" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yucat%C3%A1n_Peninsula

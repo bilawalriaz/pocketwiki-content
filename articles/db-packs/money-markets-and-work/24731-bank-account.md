@@ -13,3 +13,5 @@ An account can carry a credit balance, meaning the bank owes the customer, or a 
 ## Opening and account types
 
 Per-country laws govern who may open an account, how signatories identify themselves, and deposit or withdrawal limits. The minimum opening age is usually 18, sometimes 16, and minors' accounts are typically operated by a parent or guardian; opening an account in a false name is generally unlawful. Beyond deposit and loan accounts, institutions offer transaction accounts (checking or current accounts), savings accounts, time deposits and certificates of deposit, money-market accounts, securities accounts, joint accounts, low-cost accounts, numbered accounts, and Negotiable Order of Withdrawal accounts.
+
+Source: adapted from "Bank account" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bank_account

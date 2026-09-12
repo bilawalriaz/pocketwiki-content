@@ -36,3 +36,5 @@ Bernoulli's work often led to disputes. He and his brother Jacob had a competiti
 
 ## Debates and Open Questions
 The source details several key disputes: the bitter rivalry between Johann and his brother Jacob Bernoulli, particularly concerning the brachistochrone problem; the priority and credit controversy with Guillaume de l'Hôpital over the first calculus textbook; and the later conflict with his son Daniel Bernoulli over precedence in hydrodynamics, which involved Johann falsifying the date of his work.
+
+Source: adapted from "Johann Bernoulli" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Johann_Bernoulli

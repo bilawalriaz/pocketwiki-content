@@ -44,3 +44,5 @@ The operating system, usually with help from a memory management unit (MMU) in t
 **Protected memory** gives each program its own private address range and stops it from reading or writing outside that range. A program that tries to access memory it does not own is terminated with a segmentation fault rather than corrupting another program or the OS. Without protection, a bug or a virus in one program can silently damage others.
 
 Improper memory handling is a frequent source of bugs and security holes. A *memory leak* happens when a program requests memory and never releases it, so its usage grows until the system runs out. A *buffer overflow* happens when a program writes past the end of an allocated block, overwriting adjacent data; this is the basis of many software exploits.
+
+Source: adapted from "Computer memory" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Computer_memory

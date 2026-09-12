@@ -50,3 +50,5 @@ The population is ethnically diverse, with major groups including the Akan, Volt
 - The role and impact of French military intervention during the civil wars are disputed, with each side accusing France of supporting the opposition.
 - The legitimacy of Alassane Ouattara's 2020 third-term election is contested by opponents who argue it was unconstitutional.
 - The effectiveness of the "Ivoirité" policy in addressing national identity versus its role in exacerbating ethnic tensions remains a subject of analysis.
+
+Source: adapted from "Ivory Coast" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ivory_Coast

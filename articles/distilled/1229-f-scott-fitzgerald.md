@@ -55,3 +55,5 @@ After his death, Fitzgerald’s work gained renewed attention. Edmund Wilson edi
 - **Zelda’s influence**: Her mental illness and personality significantly shaped Fitzgerald’s writing, but interpretations of her role vary.
 - **Hollywood’s impact**: Whether Fitzgerald’s screenwriting career hindered or helped his literary legacy remains contested.
 - **Appropriation in fiction**: Fitzgerald’s use of personal letters and experiences of others in his work raises questions about artistic ethics.
+
+Source: adapted from "F. Scott Fitzgerald" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/F._Scott_Fitzgerald

@@ -37,3 +37,5 @@ After failing to find private investors, Daguerre went public in 1839. The Frenc
 ## Debates and Open Questions
 - **Priority of invention**: The announcement of Daguerre's process in 1839 prompted William Henry Fox Talbot to claim priority, as he had independently developed photographic methods. The two processes were fundamentally different, but the competition spurred further development.
 - **The "free to the world" gift**: The French government's declaration made the daguerreotype a global standard, but the simultaneous patent filing in the UK created a unique commercial barrier there, affecting its adoption compared to competing processes.
+
+Source: adapted from "Louis Daguerre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louis_Daguerre

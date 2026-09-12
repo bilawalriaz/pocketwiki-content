@@ -37,3 +37,5 @@ so the proton charge plus the electron charge is zero, and quark and lepton char
 ## Cobordism classification
 
 In the modern cobordism description, perturbative local anomalies correspond to integer (free) classes, while non-perturbative global anomalies correspond to torsion classes, finite cyclic groups Z_n. The Standard Model is known to be free of perturbative local anomalies, and recent work uses cobordism together with the Atiyah–Patodi–Singer eta invariant to search for and rule out further non-perturbative anomalies in chiral gauge theories.
+
+Source: adapted from "Anomaly (physics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anomaly_%28physics%29

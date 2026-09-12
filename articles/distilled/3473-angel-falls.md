@@ -38,3 +38,5 @@ Angel Falls is a top tourist attraction in Venezuela, though access is complex, 
 ## Debates and open questions
 - **Tallest Waterfall:** There is ongoing debate and uncertainty about whether Angel Falls or South Africa's Tugela Falls holds the title of the world's tallest waterfall, as both measurements were taken from a considerable distance.
 - **Indigenous Naming:** The use and authenticity of indigenous Pemon names for the falls and local streams are discussed, with some sources noting the area was considered dangerous and not visited by the Pemon.
+
+Source: adapted from "Angel Falls" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Angel_Falls

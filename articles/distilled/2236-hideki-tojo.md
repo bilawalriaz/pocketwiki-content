@@ -43,3 +43,5 @@ After Japan's surrender in 1945, Tojo was arrested for war crimes. He attempted 
 - **Tojo's Role vs. the Emperor's:** Historians debate the extent of Emperor Hirohito's responsibility for the war. Some, like Herbert Bix, argue that U.S. authorities, particularly General MacArthur, deliberately exonerated the Emperor by shifting ultimate blame onto Tojo during the Tokyo Trials.
 - **The "Hull Note" as an Ultimatum:** Tojo's government characterized the U.S. diplomatic note of November 1941 as an ultimatum to justify war. Historical analysis shows it was a tentative proposal without a deadline, making this characterization a key point of contention regarding the justification for the attack on Pearl Harbor.
 - **Tojo's Authority:** While often portrayed as a dictator, Tojo's power was contingent on the Emperor's support and required negotiation with other military branches, especially the Navy, which often opposed his decisions.
+
+Source: adapted from "Hideki Tojo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hideki_Tojo

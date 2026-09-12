@@ -55,3 +55,5 @@ Tijuana's cultural identity has evolved from its tourist-town roots. The 1982 op
 - The exact meaning of "Tijuana" is debated, with the Kumeyaay-derived "by the sea" being most accepted versus the folk etymology "Aunt Jane."
 - The true population is uncertain, with discrepancies between census data (e.g., 1.3 million in 2010) and city estimates (e.g., 1.6–2 million in 2010).
 - The causes behind high-profile violence, such as the 1994 assassination of presidential candidate Luis Donaldo Colosio, remain subjects of speculation.
+
+Source: adapted from "Tijuana" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tijuana

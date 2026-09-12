@@ -13,3 +13,5 @@ Eggs yield only one or two doses each, so cell-based production scales faster an
 ## Approved examples
 
 Cell-based vaccines are approved for influenza, rotavirus, measles, smallpox, polio, rabies, and Japanese encephalitis. Flucelvax, grown in MDCK cells by Novartis, was the first mammalian cell-based influenza vaccine approved in the United States (FDA, 2012); it targets H1N1, H3N2, and two influenza B lineages and is approved for people over three years of age. Optaflu, made the same way by Novartis, was approved by the European Medicines Agency in 2009, with the differences from Flucelvax limited to release specifications and assays. Flublok, grown in insect cells by Protein Sciences, was approved by the FDA in 2013 and is suitable for people with egg allergies. Rotarix and RotaTeq (Vero cells) cover rotavirus; Verorab (Vero cells) covers rabies; Ixiaro (Vero cells) covers Japanese encephalitis.
+
+Source: adapted from "Cell-based vaccine" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cell-based_vaccine

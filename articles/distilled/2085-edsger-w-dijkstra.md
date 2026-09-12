@@ -44,3 +44,5 @@ Dijkstra was known for his idiosyncratic teaching style, which included oral exa
 - The relevance of the "Go To statement considered harmful" debate persists in discussions about programming language design and readability.
 - Dijkstra's opposition to software engineering as an academic discipline raises questions about the field's theoretical foundations.
 - His avoidance of computers in personal work challenges assumptions about the necessity of digital tools for intellectual productivity.
+
+Source: adapted from "Edsger W. Dijkstra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Edsger_W._Dijkstra

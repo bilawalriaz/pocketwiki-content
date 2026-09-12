@@ -42,3 +42,5 @@ Diophantus wrote other works, including *On Polygonal Numbers* (incomplete) and 
 - **Scope of knowledge**: It is uncertain whether Diophantus had a proof that every number is the sum of four squares or merely conjectured it.
 - **Fermat's claim**: Scholars debate whether Fermat actually had a valid proof for his Last Theorem, which he claimed was too large for the margin of his *Arithmetica*.
 - **Lost works**: The content of lost works like *Porisms* and *On Parts* is only partially known from references.
+
+Source: adapted from "Diophantus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Diophantus

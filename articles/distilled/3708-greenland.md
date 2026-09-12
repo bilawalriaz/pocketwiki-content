@@ -48,3 +48,5 @@ The population is 89.5% Greenlandic Inuit. Greenlandic (Kalaallisut) is the sole
 *   **Path to Independence:** While the Self-Government Act provides a legal framework for independence, the economic viability of an independent Greenland, given its reliance on Danish aid and fishing, is a central political question.
 *   **Climate Change Impacts:** The rate and consequences of the Greenland ice sheet's melt are subjects of intense scientific study, with projections for sea level rise and potential tipping points being actively researched.
 *   **Geopolitical Future:** Greenland's strategic importance has led to renewed interest from major powers, notably the United States, raising questions about its future sovereignty and international alignment.
+
+Source: adapted from "Greenland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Greenland

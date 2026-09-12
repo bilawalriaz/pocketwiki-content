@@ -52,3 +52,5 @@ Constable "quietly rebelled" against academic imagination-based composition: "Wh
 - **Commercial failure in England vs. French acclaim**: The stark contrast—~20 sales in England vs. >20 in France in a few years—raises questions about national taste, the Academy’s hierarchy of genres (landscape as "minor"), and the role of scale ("six-footers") in forcing critical attention.
 - **Late style as decline or breakthrough**: The "broken and accented" brushwork of *Hadleigh Castle* and *Salisbury Cathedral from the Meadows* is read either as evidence of grief-induced deterioration or as a deliberate expressive advance toward modernism.
 - **Scientific vs. poetic landscape**: Constable’s 1836 lectures framed painting as "scientific as well as poetic" and denied imagination’s creative parity with nature—a position at odds with mainstream Romantic theory and later modernist abstraction.
+
+Source: adapted from "John Constable" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Constable

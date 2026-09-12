@@ -44,3 +44,5 @@ As of 2022, Yerevan's population is 1,086,677, over 35% of Armenia's total. The 
 ## Debates and Open Questions
 - The exact origin of the name "Yerevan" is unknown. Theories link it to the Urartian "Erebuni," the name of King Yervand (Orontes) IV, or a legendary exclamation by Noah.
 - The scale and impact of the 2000s construction boom are debated, with criticism focused on the destruction of historic 18th and 19th-century buildings.
+
+Source: adapted from "Yerevan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yerevan

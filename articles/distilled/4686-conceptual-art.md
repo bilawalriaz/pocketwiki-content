@@ -43,3 +43,5 @@ The first major wave of conceptual art lasted from the late 1960s to the late 19
 - **Relationship to Formalism**: Scholars debate whether conceptual art was a radical break from Greenberg's formalist modernism or a continuation of its "dematerializing" logic.
 - **The Role of Documentation**: A persistent question is whether documentation (texts, photos) of a conceptual work *is* the art, or merely a record of it.
 - **Art vs. Craft**: Conceptual art explicitly favors the "art" side of the art/craft dichotomy, engaging historical discourse over manual skill, a preference that continues to shape contemporary practice.
+
+Source: adapted from "Conceptual art" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Conceptual_art

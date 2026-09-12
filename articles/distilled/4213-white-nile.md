@@ -38,3 +38,5 @@ The White Nile is navigable from Lake Albert to Khartoum via the Jebel Aulia Dam
 
 ## Debates and Open Questions
 The most remote source of the Nile is debated, with the Ruvyironza in Burundi and the Nyabarongo in Rwanda as primary candidates. The exact point where the "White Nile" begins is also a matter of definition, with some considering it to start only at the confluence at Lake No.
+
+Source: adapted from "White Nile" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/White_Nile

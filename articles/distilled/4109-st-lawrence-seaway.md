@@ -42,3 +42,5 @@ Construction required flooding areas to create Lake St. Lawrence, submerging sev
 - **Environmental Impact**: How can the negative effects of invasive species and altered water levels be mitigated?
 - **Future Viability**: Should the seaway be expanded to accommodate larger modern ships, or are the costs and environmental risks too high?
 - **Climate Resilience**: How will increasingly frequent low water levels in the Great Lakes affect the seaway's operations and regional economies?
+
+Source: adapted from "St. Lawrence Seaway" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/St._Lawrence_Seaway

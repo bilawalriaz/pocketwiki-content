@@ -43,3 +43,5 @@ The vine was introduced by the Romans, and wine production has been continuous s
 - The socioeconomic disparities and mass unrest in Bordeaux prior to the French Revolution are highlighted as a key regional dynamic, with historian Suzanne Desan emphasizing the need to examine "intricate local dynamics."
 - The city's historical role and moral responsibility regarding the slave trade remains a point of reflection, with memorials and museum exhibits addressing this past.
 - The political shift in 2020, ending 73 years of right-of-centre rule, signals an evolving political landscape in the traditionally conservative city.
+
+Source: adapted from "Bordeaux" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bordeaux

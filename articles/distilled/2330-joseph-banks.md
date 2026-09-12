@@ -41,3 +41,5 @@ Banks was the most influential proponent of British settlement in New South Wale
 *   The extent of Banks's direct responsibility for the harsh treatment of Aboriginal Australians, including his collection of the severed head of Pemulwuy, is a subject of historical scrutiny.
 *   The "invisible ships" myth, which suggests Aboriginal Australians did not initially see the *Endeavour*, may have originated from Banks's own account of the approach to Botany Bay.
 *   The dispersal of his papers after his death was contentious; the British Museum declined to purchase them, leading to their sale and scattering across institutions in Australia and the UK.
+
+Source: adapted from "Joseph Banks" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Banks

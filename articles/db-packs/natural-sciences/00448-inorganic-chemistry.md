@@ -31,3 +31,5 @@ Determining structure relies on X-ray crystallography for precise three-dimensio
 ## Origins and current frontier
 
 Humans handled inorganic compounds long before the field had a name. Elemental sulfur was in use around 3000 BC, and in the 1770s Lavoisier and Priestley identified oxygen (O₂), establishing the stoichiometric laws that govern every quantitative reaction since. Modern research concentrates on nanoscience, where the distinction between very large molecular clusters and bulk solids grows indistinct, on catalysts that selectively break or form specific bonds, and on bioinorganic systems where metals drive processes such as photosynthesis and nitrogen fixation. The Haber–Bosch catalyst itself is still a target of active research because replacing the iron with more efficient or sustainable alternatives would reshape global fertiliser supply.
+
+Source: adapted from "Inorganic chemistry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Inorganic_chemistry

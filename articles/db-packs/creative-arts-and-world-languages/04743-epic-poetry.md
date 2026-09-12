@@ -44,3 +44,5 @@ The dominant mode is the heroic epic. Alongside it sit the didactic epic, which 
 ## Unresolved questions
 
 Scholars still debate how directly written Homer reflects oral performance versus later literary shaping, and whether the boundary between epic and novel is as firm as once assumed. Defining the genre is especially contested when extended to non-European folk epics, whose conventions only partly overlap with the Greco-Roman template.
+
+Source: adapted from "Epic poetry" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Epic_poetry

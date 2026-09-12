@@ -46,3 +46,5 @@ At 92, Mahathir returned as Prime Minister in 2018, leading the Pakatan Harapan 
 - **Economic Legacy**: While credited with modernization, his heavy-industrialization projects like Perwaja Steel resulted in massive losses, raising questions about the efficacy of state-led industrial policy.
 - **Ethnic Politics**: His lifelong advocacy for Malay affirmative action is seen by some as essential for equity and by others as fostering dependency and racial division.
 - **Political Longevity**: His repeated political comebacks and shifting party allegiances prompt analysis of his enduring influence and its impact on Malaysia's political system.
+
+Source: adapted from "Mahathir Mohamad" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mahathir_Mohamad

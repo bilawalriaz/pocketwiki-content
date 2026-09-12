@@ -47,3 +47,5 @@ Armenia's economy is primarily based on industrial output and mineral extraction
 *   The exact origins of the name "Armenia" are uncertain and debated, with theories linking it to the legendary patriarch Hayk, the Hittite vassal state Ḫayaša-Azzi, or the Urartian region of Arme.
 *   The total death toll of the Armenian genocide is debated, with estimates ranging from 600,000 to 1.5 million, though the event is recognized as genocide by the vast majority of Western historians.
 *   The future status of Armenia's foreign policy is a major open question, as it seeks closer ties with the West (including EU candidacy) while managing deteriorated relations with its traditional security ally, Russia.
+
+Source: adapted from "Armenia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Armenia

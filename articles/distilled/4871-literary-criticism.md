@@ -46,3 +46,5 @@ Modern criticism is diverse. Beyond traditional analysis, critics engage with cu
 - Whether literary criticism should be considered a separate field from literary theory is a matter of controversy.
 - The influence of a critic's personal ideology or experiences on their judgment of literature is debated (e.g., E. Michael Jones's argument about Stanley Fish).
 - The goals and methods of literary criticism, which characterized the "rise" of theory, have seen declining disagreement in recent years.
+
+Source: adapted from "Literary criticism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Literary_criticism

@@ -39,3 +39,5 @@ Beyond theoretical work, Gay-Lussac made lasting practical contributions. In 182
 
 ## Debates and Open Questions
 The source notes a minor historical attribution debate: the gas law Gay-Lussac published in 1802 is usually called Charles's law because he cited earlier, unpublished work by Jacques Charles, though some sources use the name Gay-Lussac's law. The law was also independently stated by John Dalton nearly simultaneously.
+
+Source: adapted from "Joseph Louis Gay-Lussac" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac

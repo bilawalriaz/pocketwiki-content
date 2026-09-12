@@ -35,3 +35,5 @@ A *frame story* embeds several tales within a main narrative. *In medias res* me
 In the United Kingdom, short-story sales rose 45% in 2017. Awards such as the Sunday Times Short Story Award and the Nobel Prize in Literature, awarded to Alice Munro in 2013, confer prestige usually reserved for novels. Adaptations for radio, television, and film, from *The Twilight Zone* to *The Shawshank Redemption*, show how durable a single, well-made effect can be when lifted from the page.
 
 The boundary between a long short story and a novella is set by publishers and prize committees rather than by any internal feature, and digital publishing continues to reshape both the economics of short fiction and the forms it can take.
+
+Source: adapted from "Short story" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Short_story

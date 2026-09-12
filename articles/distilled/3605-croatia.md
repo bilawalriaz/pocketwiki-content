@@ -57,3 +57,5 @@ The population is approximately 3.9 million, predominantly Croat (91.6%) and Cat
 - The ethnogenesis of the Croats is debated, with a predominant scholarly consensus proposing a Slavic migration from White Croatia, while an alternative Iranian theory suggests a Sarmatian-Alanic origin.
 - The reliability and interpretation of the 10th-century Byzantine text *De Administrando Imperio*, which describes early Croatian settlement, are subjects of scholarly dispute.
 - The exact number of casualties and displaced persons during the 1991–1995 War of Independence remains a point of discussion, with various demographic studies providing differing estimates.
+
+Source: adapted from "Croatia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Croatia

@@ -74,3 +74,5 @@ Hughes died May 22, 1967, in New York City. His ashes are interred beneath an Af
 - **Political commitment**: Historians debate the depth of Hughes’s Communist allegiance—sympathizer vs. fellow traveler—and whether his 1953 testimony represented genuine ideological shift or pragmatic self-preservation.
 - **Literary reputation vs. Black Power**: In the 1960s, younger writers (e.g., James Baldwin) criticized Hughes as outdated or insufficiently radical; Hughes countered that they were too angry. The tension between integrationist pride and separatist militancy frames assessments of his late work (*Panther and the Lash*).
 - **Patronage influence**: Charlotte Osgood Mason’s financial support (1927–30) came with ideological strings; their falling out raises questions about artistic autonomy vs. white patronage in the Renaissance.
+
+Source: adapted from "Langston Hughes" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Langston_Hughes

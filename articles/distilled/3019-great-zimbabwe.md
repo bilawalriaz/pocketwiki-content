@@ -51,3 +51,5 @@ After independence in 1980, the site became a national symbol. The modern state 
 - **Function of Complexes**: Scholars disagree on whether the Hill Complex, Great Enclosure, and Valley Complex were successive royal residences or served distinct ritual, administrative, and domestic functions.
 - **Cause of Decline**: The exact reasons for abandonment are unknown. Proposed causes include climate change (considered unlikely), resource depletion (water, salt, agricultural land), economic shifts, and political fragmentation.
 - **Local vs. Archaeological Perspectives**: There is ongoing tension between treating the site as a historical archaeological monument and recognizing it as a living cultural and spiritual landscape for local communities.
+
+Source: adapted from "Great Zimbabwe" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Great_Zimbabwe

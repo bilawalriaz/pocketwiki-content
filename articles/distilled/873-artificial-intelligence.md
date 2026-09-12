@@ -45,3 +45,5 @@ AI originated in mid-20th century cybernetics and computation theory. Cycles of 
 
 ## Debates and Open Questions
 Key debates include whether AGI is achievable or desirable, how to align superintelligent systems with human values, the validity of existential risk warnings versus techno-optimism, and the adequacy of current regulatory frameworks. Disagreements persist on job displacement severity, the role of symbolic versus neural approaches, and balancing innovation with safety. The timeline for transformative AI remains hotly contested among researchers and policymakers.
+
+Source: adapted from "Artificial intelligence" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Artificial_intelligence

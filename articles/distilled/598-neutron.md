@@ -50,3 +50,5 @@ Neutrons enable nuclear energy through chain reactions: neutron-induced fission 
 
 ## Debates and Open Questions
 The neutron electric dipole moment remains undetected despite Standard Model predictions; its measurement could reveal physics beyond the Standard Model. Neutron-antineutron oscillations, if observed, would explain cosmic baryon asymmetry. The exact quark mass contributions to neutron properties require relativistic quantum chromodynamics calculations. Free neutron lifetime measurements show discrepancies between beam and bottle experiments (~8.2-second difference), suggesting unknown decay channels or systematic errors. The stability of dineutrons and tetraneutrons as resonant states continues to be investigated for insights into nuclear force behavior.
+
+Source: adapted from "Neutron" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Neutron

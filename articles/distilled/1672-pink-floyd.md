@@ -89,3 +89,5 @@ Relations between Gilmour and Waters remained hostile. A 2022 *Animals* remix wa
 - **Barrett’s Legacy vs. Exploitation**: The band’s most famous works (*Wish You Were Here*, *The Wall*, *Shine On You Crazy Diamond*) center on Barrett’s tragedy. Critics debate whether this constitutes homage or commercial exploitation of a vulnerable former member.
 - **Catalogue Sale (2024)**: The $400M sale to Sony Music (recordings/merch, not publishing) required unanimous consent after years of deadlock. The exclusion of songwriting rights leaves Waters (primary lyricist) and Gilmour (primary composer) with ongoing control—and potential conflict—over licensing.
 - **"Hey, Hey, Rise Up!" (2022)**: Was this a genuine political statement or a legacy-brand exercise? Waters’s condemnation and the Gilmour/Samson public attack highlight whether the "Pink Floyd" name can ever represent a unified voice again.
+
+Source: adapted from "Pink Floyd" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pink_Floyd

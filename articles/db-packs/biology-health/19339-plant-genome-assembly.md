@@ -35,3 +35,5 @@ Different technologies defined different eras of plant genomics.
 Several resources distribute these assemblies. Ensembl Plants holds reduced representations of about 45 sequenced plant species with gene models and polymorphism data. Gramene adds comparative genomics and pathway analysis on Ensembl infrastructure. PGDBj integrates ortholog (genes in different species descended from a common ancestor), DNA marker, linkage, and germplasm data for model and crop plants. PlantsDB supports comparative queries across multiple species. PLAZA focuses on evolutionary analyses across the green plant lineage (Viridiplantae). TAIR remains the dedicated resource for the Arabidopsis reference genome.
 
 The shift from BAC-by-clone to shotgun to NGS to long-read hybrid assemblies tracks both falling cost and the need to span the repetitive, polyploid structure that defines plant genomes.
+
+Source: adapted from "Plant genome assembly" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plant_genome_assembly

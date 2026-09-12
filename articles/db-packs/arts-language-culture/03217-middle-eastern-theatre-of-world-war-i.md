@@ -39,3 +39,5 @@ Allied military losses reached roughly one million. Ottoman military deaths are 
 ## End of the Fighting
 
 The Megiddo collapse opened the way for the Armistice of Mudros, signed on 30 October 1918, which ended Ottoman participation in the war. The empire's defeat set in motion its partition under the later Treaty of Sèvres (1920), itself replaced by the Treaty of Lausanne in 1923, which fixed the borders of modern Turkey and confirmed the end of Ottoman rule across the Arab world.
+
+Source: adapted from "Middle Eastern theatre of World War I" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Middle_Eastern_theatre_of_World_War_I

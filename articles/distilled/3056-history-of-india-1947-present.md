@@ -54,3 +54,5 @@ Post-independence India followed a dirigiste model with heavy state regulation a
 *   **Kashmir Conflict:** The causes, nature, and potential resolution of the conflict in Kashmir remain deeply contested, with differing narratives between India, Pakistan, and Kashmiri groups.
 *   **Impact of Partition:** Historians continue to assess the long-term political, social, and psychological consequences of the Partition and the communal violence it unleashed.
 *   **Effectiveness of Social Policies:** The efficacy of policies like reservations (affirmative action) and poverty alleviation programs in addressing deep-rooted caste and economic inequalities is frequently debated.
+
+Source: adapted from "History of India (1947–present)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_India_%281947%E2%80%93present%29

@@ -46,3 +46,5 @@ By 1990, economic crisis and domestic unrest forced Mobutu into a coalition gove
 *   **Extent of Western Complicity:** Historians debate the precise level of U.S. and Belgian involvement in the 1961 execution of Patrice Lumumba, with evidence suggesting they were aware of and facilitated the transfer that led to his death.
 *   **Economic Responsibility:** While Mobutu's corruption is undisputed, scholars analyze the relative impact of his personal looting versus broader structural factors like the collapse of global copper prices in the 1970s on Zaire's economic ruin.
 *   **Legacy of "Authenticity":** The long-term cultural and political impact of Mobutu's authenticity campaign is debated—whether it was a genuine decolonization effort or merely a tool for personal aggrandizement and control.
+
+Source: adapted from "Mobutu Sese Seko" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mobutu_Sese_Seko

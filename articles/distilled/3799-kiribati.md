@@ -45,3 +45,5 @@ Kiribati has the lowest GDP of any sovereign state in Oceania. The economy relie
 - The long-term habitability of Kiribati's islands is debated. While some research shows islands can dynamically respond to sea-level rise by gaining land area, scientists agree this does not increase their elevation, leaving them vulnerable to submergence.
 - The legal status of "climate refugees" remains unsettled. New Zealand courts rejected a claim by a Kiribati citizen, but the Supreme Court left open the possibility that extreme environmental degradation could someday create a pathway to refugee status.
 - The effectiveness of international climate finance and adaptation programs like the Kiribati Adaptation Program (KAP) in securing the nation's future is an ongoing concern.
+
+Source: adapted from "Kiribati" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kiribati

@@ -70,3 +70,5 @@ Prince is cited as a "pop polymath" (Simon Reynolds) and "master architect of fu
 - **New Power Generation (NPG)**: Prince's backing band from 1991 onward, featuring a larger ensemble including horns, rappers (Tony M.), and multiple keyboardists; credited on *Diamonds and Pearls* through later albums.
 - **Paisley Park**: Prince's 65,000 sq. ft. home, recording studio, and creative complex in Chanhassen, Minnesota (opened 1987); site of his death and current museum.
 - **The Black Album**: Unreleased 1987 album (funk/hip-hop, "evil" per Prince) recalled after 500k pressings; officially released in limited
+
+Source: adapted from "Prince (musician)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prince_%28musician%29

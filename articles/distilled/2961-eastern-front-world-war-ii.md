@@ -46,3 +46,5 @@ The Eastern Front was the deadliest conflict in history, with approximately 30 m
 *   **Stalin's Preparedness**: Historians debate whether Stalin's refusal to believe invasion warnings was due to fear of provoking Hitler, a belief war would come later, or a combination of both.
 *   **Impact of Lend-Lease**: The precise importance of Western aid is debated; while critical for logistics and high-tech materials, the Soviet Union bore the brunt of ground combat and industrial production.
 *   **The "Clean Wehrmacht" Myth**: Scholarship has thoroughly debunked the notion that the regular German army was not complicit in Nazi atrocities; the Wehrmacht was deeply involved in war crimes and the Holocaust on the Eastern Front.
+
+Source: adapted from "Eastern Front (World War II)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eastern_Front_%28World_War_II%29

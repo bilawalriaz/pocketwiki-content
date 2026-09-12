@@ -44,3 +44,5 @@ One response to clashes between these traditions is case-based reasoning, or cas
 ## Boundaries
 
 Applied ethics is now distinguished from a younger neighbour, applied epistemology, which sits under the broader umbrella of applied philosophy. Applied ethics handles moral questions in practice; applied epistemology handles questions of knowledge, evidence, and belief in practical settings such as science policy, journalism, and law. They share an applied stance but target different problems, and recognising the split matters because imported methods from one can mislead when the underlying question belongs to the other.
+
+Source: adapted from "Applied ethics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Applied_ethics

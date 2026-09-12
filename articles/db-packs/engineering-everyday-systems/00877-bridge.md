@@ -29,3 +29,5 @@ Work proceeds from **substructure** (foundations, piers, abutments) to **superst
 ## Societal Impact
 
 Bridges reduce transport costs and connect regions, supporting economic activity, but also encourage urban sprawl and pollution. Signature spans such as the Golden Gate and Brooklyn Bridge function as civic symbols. Bridges also concentrate risks: they are used for suicide, which barriers partly mitigate, and they are targets in conflict, as in the 2023 Crimean Bridge strike. Financing increasingly relies on **public-private partnerships**, in which private firms build and toll the bridge before transferring ownership to the public sector.
+
+Source: adapted from "Bridge" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bridge

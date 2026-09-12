@@ -47,3 +47,5 @@ Kunming is a major educational and research center in Southwest China. As of 202
 - The etymology of "Kunming" is debated; a 2009 paper proposes it is a cognate of "Khmer" and "Khmu," originally meaning "people."
 - The precise location and nature of the early townships on Lake Dian dated to 279 BC are lost to history.
 - The city was prepared as an alternate Chinese National Redoubt during WWII and the Chinese Civil War but was never used for this purpose.
+
+Source: adapted from "Kunming" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kunming

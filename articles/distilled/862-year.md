@@ -58,3 +58,5 @@ The symbol “a” (from Latin *annus*) is standard in science, supported by NIS
 - **IUPAC–IUGS definition controversy**: Geoscientists debate whether “a” should denote absolute age or time intervals, conflicting with older conventions using “y” or “yr”.  
 - **Long-term orbital changes**: Earth’s slowing rotation and shifting orbit make long-term predictions of year length uncertain.  
 - **Use of year zero**: Some argue for including a year zero in civil calendars to simplify calculations, though this is not widely adopted.
+
+Source: adapted from "Year" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Year

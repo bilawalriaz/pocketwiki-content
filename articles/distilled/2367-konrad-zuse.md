@@ -48,3 +48,5 @@ While working on the Z4, Zuse realized machine code was too complex and designed
 *   **Primacy in invention:** Zuse is regarded by some as the inventor of the modern computer, but his work was isolated and unknown in the US/UK during the war. The extent of his influence versus contemporaries like Alan Turing, John von Neumann, and John Atanasoff is a point of historical discussion.
 *   **Impact of Plankalkül:** Had Zuse's PhD thesis been published in the 1940s, it might have significantly accelerated the development of programming languages. This counterfactual is noted by computer scientist Donald Knuth.
 *   **Turing-completeness of the Z3:** The Z3 was proven Turing-complete in 1998, long after its creation. Zuse himself was unaware of this property and designed it for practical engineering calculations.
+
+Source: adapted from "Konrad Zuse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Konrad_Zuse

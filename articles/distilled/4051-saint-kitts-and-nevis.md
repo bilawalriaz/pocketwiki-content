@@ -43,3 +43,5 @@ The two volcanic islands are separated by a shallow channel called The Narrows. 
 - The exact naming of the islands by Columbus is debated; new studies suggest he may have named Saint Kitts "Sant Yago" and the name "San Cristóbal" was applied to Saba.
 - A 1998 referendum in Nevis on secession received 62% support but failed to meet the constitutionally required two-thirds majority, leaving the question of Nevisian independence unresolved.
 - The Citizenship-by-Investment program has faced criticism from researchers over risks of corruption, money laundering, and tax evasion.
+
+Source: adapted from "Saint Kitts and Nevis" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis

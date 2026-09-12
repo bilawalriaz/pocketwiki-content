@@ -52,3 +52,5 @@ In her final years, Nzinga rebuilt Matamba, reformed its legal code, and pursued
 - **Imbangala practices**: Sources disagree on the intricacies and extent of Imbangala rites and laws (*ijila*), including the extent of Nzinga's participation in rituals like the *maji a samba*.
 - **Portuguese portrayal**: Early Portuguese accounts, like those of Capuchin priests Cavazzi and Gaeta, praised her skills but included pejorative statements (e.g., cannibalism) without evidence, shaping later Western depictions.
 - **Historical portrayal**: Modern historians debate whether to view Nzinga as a populist hero or a tyrant, with Linda Heywood cautioning against simplistic labels and emphasizing her use of culture, diplomacy, and war to secure her kingdom.
+
+Source: adapted from "Nzinga of Ndongo and Matamba" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nzinga_of_Ndongo_and_Matamba

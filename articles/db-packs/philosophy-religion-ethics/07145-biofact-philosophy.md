@@ -41,3 +41,5 @@ The "unaltered biofact" row captures a subtlety: a wildflower transplanted into 
 ## Reception and limits
 
 The term has been taken up in BioArt, though not always with the critical edge Karafyllis intended. Its main influence remains in German-language philosophy of technology and nature, with English-language uptake concentrated in work on biotechnology, synthetic biology, and the politics of scientific knowledge.
+
+Source: adapted from "Biofact (philosophy)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Biofact_%28philosophy%29

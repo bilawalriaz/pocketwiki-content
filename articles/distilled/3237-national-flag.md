@@ -41,3 +41,5 @@ The art of flag design is called *vexillography*. Most flags are rectangular, wi
 
 ## Debates and Open Questions
 The source does not explicitly list ongoing scholarly debates. However, it notes that the use of religious symbols on about a third of national flags has led to controversy in secular states regarding the separation of church and state.
+
+Source: adapted from "National flag" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/National_flag

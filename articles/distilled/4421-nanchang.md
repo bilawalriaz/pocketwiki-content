@@ -42,3 +42,5 @@ Nanchang is a regional agricultural hub and a center for industries including ai
 
 ## Debates and Open questions
 The source does not present specific scholarly debates or open questions about Nanchang.
+
+Source: adapted from "Nanchang" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nanchang

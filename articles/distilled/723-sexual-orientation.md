@@ -118,3 +118,5 @@ Key unresolved issues include:
 - **Stability**: Extent to which orientation changes over time, particularly among women.
 - **Cultural Universality**: Whether Western categories adequately capture global diversity in sexual expression.
 - **Ethical Implications**: How scientific findings should inform policies on conversion therapy, anti-discrimination protections, and religious freedom.
+
+Source: adapted from "Sexual orientation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sexual_orientation

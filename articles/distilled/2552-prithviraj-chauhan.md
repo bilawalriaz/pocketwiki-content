@@ -49,3 +49,5 @@ After his capture, Prithviraj was taken to Ajmer. Most sources agree he was exec
 - **Number of Battles with Ghurids:** While Muslim sources mention two major battles, Hindu and Jain texts claim numerous engagements (up to 21 or 22). Scholars suggest these may refer to multiple raids and skirmishes before the final confrontation.
 - **Cause of Defeat:** The traditional narrative emphasizes Prithviraj's neglect of state affairs and lack of allies. Modern analysis also highlights the tactical superiority of the Ghurid mounted archers and Muhammad's use of deception.
 - **Circumstances of Death:** Accounts vary widely, from immediate execution on the battlefield to elaborate legends of blinding and revenge. The most historically plausible scenario is execution after a failed rebellion while held as a prisoner.
+
+Source: adapted from "Prithviraj Chauhan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prithviraj_Chauhan

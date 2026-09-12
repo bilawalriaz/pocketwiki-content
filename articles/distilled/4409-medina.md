@@ -48,3 +48,5 @@ Under Saudi rule, the city has been significantly modernized, with old walls rep
 - The nature and exact date of the **Constitution of Medina** are debated; some historians view it as a single treaty, while others see it as a collage of different agreements.
 - The extent of **Jewish political independence** in Medina after the Arab tribes' revolt is disputed, with some sources suggesting they became clients while others argue they retained autonomy.
 - The **destruction of historical and archaeological sites** in Medina by Saudi authorities is a major point of contention, with critics labeling it "Saudi vandalism" and claiming the loss of hundreds of sites linked to early Islamic history.
+
+Source: adapted from "Medina" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Medina

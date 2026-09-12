@@ -41,3 +41,5 @@ The ecosystem is under strain from cumulative human activities, climate change, 
 
 ## Debates and Open questions
 The source does not detail specific scholarly debates, but it frames the core environmental challenge as understanding the "cumulative environmental effects" of human activities, climate change, and ocean acidification on the Skagerrak ecosystem. The full extent and distribution of rare habitats like bubbling reefs also remain a subject for future surveys.
+
+Source: adapted from "Skagerrak" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Skagerrak

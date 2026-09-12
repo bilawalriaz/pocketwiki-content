@@ -38,3 +38,5 @@ Besides his hadith collection, Muslim authored *Al-Kuna wa al-Asma*, a work on n
 - **Date of birth**: Historians disagree on whether Muslim was born in 202, 204, or 206 AH, with no consensus from early hadith masters.
 - **Early criticism**: Abu Zur'a al-Razi's objections about omitted material and weak transmitters highlight early scholarly debate over the collection's comprehensiveness and rigor.
 - **Canonization process**: The gradual acceptance of *Sahih Muslim* as second only to *Sahih al-Bukhari* was not immediate, as seen in the mixed early reactions.
+
+Source: adapted from "Muslim ibn al-Hajjaj" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Muslim_ibn_al-Hajjaj

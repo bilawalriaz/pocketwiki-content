@@ -45,3 +45,5 @@ Genetic work has identified roughly 1,000 genes interacting with environment to 
 ## Challenges
 
 Three structural problems constrain the field. First, neuroimaging studies are expensive and often underpowered; detecting the typical effect size of about *r* = 0.2 with 80% power requires samples of roughly 200, so small-sample findings are prone to false positives. Second, self-report personality measures are vulnerable to bias and must be validated against behavioral data and informant ratings. Because the brain and personality traits are both complex networks with no one-to-one mapping between them, a *personality network neuroscience* approach has emerged, modeling both neural connectivity and trait structure as graphs to capture their many-to-many relationships.
+
+Source: adapted from "Personality neuroscience" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Personality_neuroscience

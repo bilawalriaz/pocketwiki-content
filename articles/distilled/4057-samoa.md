@@ -43,3 +43,5 @@ Independence was achieved on 1 January 1962. The 1960 constitution established a
 - The 2021 election and subsequent constitutional crisis highlighted tensions between the modern parliamentary system and the traditional *matai* authority, raising questions about democratic consolidation.
 - The long-term economic impact of the 2021 time zone change (to UTC+13) to better align with Australia and New Zealand is still unfolding.
 - The effectiveness of the 2025 Samoa Marine Spatial Plan in balancing conservation with economic needs is a subject of ongoing stakeholder consultation.
+
+Source: adapted from "Samoa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Samoa

@@ -41,3 +41,5 @@ Scholars debate the impact of capitalism on women's status, with some arguing it
 - **Role of Islam**: To what extent has Islam shaped women's oppression in the Middle East, versus socioeconomic and political factors? Scholarship is often influenced by geopolitical tensions between the West and the Middle East.
 - **Applicability of Western Feminism**: Can Western feminist frameworks be directly applied to women's history in non-Western regions, or do they risk being a form of Orientalism? Scholars advocate for transnational and collaborative approaches.
 - **Institutional Resistance**: Why has the institutionalization of women's and gender history faced resistance in some regions (e.g., France, Hungary), and how does this affect scholarship?
+
+Source: adapted from "Women's history" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Women%27s_history

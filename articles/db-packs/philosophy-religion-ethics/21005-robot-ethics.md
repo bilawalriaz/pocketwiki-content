@@ -37,3 +37,5 @@ Empirical studies find that people apply the same moral concepts to robots as to
 ## Cultural pressure on the field
 
 In 2017 the humanoid robot Sophia was granted Saudi Arabian citizenship, prompting unresolved legal questions about voting, marriage, and whether switching her off could be treated as murder. Critics noted the contrast with restrictions on Saudi women. The same year the European Parliament passed a resolution on Civil Law Rules for Robotics. In a 2018 article, computer scientist Virginia Dignum argued that societal attitudes have shifted from viewing AI as a tool toward viewing it as an intelligent "team-mate" whose design, deployment, and treatment all raise separate ethical questions.
+
+Source: adapted from "Robot ethics" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robot_ethics

@@ -37,3 +37,5 @@ Sex, gender identity, gender expression, and sexual orientation each run on cont
 ## Open questions
 
 The relative weight of nature, nurture, structure, and free will remains debated. WEIRD-based findings may not generalize globally. Whether heavy digital media causes distress or simply attracts already-vulnerable users is unresolved, and long-term neurodevelopmental effects on children are unknown. Moral universals are proposed, but their cultural weighting varies sharply. The gene-environment pathways to psychopathy and extreme violence are only partly mapped, so prediction and prevention stay limited.
+
+Source: adapted from "Human behavior" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_behavior

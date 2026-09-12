@@ -50,3 +50,5 @@ Porto's culture is marked by its gastronomy, including dishes like *Tripas à Mo
 ## Debates and Open Questions
 - The city's economic competitiveness is debated; a 2006 study ranked it lowest among Portuguese district capitals, but local leaders argue it cannot be evaluated separately from its larger conurbation.
 - The origin of the name "Portugal" from "Portus Cale" is based on transliteration and oral evolution, a linguistic derivation subject to scholarly interpretation.
+
+Source: adapted from "Porto" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Porto

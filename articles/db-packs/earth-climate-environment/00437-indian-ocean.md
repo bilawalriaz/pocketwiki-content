@@ -23,3 +23,5 @@ From the 15th century onward, the pattern shifted. Chinese Admiral Zheng He's Mi
 ## Modern pressures
 
 About 80% of seaborne oil trade transits narrow chokepoints, primarily the Strait of Hormuz and the Strait of Malacca, making the ocean's stability a global economic concern. In 2004 a massive earthquake off Sumatra generated a tsunami that killed around 236,000 people around the rim. In 2010 an Indian Ocean garbage patch of at least 5 million km² was discovered. In 2019 the International Court of Justice advised the United Kingdom to transfer the Chagos Archipelago to Mauritius, a sovereignty question that remains unresolved. Scientists still debate how the garbage patch will evolve, whether it shrinks over decades or feeds a growing global accumulation over millennia.
+
+Source: adapted from "Indian Ocean" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Indian_Ocean

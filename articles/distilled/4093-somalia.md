@@ -49,3 +49,5 @@ Somalia has one of the world's lowest GDPs per capita, with an economy based on 
 - The effectiveness and future of the federal system, with ongoing disputes over power-sharing and resource allocation between the federal government and member states.
 - The long-term viability of the state-building project amid persistent insecurity from al-Shabaab and clan-based political competition.
 - The accurate measurement of Somalia's economy and population due to decades of conflict and limited formal governance.
+
+Source: adapted from "Somalia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Somalia

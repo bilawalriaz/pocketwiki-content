@@ -46,3 +46,5 @@ The kingdom declined in the mid-13th century due to a vicious circle: the contin
 - **Anawrahta's conquest of Thaton**: Traditional chronicles state this 1057 conquest brought Theravada Buddhism to Pagan. However, scholar Michael Aung-Thwin argues this is a post-Pagan legend and that Theravada Buddhism was likely borrowed directly from the Pyus or India.
 - **Extent of Pagan's control**: While chronicles claim a vast empire, archaeological evidence confirms a smaller core. Scholars debate the degree of effective authority Pagan had over peripheral regions like Arakan and the Shan Hills.
 - **Cause of decline**: The primary cause is debated between internal economic collapse due to tax-free land donations and external pressure from Mongol invasions, which are seen as interconnected factors.
+
+Source: adapted from "Pagan Kingdom" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pagan_Kingdom

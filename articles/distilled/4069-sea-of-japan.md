@@ -41,3 +41,5 @@ High dissolved oxygen levels support rich biodiversity, with over 3,500 animal s
 ## Debates and Open Questions
 - The primary debate is the **naming dispute** between Japan ("Sea of Japan") and Korea ("East Sea"). The IHO's move to a digital standard with unique identifiers may sidestep the political issue.
 - There is geological controversy over whether, during ice ages, falling sea levels completely dried the straits, turning the sea into a **landlocked freshwater lake**.
+
+Source: adapted from "Sea of Japan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sea_of_Japan

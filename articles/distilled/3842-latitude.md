@@ -46,3 +46,5 @@ Geodetic latitude is used in geodetic coordinates (ϕ, λ, h). Geocentric latitu
 
 ## Debates and Open Questions
 The article notes that without specifying the full coordinate reference system (including the reference ellipsoid), latitude and longitude coordinates are "ambiguous at best and meaningless at worst." This is a critical issue in precise applications like GPS, where different ellipsoids yield different latitude values for the same physical point. The choice of ellipsoid and the transformation between different datums is a fundamental, ongoing consideration in geodesy and mapping.
+
+Source: adapted from "Latitude" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Latitude

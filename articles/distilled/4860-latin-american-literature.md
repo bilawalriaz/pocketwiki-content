@@ -47,3 +47,5 @@ After the Boom, writers reacted against its perceived elitism and magical realis
 - There is an ongoing scholarly discussion about the **Boom's focus on universal/metaphysical themes versus local social and political issues**.
 - The role and recognition of **women writers** throughout history is a point of analysis, with their contributions often emerging in contrast to male-dominated traditions.
 - The **definition and boundaries of the Post-Boom** are fluid, with various reactions and new movements (like McOndo) emerging.
+
+Source: adapted from "Latin American literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Latin_American_literature

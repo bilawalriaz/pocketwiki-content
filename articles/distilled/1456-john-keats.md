@@ -68,3 +68,5 @@ Keats’s letters, first published 1848 and 1878, were dismissed by Victorian cr
 - **Biographical mythmaking**: No biography was written by someone who knew Keats; early accounts (Hunt, Shelley, Brown, Severn, Brawne) contradict each other, embedding legends—especially the "humble origins" narrative and the "poet killed by critics" trope—that still shape popular perception.
 - **Fanny Brawne’s letters**: None survive; the relationship’s full texture is known only through Keats’s side, published 1870, which emphasized tragedy and drew contemporary criticism.
 - **Political dimension of the "Cockney School" attacks**: The *Blackwood’s*/*Quarterly* reviews targeted Keats’s class and politics as much as his verse; the extent to which this shaped his reception versus genuine aesthetic judgment is debated.
+
+Source: adapted from "John Keats" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Keats

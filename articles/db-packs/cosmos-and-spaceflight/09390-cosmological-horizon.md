@@ -47,3 +47,5 @@ A few related surfaces are not true cosmological horizons in the relativistic se
 ## History
 
 The nature of cosmological horizons was clarified in 1956 by Wolfgang Rindler. He distinguished instantaneous events, such as a supernova explosion, from world lines, the continuous strings of events produced by enduring objects such as galaxies. The behavior of those world lines became the basis for splitting the universe into observable and unobservable regions.
+
+Source: adapted from "Cosmological horizon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cosmological_horizon

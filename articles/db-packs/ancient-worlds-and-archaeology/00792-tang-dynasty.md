@@ -31,3 +31,5 @@ Tang poetry set standards still used to define literary Chinese. Chang'an functi
 ## Open questions
 
 Population figures for the Tang remain uncertain: household registers appear to undercount, and modern reconstructions vary by tens of millions. Traditional Confucian historiography vilified Wu Zetian, while some modern scholars reassess her administrative reach positively.
+
+Source: adapted from "Tang dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tang_dynasty

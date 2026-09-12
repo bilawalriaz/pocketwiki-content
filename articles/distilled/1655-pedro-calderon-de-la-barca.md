@@ -61,3 +61,5 @@ The 18th-century Bourbon Reforms and Enlightenment suppressed Calderón; a 1765 
 - **Religious sincerity vs. aesthetic convention**: Are the *autos* genuine mystical expressions (Ivanov, Chandler/Schwartz) or masterful deployments of Counter-Reformation orthodoxy?
 - **Authorship and chronology**: Exact composition dates for many plays remain uncertain; *La vida es sueño* is dated 1629–1635, suggesting long gestation or revision.
 - **Lost remains**: The whereabouts of Calderón’s body (buried 1681 at San Salvador, later demolished) are unknown; a 2021 search reignited forensic interest.
+
+Source: adapted from "Pedro Calderón de la Barca" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca

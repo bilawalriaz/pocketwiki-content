@@ -45,3 +45,5 @@ After the Qing fell, Ürümqi was ruled by warlords until 1949. The city's name 
 - The exact etymology of "Ürümqi" is debated, with competing Oirat and Old Uyghur-Chinese origin theories.
 - The demographic impact and legacy of the Qing-era Dzungar genocide remain a point of historical study.
 - The causes and casualty figures of the 2009 riots are disputed between official Chinese accounts and Uyghur sources.
+
+Source: adapted from "Ürümqi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi

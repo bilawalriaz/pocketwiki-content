@@ -45,3 +45,5 @@ Svalbard is home to iconic Arctic wildlife, including polar bears, Svalbard rein
 - **Maritime Sovereignty:** Norway claims an exclusive economic zone around Svalbard, but other treaty parties, notably Russia, dispute the extent of these rights, arguing the treaty provides them broader access.
 - **Geopolitical Tensions:** Increased Russian investment in Barentsburg and Pyramiden, alongside Norwegian military modernization and concerns over dual-use research facilities (e.g., China's Yellow River Station), highlight ongoing strategic competition in the Arctic.
 - **Environmental Protection vs. Activity:** Balancing the growth of tourism and research with the need to protect Svalbard's fragile Arctic ecosystem is a persistent challenge, leading to evolving regulations.
+
+Source: adapted from "Svalbard" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Svalbard

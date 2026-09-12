@@ -74,3 +74,5 @@ The current scientific consensus is that humans are the only animal species on E
 ## Debates and open questions
 
 Scholars debate whether the surplus model or the appropriability of cereal harvests explains civilization's emergence; whether writing is necessary for civilization (the Inca counterexample); whether civilization improves living standards (stature evidence suggests not always); when globalization began and what integration type is key; whether civilizations decline due to moral failure (Toynbee), diminishing returns (Tainter), environmental factors (Diamond), or fiscal dynamics (Turchin); whether civilizations can mix (Koneczny says no); and whether the 21st century will see a "clash of civilizations" (Huntington) or whether that framing dangerously ignores other identities (Sen).
+
+Source: adapted from "Civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Civilization

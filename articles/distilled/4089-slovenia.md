@@ -54,3 +54,5 @@ Slovenian culture reflects its Central European and Mediterranean influences. It
 - The role of different churches (e.g., Salzburg vs. Aquileia) in the Christianization of the Carantanians is debated, as reflected in historical documents like the *Conversio Bagoariorum et Carantanorum*.
 - The precise number of Slovene dialects is a matter of scholarly discussion, with estimates ranging from seven to over fifty.
 - The long-term economic and social impacts of Slovenia's aging population and low birth rate are significant ongoing concerns.
+
+Source: adapted from "Slovenia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Slovenia

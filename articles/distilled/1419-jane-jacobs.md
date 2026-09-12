@@ -72,3 +72,5 @@ Jacobs inspired New Urbanism and influenced Oscar Newman’s "defensible space" 
 - **Cities vs. Nations in Economics**: Mainstream economics retains the nation-state as the primary macroeconomic unit; Jacobs’s insistence on the city as the fundamental unit remains a heterodox position.
 - **Agriculture vs. Cities Origin**: Her claim that cities preceded agriculture (based on a trade-based definition of "city") contradicts archaeological consensus (Vere Gordon Childe) defining civilization by literacy, stratification, and monumentality.
 - **Moral Syndromes Rigidity**: *Systems of Survival* posits fixed, non-fluctuating moral syndromes; critics question whether this binary adequately captures hybrid modern institutions (e.g., social enterprises, state-owned firms).
+
+Source: adapted from "Jane Jacobs" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Jane_Jacobs

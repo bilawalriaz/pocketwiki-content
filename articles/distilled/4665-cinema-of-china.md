@@ -50,3 +50,5 @@ China's film infrastructure has expanded dramatically, from 600 projection units
 - The boundary between "mainland Chinese" cinema and international "Chinese-language" cinema is blurred by co-productions with pan-Chinese casts and crews.
 - Sixth Generation filmmakers have often faced harsh treatment from state censorship despite international acclaim.
 - The rise of *duanju* (short vertical dramas) presents a significant challenge to the traditional film industry's business model and viewing habits.
+
+Source: adapted from "Cinema of China" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cinema_of_China

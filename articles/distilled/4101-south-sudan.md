@@ -44,3 +44,5 @@ The population is predominantly young, with roughly half under 18, and is compos
 - **Economic Viability**: South Sudan's extreme dependence on oil revenue, coupled with disputes with Sudan over transit fees and infrastructure, makes its economy highly vulnerable to conflict and price shocks.
 - **Humanitarian Crisis**: The scale of need is immense, with over two-thirds of the population requiring aid in 2026, exacerbated by the influx of refugees from the war in neighboring Sudan. The capacity of the state and international community to respond is a critical question.
 - **Governance and Democracy**: Elections have been repeatedly postponed, with the latest scheduled for December 2026. The country's transition from a coalition of former warring factions to a functional democracy remains untested.
+
+Source: adapted from "South Sudan" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/South_Sudan

@@ -37,3 +37,5 @@ Policy responds by ordering what is naturally chaotic. Many cities now pair publ
 ## Open questions
 
 Three debates remain unsettled. First, how heavily to restrict aviation and hypermobility (frequent long-distance flying) given aviation's amplified climate effect. Second, how to stop infrastructure projects from over-promising: poor forecasting of passenger numbers has repeatedly left roads, rails, and airports underused. Third, whether connected and autonomous vehicles, marketed as "future mobility" since 2016, will deliver safer, cleaner transport or simply add new cybersecurity and safety risks.
+
+Source: adapted from "Transport" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Transport

@@ -45,3 +45,5 @@ Costa Rica is a presidential republic with a unicameral Legislative Assembly. Th
 - The timing of the transition from hunting and gathering to agriculture as the main livelihood in pre-Columbian Costa Rica is still unknown.
 - The origin of the name "Costa Rica" is debated, with accounts attributing it to either Christopher Columbus or conquistador Gil González Dávila.
 - Costa Rica's long-term disagreement with Nicaragua over navigation rights on the San Juan River and border issues (e.g., Isla Calero) has been subject to international court rulings but remains a point of contention.
+
+Source: adapted from "Costa Rica" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Costa_Rica

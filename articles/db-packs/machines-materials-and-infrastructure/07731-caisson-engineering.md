@@ -23,3 +23,5 @@ The drawback is that workers breathe air at higher than normal pressure, which d
 ## Other applications
 
 During the 1944 Allied invasion of Normandy, large caissons codenamed Phoenix were an integral part of the Mulberry harbours, the artificial ports floated across the English Channel. The word "caisson" is also used for the water-filled trough that carries boats in canal locks and lifts, for reinforced concrete piers cast in cylindrical formwork below ground, and for airtight housings around ventilation filters in facilities that handle hazardous materials.
+
+Source: adapted from "Caisson (engineering)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Caisson_%28engineering%29

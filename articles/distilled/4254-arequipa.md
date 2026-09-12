@@ -51,3 +51,5 @@ Arequipa has a strong regional identity, sometimes called a "Spanish island." Th
 - **Inca Founding**: Chronicles conflict on whether the Inca founded a town in the Chili valley; archaeological evidence suggests only the establishment of *mitma* groups, not a formal town.
 - **First Declaration of Independence**: Historians debate whether the first act of Peruvian independence was signed in Supe, Ica, or elsewhere, with most agreeing on the cabildo of Supe in April 1820.
 - **Political Role**: Scholars analyze whether Arequipa's numerous 19th-century uprisings were driven by principled defense of law and regionalism or by the interests of local elites.
+
+Source: adapted from "Arequipa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arequipa

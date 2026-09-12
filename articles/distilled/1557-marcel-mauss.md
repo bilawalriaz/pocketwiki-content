@@ -54,3 +54,5 @@ Mauss linked Durkheimian sociology to modern French thought. He directly taught 
 *   **Voluntary vs. Obligatory:** Mauss states gifts are "in theory voluntary, in fact obligatory." The tension between individual agency and structural coercion remains a central debate in economic anthropology.
 *   **Magic as Social Fact:** Mauss and Hubert's definition of magic as *only* social/collective excludes individual ritual efficacy, a boundary debated in the anthropology of religion.
 *   **Political Implications:** Mauss's socialist critique of market capitalism and advocacy for a society based on *faits sociaux totaux* raises questions about the feasibility of applying "archaic" reciprocity to modern complex societies.
+
+Source: adapted from "Marcel Mauss" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Marcel_Mauss

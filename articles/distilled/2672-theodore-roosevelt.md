@@ -48,3 +48,5 @@ He led a dangerous 1913–1914 expedition in the Amazon, nearly dying from tropi
 - **Racial Politics**: Roosevelt's record is mixed; he invited Booker T. Washington to the White House but also dismissed the Brownsville battalion of Black soldiers and ran a "lily-white" campaign in the South in 1912.
 - **Panama Canal Corruption**: Controversy persists over whether Roosevelt's actions in Panama involved corruption or undue influence from business interests.
 - **Medal of Honor**: His 2001 posthumous Medal of Honor for San Juan Hill remains debated, with critics calling it a politically motivated award.
+
+Source: adapted from "Theodore Roosevelt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Theodore_Roosevelt

@@ -45,3 +45,5 @@ Audubon's scientific contributions were substantial but marred by accusations of
 - **Accuracy of claims:** Scholars debate the veracity of Audubon's autobiographical accounts, such as his phoebe-banding story and details of his birth.
 - **Extent of scientific fraud:** The full scope of his plagiarism, data fabrication, and species invention (e.g., the "Bird of Washington") remains a subject of research and critique.
 - **Ethical legacy:** There is ongoing discussion about how to reconcile his contributions to natural history with his involvement in slavery and the trafficking of human remains, as reflected in debates over renaming institutions that honor him.
+
+Source: adapted from "John James Audubon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_James_Audubon

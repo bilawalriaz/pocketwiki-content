@@ -44,3 +44,5 @@ Bursa is Turkey's largest automotive production center, hosting factories for Fi
 
 ## Debates and Open Questions
 The source does not explicitly outline major scholarly debates. However, it notes that the shadow play characters Karagöz and Hacivat are "according to some stories" based on historical figures from 14th-century Bursa, implying this is a traditional narrative rather than established fact.
+
+Source: adapted from "Bursa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bursa

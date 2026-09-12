@@ -100,3 +100,5 @@ Several contentious issues surround poverty measurement and policy:
 - What role does climate change play in perpetuating poverty? Projections suggest millions more could fall into extreme poverty by 2030.  
 - Are cash transfers more effective than in-kind aid? Studies favor direct transfers, but political resistance remains strong.  
 - Should debt relief and land reform be central to poverty reduction? Advocates cite transformative potential; skeptics question feasibility.
+
+Source: adapted from "Poverty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Poverty

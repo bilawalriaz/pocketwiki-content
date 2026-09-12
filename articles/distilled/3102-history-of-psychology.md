@@ -46,3 +46,5 @@ The source highlights several enduring scholarly debates:
 - The **nature vs. nurture** debate, anticipated by thinkers like Ibn Tufail and central to later theories.
 - The ongoing debate about the **scientific status of psychoanalysis** and its concepts like the unconscious.
 - The question of **how to integrate** the diverse approaches (biological, cognitive, social, clinical) into a unified science of the mind.
+
+Source: adapted from "History of psychology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_psychology

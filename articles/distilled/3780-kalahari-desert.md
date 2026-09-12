@@ -40,3 +40,5 @@ The San people have lived in the Kalahari for 20,000 years as hunter-gatherers, 
 
 ## Debates and Open Questions
 The primary debate concerns the conflict between conservation, indigenous rights, and economic development. The 1997 eviction of the San and Bakgalagadi tribes from the Central Kalahari Game Reserve, ostensibly for wildlife conservation but coinciding with diamond exploration, was ruled unlawful in 2006. However, the government still granted mining permits within the reserve, leaving the future of the indigenous populations and the protected area's integrity in question.
+
+Source: adapted from "Kalahari Desert" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kalahari_Desert

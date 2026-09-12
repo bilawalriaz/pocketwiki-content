@@ -44,3 +44,5 @@ Hamilton also contributed to the theory of equations (examining the quintic), Fo
 ## Debates and Open Questions
 - The extent of Hamilton's childhood linguistic abilities is disputed by some historians, who claim he had only a basic understanding of the many languages he studied.
 - The literary theory that Lewis Carroll satirized quaternions in *Alice in Wonderland* has been challenged by evidence presented in 2022, which counters the suggestion based on misunderstandings of quaternions and their history.
+
+Source: adapted from "William Rowan Hamilton" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Rowan_Hamilton

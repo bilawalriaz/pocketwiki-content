@@ -50,3 +50,5 @@ Venice was a cradle of the Renaissance, with a distinctive painting style emphas
 - The effectiveness and cost of the MOSE Project are debated, with critics calling it a "pharaonic project" that may not solve the flooding problem and was plagued by corruption.
 - The impact of the day-tripper access fee is contested; some argue it reinforces Venice's image as a "theme park," while others see it as a necessary tool for managing tourism.
 - The origin of Venetian glass beads found at prehistoric Inuit sites in Alaska is debated, with challenges to the radiocarbon dating and the proposed overland trade route.
+
+Source: adapted from "Venice" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Venice

@@ -17,3 +17,5 @@ A black star whose radius is only slightly larger than the event-horizon radius 
 ## Interior
 
 Inside, spacetime is not the smooth vacuum of general relativity but a polarised quantum state. Each radial depth looks the same as a black star of equivalent mass and radius with its outer layers stripped away, and temperature rises toward the centre.
+
+Source: adapted from "Black star (semiclassical gravity)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Black_star_%28semiclassical_gravity%29

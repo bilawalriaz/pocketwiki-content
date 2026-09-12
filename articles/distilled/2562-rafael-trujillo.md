@@ -43,3 +43,5 @@ On 30 May 1961, Trujillo was assassinated by a group of conspirators. His son, R
 *   **Extent of U.S. Involvement in Assassination**: The CIA's role is debated. While a 1975 report claimed "no active part," it acknowledged supplying weapons to the plotters and having "quite extensive Agency involvement." Internal documents suggest the U.S. moved to make Trujillo "expendable" as it rallied against Castro in Cuba.
 *   **Legacy Evaluation**: Trujillo remains polarizing. Supporters credit him with bringing stability, economic growth, and doubling life expectancy. Critics emphasize the regime's unparalleled brutality, nepotism, corruption, and the xenophobic violence of the Parsley Massacre.
 *   **Scale of Repression**: Precise death tolls are uncertain. Estimates for overall regime killings range from 25,000 to over 50,000, while the Parsley Massacre alone is estimated to have killed between 17,000 and 35,000 people.
+
+Source: adapted from "Rafael Trujillo" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Rafael_Trujillo

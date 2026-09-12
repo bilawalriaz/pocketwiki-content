@@ -39,3 +39,5 @@ Modern democracies are widely regarded as secular due to strong religious freedo
 
 ## Debates and Open Questions  
 Scholars debate whether secularism inherently opposes religion or merely regulates its public role, with some viewing it as neutral and others as anti-religious. The extent to which secularism promotes genuine pluralism versus marginalizing religious voices remains contested, particularly in contexts like India where accommodationism raises questions about uniform civil codes. Additionally, the relevance of secularism in an era of resurgent religious influence has sparked discussions around "post-secularism." Finally, the shift in academic discourse from secularism to concepts like overlapping consensus raises questions about whether secularism retains analytical utility or has been superseded by alternative frameworks in political theory.
+
+Source: adapted from "Secularism" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Secularism

@@ -36,3 +36,5 @@ Digital tools then reshaped both the storage and the routing of information. ENI
 - 1969: first ARPANET hosts connected, the seed of the modern internet.
 
 The arc of communication history is a sequence of compressions: of the human voice into symbols, of many symbols into a small alphabet, of hand copying into mechanical reproduction, and of point-to-point signalling into routed digital networks. Each compression made information cheaper to store, easier to copy, or faster to reach, and each time the social order reorganised around the new reach.
+
+Source: adapted from "History of communication" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/History_of_communication

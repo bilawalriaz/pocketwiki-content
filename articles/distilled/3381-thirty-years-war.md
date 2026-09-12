@@ -47,3 +47,5 @@ The breakdown of order led to social chaos, including peasant rebellions, witch-
 - **Westphalian Sovereignty**: The extent to which the Peace of Westphalia established the modern principle of non-interference in sovereign states' domestic affairs is contested.
 - **Demographic Impact**: While the scale of population loss is agreed upon, the precise balance between deaths from direct violence, famine, and disease remains analyzed.
 - **Military Revolution**: The debate continues over whether core changes were tactical and technological or primarily institutional and logistical.
+
+Source: adapted from "Thirty Years' War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thirty_Years%27_War

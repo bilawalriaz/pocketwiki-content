@@ -83,3 +83,5 @@ Athanasius is venerated as a saint in the Catholic Church, Eastern Orthodox Chur
 His remains were originally buried in Alexandria, later transferred to the Chiesa di San Zaccaria in Venice, Italy. During Pope Shenouda III's visit to Rome in 1973, Pope Paul VI gave the Coptic Patriarch a relic of Athanasius, which was brought back to Egypt and is currently preserved under the new Saint Mark's Coptic Orthodox Cathedral in Cairo. However, the majority of Athanasius's corpse remains in the Venetian church.
 
 The Athanasian Creed is misattributed to him and is today generally seen as being of 5th-century Galician origin.
+
+Source: adapted from "Athanasius of Alexandria" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Athanasius_of_Alexandria

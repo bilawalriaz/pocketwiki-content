@@ -52,3 +52,5 @@ The population is 1,256,700 (June 2025), predominantly New Zealand European (Pā
 - **Population Shift**: The long-term "drift to the north" saw the South Island's share of the national population decline from a majority to about 24%, though recent migration patterns (2018-2023) show a net inflow from the North Island.
 - **High-Country Land Use**: The tenure review process for pastoral leases has been controversial, with debates over conservation versus freehold title and concerns about foreign ownership.
 - **Independence Movements**: Periodic secessionist movements have advocated for a separate South Island colony or greater self-determination, though none have gained mainstream political traction.
+
+Source: adapted from "South Island" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/South_Island

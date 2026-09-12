@@ -40,3 +40,5 @@ By the 18th century, the Hausa states were weakened by internal wars, heavy taxa
 - The exact date of the foundation of the Hausa kingdoms is unknown.
 - It is debated whether the 15th-century vassalage by Bornu included all Hausa states or only Kano and Biram.
 - The extent of Leo Africanus's personal visit to Hausaland is uncertain, though he described its political and economic state.
+
+Source: adapted from "Hausa Kingdoms" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hausa_Kingdoms

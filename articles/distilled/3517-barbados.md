@@ -57,3 +57,5 @@ The population is predominantly of Afro-Caribbean ancestry (close to 90%). Engli
 - The exact origin of the name "Barbados" is debated, with theories pointing to the bearded fig tree, the bearded appearance of the Kalinago people, or sea foam on reefs.
 - The total number of Irish people forcibly transported to Barbados during the Cromwellian era is unknown and "highly contentious," with estimates ranging widely.
 - The transition to a republic in 2021 did not have a clear majority in public opinion polls conducted at the time, with a significant portion of the population indifferent or opposed.
+
+Source: adapted from "Barbados" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Barbados

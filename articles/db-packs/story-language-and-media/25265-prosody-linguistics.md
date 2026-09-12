@@ -58,3 +58,5 @@ Infants benefit from exaggerated, high-pitched, strongly stressed **infant-direc
 - **Clausal prosody** — contrastive emphasis across a clause, as in *the HORSES were racing from the barn* versus *the horses were racing from the BARN*.
 
 The right hemisphere dominates the perception and production of prosody. Producing it depends on right-hemisphere motor areas in the face, mouth, and throat (Brodmann areas 44 and 45); understanding it depends on the right-hemisphere perisylvian region, especially area 22. Damage to these right-hemisphere sites produces motor or sensory aprosodia, leaving patients sounding monotonous or unable to read emotion in others' voices.
+
+Source: adapted from "Prosody (linguistics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Prosody_%28linguistics%29

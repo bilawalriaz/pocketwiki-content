@@ -31,3 +31,5 @@ The early language of quantum theory has fed a recurring philosophical disquiet 
 ## Confusion with the uncertainty principle
 
 The observer effect is often conflated with the uncertainty principle, even, on the evidence, by Heisenberg himself. In its standard form, the uncertainty principle sets an upper bound on the precision with which position and momentum can be measured simultaneously: improving one requires worsening the other. An alternative formulation does treat the disturbance caused by measurement and the resulting error, but this is not the sense in which "uncertainty principle" is normally used.
+
+Source: adapted from "Observer (quantum physics)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Observer_%28quantum_physics%29

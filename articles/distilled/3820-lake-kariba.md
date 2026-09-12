@@ -30,3 +30,5 @@ The portion of Lake Kariba within Zimbabwe is designated a recreational park wit
 
 ## Debates and Open questions
 The source notes that the enormous mass of water in Lake Kariba is *believed* to have caused induced seismicity in the seismically active region, indicating this is a proposed but not definitively proven causal link.
+
+Source: adapted from "Lake Kariba" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lake_Kariba

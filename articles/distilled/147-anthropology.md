@@ -76,3 +76,5 @@ Before WWII, British 'social anthropology' and American 'cultural anthropology' 
 ## Debates and open questions
 
 Scholars debate whether anthropology grew out of colonialism and remains in league with it, or whether it can be separated from that legacy. Ethnographic work is criticized as ahistorical, writing about people as if "out of time" in an "ethnographic present." Herbert S. Lewis critiqued older works that presented other cultures as strange, arguing the field should learn from its mistakes rather than discard findings. The ethics of military involvement remain contested: the AAA concluded HTS is incompatible with disciplinary ethics, while stressing that constructive engagement between anthropology and the military is possible. The field also debates whether 'art' is a universal cultural phenomenon, given that Western categories do not exist in most non-Western contexts.
+
+Source: adapted from "Anthropology" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anthropology

@@ -42,3 +42,5 @@ In 79 AD, while serving as commander of the fleet at Misenum, Pliny observed the
 - **Number of Procuratorships**: Scholars debate whether Pliny held two, three, or four procuratorships. The exact sequence and dates of his service in Gallia Narbonensis, Africa, Hispania Tarraconensis, and Gallia Belgica are reconstructed from his writings and are not all definitively attested.
 - **Cause of Death**: While Pliny the Younger attributed his uncle's death to toxic volcanic gases, later historians have suggested alternatives like a stroke or heart attack, possibly triggered by the fumes.
 - **Composition of *Naturalis Historia***: The exact timeline for the writing of the encyclopedia is unknown. It was likely begun after 70 AD, but the precise order and dates of its individual books are determined by scholarly analysis rather than clear historical record.
+
+Source: adapted from "Pliny the Elder" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pliny_the_Elder

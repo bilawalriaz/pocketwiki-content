@@ -43,3 +43,5 @@ In the 1970s and 80s, North Korea's economy stagnated while South Korea industri
 - **The "Impostor" Claim**: Some sources, including a cited CIA dossier, suggest Kim Il Sung was a Soviet-puppet impostor using the name of a real guerrilla hero. Historians generally accept he was a significant, if exaggerated, resistance leader.
 - **Origins of the Korean War**: Archival evidence indicates the decision to invade South Korea was primarily Kim's initiative, though it required approval from Stalin and Mao.
 - **Economic Trajectory**: Scholars debate the precise timing and causes of North Korea's economic decline relative to the South, with factors including policy choices, loss of Soviet aid, and international isolation.
+
+Source: adapted from "Kim Il Sung" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kim_Il_Sung

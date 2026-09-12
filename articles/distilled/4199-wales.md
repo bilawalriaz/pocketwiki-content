@@ -51,3 +51,5 @@ Wales has a distinctive culture with its own language, mythology (e.g., the Mabi
 - The extent of national identity is debated, with census data showing complex mixes of "Welsh only," "British only," and dual identities, varying by region.
 - The future of the Welsh language remains key, with debates over its use in education, public life, and revitalization policy effectiveness.
 - The economic impact of devolution and the fiscal relationship with the UK government, including funding and investment debates (e.g., HS2), are ongoing.
+
+Source: adapted from "Wales" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Wales

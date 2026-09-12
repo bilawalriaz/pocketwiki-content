@@ -56,3 +56,5 @@ Alfred Barr included Malevich in MoMA’s *Cubism and Abstract Art* (1936). Gugg
 - **Spiritual vs. materialist readings**: Scholars debate whether Suprematism’s "zero of form" expresses mystical transcendence (Malevich’s rhetoric) or a materialist break with bourgeois illusionism aligned with early Soviet utopianism.
 - **Late figuration: coercion or evolution?**: The 1930s representational works are contested as either capitulation to Stalinist terror or a dialectical continuation of Suprematism’s "new realism."
 - **Provenance and restitution**: Heirs’ claims (successful at Stedelijk, 2008) and disputed museum titles reflect the chaotic dispersal of works left in Berlin (1927), seized by Nazis as "Degenerate Art," and later acquired by Western and Russian institutions.
+
+Source: adapted from "Kazimir Malevich" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kazimir_Malevich

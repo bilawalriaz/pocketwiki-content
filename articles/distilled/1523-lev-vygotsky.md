@@ -63,3 +63,5 @@ Vygotsky’s death coincided with the 1936 pedology ban and Stalin’s purges; h
 - **Universality vs. cultural specificity**: The theory claims universal developmental mechanisms (mediation, internalization) but emphasizes culturally specific tools. The tension between universal stages and cultural variability is unresolved.
 - **Textual integrity**: Key works (*The Psychology of Art*, *Historical Meaning of the Crisis in Psychology*) were published decades later with editorial interventions; the extent of distortion is debated.
 - **Activity theory split**: Leontiev’s "activity theory" (object-oriented activity as unit of analysis) diverges from Vygotsky’s focus on mediation and semiotic processes; the relationship between the two frameworks is a live scholarly issue.
+
+Source: adapted from "Lev Vygotsky" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lev_Vygotsky

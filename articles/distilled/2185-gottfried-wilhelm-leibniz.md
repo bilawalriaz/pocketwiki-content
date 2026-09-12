@@ -47,3 +47,5 @@ Leibniz was a practical inventor and engineer. He designed and built one of the 
 - **Interpretation of Monads**: Scholars debate the precise nature of monads—whether they are mental, physical, or something else—and how they interact with the physical world.
 - **Leibniz and Chinese Thought**: The extent to which Leibniz's philosophy, particularly his monads and binary system, was influenced by his reading of Chinese classics like the *I Ching* is a subject of ongoing study.
 - **Legacy in Logic**: While Leibniz's unpublished work on formal logic was profound, its direct influence on the later development of symbolic logic by figures like Frege and Russell is debated.
+
+Source: adapted from "Gottfried Wilhelm Leibniz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz

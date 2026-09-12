@@ -48,3 +48,5 @@ Clive retired to England in 1767, having amassed a fortune of over £400,000. He
 - **Battle of Plassey:** Historians debate whether Plassey was a true military victory or primarily a political coup achieved through bribery and treachery.
 - **Personal Wealth:** The source of Clive's immense fortune has been a subject of historical scrutiny, with debates over whether his gains were within accepted Company practices or constituted corruption.
 - **Death:** The exact circumstances of his suicide are debated, with theories ranging from depression and illness to the stress of political attacks.
+
+Source: adapted from "Robert Clive" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Clive

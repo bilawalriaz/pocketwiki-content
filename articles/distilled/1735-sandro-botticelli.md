@@ -87,3 +87,5 @@ Botticelli's reputation was eclipsed longer than any other major European artist
 - **Sexuality**: A 1502 charge that "Botticelli keeps a boy" (sodomy accusation) was never prosecuted; scholars debate whether it reflects his homosexuality or was political slander.
 - **Attribution**: Many works, especially Madonnas, are debated between master and workshop; Lightbown sees a sharp division, others disagree.
 - **Simonetta Vespucci**: Traditional claims that she modeled for his female figures are considered unlikely by modern scholars.
+
+Source: adapted from "Sandro Botticelli" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Sandro_Botticelli

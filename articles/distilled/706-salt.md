@@ -39,3 +39,5 @@ While sodium is essential for nerve and muscle function and fluid balance, exces
 
 ## Debates and Open Questions
 The health impacts of extremely low sodium intake remain debated. While some reviews advocate reducing intake below 2,300 mg/day, others cite insufficient evidence for benefits or harms at lower thresholds. The U-shaped association between sodium consumption and cardiovascular mortality suggests optimal ranges rather than universal minimums. Additionally, the historical claim that Roman soldiers were paid in salt ("salary") lacks credible support and is widely dismissed by scholars.
+
+Source: adapted from "Salt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Salt

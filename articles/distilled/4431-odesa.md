@@ -41,3 +41,5 @@ Odesa experienced significant turmoil in the 20th century. It was a center of re
 *   The exact location of the ancient Greek settlement of Odessos, for which the modern city is named, is unknown and debated, with one proposed site near the village of Koshary.
 *   The origin of the adjacent Moldavanka settlement is debated: some historians claim it predates Odesa, founded by Moldavians building the Ottoman fortress, while others argue it formed after Odesa's founding.
 *   The claim that Secretary of State Adrian Gribovsky suggested the name "Odessa" is noted, though some express doubt about his memoirs.
+
+Source: adapted from "Odesa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Odesa

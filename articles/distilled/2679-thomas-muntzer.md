@@ -43,3 +43,5 @@ Müntzer's theology was the engine of his revolutionary actions. He taught that 
 *   **The "Communist" Interpretation:** Scholars debate whether Müntzer's statement "omnia sunt communia" represents a genuine program for economic communism or was a coerced confession reflecting his captors' fears. Most modern analyses see his primary goal as political revolution, not wealth redistribution.
 *   **Theology vs. Social Revolution:** Historians agree his actions were driven by theology, but the precise point at which his apocalyptic beliefs necessitated armed social revolution is debated. Was it inevitable, or did it coincide with the peasants' uprising by circumstance?
 *   **Relationship with Luther:** The nature of their early relationship and the exact timing of their definitive break are complex. Müntzer initially saw himself as a fellow reformer with Luther before rejecting his compromises with princely authority.
+
+Source: adapted from "Thomas Müntzer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_M%C3%BCntzer

@@ -37,3 +37,5 @@ In 202 BC, Liu Bang established the Han dynasty, initially with its capital at L
 ## Debates and Open Questions
 - The exact birth year of Liu Bang is debated, with sources giving either 256 BC or 247 BC.
 - The historicity of legendary events, such as the slaying of the white serpent and the prophecy of the "son of the Red Emperor," is a matter of scholarly debate, often seen as imperial mythology created to legitimize his rule.
+
+Source: adapted from "Emperor Gaozu of Han" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han

@@ -70,3 +70,5 @@ A **blockbuster drug** generates >$1 billion annual revenue. Cimetidine was the 
 - **Pre-Approval Access Ethics:** Defining fair criteria for "compassionate use" programs; managing data collection and distribution control for unapproved drugs.
 - **Environmental Impact Management:** Determining regulatory thresholds for EPPPs; mitigating "pseudopersistent" contamination from wastewater and agriculture without compromising human health access.
 - **Prescription Error Standardization:** Establishing a universal definition for prescription errors to enable consistent study and reduction of medical errors (polypharmacy, dosing ambiguities).
+
+Source: adapted from "Medication" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Medication

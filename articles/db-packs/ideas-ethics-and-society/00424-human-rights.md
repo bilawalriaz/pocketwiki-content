@@ -39,3 +39,5 @@ Multinational corporations can commit serious abuses but currently lack binding 
 ## The open tension
 
 Universalism versus cultural relativism is the sharpest unresolved conflict. Critics such as Said Rajaie-Khorassani have called the UDHR a "secular Judeo-Christian" text incompatible with Islamic law, and leaders including Lee Kuan Yew and Mahathir Mohamad have asserted distinct "Asian values." Counterarguments note that modern human rights are a post-1948 invention everywhere, that the UDHR was drafted by representatives of many cultures, and that relativism is most often invoked by powerful actors against victims. Every international instrument reaffirms universal applicability, and the gap between that principle and uneven state practice defines the field.
+
+Source: adapted from "Human rights" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Human_rights

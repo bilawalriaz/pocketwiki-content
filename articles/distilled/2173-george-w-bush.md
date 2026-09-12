@@ -50,3 +50,5 @@ Bush's second term saw failed attempts to reform Social Security and immigration
 - **Economic Policy:** The long-term impact of the Bush tax cuts and increased spending on the national debt and economic inequality is debated.
 - **Civil Liberties:** The expansion of surveillance via the PATRIOT Act and the use of enhanced interrogation techniques raised significant legal and ethical questions about executive power and human rights.
 - **Historical Ranking:** While scholars generally rank him in the lower tier of presidents, his public approval has risen post-presidency, and supporters credit his counterterrorism policies and PEPFAR with saving lives.
+
+Source: adapted from "George W. Bush" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/George_W._Bush

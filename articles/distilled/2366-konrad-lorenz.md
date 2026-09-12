@@ -45,3 +45,5 @@ After the war, Lorenz resumed research, leading institutes in Germany and Austri
 - The extent of Lorenz's participation in Nazi racial science projects remains unclear.
 - His early theoretical models, which leaned toward group selection, were later challenged by orthodox Darwinian theory emphasizing individual selection.
 - The ethical implications of his Nazi-era writings and their relationship to his scientific work are a subject of ongoing historical scrutiny.
+
+Source: adapted from "Konrad Lorenz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Konrad_Lorenz

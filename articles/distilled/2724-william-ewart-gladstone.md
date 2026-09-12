@@ -44,3 +44,5 @@ Gladstone's political career was ultimately defined by his campaign for Irish Ho
 *   Historians debate the wisdom of Gladstone's foreign policy during his second ministry, with some describing it as "muddle and incompetence," particularly regarding the occupation of Egypt.
 *   The motivations behind the British occupation of Egypt are contested, with explanations ranging from protecting the Suez Canal and British investments to internal Egyptian dynamics.
 *   Gladstone's legacy is interpreted differently across the political spectrum: later Conservatives like Margaret Thatcher claimed him as an economic liberal, while his support for Irish Home Rule remains a central, divisive issue in his political narrative.
+
+Source: adapted from "William Ewart Gladstone" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/William_Ewart_Gladstone

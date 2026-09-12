@@ -44,3 +44,5 @@ In the 21st century, the Louvre has focused on expanding its non-Western collect
 - **Napoleonic and Nazi Looted Art**: The Louvre is involved in ongoing controversies and restitution claims regarding art seized during the Napoleonic Wars and by the Nazis during World War II. The museum holds 678 unclaimed MNR artworks, and debates continue about their ultimate fate.
 - **Cultural Property Repatriation**: The museum faces requests for the return of artifacts, such as the Dendera zodiac from Egypt, which it acquired before export laws were enacted. It participates in UNESCO arbitration sessions on such matters.
 - **Labor Practices for Louvre Abu Dhabi**: The construction of the Louvre Abu Dhabi, a separate museum using the Louvre brand, sparked international controversy over alleged poor labor conditions for construction workers on Saadiyat Island.
+
+Source: adapted from "Louvre" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Louvre

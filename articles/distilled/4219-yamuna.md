@@ -43,3 +43,5 @@ The Yamuna is one of the world's most polluted rivers. The 22 km stretch in Delh
 - **Cause of Course Change:** Geological evidence suggests the Yamuna was once a tributary of the Ghaggar River (possibly the Vedic Sarasvati). While some argue a tectonic shift caused its eastward diversion to the Ganges, potentially contributing to the decline of the Harappan civilization, recent research suggests the diversion occurred during the Pleistocene, much earlier.
 - **Spiritual vs. Physical Purity:** A debate exists among Hindus regarding whether physical pollution affects the river's spiritual purity. Some religious figures maintain the water remains spiritually pure, while others no longer use it for rituals due to contamination.
 - **Effectiveness of Cleanup:** The success of long-term initiatives like the Yamuna Action Plan and the 2025 Master Plan in achieving significant pollution reduction is a subject of ongoing scrutiny and public concern.
+
+Source: adapted from "Yamuna" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Yamuna

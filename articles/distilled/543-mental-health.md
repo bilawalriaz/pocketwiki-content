@@ -90,3 +90,5 @@ US has highest annual prevalence (26%) among 14 comparable nations. Four major r
 *   **Digital technology net effect:** Whether expanded telehealth access and mental health apps outweigh risks of social media-driven anxiety, cyberbullying, and algorithmic harm, especially for adolescents.
 *   **Biological vs. psychosocial primacy:** The relative weight of neurotransmitter pathology vs. social determinants (poverty, trauma, inequality) in etiology and treatment planning.
 *   **Stigma reduction efficacy:** Which interventions (education, contact, protest, structural policy change) most durably reduce public, structural, and self-stigma across diverse cultures.
+
+Source: adapted from "Mental health" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mental_health

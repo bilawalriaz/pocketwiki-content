@@ -55,3 +55,5 @@ The folded cortical surface has its own vocabulary:
 - **Fissure**: a deeper groove, either produced by *opercularisation* during development (the Sylvian fissure) or by the separation of the telencephalic vesicles (the longitudinal fissure between the hemispheres).
 
 Imaging studies add their own shorthand, with MRI (Magnetic Resonance Imaging) and CT (Computed Tomography) the most common acronyms.
+
+Source: adapted from "Anatomical terms of neuroanatomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anatomical_terms_of_neuroanatomy

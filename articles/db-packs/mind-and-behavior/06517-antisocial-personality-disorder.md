@@ -25,3 +25,5 @@ Symptoms usually peak between the late teens and early thirties, then often fade
 ## Treatment
 
 ASPD is among the hardest personality disorders to treat because patients often lack motivation, may feign remorse, and tend to drop out. No medication is approved specifically for it, though antipsychotics, antidepressants, and mood stabilizers can help with aggression, impulsivity, or co-occurring conditions. Psychotherapies showing some promise include multisystemic therapy for adolescents, schema therapy, and mentalization-based treatment for probationers. Structured, supervised residential or forensic programs work better than outpatient therapy, and treatment is often delivered only when mandated by courts.
+
+Source: adapted from "Antisocial personality disorder" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Antisocial_personality_disorder

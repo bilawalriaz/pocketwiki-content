@@ -84,3 +84,5 @@ Effectiveness metrics generate significant scholarly disagreement. The Kansas Ci
 Accountability mechanisms face structural challenges. Qualified immunity in the U.S. creates barriers to misconduct prosecution, while international cooperation raises questions about democratic oversight. The balance between security needs and civil liberties remains unresolved, particularly regarding surveillance technologies, data sharing, and transnational operations.
 
 Reform movements propose varying solutions from procedural changes to complete abolition. The 2020 global protests following George Floyd's murder intensified debates about defunding versus restructuring police functions. Evidence suggests that community-oriented approaches may reduce both crime and community tension, but implementation requires sustained political will and resource allocation.
+
+Source: adapted from "Police" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Police

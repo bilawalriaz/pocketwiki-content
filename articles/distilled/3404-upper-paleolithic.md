@@ -45,3 +45,5 @@ Distinct archaeological cultures emerged across the Old World. In the Franco-Can
 - The extent and nature of interaction (including interbreeding) between modern humans and Neanderthals during their overlap period (c. 45,000–40,000 BP) is actively researched.
 - The authorship of some early European cave art (e.g., Caves of Nerja, c. 40,000 BP) is contested, with some theories suggesting Neanderthal involvement.
 - The precise timing and routes of the peopling of the Americas remain subjects of ongoing archaeological investigation.
+
+Source: adapted from "Upper Paleolithic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Upper_Paleolithic

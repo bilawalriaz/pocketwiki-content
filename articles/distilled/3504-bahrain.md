@@ -45,3 +45,5 @@ Bahrain's population was 1,588,670 in 2024, with a slight majority of expatriate
 *   **Human Rights:** International organizations and governments frequently debate and criticize Bahrain's record on human rights, particularly regarding freedom of expression, treatment of dissidents, and use of torture.
 *   **Economic Sustainability:** Scholars and policymakers question the long-term viability of Bahrain's economy given its high public debt, reliance on oil revenues, and limited natural resources.
 *   **Etymology:** The exact meaning of the name "Bahrain" ("the two seas") is disputed, with theories referring to the bay east and west of the island, salt and fresh water, or the Persian Gulf and a mainland lake.
+
+Source: adapted from "Bahrain" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Bahrain

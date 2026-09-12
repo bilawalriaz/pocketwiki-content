@@ -72,3 +72,5 @@ Though not human, corporations are recognized as **legal persons** in several co
 - **Personhood scope:** The extent to which corporations should enjoy constitutional/human rights (e.g., political speech, religious liberty) versus bearing corresponding duties and criminal liability.
 - **Regulatory competition:** Whether the "race to the bottom" (or "race to the top") among jurisdictions (e.g., Delaware dominance) optimizes corporate law or undermines worker/creditor protections.
 - **State–corporation boundary:** Runciman’s view that corporate personhood blurs the state/individual dichotomy raises unresolved questions about democratic accountability when private entities wield quasi-public power.
+
+Source: adapted from "Corporation" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Corporation

@@ -63,3 +63,5 @@ Assassinated 30 January 1948 by Nathuram Godse (Hindu Mahasabha/RSS links). Over
 - **Partition responsibility**: Gandhi opposed partition but participated in negotiations; Stanley Wolpert notes he never approved the final plan. Debate continues on whether his insistence on unity or his tactics inadvertently enabled partition.
 - **Ambedkar vs. Gandhi on caste**: Ambedkar dismissed Gandhi’s *Harijan* approach as paternalistic; Gandhi’s 1932 fast against separate electorates forced the Poona Pact, which Ambedkar later called coercive.
 - **Churchill’s critique**: Winston Churchill’s vitriolic attacks ("seditious Middle Temple lawyer," "Hindu Mussolini") shaped British and Western perceptions; historians assess their impact on policy and Gandhi’s global image.
+
+Source: adapted from "Mahatma Gandhi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Mahatma_Gandhi

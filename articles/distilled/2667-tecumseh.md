@@ -42,3 +42,5 @@ Tecumseh allied with the British in the War of 1812, seeing it as a chance to se
 *   **Tenskwatawa's Role:** Traditional accounts claim Tecumseh disowned his brother after Tippecanoe, but modern scholarship suggests Tenskwatawa retained his spiritual leadership role.
 *   **Killer of Tecumseh:** The identity of the soldier who fired the fatal shot at the Battle of the Thames is disputed. Colonel Richard Mentor Johnson's claim, which helped him become U.S. Vice President, is the most famous but not definitively proven.
 *   **Burial Site:** The location of Tecumseh's remains is unknown, with competing traditions placing them at the battlefield, in Canada, or on Walpole Island.
+
+Source: adapted from "Tecumseh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tecumseh

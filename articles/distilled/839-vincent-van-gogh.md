@@ -95,3 +95,5 @@ Van Gogh’s posthumous fame was shaped significantly by his letters and biograp
 Van Gogh sold only a handful of paintings in his lifetime. Recognition grew slowly after his death, fueled by exhibitions, critical praise, and the publication of his letters. By the early 20th century, artists like Matisse and Derain embraced his bold palette, contributing to the rise of Fauvism. His influence extended to German Expressionists and later movements.
 
 Today, Van Gogh is among the most recognized figures in art history. His works command record prices at auction, and his story continues to resonate culturally, symbolizing the tragic artist whose brilliance emerged only after death. Institutions like the Van Gogh Museum in Amsterdam preserve his legacy, while ongoing research into his life and health keeps scholarly interest alive.
+
+Source: adapted from "Vincent van Gogh" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vincent_van_Gogh

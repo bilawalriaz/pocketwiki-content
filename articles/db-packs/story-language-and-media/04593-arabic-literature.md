@@ -33,3 +33,5 @@ Women's literary voice was historically narrow, beginning with the elegist al-Kh
 ## Two open debates
 
 The genre of the Qur'an itself is disputed. Some scholars treat it as a form of homily, others as a perfected version of pre-Islamic *saj'*, and Muslim tradition regards it as a miracle of style (*i'jaz*) that stands outside ordinary literary categories. The origins of the Arabic novel are similarly contested, with several 19th-century works each claimed as the "first," reflecting both European influence and the revival of older narrative forms such as the *maqama* and the *Nights*.
+
+Source: adapted from "Arabic literature" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Arabic_literature

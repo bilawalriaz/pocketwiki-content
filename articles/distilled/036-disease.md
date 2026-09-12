@@ -69,3 +69,5 @@ Language shapes the experience of disease. Military metaphors dominate: disease 
 ## Debates and Open Questions
 
 The nosology (classification) and epistemology of predisease is contentious: there is seldom a bright line differentiating legitimate concern for subclinical status from conflict-of-interest-driven over-medicalization (by pharmaceutical manufacturers) or de-medicalization (by insurers). Identifying legitimate predisease enables useful prevention, but labeling healthy people can cause overtreatment. One review proposed three criteria for predisease: high risk of progression, actionability for risk reduction, and benefit outweighing harm. Additionally, epidemiology faces the challenge that different groups use significantly different definitions for poorly understood diseases, leading to divergent case counts and reported characteristics.
+
+Source: adapted from "Disease" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Disease

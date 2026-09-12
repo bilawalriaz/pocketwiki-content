@@ -46,3 +46,5 @@ Intrinsic muscles have their origin inside the body part they act on; extrinsic 
 ## Change in muscle size
 
 Hypertrophy is an increase in muscle size caused by enlargement of individual muscle cells, usually the result of exercise. Atrophy is the opposite, a reduction in muscle size.
+
+Source: adapted from "Anatomical terms of muscle" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Anatomical_terms_of_muscle

@@ -37,3 +37,5 @@ The 20th century saw radical innovations in musical language (e.g., atonality, t
 
 ## Debates and Open Questions
 The source notes that the distinction between a *concertino* (or *Konzertstück*) and a full concerto "has never been formalised," with many concertinos being longer than original Baroque concertos. The evolution of the concerto's role—from a vehicle for a performer-composer to showcase their own skill to a form primarily written for others—is also highlighted as a changing practice.
+
+Source: adapted from "Concerto" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Concerto

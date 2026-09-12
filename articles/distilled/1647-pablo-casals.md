@@ -62,3 +62,5 @@ Casals married three times: Susan Metcalfe (1914, divorced 1957), Francesca Vida
 - **Political boycott consistency**: Casals refused to play in countries recognizing Franco, yet accepted Kennedy’s 1961 White House invitation (U.S. recognized Franco since 1950). Defenders cite personal admiration for Kennedy and the symbolic value of the gesture; critics note the inconsistency.
 - **Cello attribution**: The "Tononi 1733" cello played for 50 years was re-attributed to Goffriller c. 1700. The exact timeline of this discovery and its impact on Casals’s sound concept remain discussed in organology.
 - **Legacy of *El Pessebre***: While *La Sardana* and the Bach recordings are canonical, the oratorio *El Pessebre* (text by Joan Alavedra) has not entered the standard repertoire; its musical merit versus its symbolic/political function is debated.
+
+Source: adapted from "Pablo Casals" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Pablo_Casals

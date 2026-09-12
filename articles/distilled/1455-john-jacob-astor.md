@@ -59,3 +59,5 @@ Astor and Sarah had eight children; several died young. His eldest son, John Jr.
 - **Native American relations**: The source states Astor purchased furs "from Native Americans" and his agents operated "throughout the western areas," but does not describe the terms of trade, dependency creation, or role in displacement—central questions in modern scholarship on the fur trade.
 - **Aaron Burr land purchases (1803–1804)**: The source mentions Astor bought "considerable holdings" from the "disgraced" former Vice President but does not specify the acreage, price, location, or whether the transaction was investigated given Burr’s treason trial context.
 - **GDP proportion methodology**: The claim that Astor’s estate represented 0.9–1.35% of U.S. GDP cites a 1839–1840 campaign remark by Nathaniel P. Tallmadge ("one in every 100 dollars"), but the source does not explain the economic methodology behind the modern percentage calculation.
+
+Source: adapted from "John Jacob Astor" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Jacob_Astor

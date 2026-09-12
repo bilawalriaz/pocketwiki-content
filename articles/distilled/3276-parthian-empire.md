@@ -44,3 +44,5 @@ Religion in the Parthian Empire was polytheistic and syncretic, with Greek and I
 *   The precise year of the empire's founding (247 BC) is uncertain, with theories linking it to the loss of Seleucid control, Arsaces becoming Parni chief, or his conquest of Parthia.
 *   The extent of official Arsacid patronage of Zoroastrianism is unclear, with evidence for and against it being the state religion before the Sasanians.
 *   The reliability of Greco-Roman historical sources is questioned, as they were written by rivals and often ignore social and cultural aspects of Parthian life.
+
+Source: adapted from "Parthian Empire" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Parthian_Empire

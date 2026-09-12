@@ -42,3 +42,5 @@ The internet extends freedom of expression to new mediums but brings new restric
 In the United States, the Communications Decency Act of 1996 was partly struck down in *Reno v. ACLU* (1997), with Judge Dalzell calling the internet "a far more speech-enhancing medium than print, the village green, or the mails." Social media platforms also use content moderation, removing legal speech that violates their terms of service.
 
 Tim Wu has argued that the internet reverses the original scarcity problem: when listeners' attention is scarce, "cheap speech" can be used to harass, drown out, and silence as much as to illuminate. On 4 March 2022, Russia introduced prison sentences of up to 15 years for spreading "fake news" about its military, with more than 4,000 prosecutions by December 2022, even though Article 29 of the 1993 Russian Constitution expressly prohibits censorship.
+
+Source: adapted from "Freedom of speech" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Freedom_of_speech

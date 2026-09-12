@@ -33,3 +33,5 @@ Surface slicks are smooth meandering lines where organic surfactants accumulate 
 ## Human pressure and unknowns
 
 The surface receives the bulk of climate change, oil, and plastic pollution. Pre-industrial oceans probably carried more wood and no plastic, so the surface ecosystem today likely differs sharply from centuries past. Basic questions, including how many neustonic species exist, how their populations connect, and how life histories shape distribution, remain largely unresolved.
+
+Source: adapted from "Ocean surface ecosystem" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ocean_surface_ecosystem

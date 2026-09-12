@@ -41,3 +41,5 @@ The Geneva Accords temporarily divided Vietnam at the 17th parallel, with the Vi
 - The war's human cost is debated, with soldier death estimates ranging from 400,000 to 842,707 and civilian deaths from 125,000 to 400,000.
 - The extent of U.S. involvement is a point of historical interest, particularly the discussion of direct military intervention at Điện Biên Phủ, which was considered but rejected.
 - The failure to hold the promised 1956 reunification elections remains a central issue in understanding the origins of the subsequent Vietnam War.
+
+Source: adapted from "First Indochina War" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/First_Indochina_War

@@ -85,3 +85,5 @@ Heidegger’s political engagement remains the central controversy of his recept
 4.  **Ethics and the "They"**: Does *Being and Time* lack an ethics (Levinas: "the priority of ontology" violates the face of the Other), or does authenticity imply a formal ethical structure (Varga/Guignon)?
 5.  **Language and Agency**: If "language speaks, not man," does this dissolve human agency into linguistic determinism, or does it describe the finite condition of *corresponding* to disclosure?
 6.  **East Asian Appropriation**: Did Heidegger unacknowledgedly incorporate Daoist/Zen concepts (May), or do parallels reflect convergent thinking?
+
+Source: adapted from "Martin Heidegger" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Martin_Heidegger

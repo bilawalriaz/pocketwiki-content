@@ -47,3 +47,5 @@ Bresson’s influence spans continents and generations. Andrei Tarkovsky named h
 - **Genesis project**: Bresson developed a *Book of Genesis* adaptation from the 1960s onward with backing from Dino De Laurentiis, but 1980s production attempts failed due to funding; the project remains unrealized.
 - **Political vs. spiritual reading**: Critics debate whether Bresson’s critique of modern society (e.g., *L'Argent*) is primarily a theological diagnosis of grace’s absence or a radical political indictment of capitalism.
 - **New Wave paternity**: While revered by Truffaut and Godard, Bresson’s Jansenist rigor and apolitical stance contrasted sharply with the New Wave’s leftist, experimental ethos, complicating his status as a direct "precursor."
+
+Source: adapted from "Robert Bresson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Robert_Bresson

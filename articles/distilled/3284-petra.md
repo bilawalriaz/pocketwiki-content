@@ -48,3 +48,5 @@ Petra's location controlled key caravan routes connecting Gaza, Damascus, the Re
 - The function of the large, monumental platform discovered in 2016 outside the city center remains unknown.
 - The precise causes for Petra's final decline are debated, with factors including earthquakes, shifting trade routes, and political changes.
 - The identity and purpose of the female figure on the Treasury's tholos (possibly Isis-Tyche) are not definitively confirmed.
+
+Source: adapted from "Petra" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Petra

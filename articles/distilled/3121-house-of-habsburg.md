@@ -43,3 +43,5 @@ The Habsburgs were known for frequent consanguineous marriages, which may have c
 - The origin of the name "Habsburg" is uncertain, with theories deriving it from "hawk castle" (Habichtsburg) or a word for "ford."
 - The extent to which inbreeding caused the extinction of the Habsburg male lines is debated; some studies find a correlation with health issues, while others dispute a link to fertility.
 - The role of Habsburg multilingualism in governing their diverse empire is a subject of historical analysis.
+
+Source: adapted from "House of Habsburg" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/House_of_Habsburg

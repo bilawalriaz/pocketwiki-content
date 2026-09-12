@@ -39,3 +39,5 @@ Despite being illiterate, Hyder Ali was known for his prodigious memory and fina
 - **Ancestry**: Historical sources debate Hyder Ali's ethnic origins, with traditions suggesting Arab, Punjabi, or other lineages.
 - **Economic Impact**: The severity and long-term effects of his economic policies and military campaigns on regions like Tanjore, where output reportedly fell by 90%, are subjects of historical analysis.
 - **Naval Capabilities**: The documentary record on the Mysore navy is fragmentary, leading to debates about its true size, composition, and effectiveness.
+
+Source: adapted from "Hyder Ali" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hyder_Ali

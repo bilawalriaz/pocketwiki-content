@@ -93,3 +93,5 @@ Literacy requires 3,000–4,000 active characters (specialists 5,000–6,000); p
 - **Dyslexia mechanism**: Whether developmental dyslexia in character readers is a distinct double-deficit (visuospatial + phonological) or a variant of universal dyslexia remains under study.
 - **Simplification vs. tradition**: Ongoing tension between simplified (PRC, Singapore, Malaysia) and traditional (Taiwan, Hong Kong, Macau) standards; Japan’s shinjitai represent a third, partially overlapping set.
 - **Han unification in Unicode**: Philosophical debate over assigning single code points to distinct regional allographs (CJK Unified Ideographs) vs. encoding them separately; rendering engine chooses glyph.
+
+Source: adapted from "Chinese characters" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Chinese_characters

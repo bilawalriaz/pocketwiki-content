@@ -98,3 +98,5 @@ Exposure causes loss of consciousness in seconds, death by hypoxia in minutes. B
 *   **QCD Vacuum Structure:** The exact nature of the QCD vacuum (condensates, instantons, topological structure) and its role in confinement and chiral symmetry breaking are active research areas.
 *   **Vacuum Decay / Metastability:** Whether our current electroweak vacuum is stable, metastable, or unstable depends on precise Higgs/top quark masses; a metastable vacuum could tunnel to a lower-energy state, destroying the universe.
 *   **Measurement Limits:** Defining and measuring pressure in extreme environments (e.g., near black holes, early universe) where thermodynamic equilibrium breaks down.
+
+Source: adapted from "Vacuum" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Vacuum

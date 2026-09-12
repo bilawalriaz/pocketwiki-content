@@ -34,3 +34,5 @@ The brothers' initial aim was to establish their scholarly reputation. Their int
 - **Suitability for children:** The collection's title and evolution reflect an ongoing debate about what constitutes appropriate material for children, with the Grimms progressively editing tales to be more "child-friendly."
 - **Authorial intent vs. oral tradition:** Scholars debate the extent to which the Grimms' edits shaped the tales versus preserving authentic oral tradition.
 - **Cultural interpretation:** The tales have been subject to varied and sometimes conflicting interpretations, from Freudian psychology to nationalist propaganda, as seen in Hitler's racial reading of *Cinderella*.
+
+Source: adapted from "Grimms' Fairy Tales" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales

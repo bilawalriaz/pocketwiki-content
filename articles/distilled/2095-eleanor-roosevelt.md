@@ -37,3 +37,5 @@ After Franklin's death in 1945, Roosevelt became a U.S. delegate to the United N
 - **Nature of Relationships:** There is considerable scholarly debate about the nature of Eleanor Roosevelt's close relationships, particularly with journalist Lorena Hickok and bodyguard Earl Miller, with arguments ranging from deep friendship to romantic involvement.
 - **Effectiveness of Advocacy:** Historians debate the effectiveness of her behind-the-scenes advocacy for civil rights and Jewish refugees during her husband's presidency, noting the tension between her public stance and the administration's political constraints.
 - **Arthurdale's Legacy:** While often labeled a failure, some historians note that residents considered the community a "utopia" compared to their prior circumstances, complicating a simple verdict on the project.
+
+Source: adapted from "Eleanor Roosevelt" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eleanor_Roosevelt

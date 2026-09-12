@@ -78,3 +78,5 @@ A voltage applied to the human body causes current through tissues; perception t
 ## Debates and open questions
 
 The source notes one debated anecdote: the claim that William Ewart Gladstone asked Faraday why electricity was valuable and Faraday replied, "One day sir, you may tax it." According to Snopes.com, this anecdote should be considered apocryphal, as it appears in no accounts by Faraday or his contemporaries and only surfaced well after his death.
+
+Source: adapted from "Electricity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Electricity

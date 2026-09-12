@@ -43,3 +43,5 @@ The Qarmatian Revolution (late 3rd century AH) established a radical Ismaili rep
 - The exact location of the ancient city of Gerrha is debated, with candidates including sites near Al-Aḥsā or within the Bahrain archipelago.
 - The identity of the "Two Seas" referenced in the name *al-Baḥrayn* (Bahrain) is disputed, with theories pointing to the salt and fresh waters of the region, or specific bays.
 - The religious affiliation of the Jarwanid dynasty is contested; while some sources describe them as Ismailis or "extreme Shi'ites," modern scholarship often concludes they were Twelver Shi'ites.
+
+Source: adapted from "Eastern Arabia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eastern_Arabia

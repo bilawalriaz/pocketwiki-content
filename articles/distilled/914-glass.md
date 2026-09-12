@@ -80,3 +80,5 @@ Color arises from metal ions: FeO (green), CoO (blue), Cr₂O₃ (dark green), C
 
 ## Debates and Open Questions
 The classification of the glass transition as a true phase transition remains debated—it resembles a second-order transition but does not conform to equilibrium thermodynamics. Whether glass is a solid or a slow-moving liquid has been resolved empirically, yet public misconceptions persist. The exact atomic-scale dynamics during vitrification and the role of fragility in glass-forming liquids continue to be active research areas.
+
+Source: adapted from "Glass" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Glass

@@ -40,3 +40,5 @@ His foreign policy was marked by tension with the United States, which halted ai
 *   The exact death toll of Duvalier's regime is debated, with estimates ranging from 30,000 to 60,000 killed.
 *   The degree to which Duvalier's 1959 heart attack and possible neurological damage influenced his subsequent brutality is a point of speculation.
 *   The lasting impact of his deliberate fusion of state power with Vodou symbolism on Haitian politics and society remains a subject of analysis.
+
+Source: adapted from "François Duvalier" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Fran%C3%A7ois_Duvalier

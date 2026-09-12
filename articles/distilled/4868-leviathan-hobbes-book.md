@@ -37,3 +37,5 @@ Hobbes identifies the "kingdom of darkness" not as Hell, but as ignorance spread
 *   **Right of Revolution:** Hobbes denies subjects any right to rebel, even if the sovereign fails to protect them. This remains a central point of critique.
 *   **Religious Interpretation:** Hobbes's argument that the sovereign determines religious doctrine was seen as highly controversial and potentially atheistic, as it subordinated divine law to civil law.
 *   **Monarchy vs. Other Forms:** While Hobbes argues for monarchy's practical superiority, his logic for absolute sovereignty applies to any undivided authority, whether monarchic, aristocratic, or democratic.
+
+Source: adapted from "Leviathan (Hobbes book)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Leviathan_%28Hobbes_book%29

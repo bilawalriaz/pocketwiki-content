@@ -33,3 +33,5 @@ Practical instrumentation flourished: Jacob ben Makir (Profiat Tibbon), apparent
 ## The Renaissance decline
 
 After the Renaissance, Jewish work in astronomy faded as Christian scholars could read Greek sources directly. David Gans of Prague (d. 1613) corresponded with Kepler and Tycho Brahe, knew the Copernican system, but still preferred Ptolemy; David Nieto of London was opposing Copernicus as late as 1714. Later Jewish astronomers include H. Goldschmidt, who discovered 14 asteroids in the nineteenth century, and Moritz Loewy, director of the Paris Observatory and inventor of the coudé (elbow) telescope. The Academy of the Hebrew Language voted the name *Rahab* for Neptune in 2009.
+
+Source: adapted from "Hebrew astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Hebrew_astronomy

@@ -47,3 +47,5 @@ Marriage is a major theme, with the unions of Dorothea/Casaubon and Lydgate/Rosa
 *   **Dorothea's Ending**: A persistent debate concerns whether Dorothea's marriage to Will Ladislaw is a triumphant fulfillment of her nature or a disappointing compromise that subordinates her dreams to his. Henry James criticized Ladislaw as a "dilettante" unworthy of her.
 *   **The "Woman Question"**: Feminist critics have questioned why Eliot, a pioneering female author, ends her heroine's story with marriage and domesticity rather than public achievement. Defenders argue this reflects the realistic social constraints of the 1830s setting.
 *   **Historical Novel Status**: While not traditionally classified as one, scholars like Kathleen Blake and Michael York Mason argue for more attention to *Middlemarch* as a historical novel that consciously evokes the past in relation to its present (the 1870s).
+
+Source: adapted from "Middlemarch" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Middlemarch

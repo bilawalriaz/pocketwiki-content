@@ -46,3 +46,5 @@ In his final years, Constantine campaigned against Goths and Sarmatians, reoccup
 
 ## Debates and Open Questions
 Scholars debate the sincerity and timing of Constantine's conversion to Christianity. Some view him as a lifelong Christian who concealed his faith for political advantage, while others see him as a pragmatic politician who adopted Christianity for its unifying potential. The nature of his reported vision before the Milvian Bridge—whether a genuine religious experience or a political fabrication—remains contested. Additionally, the extent to which his religious policies were motivated by personal belief versus imperial statecraft is a central theme in modern historiography.
+
+Source: adapted from "Constantine the Great" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Constantine_the_Great

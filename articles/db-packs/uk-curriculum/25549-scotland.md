@@ -25,3 +25,5 @@ Open mixed economy. 2024 GDP: £223.4 billion (including offshore oil/gas). Edin
 ### Infrastructure and energy
 
 Five international airports (Edinburgh busiest, 13M passengers 2017). Rail: 359 stations, 2,760 km track; ScotRail returned to public ownership 2022. Glasgow Subway (1896) is the UK's only other underground system. Ferries (mainly Caledonian MacBrayne) link mainland to islands. Energy mix: renewables 61.8% (wind dominant; Whitelee Wind Farm largest UK onshore), nuclear 25.
+
+Source: adapted from "Scotland" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Scotland

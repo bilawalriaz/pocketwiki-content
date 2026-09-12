@@ -49,3 +49,5 @@ The Treaty of Paris (December 1898) ended Spanish rule and transferred sovereign
 - **Bonifacio's Execution**: The trial and execution of Andrés Bonifacio remain controversial, with debates about its legality and its negative impact on revolutionary unity.
 - **U.S. Promises to Aguinaldo**: Whether U.S. officials made any verbal promises of recognition or support for Philippine independence in exchange for cooperation during the Spanish-American War is debated.
 - **Nature of the Revolution**: Scholars debate whether it was a bourgeois revolution led by the ilustrados or a mass movement of the lower classes.
+
+Source: adapted from "Philippine Revolution" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Philippine_Revolution

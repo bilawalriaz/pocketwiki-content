@@ -36,3 +36,5 @@ The House of Barcelona's rule ended in 1410. In 1412, Ferdinand of Antequera, a 
 
 ## Debates and open questions
 The etymology of the name "Aragon" is debated; it may derive from the Basque words for "good upper valley" or from the earlier Roman province of Hispania Tarraconensis.
+
+Source: adapted from "Kingdom of Aragon" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kingdom_of_Aragon

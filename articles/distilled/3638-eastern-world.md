@@ -31,3 +31,5 @@ The Eastern world is internally diverse, with no single shared common heritage. 
 - The exact boundaries of the Eastern world are debated, as the term's included regions vary by context and are not geographically fixed.
 - The concept of a unified "Asian" identity is contested, as the term is associated with different regional origins (e.g., East Asian, South Asian) in various countries.
 - West Asia, including parts of the Arab world and Iran, may or may not see itself as part of the Eastern world and is sometimes considered separately as "Middle Eastern."
+
+Source: adapted from "Eastern world" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Eastern_world

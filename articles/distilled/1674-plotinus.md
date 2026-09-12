@@ -55,3 +55,5 @@ Plotinus viewed himself not as an innovator but as Plato’s faithful interprete
 - **Continuity with Plato:** Whether Neoplatonism is a faithful development of Plato’s "unwritten doctrines" (Tübingen School) or a novel synthesis incorporating Aristotelian, Stoic, and Oriental elements.
 - **Nature of the One:** Whether the One is a personal deity, an impersonal principle, or beyond the distinction; Plotinus denies it sentience, self-awareness, or action (*ergon*).
 - **Indian parallels:** Extent of direct influence vs. structural affinity between Plotinus’s *henosis* / negation method and Advaita Vedanta / Upanishadic *neti neti*; Coomaraswamy and Radhakrishnan argue for deep methodological kinship.
+
+Source: adapted from "Plotinus" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Plotinus

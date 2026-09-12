@@ -44,3 +44,5 @@ Today, Cartagena is the capital of the Bolívar Department and Colombia's fifth-
 - The exact timeline and cultural succession of pre-Columbian societies in the Cartagena Bay area, such as the relationship between the Puerto Hormiga and Monsú cultures, is based on archaeological hypothesis.
 - The economic impact of the discontinued *Carrera de Indias* convoys and the Bourbon dynasty's reforms on Cartagena's 18th-century economy is a point of historical analysis.
 - The long-term effects of the loss of the *situado* subsidy and the silting of the Canal del Dique on the city's post-independence decline are key factors in its 19th-century stagnation.
+
+Source: adapted from "Cartagena, Colombia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cartagena%2C_Colombia

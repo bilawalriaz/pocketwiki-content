@@ -48,3 +48,5 @@ In programming, integers are often a primitive data type, but practical computer
 
 ## Debates and Open Questions
 The definition of "whole numbers" remains ambiguous: until the early 1950s, it was synonymous with integers, but the New Math movement redefined it as natural numbers excluding negatives, while "integer" includes negatives. Notation for subsets of ℤ is inconsistent across authors: ℤ⁺, ℤ₊, or ℤ> for positive integers; ℤ⁰⁺ or ℤ≥ for non-negative integers; ℤ≠ or ℤ* for non-zero integers (though ℤ* is also used for non-negative integers or {−1, 1}). Additionally, ℤₚ ambiguously denotes either integers modulo p or p-adic integers.
+
+Source: adapted from "Integer" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Integer

@@ -47,3 +47,5 @@ Ibn 'Arabī's teachings spread rapidly after his death, influencing Sufi orders 
 - **Jurisprudential Allegiance**: There is scholarly debate over which school of Islamic law (*madhhab*) he followed. While he stated he did not blindly follow any one school, some argue he adhered to the Zahiri or Hanbali schools, while others contend he was independent.
 - **Authenticity of Works**: Of the 850 works attributed to him, only about 700 are considered authentic, and the attribution of some major works, like *Fuṣūṣ al-Ḥikam*, has been questioned by critics who label them forgeries.
 - **The Ibn ʿAbd al-Salam Controversy**: Historical accounts conflict on whether the respected scholar Ibn ʿAbd al-Salam secretly admired Ibn 'Arabī or publicly condemned him as "a master of evil," highlighting the deep divisions his work caused among contemporaries.
+
+Source: adapted from "Ibn Arabi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ibn_Arabi

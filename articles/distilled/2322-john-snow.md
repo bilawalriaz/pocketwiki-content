@@ -45,3 +45,5 @@ Despite his evidence, Snow's theory was initially rejected by officials and many
 - The precise impact of removing the Broad Street pump handle is debated; Snow himself observed the epidemic was already in rapid decline due to population flight before the handle was removed.
 - The extent to which Snow's work was immediately accepted versus gradually vindicated over time is a point of historical discussion, particularly regarding the resistance from contemporaries like William Farr.
 - The role of Thomas Shapter, who conducted similar point-based mapping studies of cholera in Exeter seven years before Snow, is noted as a parallel but less influential effort.
+
+Source: adapted from "John Snow" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Snow

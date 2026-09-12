@@ -42,3 +42,5 @@ Major threats include deforestation in the Mau Forest, which alters the Mara Riv
 
 ## Debates and Open Questions
 The primary debate concerns the proposed 452-km highway through the park. Advocates argue it would improve connectivity and alleviate poverty, while conservationists warn it would disrupt the wildebeest migration and cause irreversible ecological damage. Alternative southern routes that bypass the park have been proposed as a less harmful solution.
+
+Source: adapted from "Serengeti National Park" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Serengeti_National_Park

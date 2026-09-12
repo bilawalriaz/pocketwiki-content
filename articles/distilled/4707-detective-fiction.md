@@ -45,3 +45,5 @@ Modern detective fiction often explores social issues through its mysteries, as 
 
 ## Debates and Open Questions
 Scholars debate the true origins of detective fiction, with arguments for ancient texts, early Arabic stories, or the 19th-century Western works of Poe and Collins. There is also contention over which work is the "first" English detective novel, with candidates including *The Moonstone*, *The Notting Hill Mystery* (1862-63), and *The Trail of the Serpent* (1861). The genre continually grapples with the tension between puzzle-driven plots and social realism, and how technological advancements affect the plausibility of traditional mystery narratives.
+
+Source: adapted from "Detective fiction" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Detective_fiction

@@ -3,3 +3,5 @@
 *Emergency first response medical treatment.*
 
 First aid is the first and immediate assistance given to any person with a medical emergency, with care provided to preserve life, prevent the condition from worsening, or to promote recovery until medical services arrive. First aid is generally performed by someone with basic medical or first response training. Mental health first aid is an extension of the concept of first aid to cover mental health, while psychological first aid is used as early treatment of people who are at risk for developing PTSD. Conflict first aid, focused on preservation and recovery of an individual's social or relationship well-being, is being piloted in Canada.
+
+Source: adapted from "First aid" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/First_aid

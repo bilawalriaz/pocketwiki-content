@@ -44,3 +44,5 @@ In the 15th century, as Moscow grew in power, Novgorod's autonomy eroded. A pro-
 - The precise nature of Novgorod's political system is debated: scholars have variously described it as a democratic republic, an oligarchy, or a "boyar republic," depending on the degree of popular participation versus elite control.
 - The historical role of Marfa Boretskaya in the pro-Lithuanian alliance is contested; some historians view her as a central figure, while others argue her influence was exaggerated and she was scapegoated.
 - The extent of "class struggle" as a driver of the numerous internal uprisings in Novgorod is unclear, with many conflicts likely stemming from factional disputes among the boyar elite.
+
+Source: adapted from "Novgorod Republic" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Novgorod_Republic

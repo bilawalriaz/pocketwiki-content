@@ -37,3 +37,5 @@ Until the late 19th century, geography was almost exclusively a natural science.
 
 ## Debates and Open Questions
 The source notes that the theory of the cycle of erosion, while revolutionary, is "not entirely accurate," indicating ongoing scholarly refinement of geomorphological models. The historical shift of environmental geography from prominence to a more applied domain also reflects evolving debates about the role of human influence versus natural processes in shaping environments.
+
+Source: adapted from "Physical geography" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Physical_geography

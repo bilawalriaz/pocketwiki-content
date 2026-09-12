@@ -41,3 +41,5 @@ Traffic peaked in 1985 at 7.3 million tonnes but declined sharply after the Sovi
 ## Debates and open questions
 - The exact death toll during construction is debated, with official records stating 12,300 and historian Anne Applebaum estimating 25,000.
 - The extent to which the visiting writers' brigade in 1933 was aware of the true working conditions remains a subject of historical analysis.
+
+Source: adapted from "White Sea–Baltic Canal" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/White_Sea%E2%80%93Baltic_Canal

@@ -44,3 +44,5 @@ Benz continued as a director at Benz & Cie. and founded a separate family compan
 
 ## Debates and Open Questions
 The source notes that there is no evidence that Carl Benz and Gottlieb Daimler knew each other or were aware of each other's early, parallel achievements in developing the automobile. The exact reasons for Benz's retirement from design management in 1903 are framed as a result of "difficult discussions" after DMG hired French designers without his consultation.
+
+Source: adapted from "Carl Benz" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Carl_Benz

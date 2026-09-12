@@ -38,3 +38,5 @@ The official emphasis on Russian nationalism fueled a debate between Westernizer
 - Historians debate whether Nicholas I's policies were a "catastrophic failure" or a necessary, if harsh, consolidation of the empire.
 - The extent to which his personal character—his "iron will" and military mindset—directly caused the failures of his reign is a point of scholarly analysis.
 - The impact of his repressive policies on the long-term stability of the Russian Empire, particularly in provoking future revolutionary movements, is a key question.
+
+Source: adapted from "Nicholas I of Russia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nicholas_I_of_Russia

@@ -40,3 +40,5 @@ The economy is heavily dependent on federal funding and the tuna canning industr
 - **Citizenship Status**: A major ongoing debate is whether residents should be granted U.S. birthright citizenship. The territorial government and many Samoans oppose it, fearing it would lead to federal court challenges against their unique political structure, land ownership laws, and cultural practices. Legal challenges (e.g., *Tuaua v. United States*) have upheld the current status.
 - **Political Integration**: There is periodic discussion about moving toward greater autonomy or independence, though the response from the populace is mixed.
 - **UN Listing**: American Samoa remains on the United Nations list of "non-self-governing territories," a designation the territorial government disputes, considering itself self-governing.
+
+Source: adapted from "American Samoa" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/American_Samoa

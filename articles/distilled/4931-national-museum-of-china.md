@@ -35,3 +35,5 @@ The museum is a level-1 public welfare institution funded by the Ministry of Cul
 
 ## Debates and Open Questions
 The museum's historiography is debated, with critics alleging it minimizes politically sensitive subjects such as the Great Leap Forward and the Cultural Revolution while emphasizing CCP achievements. The appropriateness of commercial exhibitions, like the 2011 Louis Vuitton display, in a state-level public museum is also contested.
+
+Source: adapted from "National Museum of China" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/National_Museum_of_China

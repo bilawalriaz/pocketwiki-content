@@ -48,3 +48,5 @@ Quantum algorithms exploit superposition (quantum bits representing many states 
 ## Open questions
 
 The best-known open problem in algorithmic theory is P versus NP: whether every problem whose solution can be verified quickly (NP) can also be solved quickly (P). A "yes" answer would collapse the gap between checking and finding, breaking most public-key cryptography; a "no" answer would confirm that the gap is real. Other open questions include whether randomized algorithms can be strictly faster than the best deterministic ones, and how to patent AI-discovered algorithms under U.S. law, which excludes pure mathematical algorithms but permits practical applications, as in *Diamond v. Diehr* (1981).
+
+Source: adapted from "Algorithm" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Algorithm

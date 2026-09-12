@@ -35,3 +35,5 @@ Mann's work has been the subject of ongoing debate and interpretation among scho
 * The nature of his engagement with philosophical and literary traditions, such as those of Goethe and Nietzsche.
 * The significance of his use of symbolism and irony in his writing.
 * The relationship between his work and the broader cultural and historical context of his time.
+
+Source: adapted from "Thomas Mann" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Mann

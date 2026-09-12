@@ -27,3 +27,5 @@ At cosmic scales, gravity shapes structure. Dark matter halos, vast invisible sc
 ## Open Problems
 
 General relativity is incompatible with quantum mechanics. Physicists continue to seek a theory of quantum gravity that would unify gravity with the strong, weak, and electromagnetic interactions. The speed of gravity, confirmed in 2017 to equal the speed of light, constrains any such theory. Whether dark matter is composed of unknown particles, whether dark energy is a fixed cosmological constant, and how gravity behaves at the Planck scale remain the deepest unresolved questions in fundamental physics.
+
+Source: adapted from "Gravity" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gravity

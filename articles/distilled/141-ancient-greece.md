@@ -73,3 +73,5 @@ Greek mathematics contributed geometry, formal proof, and number theory; Pythago
 - It is unclear exactly how Greek city-states transitioned from petty kingdoms to aristocratic oligarchies.
 - The population estimate for Greek settlement expansion (800–400 BC) is given as "according to one estimate," roughly ten-fold from 800,000 to 7½–10 million.
 - Economic historians debate whether Classical Greece was one of the most advanced pre-industrial economies; estimates drawn from urban incomes may overstate overall living standards given slavery's role.
+
+Source: adapted from "Ancient Greece" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Ancient_Greece

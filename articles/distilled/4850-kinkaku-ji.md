@@ -33,3 +33,5 @@ The pavilion is set in a Japanese strolling garden (*kaiyū-shiki-teien*) that e
 
 ## Debates and Open Questions
 There is scholarly debate about the extent of the gold leaf used on the original 14th-century pavilion. The 1955 reconstruction is considered a close copy, but some question whether the original had such an extensive gold-leaf coating.
+
+Source: adapted from "Kinkaku-ji" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Kinkaku-ji

@@ -48,3 +48,5 @@ The region is geologically part of the Australian continent, featuring the Maoke
 - The effectiveness and fairness of the "Special Autonomy" policy are debated, with some arguing it has not been fully implemented or has failed to address core grievances.
 - The impact of transmigration and spontaneous migration on indigenous Papuan culture, political power, and land rights is a source of ongoing tension and conflict.
 - The scale of human rights abuses and the death toll from the conflict since 1963 are disputed, with estimates ranging from tens of thousands to over 500,000.
+
+Source: adapted from "Western New Guinea" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Western_New_Guinea

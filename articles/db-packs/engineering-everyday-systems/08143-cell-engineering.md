@@ -35,3 +35,5 @@ The phrase "cell engineering" first appeared in print in 1968, describing improv
 - **Antibody–drug conjugates:** engineering linkages between an antibody and a cytotoxic drug to target diseased cells.
 
 The economic motivation behind most of these strategies is reducing the cost of producing biological molecules and the infrastructure required for large-scale culture.
+
+Source: adapted from "Cell engineering" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Cell_engineering

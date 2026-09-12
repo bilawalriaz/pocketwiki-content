@@ -47,3 +47,5 @@ The people are ethnically diverse but share a Micronesian cultural heritage. Maj
 - The term "Micronesia" is well-established but does not correspond to a deep geomorphological, archaeological, linguistic, or cultural unity; the region is a "disparate ensemble."
 - The origin of the Nauruan people is not definitively determined, possibly resulting from later Polynesian or Melanesian migration.
 - The sovereignty of Wake Island is contested by both the United States and the Republic of the Marshall Islands.
+
+Source: adapted from "Micronesia" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Micronesia

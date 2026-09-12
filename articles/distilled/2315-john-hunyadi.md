@@ -48,3 +48,5 @@ In 1456, as Sultan Mehmed II besieged Belgrade, Hunyadi assembled a relief force
 - **Birth Year and Place**: His birth year is estimated between 1405–1407, and his birthplace is unknown, with theories pointing to Transylvania or Wallachia.
 - **Role in Wallachia**: Historians debate whether Hunyadi installed Vladislav II or Dan as voivode of Wallachia after 1447.
 - **Legacy and National Identity**: Hunyadi is claimed as a hero by multiple nations (Hungarian, Romanian, Serbian, etc.), with historiography sometimes reflecting later national ideologies.
+
+Source: adapted from "John Hunyadi" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/John_Hunyadi

@@ -57,3 +57,5 @@ Konbaung society was highly stratified into four classes: rulers, ritualists, me
 - Whether foundation sacrifices (myosade) were actually practiced at Mandalay's founding in 1857 is disputed, with contemporary records suggesting alternatives like buried oil jars.
 - The precise nature and scale of King Pagan's executions (sources vary from thousands to 6,000) is uncertain.
 - The succession after the monarchy's abolition is unclear, with competing claims among descendants of Thibaw's daughters.
+
+Source: adapted from "Konbaung dynasty" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Konbaung_dynasty

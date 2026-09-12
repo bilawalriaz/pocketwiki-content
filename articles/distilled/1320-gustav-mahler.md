@@ -75,3 +75,5 @@ Mahler’s disciples founded the Second Viennese School: Schoenberg (whom Mahler
 - **Tenth Symphony performability:** Only the Adagio is fully scored; four movements exist in sketch. Performing versions by Deryck Cooke, Joe Wheeler, and others remain debated regarding authenticity.
 - **Conversion motive:** Mahler’s 1897 Catholicism is universally viewed as pragmatic (required for the Hofoper post), yet the sincerity of his lifelong agnosticism versus possible spiritual conflict is discussed.
 - **Mahler vs. Strauss rivalry:** Mahler’s 1902 prediction ("My day will come when his is ended") frames a reception-history debate: Richard Strauss outlived him by 38 years, but Mahler’s posthumous dominance in performance/recording statistics arguably fulfilled the prophecy.
+
+Source: adapted from "Gustav Mahler" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gustav_Mahler

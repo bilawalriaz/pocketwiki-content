@@ -53,3 +53,5 @@ The city hosts two of Zambia's five national tertiary hospitals: the University 
 - The medical rationale for moving the capital from Livingstone to Lusaka in 1929 was not explicitly published at the time, leaving the official reason partially obscured.
 - The economic benefits and political implications of the Federation of Rhodesia and Nyasaland (1953-1963) remain a point of historical analysis, as it was popular with white settlers but strongly opposed by the African population.
 - The effectiveness of Zambia's long-term goal of providing universal health care is debated, as free primary health provision is notionally achieved but often limited by capacity constraints.
+
+Source: adapted from "Lusaka" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Lusaka

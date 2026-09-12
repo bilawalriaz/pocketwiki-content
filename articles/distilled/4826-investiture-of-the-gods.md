@@ -44,3 +44,5 @@ The novel has had a profound impact on Chinese folk religion, popularizing the w
 - **Authorship:** The primary debate concerns whether the novel was written by Xu Zhonglin, Lu Xixing, or Li Yunxiang, with evidence supporting different candidates.
 - **Religious Allegory:** Scholars debate whether the fictional Chan-Jie sect conflict is an allegory for real Ming-dynasty religious rivalries between schools like Quanzhen and Zhengyi.
 - **Political Interpretation:** Some interpret the novel's portrayal of overthrowing a tyrant as containing subtle anti-authoritarian or revolutionary ideas, influenced by the philosophy of Mencius.
+
+Source: adapted from "Investiture of the Gods" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Investiture_of_the_Gods

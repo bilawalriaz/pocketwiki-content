@@ -35,3 +35,5 @@ The arctangent is therefore a logarithm of a rational function, as the theorem r
 Liouville's theorem is the theoretical core of the Risch algorithm, which decides, for a given elementary function, whether an elementary antiderivative exists and constructs it when possible.
 
 Although sometimes cast as a result in differential Galois theory, the theorem needs no Galois theory for its proof. The differential Galois group of a simple antiderivative is either trivial or the additive group of constants, encoding only the constant of integration, so it carries no information about whether an elementary antiderivative exists.
+
+Source: adapted from "Liouville's theorem (differential algebra)" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Liouville%27s_theorem_%28differential_algebra%29

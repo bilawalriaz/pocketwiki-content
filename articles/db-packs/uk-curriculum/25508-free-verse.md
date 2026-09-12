@@ -31,3 +31,5 @@ Free verse sits between poetry and prose. John Livingston Lowes observed that "F
 The Imagists gave free verse discipline and status as a legitimate form, but Herbert Read noted that Ezra Pound "gave free verse its musical structure to an extent that paradoxically it was no longer free." By the 21st century, most published poems are free verse, and it is widely considered the norm. Poets have more freedom to shape expression, but the best practitioners work within self-imposed constraints of sound, line, and rhythm that make the writing verse rather than chopped-up prose.
 
 In Welsh poetry, "free verse" means the opposite: it refers to traditional forms like the sonnet and ode that obey strict English rules, while the native Welsh strict-metre tradition follows complex rules laid down 600 years ago.
+
+Source: adapted from "Free verse" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Free_verse

@@ -50,3 +50,5 @@ Tutankhamun was buried in a small, non-royal tomb (KV62) adapted for his use aft
 - **Military Participation:** Scholars debate whether Tutankhamun personally led campaigns, given his youth and contested physical condition.
 - **Physical Appearance and Health:** Reconstructions of his face and body are controversial, and diagnoses like clubfoot are disputed, with evidence suggesting he was more able-bodied than once thought.
 - **Genetic Affinities:** The interpretation of Tutankhamun's genetic data regarding his ancestral affinities (e.g., with sub-Saharan African or Eurasian populations) is an ongoing scholarly discussion.
+
+Source: adapted from "Tutankhamun" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Tutankhamun

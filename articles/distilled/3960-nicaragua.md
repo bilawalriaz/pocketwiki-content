@@ -52,3 +52,5 @@ Nicaragua's population is predominantly mestizo (69%), with significant white (1
 - The nature of Nicaragua's current political system is heavily debated, with the government describing it as a revolutionary state while international observers and critics label it an authoritarian dictatorship or electoral autocracy.
 - The environmental and economic viability of a proposed interoceanic canal across Nicaragua remains a contentious topic, with scientists raising concerns about its potential impact.
 - The historical accuracy of the country's etymology is settled, with the theory linking the name to the chief "Nicarao" debunked by the discovery of his real name, Macuilmiquiztli.
+
+Source: adapted from "Nicaragua" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Nicaragua

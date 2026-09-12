@@ -40,3 +40,5 @@ Local variables in a function are the easiest case. When a function is called, t
 ## Historical designs
 
 Burroughs shipped the first commercial implementation of virtual memory with the B5000 in 1961, integrating it into the hardware so no external memory management unit was needed. IBM's System/360, in contrast, had no virtual memory except on the Model 67. It used *protection keys* to isolate jobs — key 0 for the supervisor and keys 1–15 for user jobs — with regions, subpools, and control blocks tracking allocated and free storage inside each job. These two designs, full virtual addressing built into the architecture versus manual partitioning under operating-system control, show the range of choices memory management spans.
+
+Source: adapted from "Memory management" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Memory_management

@@ -46,3 +46,5 @@ After his presidency, Jefferson founded the University of Virginia, designing it
 - **Constitutionality of the Louisiana Purchase:** Jefferson himself had doubts about the federal government's constitutional authority to acquire new territory, a question that remains a point of historical discussion.
 - **The Embargo Act's Effectiveness:** Historians assess whether the Embargo Act was a principled stand for neutrality or a disastrous policy that crippled the American economy and failed to change British or French behavior.
 - **Jefferson's Religious Beliefs:** While he championed religious freedom, his personal beliefs—rejecting the Trinity, miracles, and the resurrection—have led to ongoing debate about whether he was a Deist, a Unitarian, or something else entirely.
+
+Source: adapted from "Thomas Jefferson" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Thomas_Jefferson

@@ -31,3 +31,5 @@ The conquest set off a demographic catastrophe. Introduced diseases, chiefly sma
 ## The origin of Mesoamerican writing
 
 Whether the Zapotec script (c. 500 BC) or earlier Olmec symbols (c. 650 BC) represent the first true writing in Mesoamerica remains debated, since it is still unclear whether the Olmec signs encode language in the same way the Zapotec glyphs do.
+
+Source: adapted from "Zapotec civilization" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Zapotec_civilization
