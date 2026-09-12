@@ -14,6 +14,4 @@ Above about 30 GeV (giga-electron-volts, billion electron-volts) photons are too
 
 Gamma-ray images remain coarse, around 6 arcminutes (1/60 of a degree) in the GeV range compared with 0.5 arcseconds for low-energy X-rays, because gamma rays are hard to focus. Silicon 'prism' designs proposed since 2012 aim to sharpen that view, and combining gamma-ray data with gravitational-wave and neutrino detections is now a routine part of tracking neutron-star mergers.
 
-Length check: ~960 words, ~7.6 KB, well within limits. Final paragraph ends on the fact that multi-messenger data is now routine for neutron-star mergers, not on a meta-summary.
-
 Source: adapted from "Gamma-ray astronomy" on English Wikipedia, whose text is written by Wikipedia contributors, under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): https://en.wikipedia.org/wiki/Gamma-ray_astronomy
