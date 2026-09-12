@@ -58,9 +58,12 @@ each quote verbatim, and reports what the rules missed.
 The footer was added in a corpus-wide pass on 2026-09-12. Before that, no
 article carried per-article attribution, and `tools/export_distilled.py`
 explicitly set `ATTRIBUTION = ""` with the note that article pages carried no
-source footer. The same pass removed generator commentary from 11 articles and
+source footer. The same pass removed generator commentary from 12 articles and
 fixed `h1`-as-section-heading in 8 more. Pack bytes changed for every pack, so
-the pack versions were bumped and the catalogue must be republished.
+the pack versions were bumped and the catalogue must be republished. The last of
+the twelve was found not by the rules but by
+`tools/audit_meta_commentary.py` searching articles the rules had judged clean;
+its phrasings are now covered by rules as well.
 
 ## Pack inventory
 
