@@ -1,0 +1,5 @@
+# Web browser
+
+*Software used to access websites.*
+
+A web browser, often abbreviated as browser, is an application for accessing websites. When a user requests a web page from a particular website, the browser retrieves its files from a web server and then displays the page on the user's screen. Browsers can also display content stored locally on the user's device.

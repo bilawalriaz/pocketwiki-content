@@ -1,0 +1,27 @@
+# Lake Victoria
+
+Lake Victoria is Africa's largest lake by area and the world's largest tropical lake, covering roughly 68,800 km² across Tanzania, Uganda, and Kenya. It is the principal source of the White Nile and a globally important freshwater ecosystem. Its native fish, especially haplochromine cichlids, evolved in the lake over an unusually short time and now face a human-driven mass extinction.
+
+## Formation and physical setting
+
+The lake is geologically young. Tectonic movement associated with the East African Rift System created a shallow depression around 400,000 years ago. The basin has dried out completely at least three times, most recently about 17,300 years ago, before refilling around 14,700 years ago with the start of the African humid period. The lake is exceptionally shallow for its size: average depth 40 m, maximum 80–81 m. Roughly 80% of its water comes from direct rainfall, and the only outflow is the Nile at Jinja, Uganda, where the Owen Falls Dam (Nalubaale Dam), completed in 1954, controls the water level. Because the lake is shallow, fed mostly by rain, and drained through a single regulated outlet, its size responds quickly to climate shifts and to dam-release decisions, which explains both the 15% surface-area increase from 2010 to 2022 that flooded lakeside communities and earlier damaging low-water periods.
+
+## Cichlid explosion and collapse
+
+The lake's most famous biological feature is its haplochromine cichlids, a lineage that arrived relatively recently and underwent rapid adaptive radiation, diversifying into over 500 endemic species in roughly 15,000 years. That radiation exploited a wide range of feeding strategies, habitats, and depths, making the lake a classic example of explosive speciation in an isolated, young ecosystem.
+
+That diversity has been largely destroyed. In the 1950s, the large predatory Nile perch (*Lates niloticus*) and Nile tilapia were introduced for fishery development. Nile perch devoured the small native cichlids, while eutrophication (nutrient pollution) from sewage, industry, and agricultural runoff fueled algal blooms that further degraded the water. At least 200 haplochromine species, about 40% of the flock, have been lost, and many survivors are critically endangered. The Nile perch introduction is widely cited as the most dramatic human-caused ecosystem-level extinction event. A few cichlids persist in marginal habitats such as turbid or low-oxygen waters where Nile perch are less effective, but the original diversity has not recovered.
+
+## Fisheries, economy, and transport
+
+Lake Victoria supports Africa's largest inland fishery, vital to millions of people in the three bordering countries. Before the introductions, the catch consisted mainly of native tilapia and cichlids. After Nile perch and Nile tilapia became established, the catch shifted: by the 1970s, Nile perch made up about 60% of the catch, Nile tilapia about 7%, and the native Lake Victoria sardine about 30%. Nile perch landings peaked at roughly 500,000 tonnes per year in the early 1990s and have since declined, partly because fishers now catch Nile perch younger and smaller, and partly because the ecosystem is increasingly degraded. The lake is also a major transport corridor; ferry services connect Tanzania, Uganda, and Kenya. The 1996 sinking of the ferry MV Bukoba killed an estimated 800 to 1,000 people, one of the worst inland water disasters in African history.
+
+## Pollution, invasive plants, and water-level swings
+
+Beyond Nile perch, the lake faces overlapping pressures. The same eutrophication that helped wipe out cichlids drives algal blooms and, since the 1990s, the spread of water hyacinth, a floating invasive plant that forms dense surface mats. These mats block sunlight, create anoxic (oxygen-depleted) zones, foul fishing nets, clog waterways, and have at times interfered with hydroelectric intakes at the dam. The plant's role is not entirely negative, since its mats can shelter juvenile fish from open-water predation and overfishing, and the full ecological balance of its effects remains debated.
+
+Water levels are a second pressure point. Because 80% of inflow is rain and the only outflow is the dam-controlled Nile, rainfall variability translates directly into lake-level swings. Between 2010 and 2022, rising rainfall combined with dam operations caused a roughly 15% increase in surface area, flooding homes, farmland, and infrastructure. In earlier decades, low water levels were linked to Uganda releasing more water than agreed through the dam for hydroelectric generation, disrupting downstream flows. The dam is meant to follow an "agreed curve," a release schedule designed to mimic natural outflow, but compliance has at times been contentious.
+
+## Open questions
+
+Three points remain unresolved. The exact origin of the first Nile perch introductions in the 1950s is disputed; circumstantial evidence points to the Uganda Game and Fisheries Department, which has denied involvement. The ultimate headwater of the Nile is also debated: although Lake Victoria is the principal source of the White Nile, the most distant tributary is generally considered a stream feeding the Kagera River in Rwanda or Burundi. Finally, the net ecological impact of the water hyacinth is not fully understood, because the mats that suffocate native fish and disrupt power generation can also create refuges for some species under heavy fishing pressure.

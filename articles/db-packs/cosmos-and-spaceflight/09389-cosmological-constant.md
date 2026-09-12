@@ -1,0 +1,19 @@
+# Cosmological constant
+
+The cosmological constant, denoted Λ, is a term in Einstein's field equations of general relativity representing a constant energy density that fills space itself. It is the "Λ" in the standard ΛCDM model of cosmology and is treated as the simplest explanation for the observed acceleration of the universe's expansion, corresponding to what astronomers call dark energy.
+
+## What the constant does
+
+In the field equations, Λ multiplies the metric tensor and acts as an intrinsic energy density of the vacuum, with an associated negative pressure. The ratio of pressure to energy density, the equation of state w, is fixed at −1 for a true cosmological constant. Because the pressure is negative, the vacuum energy pushes spacetime apart rather than pulling it together, so a positive Λ causes the expansion of the universe to accelerate. The measured value is extremely small: Λ ≈ 1.47 × 10⁻⁵² m⁻², roughly 10⁻¹²² in Planck-length units, and accounts for about 68–70% of the universe's total energy density.
+
+## History
+
+Einstein added Λ to his equations in 1917 because, without it, gravity would make a universe either expand or contract, while most physicists then assumed the cosmos was static. The term acted as a repulsive correction balancing gravitational attraction. When Edwin Hubble's 1929 observations showed the universe is expanding, Einstein dropped the constant, reportedly calling its introduction his "biggest blunder" (a remark preserved by George Gamow). The static solution it produced was in any case unstable: a slight expansion would have released more vacuum energy, driving further expansion.
+
+From the 1930s through the 1990s, most physicists set Λ = 0. In 1998, two independent teams, the Supernova Cosmology Project led by Saul Perlmutter and the High-Z Supernova Search Team led by Brian Schmidt and Adam Riess, measured distances to Type Ia supernovae. These explosions have a known intrinsic brightness, so their apparent faintness reveals how rapidly the universe was expanding when their light was emitted. The supernovae were fainter, and the universe therefore more distant, than expected for decelerating expansion. The expansion was accelerating, and a positive Λ was the simplest explanation. Perlmutter, Schmidt, and Riess shared the 2011 Nobel Prize in Physics for the discovery.
+
+## The cosmological constant problem
+
+The deepest puzzle is a clash with quantum theory. Quantum field theory treats the vacuum as a collection of quantum fields in their lowest-energy, or ground, state. Even in this ground state the fields fluctuate, and these zero-point fluctuations carry energy that, if it gravitates, should act as a cosmological constant. Summing the contributions of known fields up to the Planck scale predicts a vacuum energy about 10¹²⁰ times larger than the observed value, a discrepancy called the worst theoretical prediction in the history of physics. No known mechanism, symmetry, or cancellation principle naturally produces the tiny observed number, which is why explaining why Λ is so small, and yet not exactly zero, remains one of the central unsolved problems in fundamental physics.
+
+One response, developed by Steven Weinberg, invokes the anthropic principle: if a multiverse exists in which Λ takes many values, observers necessarily find themselves in regions where Λ is small enough to allow galaxies and life to form. A much larger Λ would prevent galaxy formation, while a more negative one would cause recollapse before life could arise. Weinberg used this argument in 1987 to predict that Λ should be small but nonzero, later refined to a few times the matter density, a range compatible with the value measured a decade afterward. Alternatives such as quintessence model dark energy as a slowly varying field with w ≠ −1, but Planck 2018 data (w = −1.028 ± 0.032) remain consistent with a true constant.

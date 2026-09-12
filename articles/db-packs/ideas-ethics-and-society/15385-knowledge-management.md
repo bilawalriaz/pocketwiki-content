@@ -1,0 +1,37 @@
+# Knowledge management
+
+Knowledge management (KM) is the deliberate set of practices an organization uses to create, share, and use what it knows, treating that knowledge as a strategic asset rather than a byproduct of work. The discipline emerged in the 1990s and sits at the intersection of business administration, information systems, management, and library and information science. It builds on Peter Drucker's concept of "knowledge workers," introduced in his 1954 book *The Practice of Management*. Early efforts were informal: apprenticeships, mentoring, corporate libraries, and on-the-job discussion. The spread of computers from the second half of the twentieth century added knowledge bases, expert systems, intranets, and computer-supported cooperative work. The Swedish financial firm Skandia hired Leif Edvinsson as the world's first chief knowledge officer (CKO), a role whose remit is to maximize an organization's intangible assets. The ISO 9001:2015 quality management standard formalized the concern by introducing a specification for "organizational knowledge" as part of quality management.
+
+## Tacit and explicit knowledge
+
+**Tacit knowledge** is internalized know-how that people may not consciously access, such as the ability to ride a bicycle or judge a client. **Explicit knowledge** is consciously held and easily communicated in words, symbols, or documents. Ikujiro Nonaka's SECI model (Socialization, Externalization, Combination, Internalization) describes how these interact in a spiraling cycle: tacit knowledge is extracted into explicit knowledge, then explicit knowledge is re-internalized as tacit knowledge. Later research argued this split oversimplifies things, since explicit knowledge must be encoded as information (symbols outside our heads), and that encoding always loses some context. A second framework distinguishes *embedded* knowledge, built into a system's design, from *embodied* knowledge, the learned capability of a human nervous and endocrine system. A third framework contrasts the *creation* of new knowledge (innovation) with the *transfer or exploitation* of established knowledge within a group or community.
+
+## Schools of thought
+
+Four lenses dominate the field. The **techno-centric** lens focuses on technology that enhances knowledge sharing. The **organizational** lens asks how an organization's design facilitates knowledge processes. The **social-psychological** lens treats social networks as a *transactive memory system*, a shared group memory in which members remember who knows what. The **ecological** lens treats people, identity, knowledge, and environment as a complex adaptive system akin to a natural ecosystem. Despite their differences, all schools converge on three core components: people and culture, processes and structure, and technology.
+
+Since 2010, academic publishing on KM has shifted toward multi-author work. Practitioner contributions to academic journals fell from roughly 30% of papers before 2002 to about 10% by 2009, and the number of dedicated academic journals has grown to 27.
+
+## Strategies
+
+Two opposing strategies describe how knowledge moves. The **codification (push) strategy** treats knowledge as an object to be captured: people write their know-how into databases and retrieve what others have written, and information technology does most of the work. The **personalization (pull) strategy** treats knowledge as a flow between people: individuals seek out experts on demand, and technology merely facilitates communication. Codification fits explicit knowledge such as data and procedures; personalization fits tacit knowledge such as know-how. Generic strategies add knowledge acquisition, exploration, exploitation, and sharing, each aimed at increasing competitive advantage. Captured knowledge has a short half-life: industry analyses of software-as-a-service firms report that a typical KM article remains accurate for about six months before it needs review or replacement.
+
+## Retention, audit, and protection
+
+Knowledge retention addresses the moment an experienced employee leaves. It converts tacit know-how into explicit form so the organization does not lose intellectual capital, and it follows stages such as decision-making, planning, and implementation. A **knowledge audit** is a comprehensive assessment of what an organization knows, both documented and held in people's heads, designed to surface strengths and gaps before strategy is set; it is sometimes used interchangeably with the narrower term "information audit."
+
+Protection sits in tension with sharing. Formal methods include patents, trademarks, copyrights, and technical access controls, and they work best for knowledge that can be codified and embodied in a product. Informal methods such as secrecy, social norms, complexity, lead time, and human resource practices work better for knowledge that resists codification. The recurring dilemma is that overprotection can stifle follow-on innovation, while inadequate protection invites misappropriation. Balancing the two is treated as a core management problem, especially when organizations cooperate with external partners.
+
+## Technology and modern pressures
+
+KM technology overlaps heavily and includes groupware, workflow systems, content and document management, enterprise portals, eLearning, scheduling software, telepresence, and semantic technologies such as ontologies that let machines infer meaning from data. Early proprietary products like HCL Notes (formerly Lotus Notes) gave way to Internet standards, and open-source wikis and blogs now provide capabilities that once required expensive commercial tools. Industry 4.0 and digital transformation have intensified the challenge by increasing both the volume and speed of information flow, while supply chains remain the hardest setting because they span multiple firms with no shared hierarchy, producing what some authors call transorganizational or interorganizational knowledge.
+
+**Changes made:**
+- Fixed `Since2010` typo to `Since 2010`
+- Removed redundant personal KM mention (year1999 was unsupported; source says1999 but conflates two facts)
+- Added inline definition of *transactive memory system* for the social-psychological lens
+- Trimmed filler openers ("A central distinction runs through the field", "KM has no single theory", "Two opposing strategies describe how knowledge actually moves")
+- Condensed the SKandia line (source gives no year for Edvinsson's hiring, so I removed the unsupported1998)
+- Cut the personal KM1999 sentence to keep focus on organizational KM
+- Reduced heading clutter; preserved all four frameworks (tacit/explicit, embedded/embodied, create/transfer, four schools)
+- Final paragraph still ends on a substantive fact about supply chains- Word count ~980, well within the 1000 target

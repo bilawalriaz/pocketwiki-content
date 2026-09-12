@@ -1,0 +1,5 @@
+# Constitution
+
+*Fundamental principles that govern a state.*
+
+A constitution, or supreme law, is the aggregate of fundamental principles or established precedents that constitute the legal basis of a polity, organization or other type of entity, and commonly determines how that entity is to be governed.

@@ -1,0 +1,25 @@
+# History of mathematics
+
+Mathematics began as a tool for counting, measuring, and administering trade, then developed into a deductive science and finally into the abstract discipline practiced today.
+
+## From counting to calculation (prehistory to 1500 BC)
+
+The earliest mathematical activity left no writing. The Ishango bone (c. 20,000 BC) bears notches that some interpret as tallies or a lunar calendar, though the meaning is debated. By 3000 BC, Mesopotamian and Egyptian scribes used arithmetic and geometry for taxation, surveying, and astronomy. Babylonian tablets recorded a sexagesimal (base-60) place-value system, in which each digit's value depends on its position, and solved quadratic equations. The Plimpton 322 tablet (c. 1900 BC) lists Pythagorean triples, whole-number solutions to a² + b² = c², evidence that Babylonians knew this relationship long before the Greeks. Egyptian mathematics, preserved in the Moscow Papyrus (c. 1890 BC) and the Rhind Papyrus (c. 1650 BC), emphasized practical arithmetic with unit fractions, fractions whose numerator is 1, such as 1/3 or 1/5. Neither tradition recorded formal proofs; their mathematics consisted of worked procedures.
+
+## The Greek invention of proof (600 BC – 529 AD)
+
+Greek mathematics introduced deductive reasoning, deriving conclusions from a small set of stated assumptions called axioms through logical steps. Thales of Miletus is credited as the first to use this approach, and the Pythagoreans coined the word "mathematics" while studying numbers. The third century BC was the Greek "Golden Age." Euclid's *Elements* organized geometry into a deductive system, beginning from axioms and proving hundreds of theorems. Archimedes used the method of exhaustion, approximating curved areas and volumes by inscribed polygons that fit more and more tightly, to estimate π and the areas of curved figures, a technique later absorbed into integral calculus. Apollonius studied conic sections, and Diophantus introduced symbolic notation for equations. The closure of the Academy of Athens in 529 AD is traditionally taken as the close of this era, though Greek mathematics continued in the Byzantine Empire.
+
+## The East systematizes and algebra appears (500 – 1400 AD)
+
+Outside Europe, Indian mathematicians developed the decimal place-value system, with Brahmagupta formalizing the use of zero in the seventh century and Aryabhata's *Aryabhatiya* (c. 500 AD) presenting this system systematically. The Kerala School, founded by Madhava of Sangamagrama in the fourteenth century, derived infinite series for trigonometric functions, expressions that sum an unending sequence of terms, two centuries before similar results appeared in Europe, a priority still debated by historians.
+
+In the Islamic world, scholars translated and extended Greek, Indian, and Persian work. Al-Khwārizmī's treatise (c. 825) gave algebra its name and its method of solving equations by moving terms across an equals sign ("al-jabr" means "restoration"). Omar Khayyam solved cubic equations geometrically, and Al-Kashi computed π to sixteen decimal places. Independently, the Maya civilization developed a vigesimal (base-20) place-value numeral system that included a written symbol for zero.
+
+## Europe rediscovers and transforms (1200 – 1600)
+
+Medieval Europe inherited much of its mathematics through the twelfth-century translation movement, which rendered Arabic and Greek works into Latin. Fibonacci's *Liber Abaci* (1202) popularized Hindu-Arabic numerals across European commerce. The Renaissance brought the algebraic solution of cubic and quartic equations, advances in trigonometry for navigation, and printed textbooks such as Pacioli's *Summa de arithmetica*.
+
+## Calculus, abstraction, and the modern era (1600 – present)
+
+The seventeenth century produced two foundational tools: analytic geometry (Descartes, 1637), which joins algebra and geometry by representing curves as equations, and calculus (Newton and Leibniz, 1684–1686), which handles continuous change through differentiation and accumulation through integration. The eighteenth century belonged largely to Euler. The nineteenth century brought deliberate abstractions: non-Euclidean geometries (Lobachevsky, Bolyai, Riemann), which drop Euclid's parallel postulate to describe curved spaces; abstract algebra and group theory (Galois); and the rebuilding of analysis on exact definitions of limits and continuity (Cauchy, Weierstrass). The twentieth century probed the foundations of mathematics itself. Cantor's set theory offered a unifying language, while Gödel's incompleteness theorems (1931) showed that any sufficiently powerful formal system contains true statements it cannot prove. Mathematics became a large collaborative profession, producing projects like the classification of finite simple groups and tools such as topology, which studies properties of shapes preserved under continuous deformation. The Poincaré conjecture, posed in 1904, was proved in 2003, and automated theorem provers are now reshaping how mathematicians verify results.

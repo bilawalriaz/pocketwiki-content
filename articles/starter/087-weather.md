@@ -1,0 +1,5 @@
+# Weather
+
+*Short-term state of the atmosphere.*
+
+Weather is the state of the Earth's atmosphere at a specific place and time, typically described in terms of temperature, humidity, cloud cover, and stability. On Earth, most weather phenomena occur in the lowest layer of the planet's atmosphere, the troposphere, just below the stratosphere. Weather refers to day-to-day temperature, precipitation, and other atmospheric conditions, whereas climate is the term for the averaging of atmospheric conditions over longer periods of time. When used without qualification, "weather" is generally understood to mean the weather of Earth.

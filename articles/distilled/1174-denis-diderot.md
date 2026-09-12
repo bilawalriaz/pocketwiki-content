@@ -1,0 +1,54 @@
+# Denis Diderot
+
+## Overview
+Denis Diderot (1713–1784) was a French philosopher, art critic, and writer who served as the chief editor and driving force behind the *Encyclopédie*, the monumental reference work that became the flagship project of the Age of Enlightenment. By systematizing human knowledge—including the mechanical arts—and insisting on a secular, critical perspective, the *Encyclopédie* challenged religious and monarchical authority, drawing censorship, bans, and the imprisonment of contributors, yet it laid intellectual groundwork for the French Revolution. Diderot’s own philosophical trajectory moved from deism toward materialism and atheism, pioneering early evolutionary ideas and a dynamic view of nature. Though he struggled financially and saw many major works published only posthumously, his literary innovations in the novel and dialogue, his invention of modern art criticism via the *Salons*, and his theatrical theories (including the "fourth wall") cemented his status as a central architect of modern European thought.
+
+## Timeline
+- **5 Oct 1713** — Born in Langres, Champagne, to a cutler and his wife.
+- **1732** — Receives Master of Arts from University of Paris; abandons clerical career.
+- **1734** — Decides to become a writer; disowned by father; begins decade of bohemian life.
+- **1742** — Meets Jean-Jacques Rousseau at the Café de la Régence.
+- **1746** — Publishes *Philosophical Thoughts*, arguing for reconciliation of reason and feeling; defends deism.
+- **1747** — Writes *The Skeptic's Walk* (dialogue of deist, atheist, pantheist); unpublished until 1830.
+- **1748** — Publishes *The Indiscreet Jewels* (novel) and *Memoires sur differents sujets de mathematique*.
+- **1749** — Publishes *Letter on the Blind* (introducing early natural selection ideas); imprisoned at Vincennes for several months.
+- **1751** — First volume of the *Encyclopédie* published (co-edited with d'Alembert).
+- **1758** — *Encyclopédie* banned by Catholic Church; d'Alembert withdraws (1759).
+- **1759** — French government formally suppresses *Encyclopédie*; work continues clandestinely.
+- **1765** — Final volume of *Encyclopédie* issued; Diderot feels project may have been wasted effort.
+- **1766** — Catherine the Great buys Diderot's library for 15,000 livres; appoints him custodian with 1,000 livres/year salary (50 years paid in advance).
+- **1773–1774** — Five-month stay at Catherine's court in Saint Petersburg; discusses reform of Russia.
+- **31 Jul 1784** — Dies of pulmonary thrombosis in Paris; buried at Église Saint-Roch.
+- **1792–1796** — Major posthumous publications: *Jacques the Fatalist*, *Rameau's Nephew*, *La Religieuse*.
+
+## Body
+
+### Early Life and Intellectual Formation
+Born in Langres to a master cutler, Diderot was educated by Jesuits and earned a Master of Arts in 1732. He briefly pursued law but rejected the learned professions in 1734, prompting his father to disown him. He lived a precarious bohemian existence for a decade, forming a pivotal friendship with Jean-Jacques Rousseau in 1742. In 1743, he married Antoinette Champion, a devout Catholic of lower social standing, further alienating his father. The death of his sister Angélique, a nun, in 1749 likely influenced his critical view of convent life, later fictionalized in *La Religieuse*. Diderot maintained several affairs, most notably with Sophie Volland, whose correspondence is considered a literary treasure.
+
+### Early Philosophical Works
+Diderot’s first original work, *Philosophical Thoughts* (1746), argued that virtue and sublimity require feeling disciplined by reason, defending deism while criticizing Christianity. *The Skeptic's Walk* (1747) staged a dialogue between a deist, atheist, and pantheist; it was suppressed, either by police seizure or a forced undertaking not to publish. *The Indiscreet Jewels* (1748), a satirical novel written for money, used a magical ring to expose sexual hypocrisy while digressing into philosophy and science. His scientific memoir (1748) offered original ideas on acoustics and a "new organ," rejecting preformationism (*emboîtement*) in favor of a spectrum view of species and universal elasticity—foreshadowing evolutionary theory without being Darwinian.
+
+### *Letter on the Blind* and Imprisonment
+The *Letter on the Blind* (1749) established Diderot as a radical thinker. Through the blind mathematician Nicholas Saunderson, it argued that knowledge derives from the senses, making mathematics the only common ground between blind and sighted, and suggested the blind could read via touch. Crucially, it presented an undeveloped theory of variation and natural selection: Saunderson, dying, rejects a deist clergyman’s arguments, upholding "thinking matter" and natural evolution without supernatural design. The work was suppressed; Diderot, under surveillance since 1747, was identified, manuscripts confiscated, and imprisoned at Vincennes (July–November 1749). Rousseau visited daily, an experience that triggered his own "illumination de Vincennes" against civilization. Diderot wrote notes on *Paradise Lost* with a toothpick and wine-slate ink. Released after signing submissions, he issued the *Encyclopédie* prospectus in 1750.
+
+### The *Encyclopédie*: Genesis, Controversy, and Execution
+Originally a translation of Ephraim Chambers’ *Cyclopaedia*, Diderot transformed the project into a consolidation of the Republic of Letters, recruiting d'Alembert as co-editor. The 1750 prospectus declared the goal: to encompass every branch of human knowledge, combining scholarship with trade information to "change men's common way of thinking." Controversy erupted immediately. In 1752, courts suspended the project over seditious entries on religion and natural law. Diderot’s manuscripts were hidden by Malesherbes, the very official ordered to seize them. The Catholic Church banned it in 1758; the French government formally suppressed it in 1759, forcing clandestine publication. D'Alembert and other contributors (including Turgot) withdrew. Diderot became sole editor, writing ~7,000 articles, mastering manufacturing processes by day and writing by night, damaging his eyesight. In 1764, publisher Le Breton secretly excised dangerous passages from proofs, destroying Diderot’s manuscripts. The final 28 volumes reached subscribers in 1772. Diderot ended his involvement in 1765 fearing his 25 years of labor were wasted.
+
+### Mature Literary Works
+Diderot’s major novels and dialogues circulated privately and were published posthumously. *La Religieuse* (completed ~1780, published 1796) began as a joke to lure the Marquis de Croismare to Paris. It depicts Suzanne Simonin, forced into a convent because she is illegitimate, suffering hierarchical abuse and repressed sexuality under civilly enforced vows—a critique of cloistered life and the victimization of women. *Rameau's Nephew* (written 1761–1774), a "farce-tragedy" dialogue with the composer’s nephew, explores a parasite who practices cynical hedonism, believing "every species in nature consumes one another." Its publication history is circuitous: Goethe translated it to German (1805), retranslated to French (1821); the original manuscript surfaced only in 1891. *Jacques the Fatalist* (1765–1780) challenges novelistic conventions, echoing Sterne. *D'Alembert's Dream* (1769) probes the material constitution of matter and life. *Paradox of the Actor* (1770–1778) argues great actors simulate emotion without feeling it, coining *l'esprit de l'escalier* (staircase wit).
+
+### Art Criticism and Theatre
+Recruited by Friedrich Melchior Grimm in 1759, Diderot reported on the Louvre Salons (1759–1771, 1775, 1781), inventing modern art criticism. His *Essai sur la peinture* (1765) analyzed artistic beauty; Goethe called it a "torch of blazing illumination." He championed Jean-Baptiste Greuze for sentimental portrayals of domestic virtue (Greuze’s wife was Diderot’s former mistress). In theatre, Diderot wrote *Le Fils naturel* (1757) and *Le Père de famille* (1758), advocating the "serious genre"—a realistic midpoint between comedy and tragedy—and introduced the concept of the "fourth wall" (1758), the imaginary barrier between stage and audience.
+
+### Relationship with Catherine the Great
+Catherine the Great, hearing of Diderot’s poverty, bought his 3,000-volume library in 1766 (15,000 livres + 1,000 livres/year for life, 50 years prepaid). Diderot traveled to Saint Petersburg in 1773–1774, meeting Catherine almost daily for five months; discussions were so vigorous she complained of bruised thighs. He proposed radical reforms to make Russia a utopia; she replied his advice would cause chaos. She gifted him 3,000 rubles, a ring, and an escort home. In 1784, she installed him in a luxurious suite on the Rue de Richelieu; he died two weeks later. His unsent *Observations on the Nakaz* argued legislation should *make* the spirit of the nation, not follow it, urging Catherine to abdicate, declare popular sovereignty, and abolish horrific public executions. She dismissed them as "incoherent gibberish."
+
+### Philosophy: Materialism, Evolution, and Posterity
+Diderot moved from Voltairean deism to materialism and atheism by 1747 (*The Skeptic's Walk*). He opposed mysticism, insisting religious claims submit to reason, though he engaged with Paracelsus. *On the Interpretation of Nature* (1754) expounded on evolution, materialism, and experimental science; he endorsed d'Holbach’s *The System of Nature* (1770) for its consistent atheism. Diderot viewed the *Encyclopédie* as a fight for posterity: "posterity is for the philosopher what the 'other world' is for the man of religion." His core questions, per Andrew S. Curran: Why be moral without God? How to appreciate art? What are we and where do we come from? What are sex and love? How can a philosopher intervene politically?
+
+### Death, Burial, and Legacy
+Diderot died of pulmonary thrombosis on 31 July 1784, buried at Église Saint-Roch. His library went to Catherine II, now at the National Library of Russia. Grave robbers desecrated his tomb in 1793; remains likely moved to a mass grave. Denied Panthéon burial repeatedly. Contemporaries (Marmontel, Morellet) praised his conversational brilliance; Rousseau predicted Plato/Aristotle-level posterity. Goethe, Schiller, Lessing admired him; Goethe called *Rameau's Nephew* "the classical work of an outstanding man." Vilified during the French Revolution for atheism, he was later revered by Balzac, Delacroix, Stendhal, Zola, Schopenhauer, and Marx ("favourite prose-writer"). Michelet named him "the true Prometheus." Modern tributes include the 2013 Maison des Lumières Denis Diderot museum in Langres.
+
+## Terms
+- **Term** —

@@ -1,0 +1,63 @@
+# Jean-Luc Godard
+
+## Overview
+Jean-Luc Godard (1930–2022) was a French-Swiss film director, critic, and screenwriter who pioneered the French New Wave, revolutionizing cinema through radical experimentation with narrative, continuity, sound, and camerawork. Beginning as a critic for *Cahiers du Cinéma*, he attacked the "Tradition of Quality" and championed Hollywood auteurs like Hitchcock and Hawks before directing *Breathless* (1960), which introduced jump cuts, improvisational scripting, and dense cultural references, establishing a new cinematic language. His 1960s work, often starring Anna Karina, blended genre deconstruction with Marxist and existentialist philosophy. Following the May 1968 uprisings, he entered a militant "political period," forming the Dziga Vertov Group with Jean-Pierre Gorin to make collective, Maoist films that rejected commercial cinema and the auteur cult. He returned to more accessible fiction in 1980, culminating in the monumental video history *Histoire(s) du cinéma* (1988–1998). His late work explored aging, war, and the Arab world using digital video and 3D. Godard’s influence on narrative theory and film criticism remains foundational, though his legacy is debated regarding allegations of misogyny and anti-Semitism.
+
+## Timeline
+- **3 Dec 1930** — Born in Paris to wealthy Franco-Swiss Protestant parents; moved to Switzerland in 1934.
+- **1946–1950** — Immerses in Parisian ciné-clubs (Cinémathèque Française, CCQL); meets Truffaut, Chabrol, Rohmer.
+- **1950–1952** — Co-founds *La Gazette du cinéma*; publishes first pieces in *Cahiers du Cinéma* (1952), defending classical découpage and Howard Hawks.
+- **1954–1958** — Works on Grande Dixence Dam; makes first short *Opération béton*; directs shorts *Une femme coquette*, *All the Boys Are Called Patrick*, *Charlotte et son Jules*.
+- **1960** — *Breathless* (*À bout de souffle*) released; wins Jean Vigo Prize; defines New Wave style (jump cuts, day-of-shoot writing).
+- **1961–1965** — Marries Anna Karina (1961); directs *A Woman Is a Woman*, *Vivre sa vie*, *Contempt*, *Bande à part*, *Alphaville*, *Pierrot le Fou*.
+- **1966–1967** — Directs *Masculin Féminin*, *Made in U.S.A.*, *Two or Three Things I Know About Her*, *La Chinoise*, *Week End* ("End of Cinema").
+- **1968** — Co-leads shutdown of Cannes Film Festival in solidarity with May 68 protests.
+- **1968–1979** — "Political period": Forms Dziga Vertov Group with Jean-Pierre Gorin; makes militant films (*Tout Va Bien*, *Letter to Jane*); collaborates with Anne-Marie Miéville; founds Sonimage (1972).
+- **1980** — Returns to commercial fiction with *Sauve qui peut (la vie)*.
+- **1988–1998** — Produces *Histoire(s) du cinéma*, a multi-part video history of film and 20th century.
+- **2001–2018** — Late digital/3D period: *Éloge de l'amour*, *Notre musique*, *Film Socialisme*, *Goodbye to Language* (Jury Prize, Cannes 2014), *Le livre d'image* (Special Palme d'Or, Cannes 2018).
+- **13 Sep 2022** — Dies at 91 in Rolle, Switzerland via assisted suicide.
+
+## Body
+
+### Early Life and Critical Formation
+Born into a privileged Protestant family with ties to the Banque Paribas and theologian Adolphe Monod, Godard spent the war years in Switzerland. In post-war Paris, he frequented ciné-clubs—particularly the Cinémathèque Française and the Ciné-Club du Quartier Latin—where he encountered silent cinema and formed the "Hitchcocko-Hawksian" circle with Truffaut, Chabrol, and Rohmer. He viewed cinema as "an instrument of knowledge, a microscope... a telescope." His criticism for *Cahiers du Cinéma* (from 1952) attacked André Bazin’s preference for "realism" (Welles, De Sica) by defending the "classical découpage" (shot-reverse-shot technique) of Hollywood studio directors like Otto Preminger and Howard Hawks, arguing their "harsh melodramas" possessed greater moral truth than overt artistry.
+
+### The New Wave Breakthrough (1960–1967)
+*Breathless* (1960), produced by Georges de Beauregard and shot by Raoul Coutard (a documentary cameraman), codified the New Wave aesthetic. Godard discarded the screenplay, writing dialogue daily to achieve a "documentary-like ambiance." The film’s jump cuts—traditionally considered errors—denied fluid continuity, forcing the viewer into an active, critical role akin to the *caméra-stylo* (camera-pen) theorized by Alexandre Astruc. Dense intertextuality became a signature: visual quotes from Bogart, Bergman, and Monogram Pictures; literary citations from Faulkner to Rilke; musical and painterly references.
+
+His collaboration with Anna Karina (married 1961–1965) defined the era. *Vivre sa vie* (1962) used episodic structure to depict a woman’s descent into prostitution, blending sociological analysis with formal beauty. *Contempt* (1963), his biggest commercial success, starred Brigitte Bardot and Michel Piccoli in a meta-narrative about a producer (Jack Palance) commodifying Homer’s *Odyssey* against director Fritz Lang’s "high culture." *Alphaville* (1965) rendered sci-fi without sets, using 1960s Paris and a computer (Alpha 60) to satirize technocratic control. *Pierrot le Fou* (1965) and *Week End* (1967) escalated formal rupture: the former a "retrospective" on violence and loneliness; the latter a savage satire of bourgeois consumption featuring an eight-minute traffic jam tracking shot and the end-title "End of Cinema."
+
+### Political Period and the Dziga Vertov Group (1968–1979)
+Radicalized by the Vietnam War and May 1968 (during which he and Truffaut shut down Cannes), Godard sought to "make political films politically." He abandoned the auteur signature, forming the **Dziga Vertov Group** (named for the Soviet *Kino-Pravda* documentarian) with Maoist student Jean-Pierre Gorin. They produced five low-budget features (1968–1973), including *Tout Va Bien* (1972) with Jane Fonda and Yves Montand, and *Letter to Jane* (1972), a 50-minute deconstruction of a press photo of Fonda in North Vietnam.
+
+Godard adapted **Bertolt Brecht’s epic theatre**—specifically the *Verfremdungseffekt* (alienation effect)—to film, separating sound, image, and text to prevent passive consumption. In *Week End* and *La Chinoise*, characters address the camera directly. A **Marxist reading** permeates the work: *Une femme mariée* (1964) structures itself around **commodity fetishism**, treating individuals as things; *Pierrot le Fou* juxtaposes a "Scandal" girdle ad with critiques of commodification and false liberation. Godard later acknowledged the "imbecilic" misogyny in his early dialogue, attributing it to a production machinery that terrorized women.
+
+This period saw controversy: *Le petit soldat* (1960/63) was censored for its Algerian War ambiguity; Godard’s 1981 remark "Moses is my principal enemy" sparked accusations of anti-Semitism, countered by scholars noting his serious Holocaust engagement in documentaries. He identified as anti-Zionist, not anti-Semitic. In 1978, filming in Mozambique, he condemned Kodak film stock as "inherently racist" for calibrating only to Caucasian skin (Shirley cards), a bias uncorrected until 1995.
+
+### Return to Fiction and *Histoire(s) du cinéma* (1980–2000)
+After a motorcycle accident and the dissolution of the Gorin partnership, Godard returned to narrative with *Sauve qui peut (la vie)* (1980), initiating an autobiographical, elegiac phase. *Passion* (1982), *Prénom Carmen* (1983), and *Nouvelle Vague* (1990) displayed "great formal beauty and frequently a sense of requiem." *Je vous salue, Marie* (1985) drew Catholic condemnation; *King Lear* (1987) offered a postmodern Shakespeare. With Anne-Marie Miéville (partner from 1970, wife in 2010s), he ran **Sonimage** (founded 1972 in Grenoble), producing video works for TV (*Six fois deux*, 1976; *France/tour/détour/deux/enfants*, 1978).
+
+The capstone was **Histoire(s) du cinéma** (1988–1998), a multi-part video montage weaving film clips, painting, music, and text into a "monumental project" engaging 20th-century history and cinema’s self-reflection. It combined his video innovations with a density of reference unmatched in his oeuvre.
+
+### Late Period: Digital Video and 3D (2001–2022)
+Godard embraced digital video (DV) and later 3D. *Éloge de l'amour* (2001) split 35mm black-and-white from DV color to explore memory and love’s stages. *Notre musique* (2004) structured war imagery (Sarajevo, Native Americans, Israel-Palestine) into Dantean Hell, Purgatory, Paradise. *Film Socialisme* (2010) premiered in Cannes’ Un Certain Regard. *Goodbye to Language* (2014), shot in 3D, used a dog as interpreter for a non-communicating couple; its script was a collage of handwritten text and images, winning the Cannes Jury Prize. *Le livre d'image* (2018), filmed in Arab countries including Tunisia, examined the modern Arab world, earning a Special Palme d'Or. His final projects—*Trailer of the Film That Will Never Exist: "Phony Wars"* (2023) and the unfinished *Scenarios* (completed posthumously by Fabrice Aragno for 2024 Cannes)—were described by Aragno as connected gestures, "not just full stops."
+
+## Terms
+- ****French New Wave**** — A 1950s–60s film movement characterized by rejection of literary adaptation, location shooting, lightweight cameras, improvisation, and auteur theory; Godard was its most radical exponent.
+- ****Jump cut**** — An edit that removes a portion of a continuous shot, causing the subject to "jump" forward in time; Godard used it in *Breathless* to disrupt continuity and accelerate narrative rhythm.
+- ****Caméra-stylo**** — "Camera-pen"; Alexandre Astruc’s concept of cinema as a writing tool as flexible as a pen; *Breathless* was hailed as its first authentic realization.
+- ****Découpage classique**** — Classical editing/decoupage; the system of shot-reverse-shot and eyeline matches constructing spatial continuity; Godard defended it against Bazin’s "realism" in 1952, then deconstructed it in practice.
+- ****Verfremdungseffekt**** — "Alienation effect"; Brecht’s technique of preventing audience immersion by exposing theatrical artifice (direct address, visible lighting, song); Godard transposed this to film via sound/image separation and intertitles.
+- ****Dziga Vertov Group**** — A collective (1968–1972) formed by Godard and Jean-Pierre Gorin, named for the Soviet documentarian; made militant, collectively authored films rejecting commercial production and the auteur cult.
+- ****Commodity fetishism**** — Marx’s concept where social relations between people appear as relations between things; Godard structured *Une femme mariée* around this, treating characters as commodities.
+- ****Histoire(s) du cinéma**** — Godard’s 1988–1998 multi-part video series; a dense, associative history of cinema and the 20th century, mixing archives, painting, philosophy, and personal reflection.
+- ****Sonimage**** — Alternative video production/distribution company founded by Godard and Anne-Marie Miéville in Grenoble (1972); produced TV series and features like *Numéro Deux* (1975).
+- ****Shirley cards**** — Reference cards used by photo labs to calibrate skin tones; historically featured only Caucasian models, causing poor rendering of dark skin; Godard denounced this as "inherently racist" (1978).
+
+## Debates and open questions
+- **Misogyny vs. critique of patriarchy**: Feminist theorist Laura Mulvey calls Godard a "goldmine" for feminist curiosity, arguing his cinema "knows its own entrapment," while critics cite prevailing themes of sexism; Godard later admitted "imbecilic remarks" but claimed the production machinery terrorized women.
+- **Anti-Semitism allegations**: Sparked by a 1981 TV remark ("Moses is my principal enemy... the Jewish people are accursed") and 2010 honorary Oscar debates; defenders (Richard Brody) cite his serious Holocaust imagery and anti-Zionist (not anti-Semitic) stance; the debate remains unresolved.
+- **Political sincerity vs. aestheticization**: Critics debate whether his Maoist films (1968–79) were genuine revolutionary praxis or aestheticized radicalism; Godard later expressed disappointment with Maoist ideals and attempted suicide (per biographer Antoine de Baecque).
+- **Late work: decline or culmination?**: *Histoire(s) du cinéma* and the 3D films are viewed either as hermetic, difficult codas or as the synthesis of his career-long interrogation of image, history, and technology.
+- **Auteur vs. collective authorship**: Godard oscillated between fierce auteurism (1960s) and anonymous collectivity (Dziga Vertov Group), finally settling into a stable collaboration with Miéville; the tension between "Godard the brand" and "Godard the critic" structures his reception.

@@ -1,0 +1,61 @@
+# Osamu Tezuka
+
+## Overview
+Osamu Tezuka (1928–1989) was a Japanese manga artist, animator, and producer whose prolific output—over 700 volumes and 150,000 pages—earned him titles such as "the Father of Manga" and "the God of Manga." Inspired by Disney animation and the Chinese film *Princess Iron Fan*, he launched the post-war manga revolution with *New Treasure Island* (1947), establishing the cinematic visual grammar and serialized storytelling that defined the medium. He founded Mushi Productions in 1961, pioneering the limited-animation techniques that made weekly TV anime economically viable, beginning with *Astro Boy* (1963). In his later career, he pivoted to *gekiga* (dramatic pictures), creating adult-oriented, literary works like *Phoenix*, *Black Jack*, and *Buddha*. His "Star System" of recurring character-actors and his influence on generations of creators globally cement his status as the foundational architect of modern Japanese comics and animation.
+
+## Timeline
+- **3 Nov 1928** — Born in Toyonaka, Osaka, into a prosperous, well-educated family.
+- **1945** — Accepted into Osaka University to study medicine; begins publishing professional manga.
+- **1947** — Publishes *New Treasure Island* (*Shin Takarajima*), an overnight success triggering the "golden age of manga."
+- **1951** — Graduates from Osaka School of Medicine; publishes *Ambassador Atom*, introducing the Astro Boy character.
+- **4 Feb 1952** — Begins serialization of *Tetsuwan Atom* (*Astro Boy*) in *Shonen* magazine; becomes a national phenomenon.
+- **1954** — Begins *Phoenix* (*Hi no Tori*), his self-declared "life's work," spanning past to future.
+- **1961** — Founds Mushi Productions, recruiting animators from Toei with double salaries.
+- **1 Jan 1963** — *Astro Boy* premieres as Japan's first domestically produced 30-minute weekly TV anime; establishes limited-animation cost model.
+- **1965** — *Jungle Emperor* (*Kimba the White Lion*) becomes Japan's first color TV anime series.
+- **1967** — Launches magazine *COM* in response to the *gekiga* movement; shifts to realistic art style and adult themes.
+- **1968** — Steps down as acting director of Mushi Productions to found Tezuka Productions.
+- **1973** — Mushi Productions collapses financially; fallout produces influential studios like Sunrise.
+- **9 Feb 1989** — Dies of stomach cancer in Tokyo; *Phoenix* remains unfinished.
+
+## Body
+
+### Early Influences and Formative Years
+Tezuka’s artistic DNA fused Western animation with Japanese theatrical tradition. His father screened Disney films (he reportedly saw *Bambi* over 80 times), while his mother took him to the Takarazuka Revue, an all-female musical troupe whose performers' "large, sparkling eyes" directly inspired Tezuka’s signature character design. The 1941 Chinese animated feature *Princess Iron Fan* catalyzed his desire to become an animator. A childhood encounter with a ground beetle named *Osamushi* provided his pen name. During WWII, he was drafted to a factory but continued drawing; he entered medical school in 1945. He graduated from Osaka University and obtained his medical degree, a background that later informed the biological detail of *Black Jack* and his sci-fi works.
+
+### The Manga Revolution and *New Treasure Island*
+At 17, Tezuka published his first professional work, *Diary of Ma-chan* (1946). Collaborating with Shichima Sakai, he adapted *Treasure Island* into *New Treasure Island* (1947), released in the *akahon* (red-book) format. Unlike typical *akahon*, Tezuka introduced 200-page complexity, cinematic panel layouts influenced by Milt Gross’s *He Done Her Wrong*, moral ambiguity, and romaji titles. The work sold 400,000 copies, igniting a manga boom comparable to the American Golden Age of comics. While still a medical student, he produced a sci-fi trilogy—*Lost World* (1948), *Metropolis* (1949), *Nextworld* (1951)—and became central to the magazine *Manga Shōnen* (1947–55), where he serialized *Kimba the White Lion* and ran the instructional column "Manga Classroom," mentoring a generation of artists.
+
+### Astro Boy, TV Animation, and the Mushi Pro Model
+*Astro Boy* originated when Tezuka’s producer suggested giving the popular robot character Atom human emotions; a punch from an American G.I. inspired themes of alien/robot discrimination. Serialized from 1952, it became a sensation. After a frustrating stint directing *Saiyuki* (*Alakazam the Great*, 1960) at Toei Animation—where his 500-page storyboard was deemed unpractical for film but introduced limited animation to the studio—Tezuka founded Mushi Productions in 1961. To launch *Astro Boy* on TV (1963), he undercut competitors by cutting per-episode costs to 2.5 million yen via "shooting on threes," stop images, repetition, and short shots—techniques refined, not invented, at Mushi Pro. Sound design masked visual shortcuts. Survival depended on selling 52 episodes to NBC Enterprises; U.S. localization imposed strict censorship (no Japanese signage, religion, nudity, or multi-episode arcs). *Jungle Emperor* (1965) followed as Japan’s first color TV anime. Mushi Pro’s financial model proved unsustainable; two adult animated features (*A Thousand and One Nights*, 1969; *Cleopatra*, 1970) failed to save it. The studio collapsed in 1973, spinning off influential studios like Sunrise.
+
+### The Gekiga Turn and Literary Masterpieces
+In 1967, responding to the alternative magazine *Garo* and the *gekiga* (dramatic pictures) movement, Tezuka launched *COM* magazine and radically shifted from Disney-esque slapstick to a realistic, adult-oriented style. This turn began with *Dororo* and *Vampires* (1967), followed by *Swallowing the Earth* and *I.L.*. Major *gekiga* works include *Phoenix* (1954–88, unfinished), a cosmic cycle on immortality and reincarnation; *Black Jack* (1973–83), a rogue surgeon thriller leveraging his medical knowledge; and *Buddha* (1972–83), a gritty biography of Siddhartha Gautama. He also produced numerous short-story collections (*The Crater*, *Record of the Glass Castle*). In the 1980s, his tone softened with *Message to Adolf*, *Midnight*, and the unfinished *Ludwig B* and *Neo Faust*.
+
+### Style: Cinematic Grammar, Star System, and Visual Quotation
+Tezuka’s "cinematic" page layouts employed deep-focus cinematography (exemplified in *Metropolis*), simulated pans, zooms, and close-ups to create motion illusion. His "dyadic visual jokes"—cute creatures intruding on dramatic scenes—broke tension, reminding readers of the fictional frame. He adapted real-time trends (e.g., the "kiss-scene" boom) while juxtaposing them with Japanese motifs like "glorification of self-sacrifice." His **Star System** cast a repertoire of stock characters into different roles across works, creating intertextual history and enabling meta-commentary on celebrity and performance. The "large eyes" style synthesized Takarazuka Revue aesthetics with Betty Boop, Mickey Mouse, and Bambi.
+
+### Personal Life and Key Relationships
+A descendant of the ninja Hattori Hanzō, Tezuka chose manga over medicine after his mother advised: "You should work doing the thing you like most of all." He married Etsuko Okada in 1959. He met Walt Disney at the 1964 New York World’s Fair; in a 1986 diary entry, Tezuka stated that Disney wanted to hire him for a potential science fiction project. Stanley Kubrick, a fan of *Astro Boy*, invited him to art-direct *2001: A Space Odyssey* (1965); Tezuka declined due to scheduling but played the soundtrack while working. His son, Makoto Tezuka, became a film/anime director. In 2014, his daughter Rumiko opened a drawer to her father's desk which had been locked since his death. In it she found a half-eaten piece of chocolate, a handwritten essay about Katsuhiro Otomo in regard to his good work on *Akira*, sketches from his various projects, and a large number of erotic sketches of anthropomorphic animals.
+
+### Legacy and Global Influence
+Tezuka’s influence spans the entire manga/anime ecosystem. He directly mentored Shotaro Ishinomori and Go Nagai. An exhaustive roster of major creators cite him as foundational: Hayao Miyazaki, Akira Toriyama, Naoko Takeuchi, CLAMP, Katsuhiro Otomo, Masamune Shirow, Kentaro Miura, Rumiko Takahashi, Hirohiko Araki, Naoki Urasawa (who adapted *Astro Boy* into *Pluto* with Takashi Nagasaki), and many others. Western admirers include Will Eisner, Art Spiegelman, Scott McCloud, and filmmakers Akira Kurosawa, Stanley Kubrick, and Guillermo del Toro. Game designers Shigeru Miyamoto, Yuji Horii, Hideo Kojima, and Fumito Ueda acknowledge his impact. In a 2006 Nippon TV poll, he ranked 24th among "Top 100 Historical Persons in Japan" (sole mangaka). The Japan Media Arts Festival’s 2006 "Greatest Manga" list placed *Phoenix* 1st, *Black Jack* 5th, and *Astro Boy* tied 6th—he was the only creator with multiple top-10 entries. Posthumous honors include the Osamu Tezuka Manga Museum (Takarazuka, 1994), Eisner Hall of Fame induction (2002), and AI-generated "new" Tezuka works (*Paidon*, 2020) under the "Tezuka 2020" project.
+
+## Terms
+- ****Manga**** — Japanese comics/graphic novels; Tezuka codified its modern cinematic grammar and serialized magazine format.
+- ****Akahon**** — "Red books": cheap, 200-page comic booklets on *senkashi* paper with bright red covers, dominant in early post-war Japan; Tezuka elevated the format with *New Treasure Island*.
+- ****Gekiga**** — "Dramatic pictures": a style/movement from the late 1950s/60s emphasizing realism, adult themes, and literary ambition; Tezuka adopted it in 1967 via *COM* magazine.
+- ****Limited Animation**** — Cost-saving technique using fewer drawings per second (e.g., "shooting on threes," held frames, repeated cycles); refined at Mushi Pro for TV viability.
+- ****Star System**** — Tezuka’s method of casting a stable of stock characters (performers) into different roles (performances) across unrelated works, creating intertextual continuity.
+- ****Mushi Productions**** — Tezuka’s animation studio (1961–73); pioneered TV anime production model with *Astro Boy*; bankruptcy spawned studios like Sunrise.
+- ****Takarazuka Revue**** — All-female musical theater troupe (Takarazuka, Hyōgo); its performers' large eyes and romantic, costume-heavy spectacles shaped Tezuka’s art style and *shōjo* sensibility.
+- ****Phoenix (Hi no Tori)**** — Tezuka’s self-declared "life's work" (1954–88); a multi-era epic on immortality, reincarnation, and cosmic cycles; unfinished at his death.
+- ****Deep-Focus Cinematography**** — Film technique keeping foreground, middle-ground, and background in simultaneous sharp focus; Tezuka translated this into single manga panels (notably *Metropolis*).
+- ****Shōjo Manga**** — Manga targeting girls/young women; Tezuka’s *Princess Knight* (1953) is a foundational narrative-focused work featuring an androgynous heroine.
+
+## Debates and open questions
+- **Disney equivalence**: The "Japanese Walt Disney" label praises his early child-friendly output but obscures the radical divergence of his later *gekiga* works, which share no tonal or thematic kinship with Disney’s studio style.
+- **Princess Knight’s gender politics**: Critics remain split on whether *Princess Knight* (a girl raised as a boy) advances feminist ideals or reinforces 1950s–60s misogynist norms; the ambiguity fuels ongoing scholarly debate.
+- **Mushi Pro’s labor model**: Tezuka’s cost-cutting (double Toei wages but brutal deadlines, unpaid overtime, credit appropriation) established the exploitative production norms that persist in the anime industry today.
+- **Phoenix’s incompleteness**: The unfinished state of his magnum opus raises hermeneutic questions: does the fragmentation mirror the work’s theme of eternal recurrence, or does it represent a failure of the "life's work" concept?
+- **AI continuation (Tezuka 2020)**: The 2020 AI-generated *Paidon* project, endorsed by his son and Tezuka Productions, reopens debates on authorship, style transfer, and whether a "new Tezuka work" is possible without the creator’s consciousness.

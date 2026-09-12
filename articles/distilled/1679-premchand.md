@@ -1,0 +1,60 @@
+# Premchand
+
+## Overview
+Munshi Premchand (born Dhanpat Rai Srivastava, 1880–1936) is the foundational figure of modern Hindustani literature, pioneering serious realism in both Hindi and Urdu. He shifted Indian fiction away from romantic fantasy toward unflinching depictions of caste oppression, gender injustice, peasant poverty, and colonial exploitation. His career traces a trajectory from patriotic short stories written under British censorship to mature novels like *Godaan* (1936), which synthesize social critique with psychological depth. A schoolteacher who resigned in 1921 to join Gandhi’s non-cooperation movement, Premchand endured chronic debt and ill health while producing over 300 stories and fourteen novels, establishing the short story and novel as major forms in Hindi and Urdu.
+
+## Timeline
+- **31 July 1880** — Born Dhanpat Rai in Lamhi village near Banaras to a Kayastha family; father Ajaib Lal was a post office clerk.
+- **1895** — Married at age 15 while in ninth grade; father died 1897; failed to secure fee concession after matriculation (second division).
+- **1900–1905** — Worked as assistant teacher at Government District Schools in Bahraich and Pratapgarh; wrote first novel *Asrar-e-Ma'abid* (serialized 1903–05).
+- **1905–1909** — Posted at Kanpur; met editor Munshi Daya Narain Nigam; published first story "Duniya ka Sabse Anmol Ratan" (1907) and collection *Soz-e-Watan* (1907), later banned as seditious.
+- **1909** — British officials raided home, burned copies of *Soz-e-Watan*; adopted pen name "Premchand" on Nigam’s advice.
+- **1914–1917** — Switched from Urdu to Hindi publishing (first Hindi story "Saut," 1915; first Hindi collection *Sapta Saroj*, 1917).
+- **Aug 1916** — Transferred to Gorakhpur as Assistant Master; earned BA from Allahabad University (1919); published *Seva Sadan* (1919), his breakthrough novel.
+- **8 Feb 1921** — Resigned government post (Deputy Inspector of Schools) after Gandhi’s non-cooperation call; moved to Banaras to write full-time.
+- **1923–1930** — Founded Saraswati Press (1923); published major novels *Rangbhoomi* (1924), *Nirmala* (1925), *Pratigya* (1927), *Gaban* (1928); launched weekly *Hans* (1930).
+- **1931–1934** — Brief stint at Marwari College, Kanpur; edited *Maryada*, *Madhuri*; published *Karmabhoomi* (1932).
+- **May 1934 – Apr 1935** — Worked as scriptwriter for Ajanta Cinetone in Bombay; wrote film *Mazdoor* (banned in Bombay); press workers struck over unpaid wages.
+- **1936** — Elected first President of Progressive Writers’ Association (Lucknow); published *Godaan* and "Kafan"; died 8 October 1936.
+
+## Body
+
+### Early Life and Education
+Premchand was born into a Chitraguptavanshi Kayastha family owning eight to nine bighas of land in Lamhi. His grandfather was a *patwari* (village land record-keeper); his father, a postal clerk, moved frequently. After his mother died when he was eight and his grandmother soon after, Premchand grew up isolated, finding solace in fiction—Persian epics like *Tilism-e-Hoshruba* and English novels such as Reynolds’s *The Mysteries of the Court of London*. He composed an unpublished farce at Gorakhpur mocking his uncle’s disdain for his reading habit. Formal education ended after matriculation (second division, 1897) when he failed arithmetic for Central Hindu School admission. He then tutored an advocate’s son for five rupees monthly, living in a mud cell above stables, before securing a teaching post at a missionary school in Chunar (₹18/month) in 1899.
+
+### Literary Apprenticeship and the Kanpur Years (1900–1909)
+Premchand’s first novel, *Asrar-e-Ma'abid* ("Secrets of God’s Abode," serialized 1903–05), exposed temple priest corruption and sexual exploitation of poor women; critics Schulz and Gupta call it immature and schematically moralistic. At Kanpur (1905–09), he joined the circle of *Zamana* editor Munshi Daya Narain Nigam. Early stories like "Duniya ka Sabse Anmol Ratan" (1907) equated the "most precious jewel" with the last drop of blood for independence, reflecting nationalist fervor. His novel *Hamkhurma-o-Hamsavab* (*Prema*, 1907) advocated widow remarriage, though Gupta notes it lacks mature discipline. The 1907 collection *Soz-e-Watan* (four patriotic stories) was banned by British authorities; in 1909, Hamirpur collector James Samuel Stevenson ordered a raid burning ~500 copies. Nigam then suggested the pseudonym "Premchand," replacing "Nawab Rai."
+
+### Language Shift and Gorakhpur Maturity (1914–1921)
+By 1914 Premchand began writing in Hindi (the Sanskritized register of Hindustani), prompted by difficulty finding Urdu publishers, per Sumit Sarkar. First Hindi story "Saut" appeared in *Saraswati* (Dec 1915); first Hindi collection *Sapta Saroj* (June 1917). At Gorakhpur (1916–21), he befriended bookseller Buddhi Lal, translated classics, and earned a BA (1919). *Seva Sadan* (1919), originally Urdu *Bazaar-e-Husn*, depicts an unhappy housewife who becomes a courtesan then runs an orphanage for courtesans’ daughters; it earned ₹450 from a Calcutta publisher and critical acclaim. Promoted to Deputy Inspector of Schools (1921), Premchand resigned on 8 February 1921 after Gandhi’s non-cooperation appeal, despite ill health, a pregnant wife, and two children.
+
+### Banaras: Full-Time Writer, Publisher, and Editor (1921–1934)
+Premchand returned to Banaras on 18 March 1921, facing lifelong financial strain and chronic illness. He founded Saraswati Press (1923). *Rangbhoomi* (1924), featuring blind beggar Surdas, shows "marked progress" in style though with structural flaws (Schulz). *Nirmala* (1925, serialized in *Chand*) tackled the dowry system; *Pratigya* (1927) revisited widow remarriage; both achieve a "balanced, realistic level" (Schulz). *Gaban* (1928) critiques middle-class greed. He launched the literary-political weekly *Hans* (March 1930) to mobilize against British rule; it lost money, as did *Jagaran*, which he later edited. *Karmabhoomi* (1932) addressed political oppression and educational reform. He briefly headed Kashi Vidyapeeth, then edited *Madhuri* in Lucknow.
+
+### Bombay Interlude and Final Years (1934–1936)
+Seeking ₹8,000/year to clear debts, Premchand joined Ajanta Cinetone in Bombay (May 1934). He scripted *Mazdoor* ("The Labourer"), directed by Mohan Bhawnani, depicting mill workers’ exploitation; he cameoed as a labor leader. The film was banned in Bombay after inspiring worker protests, then banned again in Lahore and Delhi. Ironically, his own Saraswati Press workers struck over unpaid wages (press debt: ₹400). Disliking the commercial film milieu, he left Bombay on 4 April 1935, breaking his one-year contract. He hoped to settle in Allahabad near his sons but financial and health crises forced him to hand *Hans* to the Indian Literary Counsel and return to Banaras. Elected first President of the Progressive Writers’ Association (Lucknow, 1936), he died in office on 8 October 1936. *Godaan* (1936), his last completed novel, follows peasant Hori’s desperate longing for a cow—symbol of rural wealth—and is judged by Schulz as "well-structured and well-balanced" by Western standards. "Kafan" (1936) portrays a poor man diverting funeral funds to food and drink. His final story, "Cricket Match," appeared posthumously in *Zamana* (1938).
+
+### Style, Influences, and Literary Significance
+Premchand is credited as the first Hindi author to center realism. His fiction targets corruption, child widowhood, prostitution, feudalism, poverty, and colonialism, framing religious values as tools for hypocrites to exploit the weak. Early political influence: moderate Gopal Krishna Gokhale, then extremist Bal Gangadhar Tilak; he deemed Minto–Morley and Montagu–Chelmsford Reforms inadequate. Censorship forced allegorical settings (medieval/foreign) for anti-British satire. Vivekananda’s teachings also shaped him. In the 1920s, Gandhi’s non-cooperation and social reform agenda directed his focus to zamindari exploitation (*Premashram*, 1922), dowry (*Nirmala*), and peasant economic liberalization; he opposed rapid industrialization as harmful to peasants and workers (*Rangbhoomi*). Scholar David Rubin (1969) argues Premchand "virtually single-handed" created the serious short story and novel in Hindi and Urdu, lifting them from "aimless romantic chronicles" to European-level realistic narrative. In his final phase, he elevated village life as a stage for complex drama (*Godaan*, *Kafan*), advocating social realism over the "feminine quality" of contemporary Bengali literature.
+
+### Legacy and Adaptations
+India Post issued a 30-paise stamp (31 July 1980). His Lamhi ancestral house is being restored; an institute and the Munshi Premchand Mahavidyalaya (Siliguri) bear his name. An Archive Centre at Jamia Millia Islamia holds his legacy (he wrote "Kafan" there). Google Doodle honored his 136th birthday (31 July 2016). Major film adaptations: *Sevasadanam* (1938, M.S. Subbulakshmi); *Gaban* (1966, Sunil Dutt); *Shatranj ke Khiladi* (1977, Satyajit Ray, National Film Award); *Oka Oori Katha* (1977, Mrinal Sen, Telugu, from "Kafan"); *Saanch Ko Aanch Nahin* (1979, Satyen Bose, from "Panch Parmeshwar"); *Bazaar E Husn* (2014); *Ek Betuke Aadmi Ki Afrah Raatein* (2019, blending Dostoevsky and Premchand’s "Bhoot"). Doordarshan aired series *Munshi Premchand's Guldasta*, *Munshi Premchand ki Kahani*, *Tehreer Munshi Premchand Ki*, and telefilms *Sadgati* and *Seva Sadan*.
+
+## Terms
+- **Hindustani**: The common language base of Hindi and Urdu; Hindi draws vocabulary from Sanskrit, Urdu from Persian/Arabic.
+- **Patwari**: Village land record-keeper and revenue official.
+- **Soz-e-Watan** ("Sorrow of the Nation"): Premchand’s first story collection (1907), banned by British as seditious.
+- **Non-cooperation movement (1920–22)**: Gandhi-led mass civil disobedience urging Indians to resign government posts, boycott courts/schools, and reject British goods.
+- **Zamindari**: Feudal land tenure system where *zamindars* (landlords) collected rent from peasants for the colonial state.
+- **Progressive Writers’ Association (1936)**: Left-leaning literary collective advocating social realism and anti-imperialism; Premchand was its first President.
+- **Godaan** ("The Gift of a Cow"): Premchand’s final novel (1936), centered on peasant Hori’s quest for a cow as status and security.
+- **Kafan** ("Shroud"): 1936 short story where a destitute couple spends funeral money on food, exposing poverty’s moral erosion.
+- **Mazdoor** ("The Labourer"): Premchand’s only film script (1934), banned for inciting mill workers; he acted in a cameo.
+- **Saraswati Press**: Premchand’s publishing house founded in Banaras (1923), later debt-ridden (₹400 by 1934–35).
+
+## Debates and open questions
+- **International neglect**: Schulz argues Premchand’s global obscurity (vs. Tagore/Iqbal) stems from poor translations and his never traveling abroad or engaging foreign literary circles; this remains a contested explanation.
+- **Early novel quality**: Critics (Schulz, Gupta) unanimously dismiss *Asrar-e-Ma'abid*, *Prema*, and *Kishna* as immature, but debate whether they show "seeds of future greatness" (Gupta) or merely schematic moralism.
+- **Realism vs. didacticism**: Schulz praises *Godaan*’s structural balance by "Western literary standards," yet notes *Rangbhoomi*’s "too many authorial explanations"; scholars differ on whether Premchand’s didactic impulses undermine or serve his realism.
+- **Industrialization stance**: His opposition to rapid industrialization (*Rangbhoomi*) as anti-peasant is read variously as Gandhian economic nationalism or a conservative reluctance toward modernity.
+- **Language politics**: The switch from Urdu to Hindi (1914) is attributed to market constraints (Sarkar), but its role in shaping Hindi literary canon formation versus Urdu’s separate trajectory is debated.

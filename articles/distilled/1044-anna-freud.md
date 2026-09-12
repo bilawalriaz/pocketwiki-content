@@ -1,0 +1,63 @@
+# Anna Freud
+
+## Overview
+Anna Freud (1895–1982) was an Austrian-British psychoanalyst and the youngest daughter of Sigmund Freud. She is widely regarded, alongside Melanie Klein and Hermine Hug-Hellmuth, as a founder of psychoanalytic child psychology. While her father emphasized the id and unconscious drives, Anna Freud shifted focus to the **ego** (the conscious, rational part of the psyche that mediates between drives and reality) and its **defense mechanisms** (unconscious strategies used to reduce anxiety). She established the Hampstead Child Therapy Course and Clinic in London (now the Anna Freud National Centre for Children and Families), pioneering the use of direct observation and "developmental lines" to chart normal growth from dependency to self-reliance. Her work bridged classical drive theory and modern object relations, though her theoretical loyalty to her father remained absolute.
+
+## Timeline
+- **3 Dec 1895** — Born in Vienna, Austria-Hungary, youngest child of Sigmund Freud and Martha Bernays.
+- **1914–1920** — Works as teaching apprentice and head teacher at Cottage Lyceum; resigns due to tuberculosis.
+- **1918–1929** — Undergoes two periods of training analysis with her father; becomes his nurse and secretary after his 1923 cancer diagnosis.
+- **1922** — Presents "Beating Fantasies and Daydreams" to Vienna Psychoanalytical Society; becomes member.
+- **1927** — Publishes *An Introduction to the Technique of Child Analysis*; co-founds Hietzing School with Dorothy Burlingham and Eva Rosenfeld.
+- **1935–1936** — Becomes director of Vienna Psychoanalytical Training Institute; publishes *The Ego and the Mechanisms of Defence*, founding text of ego psychology.
+- **1938** — Interrogated by Gestapo after Anschluss; flees Vienna with family to London (20 Maresfield Gardens).
+- **1941–1945** — Establishes Hampstead War Nurseries with Dorothy Burlingham; publishes observational studies on war trauma and peer attachment.
+- **1942–1944** — Participates in "Controversial Discussions" in British Psychoanalytic Society against Melanie Klein; compromise establishes parallel training courses.
+- **1952** — Establishes Hampstead Child Therapy Course and Clinic (later Anna Freud Centre).
+- **1965** — Publishes *Normality and Pathology in Childhood*, systematizing "developmental lines."
+- **1973–1986** — Collaborates with Joseph Goldstein and Albert J. Solnit on *Beyond the Best Interests of the Child* trilogy, influencing family law.
+- **9 Oct 1982** — Dies in London; ashes placed in "Freud Corner" at Golders Green Crematorium.
+
+## Body
+
+### Early Life and Education in Vienna
+Anna Freud grew up in "comfortable bourgeois circumstances" but experienced a troubled childhood marked by a distant relationship with her mother, Martha Bernays, and intense rivalry with her elder sister Sophie. She was nurtured primarily by a Catholic nurse, Josephine, and suffered from anxiety, "unreasonable thoughts," and a possible mild eating disorder, requiring stays at health farms. Despite this, she shared a uniquely close bond with her father, who described her as "downright beautiful through naughtiness." She excelled at the Cottage Lyceum, mastering English, French, and Italian, and initially pursued a teaching career. After passing her teaching exam in 1914, she taught at her former school until 1920, when recurring tuberculosis forced her resignation.
+
+### Entry into Psychoanalysis and the Burlingham Partnership
+Encouraged by her father, Anna Freud began translating psychoanalytic papers in 1915 and attended his university lectures in 1916–17. She entered training analysis with him in 1918 (continuing intermittently until 1929). Following Freud’s 1923 jaw cancer diagnosis, she became his primary nurse, secretary, and representative at International Psychoanalytical Association (IPA) congresses. A pivotal relationship formed with **Lou Andreas-Salomé**, a colleague of her father, who mentored Anna from 1921 onward, bolstering her confidence as a theorist and clinician.
+
+In 1925, **Dorothy Burlingham**, a Tiffany heiress, arrived in Vienna with her four children for analysis. Anna analyzed the children, and the two women formed an intimate, lifelong partnership—living together, co-parenting the Burlingham children, and buying a cottage in 1930—though Anna categorically denied a sexual relationship. Together with Eva Rosenfeld, they founded the **Hietzing School** (1927–1932), a psychoanalytically informed school where Erik Erikson and Peter Blos began their careers. In 1937, funded by Edith Jackson, they opened the Jackson Nursery for impoverished infants, pioneering systematic observational record-keeping later used in London.
+
+### Theoretical Breakthrough: Ego Psychology and Defense Mechanisms
+Anna Freud’s 1936 monograph, *The Ego and the Mechanisms of Defence*, established **ego psychology** as a distinct school. While Sigmund Freud viewed the ego as largely a servant of the id, Anna argued the ego had autonomous functions and developed a comprehensive taxonomy of defense mechanisms. Drawing on her father’s writings and her clinical work, she catalogued regression, repression, reaction formation, isolation, undoing, projection, introjection, turning against the self, reversal, and sublimation. Crucially, she added two original concepts: **altruistic surrender** (excessive anxiety for a love object’s welfare, displacing one's own desires) and **identification with the aggressor** (adopting the traits of a feared figure to master anxiety). She emphasized the **latency period** (roughly ages 6–12) over the pre-Oedipal phase, viewing adolescent turmoil as a breakdown of latency-era reaction formations under the pressure of pubertal drives.
+
+### Escape from Vienna and the London War Nurseries
+Following the 1938 **Anschluss** (Nazi annexation of Austria), Anna Freud was interrogated by the Gestapo regarding IPA assets. She and her brother Martin had secured Veronal (a barbiturate) for suicide if tortured, but she survived interrogation. She organized the family’s complex escape to London, settling at 20 Maresfield Gardens, Hampstead. In 1941, she and Burlingham established the **Hampstead War Nurseries** in Hampstead and Essex for children displaced by the Blitz. Mothers were encouraged to visit; staff were recruited from the exiled Austro-German diaspora. Their observational studies, published as *Infants Without Families* and *War and Children*, documented children’s capacity to form substitute peer attachments in the absence of parents—a finding that challenged prevailing maternal deprivation theories. Post-war, they ran the **Bulldog Banks Home** for child survivors of concentration camps.
+
+### The Controversial Discussions and Institutional Legacy
+In the British Psychoanalytic Society (BPS), a fierce theoretical war erupted between Anna Freud and **Melanie Klein**. Klein viewed children’s play as equivalent to adult free association, enabling analysis of the pre-Oedipal **super-ego** (the internalized moral conscience). Anna Freud rejected this equivalence, arguing the child’s ego was too immature for analysis proper; she advocated an "educative intervention" until the Oedipal stage (roughly age 4–5). To prevent a split, BPS President Ernest Jones chaired the **Controversial Discussions (1942–1944)**. The 1944 compromise created three parallel training courses: Freudian, Kleinian, and Independent (Middle Group), with proportional representation on all policy committees—a structure that persists.
+
+In 1952, Anna Freud and Burlingham founded the **Hampstead Child Therapy Course and Clinic**, integrating therapy, training, and research. She assembled a leading group of developmental analysts (Erik Erikson, Elisabeth Geleerd, Edith Jacobson, Margaret Mahler) who linked childhood symptoms to adult personality disorders via developmental stages. Her 1965 work *Normality and Pathology in Childhood* formalized **developmental lines**—charts tracking theoretical normal growth "from dependency to emotional self-reliance"—synthesizing her father’s drive model with object relations’ emphasis on parental relationships.
+
+### Later Work: Law, Advocacy, and Legacy
+From the 1950s, Anna Freud lectured regularly in the U.S., securing funding from the National Institute of Mental Health and a bequest from Marilyn Monroe’s estate (via analyst Marianne Kris). In the 1970s, she focused on emotionally deprived children and, at Yale Law School, collaborated with Joseph Goldstein and Albert J. Solnit on children’s rights. Their trilogy—*Beyond the Best Interests of the Child* (1973), *Before the Best Interests of the Child* (1979), *In the Best Interests of the Child* (1986)—argued for legal standards prioritizing the child’s psychological needs (continuity of attachment, developmental timetable) over adult rights, profoundly influencing family law.
+
+She remained a guardian of her father’s legacy, warning against diluting his emphasis on intrapsychic conflict (ideals vs. drives) into a simplistic "longing for perfect unity with mother." Jacques Lacan called her "the plumb line of psychoanalysis"—not the builder, but the gauge of verticality. She died in 1982; her home became the Freud Museum in 1986.
+
+## Terms
+- ****Ego**** — In psychoanalytic theory, the conscious, rational part of the psyche that mediates between instinctual drives (id), moral constraints (super-ego), and external reality.
+- ****Defense Mechanisms**** — Unconscious psychological strategies employed by the ego to manage anxiety and protect the self from unacceptable impulses or external threats (e.g., repression, projection).
+- ****Identification with the Aggressor**** — A defense mechanism (coined by Anna Freud) where a victim internalizes the attributes of a threatening figure to transform passive anxiety into active mastery.
+- ****Altruistic Surrender**** — A defense mechanism (coined by Anna Freud) involving excessive, self-effacing concern for a love object’s welfare, displacing one’s own forbidden desires onto the other.
+- ****Developmental Lines**** — Anna Freud’s conceptual framework charting normal psychological growth across specific domains (e.g., feeding, bodily control, object relations) from dependency to emotional self-reliance.
+- ****Latency Period**** — The developmental phase (approx. ages 6–puberty) where sexual drives are sublimated into intellectual and social pursuits; Anna Freud considered this crucial for ego consolidation.
+- ****Super-ego**** — The internalized moral conscience and ideal self, formed through identification with parental prohibitions; central to the Freud-Klein theoretical dispute.
+- ****Controversial Discussions**** — Wartime meetings (1942–44) in the British Psychoanalytic Society chaired by Ernest Jones to resolve the theoretical split between Anna Freud and Melanie Klein.
+- ****Ego Psychology**** — A school of psychoanalysis emphasizing the ego’s autonomous adaptive functions (perception, memory, motor control) and defense mechanisms, founded largely by Anna Freud’s 1936 work.
+- ****Hampstead War Nurseries**** — Residential nurseries (1941–45) founded by Anna Freud and Dorothy Burlingham for children separated from parents by WWII, serving as a laboratory for observational child development research.
+
+## Debates and open questions
+*   **Sexuality and Clinical Bias:** Historian Élisabeth Roudinesco argues Anna Freud’s repression of her own homoerotic feelings (evident in her intense, lifelong partnership with Dorothy Burlingham) led her to pathologize homosexuality in her clinical work and advocate for the IPA policy barring homosexuals from training analysis. The source notes the absence of evidence for a sexual relationship and Anna’s explicit denials.
+*   **Freud vs. Klein: Technique with Children:** The core dispute concerned whether the pre-Oedipal child could be psychoanalyzed. Klein used play as free association; Anna Freud insisted the child’s dependence on real parents required an "educative" supportive role until the Oedipal stage, viewing Klein’s method as a "collusive inhibition" of true analysis.
+*   **Fidelity vs. Innovation:** Scholars debate whether Anna Freud was primarily a conservative guardian of her father’s classical drive theory or an innovative theorist who smuggled in object relations concepts (via developmental lines and the "second mother" transference) while maintaining orthodox language.
+*   **Impact on Family Law:** The "Best Interests" trilogy’s insistence on the "psychological parent" and developmental timetables is credited with modernizing custody law but criticized for potentially marginalizing biological parents and cultural variations in child-rearing.

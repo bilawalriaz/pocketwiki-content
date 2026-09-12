@@ -1,0 +1,60 @@
+# Nation
+
+## Overview
+A nation is a socially constructed, historically contingent form of collective identity—national identity—emerging from shared features such as language, history, ethnicity, culture, territory, or society. It is generally more overtly political than an ethnic group, defined by scholars like Benedict Anderson as an "imagined political community" and by Anthony D. Smith as a cultural-political community conscious of its autonomy. While people have long held attachments to kin and homeland, nationalism—the ideology that state and nation should align as a nation-state—did not become prominent until the late 18th century. The consensus holds nations are a distinctly modern phenomenon, though debate persists over whether earlier medieval or ancient groups qualify.
+
+## Timeline
+- **c. 1300** — English word *nation* enters Middle English from Old French *nacion* and Latin *natio* ("birth, origin, tribe").
+- **1349** — University of Prague divides students into *nationes* (Bohemian, Bavarian, Saxon, Polish).
+- **1383–1384** — Jean Gerson elected procurator for the French *natio* at the University of Paris.
+- **1436** — Pedro Tafur describes *nationes* hostels at Rhodes maintained by the Knights Hospitaller.
+- **1380s** — Wycliffe circle translates complete Bible into English; Adrian Hastings argues this renews English nationalism.
+- **Late 18th century** — Nationalism emerges as a prominent ideology aligning state and nation.
+- **1600** — Liah Greenfeld argues nationalism was invented in England by this date.
+- **1983** — Benedict Anderson publishes *Imagined Communities*, defining nations as imagined political communities.
+- **1992** — Samuel P. Huntington presents "Clash of Civilizations" lecture; Francis Fukuyama publishes *The End of History and the Last Man*.
+- **1993** — Huntington publishes "The Clash of Civilizations?" in *Foreign Affairs*.
+- **1996** — Huntington expands thesis in *The Clash of Civilizations and the Remaking of World Order*.
+
+## Body
+
+### Etymology and Terminology
+The English word *nation* derives from Middle English *nacioun* (c. 1300), via Old French *nacion* ("birth, rank; descendants, relatives; country, homeland") from Latin *natio* ("birth, origin; breed, stock, kind, species; race of people, tribe"), literally "that which has been born" from *nasci* ("be born"). In Latin, *natio* denoted children of the same birth or a human group of same origin; by Cicero it signified "people." In imperial Roman epigraphy, *natio* with an ethnonym marked a register of belonging positioned between civic membership and a more localized *origo*.
+
+### Nations in History: The Existence of Earlier Nations
+Scholars broadly agree nations are recent, but some historians trace them to the medieval period or antiquity. Adrian Hastings argues nations and nationalism are predominantly Christian phenomena, with Jews as the "true proto-nation" modeling nationhood through ancient Israel and the Hebrew Bible, maintaining cohesion via collective memory, religion, and sacred texts despite losing sovereignty, culminating in Zionism and modern Israel. Anthony D. Smith concurs that late Second Temple Jews approximate the ideal type of the nation. Susan Reynolds contends many European medieval kingdoms were nations in the modern sense, though political participation was limited to a prosperous, literate class. Hastings claims England's Anglo-Saxon kings mobilized mass nationalism against Norse invasions, citing Alfred the Great's use of biblical language and vernacular Bible translations, and argues for continuous English nationalism since the Wycliffe Bible (1380s). John Breuilly and Patrick J. Geary criticize this, arguing continued term usage does not prove continuity of meaning, as names were adapted to different circumstances. Florin Curta cites Medieval Bulgaria (founded 680–681) as another example: after adopting Orthodox Christianity (864) and inventing the Cyrillic script (eve of 10th century), a symbiosis of Bulgars and Slavs formed a distinct "Bulgarian" identity that survived centuries. Anthony Kaldellis asserts the Byzantine Empire was the Roman Empire transformed into a nation-state in the Middle Ages. Azar Gat argues China, Korea, and Japan were nations by the European Middle Ages. The *Bulletin de la Société de géographie* (1855) and later scholars argue the Serer ethnoreligious group of Senegambia (Senegal, Gambia, Mauritania) are a nation, originating from the ancient kingdom of Takrur (11th century), facing Islamic persecution and exile, leaving a significant cultural imprint.
+
+### Criticisms of Early Nationhood
+Patrick J. Geary rejects conflating early medieval and contemporary identities as a myth, arguing historians are "trapped in the very historical process we are attempting to study." Sami Zubaida notes many historical empires ruled ethnically diverse populations where shared ethnicity did not guarantee mutual support, and ethnicity was rarely the primary basis of identification in multinational empires. Paul Lawrence criticizes Hastings's reading of Bede's *Ecclesiastical History* as evidence of early English identity, arguing such texts reflect elite self-definition with minor significance for majority self-identification.
+
+### Use of *Nationes* by Medieval Universities and Institutions
+A significant early use of *natio* occurred at medieval universities to describe students born within a *pays* sharing language and law. At the University of Paris, Jean Gerson was elected procurator for the French *natio* (1383, 1384). The University of Prague (opened 1349) divided students into Bohemian, Bavarian, Saxon, and Polish *nationes*. Similarly, the Knights Hospitaller at Rhodes segregated *nationes* into separate hostels, each managed by a Knight providing for inmates according to their religion, as noted by Pedro Tafur (1436).
+
+### Early Modern Nations
+Philip S. Gorski argues the first modern nation-state was the Dutch Republic, born of a fully modern political nationalism rooted in biblical nationalism. Diana Muir Appelbaum extends this to a series of Protestant sixteenth-century nation-states. Anthony D. Smith similarly links "chosen peoples" and sacred sources to national identity. Liah Greenfeld argues nationalism was invented in England by 1600, making England "the first nation in the world." For Smith, creating a "world of nations" has profound geopolitical consequences, as forging national identity is a political action requiring map redrawing or regime alteration.
+
+### Social Science Perspectives
+Three perspectives explain nation development. **Primordialism (perennialism)** proposes nations have always existed and nationalism is natural; it reflects popular conceptions but has largely fallen from academic favor. **Ethnosymbolism** views nationalism as dynamic and evolving, stressing symbols, myths, and traditions. **Modernization theory** (dominant, constructivist) argues nationalism emerged from modernization processes—industrialization, urbanization, mass education—making national consciousness possible. Proponents describe nations as "imagined communities" (Benedict Anderson): material conditions allow imagining extended, shared connections; objectively impersonal, yet subjectively felt as embodied unity. Members remain strangers; nationalism is an "invented tradition" binding individuals in political solidarity via a foundational "story" of ethnic attributes, values, or narratives of belonging.
+
+Early constructivist critics include Ernest Renan ("What is a Nation?"), who defined a nation as "a daily referendum" based as much on shared forgetting as remembering. Carl Darling Buck (1916) argued nationality is "essentially subjective, an active sentiment of unity... based upon real but diverse factors... no one of which must be present in all cases." Late 20th-century scholars often distinguished two types: the **civic nation** (French republican model, traced to the French Revolution and 18th-century philosophers), centered on a willingness to "live together" (Renan's vision); and the **ethnic nation** (German model, from early 19th-century philosophers like Johann Gottlieb Fichte), defined by common language, religion, culture, history, and ethnic origins.
+
+### Debate About a Potential Future of Nations
+An ongoing debate concerns whether the nation-state framework will persist. Samuel P. Huntington's **clash of civilizations** theory (1992 lecture, 1993 *Foreign Affairs* article, 1996 book) argues cultural and religious identities will be the primary source of post–Cold War conflict, contrasting with Francis Fukuyama's "end of history" thesis (liberal democracy as final ideology). Huntington posits the world reverted to a normal state of cultural conflict. **Postnationalism** describes the trend where nation-states and national identities lose importance relative to supranational/global entities (multinational corporations, UN, EU), driven by economic globalization, financial internationalization, power transfer to supranational authorities, and new information technologies (Internet), though citizenship attachment often remains important. Jan Zielonka (University of Oxford) suggests the future will resemble a **neo-medieval** model of overlapping authorities, divided sovereignty, multiple identities, and fuzzy borders, rather than the Westphalian model of concentrated power, sovereignty, and clear-cut identity.
+
+## Terms
+- ****Nation**** — A socially constructed collective identity (national identity) emerging from shared features (language, history, ethnicity, culture, territory, society); more overtly political than an ethnic group.
+- ****Nationalism**** — The ideology that state and nation should align as a nation-state; became prominent late 18th century.
+- ****Imagined Community**** — Benedict Anderson's term: a nation is imagined because members never know most fellow-members, yet hold a mental image of their communion; material conditions enable imagining extended connections.
+- ****Primordialism (Perennialism)**** — Perspective proposing nations have always existed and nationalism is a natural phenomenon; largely out of academic favor.
+- ****Ethnosymbolism**** — Perspective explaining nationalism as dynamic and evolving, emphasizing symbols, myths, and traditions in nation formation.
+- ****Modernization Theory**** — Dominant constructivist explanation: nationalism emerged from modernization (industrialization, urbanization, mass education) making national consciousness possible.
+- ****Civic Nation**** — Nation model (French revolutionary tradition) centered on political willingness to "live together" and shared principles, not ethnic descent.
+- ****Ethnic Nation**** — Nation model (German tradition, Fichte) defined by common language, religion, culture, history, and ethnic origins.
+- ****Clash of Civilizations**** — Huntington's theory: cultural/religious identities will be the primary axis of global conflict in the post–Cold War world.
+- ****Postnationalism**** — Process where nation-states and national identities lose importance relative to supranational/global entities (corporations, UN, EU, Internet).
+
+## Debates and Open Questions
+- **Modernity vs. Pre-modernity:** Whether nations are exclusively modern (consensus) or have medieval/ancient antecedents (Hastings, Reynolds, Gat, Kaldellis, Curta, Serer scholars). Critics (Geary, Breuilly, Lawrence, Zubaida) argue this conflates distinct historical identities with modern nationalism.
+- **Continuity of Identity:** Whether recurring names (e.g., "English," "Bulgarian") signify genuine continuity of national meaning or adaptation to new circumstances (Breuilly, Geary).
+- **Elite vs. Popular Identity:** Whether medieval chronicles and laws reflect mass national consciousness or only elite self-definition (Lawrence).
+- **Future Trajectory:** Whether the nation-state will persist, fracture into a "clash of civilizations" (Huntington), dissolve into postnational supranational governance, or transform into a neo-medieval order of overlapping sovereignties (Zielonka).

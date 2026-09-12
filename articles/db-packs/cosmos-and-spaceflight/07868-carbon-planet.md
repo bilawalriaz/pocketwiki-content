@@ -1,0 +1,19 @@
+# Carbon planet
+
+A carbon planet is a hypothetical rocky world in which carbon outweighs oxygen, the reverse of the chemistry that built Earth, Mars, and Venus. Carbon is the fourth most abundant element in the universe by mass, after hydrogen, helium, and oxygen, and most protoplanetary discs contain far more oxygen than carbon, so a carbon-rich world requires an unusually carbon-heavy birthplace. The term was coined in 2005 by Marc Kuchner and Sara Seager, building on Katharina Lodders's suggestion that Jupiter may have grown around a carbon-rich core. Earlier work by Fegley and Cameron (1987) had explored planets with high carbon-to-oxygen ratios.
+
+The Solar System's inner planets sit on the oxygen-rich side: their bulk C/O molar ratio is about 0.55, which is why silicon–oxygen minerals dominate their makeup. A 2020 survey of 249 nearby Sun-like stars found roughly 12 percent have C/O ratios above 0.65, making their planetary systems candidate carbon-planet birthplaces. The exoplanet 55 Cancri Ae, orbiting a star with C/O 0.78, is the most often cited possible example.
+
+## Interior structure
+
+A carbon planet would keep an iron-rich core like Earth's, but the layers above it change. The mantle would be molten silicon carbide and titanium carbide rather than silicates, capped by a thick crust of graphite, possibly with a kilometres-thick diamond substratum where pressure is high enough. Volcanic eruptions could dredge diamond up, producing mountains of diamond and silicon carbide. The surface would hold frozen or liquid hydrocarbons such as tar and methane, with carbon monoxide mixed in. A hydrocarbon weather cycle is plausible if the average surface temperature stays below about 77 °C, the critical temperature of water, but the planet would be essentially waterless: any oxygen delivered by comets or asteroids would react with the abundant surface carbon instead of forming water. The atmosphere of a cool carbon planet would be carbon dioxide or carbon monoxide laced with carbon smog, and its spectra would show carbon-bearing molecules but no water signature. Carbon planets are predicted to be about the same diameter as silicate or water planets of equal mass, which makes them hard to identify by size alone.
+
+## Counter-arguments
+
+The idea is contested. Rocky planetesimals in the Solar System carry only about ten percent of the carbon that cosmic abundances predict, suggesting that carbon grains are actively destroyed as planetesimals form. If this destruction is general, true carbon planets may be rare.
+
+## Candidate and related objects
+
+A few objects hint at carbon-rich compositions, though none is confirmed. The pulsar planets Draugr, Poltergeist, and Phobetor may be carbon remnants of disrupted carbon-producing stars, and the Galactic Center or older globular clusters, where stellar carbon enrichment is higher, are plausible long-term habitats for such worlds. As more generations of stars end, the Milky Way's carbon concentration is expected to rise, so carbon planets may become more common.
+
+In 2012, Janssen was reported to show evidence of a carbon planet: roughly eight Earth masses, twice Earth's radius, a surface near 2150 °C, and a surface of graphite and diamond rather than water and granite, orbiting its star every 18 hours. PSR J1719−1438 b is a body about five times Earth's diameter but slightly more massive than Jupiter, orbiting a millisecond pulsar; its extreme density suggests carbon and oxygen in crystalline form, often described as a diamond planet, though it is likely the crushed remnant of an evaporated white dwarf, not a planet in the conventional sense. The cool, massive, crystallised white dwarf PSR J2222−0137 b has been called a diamond-star for the same reason, showing how stellar remnants can masquerade as carbon-rich rocky worlds.

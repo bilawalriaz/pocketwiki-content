@@ -1,0 +1,60 @@
+# Hank Williams
+
+## Overview
+Hiram "Hank" Williams (1923–1953) was an American singer-songwriter who became country music’s first superstar and one of the 20th century’s most influential musicians. Despite an inability to read music and a career spanning barely six years of national prominence, he placed 55 singles in the Billboard Country top 10 (12 at No. 1), crafting standards such as "Your Cheatin' Heart," "Hey, Good Lookin'," and "I'm So Lonesome I Could Cry." His songwriting fused blues phrasing learned from Rufus "Tee-Tot" Payne with the narrative directness of gospel and folk, establishing the template for modern country songcraft and influencing rock pioneers including Elvis Presley, Chuck Berry, and Bob Dylan. Williams’s life was defined by chronic physical agony from spina bifida occulta, which drove escalating alcohol and opioid dependence; this unreliability led to his dismissal from the Grand Ole Opry in 1952. He died of heart failure at age 29 in the back seat of a car en route to a New Year’s Day concert. Posthumous honors include induction into the Country, Songwriters, and Rock and Roll Halls of Fame, a Grammy Lifetime Achievement Award, and a 2010 Pulitzer Prize Special Citation.
+
+## Timeline
+- **Sep 17, 1923** — Born in Mount Olive, Butler County, Alabama; born with spina bifida occulta.
+- **1937** — Wins talent contest at Montgomery’s Empire Theater with original "WPA Blues"; begins performing on WSFA radio; family moves to Montgomery.
+- **1939** — Forms Drifting Cowboys; drops out of school; mother Lillie becomes manager.
+- **1942** — Fired from WSFA for "habitual drunkenness"; works in shipyards in Mobile and Portland, Oregon.
+- **Dec 11, 1946** — First recording session for Sterling Records ("Never Again," "Honky Tonkin'").
+- **1947** — Signs with MGM Records; releases hit "Move It On Over."
+- **1948** — Joins *Louisiana Hayride* on KWKH, Shreveport.
+- **1949** — "Lovesick Blues" hits No. 1 for four months; debuts at Grand Ole Opry (six encores); forms classic Drifting Cowboys lineup; son Hank Williams Jr. born.
+- **1950** — Begins recording moral-themed recitations as "Luke the Drifter."
+- **1951** — "Cold, Cold Heart" becomes crossover hit (Tony Bennett pop cover No. 1); spinal fusion surgery at Vanderbilt; TV debut on *Perry Como Show*.
+- **Aug 11, 1952** — Dismissed from Grand Ole Opry for habitual drunkenness and missed shows.
+- **Sep 23, 1952** — Final recording session: "Kaw-Liga," "Your Cheatin' Heart," "Take These Chains from My Heart."
+- **Oct 18, 1952** — Marries Billie Jean Jones (later ruled invalid).
+- **Jan 1, 1953** — Dies of acute right ventricular dilation in car near Oak Hill, West Virginia, age 29.
+- **1961** — Inducted into Country Music Hall of Fame.
+- **1987** — Inducted into Rock and Roll Hall of Fame (Early Influence).
+- **2010** — Awarded Pulitzer Prize Special Citation for songwriting craftsmanship.
+
+## Body
+
+### Early Life and Musical Foundations
+Williams was born into a poor, itinerant family in rural Alabama. His father, Elonzo, a railroad engineer and WWI veteran, suffered a brain aneurysm in 1930 and was institutionalized for eight years, leaving mother Lillie to support the family through boarding houses and nursing. Williams was born with **spina bifida occulta**, a congenital spinal defect causing lifelong pain that later fueled substance abuse. At age eight, he met **Rufus "Tee-Tot" Payne**, a Black street performer who taught him guitar in exchange for meals. Payne’s blues-based style—emphasizing rhythm, showmanship, and stooped, emotive delivery—provided Williams’s only formal musical training. Williams also absorbed gospel hymns at his mother’s organ and the country stylings of Roy Acuff. A 1937 fight with a gym teacher prompted the family’s move to Montgomery, where Williams won a talent contest, began sidewalk performing at WSFA radio, and informally adopted the name "Hank."
+
+### Rise to Stardom (1939–1949)
+Williams formed the **Drifting Cowboys** backup band, managed by Lillie, and dropped out of school in 1939 to tour Alabama and Georgia. World War II disrupted the band as members were drafted; Williams, medically disqualified due to a rodeo-related back injury, worked in shipyards while his alcoholism worsened, leading to his 1942 firing from WSFA. In 1943 he met Audrey Sheppard, who became his manager and wife (married 1944, though technically invalid due to her prior divorce). After a failed 1946 Grand Ole Opry audition, songwriter Fred Rose of Acuff-Rose Music signed Williams to a publishing deal and secured a Sterling Records contract. MGM Records acquired his contract in 1947; "Move It On Over" became a hit. In 1948 he joined the *Louisiana Hayride*, a KWKH radio show reaching the Southeast. His 1949 cover of "Lovesick Blues" (originally by Cliff Friend and Irving Mills, popularized by Rex Griffin) topped Billboard for four months, earning him a Grand Ole Opry slot where he received six encores. He assembled the definitive Drifting Cowboys lineup (Bob McNett, Hillous Butrum, Jerry Rivers, Don Helms) and scored five top-five hits that year.
+
+### Peak Years and Physical Decline (1950–1952)
+By 1950 Williams earned ~$1,000 per show. At Fred Rose’s suggestion, he recorded moralistic recitations as **"Luke the Drifter"** to avoid confusing jukebox patrons expecting dance tunes. Hits continued: "Cold, Cold Heart" (1951) crossed over via Tony Bennett’s pop No. 1. A 1951 squirrel-hunting fall aggravated his spinal condition; he underwent spinal fusion at Vanderbilt but left against medical advice on Christmas Eve, wearing a brace and consuming heavy painkillers. In 1952 he appeared on *The Kate Smith Evening Hour* in New York, recorded "Jambalaya" and "I'll Never Get Out of This World Alive," and divorced Audrey. He married Billie Jean Jones in October 1952 (later invalidated). His final session (September 23) yielded "Kaw-Liga," "Your Cheatin' Heart," and "Take These Chains from My Heart." A fraudulent "Dr. Toby Marshall" prescribed amphetamines, barbiturates, and morphine, worsening heart problems. The Grand Ole Opry dismissed him August 11 for drunkenness and missed dates; he returned to the *Louisiana Hayride* but remained erratic.
+
+### Death and Immediate Aftermath
+On December 31, 1952, a snowstorm grounded flights to a Charleston, WV show. Williams hired college student Charles Carr to drive. In Knoxville, a doctor injected him with vitamin B12 and morphine for chloral hydrate/alcohol toxicity; porters carried him to the car. The Charleston show was canceled; promoter A.V. Bamford ordered Carr to drive to Canton, Ohio, for a New Year’s Day concert. Near Oak Hill, WV, at a gas station stop, they discovered Williams dead; rigor mortis had set in. Autopsy cited **acute right ventricular dilation**; the doctor also noted recent severe beating (from a Montgomery bar fight) and a head welt. Williams was 29. His funeral in Montgomery drew an estimated 15,000–25,000 mourners. Posthumous singles dominated charts: "Your Cheatin' Heart" (six weeks at No. 1), "Take These Chains" (No. 1), "I Won't Be Home No More" (No. 4).
+
+### Legacy and Estate
+Williams is credited with setting the agenda for contemporary country songcraft—direct, confessional, blues-inflected lyrics sung with raw emotion. He influenced generations across genres: Elvis Presley, Bob Dylan, the Rolling Stones, Johnny Cash, Waylon Jennings, and George Jones. Honors include the Country Music Hall of Fame (1961), Rock and Roll Hall of Fame (1987, Early Influence), Grammy Lifetime Achievement Award, and a 2010 Pulitzer Special Citation. His estate, initially valued at ~$13,000, sparked decades of litigation among his mother Lillie, first wife Audrey, second wife Billie Jean, and daughter Jett Williams (born five days after his death to Bobbie Jett). A 1975 federal ruling recognized Billie Jean as common-law wife; a 1989 Alabama Supreme Court decision recognized Jett as heir. Unpublished lyrics from Williams’s briefcase were later curated into *The Lost Notebooks of Hank Williams* (2011), featuring Bob Dylan, Holly Williams, Jack White, and others. Radio transcriptions for *Mother’s Best Flour* (1951) were recovered, litigated, and released as a 15-CD set (2010).
+
+## Terms
+- ****Spina bifida occulta**** — A congenital defect of the spinal column (hidden form of spina bifida) causing chronic pain; Williams’s condition drove his lifelong alcohol and opioid dependence.
+- ****Drifting Cowboys**** — Williams’s backup band; the classic 1949 lineup included Bob McNett (guitar), Hillous Butrum (bass), Jerry Rivers (fiddle), and Don Helms (steel guitar).
+- ****Luke the Drifter**** — Pseudonym used by Williams from 1950 for spoken-word moral recitations (organ, bass, steel guitar only) to avoid jukebox confusion with his singing records.
+- ****Louisiana Hayride**** — Weekly radio show broadcast from Shreveport on KWKH (1948–1952) that launched Williams to regional fame and provided touring bookings across Louisiana and East Texas.
+- ****Grand Ole Opry**** — Nashville’s premier country radio stage; Williams debuted June 11, 1949 (six encores), but was dismissed August 11, 1952 for habitual drunkenness and missed appearances.
+- ****Acuff-Rose Music**** — Publishing firm founded by Roy Acuff and Fred Rose; Rose signed Williams in 1946, secured his Sterling and MGM deals, and managed his song copyrights.
+- ****Sterling Records**** — Small label where Williams cut his first session (Dec 11, 1946) under Fred Rose’s guidance; hits "Never Again" and "Honky Tonkin'" led to MGM contract.
+- ****Hadacol**** — Patent medicine (vitamin/alcohol tonic) whose tour sponsored Williams’s 1951 peak-earning package show with Bob Hope; also advertised on his *Mother’s Best Flour* radio spots.
+- ****Jett Williams**** — Daughter born to Bobbie Jett five days after Williams’s death (Jan 6, 1953); adopted out, discovered parentage in 1980s; recognized as legal heir by Alabama Supreme Court in 1989.
+- ****Pulitzer Prize Special Citation (2010)**** — Awarded posthumously for "craftsmanship as a songwriter who expressed universal feelings with poignant simplicity and played a pivotal role in transforming country music into a major musical and cultural force in American life."
+
+## Debates and open questions
+- **Validity of marriages**: Audrey’s 1944 marriage was technically invalid (her prior divorce lacked the 60-day waiting period); Billie Jean’s 1952 marriage was ruled invalid in Tennessee/Alabama (her divorce not final) but later upheld as common-law in a 1975 federal ruling. These disputes drove decades of estate litigation.
+- **Cause of death**: Autopsy listed acute right ventricular dilation; contributing factors included congenital heart defect, spinal fusion complications, morphine/chloral hydrate/alcohol toxicity, amphetamines from "Dr. Toby Marshall," and trauma from a recent bar fight. No single cause is definitive.
+- **"Dr. Toby Marshall"**: Horace Marshall, a convicted forger paroled in 1951, posed as a physician (purchased a "Doctor of Science" diploma for $25) and prescribed dangerous drug cocktails under the alias Dr. C.W. Lemon. His precise role in Williams’s final weeks remains shadowy.
+- **Paternity claims**: Lewis Fitzgerald (born 1943) claimed to be Williams’s son via cousin Marie McNeil; family denied it, though Billy Walker recalled Williams referencing men visiting his mother’s boarding house. No DNA resolution is noted in the source.
+- **Mother’s Best Flour recordings ownership**: Acetates rescued from trash in the 1960s sparked lawsuits among PolyGram, Legacy Entertainment, and Williams’s heirs. A 2006 Tennessee Court of Appeals ruling granted sole rights to Hank Jr. and Jett Williams, enabling the 2010 box set release.
+- **Artistic assessment**: Ken Tucker (*Entertainment Weekly*) called Williams "possibly the least likable—least warm and sympathetic—figure in modern music," citing misogyny and self-pity, while Hank Jr. noted the stark contrast between his father’s lifetime vilification in Nashville and posthumous sainthood.

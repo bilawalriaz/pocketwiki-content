@@ -1,0 +1,27 @@
+# Hindu–Arabic numeral system
+
+The Hindu–Arabic numeral system is a base-ten positional numeral system that represents any natural number as a string of ten glyphs: the digits 0 through 9. In positional notation, a digit's value depends on its place in the string, so "1" means one in the ones position but ten in the tens position. Without it, large numbers would require a separate symbol for each magnitude, as Roman numerals do with I, X, C, and M. With it, an arbitrarily large integer can be written by repeating the same ten symbols in different positions, and zero serves as a placeholder so empty positions are explicit: writing "205" rather than "2 5", where the gap could be misread.
+
+## Extending to all rational numbers
+
+In its fully developed form, the system uses only thirteen symbols: the ten digits, a decimal marker (a decimal point or comma separating ones from tenths), a vinculum (a horizontal bar placed over repeating digits), and a prepended minus sign for negatives. Together these suffice to write any rational number, including values like 1/3 = 0.3̄, where the bar shows that the 3 repeats without end. The core innovation is the place-value idea combined with a true zero; the markers are a later refinement.
+
+## Origins in India
+
+Indian mathematicians invented the system between the 1st and 4th centuries CE. The Brahmi numerals, descendants of earlier Indian scripts, supplied the ancestor glyphs, but Brahmi numbers were not yet positional and lacked zero: inscriptions from around 300 BCE use early forms of 1, 4, and 6, and by 200 BCE 2, 4, 6, 7, and 9 appear, yet each magnitude still had its own sign. The breakthrough to a place-value system with zero emerged during the Gupta period. The Bakhshali manuscript, with leaves dated 224–383 CE, already uses place-value notation. Around 500 CE, the astronomer Aryabhata marked empty columns with the word *kha*, meaning "emptiness." The 7th-century Brahmasphutasiddhanta treats zero mathematically, and the first dated inscription with a symbol for zero appears at the Chaturbhuja Temple in Gwalior, dated 876 CE.
+
+## Transmission through the Islamic world
+
+Arabic mathematicians adopted the Indian system in the 8th century and extended it. They introduced positional decimal fractions, so the system could represent values between whole numbers. The 10th-century Abbasid mathematician Abu'l-Hasan al-Uqlidisi was the first to describe decimal fractions in positional form, and the historian J. L. Berggren writes that "the Muslims were the first to represent numbers as we do," because they alone extended the Indian place-value idea to fractional parts of the unit. Two treatises carried the system outward: al-Khwārizmī's *On the Calculation with Hindu Numerals* (c. 825 CE) and al-Kindi's *On the Use of the Hindu Numerals* (c. 830 CE). Arabic scholars called the system *al-ḥisāb al-hindī*, "Indian arithmetic." The Persian scientist Kushyar Gilani's *Principles of Hindu Reckoning* is one of the oldest surviving manuscripts using the Hindu numerals in this extended form.
+
+## Adoption in Europe
+
+Hindu–Arabic numerals reached Europe gradually. The earliest European appearance is the Spanish Codex Vigilanus of 976 CE, which shows the digits one through nine but no zero. Between 967 and 969 CE, Gerbert of Aurillac studied Arab science in Catalan abbeys, and after becoming Pope Sylvester II in 999 he introduced an abacus using tokens for the digits one through nine. Fibonacci's *Liber Abaci* (1202) introduced the method to the Latin world, yet medieval European use remained confined largely to Northern Italy and scholarly circles. The 15th-century printing press fixed the now-familiar shapes of the Western glyphs and enabled everyday use. Adam Ries's 1522 arithmetic book, written for the apprentices of businessmen, is often credited with establishing the system among the general European population. Roman numerals remained in use in bookkeeping into the 16th century.
+
+## The three glyph families
+
+The place-value system is independent of the glyphs used to write it; only ten distinct shapes are required. Three families developed after the Middle Ages, all descended from Brahmi numerals. Western Arabic numerals, used across the Maghreb and Europe with the Latin, Cyrillic, and Greek alphabets, are the form now standard worldwide. Eastern Arabic numerals, developed in present-day Iraq, are used with Arabic script across the Middle East, with variants in Persian, Urdu, and Pashto. Indian numerals, including Devanagari, Bengali, Tamil, Gujarati, Gurmukhi, and roughly a dozen other Brahmic scripts, each carry their own glyph shapes for 0–9. East Asian scripts (Chinese, Japanese, Korean) use independent glyphs, though Chinese and Japanese adopted Hindu–Arabic numerals in the 19th century, replacing counting rods. The Western Arabic variant spread globally alongside the Latin alphabet, displacing other variants where the Latin script became dominant.
+
+## Adoption in East Asia
+
+Counting rods gave China a working decimal positional system long before Hindu numerals arrived, and when the Indian scholar Gautama Siddha introduced Hindu numerals with zero in 718 CE, Chinese mathematicians found no use for them. The character 〇, the hollow circle now read as zero, appears in Qin Jiushao's 1247 *Mathematical Treatise in Nine Sections*, but its origin is disputed. Some historians trace it to Indian influence, others to a Chinese text-filler symbol, and still others argue the resemblance to Indian forms is coincidental.

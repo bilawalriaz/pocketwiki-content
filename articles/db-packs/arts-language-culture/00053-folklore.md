@@ -1,0 +1,26 @@
+# Folklore
+
+Folklore is the expressive culture shared by a group, transmitted informally, anonymously, and in multiple variants. It defines "us" against "them" and circulates outside formal institutions. Its academic study, **folkloristics**, emerged in 19th-century Europe and now spans the humanities and social sciences.
+
+## A folk group shares traditions that mark identity
+
+William Thoms coined "folklore" in 1846, replacing "popular antiquities." His original "folk" meant rural, poor, illiterate peasants; the urban proletariat was later added under Marxist influence. By the 1960s, folk groups were understood to be everywhere: family, age cohort, ethnicity, occupation. A folk is a social group of two or more people sharing traits who express identity through distinctive traditions. Folklore confirms identity internally, through ceremonies like initiations, and externally, through displays like folk dance demonstrations. Researchers can begin from a group to find its folklore, or from items to identify a group. From the 1960s, overlooked groups were studied, notably women's folklore, addressed in a dedicated 1975 *Journal of American Folklore* issue. Richard Dorson (1976) defined the field as studying traditional, unofficial culture "as opposed to the elite culture."
+
+## The field evolved through national and disciplinary shifts
+
+Folkloristics arose during European romantic nationalism. After Napoleonic France invaded the German states, Johann Gottfried von Herder's view of oral traditions as organic processes rooted in locale was systematized for nation building and embraced by smaller nations like Finland, Estonia, and Hungary seeking independence. Nineteenth-century scholars contrasted tradition with modernity, treating rural peasant lore as "survivals" of the past. By 1900, American folklorists led by Franz Boas and Ruth Benedict studied Native American cultures in their totality, aligning folklore with cultural anthropology. This created a divided alliance between European humanities and American social sciences that persists. The 1976 U.S. **American Folklife Preservation Act (Public Law 94-201)** framed cultural diversity as a national strength, marking the field's coming of age. William Bascom identified four functions of folklore: escape from societal repression, validation of culture, pedagogy (morals, values, wit), and social control.
+
+## Genres interact, and every item exists in variants
+
+Folklore items, called **artifacts** or **traditional cultural expressions**, fall into **verbal** (tales, proverbs, jokes), **material** (traditional buildings, crafts), and **customary** (rituals, festivals, folk religion) categories, with **childlore** as a distinct one. Classification gives common vocabulary but oversimplifies, because artifacts are never self-contained. A birthday party mixes verbal song, material cake and presents, and customs like candle-blowing wishes. Folklore artifacts vary by nature, in contrast to manufactured goods where variation is error, and each embodies one **variant** performed at a given time and place. Antti Aarne's 1910 folktale classification, expanded by Stith Thompson, remains standard for European folktales. Material culture includes hand-made objects and even mass-produced ones, like dreidels, that retain pre-industrial history; some post-Industrial Revolution crafts became fine or applied arts. Customs range from single gestures to scripted complexes and include seasonal and life-cycle celebrations, community festivals such as Cologne Carnival and Mardi Gras, and folk-belief customs. Childlore, transmitted child-to-child without adult supervision and studied by Iona and Peter Opie, develops balance, memory, coordination, and social skills; many games in Bruegel's 1560 painting remain recognizable. Dorson proposed folk history as a distinct sub-category, represented in *The Folklore Historian*, though the status is unsettled.
+
+## Folklore exists only in performance
+
+"**Folklore is folklore only when performed**" (Abrahams). Transmission requires a **tradition-bearer**, a named, knowledgeable individual, and an active **audience**; performance re-creates rather than creates. Performances require **framing**, linguistic formulas like "Once upon a time" or event locations that bracket text outside normal discourse, shifting narration into the subjunctive mood where fiction can carry real meaning. Walter Anderson's 1920s law of auto-correction posits that audience feedback keeps variants close to traditional form. Barre Toelken's conservative-dynamic continuum captures the tension between preserving form and innovating; when context shifts and artifacts lose relevance, they become historic relics. In the electronic age, the internet modifies rather than kills folkloric process; Yeh et al. (2023) suggest user-generated content such as YouTube mental-health reviews functions as modern folklore.
+
+## Key terms
+
+- **Folkloristics**: the academic study of folklore, taught through Ph.D. level.
+- **Historic–Geographic Method**: methodology tracking artifacts across space and time; dominated early 20th-century folkloristics.
+- **Living museum**: open-air museum displaying and reenacting use of material artifacts.
+- **Variant**: a single performance of a folklore artifact at a given time and place.

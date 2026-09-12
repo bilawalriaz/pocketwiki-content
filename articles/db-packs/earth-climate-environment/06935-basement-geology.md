@@ -1,0 +1,27 @@
+# Basement (geology)
+
+In geology, **basement** (or **crystalline basement**) is the body of crystalline rock that lies beneath any cover of younger sediment or sedimentary rock. It is exposed at the surface in places but is more often buried under kilometres of later rock. The overlying sediments are called the *cover* or *sedimentary cover*. The basement itself is made of continental crust reworked by deformation, metamorphism, partial melting, and the intrusion of new igneous rock, so it is typically metamorphic and igneous in origin and usually crystalline.
+
+## Continental crust and thickness
+
+The basement forms the thick foundation of the continents, commonly granitic. Where it is exposed, the sedimentary veneer on top is usually thin, though in some basins it exceeds 5 km. The basement itself can be 32–48 km thick, sometimes more. The Grand Canyon exposes this: its floor is 1.7- to 2-billion-year-old Zoroaster Granite and Vishnu Schist, the schist interpreted as highly metamorphosed basalt, mud, and clay from volcanic eruptions, with the granite intruded into it afterwards. Above this foundation, a long cross-section of younger sedimentary layers has accumulated through geological time.
+
+## Age relative to oceanic crust
+
+Continental basement is much older than oceanic crust. Oceanic crust ranges from 0 to 340 million years old, averaging about 64 million years. Continental crust persists because it is light and thick enough that it is not subducted, while oceanic crust is recycled at subduction zones and rifted margins and replaced by new seafloor. Most continental crust is 1 to 3 billion years old, with at least one major period of rapid continental growth inferred during the Precambrian.
+
+## How continental basement becomes so complex
+
+A single basement block is rarely one rock type. It may contain volcanic rocks, intrusive igneous bodies, metamorphic rocks, and *ophiolites*, which are slices of oceanic crust caught and squeezed between plates when a terrane is added to a continent. All of these can be folded, refolded, and metamorphosed multiple times, and new igneous rock can intrude from below or form an *underplating* layer on the underside of the crust.
+
+Two main processes add material to a continent. First, when an oceanic plate subducts beneath another oceanic plate, the descending slab melts and rising magma builds a volcanic arc such as Japan, thickening the arc crust with extrusive and intrusive igneous rock until it resists subduction. If that arc later collides with a continent, it is accreted to the continental edge rather than swallowed, and fragments of the downgoing plate can be wedged in as ophiolites. Second, an *exotic terrane* is a piece of a foreign continent that broke off and became sutured elsewhere, so basement rocks can grow younger toward a modern continental margin, except where exotic terranes complicate the pattern. Each continent, such as Asia or Africa, is built from several *cratons*, ancient stable cores around which younger terranes accumulated, and supercontinents like Pangaea formed when many cratons were welded together.
+
+## Worked example: the U.S. East Coast
+
+The eastern seaboard shows nearly the full life cycle of a passive-margin basement. During the late Paleozoic, Africa (Gondwana) collided with North America (Laurentia), culminating in the Alleghanian orogeny around 325–260 million years ago, which fused metamorphic and igneous terranes into the Appalachian core. In Florida, detrital and igneous zircon U–Pb ages give Neoproterozoic to Paleozoic ages with African affinities, supporting Florida as an exotic terrane sutured to Laurentia before the Mesozoic.
+
+When Pangaea broke apart in the Late Triassic to Early Jurassic, extension along the new Atlantic rift produced elongate basins of the Newark Supergroup, filled with thick fluvial and lake sediments and Early Jurassic basalt flows. After spreading began, the margin became passive, and from the Late Jurassic through the Cretaceous and Cenozoic a seaward-thickening wedge of sands, silts, clays, and carbonates, derived largely from erosion of the Appalachians, accumulated above the buried basement. Near Cape Hatteras, North Carolina, these sediments reach about 3 km, and far more lies offshore in the Baltimore Canyon Trough. The inland edge of this cover is the Fall Line, where rivers drop from the hard metamorphic Piedmont onto the softer Coastal Plain sediments, while the same crystalline basement continues southeastward beneath the shelf, documented by boreholes and geophysical surveys.
+
+## How "basement" is used in practice
+
+The term is defined relative to the question being asked, not by a single age. In the European Alps, "basement" means rocks older than the Variscan orogeny, overlain by Permian evaporites and Mesozoic limestones; the weak evaporites let the strong limestone cover slide over the hard basement. In the Andes, it refers to Proterozoic, Paleozoic, and early Mesozoic units beneath the late Mesozoic and Cenozoic Andean arc sequences. In Mexico's Trans-Mexican Volcanic Belt, it includes Proterozoic, Paleozoic, and Mesozoic rocks of the Oaxaquia, Mixteco, and Guerrero terranes. The term is most useful in basin analysis, sedimentology, and petroleum geology, where Precambrian crystalline basement is treated as uneconomic because it rarely contains oil or gas; "economic basement" extends this idea to deeper parts of a cover sequence that likewise hold no economic interest.

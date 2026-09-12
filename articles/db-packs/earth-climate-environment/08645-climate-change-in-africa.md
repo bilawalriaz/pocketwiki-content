@@ -1,0 +1,23 @@
+# Climate change in Africa
+
+Africa contributes less than 4% of global greenhouse emissions yet faces some of the harshest consequences and warms faster than the global average. Surface temperatures across the continent have risen about 1 °C since the late 19th century, with local increases of up to 3 °C in minimum temperatures in the Sahel at the end of the dry season. From 1991 to 2021, African warming averaged about +0.3 °C per 30 years, against roughly +0.2 °C from 1961 to 1990.
+
+The vulnerability has structural roots. About 70% of the African population depends on rain-fed agriculture, smallholder farms cultivate 80% of sub-Saharan farmland, and the sector contributes around 15% of sub-Saharan GDP. Agriculture employs 55–62% of the sub-Saharan workforce, so changes in rainfall and temperature translate directly into lost income and food. Over half of recorded public health incidents on the continent between 2001 and 2021 were tied to climate change.
+
+## What is changing
+
+Both ends of the weather distribution are intensifying. Climate models project longer dry spells during wet seasons and heavier extreme rainfall, and a general decrease in mean precipitation across nearly all of Africa with medium-to-high confidence. Warming seas and rising sea levels put roughly 54 million Africans in low-elevation coastal zones today, a number projected to reach about 110 million by 2030 and 185–230 million by 2060, with average regional sea level rising around 21 cm. The Congo Basin's carbon-absorbing capacity is already declining, with one Nature study projecting that the African jungle will absorb roughly 14% less CO₂ by 2030 and effectively none at all by 2035.
+
+## Cascading impacts
+
+**Agriculture and food security.** Erratic rainfall, higher temperatures, soil-moisture loss, and desertification shrink growing areas and cut staple-crop yields, with potential declines of up to 50% for rain-fed crops in some countries. Warmer, wetter conditions accelerated the 2020 East African locust plague, and warming extends the range of crop and livestock pests. Maize yields in Southern Africa could fall by around 30% under future climate change.
+
+**Water security.** The 2023–2025 Southern African drought, driven by El Niño and a positive Indian Ocean Dipole, dropped Lake Kariba to historic lows, cutting hydroelectric output and clean-water supply in Zambia and Zimbabwe and triggering disaster declarations in six nations, including Botswana, Lesotho, Malawi, and Namibia. In May 2025, flash floods in Nigeria killed over 200 people and contaminated urban water systems. In transboundary basins like Lake Chad, shrinking surface water affects more than 30 million people across Nigeria, Niger, Chad, and Cameroon.
+
+**Health.** Malaria, dengue, schistosomiasis, and meningitis are climate-sensitive, and over 90% of global malaria cases are in Africa. Warming is shifting year-round high-risk malaria transmission from coastal West Africa toward the African Highlands between the Democratic Republic of the Congo and Uganda, where populations have no prior exposure or response infrastructure. The 2021 southern Madagascar food crisis was the first famine attributed solely to climate change rather than conflict.
+
+**Economy and displacement.** African countries lose an average 2–5% of GDP annually to climate impacts, and the continent's GDP could fall roughly 2% per 1 °C of global warming and around 12% at 4 °C. Adaptation needs in sub-Saharan Africa are estimated at USD 30–50 billion per year. Under RCP4.5, a scenario in which emissions peak around mid-century, twelve major coastal cities led by Alexandria, Lagos, Cape Town, and Dar es Salaam face cumulative damages of US$65 billion by 2050; under the higher-emission RCP8.5, damages reach US$86.5 billion, and Alexandria alone accounts for about half the total. Sea-level rise could cost sub-Saharan Africa 2–4% of GDP by 2050.
+
+## Responses
+
+Strategies centre on climate-smart agriculture, sustainable water management, ecosystem conservation, and stronger health and infrastructure systems, supported by climate finance and community participation. Continental and national frameworks, including the 2015 Africa Adaptation Initiative and Kenya's 2016 Climate Change Act, coordinate action. Community-level adaptation often blends modern tools with traditional ecological knowledge, including Sahelian zaï pits and stone bunds for water harvesting, agroforestry with Faidherbia albida, native seed banks, and local weather indicators drawn from wildlife and flowering patterns. Despite progress, 78% of 1990–2020 research funding on African climate change went to European and North American institutions, a "parachute science" pattern that limits local research capacity.

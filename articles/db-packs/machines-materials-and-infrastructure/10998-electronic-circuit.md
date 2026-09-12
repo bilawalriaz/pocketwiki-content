@@ -1,0 +1,23 @@
+# Electronic circuit
+
+An electronic circuit is a network of electronic components — resistors, transistors, capacitors, inductors, and diodes — joined by conductive wires or traces through which electric current flows. To qualify as *electronic* rather than merely *electrical*, the network must contain at least one **active component**: a device such as a transistor that can control current with an external signal. These parts together amplify signals, perform computation, and move data.
+
+## How circuits are built
+
+The earliest circuits used discrete components joined by individual wires soldered point to point. Modern interconnections are usually formed by photolithography on a laminated **printed circuit board** (PCB), with components soldered to the printed **traces** (the conductive paths on the board). In an **integrated circuit** (IC), the components and the traces that connect them are formed on the same **substrate** — a thin slice of base material, almost always doped silicon, occasionally gallium arsenide. The dominant active device in contemporary circuits is the **MOSFET** (metal–oxide–semiconductor field-effect transistor), a transistor whose current is controlled by a voltage on its gate terminal.
+
+## Analog, digital, and mixed-signal circuits
+
+Electronic circuits are usually grouped by how their signals represent information.
+
+An **analog circuit** uses currents or voltages that vary continuously to represent information. Its basic parts are wires, resistors, capacitors, inductors, diodes, and transistors. Analog analysis applies **Kirchhoff's circuit laws**: the currents into any node sum to zero, and the voltages around any closed loop sum to zero. Wires are usually treated as ideal zero-resistance connections. Above roughly 1 GHz on circuit boards, or near 10 GHz inside ICs, that idealisation fails and each wire must be modelled as a **transmission line** with a characteristic impedance; this is the **distributed-element model**.
+
+A **digital circuit** represents information as signals that take only discrete values, almost always two voltages: one near 0 V for binary 0 and another on the positive supply rail for binary 1. Groups of transistors form **logic gates** (AND, OR, NAND, NOR, XOR, and their combinations) that implement Boolean logic. Gates wired with positive feedback create **latches** and **flip-flops**, each of which holds one of two stable states until an external input changes it. Flip-flop arrays form the storage cells of **static RAM** (SRAM); storing charge on a tiny capacitor in each cell gives the denser **dynamic RAM** (DRAM). Because every gate restores a clean binary level, the designer does not have to correct for the analog distortion that compounds through long analog chains, which is why billions of gates fit on a single chip. As chips grow denser, switching delay, power dissipation, leakage currents, and logic races (where signals arrive out of order) become the practical limits.
+
+Common digital building blocks are general-purpose **microprocessors**, application-specific **ASICs**, and **field-programmable gate arrays** (FPGAs), whose logic is reconfigured after manufacture and which are widely used in prototyping.
+
+A **mixed-signal circuit** contains both analog and digital sections on the same substrate. Comparators, timers, phase-locked loops, and the **analog-to-digital converters** (ADCs) and **digital-to-analog converters** (DACs) that bridge the two domains belong here. A radio receiver is the textbook example: analog stages amplify and frequency-shift the incoming signal, an ADC turns it into digital values, and further processing happens in the digital domain.
+
+## Designing and prototyping
+
+Electronic circuit design is a loop between **analysis** (predicting how a chosen set of components will behave) and **synthesis** (choosing components to achieve a desired behaviour). Before committing to a manufactured PCB, engineers usually build a **prototype**, an electrically equivalent assembly used to verify the design and to debug it. Prototypes are built on **breadboards** (solderless plug boards), stripboard, perfboard, or by **wire wrapping**, all of which let the builder add or change parts quickly. Open-source tools such as Fritzing document these layouts, and platforms such as Arduino combine prototyping hardware with simple microcontroller programming. For volume production, custom PCBs are cheaper and faster than hand-assembled boards; quick-turn fabrication services now return assembled and tested boards within days, so the same iterative cycle used in prototyping extends into small-scale manufacturing.

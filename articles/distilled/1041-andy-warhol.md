@@ -1,0 +1,74 @@
+# Andy Warhol
+
+## Overview
+Andy Warhol (1928–1987) was an American artist and filmmaker widely regarded as the most important artist of the second half of the 20th century. A leading figure in the Pop art movement, he explored the relationship between advertising, consumerism, mass media, and celebrity culture, challenging traditional boundaries between high and low culture through mechanical reproduction techniques like silkscreen printing. His studio, the Factory, became a legendary hub for avant-garde experimentation, bringing together drag queens, poets, musicians, and wealthy patrons. Warhol’s practice spanned painting, film, photography, publishing, television, and performance art, embodying his philosophy of "Business Art" where commercial success was itself an artistic medium. His work remains among the most valuable in the global art market, and his influence on contemporary culture—from the concept of "15 minutes of fame" to the blurring of art and commerce—is pervasive.
+
+## Timeline
+- **August 6, 1928** — Born Andrew Warhola Jr. in Pittsburgh, Pennsylvania, to Rusyn immigrant parents.
+- **1949** — Graduates Carnegie Institute of Technology (BFA); moves to New York City; begins commercial illustration career.
+- **1952** — First solo exhibition, *Fifteen Drawings Based on the Writings of Truman Capote*, at Hugo Gallery.
+- **1961–1962** — Transitions to fine art; adopts silkscreen printing; creates *Campbell's Soup Cans* and *Marilyn Diptych*.
+- **July 9, 1962** — West Coast debut solo exhibition of *Campbell's Soup Cans* at Ferus Gallery, Los Angeles.
+- **1964** — Relocates studio to 231 East 47th Street, dubbed "the Factory" (silver-painted by Billy Name).
+- **1966–1967** — Manages Velvet Underground; produces *Exploding Plastic Inevitable* multimedia shows; releases *Chelsea Girls*.
+- **June 3, 1968** — Shot by Valerie Solanas at the Factory; nearly dies; spends nearly two months hospitalized.
+- **1969** — Co-founds *Interview* magazine; releases *Blue Movie*; begins Polaroid portrait practice.
+- **1975** — Publishes *The Philosophy of Andy Warhol*; paints *Mao* series; attends White House state dinner.
+- **1977** — Regular at Studio 54; creates *Torsos* and *Athletes* series; proposes unrealized "Andy-Mat" restaurant.
+- **1980** — Publishes *POPism: The Warhol '60s*; co-founds New York Academy of Art; creates *Ten Portraits of Jews of the Twentieth Century*.
+- **1984–1985** — Collaborates with Jean-Michel Basquiat on over 50 large works; joint exhibition receives negative reviews.
+- **1986** — Creates *Self-Portraits*, *Statues of Liberty*, *Cars* (for Mercedes-Benz), and *Last Supper* series.
+- **February 22, 1987** — Dies at age 58 from cardiac arrhythmia following gallbladder surgery at New York Hospital.
+- **1994** — Andy Warhol Museum opens in Pittsburgh, largest single-artist museum in the U.S.
+- **May 2022** — *Shot Sage Blue Marilyn* (1964) sells for $195 million, highest auction price for an American artwork. |
+
+## Body
+
+### Early Life and Commercial Beginnings
+Warhol was born in Pittsburgh to working-class Rusyn emigrants from Mikó, Austria-Hungary (now Slovakia). A childhood bout with Sydenham’s chorea (St. Vitus’ Dance) confined him to bed, where he drew, made scrapbooks from Hollywood magazines, and used a Kodak Baby Brownie camera; his family built a basement darkroom for him. He attended free Saturday classes at the Carnegie Institute, then Schenley High School, and earned a scholarship to the Carnegie Institute of Technology (BFA 1949). His father died in 1942 from tubercular peritonitis. As a student, Warhol worked as a produce huckster, window dresser at Horne’s department store, and art director of the student magazine *Cano*, producing his first published illustrations in 1948–49.
+
+Moving to New York in 1949 with classmate Philip Pearlstein, Warhol quickly secured commercial work. On his second day, *Glamour* art director Tina Fredericks bought a drawing and commissioned shoe illustrations. Throughout the 1950s, he became a top fashion illustrator for *Vogue*, *Harper’s Bazaar*, *Mademoiselle*, and *Look*, and designed album covers for RCA Records. He developed a signature "blotted line" technique—inking a drawing on Strathmore board and pressing it to transfer broken, variable lines—which combined drawing and printmaking. In 1952, gallerist Alexander Iolas organized his first solo show at the Hugo Gallery. Warhol won Art Directors Club medals in 1952 and 1956, and his whimsical, gold-leaf shoe portraits of celebrities sold at the Bodley Gallery. Despite commercial success, the Museum of Modern Art declined his gift of a shoe drawing in 1956 (citing storage limits), though it included one in a group show that year—his first museum exposure.
+
+### Pop Art Breakthrough and the Factory
+Frustrated by lack of gallery representation and the similarity of his comic-strip paintings to Roy Lichtenstein’s, Warhol pivoted in 1961–62 to mechanically reproduced imagery: dollar bills, then Campbell’s Soup cans. He learned silkscreen basics from Floriano Vecchi of Tiber Press—transferring photos to acetate, preparing screens, pulling ink with a squeegee—to achieve an "assembly-line effect." After rejections from Leo Castelli and others, Irving Blum gave him a solo show at the Ferus Gallery (July 1962), exhibiting 32 soup-can canvases. The show, and inclusion in Sidney Janis’s *The New Realists* (October 1962), marked Pop art’s institutional arrival. *Time* magazine featured him in "The Slice-of-Cake School" (May 1962), and a MoMA symposium in December 1962 attacked Pop artists for "capitulating" to consumerism.
+
+In 1964, Warhol moved to 231 East 47th Street, the "Factory," silvered by Billy Name. He used assistants (notably Gerard Malanga) to scale production. That year he exhibited grocery-carton sculptures (*Brillo Boxes*, *Heinz Ketchup*, etc.) at the Stable Gallery and participated in *The American Supermarket* at Paul Bianchini’s gallery, a simulated store where everything was artist-made—directly confronting the public with "what art is." He also created *Thirteen Most Wanted Men* for the 1964 World’s Fair, painted over by officials before opening. In 1965, he announced retirement from painting to focus on film, though he soon returned (e.g., *Cow* wallpaper for Castelli, 1966).
+
+### Film, Superstars, and Exploding Plastic Inevitable
+From 1963–68, Warhol made over 600 underground films. Early minimalist works—*Sleep* (1964, 5+ hours), *Empire* (1965, 8 hours), *Blow Job* (1964), *Vinyl* (1965)—tested duration and improvisation. *Chelsea Girls* (1966), with dual 16mm projections and alternating sound, became the first underground film to gain wide critical attention. His "superstars"—Edie Sedgwick, Viva, Ultra Violet, Candy Darling, Joe Dallesandro, Holly Woodlawn, Jackie Curtis, and others—embodied his concept of fleeting celebrity; his remark "everyone will be famous for 15 minutes" appeared in a 1967 *Time* article.
+
+In 1965–66, Warhol managed the Velvet Underground, integrating them into the *Exploding Plastic Inevitable* (EPI), a touring multimedia show of film, light, and live music at venues like the Dom/Electric Circus. He financed their debut *The Velvet Underground & Nico* (1967) and designed its cover. After creative disagreements, Lou Reed fired Warhol in 1967.
+
+### Assassination Attempt and Business Turn
+On June 3, 1968, radical feminist writer Valerie Solanas shot Warhol and critic Mario Amaya at the Factory. Warhol barely survived; complications left him wearing a surgical corset for life. Solanas, author of the *SCUM Manifesto*, was diagnosed with paranoid schizophrenia and sentenced to three years. During Warhol’s hospitalization, Paul Morrissey took over filmmaking (*Flesh*, 1968), and Jed Johnson, a Factory assistant, became Warhol’s live-in partner and caregiver for 12 years.
+
+The shooting transformed the Factory into a regulated business enterprise. Warhol founded *Interview* magazine (1969), produced the play *Pork* (1971), published *The Philosophy of Andy Warhol* (1975) and *POPism* (1980), and expanded into television (*Andy Warhol’s TV*, 1980–83; *Fifteen Minutes*, 1985–87). He resumed painting with commissioned portraits (charging $25,000 each by the 1970s) and series: *Mao* (1972–73), *Athletes* (1977), *Skulls*, *Oxidation* ("piss paintings," 1977–78), *Shadows* (1978–79), *Myths* (1981), *Endangered Species* (1983), *Reigning Queens* (1985), *Statues of Liberty* (1986), *Self-Portraits* (1986), and *Last Supper* (1986, based on Leonardo). He also collaborated with Jean-Michel Basquiat (1984–85, over 50 works) and Francesco Clemente.
+
+### Art Market and Late Career
+Warhol’s market accelerated during his lifetime: *Campbell’s Soup Can with Peeling Label* sold for $60,000 in 1970 (record for a living American artist); *19 Cents* reached $95,000 in 1978. Posthumously, his works became global blue-chip assets. *Silver Car Crash (Double Disaster)* sold for $105.4 million (2013); *Shot Sage Blue Marilyn* for $195 million (2022, record for American art). Major collectors included Emily and Burton Tremaine (*Marilyn Diptych* to Tate), Robert and Ethel Scull (*Ethel Scull 36 Times* to Met), and later Steven A. Cohen, Kenneth C. Griffin, and others. The Andy Warhol Foundation, established per his will (1987), administers his estate, supports experimental art, and published the *Catalogue Raisonné*; its Authentication Board operated 1995–2012.
+
+### Personal Life, Religion, and Collections
+Warhol lived as a gay man before gay liberation, often veiling his sexuality. He had relationships with Edward Wallowitch, John Giorno, Philip Fagan, Danny Williams, and Jon Gould; his longest partnership was with Jed Johnson (1968–80). He claimed virginity in 1980, though friends and a 1960 STD treatment contradicted this. A practicing Ruthenian Catholic, he attended Mass weekly, volunteered at soup kitchens, met Pope John Paul II (1980), and financed his nephew’s seminary. Religious themes appear in *Imitation of Christ* (1967), *Crosses* (1982), and the vast *Last Supper* series. He was an avid collector ("pack rat"), assembling 610 Time Capsules (1974–87) of daily ephemera, plus folk art, cookie jars, jewelry, and a 1,200+ book library. His estate auction (Sotheby’s, 1988) realized $25.3 million.
+
+### Death and Legacy
+Warhol avoided gallbladder surgery for years due to hospital phobia. Admitted February 20, 1987, he underwent surgery February 21; his gallbladder was near perforation. He appeared stable post-op but died of sudden cardiac arrhythmia at 6:31 a.m. on February 22. A New York State Health Department report cited inadequate nursing care (overhydration, missed notes, possible antibiotic allergy); the family’s malpractice suit settled out of court. Funeral in Pittsburgh (Byzantine Catholic rite); memorial at St. Patrick’s Cathedral (2,000+ attendees). The Andy Warhol Museum opened in Pittsburgh (1994); the Warhol Preserve in Montauk (1992); a Mercury crater named for him (2012); Order of the White Double Cross (Slovakia, 2024); Pittsburgh Walk of Fame inductee (2025).
+
+## Terms
+- **Pop art**: An art movement emerging in the 1950s–60s that used imagery from popular culture, advertising, and mass media, challenging distinctions between "high" and "low" art.
+- **Silkscreen printing**: A printmaking technique where ink is forced through a mesh screen onto a substrate; Warhol used it to mechanically reproduce photographic images on canvas, creating an "assembly-line effect."
+- **The Factory**: Warhol’s studio at 231 East 47th Street (1964–68), silver-painted by Billy Name, serving as a production site and social hub for "superstars," musicians, and patrons.
+- **Superstars**: A rotating group of Factory regulars (e.g., Edie Sedgwick, Viva, Candy Darling, Joe Dallesandro) who starred in Warhol’s films and embodied his concept of manufactured, fleeting celebrity.
+- **Exploding Plastic Inevitable (EPI)**: A 1966–67 touring multimedia show combining Warhol’s films, strobe lights, and live performances by the Velvet Underground, staged in venues like the Dom/Electric Circus.
+- **Blotted line**: Warhol’s early drawing technique: inking a pencil drawing on Strathmore board and pressing it to transfer broken, variable lines, merging drawing and rudimentary printmaking.
+- **Business Art**: Warhol’s philosophy that "being good in business is the most fascinating kind of art," treating commercial enterprise as an artistic medium.
+- **Time Capsules**: 610 boxes (1974–87) Warhol filled with daily ephemera—letters, photos, receipts, memorabilia—as a conceptual archive of his life.
+- **Oxidation paintings**: Abstract works (1977–78) created by exposing metallic paint to urine (Warhol’s and assistants’), also called "piss paintings."
+- **Catalogue Raisonné**: A comprehensive, scholarly inventory of an artist’s accepted works; the Andy Warhol Foundation publishes the multi-volume *Andy Warhol Catalogue Raisonné* for paintings and sculptures.
+
+## Debates and open questions
+- **Authorship and collaboration**: To what extent are Warhol’s silkscreen paintings—executed largely by assistants following his directions—"by" him? The Authentication Board’s dissolution (2012) followed lawsuits over works it rejected, highlighting unresolved attribution standards.
+- **Commercialism vs. critique**: Critics remain divided whether Warhol’s embrace of consumer culture and portrait commissions constituted a critical mirror of American capitalism or a capitulation to it—a debate voiced at the 1962 MoMA symposium and continuing in scholarship.
+- **Sexuality and identity**: Warhol’s public claims of virginity/asexuality conflict with evidence of relationships and a 1960 STD treatment. Scholars debate whether his performed "blankness" was a protective armor, a strategic persona, or a genuine expression of vulnerability.
+- **Film authorship**: After 1968, Paul Morrissey directed most Warhol-branded films (*Flesh*, *Trash*, *Heat*, *Bad*). The division of creative control between Warhol (producer/brand) and Morrissey (director) complicates the filmography’s authorship.
+- **Market valuation drivers**: Warhol’s auction records ($195M for *Shot Sage Blue Marilyn*, 2022) reflect celebrity subject matter, scarcity of early paintings, and generational collector cycles. Dealers describe his market as a "seesaw being pulled uphill," but the relative weight of provenance, condition, and subject remains debated.
+- **Religious sincerity**: Warhol’s devout Catholic practice (weekly Mass, papal audience, funding seminary) contrasts with his public persona and erotic work. The 2021–22 Brooklyn Museum exhibition *Andy Warhol: Revelation* reopened discussion of how faith informed his art.

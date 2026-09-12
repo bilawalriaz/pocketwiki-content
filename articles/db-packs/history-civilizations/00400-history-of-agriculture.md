@@ -1,0 +1,35 @@
+# History of agriculture
+
+Agriculture is the deliberate cultivation of plants and domestication of animals for food. It began independently in at least eleven regions of the Old and New World around 12,000 years ago, in a shift called the Neolithic Revolution that turned nomadic hunter-gatherers into settled farmers, enabled permanent villages, and made cities possible.
+
+## How and why farming began
+
+For most of human prehistory, people collected wild plants and hunted wild animals. Wild grains were already being eaten at Ohalo II near the Sea of Galilee around 21,000 BC, but they were not yet planted or domesticated. The transition was gradual: people first intensified the use of wild stands, then began sowing them, and only later did the plants change genetically into domesticated forms. In the Levant, the favored explanation is climate change at the end of the last ice age, around 11,000 BC. Longer dry seasons favored annual plants that left storable seeds or tubers, and these storable foods made year-round village life viable.
+
+A useful distinction is that cultivation is a human behavior, while domestication is a genetic change in the plant or animal. Early Neolithic farmers in the Levant planted cereals and pulses for centuries before those species evolved the traits, such as non-shattering seed heads, that mark true domestication.
+
+## The first domestications
+
+By 9500 BC, eight "founder crops" appear together at Pre-Pottery Neolithic B sites in the Levant: emmer wheat, einkorn wheat, hulled barley, peas, lentils, bitter vetch, chickpeas, and flax. These cereals and pulses together provided balanced nutrition and storable calories, which is why this package proved so durable. Sheep were domesticated in Mesopotamia by about 11,000 BC, pigs at roughly the same time, and cattle from wild aurochs in the area of modern Turkey and India around 8500 BC.
+
+In China, rice was domesticated in the Yangtze basin between about 11,500 and 6200 BC, with the earliest known cultivation around 5700 BC, and millet in the north between 8000 and 6000 BC. The independent American center produced maize from teosinte in southern Mexico around 7000 BC, potatoes in the Andes between 8000 and 5000 BC, and cassava in the Amazon no later than 7000 BC. New Guinea domesticated sugarcane and taro around 7000 BC, and Africa added sorghum, pearl millet, yams, cowpeas, coffee, and oil palm in later millennia. Cotton was domesticated in Peru by 4200 BC.
+
+A point of ongoing debate is the claim of rye cultivation at Tell Abu Hureyra well before the accepted date, which critics challenge because the identifications rest on grain alone, not chaff, and the radiocarbon dates are inconsistent.
+
+## Farming, irrigation, and early civilizations
+
+Once crops and livestock existed, food surplus allowed occupational specialization and cities. Sumerian farmers grew barley and wheat from about 8000 BC, relying on Tigris–Euphrates irrigation canals to support dense urban populations; the first ploughs appear in Uruk pictographs around 3000 BC. Egyptian agriculture depended on the Nile's predictable flooding and basin irrigation from the pre-dynastic period onward. In the Indus Valley, Mehrgarh cultivated barley and wheat from the eighth millennium BC, with domesticated sheep, goats, and zebu cattle gradually replacing hunting by the fifth millennium BC, and large-scale irrigation developing by about 4500 BC. Chinese engineers later developed the hydraulic trip-hammer in the 1st century BC and heavy iron ploughs that would transform Northern European farming by the 10th century. Greece's mountainous terrain allowed cultivation on only about 10% of the land, forcing chronic grain imports. Rome inherited Sumerian techniques and built the administrative framework that would become the medieval manorial system, with farms ranging from small plots to latifundia of over 500 iugera.
+
+Prehistoric American agriculture lacked both large-seeded cereals and large draft animals, so it relied on hand labor and polyculture rather than animal-drawn ploughs and monoculture. The north–south span of the Americas created enormous climatic variety, which fostered many independent domestications. At the moment of European contact, maize produced about two and a half times more calories per acre than wheat or barley. The Aztecs built chinampas, artificial islands in Lake Texcoco, and the Maya used canals and raised fields between about 400 BC and 900 AD. In North America, the Three Sisters system combined maize, beans, and squash: the maize stalk supported the climbing beans, the beans fixed nitrogen in the soil, and the squash leaves shaded out weeds as a living mulch.
+
+## Medieval Europe and the Columbian exchange
+
+Medieval Europe saw monasteries preserve agricultural knowledge, the heavy carruca plough open dense northern forests, three-field rotation that included nitrogen-fixing legumes, improved horse harnesses, and a rapid spread of water- and windmills. Recent research suggests that medieval technology was adequate under normal weather; only exceptional events, such as the great famine of 1315–1317, caused serious shortfalls. From the 8th to 14th centuries, Andrew Watson's "Arab agricultural revolution" spread sugar cane, rice, cotton, and citrus westward along Muslim trade routes into Europe via Al-Andalus. After 1492, the Columbian exchange moved maize, potatoes, sweet potatoes, and manioc from the Americas to the Old World, and wheat, barley, rice, turnips, horses, cattle, sheep, and goats in the opposite direction. The potato dramatically increased European food supply, but its narrow genetic base set up the Irish famine of the 1840s, which killed more than a million people.
+
+## The modern transformation
+
+The British Agricultural Revolution of the 17th to mid-19th centuries combined enclosure, mechanization, the four-field rotation popularized by Charles Townshend, and selective breeding pioneered by Robert Bakewell. Wheat yields rose from about 19 to 30 bushels per acre between 1720 and 1840, and the resulting labor surplus fed directly into the Industrial Revolution. Key inventions included Jethro Tull's seed drill of 1701 and Andrew Meikle's threshing machine of 1784.
+
+The Haber-Bosch process, patented by Fritz Haber and commercialized by Carl Bosch at BASF in 1910, made industrial synthesis of nitrogen fertilizer possible for the first time, breaking the long-standing constraint that crop yields were limited by how much nitrogen the soil and legumes could supply. The Green Revolution of the 1940s to late 1970s, led by Norman Borlaug, then spread high-yield cereals, irrigation, hybrid seeds, fertilizers, and pesticides across much of the developing world. In the United States, mechanization drove the farm population from 24% in 1900 to 1.5% by 2002, while state-directed collective farming in the USSR and China contributed to major famines in 1932–33 and 1959–61.
+
+Rice yield potential has not increased since 1966, and maize potential has barely grown in 35 years, raising open questions about how the next generation of higher yields will be achieved.

@@ -1,0 +1,77 @@
+# René Descartes
+
+## Overview
+René Descartes (1596–1650) was a French polymath whose work in philosophy, mathematics, and physics laid the groundwork for the Scientific Revolution and modern Western philosophy. Rejecting Aristotelian scholasticism and the authority of tradition, he introduced **methodological skepticism** (hyperbolic doubt)—systematically doubting all beliefs that could possibly be false—to discover an indubitable foundation for knowledge. This yielded his famous first principle, *cogito, ergo sum* ("I think, therefore I am"), establishing the thinking self (*res cogitans*) as the primary certainty. From this basis, he argued for the existence of a benevolent God and the reality of the material world (*res extensa*), formulating **Cartesian dualism**: the doctrine that mind (unextended, thinking substance) and body (extended, mechanical substance) are ontologically distinct yet closely united in humans. In mathematics, he invented analytic geometry (Cartesian coordinates), unifying algebra and geometry and enabling the later development of calculus. In physics, he championed a **mechanical philosophy** explaining nature through matter and motion, formulated early conservation laws, and contributed to optics and physiology.
+
+## Timeline
+- **31 Mar 1596** — Born in La Haye en Touraine, France.
+- **1607–1614** — Educated at Jesuit College of La Flèche; introduced to mathematics and physics.
+- **1616** — Earned law degree at University of Poitiers.
+- **1618** — Joined Dutch States Army in Breda; met Isaac Beeckman, who inspired his mathematical and mechanical philosophy pursuits.
+- **10–11 Nov 1619** — Experienced three dreams in Neuburg an der Donau; claimed divine revelation of new philosophy and analytic geometry.
+- **1628** — Moved to Dutch Republic; began major philosophical and scientific work.
+- **1633** — Suppressed *Treatise on the World* after Galileo’s condemnation by the Inquisition.
+- **1637** — Published *Discourse on the Method* with three essays: *Dioptrics*, *Meteors*, and *Geometry* (introducing analytic geometry).
+- **1641** — Published *Meditations on First Philosophy* (Latin), establishing *cogito*, God’s existence, and mind-body dualism.
+- **1644** — Published *Principles of Philosophy*; outlined laws of motion, conservation of "quantity of motion," and vortex cosmology.
+- **1649** — Published *Passions of the Soul*; moved to Stockholm to tutor Queen Christina of Sweden.
+- **11 Feb 1650** — Died of pneumonia (or peripneumonia) in Stockholm.
+- **1663** — Works placed on Catholic Index of Prohibited Books.
+
+## Body
+
+### Life and Intellectual Formation
+Descartes was born into a minor noble family in Touraine. After his mother’s early death, he was educated at the Jesuit College of La Flèche (1607–1614), where he studied mathematics and physics alongside scholastic philosophy. He earned a law degree at Poitiers (1616) but pursued a military career, joining the Dutch States Army in 1618. In Breda, he met **Isaac Beeckman**, a proponent of **mechanical philosophy** (the view that natural phenomena are explained by the motion and collision of minute corpuscles). Beeckman directed Descartes toward a mathematical physics. On the night of 10–11 November 1619, while wintering in Neuburg an der Donau, Descartes experienced three dreams he interpreted as a divine mandate to reform philosophy using the mathematical method. He claimed to have discovered analytic geometry and the core of his method that night. After leaving the army (1620), he traveled, settled in Paris, and wrote the unfinished *Rules for the Direction of the Mind* (1626–28). In 1628, he moved to the Dutch Republic for intellectual freedom, remaining there for over 20 years.
+
+### The Method and *Cogito*
+In *Discourse on the Method* (1637) and *Meditations on First Philosophy* (1641), Descartes sought to replace Aristotelian **foundationalism**—which relied on sensory experience and syllogistic deduction—with a new architecture of knowledge. He employed **hyperbolic doubt** (methodological skepticism): rejecting any belief that could be doubted, including sensory perceptions (which deceive), the external world (which could be a dream), and even mathematical truths (which could be falsified by an **evil demon**, a hypothetical omnipotent deceiver). The doubt itself proved the existence of a doubter: *cogito, ergo sum* ("I think, therefore I am"). This first principle was validated by **clear and distinct perception**—an intellectual intuition so self-evident it cannot be doubted. Descartes defined "thought" (*cogitatio*) broadly as any mental activity of which one is immediately conscious (including doubting, willing, imagining). He concluded the self is a **thinking substance** (*res cogitans*), distinct from the body, which is known only through unreliable senses.
+
+### Mind–Body Dualism
+Descartes’s signature doctrine, **Cartesian dualism**, posits two fundamentally distinct substances: *res cogitans* (mind: unextended, indivisible, thinking) and *res extensa* (body: extended, divisible, unthinking matter). He argued for their **real distinction**: each can exist apart from the other (God could create them separately). The mind’s indivisibility contrasts with the body’s infinite divisibility. Yet in humans, they form a substantial union: sensations (pain, hunger) prove the mind is not merely a "pilot in a ship" but "intermingled" with the body. Descartes located the interaction in the **pineal gland**, a single midline brain structure where "animal spirits" (fine, rapid fluids in the nerves) mediate between soul and machine. This interactionism created the enduring **mind–body problem**: how can an unextended mind move an extended body? His dualism expelled **final causes** (Aristotelian teleology) from physics, treating nature as a machine, while preserving the soul’s immortality for theology.
+
+### God, Epistemology, and the External World
+To escape solipsism and validate science, Descartes proved God’s existence via two arguments in the *Meditations*:
+1.  **Trademark Argument** (Third Meditation): The idea of a perfect, infinite being (God) must have a cause with at least as much formal reality as the idea has objective reality. Since Descartes is finite, the cause must be God. The idea is a "trademark" left by the maker (*ex nihilo nihil fit*).
+2.  **Ontological Argument** (Fifth Meditation): Existence is a perfection; a supremely perfect being must exist, just as a triangle must have three angles.
+A benevolent God would not deceive us about clear and distinct perceptions or the involuntary sensory ideas caused by material things. Thus, the external world (*res extensa*) exists and is essentially geometric (extension, shape, motion). Knowledge is built by **deduction** from indubitable first principles, not induction from senses. This **rationalist foundationalism** shifted the guarantor of truth from divine revelation to human reason, enabling the Enlightenment’s anthropocentric turn.
+
+### Physics: Mechanical Philosophy and Conservation
+Descartes aimed to explain all nature mechanically—by the size, shape, and motion of corpuscles. In *Principles of Philosophy* (1644), he outlined three **laws of motion**:
+1.  Inertia: A body remains in its state unless acted upon.
+2.  Rectilinear motion: Motion is naturally straight; curves require external force.
+3.  Collision rules: In impact, the total "quantity of motion" (size × speed) is conserved.
+He discovered an early form of **conservation of momentum**, though he equated "quantity of motion" with scalar speed × size (not vector velocity × mass) and believed God conserved the *total* amount in the universe. As a **plenist**, he denied vacuum; space is filled with matter forming **vortices** (circular streams). Centrifugal force in vortices pushes fine matter outward and rough matter inward—this inward pressure he identified as **gravity**. He explained magnetism via "effluvia" (subtle particles) rarefying air to create pressure differences. In optics, he derived the **rainbow’s 42° angular radius** using the law of refraction (Snell’s law) and geometric construction, and independently stated the law of reflection. His meteorology used qualitative corpuscular theory: particles of elements join imperfectly, leaving pores filled with "subtile matter"; heat, wind, thunder, and lightning result from particle collisions and solar agitation.
+
+### Physiology, Psychology, and Animals
+Descartes treated the body as a hydraulic machine. **Animal spirits** (distilled from blood in the heart) flow through nerves (hollow tubes) to muscles, inflating them to cause motion. The pineal gland directs spirits via tiny movements. **Reflexes** (e.g., withdrawing a hand from fire) occur without the soul: heat → nerve endings → spirits to brain → spirits back to muscles. In *Passions of the Soul* (1649), he defined six **primitive passions** (wonder, love, hatred, desire, joy, sadness) as soul states caused by specific spirit patterns in the pineal gland. The soul can control passions by redirecting spirits. Regarding **animals**, Descartes denied them *reason* or *immaterial souls*; their behavior is purely mechanical. They lack the "innate state" for suffering; signs of distress are mere protective reflexes. This view sanctioned animal experimentation until Darwin challenged the human-animal discontinuity.
+
+### Mathematics: Analytic Geometry and Notation
+Descartes’s *La Géométrie* (1637) founded **analytic geometry**. He introduced the convention of using *x, y, z* for unknowns and *a, b, c* for knowns, and **exponential notation** (*x², x³*). He showed how algebraic equations represent geometric curves, and geometric problems reduce to algebra. Crucially, he treated powers (*a², a³*) as abstract magnitudes representable by line segments, breaking the Greek constraint that *a²* must be an area and *a³* a volume. This "universal mathematics" mechanized reasoning about unknowns. Frans van Schooten’s expanded Latin edition (1649–1659) transmitted this work to Newton and Leibniz, providing the algebraic foundation for **infinitesimal calculus**. Descartes’s **rule of signs** (bounding positive/negative roots of polynomials) remains standard.
+
+### Moral Philosophy and Provisional Morals
+Descartes viewed ethics as the highest science, rooted in metaphysics. While doubting everything, he adopted a **Provisional Moral Code** (*Discourse*, Part III): (1) Obey local laws and customs; (2) Be firm and resolute in actions; (3) Conquer oneself rather than fortune (adjust desires to what is attainable); (4) Choose the best occupation (devotion to truth). His mature ethics, in *Passions of the Soul* and correspondence with Princess Elisabeth, held that **virtue is correct reasoning** guided by knowledge; since reasoning depends on bodily health, moral philosophy must include physiology. He defended **free will** as the soul’s ability to affirm or deny judgments, independent of bodily determination.
+
+### Historical Impact and Reception
+Descartes shifted philosophy’s central question from "What is true?" (authority: God/Church) to "Of what can I be certain?" (authority: individual reason). This **anthropocentric revolution** made the human subject the autonomous guarantor of truth, undergirding the Enlightenment and modern subjectivity (Heidegger). His works were controversial: Henri de Roy was condemned for teaching Cartesian physics at Utrecht (1643); the Catholic Church banned his books (1663); Louis XIV prohibited Cartesian lectures (1671). Yet *Meditations* became the most studied text in Western philosophy. Pascal accused him of deism (using God only to start the world); Schoock accused him of atheism. Descartes insisted his metaphysics was compatible with orthodoxy but refused to prove theological dogmas (e.g., soul’s immortality) by reason alone.
+
+## Terms
+- ****Methodological skepticism (hyperbolic doubt)**** — A deliberate, systematic process of doubting all beliefs that can possibly be doubted to discover an indubitable foundation for knowledge.
+- ****Cogito, ergo sum**** — "I think, therefore I am"; Descartes’s first certainty: the act of doubting proves the existence of a thinking self.
+- ****Clear and distinct perception**** — An intellectual intuition so self-evident and undeniable that it cannot be doubted; the criterion of truth for Descartes.
+- ****Res cogitans / Res extensa**** — "Thinking substance" (mind: unextended, indivisible) and "Extended substance" (body/matter: divisible, geometric); the two fundamental substances in Cartesian dualism.
+- ****Cartesian dualism**** — The doctrine that mind and body are really distinct substances that interact (in humans, via the pineal gland) but can exist independently.
+- ****Animal spirits**** — Hypothetical fine, rapid fluids (distilled from blood) flowing through hollow nerves to mediate sensation, motion, and passion between body and soul.
+- ****Mechanical philosophy**** — The view that all natural phenomena (including life) are explained by the size, shape, and motion of minute corpuscles, without final causes or occult qualities.
+- ****Plenism**** — The doctrine that no vacuum exists; space is entirely filled with matter (subtle and gross) in constant motion.
+- ****Quantity of motion**** — Descartes’s conserved measure: size (bulk) × speed (scalar); precursor to momentum, but lacking vector velocity and distinct mass.
+- ****Analytic geometry**** — The use of algebraic equations to represent geometric curves via a coordinate system (Cartesian coordinates), unifying algebra and geometry.
+- ****Provisional Morals**** — Four practical maxims Descartes adopted while doubting all previous opinions: obey custom, be resolute, master desires, seek truth.
+- ****Evil demon (malin génie)**** — A hypothetical omnipotent deceiver who could falsify even mathematical truths; used to extend doubt to the intellect itself.
+
+## Debates and open questions
+*   **Mind–body interaction**: How can an unextended, immaterial mind causally interact with an extended, material body? Descartes’s pineal gland solution was widely criticized (e.g., by Princess Elisabeth and Gassendi) as physically inexplicable; the problem persists in philosophy of mind.
+*   **Circularity of the *cogito* and God**: The "Cartesian Circle" objection: Descartes uses clear and distinct perception to prove God’s existence, but relies on God’s veracity to guarantee clear and distinct perception. Defenders argue the *cogito* is self-validating prior to the proof.
+*   **Animal consciousness**: Descartes’s denial of animal sentience (pain as mere reflex) was ethically consequential. Modern science and Darwinian continuity challenge the sharp mechanistic distinction.
+*   **Conservation law priority**: Descartes conserved "quantity of motion" (size × speed) along straight lines. Leibniz later argued for *vis viva* (mass × velocity²); the modern momentum (mass × velocity) and energy concepts resolved the debate, but Descartes’s role as a precursor is debated.
+*   **Vacuum and vortices**: Descartes’s plenism and vortex cosmology were falsified by Newtonian gravity and experimental vacuum pumps (Torricelli, Pascal), yet his insistence on contact mechanics shaped early modern physics.
+*   **Faith vs. Reason**: Pascal’s charge of deism (God as mere "prime mover") versus Descartes’s claim of orthodoxy raises the question of whether his rationalist theology inadvertently secularized metaphysics.

@@ -1,0 +1,37 @@
+# Algebra
+
+## Definition
+
+Algebra is the branch of mathematics that studies **algebraic structures**: non-empty sets equipped with operations such as addition and multiplication, together with the manipulation of expressions within those systems. It generalizes arithmetic by introducing **variables** (symbols for unspecified quantities) alongside specific numbers. The field is commonly divided into **elementary algebra** (school-level work with variables), **linear algebra** (systems of linear equations and vector spaces), and **abstract algebra** (axiomatic study of groups, rings, fields, and related structures). **Universal algebra** and **category theory** provide still more general frameworks.
+
+The word derives from Arabic *al-jabr*, originally meaning surgical bonesetting. Al-Khwarizmi gave it a mathematical meaning in 825 CE as a method for transforming equations, in his treatise translated into Latin as *Liber Algebrae et Almucabola*. It entered English in the 16th century, initially meaning only the theory of polynomial equations, a scope that broadened in the 19th century.
+
+## Elementary algebra
+
+Elementary algebra extends arithmetic operations (addition, subtraction, multiplication, division, exponentiation, roots, logarithms) by allowing variables alongside numbers. **Expressions** combine variables (conventionally x, y, z) and constants (a, b, c). **Identities** hold for all values (2x + 5x = 7x); **conditional equations** hold only for some (x + 4 = 9 only if x = 5). Solving typically means isolating the variable by transformations that keep both sides balanced, using simplification and substitution. Equations can be interpreted geometrically: solutions form points on a graph.
+
+**Polynomials** are sums of terms, each a constant, variable, or product with positive integer exponents; **degree** is the maximal sum of exponents in a term. Factorization rewrites polynomials as products, revealing zeros. Quadratic, cubic, and quartic equations have general formulas, but no general solution exists for degree five or higher (Abel–Ruffini, 19th century). Numerical methods such as Newton–Raphson give approximate solutions. The **fundamental theorem of algebra**, proved in the early 19th century, guarantees every positive-degree polynomial with real or complex coefficients has at least one complex root, but does not provide a way to compute it.
+
+## Linear algebra
+
+Linear algebra studies systems of **linear equations** of the form a₁x₁ + … + aₙxₙ = b, seeking common solutions. **Matrices**, rectangular arrays of values, were introduced for compact notation of such systems, and all solution methods can be expressed as matrix manipulations, including inverse computation X = A⁻¹B. Techniques include substitution, elimination, Cramer's rule, Gaussian elimination, and LU decomposition. Inconsistent systems have no solution; consistent systems have one unique or infinitely many.
+
+**Vector spaces** are sets forming abelian groups under addition with compatible scalar multiplication; **linear maps** are functions compatible with both operations. In finite dimensions, linear maps correspond to matrices, so the two theories describe the same objects. Geometrically, each two-variable equation represents a line; intersections solve the system. Parallel lines mean no solution, identical lines mean infinitely many. Three-variable equations correspond to planes.
+
+## Abstract algebra
+
+Abstract algebra classifies structures by their operations and axioms. **Groups** have one associative operation, an identity element e (a∘e = e∘a = a), and inverses (a∘a⁻¹ = e). The integers form a group under addition; the natural numbers do not, because they lack additive inverses. Group theory includes the fundamental theorem of finite abelian groups and the Feit–Thompson theorem, a step toward classifying finite simple groups, a collaborative effort spanning over 10,000 journal pages, mostly published 1960–2004.
+
+**Rings** have two operations: addition forms a commutative group; multiplication is associative, has identity 1, and distributes over addition but need not be commutative. **Fields** are commutative rings with 1 ≠ 0 in which every nonzero element has a multiplicative inverse. Rational, real, and complex numbers are fields; the integers are not (1/7 is not an integer). **Galois theory** links fields and groups, and underpins results on polynomial solvability. Other structures include magmas, semigroups, monoids, modules, lattices, and algebras over a field; each is obtained by adding constraints, so a magma becomes a semigroup if its operation is associative.
+
+**Homomorphisms** are structure-preserving functions between underlying sets (h(x∘y) = h(x)⋆h(y)); bijective homomorphisms, called **isomorphisms**, indicate that two structures share the same form. A **subalgebra** shares operations and axioms but uses a subset closed under those operations. **Universal algebra** studies identities true across structures; a **variety** is the class of all structures satisfying a given set of identities. **Category theory** describes objects connected by composable morphisms with associativity and identity, providing a unifying language. A group, for instance, can be seen as the morphisms of a one-object category.
+
+## History
+
+Early work in Babylonia, Egypt, Greece, China, and India solved concrete problems; it is disputed whether these count as algebra proper or as precursors. Al-Khwarizmi (825 CE) classified equations into six standard forms with systematic procedures, abstracting from geometry and establishing algebra as self-contained. Brahmagupta (7th century) used zero and negative numbers in equations. Cardano's *Ars Magna* (1545) gave the first general cubic and quartic methods and discussed imaginary numbers. Viète and Descartes introduced symbolic notation, and some historians mark this as the turning point separating algebra's history from its prehistory. Gauss proved the fundamental theorem of algebra; Ruffini and Abel proved no general solution exists for degree five or higher; Galois responded with Galois theory, founding group theory.
+
+From the mid-19th century, interest shifted to the axiomatic study of structures. Hilbert, Steinitz, Noether, and Artin categorized structures into types. Universal algebra emerged from Whitehead (1898) and Birkhoff (1930s onward), spurring the algebraization of mathematics: topological algebra in the early 20th century, homological algebra in the 1940s–50s, and later category theory, model theory, and free algebras.
+
+## Applications and education
+
+Within mathematics, algebraic methods describe geometric figures and algebraic varieties, classify topological spaces through homotopy groups, and support number theory, combinatorics, calculus, and Boolean algebra for propositional logic. Beyond mathematics, algebra expresses scientific laws in physics, chemistry, and biology; supports economics, engineering, and computer science; enables machine learning through linear algebra; and applies group theory in crystallography, quantum mechanics, puzzles such as Sudoku and Rubik's Cubes, and origami. Teaching centers on elementary algebra in secondary education, since it requires mastery of arithmetic plus abstraction. Tools include balance scales, function machines, and word problems (for example, 2x + x = 12 gives x = 4). University curricula typically progress from matrices and vector spaces to groups, rings, and fields.

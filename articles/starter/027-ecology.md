@@ -1,0 +1,5 @@
+# Ecology
+
+*Study of organisms and their environment.*
+
+Ecology is the natural science of the relationships among living organisms and their environment. Ecology considers organisms at the individual, population, community, ecosystem, and biosphere levels. Ecology overlaps with the closely related sciences of biogeography, evolutionary biology, genetics, ethology, and natural history.

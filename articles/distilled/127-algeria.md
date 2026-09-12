@@ -1,0 +1,80 @@
+# Algeria
+
+## Overview
+
+Algeria, officially the People's Democratic Republic of Algeria, is the largest country in Africa and the tenth largest in the world, spanning over 2,381,741 square kilometres in the Maghreb region of North Africa. With a population exceeding 47 million, it is a regional power in North Africa and a middle power globally, possessing the largest military budget in Africa and the third-largest economy on the continent, driven primarily by its substantial petroleum and natural gas reserves. Its history layers indigenous Amazigh (Berber) civilizations, successive Islamic dynasties, Ottoman regency, French colonial rule, a brutal war of independence, and post-independence political struggles, all shaping its distinct Arab-Islamic and Amazigh identity.
+
+## Timeline
+
+- **~2.4–1.9 million years ago** — Stone artifacts at Ain Boucherit and Ain Hanech represent some of the oldest archaeological materials in North Africa.
+- **203–202 BC** — Masinissa unifies Berber territories into the Kingdom of Numidia.
+- **647–709** — Muslim conquest of the Maghreb brings the region under Umayyad Caliphate control.
+- **778** — Abdel Rahman Ibn Rustam establishes the Rustamid emirate at Tahert, the first independent Muslim state in the Maghrib.
+- **909** — The Fatimids overthrow the Aghlabids and establish the Fatimid Caliphate in Ifriqiya.
+- **1236–1550** — The Zayyanid dynasty rules the central Maghrib from Tlemcen.
+- **1516** — The Regency of Algiers is founded by the Barbarossa brothers, becoming a largely autonomous Ottoman state.
+- **1830** — France invades and captures Algiers, ending the Regency; formal annexation follows in 1848.
+- **1954–1962** — The Algerian War of Independence is fought, ending with independence on 5 July 1962.
+- **1992–2002** — A bloody civil war erupts after the military cancels elections won by the Islamic Salvation Front.
+- **2019** — President Abdelaziz Bouteflika resigns after mass protests; Abdelmadjid Tebboune is elected president in December.
+
+## Body
+
+### Prehistory and Ancient History
+
+Stone artifacts from Ain Boucherit, estimated at ~1.9 million years old, and even older ones at ~2.4 million years, provide evidence that ancestral hominins inhabited northern Africa much earlier than previously thought, arguing for early dispersal of stone tool manufacture from East Africa or a possible multiple-origin scenario. Later, Neanderthal tool makers produced hand axes in the Levalloisian and Mousterian styles (43,000 BC), and the Aterian flake tool industry (from ~30,000 BC) represents the highest state of Middle Paleolithic techniques. The Iberomaurusian blade industry spread along the Maghreb coast between 15,000 and 10,000 BC, and Neolithic civilisation developed in the Saharan and Mediterranean Maghreb, richly depicted in the Tassili n'Ajjer paintings. The mixture of these peoples coalesced into the Berbers, the indigenous peoples of northern Africa.
+
+Carthaginians established settlements along the Algerian coast by 600 BC, such as Icosium and Hippo Regius, collecting tribute from Berber tribes rather than conquering them. By the third century BC, two major Berber kingdoms existed: the Masaesyli and the Massyli. Masinissa of the Massyli, supported by Rome and playing a key role in the Battle of Zama, unified the territories into the Kingdom of Numidia, with its capital at Cirta. After Masinissa's death in 148 BC, his grandson Jugurtha reunified Numidia but was defeated and captured by Rome in 106 BC. Rome gradually tightened control, turning Numidia into a protectorate and eventually imposing direct rule after a Berber revolt in 40 AD. Roman rule had a largely negative long-term impact on Berber society, pushing many into the hinterland where they retribalized and resisted. Christianity spread in the 3rd–4th centuries, with Saint Augustine of Hippo as its most prominent Berber figure, but it declined among Berbers after being associated with Roman exploitation.
+
+The Vandals ended Roman control in 429 AD, and most of Algeria returned to Berber tribal rule. In 533, Emperor Justinian I launched a campaign under General Belisarius that decisively defeated the Vandals. Byzantine rule was limited mainly to coastal provinces and faced resistance from Moorish tribes, heavy taxation, and the Justinian Plague. A growing sense of local autonomy emerged, exemplified by Governor Gregory the Patrician, who minted his own coins from 646.
+
+### Middle Ages
+
+The Muslim conquest of the Maghreb (647–709) unfolded in three phases, ultimately bringing the region under Umayyad control. Oqba ibn Nafi founded Kairouan in 670 but was killed by a Berber coalition under Kusayla in 683. The decisive phase, led by Hassan ibn al-Nu'man and Musa ibn Nusayr, defeated the Berber queen Kahina around 697 and completed the conquest by 709. However, Berber converts were treated as second-class non-Arabs, and many supported Kharijite movements, triggering frequent revolts.
+
+Following the Berber revolt, numerous independent states emerged. The Rustamid imamate at Tahert (778) was the first independent Muslim state in the Maghrib, prospering through trans-Saharan trade until defeated by the Fatimids in 909. The Fatimid Caliphate, established in 909 through the missionary work of Abu Abdullah al-Shi'i among the Kutama Berbers, built a powerful North African empire and shifted its capital to Egypt in 971 after conquering it in 969. The Zirid Dynasty (973–1152), appointed as governors, founded the cities of Algiers, Médéa, and Miliana. When the Zirids cut ties with the Fatimids in 1043, the Fatimids sent the Arab tribes of Banū Hilāl and Banū Sulaym, whose invasion caused widespread destruction. A breakaway branch, the Hammadid Dynasty (1018–1152), ruled central Algeria from Béjaïa until defeated by the Almohads.
+
+The Almoravids, a puritanical Sanhaja Berber movement founded by Abd Allah ibn Yasin, built a powerful empire and conquered much of western and central Algeria, including Algiers in 1082. They were overthrown by the Almohads, a reformist movement founded by Muhammad ibn Tumart, who unified the Maghreb by 1147. The Almohad empire reached its peak under Abu Yaqub Yusuf and Yaqub al-Mansur, who patronized philosophy including Ibn Rushd (Averroes), but collapsed after major defeats, especially at Las Navas de Tolosa in 1212. Following the collapse, the Zayyanid dynasty (1236–1550) ruled the central Maghrib from Tlemcen, which flourished as a major political, economic, and cultural centre on trans-Saharan trade routes. The kingdom was constantly threatened by the Marinids of Morocco and the Hafsids of Ifriqiya, and weakened over time due to external conflicts and internal betrayals.
+
+### Early Modern Era
+
+The Ottoman Regency of Algiers was founded in 1516 by the corsair brothers Aruj and Hayreddin Barbarossa as a response to Spanish encroachment. Although nominally loyal to the Ottoman sultan, the Regency evolved into a highly autonomous "military republic" dominated by janissaries, corsair captains, and the divan council. It became one of the major naval powers of the Mediterranean during the 16th and 17th centuries, with its economy relying on privateering, slave-taking, and trade. Corsair fleets attacked European shipping, forcing states like Britain, France, Spain, and the young United States to pay tribute. The Casbah was built during this period. Power shifted through several ruling systems—beylerbeys, pashas, aghas—before the era of the deys began in 1671. The Regency expanded its authority over much of present-day Algeria while allowing autonomy to tribal leaders. By the early 19th century, the Regency declined due to European naval superiority, internal unrest, and economic difficulties. Relations with France deteriorated after the 1827 Fly-Whisk Incident, and France invaded in 1830, capturing Algiers and ending the Regency. Many Algerian historians regard the Regency as a foundational stage of modern Algerian statehood.
+
+### French Colonisation (1830–1962)
+
+French rule was marked by fierce resistance, notably from Emir Abdelkader, who organized a real state in western Algeria and surrendered in 1847 after years of war. Resistance continued through revolts by the Kabyles in the 1850s and 1871, all brutally suppressed, followed by massive land expropriation. Historian Ben Kiernan wrote that by 1875, the war had killed approximately 825,000 indigenous Algerians. Colonial Algeria formally became French departments in 1848 but operated under institutions that strongly favoured European settlers (colons, later Pied-Noirs). The economy became heavily dependent on France, dominated by vineyards, leaving the Muslim population marginalized and impoverished.
+
+Algerian nationalism emerged before World War I through the moderate Jeunes Algériens. World War I proved transformative, radicalizing the movement after promised reforms were undermined. Messali Hadj demanded full independence, while Shaykh Ben Badis fostered cultural and Islamic nationalism. During World War II, Algeria came under Vichy control before being liberated by the Allies in Operation Torch. The violent massacre at Sétif and Guelma in May 1945 convinced many that armed struggle was the only solution. The Front de Libération Nationale (FLN) was formed in 1954, and the Algerian War began with coordinated attacks on 1 November 1954. The war was one of the most important Third World anti-colonial struggles, marked by the Battle of Algiers (1956–57), where French paratroopers crushed FLN urban terrorism using torture, gaining military victory but suffering major political damage. After Charles de Gaulle's return to power in 1958, the FLN created the Provisional Government of the Algerian Republic (GPRA). The Évian Accords were signed in March 1962, and Algeria became independent on 5 July 1962. Historian Alistair Horne estimated Algerian casualties at around 700,000. More than 900,000 Pied-Noirs fled between 1962 and 1964, and between 30,000 and 150,000 Harkis (Algerians who fought for France) were killed.
+
+### Independence and Civil War (1962–2002)
+
+Ahmed Ben Bella became Algeria's first president in September 1962 but was overthrown in 1965 by Houari Boumédiène, who collectivised agriculture and launched a massive industrialisation drive, nationalising oil extraction facilities. His successor, Chadli Bendjedid, introduced some liberal economic reforms and promoted Arabisation. Economic recession caused by the 1980s oil price collapse led to social unrest, and by the end of the decade Bendjedid introduced a multi-party system. In December 1991, the Islamic Salvation Front (FIS) dominated the first round of legislative elections. Fearing an Islamist government, the authorities cancelled the elections in January 1992, banned the FIS, and triggered a civil insurgency in which more than 100,000 people are thought to have died. President Abdelaziz Bouteflika, elected in 1999, announced a "Civil Concord" initiative granting amnesty to many, and violence fell rapidly. He was re-elected in 2004 and 2009 after constitutional amendments removed the two-term limit. A continuing series of protests started in December 2010, and the government lifted the 19-year-old state of emergency in February 2011. Bouteflika resigned on 2 April 2019 after mass protests, and Abdelmadjid Tebboune became president in December 2019.
+
+### Geography, Government, and Economy
+
+Algeria's geography features the Tell Atlas and Saharan Atlas mountain ranges, with vast plains and highlands between them, and the Sahara desert dominating the south. The highest point is Mount Tahat (3,003 metres). The climate is semi-arid, with rainfall fairly plentiful along the coast (400–670 mm annually) but decreasing inland. Algeria is divided into 69 provinces (wilayas), 553 districts, and 1,541 municipalities. The government has been described as authoritarian, with a group of unelected civilian and military "décideurs" known as "le pouvoir" exercising de facto rule. The parliament is bicameral, and the president is elected for a five-year term, limited to two terms. Algeria's economy remains dominated by the state, reliant on hydrocarbons, which account for roughly 60% of budget revenues, 30% of GDP, and 87.7% of export earnings. Sonatrach, the national oil company, is the largest company in Africa. Algeria has the 10th-largest reserves of natural gas in the world and ranks 16th in oil reserves.
+
+### Demographics and Culture
+
+About 90% of Algerians live in the northern, coastal area. Estimates suggest 75% to 85% of the population are Arabs, with around 20%–30% identifying as Berber, though genetic publications show the majority of the population is of indigenous Berber ancestry. The largest Berber groups include the Kabyles, Chaoui, Tuaregs, and Shenwa. Modern Standard Arabic and Standard Amazigh are the official languages, while Algerian Arabic is spoken by the majority and French, though without official status, is widely used. Islam is the predominant religion, with Sunnis accounting for 99% of the population. Education is compulsory for children between six and 15, and the literacy rate is around 92.6%. Algerian literature, split between Arabic, Tamazight, and French, has been strongly influenced by the country's recent history, with notable authors including Albert Camus, Kateb Yacine, and Assia Djebar. Football is the most popular sport, and couscous is recognised as the national dish.
+
+## Terms
+
+- **Amazigh/Berber**: The indigenous peoples of northern Africa, whose distinct native population coalesced from the mixture of peoples in the region.
+- **Maghreb**: The region of North Africa encompassing Algeria, Morocco, Tunisia, and neighbouring territories.
+- **Regency of Algiers**: The largely autonomous Ottoman polity established in 1516 that unified much of present-day Algeria's territory.
+- **FLN (Front de Libération Nationale)**: The nationalist front formed in 1954 that led the Algerian War of Independence and later became the ruling party.
+- **Pied-Noirs**: European settlers in colonial Algeria, primarily of French, Spanish, and Italian origin, who mostly left after independence.
+- **Harkis**: Algerians who fought for France during the War of Independence; between 30,000 and 150,000 were killed after independence.
+- **Wilayas**: The 69 provinces into which Algeria is administratively divided.
+- **Sonatrach**: The Algerian national oil company, the largest company in Africa and a major supplier of natural gas to Europe.
+- **Kharijites**: An early Islamic sect whose ideals of equality attracted many Berbers, leading to revolts and the establishment of independent states like the Rustamid imamate.
+- **Janissaries**: The Ottoman elite military corps that dominated the Regency of Algiers' political power.
+
+## Debates and open questions
+
+- Historians debate the human cost of the Algerian War: Alistair Horne and Raymond Aron state the actual number of Algerian Muslim war dead was far greater than original FLN and official French estimates but less than the 1 million deaths claimed by the Algerian government after independence.
+- Several historians argue the methods used by the French to establish control over Algeria reached genocidal proportions, though this remains contested.
+- Estimates of Algeria's ethnic composition (75%–85% Arab vs. 20%–30% Berber) are based on non-official sources, as Algerian law forbids population censuses based on ethnic, religious, and linguistic criteria.
+- Survey data on religiosity in Algeria is conflicting: the June 2019 Arab Barometer found around 15% identifying as non-religious, while the 2021 report found only 2.6% identifying as non-religious.
+- The 2019 presidential election results were disputed, with protestors refusing to recognise Tebboune as president and his opponents calling the 2024 results fraud.

@@ -1,0 +1,27 @@
+# Discrete geometry
+
+Discrete geometry, also called combinatorial geometry, studies finite collections of basic geometric objects (points, lines, planes, circles, spheres, polygons) and asks combinatorial questions about them: how they intersect, how they can be arranged, how tightly they can be packed, and how completely they can cover a space. The field overlaps with convex geometry and computational geometry, and touches finite geometry, digital geometry, discrete differential geometry, geometric graph theory, and combinatorial topology.
+
+## Origins and foundations
+
+Polyhedra and tessellations were studied for centuries, by Kepler and Cauchy among others, but the modern field took shape in the late nineteenth century along four strands: Thue on circle packings, Reye and Steinitz on projective configurations, Minkowski on the geometry of numbers, and Tait, Heawood, and Hadwiger on map colourings. László Fejes Tóth, H. S. M. Coxeter, and Paul Erdős later built it into a coherent discipline.
+
+## Core topics
+
+**Polyhedra and polytopes.** A polytope is a geometric object bounded by flat faces, in any number of dimensions. A polygon is a 2-polytope, a polyhedron a 3-polytope, a 4-polytope the next case, and the idea generalises to abstract polytopes and unbounded ones such as apeirotopes and tessellations. Studied aspects include polyhedral combinatorics, lattice polytopes, Ehrhart polynomials, Pick's theorem, and the Hirsch conjecture.
+
+**Packings, coverings, and tilings** are three ways to arrange uniform objects (circles, spheres, or tiles) regularly on a surface. A sphere packing fills a containing space with non-overlapping equal spheres in three-dimensional Euclidean space, and the problem extends to unequal spheres, to *n* dimensions (circle packing in 2D, hypersphere packing higher up), and to non-Euclidean spaces such as hyperbolic space. A tessellation tiles a plane with one or more shapes with no overlaps and no gaps, and the idea extends to higher dimensions. Specific objects of study include circle packings, sphere packings, the Kepler conjecture, quasicrystals, aperiodic tilings, periodic graphs, and finite subdivision rules.
+
+**Structural rigidity and flexibility** treats a graph as rigid rods joined by rotating hinges and asks which frameworks can flex. The 4-cycle drawn as a square can be pushed into a parallelogram, while the triangle on three vertices cannot. The combinatorial theory predicts flexibility of assemblies of rigid bodies joined by flexible linkages, with Cauchy's theorem and flexible polyhedra as central results.
+
+**Incidence structures** generalise affine, projective, and Möbius planes. Formally, an incidence structure is a triple *C* = (*P*, *L*, *I*), where *P* is a set of points, *L* a set of lines, and *I* ⊆ *P* × *L* the incidence relation; (*p*, *l*) ∈ *I* says point *p* lies on line *l*, and the pair is a flag. Finite incidence structures are finite geometries. Topics include configurations, line and hyperplane arrangements, buildings, and oriented matroids, which abstract properties of directed graphs and ordered vector arrangements.
+
+**Geometric graph theory** studies graphs whose vertices or edges carry geometric information, including Euclidean graphs, 1-skeletons of polyhedra, unit disk graphs, and visibility graphs. Active topics include graph drawing, polyhedral graphs, random geometric graphs, and Voronoi and Delaunay structures.
+
+**Simplicial complexes and topological combinatorics.** A simplicial complex is built by gluing together points, line segments, triangles, and their higher-dimensional counterparts; the purely combinatorial version is an abstract simplicial complex, distinct from the more general simplicial set of modern homotopy theory. The relationship between topology and combinatorics reversed in 1978 when László Lovász proved the Kneser conjecture using the Borsuk–Ulam theorem, founding topological combinatorics; that theorem remains central, with applications in fair division. Sperner's lemma and regular maps are further landmarks.
+
+**Lattices and discrete groups.** A discrete group is a group *G* given the discrete topology, making it a topological group. A lattice in a locally compact topological group is a discrete subgroup whose quotient has finite invariant measure; in **R**ⁿ this recovers the familiar geometric lattice. The integers **Z** form a discrete subgroup of **R**, but the rationals **Q** do not. The theory extends to nilpotent Lie groups and semisimple algebraic groups over local fields, and more recently to tree lattices. Related topics include reflection groups and triangle groups.
+
+**Digital geometry** treats discrete point sets as digitised models of objects in 2D or 3D Euclidean space, so that a digital image is a finite set of sampled points and digitising means replacing an object by a discrete subset of its points; TV screens, computer displays, and printed photographs all work this way. The main applications are computer graphics and image analysis.
+
+**Discrete differential geometry** studies discrete counterparts of differential-geometric notions, replacing smooth curves and surfaces with polygons, meshes, and simplicial complexes. It supports computer graphics and topological combinatorics through the discrete Laplace operator, discrete exterior calculus, discrete calculus, discrete Morse theory, and spectral shape analysis.

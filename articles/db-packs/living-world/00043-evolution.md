@@ -1,0 +1,27 @@
+# Evolution
+
+Evolution is the change in heritable characteristics of biological populations over successive generations, driven by natural selection and genetic drift acting on genetic variation. Charles Darwin and Alfred Russel Wallace independently conceived natural selection in the mid-19th century. The theory rests on four facts: more offspring are produced than can survive, traits vary among individuals, different traits confer different survival and reproduction rates, and traits are heritable. All life descends from a last universal common ancestor (LUCA) that lived approximately 3.5–3.8 billion years ago. Evolution has produced biodiversity at every level of biological organisation and informs medicine, agriculture, and computer science.
+
+## Sources of variation
+
+Inherited traits are controlled by genes, DNA units encoding functional products. An organism's complete gene set is its genotype; observable structure and behaviour form its phenotype, which arises from genotype interacting with environment. Suntans are not inherited, but the ability to tan is. Alleles are gene variants at a chromosome locus. Mutations alter DNA sequences and produce new alleles; about half of mutations in protein-coding regions are deleterious, half neutral, and a small percentage beneficial, making mutation the ultimate source of variation. Sexual reproduction and homologous recombination (exchange of DNA between matching chromosomes) produce new allele combinations without altering allele frequencies. Gene flow, including horizontal transfer between bacteria, spreads alleles and contributes to antibiotic resistance. Epigenetic inheritance (DNA methylation, RNA interference, prion conformation) transmits changes not explained by DNA sequence. Gene duplication allows new genes to evolve; for example, four human light-sensing genes descend from a single ancestral gene.
+
+## Evolutionary forces
+
+Natural selection embodies variation, differential fitness, and heritability: organisms with advantageous traits leave more descendants. Fitness is the proportion of subsequent generations carrying an organism's genes. Selection can be directional, disruptive, or stabilising, and acts at the level of genes, cells, individuals, groups, and species. Sexual selection favours mating-related traits such as cumbersome antlers, even when they reduce survival.
+
+Genetic drift is random fluctuation of allele frequencies due to sampling error, halting only when alleles fix. The neutral theory holds that most evolutionary changes result from drift fixing neutral mutations; the nearly neutral theory refines this by accounting for population size. Effective population size sets the drift rate. Genetic hitchhiking occurs when a beneficial allele's selective sweep carries linked neutral alleles upward. Mutation bias can shape genomes, though GC-biased gene conversion and AT-biased mutation in bacteria limit its scope.
+
+## Natural outcomes
+
+Adaptation makes organisms better suited to their habitat and arises by gradual modification of existing structures, so bat wing bones resemble mouse feet and primate hands. Deep homology describes common genes controlling structurally different organs. Vestigial structures (pseudogenes, whale hip bones, human wisdom teeth) have lost their original function. Exaptations, such as the flattened head of the lizard *Holaspis guentheri* aiding gliding, are structures co-opted for new roles. Coevolution drives reciprocal selection between species, as in rough-skinned newt tetrodotoxin and garter snake resistance.
+
+Speciation occurs through reproductive isolation in allopatric (geographic), peripatric (small isolated), parapatric (reduced gene flow), or sympatric (no geographic split, rare) modes. Hybridisation, especially polyploidy in plants, can also produce new species. Punctuated equilibrium links rapid speciation to short fossil-record bursts among long stasis. The Permian–Triassic extinction killed approximately 96% of marine species; the ongoing Holocene extinction runs 100–1000 times the background rate.
+
+## Applications and evolutionary history
+
+Artificial selection has shaped domestication for thousands of years and now guides genetic engineering and directed evolution (repeated mutation and selection for valuable proteins). Evolutionary theory informs medicine, where pathogens and cancers evolve drug resistance, and computer science, where evolutionary algorithms optimise complex systems. Molecular clocks and fossils reveal lineages; humans and chimpanzees share 98% of their genomes. Prokaryotes dominated for billions of years before endosymbiosis produced mitochondria and chloroplasts. The Cambrian explosion (c. 538.8 million years ago) saw most modern animal types appear.
+
+## History of evolutionary thought
+
+Evolutionary ideas trace to Anaximander, Empedocles, and Lucretius. Linnaeus classified species hierarchically in 1735 but treated them as fixed. Lamarck's 1809 transmutation theory proposed inheritance of acquired characteristics. Darwin, influenced by Malthus, developed natural selection from 1838; Wallace independently conceived it in 1858. *On the Origin of Species* (1859) brought wide acceptance, supported by Marsh's horse and toothed-bird fossils. Mendel's 1865 inheritance laws and Weismann's germ-soma distinction clarified heredity. The 1920s–1930s modern synthesis unified natural selection, population genetics, and Mendelian inheritance, later extended by DNA structure (1953) and evolutionary developmental biology.

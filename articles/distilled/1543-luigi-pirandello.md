@@ -1,0 +1,59 @@
+# Luigi Pirandello
+
+## Overview
+Luigi Pirandello (1867–1936) was an Italian dramatist, novelist, and short-story writer awarded the 1934 Nobel Prize in Literature for revolutionizing dramatic art. Born in Sicily to families active in the *Risorgimento* (Italian unification), he internalized their subsequent disillusionment, forging a worldview centered on the unbridgeable gap between ideals and reality. His essay *L'Umorismo* (1908) theorized "humorism" as the compassionate perception of this contradiction, distinguishing it from mere irony. A family financial collapse in 1903 and his wife Antonietta’s ensuing mental breakdown catalyzed his breakthrough novel, *The Late Mattia Pascal* (1904). Pirandello’s mature plays—most famously *Six Characters in Search of an Author* (1921) and *Henry IV* (1922)—dismantle theatrical illusion, staging characters who argue with their author and protagonists trapped in performed identities. These "tragic farces" prefigured the Theatre of the Absurd and deeply influenced existentialist thinkers like Jean-Paul Sartre and playwrights such as Samuel Beckett and Harold Pinter. His relationship with Fascism was contradictory: he joined the party in 1924 and directed a state theater, yet tore up his membership card in 1927, lived under surveillance, and surrendered his Nobel medal to the regime’s gold drive in 1935.
+
+## Timeline
+- **28 June 1867** — Born in Girgenti (Agrigento), Sicily, to upper-class families active in the *Risorgimento*.
+- **1887–1891** — Studies Letters at University of Rome, then Bonn; earns doctorate in Romance Philology with dissertation on Agrigento dialect.
+- **1894** — Marries Maria Antonietta Portulano; publishes first story collection *Amori senza Amore*.
+- **1903** — Flooding of Aragona sulphur mines destroys family fortune and wife’s dowry; Antonietta suffers permanent mental collapse.
+- **1904** — Publishes *The Late Mattia Pascal* (serialized 1903), achieving international fame.
+- **1908** — Publishes seminal essay *L'Umorismo*, initiating long debate with philosopher Benedetto Croce.
+- **1917** — *Right You Are (If You Think So)* premieres, establishing his theatrical reputation.
+- **1919** — Wife committed to asylum; she remains institutionalized until her death in 1959.
+- **1921** — *Six Characters in Search of an Author* premieres in Rome to scandal; succeeds in Milan.
+- **1922** — *Henry IV* premieres in Milan to universal acclaim; international reputation solidifies.
+- **1924** — Joins National Fascist Party; writes to Mussolini requesting membership.
+- **1925** — Assumes artistic direction of state-funded *Teatro d'Arte di Roma* with Mussolini’s backing.
+- **1926** — *One, No One and One Hundred Thousand* serialized (final novel).
+- **1927** — Tears up Fascist Party card; placed under surveillance by secret police (OVRA).
+- **1934** — Awarded Nobel Prize in Literature.
+- **1935** — Donates Nobel medal to *Oro alla Patria* campaign for Second Italo-Ethiopian War.
+- **10 Dec 1936** — Dies in Rome; refuses state funeral.
+
+## Body
+
+### Formative Years and Intellectual Foundations
+Pirandello’s Sicilian upbringing provided the raw material for his lifelong themes. His parents’ families were fervent *Risorgimento* patriots—his father fought with Garibaldi, his mother was exiled as a child—but the post-unification reality bred "angry and bitter disappointment" in his mother, Caterina. Pirandello assimilated this "sense of betrayal," later expressing it in *The Old and the Young* and his theory of humorism. The landscape itself was symbolic: his birthplace was called "Caos" (Chaos), a name derived from the shape of a ravine. Early exposure to servant Maria Stella’s fables nurtured a taste for the "popular and magic" over the academic. A pivotal adolescent trauma—discovering his father’s infidelity—shattered his paternal authority and intensified a "profound veneration" for his mother, a dynamic replayed in his fiction. Studies in Bonn (1889–1891) immersed him in German Romantics (Jean Paul, Goethe, Heine) and the poet Cecco Angiolieri, prompting his first verses (*Mal Giocondo*, 1889) and early meditations on humorism.
+
+### Marriage, Catastrophe, and Narrative Breakthrough
+In 1894, Pirandello married Antonietta Portulano, a shy, convent-educated woman chosen by his father. Despite her "complete incomprehension" of his vocation, the early marriage was productive, yielding three children and a stream of stories, poems, and the novels *The Turn* (1902) and *The Outcast* (1908). The 1903 flooding of the Aragona sulphur mines—in which his father had invested his capital and Antonietta’s dowry—precipitated total financial ruin. Antonietta suffered a psychotic break upon reading the news, entering a "state of semi-catatonia" from which she never recovered. Pirandello, suppressing suicidal impulses, supported the family by increasing teaching loads and reclaiming unpaid writing fees. During this ordeal—writing by day, nursing his wife by night—he composed *The Late Mattia Pascal*. The novel’s protagonist escapes a miserable life by faking his death, only to find his new freedom illusory; the work’s autobiographical resonance and philosophical depth brought immediate fame and access to major publishers like Treves.
+
+### Theatrical Innovation and the "Theatre of the Absurd"
+Pirandello’s turn to drama transformed European theatre. Early successes like *Right You Are (If You Think So)* (1917) and *The Pleasure of Honesty* (1917) explored the relativity of truth and the gap between social persona and inner self. *Six Characters in Search of an Author* (1921) shattered the "fourth wall": six unfinished characters invade a rehearsal, demanding their story be staged, arguing that they are "truer" than the actors who inevitably betray them. The Rome premiere provoked shouts of "Asylum!"; Milan and international productions (London, New York) confirmed its landmark status. *Henry IV* (1922) deepened the meta-theatrical inquiry: a man feigns madness for twelve years, then retains the role voluntarily, preferring the "fixed eternity" of a mask to the flux of life. These works established the "Pirandellian" mode—identity as performance, reality as inaccessible, the author as a character within his own fiction—directly anticipating Beckett, Ionesco, and Genet.
+
+### Fascism, Late Work, and Contradictions
+Pirandello’s political engagement was nationalist but volatile. He declared himself "a Fascist because I am Italian" and joined the party in 1924. With Mussolini’s support, he founded the *Teatro d'Arte di Roma* (1925), touring Europe with a repertoire that now emphasized the actor’s *identification* with character rather than betrayal of text. Yet he clashed constantly with party hierarchs, publicly tearing his membership card in 1927 and living thereafter under OVRA surveillance. His play *The Giants of the Mountain* (1931) allegorized the artist’s vulnerability to brute power. Paradoxically, in 1935 he endorsed the invasion of Abyssinia and melted down his Nobel medal for the regime’s gold drive. His final novel, *One, No One and One Hundred Thousand* (1926), serialized during this period, distilled his philosophy: the self is a multiplicity ("one hundred thousand" masks for others, "no one" for oneself, "one" only in the fleeting present).
+
+### Legacy and Influence
+Pirandello died in 1936, refusing a state funeral. His 1930 BBC broadcast of *The Man with the Flower in His Mouth* was the first drama transmitted in both picture and sound. The Nobel citation honored his "bold and ingenious revival of dramatic and scenic art." Beyond theatre, his exploration of fractured identity and ontological uncertainty provided a template for existentialism; Sartre explicitly drew on Pirandello for concepts of authenticity, bad faith, and the "look" of the Other. Beckett and Pinter inherited his minimalist, meta-theatrical tension. In Italy, he remains the central figure of modern drama, the last Italian playwright to win the Nobel until Dario Fo (1997).
+
+## Terms
+- ****Risorgimento**** — The 19th-century movement for Italian unification and independence from foreign (especially Austrian and Bourbon) rule; Pirandello’s parents were active participants.
+- ****Humourism (L'Umorismo)**** — Pirandello’s aesthetic theory (1908 essay): the compassionate, "feeling of the contrary" that perceives the gap between appearance and reality, distinct from intellectual irony.
+- ****The Late Mattia Pascal** (*Il fu Mattia Pascal*, 1904)** — Breakthrough novel: a man presumed dead assumes a new identity, only to discover freedom is impossible; returns to his old life as "the late" (deceased) Mattia Pascal.
+- ****Six Characters in Search of an Author** (*Sei personaggi in cerca d'autore*, 1921)** — Meta-theatrical play where six "unfinished" characters interrupt a rehearsal, claiming they are more real than the actors destined to portray them.
+- ****Henry IV** (*Enrico IV*, 1922)** — Play about a nobleman who feigns madness as Emperor Henry IV for twelve years, then chooses to continue the role, preferring the certainty of a mask to the fluidity of life.
+- ****Teatro d'Arte di Roma**** — State-sponsored art theatre (1925) directed by Pirandello with Mussolini’s backing; toured Europe staging his repertoire.
+- ****OVRA**** — *Opera Vigilanza Repressione Antifascismo*: the secret police of Fascist Italy; monitored Pirandello after his 1927 break with the party.
+- ****Oro alla Patria**** — "Gold to the Fatherland" (1935): Fascist campaign collecting gold (including wedding rings and medals) to fund the Second Italo-Ethiopian War; Pirandello donated his Nobel medal.
+- ****One, No One and One Hundred Thousand** (*Uno, nessuno e centomila*, 1926)** — Final novel: protagonist Vitangelo Moscarda discovers he is "one" only in the fleeting present, "no one" to himself, and "one hundred thousand" different people in others' minds.
+- ****Theatre of the Absurd**** — Post-WWII dramatic movement (Beckett, Ionesco, Genet) characterized by existential meaninglessness and breakdown of logic; Pirandello’s meta-theatrical plays are cited as primary forerunners.
+
+## Debates and open questions
+- **Sincerity of Fascist adherence**: Scholars dispute whether Pirandello’s 1924 party membership and 1935 medal donation reflected genuine conviction, opportunism for his theatre, or nationalist patriotism detached from regime politics. His 1927 card-tearing and OVRA surveillance suggest a fraught, non-servile relationship.
+- **Nature of the Croce debate**: The decades-long polemic with philosopher Benedetto Croce—initiated by *L'Umorismo*—centered on whether humorism was a distinct aesthetic category or a variant of irony; the debate’s "increasing bitterness and venom" may have masked deeper disagreements on historicism vs. relativism.
+- **Autobiography in *Mattia Pascal* and *One, No One***: Critics argue over the extent to which Mattia Pascal’s fake death and Moscarda’s mirror-crisis transpose Pirandello’s 1903 crisis and marital trauma, versus serving as universal philosophical constructs.
+- **Misogyny in the wife’s portrayal**: Antonietta’s institutionalization (1919) and depiction in fiction (e.g., *Her Husband*, withheld in life due to references to Grazia Deledda) raise questions about Pirandello’s gender politics and use of her madness as literary material.
+- **Sicilian language plays**: Several early works (e.g., *Liolà*, *A birrita cu' i ciancianeddi*) were written in Sicilian; scholars debate whether this reflects regional identity, a private linguistic space, or a deliberate distancing from standard Italian literary norms.

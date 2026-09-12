@@ -1,0 +1,27 @@
+# Data-centric programming language
+
+A data-centric programming language is a category of programming language whose primary purpose is managing and manipulating data. It provides built-in processing primitives for accessing data stored in sets, tables, lists, and databases, and for the specific transformations a data application needs. Such languages are typically declarative and dataflow-oriented: the programmer defines the result wanted, and the compiler and runtime decide the processing steps. SQL, the relational database query language, is the canonical example. Declarative, data-centric programming languages are well suited to data-intensive computing, where the bulk of the work is reading, transforming, and combining large datasets rather than running complex control logic.
+
+## The rise of Big Data
+
+The growth of the Internet and World Wide Web produced huge volumes of structured and unstructured information that organisations must store, search, analyse, mine, and visualise. Storing, managing, accessing, and processing this information is a fundamental need and an immense challenge. Three fundamental challenges follow: managing exponentially growing data volumes, cutting analysis cycle time so results arrive in time to be useful, and inventing algorithms that scale to search and process those volumes. The National Science Foundation has flagged the need for programming abstractions, including languages, that let programmers express parallel processing of data naturally. Declarative, data-centric languages fit this problem class because framing work as operations on data makes parallel and distributed solutions much simpler to express than threading control flow through the same code.
+
+## How they work
+
+A data-centric language expresses applications as high-level operations on data. The runtime, not the programmer, handles scheduling, execution, load balancing, communication, and the movement of programs and data across a computing cluster. The language exposes data flows and transformations, and ships with shared libraries of common data algorithms such as sorting. Because the abstraction is data rather than control flow, the same program adapts naturally to clusters, data grids, and cloud computing without rewriting the application. Adopting one changes more than the codebase: it also changes how analysts think about data and design applications, since the program expresses what the result should be rather than how to compute it step by step.
+
+## Data-parallel systems
+
+Terabyte and petabyte scale data processing is commonly tackled with data-parallel architectures running on clusters of commodity hardware. Two widely deployed examples are Hadoop and HPCC. Hadoop is an open-source Apache project that implements Google's MapReduce architecture and is used by Yahoo, Facebook, and others. HPCC is a competing system from LexisNexis Risk Solutions. Because most new data growth is unstructured, these platforms needed more flexible data models than the rigid tables SQL assumes, and introduced new high-level programming notations on top of the execution engine to bridge the gap.
+
+## Hadoop Pig
+
+Pig is a high-level data-flow language and execution framework that runs on top of Hadoop. The Hadoop execution environment supports additional distributed data processing capabilities on top of MapReduce, and Pig sits on top of that environment to give Hadoop users a data-centric notation for analysis. Pig was developed at Yahoo to raise programmer productivity and shorten development cycles compared with writing raw MapReduce jobs by hand. A Pig program is automatically translated into a sequence of MapReduce jobs when needed by the execution environment. The language has primitives for loading, storing, filtering, grouping, de-duplication, ordering, sorting, aggregation, and joining data, which covers the bulk of common data analysis tasks.
+
+## HPCC ECL
+
+ECL is the declarative, data-centric language of the HPCC platform. The programmer specifies the desired result and the dataflows and transformations that produce it. The language covers data definition, filtering, data management, and transformation, and provides an extensive set of built-in functions for operating on records in datasets, including user-defined transformation functions. ECL programs are compiled into optimised C++ source code, which is then compiled into executable code and distributed to the nodes of a processing cluster. ECL combines data representation with algorithm implementation and is the fusion of a query language and a parallel data-processing language.
+
+ECL includes a fixed set of transform operations that process through entire datasets, including PROJECT, ITERATE, ROLLUP, JOIN, COMBINE, FETCH, NORMALIZE, DENORMALIZE, and PROCESS. For a JOIN, the transform function receives two records, one from each input dataset, can operate on any fields in the pair, and returns an output record that may be completely different from either input.
+
+ECL also has built-in support for natural language processing through PATTERN statements and the PARSE operation. A PATTERN statement defines a matching expression, such as a regular expression, and patterns can be combined to implement complex parsers or full grammars from Backus–Naur form definitions. PARSE applies a pattern across a chosen field of every record in a dataset, for example an entire line of a text file, which makes it possible to build parallel information-extraction applications over documents, XML files, and web pages.

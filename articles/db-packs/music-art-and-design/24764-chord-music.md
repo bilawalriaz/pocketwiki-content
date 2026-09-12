@@ -1,0 +1,19 @@
+# Chord (music)
+
+A chord is the sound of two or more notes played simultaneously. The most common form is a triad, a stack of three notes built in thirds: a root, a third, and a fifth. C major (C–E–G) is the textbook example. Stacking further thirds adds a seventh, ninth, eleventh, and thirteenth; seventh chords first appeared in the 16th century and became central to Western harmony in the Baroque era, with the dominant seventh chord (built on the fifth scale degree) especially important in the common practice period. Chords larger than four notes are sometimes analysed as polychords, combinations of simpler chords stacked together.
+
+## How chords are built and described
+
+Chord members are also called factors. Their identity comes from the intervals (distances between pitches) measured from the root. Triads come in four qualities: major and minor differ in the quality of their third; diminished and augmented differ in the quality of their fifth. Sevenths and other added intervals are described by their quality relative to the root. In root position, the root is the lowest sounding note; if the third or fifth sits in the bass instead, the chord is in first or second inversion. The terminology for inversion was developed by Jean-Philippe Rameau in the 18th century and is still standard.
+
+Modern music expanded the vocabulary in two directions. Extended chords, with added ninths, elevenths, and thirteenths, are a defining feature of jazz harmony. At the opposite extreme, 20th-century composers used tone clusters, chords of tightly packed seconds that blur into a sound mass. Microtonal chords, built from intervals smaller than the semitone, also appear in some contemporary work. The major triad itself sits inside the harmonic series (the natural sequence of overtones produced by a vibrating note) at harmonics 4, 5, and 6; adding the seventh harmonic yields a dominant seventh.
+
+## Historical development
+
+Until the Middle Ages, any two-note combination counted as harmony. During the Renaissance, three-note simultaneity became the working definition. Early polyphony (music with multiple independent melodic lines) called organum began by doubling a plainsong at a fourth, fifth, or octave; chords were an incidental by-product of voices moving in parallel. In the Baroque era, chords stopped being by-products and became primary structural elements, supported by a new shorthand, figured bass, in which numerals beneath the bass line told the player which harmonies to realise above each note. As tonality expanded, composers introduced altered chords such as Neapolitan and augmented sixth chords that borrowed chromatic notes from other keys, sometimes using them for colour rather than strict function.
+
+## Functional harmony and notation
+
+Each scale degree carries a name and a Roman numeral: I tonic, II supertonic, III mediant, IV subdominant, V dominant, VI submediant, VII leading tone (or subtonic in minor). Triads built on these degrees inherit the same labels. The dominant (V) functions as a counterweight to the tonic (I), and the back-and-forth between them underlies countless short pieces. Hugo Riemann extended Rameau's ideas into functional harmony, treating every chord by its relationship to tonic or dominant. Chords also inherit behaviour from polyphonic voice-leading rules; in a dominant seventh, for example, the tritone (an interval of three whole tones) resolves stepwise, with the seventh falling to the third and the leading tone rising to the tonic.
+
+Chords can be notated several ways. Roman numerals describe function within a key. The Nashville Number System adapts this for popular music, while figured bass encodes harmonies beneath a bass line, and chord symbols use the letter of the root plus symbols for quality and added tones, the system familiar from guitar charts. What remains most essential is how chords sound.

@@ -1,0 +1,71 @@
+# J. M. Coetzee
+
+## Overview
+John Maxwell Coetzee (born 9 February 1940) is a South African-born novelist, essayist, and translator who became an Australian citizen in 2006. He is one of the most decorated authors in English, having won the Booker Prize twice (for *Life & Times of Michael K* and *Disgrace*) and the 2003 Nobel Prize in Literature. His work evolved from explicit anti-apartheid allegories toward metafictional explorations of language, ethics, and animal rights, often employing recurring alter egos—such as the magistrate, David Lurie, and Elizabeth Costello—to interrogate the position of the outsider. Coetzee’s career spans academia (University of Cape Town, SUNY Buffalo, University of Chicago, University of Adelaide) and a literary output that resists national categorization, culminating in a "Literatures of the South" project emphasizing Southern Hemisphere intellectual networks.
+
+## Timeline
+- **9 Feb 1940** — Born in Cape Town, Union of South Africa.
+- **1960–1961** — Earns BA Honours in English and Mathematics at University of Cape Town.
+- **1962–1965** — Works as computer programmer for IBM and ICT in the UK.
+- **1965–1969** — PhD at University of Texas at Austin; dissertation on Samuel Beckett using computer-aided stylistic analysis.
+- **1968–1971** — Teaches at SUNY Buffalo; begins *Dusklands*; arrested in 1970 for anti-Vietnam War protest.
+- **1972–2002** — Returns to University of Cape Town; rises to Distinguished Professor; retires with emeritus status.
+- **1974** — Publishes first novel, *Dusklands*.
+- **1983** — Wins first Booker Prize for *Life & Times of Michael K*.
+- **1987** — Wins Jerusalem Prize; delivers speech condemning apartheid as producing "literature in bondage."
+- **1999** — Wins second Booker Prize for *Disgrace*.
+- **2002** — Relocates to Adelaide, Australia.
+- **2003** — Awarded Nobel Prize in Literature.
+- **2006** — Becomes Australian citizen.
+- **2013–2019** — Publishes "Jesus" trilogy (*The Childhood of Jesus*, *The Schooldays of Jesus*, *The Death of Jesus*).
+- **2023** — Publishes *The Pole and Other Stories*.
+- **9 Jun 2025** — Appointed Companion of the Order of Australia (AC).
+
+## Body
+
+### Early Life and Education
+Coetzee was born in Cape Town to Zacharias Coetzee, an attorney and government employee, and Vera Wehmeyer, a schoolteacher. His father’s absence—exacerbated by enlistment in WWII to avoid prosecution—and the family’s reliance on relatives shaped a childhood split between Cape Town and Worcester, later fictionalized in *Boyhood* (1997). The household spoke English, but Coetzee used Afrikaans with relatives. His ancestry—17th-century Dutch on his father’s side; Dutch, German, and Polish (grandfather Balcer Dubiel, born 1844 in Czarnylas) on his mother’s—fueled a lifelong engagement with Polish culture, culminating in *The Pole* (2022). He earned dual honours degrees in English (1960) and Mathematics (1961) at the University of Cape Town, followed by a 1963 MA thesis on Ford Madox Ford.
+
+### Academic Career
+Coetzee worked as a programmer in London (1962–65) before pursuing a PhD at the University of Texas at Austin (1965–69), where he applied computational stylistics to Samuel Beckett’s prose. At SUNY Buffalo (1968–71), he began *Dusklands* and was arrested in 1970 during a faculty occupation of Hayes Hall protesting the Vietnam War; charges were dropped in 1971. His application for US permanent residency failed, partly due to this activism. He later served on the University of Chicago’s Committee on Social Thought until 2003. Returning to South Africa in 1972, he advanced at the University of Cape Town to Arderne Professor of English (1994) and Distinguished Professor (1999). After moving to Adelaide in 2002, he became an honorary research fellow and, as of 2023, a University Professorial Research Fellow.
+
+### Writing Career and Major Works
+Coetzee publishes roughly a novel every three years. *Dusklands* (1974) launched a trajectory from the colonial allegories of *Waiting for the Barbarians* (1980) and the Karoo survival narrative *Life & Times of Michael K* (1983) to the post-apartheid reckoning of *Disgrace* (1999). Critic James Meek argues that post-*Disgrace*, Coetzee shifted from naturalistic storytelling toward hybrid forms—essay, polemic, memoir—structured around alter egos: the complicit magistrate/Lurie figure; the female proxy Elizabeth Costello (an elderly, scholarly novelist); and the autobiographical "J.M. Coetzee" of *Boyhood*, *Youth*, and *Summertime*. The "Jesus" trilogy (2013–2019), written during his Argentine engagement, explores resistance to English linguistic hegemony; all three were translated into Spanish, with the final volume published in Spanish first. *The Pole* (2022) debuted in Argentina as *El polaco*, reflecting Coetzee’s principle of "publishing in the South before the North."
+
+### Awards and Recognition
+Coetzee is the first author to win the Booker Prize twice (1983, 1999); as of 2020, only Peter Carey, Hilary Mantel, and Margaret Atwood have matched this. The 2003 Nobel citation praised his portrayal of "the surprising involvement of the outsider," "well-crafted composition," and moral focus. He holds three CNA Literary Awards (1977, 1980, 1983), the James Tait Black and Geoffrey Faber prizes (*Waiting for the Barbarians*), the Sunday Express Book of the Year (*Age of Iron*), the Irish Times International Fiction Prize (*The Master of Petersburg*), the Prix Femina étranger, two Commonwealth Writers' Prizes (African region), the Jerusalem Prize (1987), the Lannan Literary Award (1998), and the Order of Mapungubwe (Gold, 2005). He is a Fellow of the Royal Society of Literature (1988), the American Philosophical Society (2006), and an Honorary Fellow of the Australian Academy of the Humanities (2004). He holds honorary doctorates from over a dozen universities, including Oxford, Buffalo, and Adam Mickiewicz University (Poznań). He avoids ceremonies, famously not collecting his Bookers in person.
+
+### Views: South Africa and Apartheid
+Scholars place Coetzee alongside André Brink and Breyten Breytenbach at the forefront of anti-apartheid Afrikaner literature. His 1987 Jerusalem Prize speech declared South African literature "a literature in bondage... exactly the kind of literature you would expect people to write from prison." *Disgrace* (1999) has been read as an allegory for the Truth and Reconciliation Commission (TRC); Coetzee called the TRC "anomalous" in a secular state, based on Christian teaching accepted by only a "tiny proportion" of citizens. His 2002 move to Australia—citing South Africa’s crime rate—sparked a public dispute with President Thabo Mbeki, who countered that "South Africa is not only a place of rape." The ANC’s 1999 submission to the Human Rights Commission alleged *Disgrace* depicted racist stereotypes; Mbeki later congratulated Coetzee on the Nobel "on behalf of the South African nation."
+
+### Views: Politics and Law
+Coetzee avoids explicit political labels. In *Doubling the Point*, he describes his younger self as a *raznochinets* (intellectual outsider) who avoided the Afrikaner right, sympathized with leftist human concerns, but was alienated by political language. In a later interview, he stated, "There is no longer a left worth speaking of... The language of politics, with its new economistic bent, is even more repellent." He signed a 2016 letter condemning Australia’s offshore detention of asylum seekers. At the 2016 Palestine Festival of Literature, he declined to use the term "apartheid" for Israel/Palestine as analytically unproductive but described "a system of enforced segregation based on religion and ethnicity... to consolidate the colonial conquest." In 2026, he declined the Jerusalem Writers Festival invitation, calling Israel’s actions in Gaza a "genocidal campaign" and asserting Israeli society shares blame due to widespread public support for the IDF. His 2005 critique likened contemporary anti-terrorism laws to apartheid-era suspensions of the rule of law: "I used to think [their creators] were moral barbarians. Now I know they were just pioneers ahead of their time." *Diary of a Bad Year* (2007) extends this critique to the Howard and Bush administrations.
+
+### Views: Animal Rights
+Coetzee is a vegetarian and vocal animal rights advocate. As patron of Voiceless (from 2004), he delivered a 2007 speech (read by Hugo Weaving) condemning industrial animal husbandry. His fiction—*The Lives of Animals*, *Disgrace*, *Elizabeth Costello*, *The Old Woman and the Cats*—engages deeply with animal suffering. In 2008, at John Banville’s urging, he wrote to *The Irish Times* opposing Trinity College Dublin’s vivisection practices, calling them scientifically and pedagogically unjustified; the college dismissed the intervention. He sought candidacy for the Dutch Party for the Animals in the 2014 European Parliament elections but was rejected for lacking EU legal residence.
+
+### Literatures of the South
+Coetzee studied Spanish in London in the early 1960s. From 2015–2018, he directed a biannual "Literatures of the South" seminar at Universidad Nacional de San Martín (Argentina), connecting writers from Southern Africa, Australia, New Zealand, and South America to build comparative perspectives, intellectual networks, and a translated corpus via collaborative publishing. He curated a series for Argentine publisher El Hilo de Ariadna (including Tolstoy, Beckett, Patrick White). He chose to publish the "Jesus" trilogy and *The Pole* in Australia and Argentina before the UK/US, stating the "symbolism of publishing in the South before the North is important to me." Concurrently, he led the "Everyday Pleasures" theme for the Australian research project *Other Worlds: Forms of World Literature*.
+
+### Personal Life
+Coetzee married Philippa Jubber in 1963; they divorced in 1980. Their son Nicolas died in 1989 (aged 23); daughter Gisela survives. His brother, journalist David Coetzee, died in 2010. Since 1980, his partner has been Dorothy Driver, an academic at the University of Adelaide. Coetzee identifies with "outsider" writers (Rilke, Borges, Beckett, Joyce, Eliot, Pound, Herbert) who transcended national contexts. He describes English as a liberation from the "narrow world view of the Afrikaner" but increasingly feels his command of it is "like the kind of command that a foreigner might have." Described as reclusive and monkish by Rian Malan, Coetzee rebutted this characterization, noting Malan "does not know me." He helped establish Oak Tree Press’s First Chapter Series (2006) to fundraise for African HIV/AIDS orphans.
+
+## Terms
+- **Alter ego**: A recurring fictional persona representing the author; Coetzee uses three main types: the complicit official (magistrate, David Lurie), the female scholarly proxy (Elizabeth Costello), and the autobiographical narrator.
+- **Raznochinets**: A 19th-century Russian term for an intellectual of no fixed class or estate; used by Coetzee in *Doubling the Point* to describe his own political positioning as an outsider.
+- **Literatures of the South**: A transnational project (2015–2018) initiated by Coetzee to foster comparative literary networks and translation among Southern Africa, Australia, New Zealand, and South America.
+- **Computer-aided stylistic analysis**: A methodological approach used in Coetzee’s 1969 PhD dissertation, applying computational techniques to analyze Samuel Beckett’s prose style.
+- **Truth and Reconciliation Commission (TRC)**: A post-apartheid South African restorative justice body (1995–2002); Coetzee’s *Disgrace* is often read as an allegorical critique of its Christian theological framework in a secular state.
+- **Voiceless**: An Australian animal protection nonprofit; Coetzee has been a patron since 2004 and delivered a major anti-factory-farming address on its behalf in 2007.
+- **Order of Mapungubwe (Gold)**: South Africa’s highest honour, awarded to Coetzee in 2005 for exceptional contribution to literature and international prestige.
+- **Companion of the Order of Australia (AC)**: Australia’s highest civilian honour, awarded to Coetzee on 9 June 2025.
+- **Elizabeth Costello**: A recurring fictional character—an elderly, world-weary novelist—who serves as Coetzee’s female proxy in *Elizabeth Costello* (2003), *Slow Man* (2005), and *The Lives of Animals*.
+- **Publishing in the South before the North**: Coetzee’s deliberate strategy of releasing works in Argentina or Australia prior to UK/US publication, symbolizing a shift in literary center of gravity.
+
+## Debates and open questions
+- **Allegorical vs. realist reading of *Disgrace***: Scholars debate whether the novel primarily allegorizes the TRC and post-apartheid power dynamics or operates as a universal meditation on shame and redemption.
+- **Political quietism vs. engagement**: Critics (e.g., Ella Fox-Martens) argue Coetzee’s refusal of explicit political affiliation constitutes a failure to denounce apartheid forcefully enough; defenders cite his 1987 Jerusalem Prize speech and the structural critique embedded in his fiction.
+- **Use of "apartheid" for Israel/Palestine**: Coetzee rejects the term as a semantic distraction that "cuts short the opportunities of analysis," preferring a structural description of "enforced segregation... to consolidate the colonial conquest." This distinction remains contested in literary and political discourse.
+- **Autobiographical pact in the "Scenes from Provincial Life" trilogy**: The blurred line between memoir and fiction in *Boyhood*, *Youth*, and *Summertime* raises unresolved questions about the status of the "J.M. Coetzee" character versus the historical author.
+- **Late style and the "Jesus" trilogy**: Critics disagree on whether the spare, allegorical, Spanish-first trilogy represents a culmination of Coetzee’s resistance to English hegemony or a departure from his earlier narrative strengths.
+- **Animal rights as philosophical center vs. thematic motif**: The centrality of animal suffering in Coetzee’s later work (*The Lives of Animals*, *Elizabeth Costello*) prompts debate on whether it constitutes a rigorous philosophical intervention (extending the "sympathetic imagination") or a symbolic displacement of human political violence.

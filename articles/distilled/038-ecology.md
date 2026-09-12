@@ -1,0 +1,100 @@
+# Ecology
+
+## Overview
+
+Ecology is the natural science of relationships among living organisms and their environment, spanning individual, population, community, ecosystem, and biosphere levels. It studies abundance, biomass, and distribution of organisms, encompassing life processes, interactions, adaptations, energy and material movement, ecosystem succession, cooperation, competition, predation, and biodiversity patterns. The term was coined in 1866 by Ernst Haeckel. The science of ecology as it is known today began with a group of American botanists in the 1890s. Ecology has practical applications in conservation biology, wetland management, natural resource management, and human ecology.
+
+## Timeline
+
+- **c. 425 BC** — Herodotus (died c. 425 BC) described mutualism (crocodile-sandpiper)
+- **1864** — George Perkins Marsh published "Man and Nature" (ecosystem concept precursor)
+- **1866** — Ernst Haeckel coined the term "ecology"
+- **1905** — Frederic Clements published first American ecology book, *Research Methods in Ecology*
+- **1942** — Raymond Lindeman published landmark paper on trophic dynamics
+- **1957** — G. Evelyn Hutchinson introduced the modern niche concept
+- **1960s** — Charles Cooper brought attention to forest fire suppression ecology
+- **1962** — Rachel Carson's *Silent Spring* mobilized the environmental movement
+- **1967** — Island biogeography published by Robert MacArthur and Edward O. Wilson
+- **1969** — Robert Paine coined "keystone species"; metapopulation concept defined
+- **1974** — *Journal of Biogeography* established
+- **1992** — *Molecular Ecology* journal published; E.O. Wilson predicted "era of restoration"
+
+## Body
+
+### Levels, scope, and scale of organization
+
+Ecosystems vary from tiny to vast. A single tree is critically relevant to organisms living in and on it; several generations of aphids can exist over the lifespan of one leaf. The nature of connections in ecological communities cannot be explained by knowing each species in isolation—the emergent pattern is only revealed when the ecosystem is studied as an integrated whole. The main subdisciplines—population (or community) ecology and ecosystem ecology—differ in paradigms: the former focuses on organisms' distribution and abundance, the latter on materials and energy fluxes.
+
+The biological world is organized into a hierarchy: organisms, populations, guilds, communities, ecosystems, biomes, and the biosphere. This framework forms a panarchy exhibiting non-linear behaviors—small changes to critical variables can lead to disproportionate, possibly irreversible, changes in system properties.
+
+### Biodiversity and habitat
+
+Biodiversity describes the diversity of life from genes to ecosystems, spanning every level of biological organization. It includes species, ecosystem, and genetic diversity. Biodiversity plays an important role in ecosystem services that maintain and improve human quality of life. Conservation priorities require different approaches to address the full ecological scope of biodiversity.
+
+The habitat of a species describes the environment over which it occurs and the type of community formed. Habitats can be defined as regions in environmental space composed of multiple dimensions, each representing a biotic or abiotic environmental variable related directly or indirectly to the use of a location by the animal.
+
+### Niche and niche construction
+
+Definitions of niche date back to 1917. In 1957, G. Evelyn Hutchinson introduced "the set of biotic and abiotic conditions in which a species is able to persist and maintain stable population sizes." The fundamental niche is the set of environmental conditions under which a species can persist; the realized niche includes environmental plus ecological conditions. The Hutchinsonian niche is defined as a "Euclidean hyperspace" whose dimensions are environmental variables for which an organism has positive fitness.
+
+Organisms also modify their habitats. Ecosystem engineering relates to physical modifications of habitat; niche construction also considers evolutionary implications and feedback on natural selection. Ecosystem engineers "directly or indirectly modulate the availability of resources to other species, by causing physical state changes in biotic or abiotic materials."
+
+### Biomes and biosphere
+
+Biomes are larger units categorizing regions of Earth's ecosystems, mainly according to vegetation structure and composition, limited by climate, precipitation, and weather. Biomes include tropical rainforest, temperate broadleaf and mixed forest, taiga, tundra, hot desert, and polar desert. Recent research has categorized human and oceanic microbiomes—to a microbe, the human body is a habitat.
+
+The biosphere is the total sum of ecosystems on the planet. Ecological relationships regulate energy, nutrient, and climate flux at planetary scale. The Gaia hypothesis states that an emergent feedback loop generated by living organisms' metabolism maintains Earth's core temperature and atmospheric conditions within a narrow self-regulating range.
+
+### Population ecology
+
+Population ecology studies the dynamics of species populations and their interaction with the wider environment. A primary law is the Malthusian growth model: "a population will grow (or decline) exponentially as long as the environment experienced by all individuals remains constant." Simplified models start with four variables: death, birth, immigration, and emigration. The logistic equation, developed by Pierre Verhulst, models population growth approaching an equilibrium called the "carrying capacity" (K). Population ecology uses data on life history, fecundity, and survivorship, analyzed with matrix algebra, for managing wildlife stocks and setting harvest quotas.
+
+Metapopulations were defined in 1969 as "a population of populations which go extinct locally and recolonize." Metapopulation models simplify the landscape into patches of varying quality, linked by migratory behaviors. Migration involves seasonal departure and return; dispersal is distinguished as one-way permanent movement from the birth population.
+
+### Community and ecosystem ecology
+
+Community ecology studies interactions among species inhabiting the same geographic area, including predator-prey dynamics, competition, and mutualism. Ecosystem ecology determines fluxes of materials (e.g., carbon, phosphorus) between pools (e.g., tree biomass, soil organic material). The ecosystem concept traces to George Perkins Marsh's 1864 work.
+
+A food web is the archetypal ecological network. Plants capture solar energy through photosynthesis; energy transfers through chains of organisms by consumption. A trophic level is "a group of organisms acquiring a considerable majority of its energy from the lower adjacent level." Species are categorized as autotrophs (primary producers), heterotrophs (consumers), and detritivores (decomposers). While trophic levels provide insight into energy flow, the prevalence of omnivory has led some ecologists to note that "the notion that species clearly aggregate into discrete, homogeneous trophic levels is fiction"—though real trophic levels exist above the herbivore level, food webs are "better characterized as a tangled web of omnivores."
+
+A keystone species connects to a disproportionately large number of other species in the food-web, maintaining community organization. The term was coined by Robert Paine in 1969. Sea otters limit sea urchin density; without otters, urchins graze kelp beds until they disappear.
+
+### Complexity and holism
+
+Complexity in ecology is "of at least six distinct types: spatial, temporal, structural, process, behavioral, and geometric." Holism addresses biological organization that self-organizes into layers of emergent whole systems with non-reducible properties—higher-order patterns cannot be predicted by simple summation of parts.
+
+### Relation to evolution
+
+Ecology and evolutionary biology are sister disciplines; there is no sharp boundary separating them. Evolution can be rapid, occurring on ecological timescales as short as one generation. Behavioural ecology studies an organism's behaviour in its environment; adaptation is its central unifying concept. Cognitive ecology integrates evolutionary ecology and cognitive science to understand how animal interaction with habitat affects cognitive systems. Social ecology studies eusocialism in social insects, slime moulds, and naked mole-rats; kin selection explains altruism through genetic relationships, while group selection explains altruism among non-genetic relatives.
+
+Coevolution includes mutualisms (fungus-growing ants, fig wasp pollination, lichens, corals with algae). Approximately 60% of all plants have symbiotic relationships with arbuscular mycorrhizal fungi. Biogeography is the comparative study of geographic distribution of organisms; island biogeography (MacArthur and Wilson, 1967) is fundamental to ecological theory. The *Journal of Biogeography* was established in 1974. r/K selection theory explains life-history evolution: r-selection occurs under density-independent forces (early colonization), K-selection under density-dependent forces (crowded conditions). Molecular ecology uses genetic technologies like PCR; the journal *Molecular Ecology* was published in 1992.
+
+### Human ecology and environment
+
+Human ecology is an interdisciplinary investigation into the ecology of our species, formally introduced in 1921. Ecology is also an employed science of restoration, repairing disturbed sites through human intervention. E.O. Wilson predicted in 1992 that the 21st century "will be the era of restoration in ecology."
+
+The environment includes physical parameters and biotic attributes. The Earth formed approximately 4.5 billion years ago; its atmosphere transformed from hydrogen to methane and ammonia, then through metabolic activity to carbon dioxide, nitrogen, and water vapor. The Great Oxidation began approximately 2.4–2.3 billion years ago, though photosynthetic processes started 0.3–1 billion years prior. Temperature, light, water, gravity, pressure, wind, fire, and soils all constrain ecological systems. By approximately 350 million years ago, atmospheric oxygen above 17% allowed combustion. Six major elements (H, C, N, O, S, P) form all biological macromolecules and feed into Earth's biogeochemical cycles.
+
+### History
+
+Ancient Greek philosophers Hippocrates and Aristotle recorded natural history observations but saw species as unchanging. Herodotus (died c. 425 BC) described mutualism; Aristotle and Theophrastus observed migrations and biogeography. Ecological concepts developed in the 1700s through van Leeuwenhoek and Bradley. Alexander von Humboldt recognized ecological gradients. Linnaeus founded an early branch called "the economy of nature" and influenced Darwin. Modern ecology attracted scientific attention in the late 19th century; Ellen Swallow Richards adopted "oekology" in the U.S. as early as 1892. The Clements debate between ecological holism and individualism lasted until the 1970s. Ecology surged in popular interest during the 1960–1970s environmental movement.
+
+## Terms
+
+- **Ecology**: The natural science of relationships among living organisms and their environment; coined by Ernst Haeckel in 1866.
+- **Ecosystem**: Dynamically interacting system of organisms, communities, and abiotic components; regulates flux of energy and matter.
+- **Niche**: The set of biotic and abiotic conditions in which a species can persist; divided into fundamental and realized niches.
+- **Trophic level**: A group of organisms acquiring most of its energy from the adjacent lower level in the food chain.
+- **Keystone species**: A species connected to a disproportionately large number of others; its loss causes cascading effects.
+- **Biome**: Large unit categorizing regions of Earth's ecosystems, mainly by vegetation structure and composition.
+- **Biosphere**: The total sum of ecosystems on the planet.
+- **Carrying capacity (K)**: The equilibrium population size a habitat can support.
+- **Metapopulation**: "A population of populations which go extinct locally and recolonize."
+- **Autotroph/Heterotroph**: Autotrophs produce their own food (production exceeds respiration); heterotrophs feed on others (respiration exceeds production).
+
+## Debates and open questions
+
+- The Clements debate between ecological holism (plant communities as superorganisms) and individualism lasted until the 1970s.
+- Whether species clearly aggregate into discrete, homogeneous trophic levels is debated; omnivory complicates the concept, though recent studies show real trophic levels exist above the herbivore level.
+- Complexity in ecology requires different explanations at each integrative level; small-scale patterns do not necessarily explain larger ones.
+- Kin selection versus group selection as explanations for altruistic behaviour remains a distinction in social ecology.

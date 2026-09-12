@@ -1,0 +1,5 @@
+# Plate tectonics
+
+*Movement of Earth's lithosphere.*
+
+Plate tectonics is the scientific theory that Earth's lithosphere comprises a number of large tectonic plates, which have been slowly moving since 3–4 billion years ago. The model builds on the concept of continental drift, an idea developed during the first decades of the 20th century. Plate tectonics came to be accepted by geoscientists after seafloor spreading was validated in the mid- to late 1960s. The processes that result in plates and shape Earth's crust are called tectonics.

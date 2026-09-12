@@ -1,0 +1,13 @@
+# Building services engineering
+
+Building services engineering (BSE) is the professional engineering discipline that designs the mechanical, electrical, and plumbing systems inside a building so occupants get a safe, comfortable indoor environment while the building's environmental impact is minimised. It is the engineering half of facilities management and overlaps with utility engineering, supply engineering, and architectural engineering, all of which sit inside civil engineering.
+
+BSE groups four professional areas. **Mechanical, electrical, and plumbing (MEP)** is the catch-all label for the engineered systems that make a building function. **HVAC** (heating, ventilation, and air conditioning) and building-related sanitary engineering cover climate control, fresh-air distribution, and water and waste systems. **Electrical engineering** for the building includes building automation and telecommunications wiring. **Mechanical engineering** applied to the building covers systems such as elevators.
+
+BSE is closely related to facilities engineering, which focuses on the technical side of commercial and industrial buildings. Facilities engineering and BSE together form the engineering component of the wider facilities management field.
+
+Two professional bodies define the discipline internationally. The American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) was founded in 1894 and sets HVAC standards. The British Chartered Institution of Building Services Engineers (CIBSE) was founded in 1976 and received a Royal Charter in the United Kingdom, the formal recognition that established building services engineering as a profession.
+
+Entry is through an accredited engineering degree in civil, architectural, building services, mechanical, or electrical engineering. A Bachelor of Engineering (BEng) or Bachelor of Science (BSc) typically takes 3–4 years; a Master of Engineering (MEng) takes 4–5 years. In the UK, CIBSE accredits relevant degrees; in the US, ABET does the same.
+
+Day-to-day design relies on software. Whole-building energy simulation sizes systems and predicts energy use, while CAD handles drafting. Traditional 2D CAD is being replaced by 3D Building Information Modeling (BIM), which integrates geometry with engineering data. BIM can run MEP calculations directly, such as sizing ventilation ducts or estimating noise levels, and its 3D/4D models allow collision testing, a check that detects physical clashes between a duct and a pipe before construction begins. These models improve coordination between disciplines and support more informed design decisions.
